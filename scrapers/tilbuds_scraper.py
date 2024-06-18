@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-def get_offers(url):
+def scrape_tilbud(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
 
