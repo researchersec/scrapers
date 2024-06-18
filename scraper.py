@@ -5,6 +5,8 @@ from config_loader import load_config_from_yaml
 from scrapers.jobs_scraper import scrape_jobs
 from scrapers.weather_scraper import scrape_weather
 from scrapers.tvsporten_scraper import scrape_tvsporten
+from scrapers.tilbuds_scraper import scrape_tilbud
+
 
 
 def main():
@@ -15,6 +17,7 @@ def main():
         "configs/region-nordjylland-weather.yml",
         # general
         "configs/tvsporten.yml",
+        "configs/tilbud.xml",
     ]
 
     for config_file in config_files:
@@ -34,6 +37,9 @@ def main():
             elif data_type == "tvsporten":
                 logging.debug(f"Scraping TV sport data from {url}")
                 data = scrape_tvsporten(url)
+            elif data_type == "tilbud":
+                logging.debug(f"Scraping tilbuds data from {url}")
+                data = scrape_tilbud(url)
             else:
                 raise ValueError(f"Unknown data type: {data_type}")
 
