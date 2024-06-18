@@ -1,0 +1,6 @@
+urls:
+  - https://etilbudsavis.dk/soeg/yoggi
+  - https://etilbudsavis.dk/soeg/crusli
+  
+data_type: tilbud
+output_file: tilbud.json
