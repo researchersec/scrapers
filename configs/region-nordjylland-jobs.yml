@@ -1,0 +1,13 @@
+urls:
+  - https://www.jobindex.dk/jobsoegning/it/region-nordjylland
+  - https://www.jobindex.dk/jobsoegning/industri/region-nordjylland
+  - https://www.jobindex.dk/jobsoegning/handel/region-nordjylland
+  - https://www.jobindex.dk/jobsoegning/ledelse/region-nordjylland
+  - https://www.jobindex.dk/jobsoegning/undervisning/region-nordjylland
+  - https://www.jobindex.dk/jobsoegning/social/region-nordjylland
+  - https://www.jobindex.dk/jobsoegning/ingenioer/region-nordjylland
+  - https://www.jobindex.dk/jobsoegning/salg/region-nordjylland
+  - https://www.jobindex.dk/jobsoegning/kontor/region-nordjylland
+  - https://www.jobindex.dk/jobsoegning/oevrige/region-nordjylland
+data_type: jobs
+output_file: region-nordjylland.jobs.json
