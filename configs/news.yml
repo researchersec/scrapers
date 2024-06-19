@@ -1,0 +1,7 @@
+urls:
+  - https://www.dr.dk/nyheder/service/feeds/regionale/nord
+  - https://www.tv2nord.dk/rss
+  - https://nordjyske.dk/rss/nyheder
+  
+data_type: news
+output_file: news.json
