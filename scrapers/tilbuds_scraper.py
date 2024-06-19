@@ -2,12 +2,15 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
+
 def scrape_tilbud(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
 
-    offer_items = soup.find_all("li", class_="OfferList__OfferListItem-sc-bj82vg-1 eBZAOf")
-    offers = []
+    offer_items = soup.find_all(
+        "li", class_="OfferList__OfferListItem-sc-bj82vg-1 eBZAOf"
+    )
+    tilbud = []
 
     for item in offer_items:
         link = item.find("a")["href"]  # Changed from "link" to "a"
@@ -16,10 +19,14 @@ def scrape_tilbud(url):
         valid_from = item.find("meta", itemprop="validFrom")["content"]
         valid_until = item.find("meta", itemprop="validThrough")["content"]
 
-        valid_from = datetime.strptime(valid_from, "%Y-%m-%dT%H:%M:%S.%fZ").strftime("%d-%m-%Y")
-        valid_until = datetime.strptime(valid_until, "%Y-%m-%dT%H:%M:%S.%fZ").strftime("%d-%m-%Y")
+        valid_from = datetime.strptime(valid_from, "%Y-%m-%dT%H:%M:%S.%fZ").strftime(
+            "%d-%m-%Y"
+        )
+        valid_until = datetime.strptime(valid_until, "%Y-%m-%dT%H:%M:%S.%fZ").strftime(
+            "%d-%m-%Y"
+        )
 
-        offers.append(
+        tilbud.append(
             {
                 "link": link,
                 "price": price,
@@ -28,5 +35,5 @@ def scrape_tilbud(url):
                 "valid_until": valid_until,
             }
         )
-    
-    return offers
+
+    return tilbud

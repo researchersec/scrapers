@@ -1,6 +1,7 @@
 urls:
   - https://etilbudsavis.dk/soeg/yoggi
   - https://etilbudsavis.dk/soeg/crusli
+  - https://etilbudsavis.dk/soeg/tuborg-classic
   
 data_type: tilbud
 output_file: tilbud.json

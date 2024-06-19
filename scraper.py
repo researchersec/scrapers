@@ -8,7 +8,6 @@ from scrapers.tvsporten_scraper import scrape_tvsporten
 from scrapers.tilbuds_scraper import scrape_tilbud
 
 
-
 def main():
     logging.basicConfig(level=logging.DEBUG)
     config_files = [
@@ -17,7 +16,7 @@ def main():
         "configs/region-nordjylland-weather.yml",
         # general
         "configs/tvsporten.yml",
-        "configs/tilbud.xml",
+        "configs/tilbud.yml",
     ]
 
     for config_file in config_files:
