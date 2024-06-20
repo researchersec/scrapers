@@ -12,10 +12,8 @@ from scrapers.news_scraper import scrape_news
 def main():
     logging.basicConfig(level=logging.DEBUG)
     config_files = [
-        # region specific
-        "configs/region-nordjylland-jobs.yml",
-        "configs/region-nordjylland-weather.yml",
-        # general
+        "configs/jobs.yml",
+        "configs/weather.yml",
         "configs/tvsporten.yml",
         "configs/tilbud.yml",
         "configs/news.yml",
