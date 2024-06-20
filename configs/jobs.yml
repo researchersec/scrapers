@@ -10,4 +10,4 @@ urls:
   - https://www.jobindex.dk/jobsoegning/kontor/region-nordjylland
   - https://www.jobindex.dk/jobsoegning/oevrige/region-nordjylland
 data_type: jobs
-output_file: region-nordjylland.jobs.json
+output_file: jobs.json
