@@ -194,6 +194,7 @@ function createOfferCard(item) {
 
     const cardImg = document.createElement('img');
     cardImg.className = 'card-img-top';
+    cardImg.style = 'width:100px;';
     cardImg.src = item.image;
     cardImg.alt = 'Offer Image';
 
