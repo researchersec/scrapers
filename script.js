@@ -143,7 +143,6 @@ function createJobCard(item) {
 
     card.appendChild(cardBody);
     card.appendChild(cardFooter);
-
     col.appendChild(card);
 
     return col;
