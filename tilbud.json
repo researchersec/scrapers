@@ -21,6 +21,13 @@
   "valid_until": "22-06-2024"
  },
  {
+  "link": "/Bilka/tilbud/To-go-marked~o:BD9Q33xYcyZnejp5SqPfk",
+  "price": "8.00",
+  "currency": "DKK",
+  "valid_from": "20-06-2024",
+  "valid_until": "27-06-2024"
+ },
+ {
   "link": "/SPAR/tilbud/Quaker-Cruesli~o:33cnnFwvYAWEbUPhZqatJ",
   "price": "30.00",
   "currency": "DKK",
@@ -35,7 +42,7 @@
   "valid_until": "04-07-2024"
  },
  {
-  "link": "/fotex/tilbud/Ol-marked~o:16Rbj4TgkCcEmMKDgYOyd",
+  "link": "/fotex/tilbud/Ol-marked~o:32bIc4Laf345ZYingz0ns",
   "price": "99.00",
   "currency": "DKK",
   "valid_from": "20-06-2024",
@@ -49,11 +56,11 @@
   "valid_until": "22-06-2024"
  },
  {
-  "link": "/SPAR/tilbud/Gron-Tuborg-eller-Tuborg-Classic~o:x16RZz8fnPhiHmbIOp6sV",
-  "price": "69.00",
+  "link": "/Bilka/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg~o:MViMohCbnOriSzn9t8HvP",
+  "price": "105.00",
   "currency": "DKK",
-  "valid_from": "31-05-2024",
-  "valid_until": "30-06-2024"
+  "valid_from": "20-06-2024",
+  "valid_until": "27-06-2024"
  },
  {
   "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:qWLnE6GjveEfnJONBBww6",
@@ -61,6 +68,13 @@
   "currency": "DKK",
   "valid_from": "14-06-2024",
   "valid_until": "21-06-2024"
+ },
+ {
+  "link": "/SPAR/tilbud/Gron-Tuborg-eller-Tuborg-Classic~o:x16RZz8fnPhiHmbIOp6sV",
+  "price": "69.00",
+  "currency": "DKK",
+  "valid_from": "31-05-2024",
+  "valid_until": "30-06-2024"
  },
  {
   "link": "/Min-Kobmand/tilbud/Gron-Tuborg-eller-Tuborg-Classic~o:pA_pO3W5PZsDj_GV5bqmg",
@@ -82,13 +96,6 @@
   "currency": "DKK",
   "valid_from": "15-06-2024",
   "valid_until": "22-06-2024"
- },
- {
-  "link": "/Bilka/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg~o:MViMohCbnOriSzn9t8HvP",
-  "price": "105.00",
-  "currency": "DKK",
-  "valid_from": "20-06-2024",
-  "valid_until": "27-06-2024"
  },
  {
   "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:IFyY02j2k69eboHAkg4u_",
