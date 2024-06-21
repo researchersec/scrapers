@@ -134,12 +134,18 @@ function createJobCard(item) {
     cardText.className = 'card-text';
     cardText.textContent = item.description;
 
+    const cardLink = document.createElement('a');
+    cardLink.className = 'btn btn-primary';
+    cardLink.href = item.job_URL;
+    cardLink.textContent = 'Read more';
+
     const cardFooter = document.createElement('div');
     cardFooter.className = 'card-footer';
     cardFooter.innerHTML = `<small class="text-muted">Location: ${item.location}</small><br><small class="text-muted">Posted: ${item.pub_date}</small>`;
 
     cardBody.appendChild(cardTitle);
     cardBody.appendChild(cardText);
+    cardBody.appendChild(cardLink)
 
     card.appendChild(cardBody);
     card.appendChild(cardFooter);
