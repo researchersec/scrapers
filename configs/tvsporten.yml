@@ -1,4 +1,4 @@
 urls:
   - https://www.tvsporten.dk
 data_type: tvsporten
-output_file: tvsporten.matches.json
+output_file: tvsporten.json
