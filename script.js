@@ -192,6 +192,11 @@ function createOfferCard(item) {
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
 
+    const cardImg = document.createElement('img');
+    cardImg.className = 'card-img-top';
+    cardImg.src = item.image;
+    cardImg.alt = 'Offer Image';
+
     const cardTitle = document.createElement('h5');
     cardTitle.className = 'card-title';
     cardTitle.textContent = item.title;
@@ -209,9 +214,11 @@ function createOfferCard(item) {
     cardBody.appendChild(cardText);
     cardBody.appendChild(cardLink);
 
+    card.appendChild(cardImg);
     card.appendChild(cardBody);
 
     col.appendChild(card);
 
     return col;
 }
+
