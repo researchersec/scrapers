@@ -175,8 +175,24 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2024%2F04%2F30%2F1714467903_20220619-180801-l-1920x1012we.jpg&w=1200"
  },
  {
+  "title": "Se video: Så er der stegt lama på menuen!",
+  "description": "Hjørring Dyrskue er i gang. En af dagens mere bizarre attraktioner er en lama, der bliver stegt over bål. Se nærmere i videoen her.",
+  "link": "https://www.tv2nord.dk/hjoerring/se-video-saa-er-der-stegt-lama-paa-menuen",
+  "published": "Fri, 21 Jun 2024 14:58:26 +0200",
+  "guid": "a4ba0829-100c-4852-9c94-3faf0b09706d",
+  "category": "Kultur"
+ },
+ {
+  "title": "&#039;De 5 fra Sæby&#039; har en plan: Vil skabe musikfestival ved lukket slagteri",
+  "description": "Galt eller genialt? En musikfestival på det tomme slagteri-område i Sæby?",
+  "link": "https://www.tv2nord.dk/frederikshavn/de-5-fra-saeby-har-en-plan-vil-skabe-musikfestival-ved-lukket-slagteri",
+  "published": "Fri, 21 Jun 2024 15:29:46 +0200",
+  "guid": "c8a1005e-d956-40a6-a882-6b50d199e432",
+  "category": "Kultur"
+ },
+ {
   "title": "Her er Mikkel Hansens afløser",
-  "description": "Opdateres...",
+  "description": "Du kan se et eksklusivt interview med den nye spiller på TV2 Nords hjemmeside senere i dag.",
   "link": "https://www.tv2nord.dk/aalborg/her-er-mikkel-hansens-afloeser",
   "published": "Fri, 21 Jun 2024 13:59:02 +0200",
   "guid": "15fa0f08-18f7-4ee6-91bc-ba145960b2d8",
@@ -559,22 +575,6 @@
   "category": "Politik"
  },
  {
-  "title": "Pirates henter amerikansk brødrepar",
-  "description": "",
-  "link": "https://www.tv2nord.dk/aalborg/pirates-henter-amerikansk-broedrepar",
-  "published": "Wed, 19 Jun 2024 14:08:36 +0200",
-  "guid": "31a7cad1-e1ec-4e5f-9ebf-0fe5d476239c",
-  "category": "Sport"
- },
- {
-  "title": "Journalister i krise-eksperiment: Spændte på &#039;klam&#039; dåsemad",
-  "description": "Så er eksperimentet skudt i gang.",
-  "link": "https://www.tv2nord.dk/nordjylland/journalister-i-krise-eksperiment-spaendte-paa-klam-daasemad",
-  "published": "Wed, 19 Jun 2024 13:39:59 +0200",
-  "guid": "156c1432-804e-48c7-b250-e9459e4e1fc4",
-  "category": "Samfund"
- },
- {
   "title": "Indkalder til møde om skandaleramt supersygehus: Handler om den største risiko",
   "description": "Der er risiko for at både budget- og tidsplanen bliver påvirket",
   "link": "https://nordjyske.dk/nyheder/nordjylland/indkalder-til-pressemoede-om-skandaleramt-supersygehus/5125715?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -591,14 +591,6 @@
   "category": "Aalborg Håndbold"
  },
  {
-  "title": "Badehotel og kendt kok slår sig sammen",
-  "description": "Nordjysk badehotel i nyt samarbejde med to kokke - en af dem er lidt af en kendis",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/nyt-samarbejde-med-kendt-kok-malene-vil-skrue-op-for-bryllupper-paa-sit-badehotel/5124809?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 21 Jun 2024 09:27:51 Z",
-  "guid": "53fa46b8-5a35-4534-92be-08abde664786",
-  "category": "Hotelbranchen"
- },
- {
   "title": "Bygningerne er \"helt smadrede\". Carsten har betalt 47 millioner kroner",
   "description": "Om få dage forsvinder de sidste heste fra John Byrialsens krakkede stutteri. Ny ejer af fire ejendomme har andre planer",
   "link": "https://nordjyske.dk/nyheder/erhverv/nabo-koeber-fire-ejendomme-fra-skandaleramt-stutteri-alt-er-oedelagt/5119774?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -607,12 +599,12 @@
   "category": "Erhverv"
  },
  {
-  "title": "49-årig mand dømt for gentagne tilfælde af stalking",
-  "description": "Da retten afsagde dom, blev der lagt vægt på, at den skyldige flere gange er dømt for lignende forhold",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/49-aarig-mand-doemt-for-gentagne-tilfaelde-af-stalking/5125847?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 21 Jun 2024 11:38:36 Z",
-  "guid": "d3847bb4-bfad-4707-a35e-7aa3c547655c",
-  "category": "Retssager"
+  "title": "Badehotel og kendt kok slår sig sammen",
+  "description": "Nordjysk badehotel i nyt samarbejde med to kokke - en af dem er lidt af en kendis",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/nyt-samarbejde-med-kendt-kok-malene-vil-skrue-op-for-bryllupper-paa-sit-badehotel/5124809?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 21 Jun 2024 09:27:51 Z",
+  "guid": "53fa46b8-5a35-4534-92be-08abde664786",
+  "category": "Hotelbranchen"
  },
  {
   "title": "Da Lene spurgte p-vagt om hjælp, havde han ikke tid: Senere lå der tre bøder i forruderne",
@@ -623,6 +615,14 @@
   "category": "Parkering"
  },
  {
+  "title": "Fodbolddommer går til politiet: Aldrig sket i min tid",
+  "description": "Serieklub taberdømt og langvarig karantæne til spilleren",
+  "link": "https://nordjyske.dk/nyheder/aalborg/fodbolddommer-anmelder-spiller-efter-overfald/5124629?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 21 Jun 2024 03:41:10 Z",
+  "guid": "857b271c-7f4e-46c1-b3c1-5f55826e5f72",
+  "category": "Kriminalitet"
+ },
+ {
   "title": "Egyptisk hotelkonge og ejer af Helnan Phønix Hotel er død",
   "description": "Enan Raouf El-Galaly kom fra Kairo til Danmark som opvasker og døde som ejer af en større hotelkæde.",
   "link": "https://nordjyske.dk/nyheder/danmark/egyptisk-hotelkonge-og-ridder-af-dannebrog-er-doed/5124676?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -631,20 +631,20 @@
   "category": "Navne"
  },
  {
-  "title": "Bil brød i brand på motorvej",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/bil-broed-i-brand-paa-motorvej/5125529?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 21 Jun 2024 09:46:42 Z",
-  "guid": "cd047487-53fb-402c-9bff-b870954a7641",
-  "category": "Ildebrand"
+  "title": "49-årig mand dømt for gentagne tilfælde af stalking",
+  "description": "Da retten afsagde dom, blev der lagt vægt på, at den skyldige flere gange er dømt for lignende forhold",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/49-aarig-mand-doemt-for-gentagne-tilfaelde-af-stalking/5125847?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 21 Jun 2024 11:38:36 Z",
+  "guid": "d3847bb4-bfad-4707-a35e-7aa3c547655c",
+  "category": "Retssager"
  },
  {
-  "title": "Fodbolddommer går til politiet: Aldrig sket i min tid",
-  "description": "Serieklub taberdømt og langvarig karantæne til spilleren",
-  "link": "https://nordjyske.dk/nyheder/aalborg/fodbolddommer-anmelder-spiller-efter-overfald/5124629?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 21 Jun 2024 03:41:10 Z",
-  "guid": "857b271c-7f4e-46c1-b3c1-5f55826e5f72",
-  "category": "Kriminalitet"
+  "title": "DMI melder ud om weekendvejret - også til Sankt Hans",
+  "description": "Dog bliver det lidt køligt op ad søndagen",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/foerst-risiko-for-skybrud-derefter-blaesende-sankthansaften/5124932?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 21 Jun 2024 04:40:20 Z",
+  "guid": "5179c6a4-40ef-4d58-a2fa-e21e6eab555b",
+  "category": "Vejret"
  },
  {
   "title": "Dette trick sparer dig benzinpenge på ferieturen",
@@ -671,12 +671,12 @@
   "category": "Bolighandel"
  },
  {
-  "title": "AaB-sportsdirektør: - Vi kan ende med at leje til denne position",
-  "description": "Med trænerteamet omkring superligaholdet på plads rettes blikket nu mod transfermarkedet, hvor AaB fortsat har en del spørgsmål",
-  "link": "https://nordjyske.dk/nyheder/sport/aab-chef-overvejer-disse-muligheder-til-sommerens-transfervindue/5124448?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 21 Jun 2024 09:31:00 Z",
-  "guid": "40c6d46c-16a9-4f16-83ee-02d45289daa9",
-  "category": "AaB"
+  "title": "Bil brød i brand på motorvej",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/bil-broed-i-brand-paa-motorvej/5125529?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 21 Jun 2024 09:46:42 Z",
+  "guid": "cd047487-53fb-402c-9bff-b870954a7641",
+  "category": "Ildebrand"
  },
  {
   "title": "Dræbersnegle er alle steder. Sådan slipper du nemt af med dem",
@@ -687,12 +687,12 @@
   "category": "Haven"
  },
  {
-  "title": "Frustreret læser: Alt, jeg møder fra politikerne, er rungende tavshed",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/laeserbrev/frustreret-laeser-alt-jeg-moeder-fra-politikerne-er-rungende-tavshed/5123408?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 21 Jun 2024 10:57:04 Z",
-  "guid": "4c0e0566-3f21-4fa9-a867-83f341dbec65",
-  "category": "Debat"
+  "title": "AaB-sportsdirektør: - Vi kan ende med at leje til denne position",
+  "description": "Med trænerteamet omkring superligaholdet på plads rettes blikket nu mod transfermarkedet, hvor AaB fortsat har en del spørgsmål",
+  "link": "https://nordjyske.dk/nyheder/sport/aab-chef-overvejer-disse-muligheder-til-sommerens-transfervindue/5124448?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 21 Jun 2024 09:31:00 Z",
+  "guid": "40c6d46c-16a9-4f16-83ee-02d45289daa9",
+  "category": "AaB"
  },
  {
   "title": "Gik konkurs med et brag: Søskendepar har gjort krav på 157 mio. kr.",
@@ -703,12 +703,12 @@
   "category": "Erhverv"
  },
  {
-  "title": "Bil ramte lastbil, rullede rundt og røg i grøften",
-  "description": "Vej kortvarigt spærret uden at det gav de store trafikale problemer",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/bil-ramte-lastbil-og-roeg-i-groeften/5125261?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 21 Jun 2024 08:08:25 Z",
-  "guid": "a737df3b-866c-47c0-a3e2-ab07ec6bae85",
-  "category": "Færdselsuheld"
+  "title": "Frustreret læser: Alt, jeg møder fra politikerne, er rungende tavshed",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/laeserbrev/frustreret-laeser-alt-jeg-moeder-fra-politikerne-er-rungende-tavshed/5123408?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 21 Jun 2024 10:57:04 Z",
+  "guid": "4c0e0566-3f21-4fa9-a867-83f341dbec65",
+  "category": "Debat"
  },
  {
   "title": "Familie med kritik af mangel på pladser i dagpleje og institutioner. Vil man ikke være attraktiv for børnefamilier?",
@@ -719,12 +719,12 @@
   "category": "samfund"
  },
  {
-  "title": "DMI melder ud om weekendvejret - også til Sankt Hans",
-  "description": "Dog bliver det lidt køligt op ad søndagen",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/foerst-risiko-for-skybrud-derefter-blaesende-sankthansaften/5124932?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 21 Jun 2024 04:40:20 Z",
-  "guid": "5179c6a4-40ef-4d58-a2fa-e21e6eab555b",
-  "category": "Vejret"
+  "title": "Bil ramte lastbil, rullede rundt og røg i grøften",
+  "description": "Vej kortvarigt spærret uden at det gav de store trafikale problemer",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/bil-ramte-lastbil-og-roeg-i-groeften/5125261?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 21 Jun 2024 08:08:25 Z",
+  "guid": "a737df3b-866c-47c0-a3e2-ab07ec6bae85",
+  "category": "Færdselsuheld"
  },
  {
   "title": "Han var en af Lynge Jakobsens største støtter. Portræt af en særlig AaB’er, der ikke vil medvirke",
