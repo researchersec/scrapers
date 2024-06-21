@@ -36,7 +36,7 @@ function fetchWeatherData() {
 }
 
 function fetchOffersData() {
-    axios.get('offers.json')
+    axios.get('tilbud.json')
         .then(response => {
             displayOfferItems(response.data);
         })
@@ -136,7 +136,7 @@ function createJobCard(item) {
 
     const cardFooter = document.createElement('div');
     cardFooter.className = 'card-footer';
-    cardFooter.innerHTML = `<small class="text-muted">Location: ${item.location}</small><br><small class="text-muted">Posted: ${item.posted}</small>`;
+    cardFooter.innerHTML = `<small class="text-muted">Location: ${item.location}</small><br><small class="text-muted">Posted: ${item.pub_date}</small>`;
 
     cardBody.appendChild(cardTitle);
     cardBody.appendChild(cardText);
