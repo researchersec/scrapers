@@ -1,129 +1,25 @@
 [
  {
-  "match": "Polen - Østrig",
-  "category": "EM i fodbold - Herrrer",
-  "time": "18:00",
-  "date": "2024-06-21",
+  "match": "SailGP: New York (USA)",
+  "category": "SailGP",
+  "time": "22:30",
+  "date": "2024-06-23",
   "channels": [
    {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
    }
   ]
  },
  {
-  "match": "Championship League Snooker",
-  "category": "Championship League Snooker",
-  "time": "18:00",
-  "date": "2024-06-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Royal Ascot - Dag 4",
-  "category": "Hestesport",
-  "time": "18:05",
-  "date": "2024-06-21",
+  "match": "USA – Bolivia",
+  "category": "Copa America",
+  "time": "23:50",
+  "date": "2024-06-23",
   "channels": [
    {
     "name": "TV3 Sport",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Spaniens Grand Prix",
-  "category": "F1 Academy",
-  "time": "18:25",
-  "date": "2024-06-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Ridebanespringning",
-  "category": "League of Nations",
-  "time": "18:45",
-  "date": "2024-06-21",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "European Darts Open - Dag 1",
-  "category": "European Tour",
-  "time": "19:00",
-  "date": "2024-06-21",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "PGA - Travelers Championship",
-  "category": "PGA",
-  "time": "21:00",
-  "date": "2024-06-21",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   }
-  ]
- },
- {
-  "match": "Holland – Frankrig",
-  "category": "EM i fodbold - Herrrer",
-  "time": "21:00",
-  "date": "2024-06-21",
-  "channels": [
-   {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   }
-  ]
- },
- {
-  "match": "KPMG Women’s PGA Championship - Dag 2",
-  "category": "PGA",
-  "time": "22:00",
-  "date": "2024-06-21",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
    },
    {
     "name": "Viaplay.dk",
