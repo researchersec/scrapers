@@ -141,7 +141,7 @@ function createJobCard(item) {
 
     const cardFooter = document.createElement('div');
     cardFooter.className = 'card-footer';
-    cardFooter.innerHTML = `<small class="text-muted">Location: ${item.location}</small><br><small class="text-muted">Posted: ${item.pub_date}</small>`;
+    cardFooter.innerHTML = ` <small>${item.company}</small><small class="text-muted">Location: ${item.location}</small><br><small class="text-muted">Posted: ${item.pub_date}</small>`;
 
     cardBody.appendChild(cardTitle);
     cardBody.appendChild(cardText);
