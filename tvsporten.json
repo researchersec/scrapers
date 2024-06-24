@@ -1,9 +1,33 @@
 [
  {
-  "match": "SailGP: New York (USA)",
-  "category": "SailGP",
-  "time": "22:30",
-  "date": "2024-06-23",
+  "match": "ATP 250 Mallorca: 3. kampe",
+  "category": "ATP",
+  "time": "13:00",
+  "date": "2024-06-24",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Championship League Snooker",
+  "category": "Championship League Snooker",
+  "time": "13:00",
+  "date": "2024-06-24",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Wozniacki🇩🇰 - Svitolina",
+  "category": "WTA",
+  "time": "17:00",
+  "date": "2024-06-24",
   "channels": [
    {
     "name": "TV2 Sport",
@@ -12,15 +36,79 @@
   ]
  },
  {
-  "match": "USA – Bolivia",
-  "category": "Copa America",
-  "time": "23:50",
-  "date": "2024-06-23",
+  "match": "Championship League Snooker",
+  "category": "Championship League Snooker",
+  "time": "18:00",
+  "date": "2024-06-24",
   "channels": [
    {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Norrköping - Brommapojkarna",
+  "category": "Damallsvenskan",
+  "time": "18:50",
+  "date": "2024-06-24",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Speedway British Championship",
+  "category": "FIM Speedway",
+  "time": "20:30",
+  "date": "2024-06-24",
+  "channels": [
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Albanien – Spanien",
+  "category": "EM i fodbold - Herrrer",
+  "time": "21:00",
+  "date": "2024-06-24",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
    },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Kroatien – Italien",
+  "category": "EM i fodbold - Herrrer",
+  "time": "21:00",
+  "date": "2024-06-24",
+  "channels": [
+   {
+    "name": "DR 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Colombia – Paraguay",
+  "category": "Copa America",
+  "time": "23:50",
+  "date": "2024-06-24",
+  "channels": [
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
