@@ -48,6 +48,18 @@
   ]
  },
  {
+  "match": "Wozniacki - Svitolina",
+  "category": "WTA",
+  "time": "13:00",
+  "date": "2024-06-25",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
+   }
+  ]
+ },
+ {
   "match": "ATP 250 Mallorca: 3. kampe",
   "category": "ATP",
   "time": "13:00",
@@ -56,6 +68,54 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Nederlandene - Schweiz",
+  "category": "Håndbold: Junior-VM (k)",
+  "time": "13:25",
+  "date": "2024-06-25",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Ungarn - Danmark",
+  "category": "Håndbold: Junior-VM (k)",
+  "time": "13:25",
+  "date": "2024-06-25",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sydkorea  - Norge",
+  "category": "Håndbold: Junior-VM (k)",
+  "time": "15:40",
+  "date": "2024-06-25",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sverige  - Frankrig",
+  "category": "Håndbold: Junior-VM (k)",
+  "time": "17:55",
+  "date": "2024-06-25",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
@@ -141,22 +201,6 @@
   "time": "23:50",
   "date": "2024-06-25",
   "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Chile – Argentina",
-  "category": "Copa America",
-  "time": "02:50",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"

@@ -80,20 +80,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnRwcSp70%2Fp-11.webp&w=100&x1r=0.2379&x2r=0.9279&y1r=0.2466&y2r=0.6831&s=68f333e1c212f7860dbfd70a05fe113c"
  },
  {
-  "link": "/SuperBrugsen/tilbud/Carlsberg-Nordic-eller-Tuborg-alkoholfri~o:nQDn78gqlSAbUWxbpHiB6",
-  "price": "34.00",
-  "currency": "DKK",
-  "valid_from": "20-06-2024",
-  "valid_until": "04-07-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4X6RnQTK%2Fp-4.webp&w=100&x1r=0.0106&x2r=0.4176&y1r=0.3045&y2r=0.5549&s=d5dbf8b3086c225ad1915a4fd406ab58"
- },
- {
   "link": "/SuperBrugsen/tilbud/1664-Grimbergen-Carlsberg-eller-Tuborg~o:8h-FCw8mytfg7ifJ_BxJ5",
   "price": "108.00",
   "currency": "DKK",
   "valid_from": "20-06-2024",
   "valid_until": "04-07-2024",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4X6RnQTK%2Fp-28.webp&w=100&x1r=0.6066&x2r=0.99&y1r=0.0269&y2r=0.4895&s=94cb9f76eb048b07eefd457bb63597ed"
+ },
+ {
+  "link": "/SuperBrugsen/tilbud/Carlsberg-Nordic-eller-Tuborg-alkoholfri~o:nQDn78gqlSAbUWxbpHiB6",
+  "price": "34.00",
+  "currency": "DKK",
+  "valid_from": "20-06-2024",
+  "valid_until": "04-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4X6RnQTK%2Fp-4.webp&w=100&x1r=0.0106&x2r=0.4176&y1r=0.3045&y2r=0.5549&s=d5dbf8b3086c225ad1915a4fd406ab58"
  },
  {
   "link": "/Brugsen/tilbud/Carlsberg-eller-Tuborg-30-stk.-kasse~o:XtNlmgU4Z5P1bHWBOp-zd",
@@ -104,11 +104,11 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FW6gTWOc0%2Fp-18.webp&w=100&x1r=0.0312&x2r=0.9918&y1r=0.0156&y2r=0.3&s=99f16d3fcff485a726b0a9f17fb21e4a"
  },
  {
-  "link": "/Kvickly/tilbud/Carlsberg-Nordic-eller-Tuborg-alkoholfri~o:XxeeNj7UEi6XzkqVsUVST",
-  "price": "34.00",
+  "link": "/Kvickly/tilbud/1664-Grimbergen-Carlsberg-eller-Tuborg~o:QkmSalJBHzNNR5g3gtcZg",
+  "price": "108.00",
   "currency": "DKK",
   "valid_from": "20-06-2024",
   "valid_until": "04-07-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-GO_3Rx4%2Fp-4.webp&w=100&x1r=0.0106&x2r=0.4176&y1r=0.3045&y2r=0.5549&s=11b22420e3d691c2a132b767d74ae604"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-GO_3Rx4%2Fp-28.webp&w=100&x1r=0.6066&x2r=0.99&y1r=0.0269&y2r=0.4895&s=508a5356342901845611ccd016a4c87b"
  }
 ]
