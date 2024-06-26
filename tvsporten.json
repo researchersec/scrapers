@@ -1,45 +1,9 @@
 [
  {
-  "match": "WTA 500 Bad Homburg: 4. kampe",
-  "category": "WTA",
-  "time": "12:00",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Eastbourne: 4. kampe",
-  "category": "ATP",
-  "time": "12:00",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "WTA 500 Eastbourne: 4. kampe",
-  "category": "WTA",
-  "time": "12:00",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
   "match": "Championship League Snooker",
   "category": "Championship League Snooker",
   "time": "13:00",
-  "date": "2024-06-25",
+  "date": "2024-06-26",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -48,10 +12,34 @@
   ]
  },
  {
-  "match": "Wozniacki - Svitolina",
-  "category": "WTA",
+  "match": "ATP 250 Mallorca: 3. kampe",
+  "category": "ATP",
   "time": "13:00",
-  "date": "2024-06-25",
+  "date": "2024-06-26",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
+  "match": "ATP 500 London: Finale",
+  "category": "ATP",
+  "time": "15:00",
+  "date": "2024-06-26",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Wozniacki 🇩🇰- Kudermetova",
+  "category": "WTA",
+  "time": "16:00",
+  "date": "2024-06-26",
   "channels": [
    {
     "name": "TV2 Sport",
@@ -60,102 +48,10 @@
   ]
  },
  {
-  "match": "ATP 250 Mallorca: 3. kampe",
-  "category": "ATP",
-  "time": "13:00",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Nederlandene - Schweiz",
-  "category": "Håndbold: Junior-VM (k)",
-  "time": "13:25",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Ungarn - Danmark",
-  "category": "Håndbold: Junior-VM (k)",
-  "time": "13:25",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Sydkorea  - Norge",
-  "category": "Håndbold: Junior-VM (k)",
-  "time": "15:40",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Sverige  - Frankrig",
-  "category": "Håndbold: Junior-VM (k)",
-  "time": "17:55",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Holland – Østrig",
-  "category": "EM i fodbold - Herrrer",
-  "time": "18:00",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   }
-  ]
- },
- {
-  "match": "Frankrig – Polen",
-  "category": "EM i fodbold - Herrrer",
-  "time": "18:00",
-  "date": "2024-06-25",
-  "channels": [
-   {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   }
-  ]
- },
- {
   "match": "Championship League Snooker",
   "category": "Championship League Snooker",
   "time": "18:00",
-  "date": "2024-06-25",
+  "date": "2024-06-26",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -164,46 +60,94 @@
   ]
  },
  {
-  "match": "Danmark🇩🇰 – Serbien",
+  "match": "Slovakiet – Rumænien",
   "category": "EM i fodbold - Herrrer",
-  "time": "21:00",
-  "date": "2024-06-25",
+  "time": "18:00",
+  "date": "2024-06-26",
   "channels": [
    {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
    }
   ]
  },
  {
-  "match": "England – Slovenien",
+  "match": "Ukraine – Belgien",
   "category": "EM i fodbold - Herrrer",
-  "time": "21:00",
-  "date": "2024-06-25",
+  "time": "18:00",
+  "date": "2024-06-26",
   "channels": [
    {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.jpg"
    },
    {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
    }
   ]
  },
  {
-  "match": "Peru – Canada",
-  "category": "Copa America",
-  "time": "23:50",
-  "date": "2024-06-25",
+  "match": "Slovakiet Rundt 1.etape",
+  "category": "UCI World Tour",
+  "time": "18:30",
+  "date": "2024-06-26",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Trelleborg - Rosengård",
+  "category": "Damallsvenskan",
+  "time": "19:00",
+  "date": "2024-06-26",
   "channels": [
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "KIF Örebro – BK Häcken",
+  "category": "Damallsvenskan",
+  "time": "19:00",
+  "date": "2024-06-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Georgien – Portugal",
+  "category": "EM i fodbold - Herrrer",
+  "time": "21:00",
+  "date": "2024-06-26",
+  "channels": [
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Tjekkiet – Tyrkiet",
+  "category": "EM i fodbold - Herrrer",
+  "time": "21:00",
+  "date": "2024-06-26",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
    }
   ]
  }

@@ -1,5 +1,21 @@
 [
  {
+  "link": "/Netto/tilbud/Yoggi~o:sPHVvnZJP71pmZe4NT1V6",
+  "price": "14.00",
+  "currency": "DKK",
+  "valid_from": "28-06-2024",
+  "valid_until": "05-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDFL5-Lyo%2Fp-6.webp&w=100&x1r=0.4499&x2r=0.9945&y1r=0.1409&y2r=0.4094&s=bacd68310e1dd36cf7834e9856ee1d90"
+ },
+ {
+  "link": "/REMA-1000/tilbud/Yoggi-yoghurt-Paere-banan-jordbaer-havens-baer-tropisk-eller-kirsebaer-1-kg~o:4mVH4bYQf6FIc6DhSv9wP",
+  "price": "10.00",
+  "currency": "DKK",
+  "valid_from": "29-06-2024",
+  "valid_until": "06-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9uDVTnbR%2Fp-20.webp&w=100&x1r=0.0006&x2r=1&y1r=0&y2r=0.2944&s=c0fd4ff47984c34f2e7f77f49a2715e9"
+ },
+ {
   "link": "/REMA-1000/tilbud/Yoggi-vanilje-eller-appelsin-med-muesli-166-g~o:cfnlhjcgtOViSf2KqcqaT",
   "price": "5.00",
   "currency": "DKK",
@@ -8,12 +24,28 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FUzlnozyX%2Fp-2.webp&w=100&x1r=0.4987&x2r=1&y1r=0.3389&y2r=0.6682&s=4c16fc56629b3636c4f3080e80997eaa"
  },
  {
+  "link": "/MENY/tilbud/YOGGI-YOGHURT~o:XTvJeTChkoiSRqkQ8gv4p",
+  "price": "10.00",
+  "currency": "DKK",
+  "valid_from": "27-06-2024",
+  "valid_until": "04-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fdx2R088o%2Fp-12.webp&w=100&x1r=0.4942&x2r=0.9672&y1r=0.5234&y2r=1&s=6248d71d4833332c7d569f0f60be880f"
+ },
+ {
   "link": "/Min-Kobmand/tilbud/Yoggi-Yoghurt~o:Plr1gy0soPIpkmWt4PYSc",
   "price": "15.00",
   "currency": "DKK",
   "valid_from": "21-06-2024",
   "valid_until": "28-06-2024",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1ln0zzwW%2Fp-4.webp&w=100&x1r=0.0011&x2r=0.408&y1r=0.1695&y2r=0.7641&s=53ecd71263a3251b9902ab40e7adbb93"
+ },
+ {
+  "link": "/Bilka/tilbud/Yoggi-yoghurt~o:phrHZHZwzVUEcH-Zfkom-",
+  "price": "16.00",
+  "currency": "DKK",
+  "valid_from": "27-06-2024",
+  "valid_until": "04-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FghUFtsn1%2Fp-25.webp&w=100&x1r=0.6543&x2r=0.9653&y1r=0.7131&y2r=0.9599&s=ca6e53b48b100fb9a4b2c4f5de52c8a6"
  },
  {
   "link": "/Bilka/tilbud/To-go-marked~o:BD9Q33xYcyZnejp5SqPfk",
@@ -32,20 +64,36 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0mX4KDGf%2Fp-7.webp&w=100&x1r=0.6386&x2r=0.9582&y1r=0.5194&y2r=0.9678&s=6b0f1d1207036e8696ed9f9d438b6b45"
  },
  {
-  "link": "/fotex/tilbud/Carlsberg-Gron-Tuborg-eller-Tuborg-Classic~o:XSrXjEyGeWI2wjFzgU1qh",
+  "link": "/fotex/tilbud/Carlsberg-Gron-Tuborg-eller-Tuborg-Classic~o:kbgQTIJdVgnEGrglplqKn",
   "price": "120.00",
   "currency": "DKK",
   "valid_from": "20-06-2024",
   "valid_until": "04-07-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0RiA83YV%2Fp-38.webp&w=100&x1r=0.4658&x2r=0.9789&y1r=0.6433&y2r=0.9899&s=cc70418186b09b0b13ea265ed83da7c3"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fthcpty_M%2Fp-7.webp&w=100&x1r=0.4658&x2r=0.9789&y1r=0.6433&y2r=0.9899&s=afcfb84ef27d62ce84f5c59bd02a3db5"
  },
  {
-  "link": "/fotex/tilbud/Ol-marked~o:32bIc4Laf345ZYingz0ns",
+  "link": "/fotex/tilbud/Ol-marked~o:16Rbj4TgkCcEmMKDgYOyd",
   "price": "99.00",
   "currency": "DKK",
   "valid_from": "20-06-2024",
   "valid_until": "04-07-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0RiA83YV%2Fp-38.webp&w=100&x1r=0.4662&x2r=0.9796&y1r=0.3507&y2r=0.6686&s=8d94ad9bf1d0df610750f9c5d920ee81"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fthcpty_M%2Fp-7.webp&w=100&x1r=0.4662&x2r=0.9796&y1r=0.3507&y2r=0.6686&s=c9001583969e9a88e2902847a394f191"
+ },
+ {
+  "link": "/Netto/tilbud/Tuborg-ol~o:qJkOr0GxAaDP3IaBgI1jW",
+  "price": "108.00",
+  "currency": "DKK",
+  "valid_from": "28-06-2024",
+  "valid_until": "05-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDFL5-Lyo%2Fp-9.webp&w=100&x1r=0.6476&x2r=0.9956&y1r=0.6779&y2r=0.9813&s=c12ddfda589799fc8a963dd9993fab64"
+ },
+ {
+  "link": "/REMA-1000/tilbud/Tuborg-Sunsaet-okologisk-Gron-Tuborg-eller-Tuborg-classic-33-cl.-Ex.-pant~o:mRlCgfqVXX0gcVCXzSXDi",
+  "price": "5.00",
+  "currency": "DKK",
+  "valid_from": "29-06-2024",
+  "valid_until": "06-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9uDVTnbR%2Fp-9.webp&w=100&x1r=0.0018&x2r=0.5085&y1r=0.7267&y2r=1&s=3eac70595fb269a32ad75a69dc8b9e1a"
  },
  {
   "link": "/Bilka/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg~o:MViMohCbnOriSzn9t8HvP",
@@ -56,12 +104,36 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBQkMNC8k%2Fp-13.webp&w=100&x1r=0.0008&x2r=0.4078&y1r=0.5044&y2r=0.9394&s=c5ed2c8c0a2a004efab95b3185625045"
  },
  {
-  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:IFyY02j2k69eboHAkg4u_",
-  "price": "254.99",
+  "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-CARLSBERG-PILSNER~o:3fp9Nwfh9GoPBKGPy417C",
+  "price": "130.00",
   "currency": "DKK",
-  "valid_from": "28-05-2024",
-  "valid_until": "25-06-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkE3shANJ%2Fp-11.webp&w=100&x1r=0.3826&x2r=0.964&y1r=0&y2r=0.1956&s=d27be0898ebf4789423385aacb3819c7"
+  "valid_from": "27-06-2024",
+  "valid_until": "04-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fdx2R088o%2Fp-26.webp&w=100&x1r=0.5035&x2r=0.9916&y1r=0.717&y2r=0.9904&s=eea47c6e463f757d0f0aa65de9d31d2a"
+ },
+ {
+  "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:k077hMosfijfuay-wrcsA",
+  "price": "130.00",
+  "currency": "DKK",
+  "valid_from": "28-06-2024",
+  "valid_until": "05-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpoFWQjLv%2Fp-14.webp&w=100&x1r=0.4935&x2r=0.9505&y1r=0.6794&y2r=0.9665&s=8806b329cdda3e3d95e3393bfbd7a8bb"
+ },
+ {
+  "link": "/Min-Kobmand/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:cd_lKURiHITN-89f-kpJH",
+  "price": "110.00",
+  "currency": "DKK",
+  "valid_from": "28-06-2024",
+  "valid_until": "05-07-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3fj4bE5y%2Fp-1.webp&w=100&x1r=0.4944&x2r=0.9939&y1r=0.4794&y2r=0.8565&s=e3b2a54b67aedea4e6b45890581e4aa8"
+ },
+ {
+  "link": "/Kobmandsgarden/tilbud/Tuborg-Pilsner-Classic-Rod-Carlsberg-Pilsner-1883~o:I8V6NQXGB2DkwZQbW6AnR",
+  "price": "77.00",
+  "currency": "DKK",
+  "valid_from": "25-06-2024",
+  "valid_until": "13-08-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fz8e4Cg1R%2Fp-3.webp&w=100&x1r=0&x2r=0.9729&y1r=0.0189&y2r=0.9739&s=497f20e9d7e0242e3f973caaff2a1cc7"
  },
  {
   "link": "/CITTI/tilbud/Slots-Pilsner-eller-Classic~o:hjedPiJyqP9t8ySYjvj1g",
@@ -70,45 +142,5 @@
   "valid_from": "25-06-2024",
   "valid_until": "16-07-2024",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FsQ8Lgb5R%2Fp-15.webp&w=100&x1r=0.3821&x2r=0.9638&y1r=0&y2r=0.1955&s=135386296d65a542fa8ba34782c9a663"
- },
- {
-  "link": "/Bilka/tilbud/Olmarked~o:KoixND3dDAE7KBUn0KriI",
-  "price": "99.00",
-  "currency": "DKK",
-  "valid_from": "20-06-2024",
-  "valid_until": "27-06-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnRwcSp70%2Fp-11.webp&w=100&x1r=0.2379&x2r=0.9279&y1r=0.2466&y2r=0.6831&s=68f333e1c212f7860dbfd70a05fe113c"
- },
- {
-  "link": "/SuperBrugsen/tilbud/1664-Grimbergen-Carlsberg-eller-Tuborg~o:8h-FCw8mytfg7ifJ_BxJ5",
-  "price": "108.00",
-  "currency": "DKK",
-  "valid_from": "20-06-2024",
-  "valid_until": "04-07-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4X6RnQTK%2Fp-28.webp&w=100&x1r=0.6066&x2r=0.99&y1r=0.0269&y2r=0.4895&s=94cb9f76eb048b07eefd457bb63597ed"
- },
- {
-  "link": "/SuperBrugsen/tilbud/Carlsberg-Nordic-eller-Tuborg-alkoholfri~o:nQDn78gqlSAbUWxbpHiB6",
-  "price": "34.00",
-  "currency": "DKK",
-  "valid_from": "20-06-2024",
-  "valid_until": "04-07-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4X6RnQTK%2Fp-4.webp&w=100&x1r=0.0106&x2r=0.4176&y1r=0.3045&y2r=0.5549&s=d5dbf8b3086c225ad1915a4fd406ab58"
- },
- {
-  "link": "/Brugsen/tilbud/Carlsberg-eller-Tuborg-30-stk.-kasse~o:XtNlmgU4Z5P1bHWBOp-zd",
-  "price": "130.00",
-  "currency": "DKK",
-  "valid_from": "20-06-2024",
-  "valid_until": "04-07-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FW6gTWOc0%2Fp-18.webp&w=100&x1r=0.0312&x2r=0.9918&y1r=0.0156&y2r=0.3&s=99f16d3fcff485a726b0a9f17fb21e4a"
- },
- {
-  "link": "/Kvickly/tilbud/1664-Grimbergen-Carlsberg-eller-Tuborg~o:QkmSalJBHzNNR5g3gtcZg",
-  "price": "108.00",
-  "currency": "DKK",
-  "valid_from": "20-06-2024",
-  "valid_until": "04-07-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-GO_3Rx4%2Fp-28.webp&w=100&x1r=0.6066&x2r=0.99&y1r=0.0269&y2r=0.4895&s=508a5356342901845611ccd016a4c87b"
  }
 ]
