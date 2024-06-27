@@ -47,6 +47,8 @@ function fetchOffersData() {
 
 function displayNewsItems(newsItems) {
     const newsContainer = document.getElementById('news-container');
+    // Sort news by date, newest first
+    newsItems.sort((a, b) => new Date(b.published) - new Date(a.published));
     newsItems.forEach(item => {
         const newsCard = createNewsCard(item);
         newsContainer.appendChild(newsCard);
@@ -84,7 +86,7 @@ function createNewsCard(item) {
     col.className = 'col-12 col-md-6 col-lg-4 mb-4';
 
     const card = document.createElement('div');
-    card.className = 'card text-white h-100';
+    card.className = 'card text-white bg-dark h-100';
 
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
@@ -123,7 +125,7 @@ function createJobCard(item) {
     col.className = 'col-12 col-md-6 col-lg-4 mb-4';
 
     const card = document.createElement('div');
-    card.className = 'card text-white h-100';
+    card.className = 'card text-white bg-dark h-100';
 
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
@@ -162,7 +164,7 @@ function createWeatherCard(item) {
     col.className = 'col-12 col-md-6 col-lg-4 mb-4';
 
     const card = document.createElement('div');
-    card.className = 'card text-white h-100';
+    card.className = 'card text-white bg-dark h-100';
 
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
@@ -190,7 +192,7 @@ function createOfferCard(item) {
     col.className = 'col-12 col-md-6 col-lg-4 mb-4';
 
     const card = document.createElement('div');
-    card.className = 'card text-white h-100';
+    card.className = 'card text-white bg-dark h-100';
 
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
