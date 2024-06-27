@@ -1,21 +1,5 @@
 [
  {
-  "match": "PGA Tour - Rocket Mortage Classic",
-  "category": "PGA",
-  "time": "21:00",
-  "date": "2024-06-27",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
   "match": "Dow Championship - Dag 1",
   "category": "LPGA",
   "time": "23:00",
