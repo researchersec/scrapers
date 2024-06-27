@@ -37,7 +37,7 @@ function fetchWeatherData() {
 }
 
 function fetchOffersData() {
-    axios.get('offers.json')
+    axios.get('tilbud.json')
         .then(response => {
             displayOfferItems(response.data);
         })
