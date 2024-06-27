@@ -133,24 +133,23 @@ function createJobCard(item) {
 
     const cardText = document.createElement('p');
     cardText.className = 'card-text';
-    cardText.innerHTML = `Company: ${item.company}<br>Location: ${item.location}`;
+    cardText.textContent = item.description;
 
     const cardLink = document.createElement('a');
     cardLink.className = 'btn btn-primary';
     cardLink.href = item.job_URL;
-    cardLink.textContent = 'View job';
+    cardLink.textContent = 'Read more';
 
     const cardFooter = document.createElement('div');
     cardFooter.className = 'card-footer';
-    cardFooter.innerHTML = `<small class="text-muted">Posted: ${item.pub_date}</small><br><small class="text-muted">Category: ${item.category}</small>`;
+    cardFooter.innerHTML = `<small class="text-muted">${item.company}</small><br><small class="text-muted">Location: ${item.location}</small><br><small class="text-muted">Posted: ${item.pub_date}</small>`;
 
     cardBody.appendChild(cardTitle);
     cardBody.appendChild(cardText);
-    cardBody.appendChild(cardLink);
+    cardBody.appendChild(cardLink)
 
     card.appendChild(cardBody);
     card.appendChild(cardFooter);
-
     col.appendChild(card);
 
     return col;
@@ -194,6 +193,12 @@ function createOfferCard(item) {
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
 
+    const cardImg = document.createElement('img');
+    cardImg.className = 'card-img-top';
+    cardImg.style = 'width:100px;';
+    cardImg.src = item.image;
+    cardImg.alt = 'Offer Image';
+
     const cardTitle = document.createElement('h5');
     cardTitle.className = 'card-title';
     cardTitle.textContent = item.title;
@@ -211,6 +216,7 @@ function createOfferCard(item) {
     cardBody.appendChild(cardText);
     cardBody.appendChild(cardLink);
 
+    card.appendChild(cardImg);
     card.appendChild(cardBody);
 
     col.appendChild(card);
