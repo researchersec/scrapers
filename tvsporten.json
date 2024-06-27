@@ -1,97 +1,9 @@
 [
  {
-  "match": "Championship League Snooker",
-  "category": "Championship League Snooker",
-  "time": "13:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Mallorca: 3. kampe",
-  "category": "ATP",
-  "time": "13:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "ATP 500 London: Finale",
-  "category": "ATP",
-  "time": "15:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "Wozniacki 🇩🇰- Kudermetova",
-  "category": "WTA",
-  "time": "16:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "Championship League Snooker",
-  "category": "Championship League Snooker",
-  "time": "18:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Slovakiet – Rumænien",
-  "category": "EM i fodbold - Herrrer",
-  "time": "18:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "Ukraine – Belgien",
-  "category": "EM i fodbold - Herrrer",
-  "time": "18:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "TV2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.jpg"
-   },
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "Slovakiet Rundt 1.etape",
+  "match": "Slovakiet Rundt 2.etape",
   "category": "UCI World Tour",
-  "time": "18:30",
-  "date": "2024-06-26",
+  "time": "15:30",
+  "date": "2024-06-27",
   "channels": [
    {
     "name": "Eurosport 1",
@@ -104,50 +16,162 @@
   ]
  },
  {
-  "match": "Trelleborg - Rosengård",
-  "category": "Damallsvenskan",
-  "time": "19:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "KIF Örebro – BK Häcken",
-  "category": "Damallsvenskan",
-  "time": "19:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Georgien – Portugal",
-  "category": "EM i fodbold - Herrrer",
-  "time": "21:00",
-  "date": "2024-06-26",
-  "channels": [
-   {
-    "name": "TV2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "Tjekkiet – Tyrkiet",
-  "category": "EM i fodbold - Herrrer",
-  "time": "21:00",
-  "date": "2024-06-26",
+  "match": "Wozniacki🇩🇰 - Navarro",
+  "category": "WTA",
+  "time": "16:00",
+  "date": "2024-06-27",
   "channels": [
    {
     "name": "TV2 Sport X",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Dow Championship",
+  "category": "LPGA",
+  "time": "16:00",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Portugal - Denmark",
+  "category": "Håndbold: Junior-VM (k)",
+  "time": "17:55",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Holland - Sverige",
+  "category": "Håndbold: Junior-VM (k)",
+  "time": "17:55",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Championship League Snooker",
+  "category": "Championship League Snooker",
+  "time": "18:00",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "US Senior Open - Dag 1",
+  "category": "USGA",
+  "time": "18:00",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Tour de France: Holdpræsentation",
+  "category": "Tour de France",
+  "time": "18:30",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Piteå IF – AIK",
+  "category": "Damallsvenskan",
+  "time": "19:00",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "World Cup of Darts - Dag 1",
+  "category": "PDC",
+  "time": "19:00",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Portugal - Denmark",
+  "category": "Junior-VM (k)",
+  "time": "20:25",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "PGA Tour - Rocket Mortage Classic",
+  "category": "PGA",
+  "time": "21:00",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Dow Championship - Dag 1",
+  "category": "LPGA",
+  "time": "23:00",
+  "date": "2024-06-27",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  }

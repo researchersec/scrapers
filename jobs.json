@@ -1,6 +1,30 @@
 [
  {
   "category": "it",
+  "pub_date": "27-06-2024",
+  "title": "TEAMLEAD til Cyber Defense Center i itm8",
+  "company": "Itm8",
+  "location": "Herning, Aalborg SØ or Viby J",
+  "job_URL": "https://itm8.dk/job?jobid=206269"
+ },
+ {
+  "category": "it",
+  "pub_date": "27-06-2024",
+  "title": "Manager, BSS & Field Service",
+  "company": "Norlys",
+  "location": "Silkeborg, Aalborg, Tranbjerg J",
+  "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Manager%2C-BSS-&-Field-Service-9000/1087704801/"
+ },
+ {
+  "category": "it",
+  "pub_date": "27-06-2024",
+  "title": "Digitaliseringskonsulent til HR-digitalisering i HR-afdelingen",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219126"
+ },
+ {
+  "category": "it",
   "pub_date": "26-06-2024",
   "title": "Dygtige dataanalytikere med fokus på processer og formidling",
   "company": "Motorstyrelsen",
@@ -120,36 +144,20 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144196&DepartmentId=18974&MediaId=4614"
  },
  {
-  "category": "it",
-  "pub_date": "17-06-2024",
-  "title": "IT Manager",
-  "company": "Netcompany",
-  "location": "Aarhus, Aalborg eller København K",
-  "job_URL": "https://smrtr.io/dvxqb"
+  "category": "industri",
+  "pub_date": "27-06-2024",
+  "title": "Postdoctoral Researcher – Modelling Habitat Suitability in Coastal Areas - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Kgs. Lyngby/Nykøbing M",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/3755"
  },
  {
-  "category": "it",
-  "pub_date": "17-06-2024",
-  "title": "Software Developer",
-  "company": "Netcompany",
-  "location": "Aarhus, Aalborg eller København K",
-  "job_URL": "https://smrtr.io/dvhVc"
- },
- {
-  "category": "it",
-  "pub_date": "17-06-2024",
-  "title": "Linux Operations Engineer",
-  "company": "Netcompany A/S",
-  "location": "Aalborg eller København K",
-  "job_URL": "https://smrtr.io/gP-sr"
- },
- {
-  "category": "it",
-  "pub_date": "17-06-2024",
-  "title": "IT Consultant",
-  "company": "Netcompany A/S",
-  "location": "Aarhus, Aalborg eller København",
-  "job_URL": "https://smrtr.io/dtPSR"
+  "category": "industri",
+  "pub_date": "27-06-2024",
+  "title": "Kvalitetsassistent til JAN Import A/S – barselsvikariat",
+  "company": "Good Food Group A/S",
+  "location": "Hadsund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1481180/kvalitetsassistent-til-jan-import-a-s-barselsvikariat"
  },
  {
   "category": "industri",
@@ -158,6 +166,14 @@
   "company": "Arkil A/S",
   "location": "Nørresundby",
   "job_URL": "https://arkil.career.emply.com/ad/maskinforer-til-grader-soges-til-arkil-i-aalborg/3f7rxj/da"
+ },
+ {
+  "category": "industri",
+  "pub_date": "26-06-2024",
+  "title": "Sikringsspecialister",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219112"
  },
  {
   "category": "industri",
@@ -224,30 +240,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1480642/project-manager-product-development-optimization-til-succesrig-sengespecialist"
  },
  {
-  "category": "industri",
-  "pub_date": "25-06-2024",
-  "title": "Operatør til Assembly Line MAN 175D",
-  "company": "MAN Energy Solutions",
-  "location": "Frederikshavn",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145041&DepartmentId=19149&MediaId=4619"
- },
- {
-  "category": "industri",
-  "pub_date": "25-06-2024",
-  "title": "Køletekniker",
-  "company": "Career",
-  "location": "Aalborg",
-  "job_URL": "https://career.jks.dk/Default.aspx?ID=55856"
- },
- {
-  "category": "industri",
-  "pub_date": "25-06-2024",
-  "title": "Salgskonsulent",
-  "company": "HOYER-rekruttering",
-  "location": "Svenstrup J & Thisted",
-  "job_URL": "https://hoyer-rekruttering.dk/jobs/salgskonsulent/"
- },
- {
   "category": "handel",
   "pub_date": "24-06-2024",
   "title": "Souschef - Fuldtid - Aalborg",
@@ -288,28 +280,60 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1479349/medarbejder-til-hurup-genbrugscenter"
  },
  {
-  "category": "handel",
-  "pub_date": "20-06-2024",
-  "title": "Vi søger en deltidsansat til Magasin Aalborg",
-  "company": "Pilgrim A/S",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/img/pdf/pilgrimdeltidsansatmagasinaalborgjuni24.pdf"
+  "category": "ledelse",
+  "pub_date": "27-06-2024",
+  "title": "Afdelingsleder til Forebyggelse, Rehabilitering og Træning",
+  "company": "Brønderslev Kommune",
+  "location": "Brønderslev og Dronninglund",
+  "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/afdelingsleder-til-forebyggelse-rehabilitering-og-traening-i-bronderslev-kommune/mv4cxu/da"
  },
  {
-  "category": "handel",
-  "pub_date": "20-06-2024",
-  "title": "Trælastsælger til XL-BYG Tømmergaarden",
-  "company": "XL-BYG",
-  "location": "Thisted",
-  "job_URL": "https://app.elvium.com/da/positions/26848/job_posting?referer_host=www.jobindex.dk"
+  "category": "ledelse",
+  "pub_date": "27-06-2024",
+  "title": "TEAMLEAD til Cyber Defense Center i itm8",
+  "company": "Itm8",
+  "location": "Herning, Aalborg SØ or Viby J",
+  "job_URL": "https://itm8.dk/job?jobid=206269"
  },
  {
-  "category": "handel",
-  "pub_date": "19-06-2024",
-  "title": "Assisterende butikschef",
-  "company": "DK Company A/S",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/img/pdf/combutikschefaalborgjuni2024a4.pdf"
+  "category": "ledelse",
+  "pub_date": "27-06-2024",
+  "title": "Projektleder til design- og udbudsprocesser på store vejprojekter",
+  "company": "Vejdirektoratet",
+  "location": "Skanderborg, Hedehusene, Middelfart eller Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181274&DepartmentId=9799&MediaId=5"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "27-06-2024",
+  "title": "Manager, BSS & Field Service",
+  "company": "Norlys",
+  "location": "Silkeborg, Aalborg, Tranbjerg J",
+  "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Manager%2C-BSS-&-Field-Service-9000/1087704801/"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "27-06-2024",
+  "title": "Digitaliseringskonsulent til HR-digitalisering i HR-afdelingen",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219126"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "27-06-2024",
+  "title": "Personalejurist til HR jura i HR-afdelingen",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219122"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "27-06-2024",
+  "title": "HR Supportchef",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219110"
  },
  {
   "category": "ledelse",
@@ -352,60 +376,28 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1480725/konstruktoer"
  },
  {
-  "category": "ledelse",
-  "pub_date": "25-06-2024",
-  "title": "Project Manager, Product development & optimization til succesrig sengespecialist",
-  "company": "Hilding Anders Danmark A/S",
-  "location": "Hurup Thy",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480642/project-manager-product-development-optimization-til-succesrig-sengespecialist"
+  "category": "undervisning",
+  "pub_date": "27-06-2024",
+  "title": "Underviser til et nyoprettet STU-tilbud",
+  "company": "FGU Vendsyssel",
+  "location": "Dronninglund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1481363/underviser-til-et-nyoprettet-stu-tilbud"
  },
  {
-  "category": "ledelse",
-  "pub_date": "25-06-2024",
-  "title": "Værdiskabende ledelsesopgave som områdeleder i UCN act2learn Velfærd",
-  "company": "Professionshøjskolen UCN",
-  "location": "Aalborg SØ",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181200&DepartmentId=10076&MediaId=5&SkipAdvertisement=False"
+  "category": "undervisning",
+  "pub_date": "27-06-2024",
+  "title": "Altiden Knivholtvej søger en vågen nattevagt",
+  "company": "Altiden",
+  "location": "Frederikshavn",
+  "job_URL": "https://jobs.altiden.dk/jobs/4678972-altiden-knivholtvej-soger-en-vagen-nattevagt"
  },
  {
-  "category": "ledelse",
-  "pub_date": "25-06-2024",
-  "title": "Faglig stærk HR-konsulent",
-  "company": "TECHCOLLEGE",
-  "location": "Aalborg",
-  "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=998"
- },
- {
-  "category": "ledelse",
-  "pub_date": "25-06-2024",
-  "title": "Projektleder til R&D",
-  "company": "LOGSTOR Denmark Holding ApS",
-  "location": "Løgstør",
-  "job_URL": "https://cdn.varbi.com/public_uploads/company_logos/5422"
- },
- {
-  "category": "ledelse",
-  "pub_date": "25-06-2024",
-  "title": "Controller/Teamleder",
-  "company": "Magasin",
-  "location": "Aalborg",
-  "job_URL": "https://karriere.magasin.dk/jobs/4666367-controller-teamleder?promotion=1067533-jobindex"
- },
- {
-  "category": "ledelse",
-  "pub_date": "25-06-2024",
-  "title": "Mechanical Supervisor til Aalborg Portland",
-  "company": "Aalborg Portland",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3371091/130141/"
- },
- {
-  "category": "ledelse",
-  "pub_date": "24-06-2024",
-  "title": "Souschef - Fuldtid - Aalborg",
-  "company": "Lidl Danmark K/S",
-  "location": "Aalborg SV",
-  "job_URL": "https://karriere.lidl.dk/ledige-stillinger/souschef-fuldtid-aalborg-aalborg-sv-428761"
+  "category": "undervisning",
+  "pub_date": "27-06-2024",
+  "title": "Postdoctoral Researcher – Modelling Habitat Suitability in Coastal Areas - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Kgs. Lyngby/Nykøbing M",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/3755"
  },
  {
   "category": "undervisning",
@@ -418,7 +410,7 @@
  {
   "category": "undervisning",
   "pub_date": "26-06-2024",
-  "title": "Familiekonsulent til børne- og familiefådgivningen",
+  "title": "Familiekonsulent til børne- og familierådgivningen",
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=126049"
@@ -521,14 +513,6 @@
  },
  {
   "category": "undervisning",
-  "pub_date": "13-06-2024",
-  "title": "Pædagoger/pædagogmedhjælper til Tingstrup SFO",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=125640"
- },
- {
-  "category": "undervisning",
   "pub_date": "11-06-2024",
   "title": "Altiden Knivholtvej søger en faglig stærk og erfaren socialpædagog",
   "company": "Altiden",
@@ -536,17 +520,33 @@
   "job_URL": "https://jobs.altiden.dk/jobs/4598026-altiden-knivholtvej-soeger-en-faglig-staerk-og-erfaren-socialpaedagog?promotion=1052904-jobindex"
  },
  {
-  "category": "undervisning",
-  "pub_date": "11-06-2024",
-  "title": "Navigatør til undervisning",
-  "company": "MARTEC",
+  "category": "social",
+  "pub_date": "27-06-2024",
+  "title": "Stærk administrativ profil til Stabsadministrationen",
+  "company": "Nordværk I/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143662&DepartmentId=18973&MediaId=4629"
+ },
+ {
+  "category": "social",
+  "pub_date": "27-06-2024",
+  "title": "Afdelingsleder til Forebyggelse, Rehabilitering og Træning",
+  "company": "Brønderslev Kommune",
+  "location": "Brønderslev og Dronninglund",
+  "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/afdelingsleder-til-forebyggelse-rehabilitering-og-traening-i-bronderslev-kommune/mv4cxu/da"
+ },
+ {
+  "category": "social",
+  "pub_date": "27-06-2024",
+  "title": "Altiden Knivholtvej søger en vågen nattevagt",
+  "company": "Altiden",
   "location": "Frederikshavn",
-  "job_URL": "https://www.martec.dk/om-os/ledige-stillinger/skfunderviser-juni-24-2/"
+  "job_URL": "https://jobs.altiden.dk/jobs/4678972-altiden-knivholtvej-soger-en-vagen-nattevagt"
  },
  {
   "category": "social",
   "pub_date": "26-06-2024",
-  "title": "Familiekonsulent til børne- og familiefådgivningen",
+  "title": "Familiekonsulent til børne- og familierådgivningen",
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=126049"
@@ -632,20 +632,44 @@
   "job_URL": "https://join.specsavers.com/louis-nielsen/position/talent-manager-til-louis-nielsen/"
  },
  {
-  "category": "social",
-  "pub_date": "12-06-2024",
-  "title": "Konsultationssygeplejerske søges til barselsvikariat med mulighed for efterflg. fastansættelse",
-  "company": "Lægehuset Sæbygårdvej",
-  "location": "Sæby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1477501/konsultationssygeplejerske-soeges-til-barselsvikariat-med-mulighed-for-efterflg-fastansaettelse"
+  "category": "ingenioer",
+  "pub_date": "27-06-2024",
+  "title": "Driftsassistent",
+  "company": "Lerøy Seafood Hirtshals A/S",
+  "location": "Hirtshals",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1481423/driftsassistent"
  },
  {
-  "category": "social",
-  "pub_date": "12-06-2024",
-  "title": "Afdelingsleder for Plan og Byg",
-  "company": "Vesthimmerlands Kommune",
-  "location": "Farsø",
-  "job_URL": "https://vesthimmerland.dk/ledige-stillinger?hr=show-job/27812&linkref=6536&locale=da_DK"
+  "category": "ingenioer",
+  "pub_date": "27-06-2024",
+  "title": "Kollegaer til arbejdsmiljøkoordinering og forhandling med ledningsejere",
+  "company": "Vejdirektoratet",
+  "location": "Skanderborg, Hedehusene, Middelfart eller Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181265&DepartmentId=9799&MediaId=5"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "27-06-2024",
+  "title": "Projektleder til design- og udbudsprocesser på store vejprojekter",
+  "company": "Vejdirektoratet",
+  "location": "Skanderborg, Hedehusene, Middelfart eller Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181274&DepartmentId=9799&MediaId=5"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "27-06-2024",
+  "title": "Postdoctoral Researcher – Modelling Habitat Suitability in Coastal Areas - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Kgs. Lyngby/Nykøbing M",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/3755"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "27-06-2024",
+  "title": "Kvalitetsassistent til JAN Import A/S – barselsvikariat",
+  "company": "Good Food Group A/S",
+  "location": "Hadsund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1481180/kvalitetsassistent-til-jan-import-a-s-barselsvikariat"
  },
  {
   "category": "ingenioer",
@@ -728,44 +752,44 @@
   "job_URL": "https://cdn.varbi.com/public_uploads/company_logos/5422"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "25-06-2024",
-  "title": "Køletekniker",
-  "company": "Career",
+  "category": "salg",
+  "pub_date": "27-06-2024",
+  "title": "Teknisk sælger",
+  "company": "HRTALENT",
+  "location": "Nørresundby",
+  "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/HRtalent/Jobs/TemplatePreview/16146"
+ },
+ {
+  "category": "salg",
+  "pub_date": "27-06-2024",
+  "title": "Trainee/salgskoordinator",
+  "company": "home",
   "location": "Aalborg",
-  "job_URL": "https://career.jks.dk/Default.aspx?ID=55856"
+  "job_URL": "https://home.dk/om-home/job-hos-home/?hr=show-job/206312&linkref=212699&locale=da_DK"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "25-06-2024",
-  "title": "Mechanical Supervisor til Aalborg Portland",
-  "company": "Aalborg Portland",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3371091/130141/"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "24-06-2024",
-  "title": "AIV Test Technician DK",
-  "company": "GomSpace ApS",
-  "location": "Aalborg Øst",
-  "job_URL": "https://gomspace.com/open-positions.aspx?hr=show-job/205569&linkref=211595&locale=en_US"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "24-06-2024",
-  "title": "KS-Ansvarlig til entrepriseafdeling",
-  "company": "BM Byggeindustri A/S",
+  "category": "salg",
+  "pub_date": "27-06-2024",
+  "title": "Technical Sales Manager",
+  "company": "Hansen Toft A/S",
   "location": "Hobro",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480220/ks-ansvarlig-til-entrepriseafdeling"
+  "job_URL": "https://www.hansentoft.dk/job/8521"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "24-06-2024",
-  "title": "Manager of Product Center",
-  "company": "Kompetent",
-  "location": "Aalborg Øst",
-  "job_URL": "https://app.elvium.com/da/positions/26809/job_posting"
+  "category": "salg",
+  "pub_date": "27-06-2024",
+  "title": "Landets bedste kollega søges",
+  "company": "Storm Group",
+  "location": "Herning, Aalborg, Aarhus, Viborg, Kolding, Odense, Roskilde, Næstved, Hillerød eller København",
+  "job_URL": "https://www.stormgroup.net/jobs/sales-consultant"
+ },
+ {
+  "category": "salg",
+  "pub_date": "26-06-2024",
+  "title": "Account Manager (Norge) til Thermex",
+  "company": "Jysk Rekruttering",
+  "location": "Hjørring",
+  "job_URL": "https://jyre.emply.net/recruitment/vacancyAd.aspx?publishingId=52f21faf-300c-46e9-9fa7-2fe2db36564d"
  },
  {
   "category": "salg",
@@ -816,52 +840,60 @@
   "job_URL": "https://www.jobindex.dk/img/pdf/headofcommunication240624.pdf"
  },
  {
-  "category": "salg",
-  "pub_date": "24-06-2024",
-  "title": "Supportkonsulent",
-  "company": "Norlys",
-  "location": "Brønderslev",
-  "job_URL": "https://www.job-karriere.dk/Norlys/job/Br%C3%B8nderslev-Supportkonsulent-9700/1086252101/"
+  "category": "kontor",
+  "pub_date": "27-06-2024",
+  "title": "Stærk administrativ profil til Stabsadministrationen",
+  "company": "Nordværk I/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143662&DepartmentId=18973&MediaId=4629"
  },
  {
-  "category": "salg",
-  "pub_date": "24-06-2024",
-  "title": "Ejendomsmæglertrainee til snarlig tiltrædelse",
-  "company": "Realmæglerne Aalborg - Klinggaard & Kristiansen ApS",
+  "category": "kontor",
+  "pub_date": "27-06-2024",
+  "title": "Driftsassistent",
+  "company": "Lerøy Seafood Hirtshals A/S",
+  "location": "Hirtshals",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1481423/driftsassistent"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "27-06-2024",
+  "title": "Elev, Kontor- eller Toldassistent",
+  "company": "Wrist Ship Supply",
+  "location": "Nørresundby",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1481255/elev-kontor-eller-toldassistent"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "27-06-2024",
+  "title": "Medarbejder til skoleområdet",
+  "company": "RSM Danmark",
+  "location": "Nykøbing M",
+  "job_URL": "https://www.rsm.global/denmark/da/ledige-stillinger?hr=show-job%2F206049%26locale%3Dda_DK"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "27-06-2024",
+  "title": "Trainee/salgskoordinator",
+  "company": "home",
   "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480364/ejendomsmaeglertrainee-til-snarlig-tiltraedelse"
+  "job_URL": "https://home.dk/om-home/job-hos-home/?hr=show-job/206312&linkref=212699&locale=da_DK"
  },
  {
-  "category": "salg",
-  "pub_date": "21-06-2024",
-  "title": "Mødebookere til afvekslende projekter",
-  "company": "IDG Direct",
-  "location": "Herlev eller hjemmefra",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480098/moedebookere-til-afvekslende-projekter"
+  "category": "kontor",
+  "pub_date": "27-06-2024",
+  "title": "Digitaliseringskonsulent til HR-digitalisering i HR-afdelingen",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219126"
  },
  {
-  "category": "salg",
-  "pub_date": "21-06-2024",
-  "title": "Procesorienteret forretningsudvikler med stort overblik",
-  "company": "Krone Kapital A/S",
-  "location": "Nykøbing M, Aarhus eller remote",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480070/procesorienteret-forretningsudvikler-med-stort-overblik"
- },
- {
-  "category": "salg",
-  "pub_date": "21-06-2024",
-  "title": "Resultatorienteret salgschef med fokus på samarbejde",
-  "company": "Krone Kapital A/S",
-  "location": "Nykøbing M, Aarhus eller remote",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480065/resultatorienteret-salgschef-med-fokus-paa-samarbejde"
- },
- {
-  "category": "salg",
-  "pub_date": "21-06-2024",
-  "title": "Product Manager for Outdoor & Functional",
-  "company": "Nordlux",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480051/product-manager-for-outdoor-functional"
+  "category": "kontor",
+  "pub_date": "27-06-2024",
+  "title": "Personalejurist til HR jura i HR-afdelingen",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219122"
  },
  {
   "category": "kontor",
@@ -906,6 +938,14 @@
  {
   "category": "kontor",
   "pub_date": "26-06-2024",
+  "title": "Billing Specialist",
+  "company": "Norlys",
+  "location": "Aalborg",
+  "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Billing-Specialist-9000/1087366601/"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "26-06-2024",
   "title": "Kundekonsulent",
   "company": "Norlys",
   "location": "Brønderslev",
@@ -920,76 +960,28 @@
   "job_URL": "https://www.niras.dk/karriere/ledige-stillinger/reachmee-1323/"
  },
  {
-  "category": "kontor",
-  "pub_date": "25-06-2024",
-  "title": "Privatrådgiver til Sydbank Aalborg",
-  "company": "Sydbank",
-  "location": "Aalborg",
-  "job_URL": "https://sydbank-career.talent-soft.com/job/job-privatradgiver-til-sydbank-aalborg_3161.aspx"
+  "category": "oevrige",
+  "pub_date": "27-06-2024",
+  "title": "Elev, Kontor- eller Toldassistent",
+  "company": "Wrist Ship Supply",
+  "location": "Nørresundby",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1481255/elev-kontor-eller-toldassistent"
  },
  {
-  "category": "kontor",
-  "pub_date": "25-06-2024",
-  "title": "Konsulent til Outsourcing",
-  "company": "Beierholm – Statsautoriseret Revisionspartnerselskab",
-  "location": "Aars",
-  "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/konsulent-til-outsourcing"
+  "category": "oevrige",
+  "pub_date": "27-06-2024",
+  "title": "Landets bedste kollega søges",
+  "company": "Storm Group",
+  "location": "Herning, Aalborg, Aarhus, Viborg, Kolding, Odense, Roskilde, Næstved, Hillerød eller København",
+  "job_URL": "https://www.stormgroup.net/jobs/sales-consultant"
  },
  {
-  "category": "kontor",
-  "pub_date": "25-06-2024",
-  "title": "Controller/Teamleder",
-  "company": "Magasin",
-  "location": "Aalborg",
-  "job_URL": "https://karriere.magasin.dk/jobs/4666367-controller-teamleder?promotion=1067533-jobindex"
- },
- {
-  "category": "kontor",
-  "pub_date": "24-06-2024",
-  "title": "Kontorelev / Kontorassistent",
-  "company": "Assess International P/S",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480500/kontorelev-kontorassistent"
- },
- {
-  "category": "kontor",
-  "pub_date": "24-06-2024",
-  "title": "Indkøbsdisponent",
-  "company": "Arctic Import A/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480449/indkoebsdisponent"
- },
- {
-  "category": "kontor",
-  "pub_date": "24-06-2024",
-  "title": "Supportkonsulent",
+  "category": "oevrige",
+  "pub_date": "26-06-2024",
+  "title": "Student Assistant",
   "company": "Norlys",
-  "location": "Brønderslev",
-  "job_URL": "https://www.job-karriere.dk/Norlys/job/Br%C3%B8nderslev-Supportkonsulent-9700/1086252101/"
- },
- {
-  "category": "kontor",
-  "pub_date": "24-06-2024",
-  "title": "Ejendomsmæglertrainee til snarlig tiltrædelse",
-  "company": "Realmæglerne Aalborg - Klinggaard & Kristiansen ApS",
   "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1480364/ejendomsmaeglertrainee-til-snarlig-tiltraedelse"
- },
- {
-  "category": "kontor",
-  "pub_date": "24-06-2024",
-  "title": "Merchandising Specialist",
-  "company": "Shaping New Tomorrow",
-  "location": "Aalborg",
-  "job_URL": "https://career.shapingnewtomorrow.com/jobs/4640026-merchandising-specialist"
- },
- {
-  "category": "kontor",
-  "pub_date": "21-06-2024",
-  "title": "Receptionist",
-  "company": "Advodan Aalborg Advokataktieselskab",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/img/pdf/receptionistjuni2024.pdf"
+  "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Student-Assistant-9000/1087350101/"
  },
  {
   "category": "oevrige",
@@ -1078,21 +1070,5 @@
   "company": "DANISH CROWN A/S",
   "location": "Svenstrup J",
   "job_URL": "https://www.jobindex.dk/jobannonce/reportage/1958/gourmetslagterlaerling-med-speciale-i-poelsemageri-og-foraedling"
- },
- {
-  "category": "oevrige",
-  "pub_date": "17-06-2024",
-  "title": "Engageret og selvstændig kontorelev til Jammerbugt Kommune og Jammerbugt Forsyning A/S",
-  "company": "Jammerbugt Kommune",
-  "location": "Pandrup",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1475&WebAdId=125738"
- },
- {
-  "category": "oevrige",
-  "pub_date": "14-06-2024",
-  "title": "IT-Support elever",
-  "company": "Itm8",
-  "location": "Viby J, Kolding, Aalborg SØ, Skovlunde eller Esbjerg V",
-  "job_URL": "https://itm8.dk/job?jobid=197204"
  }
 ]
