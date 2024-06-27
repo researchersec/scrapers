@@ -18,8 +18,7 @@ function fetchNewsData() {
 function fetchJobsData() {
     axios.get('jobs.json')
         .then(response => {
-            const sortedJobs = response.data.sort((a, b) => new Date(b.pub_date.split('-').reverse().join('-')) - new Date(a.pub_date.split('-').reverse().join('-')));
-            displayJobItems(sortedJobs);
+            displayJobItems(response.data);
         })
         .catch(error => {
             console.error('Error fetching jobs data:', error);
@@ -56,6 +55,8 @@ function displayNewsItems(newsItems) {
 
 function displayJobItems(jobItems) {
     const jobsContainer = document.getElementById('jobs-container');
+    // Sort jobs by date, newest first
+    jobItems.sort((a, b) => new Date(b.pub_date) - new Date(a.pub_date));
     jobItems.forEach(item => {
         const jobCard = createJobCard(item);
         jobsContainer.appendChild(jobCard);
@@ -80,10 +81,10 @@ function displayOfferItems(offerItems) {
 
 function createNewsCard(item) {
     const col = document.createElement('div');
-    col.className = 'col-md-4 mb-4';
+    col.className = 'col-12 col-md-6 col-lg-4 mb-4';
 
     const card = document.createElement('div');
-    card.className = 'card bg-dark text-white';
+    card.className = 'card text-white h-100';
 
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
@@ -119,10 +120,10 @@ function createNewsCard(item) {
 
 function createJobCard(item) {
     const col = document.createElement('div');
-    col.className = 'col-md-4 mb-4';
+    col.className = 'col-12 col-md-6 col-lg-4 mb-4';
 
     const card = document.createElement('div');
-    card.className = 'card bg-dark text-white';
+    card.className = 'card text-white h-100';
 
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
@@ -133,23 +134,24 @@ function createJobCard(item) {
 
     const cardText = document.createElement('p');
     cardText.className = 'card-text';
-    cardText.textContent = item.description;
+    cardText.innerHTML = `Company: ${item.company}<br>Location: ${item.location}`;
 
     const cardLink = document.createElement('a');
     cardLink.className = 'btn btn-primary';
     cardLink.href = item.job_URL;
-    cardLink.textContent = 'Read more';
+    cardLink.textContent = 'View job';
 
     const cardFooter = document.createElement('div');
     cardFooter.className = 'card-footer';
-    cardFooter.innerHTML = `<small class="text-muted">${item.company}</small><br><small class="text-muted">Location: ${item.location}</small><br><small class="text-muted">Posted: ${item.pub_date}</small>`;
+    cardFooter.innerHTML = `<small class="text-muted">Posted: ${item.pub_date}</small><br><small class="text-muted">Category: ${item.category}</small>`;
 
     cardBody.appendChild(cardTitle);
     cardBody.appendChild(cardText);
-    cardBody.appendChild(cardLink)
+    cardBody.appendChild(cardLink);
 
     card.appendChild(cardBody);
     card.appendChild(cardFooter);
+
     col.appendChild(card);
 
     return col;
@@ -157,10 +159,10 @@ function createJobCard(item) {
 
 function createWeatherCard(item) {
     const col = document.createElement('div');
-    col.className = 'col-md-4 mb-4';
+    col.className = 'col-12 col-md-6 col-lg-4 mb-4';
 
     const card = document.createElement('div');
-    card.className = 'card bg-dark text-white';
+    card.className = 'card text-white h-100';
 
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
@@ -185,19 +187,13 @@ function createWeatherCard(item) {
 
 function createOfferCard(item) {
     const col = document.createElement('div');
-    col.className = 'col-md-4 mb-4';
+    col.className = 'col-12 col-md-6 col-lg-4 mb-4';
 
     const card = document.createElement('div');
-    card.className = 'card bg-dark text-white';
+    card.className = 'card text-white h-100';
 
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
-
-    const cardImg = document.createElement('img');
-    cardImg.className = 'card-img-top';
-    cardImg.style = 'width:100px;';
-    cardImg.src = item.image;
-    cardImg.alt = 'Offer Image';
 
     const cardTitle = document.createElement('h5');
     cardTitle.className = 'card-title';
@@ -216,7 +212,6 @@ function createOfferCard(item) {
     cardBody.appendChild(cardText);
     cardBody.appendChild(cardLink);
 
-    card.appendChild(cardImg);
     card.appendChild(cardBody);
 
     col.appendChild(card);
