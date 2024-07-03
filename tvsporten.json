@@ -1,93 +1,9 @@
 [
  {
-  "match": "Hollands Grand Prix",
-  "category": "MotoGP",
-  "time": "09:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Hollands Grand Prix - Træning",
-  "category": "MotoGP",
-  "time": "10:45",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "WTA 500 Eastbourne: Semifinaler",
-  "category": "WTA",
-  "time": "12:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "World Cup of Darts",
-  "category": "PDC",
-  "time": "12:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Østrigs Grand Prix - Træning",
-  "category": "Formel 1",
-  "time": "12:25",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Italian Open - Dag 2",
-  "category": "DP World Tour",
-  "time": "13:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Championship League Snooker",
   "category": "Championship League Snooker",
   "time": "13:00",
-  "date": "2024-06-28",
+  "date": "2024-07-03",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -96,278 +12,86 @@
   ]
  },
  {
-  "match": "Hollands Grand Prix - Træning 2",
-  "category": "MotoGP",
-  "time": "13:15",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Østrigs Grand Prix - Kvalifikation",
-  "category": "Formel 3",
-  "time": "13:55",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Spielberg",
-  "category": "Formel 3",
-  "time": "13:55",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "WTA 500 Bad Homburg: Semifinaler",
-  "category": "WTA",
-  "time": "14:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Hollands Grand Prix",
-  "category": "MotoGP",
-  "time": "14:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Østrigs Grand Prix - Kvalifikation",
-  "category": "Formel 2",
-  "time": "14:55",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Spielberg",
-  "category": "Formel 3",
-  "time": "14:55",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Eastbourne: Semifinaler",
-  "category": "ATP",
-  "time": "15:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Hollands Grand Prix - Træning 3",
-  "category": "MotoGP",
-  "time": "15:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "VP Bank Swiss Ladies Open",
-  "category": "European Tour",
-  "time": "15:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Mallorca: Semifinaler",
-  "category": "ATP",
-  "time": "15:30",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Slovakiet Rundt 3.etape",
-  "category": "UCI World Tour",
-  "time": "15:30",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "Dow Championship",
-  "category": "LPGA",
-  "time": "16:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Østrigs Grand Prix - Sprint Kvalifikation",
-  "category": "Formel 1",
-  "time": "16:25",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "US Senior Open - Dag 2",
-  "category": "USGA",
-  "time": "18:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Championship League Snooker",
-  "category": "Championship League Snooker",
-  "time": "18:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "FIM Speedway GP | Gorzów",
-  "category": "FIM Speedway",
-  "time": "18:55",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "World Cup of Darts - Dag 2",
-  "category": "PDC",
-  "time": "19:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "PGA Tour - Rocket Mortage Classic",
-  "category": "PGA",
-  "time": "21:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "Tour de France: AftenTour",
+  "match": "Tour de France 5.etape",
   "category": "Tour de France",
-  "time": "21:10",
-  "date": "2024-06-28",
+  "time": "13:10",
+  "date": "2024-07-03",
   "channels": [
    {
     "name": "TV2",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.jpg"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
    }
   ]
  },
  {
-  "match": "Dow Championship - Dag 2",
-  "category": "LPGA",
-  "time": "23:00",
-  "date": "2024-06-28",
+  "match": "Clara Tauson🇩🇰 - Danielle Collins",
+  "category": "Wimbledon",
+  "time": "13:30",
+  "date": "2024-07-03",
+  "channels": [
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "A. Muller -D. Medvedev",
+  "category": "Wimbledon",
+  "time": "14:20",
+  "date": "2024-07-03",
+  "channels": [
+   {
+    "name": "DR 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Wimbledon Tennis 2.runde",
+  "category": "Wimbledon",
+  "time": "15:30",
+  "date": "2024-07-03",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Carlos Alcaraz - Aleksandar Vukic",
+  "category": "Wimbledon",
+  "time": "15:30",
+  "date": "2024-07-03",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Aramco Team Series London - Dag 1",
+  "category": "European Tour",
+  "time": "16:30",
+  "date": "2024-07-03",
   "channels": [
    {
     "name": "V Sport Golf",
@@ -380,51 +104,27 @@
   ]
  },
  {
-  "match": "Colombia – Costa Rica",
-  "category": "Copa America",
-  "time": "00:00",
-  "date": "2024-06-28",
+  "match": "Wimbledon Tennis 2.runde",
+  "category": "Wimbledon",
+  "time": "17:30",
+  "date": "2024-07-03",
   "channels": [
    {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Bernardo vs Rubin",
-  "category": "Invicta Fighting Championships",
-  "time": "01:00",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Portland - Fri Træning 1",
-  "category": "Formel E",
-  "time": "01:55",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "Paraguay – Brasilien",
-  "category": "Copa America",
-  "time": "02:50",
-  "date": "2024-06-28",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+    "name": "DR 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
    },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Championship League Snooker",
+  "category": "Championship League Snooker",
+  "time": "18:00",
+  "date": "2024-07-03",
+  "channels": [
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
