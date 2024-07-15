@@ -1,9 +1,25 @@
 [
  {
-  "match": "Championship League Snooker",
-  "category": "Championship League Snooker",
-  "time": "13:00",
-  "date": "2024-07-03",
+  "match": "Snooker Shanghai Masters",
+  "category": "World Snooker Tour",
+  "time": "08:05",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Live at The Range",
+  "category": "Golf Major",
+  "time": "10:00",
+  "date": "2024-07-16",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -12,11 +28,55 @@
   ]
  },
  {
-  "match": "Tour de France 5.etape",
-  "category": "Tour de France",
-  "time": "13:10",
-  "date": "2024-07-03",
+  "match": "ATP 250 Gstaad: Indledende",
+  "category": "ATP",
+  "time": "10:30",
+  "date": "2024-07-16",
   "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Båstad: Indledende",
+  "category": "ATP",
+  "time": "11:00",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
+  "match": "ATP 500 Hamburg: Indledende",
+  "category": "ATP",
+  "time": "12:00",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Tour de France 16.etape",
+  "category": "Tour de France",
+  "time": "13:00",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
    {
     "name": "TV2",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.jpg"
@@ -28,74 +88,82 @@
   ]
  },
  {
-  "match": "Clara Tauson🇩🇰 - Danielle Collins",
-  "category": "Wimbledon",
+  "match": "Snooker Shanghai Masters",
+  "category": "World Snooker Tour",
   "time": "13:30",
-  "date": "2024-07-03",
+  "date": "2024-07-16",
   "channels": [
    {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   }
-  ]
- },
- {
-  "match": "A. Muller -D. Medvedev",
-  "category": "Wimbledon",
-  "time": "14:20",
-  "date": "2024-07-03",
-  "channels": [
-   {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
    },
    {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
    }
   ]
  },
  {
-  "match": "Wimbledon Tennis 2.runde",
-  "category": "Wimbledon",
-  "time": "15:30",
-  "date": "2024-07-03",
+  "match": "Live at The Range",
+  "category": "Golf Major",
+  "time": "14:00",
+  "date": "2024-07-16",
   "channels": [
    {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
  {
-  "match": "Carlos Alcaraz - Aleksandar Vukic",
-  "category": "Wimbledon",
-  "time": "15:30",
-  "date": "2024-07-03",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   }
-  ]
- },
- {
-  "match": "Aramco Team Series London - Dag 1",
-  "category": "European Tour",
+  "match": "Danmark U19 – Spanien U19",
+  "category": "U19-EM",
   "time": "16:30",
-  "date": "2024-07-03",
+  "date": "2024-07-16",
   "channels": [
    {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Newport Indledende runder",
+  "category": "ATP",
+  "time": "17:00",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Norge – Danmark",
+  "category": "OL-Testkamp",
+  "time": "18:15",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Sverige – England",
+  "category": "EM-kvalifikation damer",
+  "time": "18:55",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
    },
    {
     "name": "Viaplay.dk",
@@ -104,10 +172,22 @@
   ]
  },
  {
-  "match": "Wimbledon Tennis 2.runde",
-  "category": "Wimbledon",
-  "time": "17:30",
-  "date": "2024-07-03",
+  "match": "Tyskland – Østrig",
+  "category": "EM for kvinder",
+  "time": "18:55",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Danmark – Tjekkiet",
+  "category": "EM-kvalifikation damer",
+  "time": "19:00",
+  "date": "2024-07-16",
   "channels": [
    {
     "name": "DR 1",
@@ -120,10 +200,62 @@
   ]
  },
  {
-  "match": "Championship League Snooker",
-  "category": "Championship League Snooker",
-  "time": "18:00",
-  "date": "2024-07-03",
+  "match": "Spanien – Belgien",
+  "category": "EM-kvalifikation damer",
+  "time": "19:00",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Blackpool, England - Dag 4",
+  "category": "Dart",
+  "time": "20:00",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Danmark – Argentina",
+  "category": "OL-Testkamp",
+  "time": "20:30",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hibernian FC – Queens Park Rangers",
+  "category": "League Cup Skotland",
+  "time": "20:45",
+  "date": "2024-07-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Live from The Open",
+  "category": "Golf Major",
+  "time": "21:00",
+  "date": "2024-07-16",
   "channels": [
    {
     "name": "Viaplay.dk",
