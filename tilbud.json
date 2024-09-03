@@ -32,14 +32,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fa9a57d211701f9bdf7b1a88a5cbe6881&w=100&s=40a0328e1ee04446b35ef051b4d8d176"
  },
  {
-  "link": "/Fleggaard/tilbud/AMA-4~o:DIMTkDiRuhhvr5KwfzxHX",
-  "price": "7.99",
-  "currency": "DKK",
-  "valid_from": "20-08-2024",
-  "valid_until": "03-09-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F6cda45188f1ce64cbf1592639e04da16&w=100&s=9c98c35d4c3ffcf8e1deffe4f237ece8"
- },
- {
   "link": "/Lidl/tilbud/Cruesli~o:RODGknOUDV8yPMC0ntvAK",
   "price": "30.00",
   "currency": "DKK",
@@ -80,6 +72,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FNosWD39G%2Fp-32.webp&w=100&x1r=0.5097&x2r=0.9788&y1r=0.6365&y2r=0.9727&s=feafa957fa33cb4c42661988a5d7eb37"
  },
  {
+  "link": "/Fleggaard/tilbud/Tuborg-Pilsner-el.-Classic~o:qFDzEwnMB7viMmk7ndJ1J",
+  "price": "75.00",
+  "currency": "DKK",
+  "valid_from": "03-09-2024",
+  "valid_until": "24-09-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fproduct-e40178e5fb8b3d757c2405b1375fe567&w=100&s=da1cc732e6c9029bfc649bbe9a39f4f5"
+ },
+ {
   "link": "/LET-KOB/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-CARLSBERG-PILSNER~o:jqhFf5rOLo5hmE1WxFs1t",
   "price": "130.00",
   "currency": "DKK",
@@ -104,27 +104,19 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FD3gzZmtU%2Fp-8.webp&w=100&x1r=0.5017&x2r=0.9783&y1r=0.2331&y2r=0.5244&s=2e7084f41a9d581a2411a872d44bc86b"
  },
  {
-  "link": "/BorderShop/tilbud/Gron-Tuborg-eller-Tuborg-Classic-4-6~o:gXlYDv-zRQPv1hJow6qO9",
-  "price": "75.00",
-  "currency": "DKK",
-  "valid_from": "30-07-2024",
-  "valid_until": "03-09-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjFSK7HMQ%2Fp-1.webp&w=100&x1r=0.0257&x2r=0.3786&y1r=0.0191&y2r=0.441&s=37183bb3acfbf82295ee937ed88576a7"
- },
- {
-  "link": "/Fleggaard/tilbud/Tuborg-Pilsner-el.-Classic~o:IIyICjiWYIPp2P9RQb9s_",
-  "price": "75.00",
-  "currency": "DKK",
-  "valid_from": "20-08-2024",
-  "valid_until": "03-09-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvlSLC9QZ%2Fp-1.webp&w=100&x1r=0.0151&x2r=0.5651&y1r=0.0164&y2r=0.4888&s=47cb32ea0e44f3c5c5480238094ecc82"
- },
- {
   "link": "/fotex/tilbud/Tuborg-ol-eller-Coca-Cola-sodavand~o:TvjTUu5RFuSzBP-7vSQ9H",
   "price": "59.00",
   "currency": "DKK",
   "valid_from": "31-08-2024",
   "valid_until": "30-09-2024",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJM-D9lwA%2Fp-8.webp&w=100&x1r=0.3352&x2r=0.8778&y1r=0.5674&y2r=0.7703&s=2c9985d5f4ed20b1843a3e53408a262e"
+ },
+ {
+  "link": "/SuperBrugsen/tilbud/Tuborg-ol-12-pak-eller-Coca-Cola-18-pak~o:lPI0UNgEEX5omRQdVDbUX",
+  "price": "69.00",
+  "currency": "DKK",
+  "valid_from": "31-08-2024",
+  "valid_until": "30-09-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWiGjvqtp%2Fp-40.webp&w=100&x1r=0.4775&x2r=0.9519&y1r=0.5977&y2r=0.8647&s=b03f749f1447375f1a6c1c3fadd06ae4"
  }
 ]

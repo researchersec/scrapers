@@ -1,49 +1,9 @@
 [
  {
-  "match": "Tennis US Open",
-  "category": "US Open",
-  "time": "18:00",
-  "date": "2024-09-03",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Brønshøj BK – Vejle BK",
-  "category": "DBU Pokalen",
-  "time": "18:25",
-  "date": "2024-09-03",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "VSK Aarhus – Aarhus Fremad",
-  "category": "DBU Pokalen",
-  "time": "18:25",
-  "date": "2024-09-03",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Atletik Finaler Paralympiske Lege",
+  "match": "Atletik Finaler: Paralympiske Lege",
   "category": "Paralympiske Lege",
-  "time": "18:55",
-  "date": "2024-09-03",
+  "time": "07:42",
+  "date": "2024-09-04",
   "channels": [
    {
     "name": "DR 2",
@@ -56,10 +16,42 @@
   ]
  },
  {
-  "match": "Bk Frem – Lyngby BK",
-  "category": "DBU Pokalen",
-  "time": "18:55",
-  "date": "2024-09-03",
+  "match": "Para Cycling",
+  "category": "Paralympiske Lege",
+  "time": "08:00",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Cykling Enkelstart Paralympiske Lege",
+  "category": "Paralympiske Lege",
+  "time": "08:30",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Madrid P1",
+  "category": "Premier Padel",
+  "time": "10:00",
+  "date": "2024-09-04",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -68,18 +60,46 @@
   ]
  },
  {
+  "match": "Dressur Paralympiske Lege",
+  "category": "Paralympiske Lege",
+  "time": "11:35",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Skydning Finaler Paralympiske Lege",
+  "category": "Paralympiske Lege",
+  "time": "12:05",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
   "match": "Snooker Saudi Masters",
   "category": "World Snooker Tour",
-  "time": "19:00",
-  "date": "2024-09-03",
+  "time": "13:00",
+  "date": "2024-09-04",
   "channels": [
    {
     "name": "Eurosport 2",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
    },
    {
     "name": "Max",
@@ -88,10 +108,86 @@
   ]
  },
  {
-  "match": "Bk Frem – Lyngby BK",
+  "match": "Tour of Britain | 2. etape",
+  "category": "UCI Herrer",
+  "time": "13:00",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Goalball Semifinale (m)",
+  "category": "Paralympiske Lege",
+  "time": "13:25",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Vuelta a España: 17. etape",
+  "category": "Vuelta a España",
+  "time": "14:50",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Solrød FC – SønderjyskE",
   "category": "DBU Pokalen",
-  "time": "19:00",
-  "date": "2024-09-03",
+  "time": "16:55",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "B1913 – Randers FC",
+  "category": "DBU Pokalen",
+  "time": "16:55",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Vejgaard – Esbjerg fB",
+  "category": "DBU Pokalen",
+  "time": "16:55",
+  "date": "2024-09-04",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -102,8 +198,8 @@
  {
   "match": "Tennis US Open",
   "category": "US Open",
-  "time": "20:00",
-  "date": "2024-09-03",
+  "time": "18:00",
+  "date": "2024-09-04",
   "channels": [
    {
     "name": "Eurosport 1",
@@ -116,14 +212,82 @@
   ]
  },
  {
-  "match": "GOG Håndbold – Bjerringbro-Silkeborg",
-  "category": "HTH Herreligaen",
+  "match": "Gibraltar – Andorra",
+  "category": "Venskabskamp - Herrer",
+  "time": "18:00",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Morud/Veflinge - AaB",
+  "category": "DBU Pokalen",
+  "time": "18:10",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Snooker Saudi Masters",
+  "category": "World Snooker Tour",
+  "time": "19:00",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "AC Horsens – Viborg FF",
+  "category": "DBU Pokalen",
+  "time": "19:00",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Silkeborg-Voel KFUM – Team Esbjerg",
+  "category": "Bambusa Kvindeligaen",
   "time": "20:00",
-  "date": "2024-09-03",
+  "date": "2024-09-04",
   "channels": [
    {
     "name": "TV2 Sport",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Tennis US Open",
+  "category": "US Open",
+  "time": "20:00",
+  "date": "2024-09-04",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    }
   ]
  }
