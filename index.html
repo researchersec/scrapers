@@ -14,53 +14,124 @@
             left: 0;
             background-color: #343a40;
             padding-top: 20px;
+            width: 200px;
         }
-        .sidebar .nav-link {
-            color: #ffffff;
+
+        @media (max-width: 768px) {
+            .sidebar {
+                width: 100%;
+                position: relative;
+                height: auto;
+            }
+            .content {
+                margin-left: 0;
+            }
         }
+
         .content {
             margin-left: 200px;
             padding: 20px;
         }
+
+        #loader {
+            display: none;
+            margin: 0 auto;
+        }
     </style>
 </head>
 <body>
-    <div class="sidebar d-flex flex-column align-items-center">
-        <a href="#news-section" class="nav-link" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="news-section">
-            <i class="fas fa-newspaper"></i><br>News
-        </a>
-        <a href="#jobs-section" class="nav-link" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="jobs-section">
-            <i class="fas fa-briefcase"></i><br>Jobs
-        </a>
-        <a href="#weather-section" class="nav-link" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="weather-section">
-            <i class="fas fa-cloud-sun"></i><br>Weather
-        </a>
-        <a href="#offers-section" class="nav-link" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="offers-section">
-            <i class="fas fa-tags"></i><br>Offers
-        </a>
+    <!-- Navbar for mobile view with hamburger button -->
+    <nav class="navbar navbar-dark bg-dark d-md-none">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </nav>
+
+    <!-- Sidebar with collapse functionality on mobile -->
+    <div class="collapse d-md-block" id="sidebarMenu">
+        <div class="sidebar d-flex flex-column align-items-center">
+            <a href="#news-section" class="nav-link" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="news-section">
+                <i class="fas fa-newspaper"></i><br>News
+            </a>
+            <a href="#jobs-section" class="nav-link" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="jobs-section">
+                <i class="fas fa-briefcase"></i><br>Jobs
+            </a>
+            <a href="#weather-section" class="nav-link" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="weather-section">
+                <i class="fas fa-cloud-sun"></i><br>Weather
+            </a>
+            <a href="#offers-section" class="nav-link" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="offers-section">
+                <i class="fas fa-tags"></i><br>Offers
+            </a>
+        </div>
     </div>
+
+    <!-- Content Section -->
     <div class="content">
         <div class="container my-5">
             <h1 class="text-center">Dashboard</h1>
-            
+
+            <div id="loader" class="spinner-border text-light" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+
             <div class="section collapse" id="news-section">
                 <h2>News</h2>
-                <div id="news-container" class="row"></div>
+                <div id="news-container" class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Nyhed 1 -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Nyhed 2 -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Nyhed 3 -->
+                    </div>
+                </div>
             </div>
 
             <div class="section collapse" id="jobs-section">
                 <h2>Jobs</h2>
-                <div id="jobs-container" class="row"></div>
+                <div id="jobs-container" class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Job 1 -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Job 2 -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Job 3 -->
+                    </div>
+                </div>
             </div>
 
             <div class="section collapse" id="weather-section">
                 <h2>Weather</h2>
-                <div id="weather-container" class="row"></div>
+                <div id="weather-container" class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Weather 1 -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Weather 2 -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Weather 3 -->
+                    </div>
+                </div>
             </div>
 
             <div class="section collapse" id="offers-section">
                 <h2>Offers</h2>
-                <div id="offers-container" class="row"></div>
+                <div id="offers-container" class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Offer 1 -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Offer 2 -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!-- Offer 3 -->
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -70,6 +141,33 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script src="script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const lazyLoadSections = document.querySelectorAll('.section');
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        loadSectionData(entry.target.id);
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            lazyLoadSections.forEach(section => observer.observe(section));
+        });
+
+        function loadSectionData(sectionId) {
+            document.getElementById('loader').style.display = 'block';
+            axios.get('/get-section-data?section=' + sectionId)
+                .then(function (response) {
+                    // Hent og indsæt data baseret på sectionId
+                    // Eksempelvis:
+                    // document.getElementById(sectionId + '-container').innerHTML = response.data;
+                })
+                .finally(function () {
+                    document.getElementById('loader').style.display = 'none';
+                });
+        }
+    </script>
 </body>
 </html>
