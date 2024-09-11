@@ -77,60 +77,28 @@
             <div class="section collapse" id="news-section">
                 <h2>News</h2>
                 <div id="news-container" class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Nyhed 1 -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Nyhed 2 -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Nyhed 3 -->
-                    </div>
+                    <!-- News data will load here -->
                 </div>
             </div>
 
             <div class="section collapse" id="jobs-section">
                 <h2>Jobs</h2>
                 <div id="jobs-container" class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Job 1 -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Job 2 -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Job 3 -->
-                    </div>
+                    <!-- Jobs data will load here -->
                 </div>
             </div>
 
             <div class="section collapse" id="weather-section">
                 <h2>Weather</h2>
                 <div id="weather-container" class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Weather 1 -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Weather 2 -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Weather 3 -->
-                    </div>
+                    <!-- Weather data will load here -->
                 </div>
             </div>
 
             <div class="section collapse" id="offers-section">
                 <h2>Offers</h2>
                 <div id="offers-container" class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Offer 1 -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Offer 2 -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!-- Offer 3 -->
-                    </div>
+                    <!-- Offers data will load here -->
                 </div>
             </div>
         </div>
@@ -149,6 +117,7 @@
                 entries.forEach(entry => {
                     if (entry.isIntersecting) {
                         loadSectionData(entry.target.id);
+                        observer.unobserve(entry.target);  // Stop observing after loading the data
                     }
                 });
             }, { threshold: 0.1 });
@@ -158,13 +127,52 @@
 
         function loadSectionData(sectionId) {
             document.getElementById('loader').style.display = 'block';
-            axios.get('/get-section-data?section=' + sectionId)
-                .then(function (response) {
-                    // Hent og indsæt data baseret på sectionId
-                    // Eksempelvis:
-                    // document.getElementById(sectionId + '-container').innerHTML = response.data;
+            
+            let url = '';
+            switch(sectionId) {
+                case 'news-section':
+                    url = 'news.json';  // Assuming 'news.json' contains the data for news
+                    break;
+                case 'jobs-section':
+                    url = 'jobs.json';  // Assuming 'jobs.json' contains the data for jobs
+                    break;
+                case 'weather-section':
+                    url = 'weather.json';  // Assuming 'weather.json' contains the data for weather
+                    break;
+                case 'offers-section':
+                    url = 'offers.json';  // Assuming 'offers.json' contains the data for offers
+                    break;
+                default:
+                    console.error('Unknown section: ' + sectionId);
+                    return;
+            }
+
+            // Fetching the data from the JSON file
+            axios.get(url)
+                .then(function(response) {
+                    const data = response.data;
+                    const container = document.getElementById(sectionId + '-container');
+                    container.innerHTML = '';  // Clear the container before inserting new data
+
+                    // Populate the section with data
+                    data.forEach(item => {
+                        const card = document.createElement('div');
+                        card.classList.add('col-lg-4', 'col-md-6', 'col-sm-12', 'mb-4');
+                        card.innerHTML = `
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">${item.title}</h5>
+                                    <p class="card-text">${item.description}</p>
+                                </div>
+                            </div>
+                        `;
+                        container.appendChild(card);
+                    });
                 })
-                .finally(function () {
+                .catch(function(error) {
+                    console.error('Error fetching data:', error);
+                })
+                .finally(function() {
                     document.getElementById('loader').style.display = 'none';
                 });
         }
