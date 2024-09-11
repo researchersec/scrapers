@@ -80,12 +80,28 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Ftm0HraqL%2Fp-22.webp&w=100&x1r=0.6533&x2r=1&y1r=0.379&y2r=0.6672&s=fb0ad90190d46d49b99684f61f428fc8"
  },
  {
+  "link": "/SuperBrugsen/tilbud/Carlsberg-Tuborg-eller-Classic-30-stk-kasse~o:FXrMTNB_LgMQG4w7vmytS",
+  "price": "130.00",
+  "currency": "DKK",
+  "valid_from": "12-09-2024",
+  "valid_until": "19-09-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FlbCFa6z5%2Fp-31.webp&w=100&x1r=0.5078&x2r=0.9753&y1r=0.5132&y2r=0.801&s=f01d793a87888ff0ee684ed52dc34e4d"
+ },
+ {
   "link": "/Min-Kobmand/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:vrLwYuw57FhK1Oy1apKXL",
   "price": "130.00",
   "currency": "DKK",
   "valid_from": "06-09-2024",
   "valid_until": "13-09-2024",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVafaXmzP%2Fp-17.webp&w=100&x1r=0.3455&x2r=0.981&y1r=0.7317&y2r=0.9856&s=ba01ba893b325e9ab57b9b8c10057eaa"
+ },
+ {
+  "link": "/Kvickly/tilbud/Carlsberg-Tuborg-eller-Classic-30-stk-kasse~o:42VcrXR2NVndJIb8XNHE_",
+  "price": "130.00",
+  "currency": "DKK",
+  "valid_from": "12-09-2024",
+  "valid_until": "19-09-2024",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwRyH4K0V%2Fp-30.webp&w=100&x1r=0.5078&x2r=0.9753&y1r=0.5132&y2r=0.801&s=fdf41c675af2a8323fa7e396b57341ce"
  },
  {
   "link": "/Fleggaard/tilbud/Tuborg-Pilsner-el.-Classic~o:qFDzEwnMB7viMmk7ndJ1J",
@@ -118,21 +134,5 @@
   "valid_from": "10-09-2024",
   "valid_until": "08-10-2024",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjWoXxVGk%2Fp-11.webp&w=100&x1r=0.0443&x2r=0.6712&y1r=0.0057&y2r=0.1525&s=8f55bb0b95542366c0feefb0d7aec90f"
- },
- {
-  "link": "/fotex/tilbud/Tuborg-ol-eller-Coca-Cola-sodavand~o:TvjTUu5RFuSzBP-7vSQ9H",
-  "price": "59.00",
-  "currency": "DKK",
-  "valid_from": "31-08-2024",
-  "valid_until": "30-09-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJM-D9lwA%2Fp-8.webp&w=100&x1r=0.3352&x2r=0.8778&y1r=0.5674&y2r=0.7703&s=2c9985d5f4ed20b1843a3e53408a262e"
- },
- {
-  "link": "/MENY/tilbud/TUBORG-CARLSBERG-GRIMBERGEN-ELLER-KRONENBOURG~o:0eDqz8Vfz6iS2bSqPi10o",
-  "price": "108.00",
-  "currency": "DKK",
-  "valid_from": "05-09-2024",
-  "valid_until": "12-09-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fb1DANSGL%2Fp-31.webp&w=100&x1r=0.0088&x2r=0.6394&y1r=0.669&y2r=0.9862&s=3dd54ac690d8d1437b3e3f53a04db5ca"
  }
 ]

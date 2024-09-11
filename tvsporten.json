@@ -1,9 +1,73 @@
 [
  {
-  "match": "Middelfart – Hobro IK",
+  "match": "Giro di Toscana",
+  "category": "UCI Herrer",
+  "time": "14:30",
+  "date": "2024-09-11",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Limburg (k)",
+  "category": "UCI Kvinder",
+  "time": "15:00",
+  "date": "2024-09-11",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Limburg (m)",
+  "category": "UCI Herrer",
+  "time": "16:30",
+  "date": "2024-09-11",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Aalborg Håndbold – Hbc Nantes",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:35",
+  "date": "2024-09-11",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "B 1908 Amager – B 93 København",
   "category": "DBU Pokalen",
-  "time": "16:55",
-  "date": "2024-09-10",
+  "time": "18:55",
+  "date": "2024-09-11",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -12,118 +76,22 @@
   ]
  },
  {
-  "match": "Moldova – San Marino",
-  "category": "Venskabskamp - Herrer",
-  "time": "18:00",
-  "date": "2024-09-10",
+  "match": "FC København – Allerød Fodbold Klub",
+  "category": "Gjensidige Kvindeliga",
+  "time": "19:00",
+  "date": "2024-09-11",
   "channels": [
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+    "name": "Pluto TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/pluto_logo-2.png"
    }
   ]
  },
  {
-  "match": "Letland – Færøerne",
-  "category": "UEFA Nations League C",
-  "time": "18:00",
-  "date": "2024-09-10",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "Ikast Håndbold – Viborg HK",
+  "match": "Nykøbing Falster Håndboldklub – Odense Håndbold",
   "category": "Bambusa Kvindeligaen",
   "time": "20:00",
-  "date": "2024-09-10",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Nord Makedonien – Armenien",
-  "category": "UEFA Nations League C",
-  "time": "20:45",
-  "date": "2024-09-10",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Andorra – Malta",
-  "category": "UEFA Nations League D",
-  "time": "20:45",
-  "date": "2024-09-10",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Tjekkiet – Ukraine",
-  "category": "UEFA Nations League B",
-  "time": "20:45",
-  "date": "2024-09-10",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Albanien – Georgien",
-  "category": "UEFA Nations League B",
-  "time": "20:45",
-  "date": "2024-09-10",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Irland – Grækenland",
-  "category": "UEFA Nations League B",
-  "time": "20:45",
-  "date": "2024-09-10",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Holland – Tyskland",
-  "category": "UEFA Nations League A",
-  "time": "20:45",
-  "date": "2024-09-10",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "England – Finland",
-  "category": "UEFA Nations League B",
-  "time": "20:45",
-  "date": "2024-09-10",
+  "date": "2024-09-11",
   "channels": [
    {
     "name": "TV2 Sport",
@@ -132,10 +100,10 @@
   ]
  },
  {
-  "match": "Ungarn – Bosnien-Hercegovina",
-  "category": "UEFA Nations League A",
-  "time": "20:45",
-  "date": "2024-09-10",
+  "match": "WTA 500 Guadalajara: Indledende runder",
+  "category": "WTA",
+  "time": "21:00",
+  "date": "2024-09-11",
   "channels": [
    {
     "name": "TV2 Play",
@@ -144,14 +112,18 @@
   ]
  },
  {
-  "match": "WTA 500: Guadalajara",
-  "category": "WTA",
-  "time": "21:00",
-  "date": "2024-09-10",
+  "match": "PGA Tour – Napa Valley Championship",
+  "category": "PGA",
+  "time": "23:59",
+  "date": "2024-09-11",
   "channels": [
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    }
   ]
  }
