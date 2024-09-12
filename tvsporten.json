@@ -1,73 +1,21 @@
 [
  {
-  "match": "Giro di Toscana",
-  "category": "UCI Herrer",
-  "time": "14:30",
-  "date": "2024-09-11",
+  "match": "Snooker English Open Kvalifikation",
+  "category": "World Snooker Tour",
+  "time": "10:00",
+  "date": "2024-09-12",
   "channels": [
    {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    }
   ]
  },
  {
-  "match": "Limburg (k)",
-  "category": "UCI Kvinder",
-  "time": "15:00",
-  "date": "2024-09-11",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "Limburg (m)",
-  "category": "UCI Herrer",
-  "time": "16:30",
-  "date": "2024-09-11",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "Aalborg Håndbold – Hbc Nantes",
-  "category": "EHF Champions League Håndbold",
-  "time": "18:35",
-  "date": "2024-09-11",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   }
-  ]
- },
- {
-  "match": "B 1908 Amager – B 93 København",
-  "category": "DBU Pokalen",
-  "time": "18:55",
-  "date": "2024-09-11",
+  "match": "Rotterdam P1",
+  "category": "Premier Padel",
+  "time": "10:00",
+  "date": "2024-09-12",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -76,22 +24,186 @@
   ]
  },
  {
-  "match": "FC København – Allerød Fodbold Klub",
-  "category": "Gjensidige Kvindeliga",
-  "time": "19:00",
-  "date": "2024-09-11",
+  "match": "Irish Open - Dag 1",
+  "category": "DP World Tour",
+  "time": "14:00",
+  "date": "2024-09-12",
   "channels": [
    {
-    "name": "Pluto TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/pluto_logo-2.png"
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
  {
-  "match": "Nykøbing Falster Håndboldklub – Odense Håndbold",
-  "category": "Bambusa Kvindeligaen",
+  "match": "Limburg (mixed)",
+  "category": "UCI Herrer",
+  "time": "14:20",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Coppa Sabatini",
+  "category": "UCI Herrer",
+  "time": "14:30",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hc Trinec – Växjö Lakers",
+  "category": "Champions Hockey League",
+  "time": "16:55",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 250 Monastir: Indledende runder",
+  "category": "WTA",
+  "time": "17:00",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Snooker English Open Kvalifikation",
+  "category": "World Snooker Tour",
+  "time": "17:00",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Tappara Tampere – Rouen Dragons",
+  "category": "Champions Hockey League",
+  "time": "17:25",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "SønderjyskE – Fischtown Pinguins Bremerhaven",
+  "category": "Champions Hockey League",
+  "time": "18:50",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "THW Kiel – Frisch Auf Göppingen",
+  "category": "Bundesliga Håndbold",
+  "time": "18:55",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Nashville Open - Dag 1",
+  "category": "PGA",
+  "time": "19:00",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Fehérvár AV19 – Färjestad BK",
+  "category": "Champions Hockey League",
+  "time": "19:25",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Ge Servette Hc – Storhamar Dragons",
+  "category": "Champions Hockey League",
+  "time": "19:40",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Lausanne Hc – Ilves Tampere",
+  "category": "Champions Hockey League",
+  "time": "19:40",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Mors-Thy Håndbold – TTH Holstebro",
+  "category": "HTH Herreligaen",
   "time": "20:00",
-  "date": "2024-09-11",
+  "date": "2024-09-12",
   "channels": [
    {
     "name": "TV2 Sport",
@@ -100,10 +212,34 @@
   ]
  },
  {
+  "match": "Kac Klagenfurt – Hc Fribourg Gotteron",
+  "category": "Champions Hockey League",
+  "time": "20:15",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Harrogate Town – Doncaster Rovers",
+  "category": "League Two",
+  "time": "20:55",
+  "date": "2024-09-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
   "match": "WTA 500 Guadalajara: Indledende runder",
   "category": "WTA",
   "time": "21:00",
-  "date": "2024-09-11",
+  "date": "2024-09-12",
   "channels": [
    {
     "name": "TV2 Play",
@@ -115,7 +251,7 @@
   "match": "PGA Tour – Napa Valley Championship",
   "category": "PGA",
   "time": "23:59",
-  "date": "2024-09-11",
+  "date": "2024-09-12",
   "channels": [
    {
     "name": "Eurosport 2",
