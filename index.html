@@ -17,10 +17,6 @@
             background-color: #121212;
             color: #ffffff;
             font-family: 'Arial', sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
             padding: 20px;
         }
 
@@ -42,6 +38,14 @@
             margin-bottom: 15px;
             border-radius: 8px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            transition: transform 0.2s ease-in-out;
+        }
+
+        .job-card:hover {
+            transform: scale(1.02);
         }
 
         .job-card h2 {
@@ -54,14 +58,36 @@
             color: #b0bec5;
         }
 
+        .job-card .category {
+            color: #26c6da;
+            font-weight: bold;
+        }
+
+        .job-card .location {
+            font-weight: bold;
+            color: #aed581;
+        }
+
         .job-card a {
             color: #ffab40;
             text-decoration: none;
             font-weight: bold;
+            padding: 10px 15px;
+            background-color: #ff5722;
+            border-radius: 4px;
+            align-self: flex-start;
+            transition: background-color 0.3s ease-in-out;
         }
 
         .job-card a:hover {
-            text-decoration: underline;
+            background-color: #ff7043;
+        }
+
+        /* Grid layout */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
         }
 
         /* Responsive Design */
@@ -74,52 +100,52 @@
                 font-size: 1.2em;
             }
         }
+
+        .loading {
+            text-align: center;
+            color: #ffab40;
+            font-size: 1.5em;
+            padding: 50px;
+        }
+
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Job Listings</h1>
-        <div id="jobs"></div>
+        <h1>Latest Job Listings</h1>
+        <div id="jobs" class="grid">
+            <p class="loading">Loading jobs...</p>
+        </div>
     </div>
 
     <script>
-        const jobsData = [
-            {
-                "category": "it",
-                "pub_date": "11-09-2024",
-                "title": "Kombineret DPO og Kontrolmedarbejder",
-                "company": "Brønderslev Kommune",
-                "location": "Brønderslev",
-                "job_URL": "https://bronderslev-v2.career.emply.com/ad/kombineret-dpo-og-kontrolmedarbejder-til-bronderslev-kommune/ge4s5j/da"
-            },
-            {
-                "category": "it",
-                "pub_date": "11-09-2024",
-                "title": "Senior Software Engineer til BILA Automation",
-                "company": "BILA A/S",
-                "location": "Nykøbing Mors",
-                "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144206&DepartmentId=18958&MediaId=4614"
-            },
-            // Add the rest of your job listings here...
-        ];
+        // Fetch JSON data from jobs.json
+        fetch("jobs.json")
+            .then(response => response.json())
+            .then(data => {
+                const jobsContainer = document.getElementById('jobs');
+                jobsContainer.innerHTML = ''; // Clear loading text
 
-        const jobsContainer = document.getElementById('jobs');
+                data.forEach(job => {
+                    const jobCard = document.createElement('div');
+                    jobCard.classList.add('job-card');
 
-        jobsData.forEach(job => {
-            const jobCard = document.createElement('div');
-            jobCard.classList.add('job-card');
+                    jobCard.innerHTML = `
+                        <h2>${job.title}</h2>
+                        <p class="category">Category: ${job.category.toUpperCase()}</p>
+                        <p class="location">Location: ${job.location}</p>
+                        <p><strong>Company:</strong> ${job.company}</p>
+                        <p><strong>Published:</strong> ${job.pub_date}</p>
+                        <a href="${job.job_URL}" target="_blank">View Job</a>
+                    `;
 
-            jobCard.innerHTML = `
-                <h2>${job.title}</h2>
-                <p><strong>Company:</strong> ${job.company}</p>
-                <p><strong>Location:</strong> ${job.location}</p>
-                <p><strong>Published:</strong> ${job.pub_date}</p>
-                <p><strong>Category:</strong> ${job.category.toUpperCase()}</p>
-                <a href="${job.job_URL}" target="_blank">View Job</a>
-            `;
-
-            jobsContainer.appendChild(jobCard);
-        });
+                    jobsContainer.appendChild(jobCard);
+                });
+            })
+            .catch(error => {
+                console.error('Error loading jobs:', error);
+                document.getElementById('jobs').innerHTML = '<p class="loading">Failed to load jobs. Please try again later.</p>';
+            });
     </script>
 </body>
 </html>
