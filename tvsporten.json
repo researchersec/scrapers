@@ -1,9 +1,21 @@
 [
  {
+  "match": "WTA 250 Hua Hin: Indledende runder",
+  "category": "WTA",
+  "time": "06:00",
+  "date": "2024-09-19",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+   }
+  ]
+ },
+ {
   "match": "WTA 500 Seoul: Indledende runder",
   "category": "WTA",
-  "time": "05:00",
-  "date": "2024-09-18",
+  "time": "07:00",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "TV2 Play",
@@ -12,10 +24,10 @@
   ]
  },
  {
-  "match": "ATP 250 Chengdu",
+  "match": "ATP 250 Chengdu: Indledende runder",
   "category": "ATP",
   "time": "07:00",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "TV2 Play",
@@ -24,38 +36,14 @@
   ]
  },
  {
-  "match": "ATP 250 Hangzhou",
+  "match": "ATP 250 Hangzhou: Indledende runder",
   "category": "ATP",
-  "time": "08:00",
-  "date": "2024-09-18",
+  "time": "07:30",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "China Open: Anders Antonsen🇩🇰 - Angus Ng Ka Long",
-  "category": "BWF World Tour",
-  "time": "08:30",
-  "date": "2024-09-18",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "China Open: Viktor Axelsen🇩🇰 - Lan Xi Lei",
-  "category": "BWF World Tour",
-  "time": "09:30",
-  "date": "2024-09-18",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
    }
   ]
  },
@@ -63,7 +51,7 @@
   "match": "Valladolid P2",
   "category": "Premier Padel",
   "time": "10:00",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -72,26 +60,30 @@
   ]
  },
  {
-  "match": "China Open: Rasmus Gemke🇩🇰 - Jonatan Christie",
-  "category": "BWF World Tour",
-  "time": "10:30",
-  "date": "2024-09-18",
+  "match": "BMW PGA Championship - Dag 1",
+  "category": "PGA",
+  "time": "13:00",
+  "date": "2024-09-19",
   "channels": [
    {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
  {
-  "match": "China Open: Astrup/Skaarup🇩🇰 - Ahsan/Setiawan",
-  "category": "BWF World Tour",
-  "time": "11:30",
-  "date": "2024-09-18",
+  "match": "La Sella Open",
+  "category": "European Tour",
+  "time": "14:00",
+  "date": "2024-09-19",
   "channels": [
    {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
@@ -99,7 +91,7 @@
   "match": "English Open",
   "category": "World Snooker Tour",
   "time": "14:00",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "Eurosport 1",
@@ -112,26 +104,10 @@
   ]
  },
  {
-  "match": "Tour of Luxembourg - 1.etape",
-  "category": "UCI Herrer",
-  "time": "15:00",
-  "date": "2024-09-18",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "Manchester City U19 – Inter U19",
+  "match": "AS Monaco U19 – FC Barcelona U19",
   "category": "UEFA Youth League",
-  "time": "15:55",
-  "date": "2024-09-18",
+  "time": "14:55",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "TV3 Sport",
@@ -144,10 +120,10 @@
   ]
  },
  {
-  "match": "Grand Prix Wallonie",
+  "match": "Tour of Luxembourg - 2.etape",
   "category": "UCI Herrer",
-  "time": "16:00",
-  "date": "2024-09-18",
+  "time": "15:00",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "Eurosport 1",
@@ -160,10 +136,38 @@
   ]
  },
  {
-  "match": "Bologna FC – Shakhtar Donetsk",
+  "match": "FC Fredericia – AaB",
+  "category": "DBU Pokalen",
+  "time": "17:55",
+  "date": "2024-09-19",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Fredericia Hk 1990 – Sporting CP",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:45",
+  "date": "2024-09-19",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Røde Stjerne – Benfica",
   "category": "Champions League",
   "time": "18:45",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "TV3 Max",
@@ -176,10 +180,10 @@
   ]
  },
  {
-  "match": "Sparta Prag – Red Bull Salzburg",
+  "match": "Feyenoord – Bayer Leverkusen",
   "category": "Champions League",
   "time": "18:45",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "TV3 Sport",
@@ -192,22 +196,62 @@
   ]
  },
  {
-  "match": "Real Betis – CF Getafe",
-  "category": "La Liga",
+  "match": "FC Rosengård – Växjö",
+  "category": "Damallsvenskan",
   "time": "19:00",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
   "channels": [
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
  {
-  "match": "København Håndbold – Team Esbjerg",
-  "category": "Bambusa Kvindeligaen",
+  "match": "Kroger Queens City Championship - Dag 1",
+  "category": "LPGA",
+  "time": "19:00",
+  "date": "2024-09-19",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Bakken Bears – Horsens IC",
+  "category": "Basketligaen",
+  "time": "19:00",
+  "date": "2024-09-19",
+  "channels": [
+   {
+    "name": "Sport Live",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Leganes Cd – Athletic Bilbao",
+  "category": "La Liga",
+  "time": "19:00",
+  "date": "2024-09-19",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "TTH Holstebro – Bjerringbro-Silkeborg",
+  "category": "HTH Herreligaen",
   "time": "20:00",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "TV2 Sport",
@@ -219,7 +263,7 @@
   "match": "English Open",
   "category": "World Snooker Tour",
   "time": "20:00",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "Eurosport 1",
@@ -232,62 +276,10 @@
   ]
  },
  {
-  "match": "Brighton & Hove Albion – Wolverhampton Wanderers",
-  "category": "League Cup",
-  "time": "20:45",
-  "date": "2024-09-18",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Coventry City – Tottenham Hotspur",
-  "category": "League Cup",
-  "time": "20:55",
-  "date": "2024-09-18",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Paris Saint Germain – Girona Cf",
+  "match": "Stade Brest – Sturm Graz",
   "category": "Champions League",
   "time": "21:00",
-  "date": "2024-09-18",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Club Brugge – Borussia Dortmund",
-  "category": "Champions League",
-  "time": "21:00",
-  "date": "2024-09-18",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Celtic FC – SK Slovan Bratislava",
-  "category": "Champions League",
-  "time": "21:00",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "TV3 Max",
@@ -300,10 +292,38 @@
   ]
  },
  {
-  "match": "Manchester City – Inter",
+  "match": "Atalanta – Arsenal FC",
   "category": "Champions League",
   "time": "21:00",
-  "date": "2024-09-18",
+  "date": "2024-09-19",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Atletico Madrid – RB Leipzig",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2024-09-19",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "AS Monaco – FC Barcelona",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2024-09-19",
   "channels": [
    {
     "name": "TV3 +",
@@ -312,6 +332,22 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Nationwide Childrens Hospital Championship | Dag 1",
+  "category": "PGA",
+  "time": "22:00",
+  "date": "2024-09-19",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
    }
   ]
  }

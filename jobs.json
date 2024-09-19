@@ -1,6 +1,14 @@
 [
  {
   "category": "it",
+  "pub_date": "18-09-2024",
+  "title": "IT & Network Infrastructure Architect",
+  "company": "XCI A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://xci.teamtailor.com/jobs/4992677-it-network-infrastructure-architect?promotion=1154864-jobindex"
+ },
+ {
+  "category": "it",
   "pub_date": "17-09-2024",
   "title": "Implementation Specialist– bliv en del af itm8",
   "company": "Itm8",
@@ -136,12 +144,20 @@
   "job_URL": "https://smrtr.io/dkqRT"
  },
  {
-  "category": "it",
-  "pub_date": "09-09-2024",
-  "title": "Software Developer",
-  "company": "Netcompany",
-  "location": "Aarhus, Aalborg eller København K",
-  "job_URL": "https://smrtr.io/dvhVc"
+  "category": "industri",
+  "pub_date": "18-09-2024",
+  "title": "Industritekniker med CNC-erfaring",
+  "company": "Hans Jensen Lubricators A/S",
+  "location": "Hadsund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1501276/industritekniker-med-cnc-erfaring"
+ },
+ {
+  "category": "industri",
+  "pub_date": "18-09-2024",
+  "title": "Sælger til Byggecenter i Nykøbing",
+  "company": "XL-BYG",
+  "location": "Nykøbing M",
+  "job_URL": "https://app.elvium.com/da/positions/27715/job_posting?referer_host=www.jobindex.dk"
  },
  {
   "category": "industri",
@@ -216,28 +232,12 @@
   "job_URL": "https://matchmind.dk/ledige-jobs?hr=show-job/216239&linkref=229868&locale=da_DK"
  },
  {
-  "category": "industri",
-  "pub_date": "13-09-2024",
-  "title": "Produktionsmedarbejdere søges til grøn virksomhed",
-  "company": "Blue World Technologies",
-  "location": "Aalborg",
-  "job_URL": "https://www.blue.world/job/produktionsmedarbejdere-soges-til-gron-virksomhed/"
- },
- {
-  "category": "industri",
-  "pub_date": "12-09-2024",
-  "title": "Driftsmedarbejder med hænderne rigtigt skruet på",
-  "company": "Frederikshavn Forsyning A/S",
-  "location": "Skagen",
-  "job_URL": "https://forsyningen.emply.net/recruitment/vacancyAd.aspx?publishingId=aafe4af8-dfda-4db1-bb3a-00d345723589"
- },
- {
-  "category": "industri",
-  "pub_date": "12-09-2024",
-  "title": "Stationsbestyrer til fjernstyringscentralen i Nordjyske Jernbaner A/S",
-  "company": "Nordjyske Jernbaner A/S",
-  "location": "Hjørring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1499960/stationsbestyrer-til-fjernstyringscentralen-i-nordjyske-jernbaner-a-s"
+  "category": "handel",
+  "pub_date": "18-09-2024",
+  "title": "Sælger til Byggecenter i Nykøbing",
+  "company": "XL-BYG",
+  "location": "Nykøbing M",
+  "job_URL": "https://app.elvium.com/da/positions/27715/job_posting?referer_host=www.jobindex.dk"
  },
  {
   "category": "handel",
@@ -336,12 +336,60 @@
   "job_URL": "https://www.atp.dk/karriere/ejendomsservicetekniker-til-drift-og-vedligeholdende-af-atps-bygninger-i-frederikshavn-184420"
  },
  {
-  "category": "handel",
-  "pub_date": "09-09-2024",
-  "title": "Instruktør",
-  "company": "Nordjyllands Beredskab",
+  "category": "ledelse",
+  "pub_date": "18-09-2024",
+  "title": "Stakeholder Coordinator – landowners",
+  "company": "Eurowind Energy A/S",
+  "location": "Hobro",
+  "job_URL": "https://eurowindenergy.com/uk/career?hr=show-job/216892&locale=en_US#hrskyen"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "18-09-2024",
+  "title": "Leder til Brønderslev Kulturskole - genopslag",
+  "company": "Brønderslev Kommune",
+  "location": "Brønderslev",
+  "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/leder-til-bronderslev-kulturskole-genopslag/p7ju3r/da"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "18-09-2024",
+  "title": "Project Manager",
+  "company": "DSI Dantech",
   "location": "Aalborg",
-  "job_URL": "https://aalborg-2.career.emply.com/ad/instruktor/2tohxi/da"
+  "job_URL": "https://dsidantech.com/career?hr=show-job%2F216852%26locale%3Dda_DK"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "18-09-2024",
+  "title": "Leder til Kundeservice og vejledning",
+  "company": "Skattestyrelsen",
+  "location": "Hjørring",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=183032&DepartmentId=9408&MediaId=3191"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "18-09-2024",
+  "title": "Projektleder med ansvar for kundeprojekter",
+  "company": "DESMI Pumping Technology A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3467&joblistId=1&lang=en"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "18-09-2024",
+  "title": "Økonomichef",
+  "company": "Jobinnovation ApS",
+  "location": "Vrå",
+  "job_URL": "https://www.jobinnovation.dk/jobs/4944874-okonomichef-vra"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "18-09-2024",
+  "title": "Group HR Business Partner",
+  "company": "Hansen Toft A/S",
+  "location": "Hobro",
+  "job_URL": "https://www.hansentoft.dk/job/8604"
  },
  {
   "category": "ledelse",
@@ -416,60 +464,28 @@
   "job_URL": "https://matchmind.dk/ledige-jobs?hr=show-job/216239&linkref=229868&locale=da_DK"
  },
  {
-  "category": "ledelse",
-  "pub_date": "13-09-2024",
-  "title": "Projektleder",
-  "company": "Randstad A/S",
-  "location": "Aalborg",
-  "job_URL": "https://www.randstad.dk/jobs/projektleder_aalborg_11672/?utm_source=jobindex&utm_medium=post-paid-jobslot&utm_campaign=profil_annonce"
+  "category": "undervisning",
+  "pub_date": "18-09-2024",
+  "title": "Leder til Brønderslev Kulturskole - genopslag",
+  "company": "Brønderslev Kommune",
+  "location": "Brønderslev",
+  "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/leder-til-bronderslev-kulturskole-genopslag/p7ju3r/da"
  },
  {
-  "category": "ledelse",
-  "pub_date": "13-09-2024",
-  "title": "Quality Assurance Manager – til spændende fødevarevirksomhed i Tårs",
-  "company": "Good Food Group A/S",
-  "location": "Tårs",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1500343/quality-assurance-manager-til-spaendende-foedevarevirksomhed-i-taars"
+  "category": "undervisning",
+  "pub_date": "18-09-2024",
+  "title": "Lærer til midlertidig stilling på Hannæs-Østerild skole",
+  "company": "THISTED KOMMUNE",
+  "location": "Frøstrup",
+  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=128796"
  },
  {
-  "category": "ledelse",
-  "pub_date": "12-09-2024",
-  "title": "Konsulent med juridisk tæft til lederområdet",
-  "company": "Dansk Socialrådgiverforening",
-  "location": "Fredericia, Aalborg, Aarhus N, Roskilde eller Odense",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1500070/konsulent-med-juridisk-taeft-til-lederomraadet"
- },
- {
-  "category": "ledelse",
-  "pub_date": "12-09-2024",
-  "title": "Personaleleder med erfaring inden for ledelsesbetjening og tværorganisatorisk koordinering",
-  "company": "Statens Administration",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=182925&DepartmentId=7568&MediaId=3823"
- },
- {
-  "category": "ledelse",
-  "pub_date": "12-09-2024",
-  "title": "Vicedirektør",
-  "company": "CareMatch ApS",
-  "location": "Hjørring",
-  "job_URL": "https://job.carematch.dk/jobs/4964843-vicedirektoer-til-socialansvar?promotion=1147932-jobindex"
- },
- {
-  "category": "ledelse",
-  "pub_date": "11-09-2024",
-  "title": "Head of Marketing & E-commerce",
-  "company": "SACKit ApS",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1499692/head-of-marketing-e-commerce"
- },
- {
-  "category": "ledelse",
-  "pub_date": "11-09-2024",
-  "title": "Projektchef til jordentrepriser i Vestdanmark",
-  "company": "MT Højgaard Danmark A/S",
-  "location": "Risskov, Aalborg eller Fredericia",
-  "job_URL": "https://mthgroup.csod.com/ats/careersite/JobDetails.aspx?site=11&id=1235"
+  "category": "undervisning",
+  "pub_date": "18-09-2024",
+  "title": "Lærer der brænder for at udbrede matematisk forståelse søges",
+  "company": "Vesthimmerlands Kommune",
+  "location": "Aars",
+  "job_URL": "https://vesthimmerland.dk/ledige-stillinger?hr=show-job/28144&linkref=7440&locale=da_DK"
  },
  {
   "category": "undervisning",
@@ -552,30 +568,6 @@
   "job_URL": "https://eucnord.career.emply.com/ad/udviklingskonsulent-til-euc-nord/ec67hr"
  },
  {
-  "category": "undervisning",
-  "pub_date": "06-09-2024",
-  "title": "Barselsvikar søges til administrativ rolle",
-  "company": "TECHCOLLEGE",
-  "location": "Aalborg",
-  "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1011"
- },
- {
-  "category": "undervisning",
-  "pub_date": "06-09-2024",
-  "title": "Vi søger lærer pr. 1. nov. 2024",
-  "company": "Brovandeskolen – Lilleskolen i Skagen",
-  "location": "Skagen",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1498644/vi-soeger-laerer-pr-1-nov-2024"
- },
- {
-  "category": "undervisning",
-  "pub_date": "05-09-2024",
-  "title": "Pædagog til Center for Børn, Unge og Familier, Støtte- og Kontaktkorpset",
-  "company": "Hjørring Kommune",
-  "location": "Hjørring",
-  "job_URL": "https://hjoerring.emply.net/recruitment/vacancyAd.aspx?publishingId=f6722f13-0c47-403e-8b90-c7c0d6fd0cd8"
- },
- {
   "category": "social",
   "pub_date": "17-09-2024",
   "title": "Vil du være med til at sætte dit præg på fremtidens fysioterapi, hvor der er fokus på kvalitet og udvikling?",
@@ -650,14 +642,6 @@
  {
   "category": "social",
   "pub_date": "10-09-2024",
-  "title": "Hjørring Kommunes ydelsesafdeling søger ydelsesmedarbejder – Er det dig?",
-  "company": "Hjørring Kommune",
-  "location": "Hjørring",
-  "job_URL": "https://hjoerring.emply.net/recruitment/vacancyAd.aspx?publishingId=18d34b25-a024-423c-a885-1f1655a74abd"
- },
- {
-  "category": "social",
-  "pub_date": "10-09-2024",
   "title": "Udviklingsorienteret fleksjobkonsulent til Team Job og Fleksjob",
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
@@ -686,6 +670,30 @@
   "company": "Vurderingsstyrelsen",
   "location": "Aalborg",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=182715&DepartmentId=9410&MediaId=3191"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "18-09-2024",
+  "title": "Stakeholder Coordinator – landowners",
+  "company": "Eurowind Energy A/S",
+  "location": "Hobro",
+  "job_URL": "https://eurowindenergy.com/uk/career?hr=show-job/216892&locale=en_US#hrskyen"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "18-09-2024",
+  "title": "Project Manager",
+  "company": "DSI Dantech",
+  "location": "Aalborg",
+  "job_URL": "https://dsidantech.com/career?hr=show-job%2F216852%26locale%3Dda_DK"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "18-09-2024",
+  "title": "Projektleder med ansvar for kundeprojekter",
+  "company": "DESMI Pumping Technology A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3467&joblistId=1&lang=en"
  },
  {
   "category": "ingenioer",
@@ -792,28 +800,36 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1500343/quality-assurance-manager-til-spaendende-foedevarevirksomhed-i-taars"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "13-09-2024",
-  "title": "Produktionsmedarbejdere søges til grøn virksomhed",
-  "company": "Blue World Technologies",
-  "location": "Aalborg",
-  "job_URL": "https://www.blue.world/job/produktionsmedarbejdere-soges-til-gron-virksomhed/"
+  "category": "salg",
+  "pub_date": "18-09-2024",
+  "title": "Technical Writer",
+  "company": "Continia Software A/S",
+  "location": "Copenhagen, Aalborg, Amsterdam, Belgium, Hamburg, Kiel, Osterholz, New York, Vilnius, and Spain",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143662&DepartmentId=18973&MediaId=5"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "13-09-2024",
-  "title": "Vi søger en dygtig tekniker med solid erfaring inden for radiosystemer!",
-  "company": "Temp-Team A/S",
-  "location": "Sæby",
-  "job_URL": "https://temp-team-dk.recman.no/job.php?job_id=397091#"
+  "category": "salg",
+  "pub_date": "18-09-2024",
+  "title": "Leder til Brønderslev Kulturskole - genopslag",
+  "company": "Brønderslev Kommune",
+  "location": "Brønderslev",
+  "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/leder-til-bronderslev-kulturskole-genopslag/p7ju3r/da"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "12-09-2024",
-  "title": "Konsulent med miljøbaggrund",
-  "company": "Miljømærkning Danmark",
-  "location": "Løgstør",
-  "job_URL": "https://ecolabel.career.emply.com/ad/konsulent-med-miljobaggrund-til-miljomaerkning-danmark-i-logstor/lb1dsw/da"
+  "category": "salg",
+  "pub_date": "18-09-2024",
+  "title": "Order Support - Production",
+  "company": "DESMI Danmark A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3483&joblistId=1&lang=en"
+ },
+ {
+  "category": "salg",
+  "pub_date": "18-09-2024",
+  "title": "Sælger til Byggecenter i Nykøbing",
+  "company": "XL-BYG",
+  "location": "Nykøbing M",
+  "job_URL": "https://app.elvium.com/da/positions/27715/job_posting?referer_host=www.jobindex.dk"
  },
  {
   "category": "salg",
@@ -888,36 +904,52 @@
   "job_URL": "https://karriere.kompetent.as/jobs/4953567-sales-manager"
  },
  {
-  "category": "salg",
-  "pub_date": "12-09-2024",
-  "title": "Do you love Photography, Videography and Coordinator? – Join the Emaldo® Marketing Team",
-  "company": "Emaldo",
-  "location": "Ølstykke",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1499710/do-you-love-photography-videography-and-coordinator-join-the-emaldo-marketing-team"
+  "category": "kontor",
+  "pub_date": "18-09-2024",
+  "title": "Stakeholder Coordinator – landowners",
+  "company": "Eurowind Energy A/S",
+  "location": "Hobro",
+  "job_URL": "https://eurowindenergy.com/uk/career?hr=show-job/216892&locale=en_US#hrskyen"
  },
  {
-  "category": "salg",
-  "pub_date": "12-09-2024",
-  "title": "Gruppeansvarlig til Erhverv- & foreningsrejser søges",
-  "company": "NILLES Rejser A/S",
+  "category": "kontor",
+  "pub_date": "18-09-2024",
+  "title": "Senior Finance Accountant",
+  "company": "XCI A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://xci.teamtailor.com/jobs/4990664-senior-finance-accountant?promotion=1154314-jobindex"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "18-09-2024",
+  "title": "Leder til Brønderslev Kulturskole - genopslag",
+  "company": "Brønderslev Kommune",
+  "location": "Brønderslev",
+  "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/leder-til-bronderslev-kulturskole-genopslag/p7ju3r/da"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "18-09-2024",
+  "title": "Leder til Kundeservice og vejledning",
+  "company": "Skattestyrelsen",
+  "location": "Hjørring",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=183032&DepartmentId=9408&MediaId=3191"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "18-09-2024",
+  "title": "Order Support - Production",
+  "company": "DESMI Danmark A/S",
   "location": "Nørresundby",
-  "job_URL": "https://app.jobmatchprofile.com/wac52k"
+  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3483&joblistId=1&lang=en"
  },
  {
-  "category": "salg",
-  "pub_date": "11-09-2024",
-  "title": "Head of Marketing & E-commerce",
-  "company": "SACKit ApS",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1499692/head-of-marketing-e-commerce"
- },
- {
-  "category": "salg",
-  "pub_date": "11-09-2024",
-  "title": "Rådgiver/sælger til vore fantastiske kunder",
-  "company": "Danske Stenhuggerier A/S",
-  "location": "Frederikshavn",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1499553/raadgiver-saelger-til-vore-fantastiske-kunder"
+  "category": "kontor",
+  "pub_date": "18-09-2024",
+  "title": "Økonomichef",
+  "company": "Jobinnovation ApS",
+  "location": "Vrå",
+  "job_URL": "https://www.jobinnovation.dk/jobs/4944874-okonomichef-vra"
  },
  {
   "category": "kontor",
@@ -1014,54 +1046,6 @@
   "company": "Curia",
   "location": "Aalborg Øst",
   "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22244&locale=da_DK"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-09-2024",
-  "title": "Forsikringsteknisk proces- og udviklingskonsulent",
-  "company": "S. P. Jensen A/S",
-  "location": "Svenstrup J",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1500312/forsikringsteknisk-proces-og-udviklingskonsulent"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-09-2024",
-  "title": "Fagkoordinator i Kundeadministration",
-  "company": "Nordværk I/S",
-  "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143688&DepartmentId=18969&MediaId=4629"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-09-2024",
-  "title": "Accounting Controller at Aalborg Portland Nordic & Baltic",
-  "company": "Aalborg Portland",
-  "location": "Aalborg",
-  "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3403251/130145/"
- },
- {
-  "category": "kontor",
-  "pub_date": "12-09-2024",
-  "title": "Konsulent med juridisk tæft til lederområdet",
-  "company": "Dansk Socialrådgiverforening",
-  "location": "Fredericia, Aalborg, Aarhus N, Roskilde eller Odense",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1500070/konsulent-med-juridisk-taeft-til-lederomraadet"
- },
- {
-  "category": "kontor",
-  "pub_date": "12-09-2024",
-  "title": "Stationsbestyrer til fjernstyringscentralen i Nordjyske Jernbaner A/S",
-  "company": "Nordjyske Jernbaner A/S",
-  "location": "Hjørring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1499960/stationsbestyrer-til-fjernstyringscentralen-i-nordjyske-jernbaner-a-s"
- },
- {
-  "category": "kontor",
-  "pub_date": "12-09-2024",
-  "title": "Medarbejder til Sygdom og Barselssektionen",
-  "company": "Forsvaret",
-  "location": "Hjørring",
-  "job_URL": "https://karriere.forsvaret.dk/job/opslag/?vacantPositionId=192787&mediaId=4681"
  },
  {
   "category": "oevrige",
@@ -1166,13 +1150,5 @@
   "company": "Semler Gruppen",
   "location": "Aalborg",
   "job_URL": "https://jobs.semler.dk/job/Aalborg-Administrativ-Medhj%C3%A6lper-s%C3%B8ges-til-receptionen-hos-Semler-Mobility-Aalborg-9000/802603602/"
- },
- {
-  "category": "oevrige",
-  "pub_date": "06-09-2024",
-  "title": "Drømmer du om at arbejde med Talent Acquisition? Få et spændende studiejob hos MatchMind!",
-  "company": "MatchMind",
-  "location": "Aalborg",
-  "job_URL": "https://matchmind.dk/ledige-jobs?hr=show-job/215089&linkref=227828&locale=da_DK"
  }
 ]
