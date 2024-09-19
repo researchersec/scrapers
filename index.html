@@ -42,6 +42,11 @@
             flex-direction: column;
             justify-content: space-between;
             transition: transform 0.2s ease-in-out;
+            position: relative;
+        }
+
+        .job-card.read {
+            opacity: 0.5;
         }
 
         .job-card:hover {
@@ -83,6 +88,22 @@
             background-color: #ff7043;
         }
 
+        .job-card .mark-read {
+            background-color: #333;
+            color: #ffffff;
+            border: none;
+            padding: 8px 12px;
+            margin-top: 10px;
+            cursor: pointer;
+            border-radius: 4px;
+            align-self: flex-start;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .job-card .mark-read:hover {
+            background-color: #666;
+        }
+
         /* Grid layout */
         .grid {
             display: grid;
@@ -119,33 +140,75 @@
     </div>
 
     <script>
-        // Fetch JSON data from jobs.json
-        fetch("jobs.json")
-            .then(response => response.json())
-            .then(data => {
-                const jobsContainer = document.getElementById('jobs');
-                jobsContainer.innerHTML = ''; // Clear loading text
+        const STORAGE_KEY = 'readJobs';
 
-                data.forEach(job => {
-                    const jobCard = document.createElement('div');
-                    jobCard.classList.add('job-card');
+        // Load read jobs from localStorage
+        const getReadJobs = () => {
+            return JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
+        };
 
-                    jobCard.innerHTML = `
-                        <h2>${job.title}</h2>
-                        <p class="category">Category: ${job.category.toUpperCase()}</p>
-                        <p class="location">Location: ${job.location}</p>
-                        <p><strong>Company:</strong> ${job.company}</p>
-                        <p><strong>Published:</strong> ${job.pub_date}</p>
-                        <a href="${job.job_URL}" target="_blank">View Job</a>
-                    `;
+        // Save read jobs to localStorage
+        const setReadJobs = (readJobs) => {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(readJobs));
+        };
 
-                    jobsContainer.appendChild(jobCard);
+        // Mark job as read or unread
+        const toggleJobReadStatus = (jobId) => {
+            let readJobs = getReadJobs();
+            if (readJobs.includes(jobId)) {
+                readJobs = readJobs.filter(id => id !== jobId);  // Remove if already read
+            } else {
+                readJobs.push(jobId);  // Mark as read
+            }
+            setReadJobs(readJobs);
+            renderJobs();  // Re-render jobs with updated status
+        };
+
+        // Render jobs from JSON data
+        const renderJobs = () => {
+            fetch("/mnt/data/jobs.json")
+                .then(response => response.json())
+                .then(data => {
+                    const jobsContainer = document.getElementById('jobs');
+                    jobsContainer.innerHTML = '';  // Clear loading text
+
+                    const readJobs = getReadJobs();
+
+                    data.forEach((job, index) => {
+                        const jobId = `job-${index}`;  // Unique ID based on index
+
+                        const jobCard = document.createElement('div');
+                        jobCard.classList.add('job-card');
+                        
+                        // Mark as 'read' if found in readJobs
+                        if (readJobs.includes(jobId)) {
+                            jobCard.classList.add('read');
+                        }
+
+                        jobCard.innerHTML = `
+                            <h2>${job.title}</h2>
+                            <p class="category">Category: ${job.category.toUpperCase()}</p>
+                            <p class="location">Location: ${job.location}</p>
+                            <p><strong>Company:</strong> ${job.company}</p>
+                            <p><strong>Published:</strong> ${job.pub_date}</p>
+                            <a href="${job.job_URL}" target="_blank">View Job</a>
+                            <button class="mark-read">${readJobs.includes(jobId) ? 'Mark as Unread' : 'Mark as Read'}</button>
+                        `;
+
+                        // Add event listener to "Mark as Read/Unread" button
+                        jobCard.querySelector('.mark-read').addEventListener('click', () => toggleJobReadStatus(jobId));
+
+                        jobsContainer.appendChild(jobCard);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error loading jobs:', error);
+                    document.getElementById('jobs').innerHTML = '<p class="loading">Failed to load jobs. Please try again later.</p>';
                 });
-            })
-            .catch(error => {
-                console.error('Error loading jobs:', error);
-                document.getElementById('jobs').innerHTML = '<p class="loading">Failed to load jobs. Please try again later.</p>';
-            });
+        };
+
+        // Initial render
+        renderJobs();
     </script>
 </body>
 </html>
