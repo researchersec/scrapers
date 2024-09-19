@@ -166,7 +166,7 @@
 
         // Render jobs from JSON data
         const renderJobs = () => {
-            fetch("/mnt/data/jobs.json")
+            fetch("jobs.json")
                 .then(response => response.json())
                 .then(data => {
                     const jobsContainer = document.getElementById('jobs');
