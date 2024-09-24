@@ -1,57 +1,5 @@
 [
  {
-  "match": "VM: Enkeltstart, Junior (K)",
-  "category": "VM i cykling",
-  "time": "08:30",
-  "date": "2024-09-24",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Chengdu: Finale",
-  "category": "ATP",
-  "time": "13:00",
-  "date": "2024-09-24",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Hangzhou: Finale",
-  "category": "ATP",
-  "time": "13:30",
-  "date": "2024-09-24",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "British Open Snooker",
-  "category": "World Snooker Tour",
-  "time": "14:00",
-  "date": "2024-09-24",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "Skive IK – FC Helsingør",
   "category": "DBU Pokalen",
   "time": "16:55",
