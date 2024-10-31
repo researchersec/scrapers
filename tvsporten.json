@@ -1,21 +1,9 @@
 [
  {
-  "match": "BMX Cykling",
-  "category": "BMX",
-  "time": "05:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "BMW Ladies Championship - Finalerunden",
+  "match": "TOTO Japan Classic - Dag 1",
   "category": "LPGA",
   "time": "06:00",
-  "date": "2024-10-20",
+  "date": "2024-10-31",
   "channels": [
    {
     "name": "V Sport Golf",
@@ -28,22 +16,10 @@
   ]
  },
  {
-  "match": "Tour of Guangxi 6.etape",
-  "category": "UCI World Tour",
-  "time": "07:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Black Mountain Championship - Finalerunden",
+  "match": "Indonesian Masters - Dag 1",
   "category": "Asian Tour",
-  "time": "09:00",
-  "date": "2024-10-20",
+  "time": "07:00",
+  "date": "2024-10-31",
   "channels": [
    {
     "name": "V Sport Golf",
@@ -56,58 +32,58 @@
   ]
  },
  {
-  "match": "Imola: Ferrari Challenge Europe",
-  "category": "Ferrari Challenge",
-  "time": "09:10",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Hockenheim",
-  "category": "DTM",
-  "time": "09:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Imola",
-  "category": "Ferrari Challenge",
-  "time": "10:20",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "WTA 500 Ningbo: Finale",
+  "match": "WTA 250 Hong Kong Open: Indledende runder",
   "category": "WTA",
-  "time": "11:00",
-  "date": "2024-10-20",
+  "time": "07:00",
+  "date": "2024-10-31",
   "channels": [
    {
     "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
    }
   ]
  },
  {
-  "match": "Andalucia Masters - Finalerunden",
-  "category": "DP World Tour",
+  "match": "Aramco Team Series",
+  "category": "European Tour",
   "time": "11:00",
-  "date": "2024-10-20",
+  "date": "2024-10-31",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 1000 Paris: Indledende runder",
+  "category": "ATP",
+  "time": "11:00",
+  "date": "2024-10-31",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "FIP World Championships 2024",
+  "category": "Premier Padel",
+  "time": "12:00",
+  "date": "2024-10-31",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Rolex Challenge Tour Grand Final - Dag 1",
+  "category": "European Tour",
+  "time": "12:00",
+  "date": "2024-10-31",
   "channels": [
    {
     "name": "V Sport Golf",
@@ -120,650 +96,86 @@
   ]
  },
  {
-  "match": "Tour of Guangxi",
-  "category": "UCI World Tour",
-  "time": "11:00",
-  "date": "2024-10-20",
+  "match": "Næsby BK – Viborg FF",
+  "category": "DBU Pokalen",
+  "time": "16:50",
+  "date": "2024-10-31",
   "channels": [
    {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
  {
-  "match": "Denmark Open: Finaler",
-  "category": "BWF World Tour",
-  "time": "12:00",
-  "date": "2024-10-20",
+  "match": "Genoa – Fiorentina",
+  "category": "Serie A",
+  "time": "18:30",
+  "date": "2024-10-31",
   "channels": [
    {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
    }
   ]
  },
  {
-  "match": "Ultimate Tennis Showdown",
-  "category": "Ultimate Tennis Showdown",
-  "time": "12:30",
-  "date": "2024-10-20",
+  "match": "Bakken Bears – Dinamo Bucharest",
+  "category": "European North Basketball League",
+  "time": "18:30",
+  "date": "2024-10-31",
   "channels": [
    {
     "name": "Sport Live",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.jpg"
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
    }
   ]
  },
  {
-  "match": "Empoli FC – Napoli",
-  "category": "Serie A",
-  "time": "12:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Kilmarnock FC – Rangers",
-  "category": "Scottish Premiership",
-  "time": "12:55",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Czech Darts Open",
-  "category": "PDC",
-  "time": "13:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Elite16 João Pessoa",
-  "category": "FIVB Volleyball",
-  "time": "13:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Manchester City Ladies – Aston Villa Women",
-  "category": "WSL",
-  "time": "13:10",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Hockenheim",
-  "category": "DTM",
-  "time": "13:15",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Hamburger SV – Magdeburg",
-  "category": "2. Bundesliga",
-  "time": "13:25",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "SpVgg Greuther Fürth – 1. FC Nürnberg",
-  "category": "2. Bundesliga",
-  "time": "13:25",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "SSV Ulm – Karlsruher SC",
-  "category": "2. Bundesliga",
-  "time": "13:25",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "VM i banecykling: Parløb",
-  "category": "Banecykling",
-  "time": "13:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "Mallorca – Rayo Vallecano",
-  "category": "La Liga",
-  "time": "14:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Lyngby BK – Viborg FF",
-  "category": "Superliga",
-  "time": "14:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "AaB – Randers FC",
-  "category": "Superliga",
-  "time": "14:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Stockholm: Finale",
-  "category": "ATP",
-  "time": "14:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Venetia Classic",
-  "category": "UCI World Tour",
-  "time": "14:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "AC Horsens – Hvidovre IF",
-  "category": "NordicBet Liga",
-  "time": "14:55",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Wolverhampton Wanderers – Manchester City",
-  "category": "Premier League",
-  "time": "15:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "See",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "AC Venezia – Atalanta",
-  "category": "Serie A",
-  "time": "15:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Lecce – Fiorentina",
-  "category": "Serie A",
-  "time": "15:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Jacksonville Jaguars – New England Patriots",
-  "category": "NFL",
-  "time": "15:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   },
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   }
-  ]
- },
- {
-  "match": "New England Patriots – Jacksonville Jaguars",
-  "category": "NFL",
-  "time": "15:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   }
-  ]
- },
- {
-  "match": "Holstein Kiel – 1. FC Union Berlin",
-  "category": "Bundesliga",
-  "time": "15:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Hull City – Sunderland",
-  "category": "Championship",
-  "time": "15:55",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "SC Magdeburg – SC Dhfk Leipzig",
-  "category": "Bundesliga Håndbold",
-  "time": "16:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "FC Nordsjælland – Silkeborg IF",
-  "category": "Superliga",
-  "time": "16:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
-   }
-  ]
- },
- {
-  "match": "Atletico Madrid – Leganes Cd",
-  "category": "La Liga",
-  "time": "16:15",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Antwerpen: Finale",
-  "category": "ATP",
-  "time": "16:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Liverpool FC – Chelsea FC",
-  "category": "Premier League",
-  "time": "17:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "See",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "VfL Wolfsburg – Werder Bremen",
-  "category": "Bundesliga",
-  "time": "17:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "SønderjyskE – FC Midtjylland",
-  "category": "Superliga",
-  "time": "18:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Cagliari – Torino",
-  "category": "Serie A",
-  "time": "18:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Villarreal – CF Getafe",
-  "category": "La Liga",
+  "match": "SønderjyskE – Nykøbing Falster",
+  "category": "Landspokalturneringen",
   "time": "18:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Green Bay Packers – Houston Texans",
-  "category": "NFL",
-  "time": "19:00",
-  "date": "2024-10-20",
+  "date": "2024-10-31",
   "channels": [
    {
     "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.jpg"
-   },
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
    }
   ]
  },
  {
-  "match": "Philadelphia Eagles – New York Giants",
-  "category": "NFL",
-  "time": "19:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   }
-  ]
- },
- {
-  "match": "Detroit Lions – Minnesota Vikings",
-  "category": "NFL",
-  "time": "19:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   }
-  ]
- },
- {
-  "match": "Miami Dolphins – Indianapolis Colts",
-  "category": "NFL",
-  "time": "19:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   }
-  ]
- },
- {
-  "match": "Houston Texans – Green Bay Packers",
-  "category": "NFL",
-  "time": "19:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   }
-  ]
- },
- {
-  "match": "Cincinnati Bengals – Cleveland Browns",
-  "category": "NFL",
-  "time": "19:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   }
-  ]
- },
- {
-  "match": "Tennessee Titans – Buffalo Bills",
-  "category": "NFL",
-  "time": "19:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   }
-  ]
- },
- {
-  "match": "Seattle Seahawks – Atlanta Falcons",
-  "category": "NFL",
-  "time": "19:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   }
-  ]
- },
- {
-  "match": "Elite16 João Pessoa",
-  "category": "FIVB Volleyball",
-  "time": "19:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "PDC European Tour",
-  "category": "European Tour",
-  "time": "19:25",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "USAs Grand Prix",
-  "category": "Formel 1",
-  "time": "19:30",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Chelsea FC Women – Tottenham",
-  "category": "WSL",
-  "time": "19:40",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "AS Roma – Inter",
-  "category": "Serie A",
-  "time": "20:45",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   }
-  ]
- },
- {
-  "match": "Formel 1 USA",
-  "category": "Formel 1",
-  "time": "21:00",
-  "date": "2024-10-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "FC Barcelona – Sevilla",
-  "category": "La Liga",
-  "time": "21:00",
-  "date": "2024-10-20",
+  "match": "Holger Rune🇩🇰 - Arthur Cazaux",
+  "category": "ATP",
+  "time": "18:30",
+  "date": "2024-10-31",
   "channels": [
    {
     "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.jpg"
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
    }
   ]
  },
  {
-  "match": "Winnipeg Jets – Pittsburgh Penguins",
-  "category": "NHL",
-  "time": "21:05",
-  "date": "2024-10-20",
+  "match": "Fredericia Hk 1990 – HC Eurofarm Rabotnik",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:45",
+  "date": "2024-10-31",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Al Ittihad – Al Ahli",
+  "category": "Saudi Pro League",
+  "time": "18:55",
+  "date": "2024-10-31",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -772,54 +184,74 @@
   ]
  },
  {
-  "match": "Carolina Panthers – Washington Commanders",
-  "category": "NFL",
-  "time": "22:05",
-  "date": "2024-10-20",
+  "match": "Brøndby IF – FC Midtjylland",
+  "category": "DBU Pokalen",
+  "time": "19:00",
+  "date": "2024-10-31",
   "channels": [
    {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
  {
-  "match": "Las Vegas Raiders – Los Angeles Rams",
-  "category": "NFL",
-  "time": "22:05",
-  "date": "2024-10-20",
+  "match": "Olympiakos – Barcelona Lassa",
+  "category": "Euroleague",
+  "time": "20:10",
+  "date": "2024-10-31",
   "channels": [
    {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
  {
-  "match": "San Francisco 49ers – Kansas City Chiefs",
-  "category": "NFL",
-  "time": "22:25",
-  "date": "2024-10-20",
+  "match": "Silkeborg-Voel KFUM – Viborg HK",
+  "category": "Landspokalturneringen",
+  "time": "20:30",
+  "date": "2024-10-31",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "AS Roma – Torino",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2024-10-31",
   "channels": [
    {
     "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.jpg"
-   },
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
    }
   ]
  },
  {
-  "match": "Kansas City Chiefs – San Francisco 49ers",
-  "category": "NFL",
-  "time": "22:25",
-  "date": "2024-10-20",
+  "match": "Como Calcio – SS Lazio",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2024-10-31",
   "channels": [
    {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 250 Merida: Indledende runder",
+  "category": "WTA",
+  "time": "21:00",
+  "date": "2024-10-31",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
    }
   ]
  }
