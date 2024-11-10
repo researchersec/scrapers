@@ -1,5 +1,41 @@
 [
  {
+  "title": "Forsvaret aflyser kæmpe flyshow næste år",
+  "description": "Stram økonomi og en 'ustabil sikkerhedspolitisk periode' får Forsvaret til at aflyse Danish Air Show i Aalborg for andet år i træk",
+  "link": "https://www.dr.dk/nyheder/indland/forsvaret-aflyser-kaempe-flyshow-naeste-aar",
+  "published": "Thu, 07 Nov 2024 14:42:00 GMT",
+  "guid": "urn:dr:drupal:article:9d1d128d-75c5-4f16-a890-9a3990f28ada",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2024%2F11%2F07%2Fscanpix-20220619-114719-l_0.jpg&w=1200"
+ },
+ {
+  "title": "Her blev Lille Virgil og Orla Frøsnapper skabt: Nu kan Ole Lund Kirkegaards skole blive din",
+  "description": "Lille Virgils Friskole, som den senere blev døbt, er nu sat til salg.",
+  "link": "https://www.dr.dk/nyheder/indland/her-blev-lille-virgil-og-orla-froesnapper-skabt-nu-kan-ole-lund-kirkegaards-skole",
+  "published": "Sat, 02 Nov 2024 13:20:00 GMT",
+  "guid": "urn:dr:drupal:article:5d125ce1-8a38-4f33-b91f-aa3cc38fe170",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2024%2F10%2F31%2F1730391591_skole_topbillede_.jpeg&w=1200"
+ },
+ {
+  "title": "Farvel til elefanter er tegn på ny zoo-virkelighed: Færre, men gladere dyr",
+  "description": "Der kommer færre dyrearter i de zoologiske haver, men det behøver ikke ødelægge oplevelsen, mener ekspert.",
+  "link": "https://www.dr.dk/nyheder/indland/farvel-til-elefanter-er-tegn-paa-ny-zoo-virkelighed-faerre-men-gladere-dyr",
+  "published": "Sat, 02 Nov 2024 10:55:00 GMT",
+  "guid": "urn:dr:drupal:article:b6d9020e-52ac-4b1e-b7f9-5c42126512dc",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2024%2F11%2F01%2Fscanpix-20200402-144237-l_0.jpg&w=1200"
+ },
+ {
+  "title": "Langer ud efter borgmester på J-dag: 'Bekymrende' promovering af øl",
+  "description": "Aalborgs borgmester åbnede i dag J-dag i Jomfru Ane Gade. Det undrer organisationen Alkohol og Samfund.",
+  "link": "https://www.dr.dk/nyheder/politik/langer-ud-efter-borgmester-paa-j-dag-bekymrende-promovering-af-oel",
+  "published": "Fri, 01 Nov 2024 16:17:00 GMT",
+  "guid": "urn:dr:drupal:article:2b144f03-1e5b-465c-8329-77be6b5ad93a",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2024%2F11%2F01%2Fdownload_17.jpg&w=1200"
+ },
+ {
   "title": "Maria troede, det var hendes skyld, at mor lå i sengen – indtil hun forstod sygdommen",
   "description": "En ny kampagne sætter fokus på, hvor vigtigt det er at være åben overfor familiens mindste medlemmer.",
   "link": "https://www.dr.dk/nyheder/indland/maria-troede-det-var-hendes-skyld-mor-laa-i-sengen-indtil-hun-forstod-sygdommen",
@@ -142,278 +178,243 @@
   "category": "No category"
  },
  {
-  "title": "Trusler lukker det eneste bibliotek i landets mindste kommune",
-  "description": "Biblioteket åbner ikke igen, før medarbejderne kan føle sig trygge.",
-  "link": "https://www.dr.dk/nyheder/indland/trusler-lukker-det-eneste-bibliotek-i-landets-mindste-kommune",
-  "published": "Thu, 10 Oct 2024 05:04:00 GMT",
-  "guid": "urn:dr:drupal:article:8fc40b3c-4366-470d-9641-a10fcd20f284",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2024%2F10%2F09%2F20211005-095153-l-1920x1286web.jpg&w=1200"
- },
- {
-  "title": "Ammunitionsfabrikken 'Krudten' skal genåbne, men tidsplanen er presset",
-  "description": "Der kommer formentlig til at gå yderligere to år, før der er gang i produktionen af granater og patroner i Nordjylland.",
-  "link": "https://www.dr.dk/nyheder/indland/ammunitionsfabrikken-krudten-skal-genaabne-men-tidsplanen-er-presset",
-  "published": "Wed, 09 Oct 2024 17:57:00 GMT",
-  "guid": "urn:dr:drupal:article:e407e735-9ab9-4e04-9a3a-a9eaa6e401d0",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2024%2F10%2F09%2F1728484921_krudten.jpeg&w=1200"
- },
- {
-  "title": "Nordjysk kommune drøfter 'drugging', efter flere kvinder blev syge efter bytur",
-  "description": "No description",
-  "link": "https://www.dr.dk/nyheder/seneste/nordjysk-kommune-droefter-drugging-efter-flere-kvinder-blev-syge-efter-bytur",
-  "published": "Wed, 09 Oct 2024 09:05:00 GMT",
-  "guid": "urn:dr:drupal:article:4a962cb2-f854-47c1-9b01-208b5be20607",
+  "title": "Hør de vilde lydbeskeder til kontroversiel kunstner",
+  "description": "<p>- Du er ikke velkommen i den her bydel længere. Det hærværk, du går og laver, vil blive straffet med døden.</p><p>Sådan lyder det i nogle af de mange beskeder, kunstneren Ibi-Pippi Orup Sommer har modtaget fra en fremmed mand, efter hun flyttede til Aalborg for et år siden.</p><p>- Jeg kan jo ikke vide, hvor konkrete det her menneskes trusler er, men jeg ved, at det er over en lang periode, han har haft brug for at udtrykke det her ønske om at slå mig ihjel, og det skræmmer mig, siger Ibi-Pippi.</p><p>Hun er vant til modtage mange beskeder og kritik, for de ting, hun er kendt for, provokerer mange.</p><p>- Jeg har modtaget mange beskeder fra folk, der siger, jeg er en stor idiot, eller at jeg skal spærres inde i lang tid, eller ikke kan finde ud af mit job, eller at jeg er et dumt svin, siger Ibi-Pippi.</p><p>Hun er blandt andet kendt for at have samleje med en IPhone i Føtex for at sætte fokus på materialisme, for sit kønsskifte fra mand til kvinde og en fængselsdom for hærværk mod et Asger Jorn maleri.</p><p>- Altså jeg er helt med på, når du stiller dig frem og gør de ting, jeg har gjort, så har det nogle konsekvenser, og det må du finde dig i. Du må stå på mål for, at der er nogle personer, der har brug for at udtrykke deres mishag med dig, men direkte dødstrusler over en længere periode, det, synes jeg, er over stregen, siger kunstneren.</p><p><strong>Hør de nogle af de ubehagelige lydbeskeder i indslaget her:</strong></p> <h2>Konkrete steder og børn i beskederne</h2><p>For Ibi-Pippi er grænsen nået for, hvad hun mener, hun som kendt person skal stå på mål for. Det skyldes især, at beskederne indeholder trusler mod at opholde sig konkrete steder i Aalborg, hvor hun har været og at hendes børn også bliver nævnt i beskederne. </p><p>- Det gør mig utryg, det gør mig meget utryg. Det er steder, der aldrig har været fremme på sociale medier eller andre steder, siger Ibi-Pippi.</p><p>Når trusler bliver så konkrete, er det netop noget af det, der får fokus hos politiet.</p><p>- Jo mere konkrete sagerne bliver, og jo mere konkret en gerningsperson bliver i forhold til truslerne, jo mere alvorligt tager vi dem også, siger Preben Klitgaard, der er leder af Det<strong> </strong>Kriminalpræventive Sekretariat ved Nordjyllands Politi.</p><p>Nordjyllands Politi bekræfter, at sagen er anmeldt og efterforskes hos dem, men de kan ikke kommentere på en igangværende sag. </p><p>- Der er ingen tvivl om, at når man kommer herind og anmelder trusler, så tager vi det alvorligt, og vi forsøger at efterforske os frem til, hvem modparten er. Og ud fra det må vi sige, at man skal være klar på, når man anmelder det, at det potentielt kan ende i en retssag, siger Preben Klitgaard.</p><p>Strafferammen for at fremkalde alvorlig frygt hos andre med trusler er bøde eller op til to års fængsel.</p><p>Under coronapandemien var antallet af anmeldte trusler på sit højeste, men det er siden faldet, og i 2023 blev der registreret 362 sager om trusler i Nordjylland ifølge Danmarks Statistik. </p><p><strong>Hvis du er i tvivl om, om du skal anmelde en trussel, kan du høre Nordjyllands Politis tommelfingerregel her:</strong></p> <p>Ibi-Pippi har ikke lavet kunst på offentlige steder i Aalborg og ved ikke, om det er noget bestemt, der har gjort den nordjyske mand bag beskederne vred. I mandags begyndte Ibi-Pippi at afsone sin fængselsstraf - TV2 Nord besøgte hende i hjemmet i Aalborg inden da.</p><p>TV2 Nord har taget kontakt til manden bag truslerne, men har ikke fået svar. Derfor er stemmen sløret.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/hor-de-vilde-lydbeskeder-til-kontroversiel-kunstner",
+  "published": "Sun, 10 Nov 24 06:00:00 +0100",
+  "guid": "https://www.tv2nord.dk/aalborg/hor-de-vilde-lydbeskeder-til-kontroversiel-kunstner",
   "category": "No category"
  },
  {
-  "title": "Pyrolyse bliver kaldt landbrugets store håb: Nu er Danmarks største anlæg indviet i Nordjylland",
-  "description": "Forkullede rester fra biogasanlæg skal i fremtiden lagre CO2 på marker.",
-  "link": "https://www.dr.dk/nyheder/indland/pyrolyse-bliver-kaldt-landbrugets-store-haab-nu-er-danmarks-stoerste-anlaeg-indviet",
-  "published": "Tue, 08 Oct 2024 15:30:00 GMT",
-  "guid": "urn:dr:drupal:article:f4f25046-dd31-49c5-ba76-a7dde9279765",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2024%2F10%2F08%2F1728395960_20241002-084035-a-1920x1279web.jpg&w=1200"
- },
- {
-  "title": "Verdens første oppustelige drone fløj over Frederikshavn",
-  "description": "<p>Selvom vi nærmer os sidste efterårsmåned, og dermed vinter, var der alligevel masser af summen over Flådestation Frederikshavn.</p><p>Den skyldes dog hverken bier, fluer eller andre insekter, men derimod droner. Forsvarsministeriet Materiel- og Indkøbsstyrelse (FMI), brugte nemlig onsdagen på at teste droner fra forskellige producenter.</p><p>Her skulle dronerne vise, at de kan bidrage effektiv til forskellige opgaver der foregår til søs.</p> <p>En af de producenter der var til stede, var franske DIODON, med verdens første vandtætte og oppustelige drone.</p><p>- Den kan bruges til efterretning, overvågning og rekognoscering, særligt i det maritime miljø, forklarer salgsansvarlig i DIODIN, Quentin Bizot.</p><p>Selvom dronen både er oppustelig og måske ikke er verdens største drone, kan den alligevel flyve i vindstød svarende til 25-28 knob, eller 12-14 meter i sekundet.</p><p>- Den minder om et cykeldæk, så den er ret holdbar. Selve dronen er af karbon og kevlar. Så den skal nok klare sig, medmindre man skyder efter den. Og man skal være en dygtig skytte, forklarer Quentin Bizot.</p> <h2>Begyndelsen på noget større</h2><p>Til fremvisningen var der også soldater til stede fra militærpolitiet. Soldaterne, der er knyttet Trænregimentet i Aalborg, fik før testen fremvist dronen af DIADON. </p><p>Da droner bliver brugt mere og mere af Forsvaret til diverse opgaver, er det derfor også vigtigt, at de bliver testet igennem. Og selvom man især kigger på dronernes ydeevne til søs, er det ikke det eneste, som spiller en rolle i et eventuelt køb.</p><p>- Der er så meget udvikling, når det kommer til droner. Man skal sørge for, at købe noget der kan opdateres løbende, og der er forskellige værktøjer, som kan bruges. Så kan man hele tiden følge med i udviklingen og i virkeligheden udskifte udstyret, efterhånden som det opdateres, lyder det fra oberst i Flyvevåbnet og købsansvarlig i FMI, Klaus Qvist.</p><p>Dagens test er ikke den første af sin slags. Og hvis det står til Klaus Qvist, kan denne slags test føre til noget større.</p><p>- De kan give grundlag for, at vi køber flere droner til tests. Når vi har udvalgt de rigtige værktøjer, kan vi måske skalere op og købe hundredvis af droner ad gangen til forskellige enheder i Forsvaret.</p>",
-  "link": "https://www.tv2nord.dk/frederikshavn/verdens-forste-oppustelige-drone-floj-over-frederikshavn",
-  "published": "Wed, 30 Oct 24 23:00:00 +0100",
-  "guid": "https://www.tv2nord.dk/frederikshavn/verdens-forste-oppustelige-drone-floj-over-frederikshavn",
+  "title": "- Et kæmpe problem, der er stigende",
+  "description": "<p>Natten mellem den 9.- og 10. november 1938 var en særdeles grusom en af slagsen, hvor der blev begået brutale overgreb jøder, synagoger og forretninger ejet af jøder. </p><p>Den kendes som Krystalnatten, og det er den, de markerer i Aalborg lørdag aften.</p><p>- Jeg har valgt at komme i dag, fordi at Europa er ved at svigte det løfte, vi gav til jøderne efter Anden Verdenskrig, som handler om, at jøder skal have lov at leve i sikkerhed og tryghed i Europa, siger Magnus Lasthein og fortsætter:</p><p>- Det er et kæmpe problem, at antisemitismen er stigende, og det er fuldstændig afgørende, at vi gør et oprør mod det.</p><p>Magnus Lasthein går fredag aften sammen med omtrent 50 personer i Aalborgs gader for at minde ofrene ved Krystalnatten.</p><p>Han er glad for opbakningen, men der mangler stadig noget.</p><p>- Jeg synes det er vigtigt, at vi er her, men jeg synes også, at det er utroligt, at man ikke kan samle større opbakning omkring det rimelig banale budskab, lyder det fra ham. </p> <p>Forventede ikke uroligheder</p><p>Set i lyset af de seneste hændelser i både Mellemøsten, men også de voldelige uroligheder i Amsterdam torsdag i forbindelse med en fodboldkamp med et israelsk hold, gjorde, at Nordjyllands Politi var ekstra opmærksomme på, at mindeoptoget ville finde sted. </p><p>Det bekræftede vagtchef Torben Arendrup, som fortalte, at patruljerne ville have et ekstra øje på det.</p><p>Hans Hüttel, der er medarrangør for Amnesty International, deltog i optoget, men han forventede dog ikke, der ville blive nogen former for uroligheder i forbindelse med det - og det kom der heller ikke.</p><p>Han har været medarrangør i cirka 15 år og gør det, fordi de vil markerer Krystalnatten og gøre opmærksom på de hadforbrydelser og diskriminering, der sker rundt om i Europa.</p><p>- Det vigtige budskab er, at menneskerettighederne gælder for alle mennesker, hele tiden. Og der er ikke nogen situationer, hvor de ikke gælder, og civilbefolkningen skal beskyttes mod had. Og det gælder både i fred og i krig, siger han og fortsætter:</p><p>- Alle myndigheders opgave er at sikre, at civilbefolkningen bliver beskyttet mod had og forfølgelse.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/et-kaempe-problem-der-er-stigende",
+  "published": "Sat, 09 Nov 24 20:22:00 +0100",
+  "guid": "https://www.tv2nord.dk/aalborg/et-kaempe-problem-der-er-stigende",
   "category": "No category"
  },
  {
-  "title": "Uheld på E45 - tilkørselsrampe spærret",
-  "description": "<p>Der er et spor spærret på E45, efter et uheld, der skete kort før 22.30.</p><p>Uheldet er sket i nordgående retning mellem afkørsel 33 Haverslev og 32 Sønderup.</p><p>Det fremgår af Vejdirektoratets <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">Trafikkort</a>.</p><p>Uheldet betyder, at en tilkørselsrampe er spærret, ligesom der også er et spor spærret.</p><p>Uheldssstedet er ikke sikret.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/uheld-pa-e45-tilkorselsrampe-spaerret",
-  "published": "Wed, 30 Oct 24 22:49:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/uheld-pa-e45-tilkorselsrampe-spaerret",
+  "title": "Folk vælter ind i Peter og Kenneths hjem: - Tænker ikke over det",
+  "description": "<p>- Jo, der er mange.</p><p>Sådan lyder det fra Peter Juul, der besvarer spørgsmålet på, om der er mange ude foran parrets hoveddør. Og det er der som sagt.</p><p>Peter Juul, der er formidlingschef, og Kenneth Bøye, som er forlagsredaktør, har nemlig lavet en særlig udstilling, der foregår i deres eget hjem. </p><p>Her har de udvalgt 13 forskellige kunstnere værker, som hænger rundt om på væggene i hjemmet.</p><p>- Jeg tænker faktisk ikke over, at de går i mit soveværelse, på badeværelset og ude på gæstetoilettet, siger Kenneth Bøye, inden Peter Juul supplerer:</p><p>- Jeg sad faktisk lige i går aftes og tænkte på, hvad er det her for noget? Det er jo ikke mit hjem. Det er jo ikke noget, jeg har købt eller har et forhold til, siger han.</p> <h2>- Jeg ved ikke, hvor mange vi sælger</h2><p>Men udstillingen tiltrækker ganske mange mennesker, og hos en af gæsterne er det til stor fornøjelse at blive inviteret indenfor i parrets hjem.</p><p>- Det er utroligt spændende at komme i et privat hjem og se kunsten udstillet på en helt anden måde, end hvis man nødvendigvis går på et galleri, hvor det jo kan være utroligt smukt - men også lidt mere sterilt i tilgangen, siger Hanne Hosbond.</p><p>Formålet med udstillingen er at vise, at kunst kan man have i alle husets rum, og initiativet viser sig igennem små grønne mærker, som viser, at værkerne er solgt. </p><p>- Jeg ved ikke, hvor mange vi sælger. Men lige nu er der jo rigtig mange interesserede, siger Kenneth Bøye. </p><p>Udstillingen løber til og med søndag, men der kommer også til at blive arbejde med at få hjemmet klar til privat brug efter.</p><p>- Vi går i gang med at spartle og finde vores egen værker frem, og så ligner hjemmet igen vores eget hjem i næste weekend, slutter Peter Juul.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/folk-vaelter-ind-i-peter-og-kenneths-hjem-taenker-ikke-over-det",
+  "published": "Sat, 09 Nov 24 18:56:00 +0100",
+  "guid": "https://www.tv2nord.dk/aalborg/folk-vaelter-ind-i-peter-og-kenneths-hjem-taenker-ikke-over-det",
   "category": "No category"
  },
  {
-  "title": "Aalborg Håndbold tager sejr over Kolstad",
-  "description": "<p>25-24.</p><p>Det blev stillingen, da Aalborg Håndbold spillede Champions League opgør mod Kolstad.</p><p>I kampen gjorde Niklas Landin flot figur efter han i to måneder, har betragtet Aalborg Håndbold fra sidelinjen.</p><p>Landin blev skiftet ind på et straffekast med syv sekunder tilbage af Champions League-opgøret mod Kolstad, hvor han skulle forsøge at sikre et dansk point.</p><p>Den danske målvogter formåede ikke at forhindre Sigvaldi Guðjónsson i at score, derfor slog Kolstad Aalborg med 25-24.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-handbold-tager-sejr-over-kolstad",
-  "published": "Wed, 30 Oct 24 20:47:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-handbold-tager-sejr-over-kolstad",
+  "title": "Sårbar natur ødelægges af bomtrawl",
+  "description": "<p>Bomtrawl er igen kommet på dagsordenen med en ny rapport fra DTU Aqua, som viser, hvordan den omdiskuterede metode, der typist bruges af hollandske fiskeres, presser havbunden til det yderste.</p><p>Rapporten giver en detaljeret beskrivelse af, hvad konsekvenserne af fiskeriet er, og hvordan havbunden ser ud i Jammerbugten. Og det er langt mere skadeligt end hidtil antaget.</p><p>En af konklusioner i rapporten er, at havbunden i Jammerbugten i meget højere grad, end man før har vidst, består af sand, sten og stenrev.</p><p>- Vi har også kortlagt ret præcist, hvor de forskellige fiskerier foregår i Jammerbugten. Der kan vi se, at bomtrawling foregår præcis i de her områder med blandet havbund, med sand, sten og stenrev, fortæller Grete Elisabeth Dinesen, der er seniorkonsulent hos DTU Aqua og en af forskerne bag undersøgelsen.</p><p><strong><em>Læs hele historien herunder:</em></strong></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/jammerbugt/sarbar-natur-odelaegges-af-bomtrawl",
+  "published": "Sat, 09 Nov 24 18:10:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/jammerbugt/sarbar-natur-odelaegges-af-bomtrawl",
   "category": "No category"
  },
  {
-  "title": "Niklas Landin gør comeback i vild afslutning",
-  "description": "<p>Efter knap to måneder på sidelinjen gjorde Niklas Landin onsdag aften comeback for Aalborg Håndbold.</p><p>Landin blev skiftet ind på et straffekast med syv sekunder tilbage af Champions League-opgøret mod Kolstad, hvor han skulle forsøge at sikre et dansk point.</p><p>Den danske målvogter formåede ikke at forhindre Sigvaldi Guðjónsson i at score, derfor slog Kolstad Aalborg med 25-24.</p> <p>Niklas Landin så de første 59 minutter fra bænken, hvor Fabian Norsten ellers stod en god kamp, men Landin fik comeback til sidst.</p><p>Og det er altafgørende for Aalborgs sæson, at Maik Machulla nu igen råder over Niklas Landin.</p><p>- Det betyder alverden, at Landin er tilbage. Først og fremmest fordi han er en fremragende målmand, men også fordi han betyder utrolig meget på det mentale plan, siger håndboldekspert Bent Nyegaard og tilføjer:</p><p>- Selvfølgelig skal han have tid til at finde tilbage, men uanset om han rammer topniveau eller ej, så kommer hans erfaring og hans psykologiske betydning til at være en fordel. Han får forsvaret til at blive bedre bare af, at der står en kapacitet som ham inde bagved.</p><p>Niklas Landin nåede kun at spille to kampe i sæsonen, før klubben meldte ham ude i <a href=\"https://sport.tv2.dk/haandbold/2024-09-11-niklas-landin-skal-opereres\">to måneder.</a></p><h2>Hentede erstatning i Kolding</h2><p>Landin skulle opereres i det ene knæ, efter han vendte hjem fra OL med en skade, som man i første omgang løste med en blokade.</p><p>En operation var efterfølgende nødvendig, hvorfor Aalborg-målmanden ikke har spillet siden ligakampen mod Ribe-Esbjerg i starten af september måned.</p><p>Det betød, at Aalborg Håndbold kun rådede over svenske Fabian Norsten i målet samt U19-målmanden Tobias Bugge.</p><p>De danske mestre følte sig derfor nødsaget til at hente i en ny keeper ind, hvorfor klubben hentede Anton Hellberg i KIF Kolding.</p><p>Hellberg blev lejet frem til den 12. november, og han var også rejst med Aalborg-truppen til Kolstad, men han måtte se kampen fra tilskuerpladserne.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/niklas-landin-gor-comeback-i-vild-afslutning",
-  "published": "Wed, 30 Oct 24 20:38:00 +0100",
-  "guid": "https://www.tv2nord.dk/aalborg/niklas-landin-gor-comeback-i-vild-afslutning",
+  "title": "Har reddet flere menneskeliv",
+  "description": "<p>Bortkomne borgere, at finde afgørende spor i store kriminalsager og stoppe farlige gerningsmænd på flugt.</p><p>Det er nogle af de ord, som sættes på den 11-årige Schäfer og politihund Thor til Dansk Kennel Klubs arrangement i Herning.</p><p>Her skulle Årets Politihund 2024 også kåret, og det blev nordjyske Thor.</p><p>- Jeg er utroligt glad og stolt. Det er en pris, der betyder rigtig meget for mig og Thor, siger Thors fører, Karsten Hav, der arbejder for Nordjyllands Politi som politiassistent og hundefører, og fortsætter:</p><p>- Han er jo en erfaren herre, og han har oplevet det meste, så det betyder meget, at hundeafdelingerne i Dansk Politi peger på netop ham.  </p> <p>Thor arbejder til dagligt som en såkaldt Gruppe-1 hund ved Nordjyllands Politi. Gruppe-1 hundene er de allerdygtigste og bruges primært ved drabssager, forsvindingssager og grove voldssager. </p><p>Thor gjorde blandt andet en afgørende forskel i Mia-sagen, og den nordjyske hund har flere gange reddet menneskeliv i sager med forsvundne demente. </p> <p>Også Casper Jakobsen, der er politikommissær og hundeleder hos Nordjyllands Politi, sætter ord på, hvorfor det netop er Thor - og Karsten Hav - som kåres til vinder.</p><p>- Karsten og Thor har fuld plade. De har prøvet det hele, lige fra at redde menneskeliv på eftersøgning af bortkomne borgere, over at finde afgørende spor i store kriminalsager til at stoppe farlige gerningsmænd på flugt. Thor er i en særlig liga, men også Karsten bruger al sin tid på hele tiden at blive dygtigere. De er et rigtig godt makkerpar, fortæller han.</p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/har-reddet-flere-menneskeliv",
+  "published": "Sat, 09 Nov 24 16:47:00 +0100",
+  "guid": "https://www.tv2nord.dk/frederikshavn/har-reddet-flere-menneskeliv",
   "category": "No category"
  },
  {
-  "title": "Forstår du det heller ikke?",
-  "description": "<p>Alligevel har TV2 Nord kastet tre mænd ud i at udtale nogle af de mest populære slangord lige nu.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/hvad-er-det-de-unge-siger",
-  "published": "Wed, 30 Oct 24 20:00:00 +0100",
-  "guid": "https://www.tv2nord.dk/aalborg/hvad-er-det-de-unge-siger",
+  "title": "AaB-spiller kan udligne Lyngbys måltotal",
+  "description": "<ul><li><p>10. november 2024 klokken 14.00</p></li><li><p>Lyngby Stadion</p></li><li><p><a href=\"https://sport.tv2.dk/sendeplan\">Se sendeplanen her</a></p></li></ul><h2>Head to head</h2><ul><li><p>De to hold har mødt hinanden 63 gange i Superligaens historie. Lyngby har vundet 18 opgør, mens AaB har vundet 28 gange. De resterende 17 kampe er endt uafgjort. Målscoren er 102-69 i AaB’s favør.</p></li><li><p>Seneste møde var i 8. spillerunde, hvor AaB vandt med 2-1 i Aalborg. Mathias Jørgensen scorede 1 af sine i alt 7 Superliga-mål, mens den 18-årige Mads Bomholt scorede sit første Superliga-mål i karrieren.</p></li><li><p>Seneste møde på Lyngby Stadion var i maj 2023. Lyngby vandt med 2-1, hvilket var holdets første sejr over AaB i 9 forsøg.</p></li><li><p>De to hold har mødt hinanden én gang tidligere på selve kampdagen den 10. november. Det var i 1995, hvor opgøret endte 0-0 på Lyngby Stadion foran blot 1.047 tilskuere.</p></li><li><p>Det mest målrige opgør faldt i december 2007. Det endte 5-3 i Aalborg, hvor Lyngby førte 3-0 efter 39 minutter, hvorefter AaB vendte det hele til en bemærkelsesværdig 5-3 sejr. Den tidligere landstræner Kasper Hjulmand var ved den lejlighed træner for Lyngby.</p></li><li><p><strong>AaB’s største udesejr i Superligaens historie lyder på 7-0. I marts 2002 vandt nordjyderne hele 7-0 i Lyngby foran blot 889 tilskuere. Den tidligere landsholdsspiller Michael Silberbauer scorede 3 mål i kampen.</strong></p></li><li><p>De to trænere, Menno van Dam og Morten Karlsen, mødte hinanden i 9. spillerunde, hvor Menno van Dam trak sig sejrrigt ud. Karlsen har også én gang tidligere mødt AaB i pokalturneringen, da han stod i spidsen for HB Køge. Her vandt AaB med 3-0.</p></li><li><p><strong>AaB’s Mathias Jørgensen har scoret 7 Superliga-mål i denne sæson. Hele Lyngbys hold har tilsammen scoret 9 Superliga-mål i denne sæson.</strong></p></li><li><p>AaB’s nuværende højreback Kasper Jørgensen skiftede i januar 2023 fra Lyngby til netop AaB. Jørgensen er noteret for 56 Superliga-kampe for Lyngby og scorede i september måned 2022 for Lyngby mod AaB i en kamp, der endte 1-1.</p></li><li><p>AaB’s Superliga-mål nummer 600, 900 og 1500 er alle scoret mod Lyngby. Målene er sat ind af henholdsvis Indrek Zelinski, Rade Prica og Mathias Ross. Sidstnævntes bror, Oliver Ross, er nuværende spiller i AaB og samtidig den spiller i den nuværende trup med næstflest Superliga-kampe for AaB.</p></li><li><p>Det er de to hold i Superligaen, der har indkasseret flest afslutninger imod sig indtil nu i sæsonen. AaB (122) og Lyngby (114).</p></li><li><p>Dommer Mikkel Redder dømmer sin Superliga-kamp nummer 93 i karrieren. Lyngby og AaB er de to klubber, som Redder har dømt 3.- og 4.-flest gange i karrieren. Han har dømt det interne opgør 3 gange tidligere, og Lyngby har endnu ikke formået at vinde et af opgørene.</p></li></ul><h2>Lidt om klubberne - Lyngby</h2><ul><li><p><strong>Hvis Lyngby scorer 2 mål i kampen, vil det være klubbens mål nummer 800 i Superligaens historie.</strong></p></li><li><p>Sævar Atli Magnusson kan spille sin Superliga-kamp nummer 75 i karrieren. Islændingen har lavet 1 mål i denne sæson og har således stadig et stykke til de 5 Superliga-mål, han lavede sidste år.</p></li><li><p>Lucas Lissens kan spille sin Superliga-kamp nummer 25 i karrieren. Lissens blev den 10. spiller fra Belgien til at få debut i Superligaen og er nu den belgiske spiller med 3.-flest Superliga-kampe i historien efter Igor Vetokele (44) og Anthony D’Alberto (31). Lissens er tilmed den spiller med flest bolderobringer per 90 minutter i Superligaen.</p></li><li><p>Pascal Gregor blev senest noteret for et selvmål mod AGF. Det var forsvarsspillerens selvmål nummer 3 i karrieren, hvilket placerer Gregor på en delt 7.-plads over flest selvmål i Superligaens historie. Flest har Kian Hansen, der har lavet 7 selvmål i Superliga-karrieren.</p></li><li><p>Frederik Gytkjær scorede senest mod AGF og er dermed på 2 Superliga-mål i sæsonen (samme antal som Jonathan Amon). Gytkjær kan nu spille sin Superliga-kamp nummer 105 i karrieren for Lyngby og vil dermed udligne Piotr Harens 17.-plads over flest Superliga-kampe for klubben.</p></li><li><p>Marcel Rømer spillede senest sin Superliga-kamp nummer 115 for Lyngby. Hvis midtbanespilleren spiller igen mod AaB, vil han gå alene forbi Lasse Fosgaard på 10.-pladsen over flest kampe for klubben. Næste mand på listen er Martin Birn, der er noteret for 118 Superliga-kampe for Lyngby. Rømer fik ligeledes et gult kort mod AGF og har nu samlet 23 gule kort i Lyngby-karrieren. Det er 3.-flest efter Martin Birn (32) og Claus Christiansen (25).</p></li><li><p>Lyngby har netop forlænget med Tobias Storm, så kontrakten løber til 2027. Tobias Storm har været skadet og har ikke spillet siden Lyngby sidst mødte AaB. Hvis Storm kommer i kamp, vil det være hans Superliga-kamp nummer 50 i karrieren.</p></li><li><p><strong>Lyngby har blot vundet 1 sejr i 14 Superliga-kampe i denne sæson. Træner Morten Karlsen har dermed et pointsnit på 0,64 per kamp. Næste gang Karlsen står i spidsen for Lyngby, vil det være kamp nummer 15. Han vil dermed udligne Hasse Kuhn, der i 2001/02-sæsonen stod i spidsen for det Lyngby-hold, der undervejs i sæsonen gik konkurs.</strong></p></li><li><p>Lyngby-målmand Jannich Storch er efter AGF-kampen noteret for den næsthøjeste redningsprocent (72 %) i Superligaen efter Viborgs Oscar Hedvall (76 %).</p></li><li><p>Lyngby har blot scoret 9 mål i sæsonen, hvilket inden runden er hele 6 færre end Vejle. 3 af målene er scoret i 1. halvleg, hvilket ligeledes er færrest af alle i Superligaen.</p></li><li><p>Leon Klassen fik rødt kort mod AGF og er dermed i karantæne til opgøret mod AaB. Klassen er den seneste Lyngby-debutant i Superligaen, hvor han samtidig blev den 7. spiller fra Rusland til at få debut i Superligaen.</p></li></ul><h2>AaB</h2><ul><li><p>AaB spillede senest 3-3 mod Vejle. Det var 3. gang i denne sæson, at AaB formåede at score 3 mål i samme kamp. Det var samtidig sæsonens 3. uafgjorte kamp.</p></li><li><p>AaB har tabt 7 Superliga-kampe i denne sæson. I samtlige 7 kampe har holdet ikke formået at score. Målscoren er 0-18.</p></li><li><p><strong>Mathias Jørgensen scorede senest sit 7. sæsonmål for AaB. Klubben har lavet 16 Superliga-mål i denne sæson, så Jørgensens mål udgør 44 % af målene.</strong></p></li><li><p>AaB scorede senest sæsonens første mål via en standardsituation. Omvendt har AaB indkasseret 10 mål via standardsituationer, hvilket er næstflest af alle hold i Superligaen, kun overgået af Vejle (12).</p></li><li><p><strong>John Iredale scorede senest for anden Superliga-kamp i træk. Iredale blev den 11. spiller fra Australien til at score i Superligaens historie og kan nu blive den første australier siden Awer Mabil til at score i 3 Superliga-kampe i træk, hvilket skete i 2019/20-sæsonen.</strong></p></li><li><p>Bjarne Pudel scorede senest sit første Superliga-mål i karrieren, da han scorede til 3-2 mod Vejle. Pudel blev dermed den 19. målscorer fra Tyskland i Superligaens historie.</p></li><li><p>Oliver Ross brændte straffespark mod Vejle, hvilket var AaB’s andet brændte straffespark i denne Superliga-sæson. Det er flest af alle klubber. Dommer Aydin Uslu tildelte AaB 2 straffespark i kampen og er nu oppe på 7 tildelte straffespark i 7 Superliga-kampe i denne sæson.</p></li><li><p>Jubril Adedeji fik senest sit første gule kort i Superligaen. Adedeji blev dermed den 11. englænder til at få gult kort i Superligaens historie.</p></li><li><p>AaB har nu indkasseret 28 mål i denne sæson. 8 af målene er faldet inden for kampenes sidste 15 minutter. Det er flest af alle hold, dog samme antal som Vejle og Sønderjyske.</p></li><li><p>AaB har fået næstflest gule kort (29) i denne sæson. AaB har hele 4 spillere med minimum 4 gule kort.</p></li></ul>",
+  "link": "https://www.tv2nord.dk/aalborg/aab-spiller-kan-udligne-lyngbys-maltotal",
+  "published": "Sat, 09 Nov 24 15:45:00 +0100",
+  "guid": "https://www.tv2nord.dk/aalborg/aab-spiller-kan-udligne-lyngbys-maltotal",
   "category": "No category"
  },
  {
-  "title": "Niels Hausgaard mindes Erik Clausen",
-  "description": "<p>Niels Hausgaard mindes Erik Clausen, efter det i eftermiddag kom frem, at filmmanden er død i en alder af 82 år.</p><p>- Jeg vil savne at vide, at han er der. Vi har været hinandens venner og hinandens hårde kritikere og altid loyale overfor hinanden, siger Niels Hausgaard til <a href=\"https://nyheder.tv2.dk/samfund/2024-10-30-erik-clausen-er-doed\"><em>TV 2</em></a>.</p><p>De to lavede i slutningen af 90&#039;erne samtaleprogrammerne ’Der ka’ man bare se’.</p><p>Ifølge folkesangeren var de to meget forskellige – og så alligevel ikke.</p><p>- Han brugte mange flere ord end jeg, siger Hausgaard videre til TV 2.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/niels-hausgaard-mindes-erik-clausen",
-  "published": "Wed, 30 Oct 24 17:48:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/niels-hausgaard-mindes-erik-clausen",
+  "title": "To unge mænd varetægtsfængslet",
+  "description": "<p>Der kom flere former for sigtelser til en 22-årig og en 23-årig mand ved Retten i Aalborg, da de fredag i hele tre tilfælde forsøgte sig med røveri ved busterminalen i Brovst. </p><p>I to af tilfældene fik de to mænd intet ud af det, mens de i et tredje fik et offer til at overføre 2500 kroner på mobilepay. Derfor var de to mænd i grundlovsforhør lørdag.</p><p>Det fortæller anklager hos Nordjyllands Politi Kim Kristensen. </p><p>- Ved selve røveriet blev offeret tildelt flere slag og spark mod kroppen, og han blev også slået med skaftet af en kniv. Han blev tvunget til at overføre pengene til gerningsmændene, og han fik stjålet sin telefon, fortæller anklageren.</p><p>Ved de to andre tilfælde blev det ikke til et fuldbyrdet røveri, men forsøg på det. </p><p>- Den ene blev skubbet op ad en væg og truet med hammer for at overføre penge. Den anden blev også truet med hammer, men også med kniv til ansigtet og truet med at skulle sende penge, siger Kim Kristensen, der tilføjer, at ingen af ofrene her overførte penge til de to unge mænd. </p><p>Sigtelserne stopper dog ikke med røveri og forsøg på samme. </p><p>- Den 23-årige er også sigtet for vidnetrusler, da han sagde, &quot;hvis det her kommer ud, så er du gone&quot;, mens han tog pegefingeren over halsen, siger anklageren og fortsætter:</p><p>- Den anden sigtede sagde til et andet offer, &quot;sladrer du til politiet, er du død&quot;. </p><p>Hvad der foregik under selve grundlovsforhøret, kan anklageren ikke fortælle om, da dørene blev lukkede Men Retten fandt, at beviserne mod de to unge mænd var stærke nok til at varetægtsfængsle dem frem til 5. december. </p><p>Den 22-årige sigtede udbad sig betænkningstid i forhold til at kære dommen, mens den 23-årige kærede det på stedet. Derfor skal sagen med ham i landsretten i forhold til, om varetægtsfængslingen forbliver.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/to-unge-maend-varetaegtsfaengslet",
+  "published": "Sat, 09 Nov 24 13:57:00 +0100",
+  "guid": "https://www.tv2nord.dk/aalborg/to-unge-maend-varetaegtsfaengslet",
   "category": "No category"
  },
  {
-  "title": "Niels Hausgaard mindes sin 'kloge, sjove og modige' ven",
-  "description": "<p>Filmmanden Erik Clausen er død i en alder af 82 år efter længere tids sygdom, oplyser familien til Ritzau.</p><p>Og nu strømmer der ind med tilkendegivelser om den folkekære skuespiller, ikke mindst fra den nordjyske kollega og ven Niels Hausgaard, der beskriver Clausen som sjov, modig og klog.</p><p>- Jeg vil savne at vide, at han er der. Vi har været hinandens venner og hinandens hårde kritikere og altid loyale overfor hinanden, siger Niels Hausgaard til <a href=\"https://nyheder.tv2.dk/samfund/2024-10-30-erik-clausen-er-doed\">TV 2</a>.</p><p>De to lavede i slutningen af 90&#039;erne samtaleprogrammerne ’Der ka’ man bare se’.</p><p>Ifølge folkesangeren var de to meget forskellige – og så alligevel ikke.</p><p>- Han brugte mange flere ord end jeg, siger Hausgaard videre til TV 2.</p><p>Niels Hausgaard mindes også de gange, hvor Erik Clausen besøgte ham i hans hjem på landet.</p><p>- Når han besøgte mig, befandt han sig ikke så godt ude på landet. Det havde han det svært ved. Han sagde: ”For fanden, Niels, husene ligger jo direkte på jorden”, lyder det fra Niels Haugaard til TV 2.</p>",
-  "link": "https://www.tv2nord.dk/hjoerring/niels-hausgaard-mindes-sin-kloge-sjove-og-modige-ven",
-  "published": "Wed, 30 Oct 24 17:31:00 +0100",
-  "guid": "https://www.tv2nord.dk/hjoerring/niels-hausgaard-mindes-sin-kloge-sjove-og-modige-ven",
+  "title": "Genetablering tager lang tid",
+  "description": "<p>Bomtrawl er igen kommet på dagsordenen med en ny rapport fra DTU Aqua, som viser, hvordan den omdiskuterede metode, der typist bruges af hollandske fiskeres, presser havbunden til det yderste. </p><p>Rapporten giver en detaljeret beskrivelse af, hvad konsekvenserne af fiskeriet er, og hvordan havbunden ser ud i Jammerbugten. Og det er langt mere skadeligt end hidtil antaget. </p><p>En af konklusioner i rapporten er, at havbunden i Jammerbugten i meget højere grad, end man før har vidst, består af sand, sten og stenrev.</p><p>- Vi har også kortlagt ret præcist, hvor de forskellige fiskerier foregår i Jammerbugten. Der kan vi se, at bomtrawling foregår præcis i de her områder med blandet havbund, med sand, sten og stenrev, fortæller Grete Elisabeth Dinesen, der er seniorkonsulent hos DTU Aqua og en af forskerne bag undersøgelsen. </p><p>Hos fiskerne ved eksempelvis Thorup Strand er de glade for den nye rapport, <a href=\"https://www.tv2nord.dk/jammerbugt/tungt-skyts-mod-hollandske-bomtrawlere-odelaegger-ekstrem-sarbar-natur\">som i følge dem giver et gennembrud </a>af forståelsen for det hav, de har med at gøre. </p><p>- Det er jo det fiskeri, der er allermest ødelæggende. Metoden er at grave alle bunddyr op af bunden, knuse dem, og lade dem svæve rundt i vandet, fordi det tiltrækker rødspætterne, lyder det blandt andet fra Thomas Højrup, formand for Thorupstrand Kystfiskerlaug. </p> <p>Netop fiskerne, der ikke bruger bomtrawl, som hollænderne gør, kan blive presset af metoden, lyder det fra Grete Elisabeth Dinesen.</p><p>- En af de andre vigtige ting, vi har set i analyserne, det er, at der er en konkurrence om de samme fiskepladser mellem der, hvor bomtrawlerne fisker, og så de lokale fiskere, der fisker med garn på stenene og med snurre, der er på sandbunden mellem stenene. Vi kan se i analyserne, at der er et tegn på et overfiskeri, blandt andet på rødspætter, lyder det fra forskeren. </p> <h2>Store konsekvenser</h2><p>På havbunden i Jammerbugten, der også består af stenrev, finder man koraller, som tager skade af bomtrawl - men det har det også generelt for havbunden.</p><p>- Vi har lavet nogle redskabsforsøg med bomtrawl, som viser, at når man fisker med det redskab, er der stor sandsynlighed for, at trawlet fanger sten og vender sten, siger hun og fortsætter om et nyt forsøg:</p><p>- Vi kan se, at trawlet skraber store mængder af bløde koraller af stenene. De her koraller kan blive ret gamle, over 30 år gamle, og de er lang tid om at genetablere sig. Det betyder, at de skader, der sker, når man bomtrawler på blandet havbund med sand, sten og stenrev, de er permanente eller tager i hvert fald lang tid, før de bliver genoprettet.</p><p><strong><em>Se hele indslaget fra Jammerbugten om rapporten her:</em></strong></p> <h2>Hvad kan rapporten bruges til?</h2><p>Rapporten fra DTU Aqua kostede hele 30 millioner kroner at få lavet og blev bestilt af Den Europæiske Hav- og Fiskerifond og Ministeriet for Fødevarer, Landbrug og Fiskeri. </p><p>Minister for Landbrug, Fødevarer og Fiskeri, Jacob Jensen (V) kan ikke forestille sig andet, end at politikerne kommer til at handle på rapporten. Men hvad mener forskeren, at rapporten og dens resultater kan bidrage med? </p><p>- Resultaterne kan især bruges som vidensgrundlag for at lave bedre fiskeriforvaltning. Vi kalder det økosystembaseret forvaltning, hvor man ser på det samlede økosystem. Helt konkret kan de her resultater være med til at lave en bedre forvaltning af bomtrawling og beskytte områder med blandet havbund bestående af sand, sten og stenrev, så vi sikrer, at fiskeriet ikke slider vores habitater ned, slutter Grete Elisabeth Dinesen.</p>",
+  "link": "https://www.tv2nord.dk/jammerbugt/de-er-lang-tid-om-at-genetablere-sig-siger-forsker-om-bomtrawl",
+  "published": "Sat, 09 Nov 24 13:30:00 +0100",
+  "guid": "https://www.tv2nord.dk/jammerbugt/de-er-lang-tid-om-at-genetablere-sig-siger-forsker-om-bomtrawl",
   "category": "No category"
  },
  {
-  "title": "- Jeg vil godt være lidt mere forberedt",
-  "description": "<p>- Jeg har været udsat for ikke at være forberedt på, at der var en, der var død. </p><p>Sådan fortæller Lise Simonsen fra Aabybro. </p><p>- Min mand døde bare lige sådan med et knips, og så var han væk. Så jeg vil godt være lidt mere forberedt og få involveret mine børn i det.</p> <p>Hun er derfor til foredrag om noget, der er noget af det mest naturlige i verden, og som rammer os alle: nemlig døden.</p><p>For selvom de fleste af os gør os tanker om den sidste tid, så er det ikke altid, vi får åbnet munden og snakket med andre om det.</p><p>- Både min kæreste og mine voksne døtre synes, det var fantastisk at få snakket om, selvom vi fik tudet lidt i løbet af den aften, siger overlæge Ove Gaardboe, der er vokset op i Brønderslev, og som turnerer landet rundt med et klart budskab: Husk at få styr på døden og den sidste tid i livet.</p> <p>Onsdag var turen kommet til Aabybro, hvor han var blevet inviteret af seniorrådet i Jammerbugt Kommune.</p><p>- Det er så vigtigt, at få snakket om, hvad man ønsker, og det er uanset, hvilken alder man har. Der er jo ingen af os, der aner, hvornår det bliver nødvendigt, siger Birgitte Kvist der er formand for seniorrådet.</p><p>For mange nordjyder får ikke talt med deres pårørende i tide. Det gælder både de ønsker, man måtte have for den sidste tid.</p><h2>Tag børnene med på råd</h2><p>Men det gælder også det rent praktiske med at få underskrevet de nødvendige dokumenter omkring slutningen af livet, hvad enten det er fremtidsfuldmagter eller behandlingstestamenter. </p><p>For vil man genoplives, hvis det er muligt? Hvor vil man gerne dø? Og hvor skal begravelsen eller bisættelsen foregå?</p> <p>Derfor er det også en god ide at få involveret sine børn i snakken, fordi det ofte er dem, der skal føre ønskerne ud i livet.</p><p>- Jeg er også indstillet på at tale med mine børn om det. Fordi det bliver jo dem, der skal være med til at foranledige det, der skal ske efter, man er død.</p><p>Flere af dagens tilhørere har allerede forberedt den sidste tid og deres sidste vilje. </p><p>- Vi vil gerne i samme urne, og så vil vi gerne hældes ud i en å. Lyder det ikke smukt? Spøger Eva Risager fra Aabybro retorisk.</p><p>På ældresagens hjemmeside kan man læse mange flere gode råd om den sidste tid, og hvordan man kan forberede sig på sin egen død.</p>",
-  "link": "https://www.tv2nord.dk/jammerbugt/jeg-vil-godt-vaere-lidt-mere-forberedt",
-  "published": "Wed, 30 Oct 24 17:14:00 +0100",
-  "guid": "https://www.tv2nord.dk/jammerbugt/jeg-vil-godt-vaere-lidt-mere-forberedt",
+  "title": "Grøn elektriker nomineret til talentpris",
+  "description": "<p>- Det er helt vildt. Jeg havde ikke set den komme.</p><p>Sådan lyder det, når man er blandt de tre nominerede til en landsdækkende pris i en særlig kategori.</p><p>33-årige Benjamin Langsted er tidligere på året blevet færdigudlært elektriker, og nu, ikke engang et år senere, er han nomineret til talentprisen for unge faglærte, Fagtalent 2024, i kategorien &#039;Grøn omstilling&#039;.</p><p>- Jeg interesserer mig ret meget for alt det nye grønne og synes, det er spændende, fortæller han. </p><p>Der er også en særlig grund til, at Benjamin synes, det er fedt at blive nomineret - det kan du læse mere om i historien herunder:</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/gron-elektriker-nomineret-til-talentpris",
+  "published": "Sat, 09 Nov 24 11:39:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/broenderslev/gron-elektriker-nomineret-til-talentpris",
   "category": "No category"
  },
  {
-  "title": "Politi har flere spor i sag om skudepisoder med hardballpistol",
-  "description": "<p>Nordjyllands Politi har flere spor at gå efter i otte skudepisoder, der har fundet sted siden 23. oktober, hvor personer er blevet skudt med hardball- eller softgunkugler.</p><p>Det fortæller Jesper Fredsgaard, der er fungerende politikommisær for nærpoliti og forebyggelse hos lokalpolitiet i Himmerland.</p><p>Siden vi gik ud med et ønske om at tale med flere vidner, har vi fået en masse henvendelser, og det er vi glade for. Der har heller ikke været flere episoder, vi ved af, siden den 27. oktober, hvilket måske betyder, at det har hjulpet, at vi er gået ud i medierne med informationen, siger Jesper Fredsgaard, der fortæller, at efterforskningen fortsætter.</p><p>Blandt andet har flere vidner fortalt, at der er tale om unge drenge. Derudover fortæller flere vidner om de samme biler: En Suzuki Wagon, formodentlig sølvgrå, og en Peugeot med blå forlygter.</p><p>- Kender man biler som disse, må man gerne rette henvendelse via 114, lyder det fra Jesper Fredsgaard og fortæller, at hvis der stadig er vidner derude, eller andre, der har oplevet skudepisoder, må de også gerne kontakte politiet.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/rebild/politi-har-flere-spor-i-sag-om-skudepisoder-med-hardballpistol",
-  "published": "Wed, 30 Oct 24 16:57:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/rebild/politi-har-flere-spor-i-sag-om-skudepisoder-med-hardballpistol",
+  "title": "Youtuber føler sig tortureret på spøgelsesjagt",
+  "description": "<p>- Det vrimler med spøgelser. Primært spøgelser, der har været udsat for rigtig grimme ting.</p><p>Sådan præsenterer spøgelsesjæger Mikkel Egelund Sæbygaard Slot for Laila Kilime og Max Münster forud for deres spøgelsesjagt på slottet.  </p><p>De to youtubere har sagt ja til at være med på spøgelsesjagt i første afsnit af den nye sæson af ”Er der nogen? ”Og det er første gang, de skal prøve at opsøge spøgelser.</p><p>- Jeg synes, det er mega anstrængende. Man føler sig meget presset. Lige pludselig kan man høre alting, men ikke noget som helst, siger Laila Kilime om oplevelsen</p><p><strong><em>Læs hele historien - og se afsnittet af &quot;Er der nogen&quot; - herunder:</em></strong></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/youtuber-foler-sig-tortureret-pa-spogelsesjagt",
+  "published": "Sat, 09 Nov 24 11:26:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/youtuber-foler-sig-tortureret-pa-spogelsesjagt",
   "category": "No category"
  },
  {
-  "title": "Drama i Frederikshavn: Kommunaldirektør er ikke inhabil i sag om hemmelig lydfil",
-  "description": "<p>Byrådet i Frederikshavn skal i aften tage stilling til, om kommunaldirektør Thomas Eriksen skal erklæres inhabil i at håndtere en mildest talt spektakulær personalesag.</p><p>Sagen handler om en kommunalt ansat medarbejder, der bevidst tilbageholder oplysninger i den omdiskuterede sag om Frederikshavn Havn, og som endda instruerer havnen i, hvordan de også kan mørklægge informationer for offentligheden.</p>",
-  "link": "https://www.tv2nord.dk/frederikshavn/er-kommunaldirektor-inhabil-nu-starter-vigtigt-byradsmode",
-  "published": "Wed, 30 Oct 24 16:01:00 +0100",
-  "guid": "https://www.tv2nord.dk/frederikshavn/er-kommunaldirektor-inhabil-nu-starter-vigtigt-byradsmode",
-  "category": "No category"
+  "title": "Annika fik et chok, da narkotesten var positiv: - Jeg har aldrig taget stoffer i mit liv",
+  "description": "- Det er ikke svært at forstå, at det kan være en ærgerlig oplevelse for en borger at gå i venteposition, medgiver politiinspektør",
+  "link": "https://nordjyske.dk/nyheder/krimi/annika-fik-et-chok-da-narkotesten-var-positiv-jeg-har-aldrig-taget-stoffer-i-mit-liv/5285534?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 10 Nov 2024 04:46:15 Z",
+  "guid": "91b875ae-986f-448a-a684-f5657fc57dab",
+  "category": "Krimi"
  },
  {
-  "title": "Henriette var ét af byens kendte ansigter. En dag forsvandt hun",
-  "description": "- Jeg jagtede den overfladiske anerkendelse. Jeg fik et boost af at få likes. Og det er jeg ikke stolt af i dag, siger Henriette Svalgaard",
-  "link": "https://nordjyske.dk/nyheder/aalborg/henriette-var-t-af-byens-kendte-ansigter-en-dag-forsvandt-hun/5287267?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 18:26:17 Z",
-  "guid": "ed81b24f-ceaf-4b3f-96c1-3ef392745ec2",
-  "category": "Familieliv"
+  "title": "Fem store strømslugere: Hvor mange har du i dit hjem?",
+  "description": "Har man først skabt sig nogle goder vaner, får svingende elpriser måske også mindre betydning, mener fagekspert i energi",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/fem-store-stroemslugere-hvor-mange-har-du-i-dit-hjem/5308626?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 13:22:19 Z",
+  "guid": "38613e2f-544f-4b2d-9e1d-9eadb2b22523",
+  "category": "Privatøkonomi"
  },
  {
-  "title": "Narko-forretning gik helt galt ved Rema 1000: Bil smadret med økser",
-  "description": "Yngre mand idømt et års fængsel",
-  "link": "https://nordjyske.dk/nyheder/vesthimmerland/narko-forretning-gik-galt-ved-rema-1000-bil-smadret-med-oekser/5298884?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 16:43:31 Z",
-  "guid": "0cbb950d-e8ce-4f0d-9948-570dfc82786e",
-  "category": "Retssager"
- },
- {
-  "title": "Jonas stod med et luksusproblem. Nu nærmer han sig en arving til gården",
-  "description": "Der bliver kysset, så det næsten driver ned ad fladskærmen i sidste afsnit af Landmand søger Kærlighed, hvor Jonas fra Vendsyssel traf sit afgørende valg - men hvordan går det med kærligheden, her tre måneder efter kameraet blev slukket",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/nu-er-kameraet-slukket-saadan-er-det-gaaet-med-jonas-og-kaerligheden/5296929?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 19:39:26 Z",
-  "guid": "6d508f5f-ac88-4f98-93e5-4580ae011b63",
-  "category": "Underholdning"
- },
- {
-  "title": "Diskret købmand er god for mere end 300 millioner kroner",
-  "description": "Svend Pape tilføjer endnu en gang flere millioner til sin formue",
-  "link": "https://nordjyske.dk/nyheder/aalborg/diskret-koebmands-formue-vokser-endnu-engang/5285825?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 15:12:48 Z",
-  "guid": "ce2a9a84-a141-4acd-866e-f353092e5104",
+  "title": "Uden pakker kan kiosken ikke overleve: Så meget tjener de på dem",
+  "description": "De sekunder, det tager ekspedienten at finde din pakke, er de vigtigste for kiosken. Og det er der en særlig grund til",
+  "link": "https://nordjyske.dk/nyheder/erhverv/uden-pakker-kan-kiosken-ikke-overleve-saa-meget-tjener-de-paa-dem/5299651?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 10 Nov 2024 04:47:34 Z",
+  "guid": "4c31ece5-f000-4b9a-a2fc-42fcde089296",
   "category": "Erhverv"
  },
  {
-  "title": "Topdirektør fyret: - Det kom som en overraskelse",
-  "description": "Bestyrelsen mistede tålmodigheden. Nu er direktøren afskediget",
-  "link": "https://nordjyske.dk/nyheder/erhverv/fyret-igen-direktoer-er-overrasket/5297522?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 14:14:37 Z",
-  "guid": "dc361ee4-e1a4-4fa2-a15d-01e6840477fb",
-  "category": "Erhverv"
- },
- {
-  "title": "Første gang i Nordjylland",
-  "description": "Nyt tiltag ved festgade",
-  "link": "https://nordjyske.dk/nyheder/aalborg/foerste-gang-i-nordjylland/5298803?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 17:53:32 Z",
-  "guid": "13f60fb7-156d-4e60-b82f-35b5053241d6",
-  "category": "national sikkerhed"
- },
- {
-  "title": "Enestående Jørgensen sender AaB i kvartfinale, mens Müller melder klart ud efter udskiftning",
-  "description": "AaB gik videre, Mathias Jørgensen fortsatte sit vanvittige målsnit, og Vincent Müller udgik efter en tackling. Det opsummerer AaB's aften i Esbjerg",
-  "link": "https://nordjyske.dk/nyheder/sport/enestaaende-joergensen-sender-aab-i-kvartfinale-mens-m-ller-melder-klart-ud-efter-udskiftning/5298925?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 18:39:38 Z",
-  "guid": "9b57ada5-6bf1-45f5-9506-d46a21454b6f",
-  "category": "AaB"
- },
- {
-  "title": "Fra flot hæder til farvel på ikonisk hotel",
-  "description": "Ruths Hotel i Skagen skal have ny restaurantchef",
-  "link": "https://nordjyske.dk/nyheder/frederikshavn/restaurantchef-stopper-i-skagen-lige-nu-har-jeg-ikke-noget-nyt-i-horisonten/5298959?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 15:50:14 Z",
-  "guid": "09f7d940-f5e0-487e-b83f-5a89e84446d7",
-  "category": "Restaurationsbranchen"
- },
- {
-  "title": "Lene passer sit globale job fra ét af Nordjyllands roligste steder: - Her rækker pengene længere",
-  "description": "Lene Melchjorsen flyttede i sommers til Læsø sammen med sin søn Frederik",
-  "link": "https://nordjyske.dk/nyheder/sundhed/lene-passer-sit-globale-job-fra-t-af-nordjyllands-roligste-steder-her-raekker-pengene-laengere/5297902?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 16:00:51 Z",
-  "guid": "37e11a00-1e23-4c55-b088-21ddf69b0f6e",
-  "category": "Livsstil"
- },
- {
-  "title": "Hver ottende nordjyde får sygdommen. Nu frygter Marianne, at vigtig behandling tages fra hende",
-  "description": "Brugere af særligt tilbud på regionshospital frygter fremtiden",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/marianne-har-en-udbredt-sygdom-og-nu-frygter-hun-at-miste-vigtig-behandling/5295253?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 04:39:45 Z",
-  "guid": "a51933fe-ba4f-4ef4-8c97-6e0f25eb648f",
+  "title": "Susanne ser mange med rygsmerter - her er seks gode råd fra kiropraktoren",
+  "description": "Voksne med lændesmerter fylder godt i klinikken - men hvad kan man egentlig selv gøre for at passe på sin ryg?",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/susanne-ser-mange-med-rygsmerter-her-er-seks-gode-raad-fra-kiropraktoren/5308028?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 10 Nov 2024 04:45:33 Z",
+  "guid": "1e54c8f5-869b-4888-8009-950a7163aab9",
   "category": "Sundhed"
  },
  {
-  "title": "Ny skuffelse for Aalborg Håndbold",
-  "description": "Aalborg Håndbold tabte et vigtigt skridt i Champions League",
-  "link": "https://nordjyske.dk/nyheder/sport/foelg-med-live-aalborg-haandbold-paa-vital-pointjagt-i-norge/5296743?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 17:18:49 Z",
-  "guid": "d38e714a-cf96-4c50-860e-361dddf978e6",
-  "category": "Håndbold"
+  "title": "To mænd truede personer på gaden med hammer og kniv",
+  "description": "To mænd er lørdag blevet sigtet for røveri, vold og trusler mod flere forurettede personer i Brovst fredag aften.",
+  "link": "https://nordjyske.dk/nyheder/morsoe/doedstrusler-paa-aaben-gade-hvis-du-sladrer-til-politiet-saa-er-du-doed/5312660?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 15:21:59 Z",
+  "guid": "92ece625-3be7-4189-b12a-c2fc456f1963",
+  "category": "Krimi"
  },
  {
-  "title": "Slut: Jørgensen var hård mod tidligere klub",
-  "description": "Mathias Jørgensen var manden i centrum, da AaB avancerede til pokalkvartfinalen",
-  "link": "https://nordjyske.dk/nyheder/sport/her-kan-du-foelge-aab-s-pokalkamp-i-esbjerg/5298275?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 11:08:50 Z",
-  "guid": "b9dc522f-3a18-46c7-93e7-1ceff755f152",
-  "category": "Fodbold"
+  "title": "Hun troede egentlig, det gik fint: Så kom der en besked på Snapchat",
+  "description": "De svarede, at de godt gad være sammen med de andre, men ikke med mig, siger den 12-årige pige stille",
+  "link": "https://nordjyske.dk/nyheder/vesthimmerland/hun-troede-egentlig-det-gik-fint-saa-kom-der-en-besked-paa-snapchat/5300039?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 18:35:27 Z",
+  "guid": "b3f9ebd3-820f-4d79-9605-fb8b389ea956",
+  "category": "Sociale medier"
  },
  {
-  "title": "Niklas Landin er tilbage",
-  "description": "Niklas Landin har kun været i kamp for Aalborg Håndbold en enkelt gang i denne sæson, men det ændrer sig onsdag aften",
-  "link": "https://nordjyske.dk/nyheder/sport/nu-er-der-godt-nyt-om-niklas-landin/5295112?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 28 Oct 2024 13:27:46 Z",
-  "guid": "fe7e0e01-5ea9-4f94-8b43-fb4789ddacb3",
-  "category": "Aalborg Håndbold"
+  "title": "De var 30'ernes Novo Nordisk, og de gjorde noget, ingen dansk virksomhed havde gjort før dem",
+  "description": "Spritten er i høj grad stedet, man hægter fortællingen om, hvad Aalborg skal være, op på. Det var det også, da det blev opført",
+  "link": "https://nordjyske.dk/nyheder/byudvikling/snart-kommer-det-nye-moderne-spritten-men-allerede-i-1931-pegede-den-ind-i-fremtiden/5144471?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 19:08:41 Z",
+  "guid": "8900c242-d9d4-4667-a504-665b36c0ce86",
+  "category": "byudvikling"
  },
  {
-  "title": "Udskældt leder med stort overforbrug: Nu skal der skæres",
-  "description": "Økonomien har også sejlet på omstridt institution for udviklingshæmmede",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/kaempe-overforbrug-paa-omstridt-institution-nu-skal-der-skaeres/5297634?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 11:25:24 Z",
-  "guid": "618fc7ab-4d5f-4dac-a86a-e66053be6352",
+  "title": "Hausgaard om tv-hittet i kolonihaven: Jeg kender slutningen - jeg siger ikke mere",
+  "description": "Med ironisk kant og varme sætter Niels Hausgaard ord på “Balladen om kolonihaven”, der er blevet en seermagnet",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/hausgaard-om-tv-hittet-i-kolonihaven-jeg-kender-slutningen-jeg-siger-ikke-mere/5309693?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 17:29:11 Z",
+  "guid": "324780d4-c61a-4067-96cc-c6690de58127",
+  "category": "Underholdning"
+ },
+ {
+  "title": "Flere borgere flyttede til byen på grund af stoppestedet. Nu risikerer de at miste det",
+  "description": "Hundreder af pendlere frygter afgørelsen på møde, der skal afgøre, hvor tog stopper",
+  "link": "https://nordjyske.dk/nyheder/byudvikling/by-staar-til-at-vinde-over-naboen-men/5311592?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 15:12:20 Z",
+  "guid": "8b6dd939-8f90-4246-a57a-c3df908d72a3",
   "category": "samfund"
  },
  {
-  "title": "Stak af efter knivdrama. Her er sigtelsen",
-  "description": "Den 27-årige mand havde været eftersøgt med navn og billede siden fredag aften, men tirsdag meldte han sig selv",
-  "link": "https://nordjyske.dk/nyheder/krimi/foerst-loeb-han-vaek-nu-er-27-aarig-sigtet-efter-knivdrama-ved-jomfru-ane-gade/5297799?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 10:08:29 Z",
-  "guid": "4df678bc-ae6b-4db6-8d11-cf4071e072fe",
-  "category": "Retssager"
+  "title": "Brødrenes tre sønner skal overtage. Det er dyrt. Men pengene strømmer ind",
+  "description": "I Skagen har to velhavende fiskerfamilier rundet endnu en milliardmilepæl. De købte blandt andet stort ind, da Henning Kjeldsen solgte ud. Og så er de eksemplet på noget i dansk fiskeri, som måske vil komme bag på mange",
+  "link": "https://nordjyske.dk/nyheder/erhverv/broedrenes-tre-soenner-skal-overtage-det-er-dyrt-men-pengene-stroemmer-ind/5311898?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 07:36:41 Z",
+  "guid": "a6bbcbd2-ccc2-4162-a687-b414cab0cbff",
+  "category": "Erhverv"
  },
  {
-  "title": "Bilindustrien er havnet i en dødskamp, som kan ses hele vejen til Nordjylland",
-  "description": "De mørke skyer trækker for alvor ind over bilindustrien i Europa. Det kan få store konsekvenser. Også herhjemme, hvor konsekvenserne af de tektoniske plader, som flytter sig, allerede er tydelige",
-  "link": "https://nordjyske.dk/nyheder/erhverv/bilindustrien-er-havnet-i-en-doedskamp-og-du-kan-se-sporene-helt-til-nordjylland/5296571?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 04:42:37 Z",
-  "guid": "de53907c-dd6b-471e-95a3-73fa2909e34f",
-  "category": "Biler"
+  "title": "Børnelægen Camilla har tre råd og en klar opfordring, når dit barn får en varm pande",
+  "description": "Camilla har været børnelæge i 20 år og ser, at internettet puster til bekymring hos forældre med syge børn. Hun fremhæver her tre ting, der er gode at huske på",
+  "link": "https://nordjyske.dk/nyheder/sundhed/overlaegens-gode-raad-saadan-bevarer-du-roen-naar-dit-barn-bliver-sygt/5303110?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 04:42:11 Z",
+  "guid": "3d46bc0c-0ec1-4fe2-b55e-91e0cd0d4eaa",
+  "category": "Børnefamilier"
  },
  {
-  "title": "Skolepatrulje blev frataget deres skitur: - Der er gået lidt skuddermudder i det",
-  "description": "Politiker erkender brøler",
-  "link": "https://nordjyske.dk/nyheder/frederikshavn/er-staaet-tidligt-op-i-et-helt-aar-foraeldre-helt-oppe-i-det-roede-felt-efter-aflysning/5297117?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 29 Oct 2024 17:03:14 Z",
-  "guid": "3cd33775-cc54-4e60-8c75-2992894a7765",
-  "category": "Skolevæsen"
+  "title": "Anders fik den besked, han havde frygtet. Nu kæmper han for sin karriere",
+  "description": "Han var kørt i stilling som AaB's næste guldfugl. Et af klubbens allerstørste talenter. Men der er meget lang vej til fodboldbanen for Anders Noshe, som har været forfulgt af uheld. Og et ubehageligt spørgsmål presser sig på",
+  "link": "https://nordjyske.dk/nyheder/sport/anders-frygtede-det-vaerste-da-det-sagde-knaek-i-knaeet-han-fik-ret/5310998?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 04:42:39 Z",
+  "guid": "56aa9a02-8916-4aa0-a347-3db5a58ba4f2",
+  "category": "Karriere"
  },
  {
-  "title": "Kamilla og Christinna møder sjældent familier som deres egen. Nu forstår de hvorfor",
-  "description": "Se hvordan børnefamilierne i din kommune er skruet sammen",
-  "link": "https://nordjyske.dk/nyheder/aalborg/her-er-regnbueboernene-i-nordjylland-vi-leger-ogsaa-far-mor-og-boern/5294663?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 29 Oct 2024 18:13:17 Z",
-  "guid": "5afa66bf-fc35-485d-9629-a753f5268e6e",
-  "category": "Familieliv"
+  "title": "Nordjysk tophold vandt igen",
+  "description": "Den nordjyske sportsweekend er i gang",
+  "link": "https://nordjyske.dk/nyheder/sport/vendsyssels-sejrstoerke-fortsaetter/5309451?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 08 Nov 2024 20:10:13 Z",
+  "guid": "f6ab2c3b-3b61-482f-bff5-455af7bad90e",
+  "category": "Sport"
  },
  {
-  "title": "Hvorfor ser myndighederne gennem fingrene med asbestfaren ved Egholm-motorvejen?",
+  "title": "Nedtrykt efter sex? Her er forklaringen",
+  "description": "Hvad er løsningen på sorg efter sex, lyder spørgsmålet til Nordjyskes samlivsekspert",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/spoerger-min-kone-er-nedtrykt-efter-sex-skal-jeg-finde-en-anden/5309640?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 14:04:53 Z",
+  "guid": "82190ff5-807a-4ee8-8984-22b0a5165bb4",
+  "category": "Parforhold"
+ },
+ {
+  "title": "De kører så vanvittigt på de nordjyske veje, at de kan miste bilen. Men hvem er de?",
+  "description": "Nye tal afslører, hvem der er blevet taget for vanvidskørsel",
+  "link": "https://nordjyske.dk/nyheder/krimi/de-koerer-saa-vanvittigt-paa-de-nordjyske-veje-at-de-kan-miste-bilen-men-hvem-er-de/5291909?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 08 Nov 2024 18:10:23 Z",
+  "guid": "b41e982b-3db6-45cb-8298-d03cb3e083b0",
+  "category": "Trafik"
+ },
+ {
+  "title": "Den hårde tone efter Birgit Hansen: Sådan vil han fikse det",
+  "description": "Tiden efter Birgit Hansen. Socialdemokratisk borgmesterkandidat taler ud om den hårde tone",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/i-birgit-hansens-stol-om-et-aar-saadan-vil-jeg-goere/5311743?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 10:24:10 Z",
+  "guid": "6a08948b-6bc0-4e58-bee4-406b54ac1a7e",
+  "category": "samfund"
+ },
+ {
+  "title": "Aalborg-firma tæt på at blive solgt for 10 mia. kr.",
+  "description": "Du finder firmaets produkter på byggepladser over hele verden. Nu står ejerne til at lave et guldrandet salg",
+  "link": "https://nordjyske.dk/nyheder/erhverv/aalborg-firma-taet-paa-at-blive-solgt-i-historisk-stor-handel/5311263?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 08 Nov 2024 09:51:36 Z",
+  "guid": "efef2e88-1910-4ba5-9c98-ede22d1b0133",
+  "category": "Erhverv"
+ },
+ {
+  "title": "Kommentar: Luk dog DR. Tiden er løbet fra den institution",
   "description": "",
-  "link": "https://nordjyske.dk/nyheder/laeserbrev/hvorfor-ser-myndighederne-gennem-fingrene-med-asbestfaren-ved-egholm-motorvejen/5294068?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 12:42:52 Z",
-  "guid": "a81778a7-97b1-42d1-b2b7-40c517a5d540",
+  "link": "https://nordjyske.dk/nyheder/laeserbrev/kommentar-luk-dog-dr-tiden-er-loebet-fra-den-institution/5309998?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 09 Nov 2024 09:16:46 Z",
+  "guid": "524b4051-8aff-4eca-b204-8842829e535c",
   "category": "Debat"
  },
  {
-  "title": "Politiet øger opmærksomheden på minilæssere i Skagen",
-  "description": "Det er fjerde gang på få måneder, at en minilæsser bliver stjålet i Skagen -herudover er en stjålet i Ålbæk",
-  "link": "https://nordjyske.dk/nyheder/frederikshavn/politiet-oeger-opmaerksomheden-paa-minilaessere-i-skagen/5298274?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 30 Oct 2024 12:24:31 Z",
-  "guid": "6a974357-6669-4be3-b2cb-56dddc6c556e",
-  "category": "Politi"
+  "title": "Bilforhandler gemte på vigtigt stykke papir - dets forsvinden afslørede gerningsmand i brandsag",
+  "description": "Branden blev påsat kort efter midnat på en sensommerdag i august 2022 på et kontor i et autoværksted",
+  "link": "https://nordjyske.dk/nyheder/frederikshavn/det-eneste-der-forsvandt-i-paasat-brand-paa-autovaerksted-var-en-registreringsattest-senere-skulle-den-faelde-gerningsmanden/5311963?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 08 Nov 2024 15:41:55 Z",
+  "guid": "fa40f0ac-433b-412a-8729-503dbb7950dd",
+  "category": "Retssager"
+ },
+ {
+  "title": "Stor bilforhandler har mistet 80 procent af salget",
+  "description": "Kjærsgaard Auto i Aalborg har haft et skidt regnskabsår. Ledelsen har sadlet kraftigt om. Men problemerne er langt fra løst. Og bliver det ikke foreløbigt",
+  "link": "https://nordjyske.dk/nyheder/erhverv/stor-bilforhandler-har-mistet-80-procent-af-salget/5309084?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 08 Nov 2024 04:53:18 Z",
+  "guid": "90e9cf22-ed0a-4825-8bcf-9a88b11987b2",
+  "category": "Erhverv"
  }
 ]
