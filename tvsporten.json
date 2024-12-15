@@ -1,1 +1,150 @@
-[]
+[
+ {
+  "match": "1. FC Köln – Leipzig Kvinder",
+  "category": "Frauen-Bundesliga",
+  "time": "17:55",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "AaB – Silkeborg IF",
+  "category": "DBU Pokalen",
+  "time": "19:00",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "SG Flensburg-Handewitt – Füchse Berlin",
+  "category": "Bundesliga Håndbold",
+  "time": "19:25",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Håndball Bundesliga",
+  "category": "Bundesliga Håndbold",
+  "time": "19:25",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "SS Lazio – Inter",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Fleetwood Town – Accrington Stanley",
+  "category": "League Two",
+  "time": "20:55",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "AFC Bournemouth – West Ham United",
+  "category": "Premier League",
+  "time": "21:00",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "See",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Dallas Stars – Washington Capitals",
+  "category": "NHL",
+  "time": "02:05",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Edmonton Oilers – Florida Panthers",
+  "category": "NHL",
+  "time": "02:35",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sacramento Kings – Denver Nuggets",
+  "category": "NBA",
+  "time": "04:00",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Vancouver Canucks – Colorado Avalanche",
+  "category": "NHL",
+  "time": "04:35",
+  "date": "2024-12-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
