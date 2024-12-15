@@ -1,10 +1,12 @@
+import os
 import json
 import requests
 import shutil
-import os
 
-# Discord Webhook URL
+# Load Discord webhook URL from environment variable
 DISCORD_WEBHOOK_URL = os.getenv("WHURL")
+if not DISCORD_WEBHOOK_URL:
+    raise ValueError("Discord webhook URL is not set. Check your GitHub Secrets.")
 
 # File paths
 CURRENT_FILE = "jobs.json"
@@ -54,6 +56,6 @@ def notify_new_jobs():
     # Update the backup file
     save_backup(CURRENT_FILE, BACKUP_FILE)
 
-# Run the function after the scraper is complete
+# Run the function
 if __name__ == "__main__":
     notify_new_jobs()
