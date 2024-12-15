@@ -23,7 +23,7 @@ jobs:
 
     - name: Run scraper.py
       env:
-        DISCORD_WEBHOOK_URL: ${{ secrets.WHURL }}
+        WHURL: ${{ secrets.WHURL }}
       run: |
         python scraper.py
         python notify.py
