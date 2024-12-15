@@ -1,9 +1,10 @@
 import json
 import requests
 import shutil
+import os
 
 # Discord Webhook URL
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN"
+DISCORD_WEBHOOK_URL = os.getenv("WHURL")
 
 # File paths
 CURRENT_FILE = "jobs.json"
