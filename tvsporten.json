@@ -40,22 +40,6 @@
   ]
  },
  {
-  "match": "Håndball Bundesliga",
-  "category": "Bundesliga Håndbold",
-  "time": "19:25",
-  "date": "2024-12-16",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "SS Lazio – Inter",
   "category": "Serie A",
   "time": "20:45",
