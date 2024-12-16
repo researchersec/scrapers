@@ -96,34 +96,6 @@
   ]
  },
  {
-  "match": "Dallas Stars – Washington Capitals",
-  "category": "NHL",
-  "time": "02:05",
-  "date": "2024-12-16",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Edmonton Oilers – Florida Panthers",
-  "category": "NHL",
-  "time": "02:35",
-  "date": "2024-12-16",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Sacramento Kings – Denver Nuggets",
   "category": "NBA",
   "time": "04:00",
