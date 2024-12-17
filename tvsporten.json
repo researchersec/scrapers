@@ -130,41 +130,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
    }
   ]
- },
- {
-  "match": "Calgary Flames – Boston Bruins",
-  "category": "NHL",
-  "time": "03:05",
-  "date": "2024-12-17",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Seattle Kraken – Ottawa Senators",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2024-12-17",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "San Jose Sharks – Winnipeg Jets",
-  "category": "NHL",
-  "time": "04:35",
-  "date": "2024-12-17",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
