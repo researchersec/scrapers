@@ -138,29 +138,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
    }
   ]
- },
- {
-  "match": "Minnesota Wild – Florida Panthers",
-  "category": "NHL",
-  "time": "03:35",
-  "date": "2024-12-18",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Anaheim Ducks – Winnipeg Jets",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2024-12-18",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
