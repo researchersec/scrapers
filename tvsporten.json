@@ -1,29 +1,5 @@
 [
  {
-  "match": "Premier Padel Finals",
-  "category": "Premier Padel",
-  "time": "14:00",
-  "date": "2024-12-19",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Skiskydning World Cup: Annecy Sprint (m)",
-  "category": "Skiskydning",
-  "time": "14:20",
-  "date": "2024-12-19",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
   "match": "World Darts Championship",
   "category": "PDC",
   "time": "20:00",
