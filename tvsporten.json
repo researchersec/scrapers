@@ -1,1 +1,266 @@
-[]
+[
+ {
+  "match": "VM Urban - BMX Freestyle Park: Semifinale",
+  "category": "BMX",
+  "time": "07:55",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "AfrAsia Bank Mauritius Open - Dag 2",
+  "category": "DP World Tour",
+  "time": "09:30",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Freestyle (D/M) Pukkelpiste",
+  "category": "Skisport",
+  "time": "09:50",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Alpint (H) Super G",
+  "category": "Alpin Vintersport",
+  "time": "11:40",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP Next Gen: Kvartfinaler",
+  "category": "ATP",
+  "time": "12:00",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Freestyle (D/M) Skicross",
+  "category": "Skisport",
+  "time": "12:05",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "VM Urban - BMX Freestyle Park: Semifinale",
+  "category": "BMX",
+  "time": "13:25",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "World Darts Championship",
+  "category": "PDC",
+  "time": "13:30",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Premier Padel Finals",
+  "category": "Premier Padel",
+  "time": "14:00",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Skiskydning World Cup: Annecy Sprint (k)",
+  "category": "Skiskydning",
+  "time": "14:20",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Spvgg Elversberg 07 – Schalke 04",
+  "category": "2. Bundesliga",
+  "time": "18:25",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Fortuna Düsseldorf – SC Magdeburg",
+  "category": "2. Bundesliga",
+  "time": "18:25",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Anadolu Efes – Partizan Mobtel",
+  "category": "Euroleague",
+  "time": "18:25",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "KIF Kolding – Fredericia Hk 1990",
+  "category": "HTH Herreligaen",
+  "time": "20:00",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "World Darts Championship",
+  "category": "PDC",
+  "time": "20:00",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Bayern München – RB Leipzig",
+  "category": "Bundesliga",
+  "time": "20:30",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Motherwell FC – Kilmarnock FC",
+  "category": "Scottish Premiership",
+  "time": "20:40",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hellas Verona – AC Milan",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Luton Town – Derby County",
+  "category": "Championship",
+  "time": "20:55",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Girona Cf – Real Valladolid",
+  "category": "La Liga",
+  "time": "21:00",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Anaheim Ducks – Colorado Avalanche",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2024-12-20",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
