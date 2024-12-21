@@ -1,29 +1,5 @@
 [
  {
-  "match": "Urban Cycling BMX Park: Trials finaler (k+m)",
-  "category": "BMX",
-  "time": "07:50",
-  "date": "2024-12-21",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Freestyle (D/M) Parallell pukkelpiste",
-  "category": "Skisport",
-  "time": "08:50",
-  "date": "2024-12-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "AfrAsia Bank Mauritius Open - Dag 3",
   "category": "DP World Tour",
   "time": "10:00",
