@@ -1,21 +1,5 @@
 [
  {
-  "match": "AfrAsia Bank Mauritius Open - Finalerunden",
-  "category": "DP World Tour",
-  "time": "07:00",
-  "date": "2024-12-22",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Alpint (H) Storslalom",
   "category": "Alpin Vintersport",
   "time": "09:55",
@@ -532,6 +516,18 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Seattle Seahawks – Minnesota Vikings",
+  "category": "NFL",
+  "time": "22:00",
+  "date": "2024-12-22",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
    }
   ]
  },
