@@ -154,33 +154,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
- },
- {
-  "match": "Vancouver Canucks – San Jose Sharks",
-  "category": "NHL",
-  "time": "03:05",
-  "date": "2024-12-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Vegas Golden Knights – Anaheim Ducks",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2024-12-23",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
