@@ -1,21 +1,5 @@
 [
  {
-  "match": "Superprestige - Mol (M)",
-  "category": "Cykelcross",
-  "time": "15:00",
-  "date": "2024-12-23",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
   "match": "Fiorentina – Udinese",
   "category": "Serie A",
   "time": "18:30",
