@@ -17,6 +17,14 @@
  },
  {
   "category": "it",
+  "pub_date": "23-12-2024",
+  "title": "Data Engineer - Byg fundamentet for en grøn, datadrevet fremtid",
+  "company": "N1 A/S",
+  "location": "Støvring, Silkeborg eller Esbjerg",
+  "job_URL": "https://www.job-karriere.dk/N1/job/St%C3%B8vring-Data-Engineer-Byg-fundamentet-for-en-gr%C3%B8n%2C-datadrevet-fremtid-9530/1154390901/"
+ },
+ {
+  "category": "it",
   "pub_date": "20-12-2024",
   "title": "Senior Full Stack Developer .Net",
   "company": "KMD A/S",
@@ -128,12 +136,12 @@
   "job_URL": "https://itm8.dk/job?jobid=230630&linkref=254683&locale=da_DK"
  },
  {
-  "category": "it",
-  "pub_date": "17-12-2024",
-  "title": "FPGA-udvikler",
-  "company": "Rohde & Schwarz Technology Center A/S",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1516801/fpga-udvikler"
+  "category": "industri",
+  "pub_date": "23-12-2024",
+  "title": "Chauffør og lagermedarbejder til Nopa Nordic",
+  "company": "Nopa Nordic A/S",
+  "location": "Hobro",
+  "job_URL": "https://nopanordic.com/da/job-karriere/?hr=show-job/232297&linkref=257642&locale=da_DK"
  },
  {
   "category": "industri",
@@ -224,20 +232,28 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1505689/cnc-specialist-medarbejdende-formand"
  },
  {
-  "category": "industri",
-  "pub_date": "19-12-2024",
-  "title": "Metallurg til Udvikling & Projekt",
-  "company": "Sintex a/s",
-  "location": "Hobro",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1525689/metallurg-til-udvikling-projekt"
+  "category": "handel",
+  "pub_date": "23-12-2024",
+  "title": "Salgsleder, SuperBrugsen Nordhavnen, Nørresundby",
+  "company": "SuperBrugsen",
+  "location": "Nørresundby",
+  "job_URL": "https://jobs.coop.dk/job/Salgsleder%2C-SuperBrugsen-Nordhavnen%2C-N%C3%B8rresundby/154022-da_DK"
  },
  {
-  "category": "industri",
-  "pub_date": "19-12-2024",
-  "title": "Afdelingskoordinator til bearbejdning ved Hosta Industries",
-  "company": "MatchMind",
-  "location": "Hjallerup",
-  "job_URL": "https://matchmind.dk/ledige-jobs?hr=show-job/231442&linkref=256212&locale=da_DK"
+  "category": "handel",
+  "pub_date": "23-12-2024",
+  "title": "Butikschef, 365discount Thisted, Kastet",
+  "company": "365discount",
+  "location": "Thisted",
+  "job_URL": "https://jobs.coop.dk/job/Butikschef%2C-365discount-Thisted%2C-Kastet/154015-da_DK"
+ },
+ {
+  "category": "handel",
+  "pub_date": "23-12-2024",
+  "title": "Sælger til Bygma Frederikshavn",
+  "company": "Bygma",
+  "location": "Frederikshavn",
+  "job_URL": "https://jobs.bygma.dk/job/Frederikshavn-S%C3%A6lger-til-Bygma-Frederikshavn-9900/1141349455/"
  },
  {
   "category": "handel",
@@ -320,12 +336,12 @@
   "job_URL": "https://sallinggroup.com/job/ledige-stillinger/df4a92aa-b3af-4ed6-9d8a-4872e8495bf5"
  },
  {
-  "category": "handel",
-  "pub_date": "13-12-2024",
-  "title": "Slagtersvend - Thisted",
-  "company": "føtex",
-  "location": "Thisted",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/4017191f-66fc-43e0-8112-813f43282588"
+  "category": "ledelse",
+  "pub_date": "23-12-2024",
+  "title": "LTSA Project Manager",
+  "company": "MAN Energy Solutions",
+  "location": "Copenhagen, Frederikshavn or Holeby",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145459&DepartmentId=19149&MediaId=4619"
  },
  {
   "category": "ledelse",
@@ -342,6 +358,30 @@
   "company": "Danpo A/S",
   "location": "Aars",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1518561/head-of-animal-welfare-praeg-fremtidens-dyrevelfaerd"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "23-12-2024",
+  "title": "Vil du være med til at forme Aalborg Karneval som frivilligkoordinator?",
+  "company": "Hviid & Larsen ApS",
+  "location": "Aalborg",
+  "job_URL": "http://www.hviidoglarsen.dk/jobs?hr=show-job/232360&linkref=257729&locale=da_DK"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "23-12-2024",
+  "title": "Salgsleder, SuperBrugsen Nordhavnen, Nørresundby",
+  "company": "SuperBrugsen",
+  "location": "Nørresundby",
+  "job_URL": "https://jobs.coop.dk/job/Salgsleder%2C-SuperBrugsen-Nordhavnen%2C-N%C3%B8rresundby/154022-da_DK"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "23-12-2024",
+  "title": "Butikschef, 365discount Thisted, Kastet",
+  "company": "365discount",
+  "location": "Thisted",
+  "job_URL": "https://jobs.coop.dk/job/Butikschef%2C-365discount-Thisted%2C-Kastet/154015-da_DK"
  },
  {
   "category": "ledelse",
@@ -414,38 +454,6 @@
   "company": "Lidl Danmark K/S",
   "location": "Skagen",
   "job_URL": "https://karriere.lidl.dk/jobs/souschef-fuldtid-skagen-skagen-496851"
- },
- {
-  "category": "ledelse",
-  "pub_date": "20-12-2024",
-  "title": "Personaleadministrator",
-  "company": "Region Nordjylland",
-  "location": "Aalborg",
-  "job_URL": "https://rn.emply.net/recruitment/vacancyAd.aspx?publishingId=45effc98-e4f3-4a92-9e3e-28c70ce40811"
- },
- {
-  "category": "ledelse",
-  "pub_date": "20-12-2024",
-  "title": "HR Coordinator",
-  "company": "Fibertex Personal Care",
-  "location": "Aalborg",
-  "job_URL": "https://fibertexpersonalcare.com/position/hr-coordinator/"
- },
- {
-  "category": "ledelse",
-  "pub_date": "20-12-2024",
-  "title": "Projektleder",
-  "company": "Nordjyllands Beredskab",
-  "location": "Aalborg",
-  "job_URL": "https://aalborg-2.career.emply.com/ad/projektleder/8v49fj"
- },
- {
-  "category": "ledelse",
-  "pub_date": "20-12-2024",
-  "title": "Kommerciel CEO med stærke e-commerce skills til Celebert",
-  "company": "HumanTrust A/S",
-  "location": "Aalborg SV",
-  "job_URL": "https://humantrust.dk/c/jobs/kommerciel-ceo-med-staerke-e-commerce-skills-til-celebert"
  },
  {
   "category": "undervisning",
@@ -712,20 +720,12 @@
   "job_URL": "https://www.epos.dk/Rek/AS3/Joblist/Job.aspx?jobOfferInstanceId=4466&joblistId=1&lang=da"
  },
  {
-  "category": "social",
-  "pub_date": "13-12-2024",
-  "title": "Sygeplejerske til Vibedal Plejecenter",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=132360"
- },
- {
-  "category": "social",
-  "pub_date": "13-12-2024",
-  "title": "Nattevagt til Vibedal Plejecenter",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=132362"
+  "category": "ingenioer",
+  "pub_date": "23-12-2024",
+  "title": "LTSA Project Manager",
+  "company": "MAN Energy Solutions",
+  "location": "Copenhagen, Frederikshavn or Holeby",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145459&DepartmentId=19149&MediaId=4619"
  },
  {
   "category": "ingenioer",
@@ -824,28 +824,20 @@
   "job_URL": "https://mapspeople.career.emply.com/ad/technical-digital-building-designer-temporary-position/dbc6w3/en"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "20-12-2024",
-  "title": "Afdelingsleder til bygnings- og adressemyndigheden i By og Land",
-  "company": "Aalborg Kommune",
-  "location": "Nørresundby",
-  "job_URL": "https://aalborg.career.emply.com/ad/afdelingsleder-til-bygnings-og-adressemyndigheden-i-by-og-land-aalborg-kommune/upvx1x/da"
+  "category": "salg",
+  "pub_date": "23-12-2024",
+  "title": "Vil du være med til at forme Aalborg Karneval som frivilligkoordinator?",
+  "company": "Hviid & Larsen ApS",
+  "location": "Aalborg",
+  "job_URL": "http://www.hviidoglarsen.dk/jobs?hr=show-job/232360&linkref=257729&locale=da_DK"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "20-12-2024",
-  "title": "Afdelingsleder til Drift og Cirkulær Udvikling, By og Land",
-  "company": "Aalborg Kommune",
-  "location": "Nørresundby",
-  "job_URL": "https://aalborg.career.emply.com/ad/afdelingsleder-til-drift-og-cirkulaer-udvikling-by-og-land-aalborg-kommune/nl6wkq/da"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "20-12-2024",
-  "title": "Afdelingsleder for de kommunale arealer til By og Land",
-  "company": "Aalborg Kommune",
-  "location": "Nørresundby",
-  "job_URL": "https://aalborg.career.emply.com/ad/afdelingsleder-for-de-kommunale-arealer-til-by-og-land-aalborg-kommune/bqc83t/da"
+  "category": "salg",
+  "pub_date": "23-12-2024",
+  "title": "Sælger til Bygma Frederikshavn",
+  "company": "Bygma",
+  "location": "Frederikshavn",
+  "job_URL": "https://jobs.bygma.dk/job/Frederikshavn-S%C3%A6lger-til-Bygma-Frederikshavn-9900/1141349455/"
  },
  {
   "category": "salg",
@@ -922,26 +914,26 @@
  {
   "category": "salg",
   "pub_date": "19-12-2024",
-  "title": "Senior Marketing Consultant med fokus på butiksoplevelse",
-  "company": "Ahlsell",
-  "location": "Aalborg eller Vallensbæk",
-  "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16204"
- },
- {
-  "category": "salg",
-  "pub_date": "19-12-2024",
   "title": "Sales Manager",
   "company": "Curia",
   "location": "Hobro",
   "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22276&locale=da_DK"
  },
  {
-  "category": "salg",
-  "pub_date": "18-12-2024",
-  "title": "Sales Executive til spændende stilling i energibranchen",
-  "company": "Kinect Energy Denmark A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1525044/sales-executive-til-spaendende-stilling-i-energibranchen"
+  "category": "kontor",
+  "pub_date": "23-12-2024",
+  "title": "Genopslag - Faglig dygtig og løsningsorienteret personalejurist til HR",
+  "company": "Brønderslev Kommune",
+  "location": "Brønderslev",
+  "job_URL": "https://bronderslev-v2.career.emply.com/ad/genopslag-faglig-dygtig-og-losningsorienteret-personalejurist-til-hr/884348/da"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "23-12-2024",
+  "title": "Chauffør og lagermedarbejder til Nopa Nordic",
+  "company": "Nopa Nordic A/S",
+  "location": "Hobro",
+  "job_URL": "https://nopanordic.com/da/job-karriere/?hr=show-job/232297&linkref=257642&locale=da_DK"
  },
  {
   "category": "kontor",
@@ -1040,44 +1032,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1525749/oekonomichef"
  },
  {
-  "category": "kontor",
-  "pub_date": "20-12-2024",
-  "title": "Sales Coordinator - Spare Parts & Logistics",
-  "company": "MAN Energy Solutions",
-  "location": "Copenhagen, Frederikshavn, or Holeby",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145418&DepartmentId=19149&MediaId=4619"
- },
- {
-  "category": "kontor",
-  "pub_date": "20-12-2024",
-  "title": "Afdelingsleder til Økonomi i By og Land",
-  "company": "Aalborg Kommune",
-  "location": "Nørresundby",
-  "job_URL": "https://aalborg.career.emply.com/ad/afdelingsleder-til-okonomi-i-by-og-land-aalborg-kommune/x0ipek/da"
- },
- {
-  "category": "kontor",
-  "pub_date": "20-12-2024",
-  "title": "Sygefraværskoordinator til Thisted Kommune",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=133015"
- },
- {
-  "category": "kontor",
-  "pub_date": "20-12-2024",
-  "title": "Miljøsagsbehandler til industri og landbrug",
-  "company": "THISTED KOMMUNE",
-  "location": "Hurup",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=133018"
- },
- {
-  "category": "kontor",
-  "pub_date": "20-12-2024",
-  "title": "Finance Coordinator",
-  "company": "Kompetent Search A/S",
+  "category": "oevrige",
+  "pub_date": "23-12-2024",
+  "title": "Eftermarkedselev",
+  "company": "Bayern AutoGroup",
   "location": "Aalborg",
-  "job_URL": "https://karriere.kompetent.as/jobs/5322719-finance-coordinator"
+  "job_URL": "https://app.jobmatchprofile.com/fgpfer?client=jobindex"
  },
  {
   "category": "oevrige",

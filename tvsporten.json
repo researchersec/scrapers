@@ -1,57 +1,5 @@
 [
  {
-  "match": "Alpint (H) Storslalom",
-  "category": "Alpin Vintersport",
-  "time": "09:55",
-  "date": "2024-12-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Alpint (H) Storslalom",
-  "category": "Alpin Vintersport",
-  "time": "13:25",
-  "date": "2024-12-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Superprestige - Mol (K)",
-  "category": "Cykelcross",
-  "time": "13:30",
-  "date": "2024-12-23",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "World Darts Championship",
-  "category": "PDC",
-  "time": "13:30",
-  "date": "2024-12-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Superprestige - Mol (M)",
   "category": "Cykelcross",
   "time": "15:00",
