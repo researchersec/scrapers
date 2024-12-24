@@ -180,6 +180,14 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2024%2F11%2F23%2F1732359353_plakatsoejle_1.jpg&w=1200"
  },
  {
+  "title": "Lokal købmand tager kampen op: Overskudsmad uddeles",
+  "description": "<p>Det er lille juleaften, og mange sidder sikkert i familiens skød og har allerede handlet ind, hvad der skal bruges til julen. </p><p>Andre steder er der dog travlt med at få reddet alt det, der ikke blev solgt, så det kan blive brugt til noget langt mere fornuftigt. </p><p>Blandt andet i SuperBrugsen i Pandrup, bliver der pakket og slæbt, og du kan se mere om, hvor manden ender, i videoen øverst. </p>",
+  "link": "https://www.tv2nord.dk/nordjylland/lokal-kobmand-tager-kampen-op-overskudsmad-uddeles",
+  "published": "Mon, 23 Dec 24 20:26:00 +0100",
+  "guid": "https://www.tv2nord.dk/nordjylland/lokal-kobmand-tager-kampen-op-overskudsmad-uddeles",
+  "category": "No category"
+ },
+ {
   "title": "Da beboer åbnede døren var opgangen fuld af røg: 65-årig mand sigtet for at stege pølse",
   "description": "<p>Da en beboer i Margretheparken i Hirtshals åbnede sin dør ud til opgangen, var der fyldt med røg, og det fik personen til at ringe 112. </p><p>Hjælpen kom hurtigt til boligen, da brandstationen ligger lige overfor, og her var røgen allerede nærmest forsvundet igen.</p><p>- Det var noget mad, som var blevet antændt i forbindelse med noget madlavning. Det havde beboeren forsøgt at slukke ved at tage det ud i opgangen, og derfor var der blevet røget, forklarer indsatsleder ved Nordjyllands Beredskab Thomas Boelt. </p><p>Han fortæller desuden at der ikke på noget tidspunkt var fare for ild i bygningen, og at ingen personer derfor er kommet til skade. </p><p>- Jeg kan dog godt forstå, at det har virket voldsomt, at der er meget røg, når man åbner døren, pointerer indsatslederen.</p><p>Han har selv forladt adressen igen, men skadeservice er dog tilkaldt, da røgen har sat sig i opgangen. </p><p>I forbindelse med branden har Nordjyllands Politi sigtet en 65-årig mand for at overtræde beredskabsloven, det oplyser vagtchef ved Nordjyllands Politi Christian Tilsted. </p><p>- Manden var ved at stege en pølse, og det endte med en masse røg af endnu uvisse årsager, så vi har sigtet ham for at overtræde loven, forklarer han. </p>",
   "link": "https://www.tv2nord.dk/hjoerring/da-beboer-abnede-doren-var-opgangen-fuld-af-rog",
@@ -252,14 +260,6 @@
   "category": "No category"
  },
  {
-  "title": "Redningsaktion ved havnen i Skagen",
-  "description": "<p>Opdateret: 14.54 - En 89-årig efterlyst mand blev fundet død. De pårørende er underrettet.</p><p>Ved middagstid foregår der en redningsaktion ved Skagen Havn.</p><p>Det fremgår af Beredskabsstyrelsens ODIN-system.</p><p>En lægehelikopter er klokken 12.30 netop landet. </p><p>Det oplyser TV2 Nords mand på stedet. Han fortæller videre, at der er en ambulance og en lægebil til stede på området. Desuden holder der også en patruljebil på stedet, ligesom der er dykkere i vandet.</p> <p>TV2 Nord har samtidig talt med Nordjyllands Politi, der snarest vil melde ud om aktionen. </p> <h2>Søger efter 89-årig</h2><p>Hele søndagen var myndighederne til stede i Skagen under eftersøgningen efter 89-årige Peter Niemann Madsen, der ikke er set siden lørdag klokken 15.</p><p>Der er dog ikke endnu meldinger om, hvorvidt den nuværende redningsaktion kan kædes sammen med eftersøgningen. </p>",
-  "link": "https://www.tv2nord.dk/hjoerring/redningsaktion-i-skagen",
-  "published": "Mon, 23 Dec 24 12:21:00 +0100",
-  "guid": "https://www.tv2nord.dk/hjoerring/redningsaktion-i-skagen",
-  "category": "No category"
- },
- {
   "title": "Vi har selv lukket skadedyrene ind. Nu hober de sig op - og er måske at finde i julegaverne",
   "description": "Forekomsten af de behårede kryb er mere end tredoblet siden 2020",
   "link": "https://nordjyske.dk/nyheder/nordjylland/skadedyr-kan-gemme-sig-i-julegaverne-saadan-undgaar-du-dem/5363091?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -276,12 +276,12 @@
   "category": "samfund"
  },
  {
-  "title": "Ville du bytte 2024, hvis du kunne?",
-  "description": "Lige om lidt står vi over for det store gavebytteræs. I dagens leder stiller vi spørgsmålet: Ville du bytte året 2024, hvis du kunne?",
-  "link": "https://nordjyske.dk/nyheder/leder/ville-du-bytte-2024-hvis-du-kunne/5365156?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 23 Dec 2024 19:18:18 Z",
-  "guid": "ad68c095-fc63-4c8f-b0d5-783ad02f3848",
-  "category": "Nordjyske mener"
+  "title": "Sidste nyt: 89-årig skagbo fundet død",
+  "description": "Tip førte politipatrulje på sporet af den forsvundne",
+  "link": "https://nordjyske.dk/nyheder/frederikshavn/ingen-har-set-89-aarig-politiet-laegger-ny-plan/5368017?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 23 Dec 2024 05:18:54 Z",
+  "guid": "b3246359-46eb-43c3-9e72-df581351d79c",
+  "category": "Politi"
  },
  {
   "title": "Mette Bugge fritstillet som erhvervsdirektør",
@@ -300,12 +300,12 @@
   "category": "Erhverv"
  },
  {
-  "title": "Jul med fremmede: - Det betyder rigtig meget at få lov at være en del af andres juleaften",
-  "description": "Flere er begyndt at finde et alternativ til at være alene i julen. To af dem er Benedicte og Gitte. En holder jul hos fremmede, og en inviterer fremmede indenfor juleaften",
-  "link": "https://nordjyske.dk/nyheder/aalborg/jul-med-fremmede-det-betyder-rigtig-meget-at-faa-lov-at-vaere-en-del-af-andres-juleaften/5361596?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 23 Dec 2024 18:16:30 Z",
-  "guid": "efd759a5-4bd8-4de9-a9e9-8c44ebe08af7",
-  "category": "samfund"
+  "title": "Ville du bytte 2024, hvis du kunne?",
+  "description": "Lige om lidt står vi over for det store gavebytteræs. I dagens leder stiller vi spørgsmålet: Ville du bytte året 2024, hvis du kunne?",
+  "link": "https://nordjyske.dk/nyheder/leder/ville-du-bytte-2024-hvis-du-kunne/5365156?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 23 Dec 2024 19:18:18 Z",
+  "guid": "ad68c095-fc63-4c8f-b0d5-783ad02f3848",
+  "category": "Nordjyske mener"
  },
  {
   "title": "Overset finte: Sådan kan man få udbetalt overskydende skat allerede nu",
@@ -332,6 +332,14 @@
   "category": "Skadedyr"
  },
  {
+  "title": "Jul med fremmede: - Det betyder rigtig meget at få lov at være en del af andres juleaften",
+  "description": "Flere er begyndt at finde et alternativ til at være alene i julen. To af dem er Benedicte og Gitte. En holder jul hos fremmede, og en inviterer fremmede indenfor juleaften",
+  "link": "https://nordjyske.dk/nyheder/aalborg/jul-med-fremmede-det-betyder-rigtig-meget-at-faa-lov-at-vaere-en-del-af-andres-juleaften/5361596?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 23 Dec 2024 18:16:30 Z",
+  "guid": "efd759a5-4bd8-4de9-a9e9-8c44ebe08af7",
+  "category": "samfund"
+ },
+ {
   "title": "En tusindår gammel livsstil i Danmark er ved at dø: - Der er blevet stille",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/laeserbrev/en-tusindaar-gammel-livsstil-i-danmark-er-ved-at-doe-der-er-blevet-stille/5366892?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -356,14 +364,6 @@
   "category": "Hestene fra Viegård"
  },
  {
-  "title": "Trækplaster? Rådden hval på stranden mellem feriebyer",
-  "description": "Synet er ikke for sarte sjæle",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/traekplaster-raadden-hval-paa-stranden-mellem-feriebyer/5368563?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 23 Dec 2024 14:51:49 Z",
-  "guid": "d3897bff-f377-45c6-8dd5-2b291d6934b5",
-  "category": "Natur"
- },
- {
   "title": "Læge færdig på Aalborg Universitetshospital",
   "description": "Region Nordjylland stopper samarbejdet med omdiskuteret røntgen-læge",
   "link": "https://nordjyske.dk/nyheder/nordjylland/omdiskuteret-laege-faerdig-paa-aalborg-universitetshospital/5364712?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -372,12 +372,12 @@
   "category": "Sundhed"
  },
  {
-  "title": "Sidste nyt: 89-årig skagbo fundet død",
-  "description": "Tip førte politipatrulje på sporet af den forsvundne",
-  "link": "https://nordjyske.dk/nyheder/frederikshavn/ingen-har-set-89-aarig-politiet-laegger-ny-plan/5368017?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 23 Dec 2024 05:18:54 Z",
-  "guid": "b3246359-46eb-43c3-9e72-df581351d79c",
-  "category": "Politi"
+  "title": "Trækplaster? Rådden hval på stranden mellem feriebyer",
+  "description": "Synet er ikke for sarte sjæle",
+  "link": "https://nordjyske.dk/nyheder/hjoerring/traekplaster-raadden-hval-paa-stranden-mellem-feriebyer/5368563?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 23 Dec 2024 14:51:49 Z",
+  "guid": "d3897bff-f377-45c6-8dd5-2b291d6934b5",
+  "category": "Natur"
  },
  {
   "title": "Tidlig julegave: Millionbeløb sikrer deres overlevelse. For nu",
