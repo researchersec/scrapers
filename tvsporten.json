@@ -1,53 +1,5 @@
 [
  {
-  "match": "World Cup - Gavere (K)",
-  "category": "Cykelcross",
-  "time": "13:30",
-  "date": "2024-12-26",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "Heart Of Midlothian – Hibernian FC",
-  "category": "Scottish Premiership",
-  "time": "13:30",
-  "date": "2024-12-26",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Manchester City – Everton FC",
-  "category": "Premier League",
-  "time": "13:30",
-  "date": "2024-12-26",
-  "channels": [
-   {
-    "name": "See",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "World Cup - Gavere (M)",
   "category": "Cykelcross",
   "time": "15:00",
