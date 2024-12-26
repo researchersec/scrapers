@@ -1,13 +1,273 @@
 [
  {
-  "match": "Boston Celtics – Philadelphia 76ers",
-  "category": "NBA",
-  "time": "23:00",
-  "date": "2024-12-25",
+  "match": "World Cup - Gavere (K)",
+  "category": "Cykelcross",
+  "time": "13:30",
+  "date": "2024-12-26",
   "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
    {
     "name": "TV2 Sport",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Heart Of Midlothian – Hibernian FC",
+  "category": "Scottish Premiership",
+  "time": "13:30",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Manchester City – Everton FC",
+  "category": "Premier League",
+  "time": "13:30",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "See",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "World Cup - Gavere (M)",
+  "category": "Cykelcross",
+  "time": "15:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Coventry City – Plymouth Argyle",
+  "category": "Championship",
+  "time": "16:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Charlton Athletic – Cambridge United",
+  "category": "League One",
+  "time": "16:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Newcastle United – Aston Villa",
+  "category": "Premier League",
+  "time": "16:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "TV3 +",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Nottingham Forest – Tottenham Hotspur",
+  "category": "Premier League",
+  "time": "16:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "AFC Bournemouth – Crystal Palace",
+  "category": "Premier League",
+  "time": "16:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Chelsea FC – Fulham FC",
+  "category": "Premier League",
+  "time": "16:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "See",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Southampton FC – West Ham United",
+  "category": "Premier League",
+  "time": "16:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Dragons - Cardiff",
+  "category": "United Rugby Championship",
+  "time": "18:10",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Derby County – West Bromwich Albion",
+  "category": "Championship",
+  "time": "18:30",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Wolverhampton Wanderers – Manchester United",
+  "category": "Premier League",
+  "time": "18:30",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "See",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "St Mirren – Rangers",
+  "category": "Scottish Premiership",
+  "time": "18:45",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Vfl Gummersbach – Füchse Berlin",
+  "category": "Bundesliga Håndbold",
+  "time": "18:55",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Olimpia Milano – Olympiakos Pireus",
+  "category": "Euroleague",
+  "time": "20:25",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Stoke City – Leeds United",
+  "category": "Championship",
+  "time": "21:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Liverpool FC – Leicester City",
+  "category": "Premier League",
+  "time": "21:00",
+  "date": "2024-12-26",
+  "channels": [
+   {
+    "name": "Prime Video",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/amazon_prime_video_2024-2.png"
    }
   ]
  }
