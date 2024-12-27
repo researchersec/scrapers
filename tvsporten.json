@@ -1,1 +1,206 @@
-[]
+[
+ {
+  "match": "United Cup 2025",
+  "category": "United Cup",
+  "time": "09:00",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Exact Cross - Loenhout (K)",
+  "category": "Cykelcross",
+  "time": "13:40",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Exact Cross - Loenhout (M)",
+  "category": "Cykelcross",
+  "time": "14:55",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Skomar Champ: Kvartfinaler",
+  "category": "Billard",
+  "time": "18:00",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "SønderjyskE – Esbjerg Energy",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Herning Blue Fox – Odense Bulldogs",
+  "category": "Metal Ligaen",
+  "time": "19:30",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rødovre Mighty Bulls – Rungsted Seier Capital",
+  "category": "Metal Ligaen",
+  "time": "19:30",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Frederikshavn White Hawks – Aalborg Pirates",
+  "category": "Metal Ligaen",
+  "time": "19:30",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "SC Dhfk Leipzig – TSV Hannover Burgdorf",
+  "category": "Bundesliga Håndbold",
+  "time": "20:00",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Partizan Mobtel – Fenerbahce",
+  "category": "Euroleague",
+  "time": "20:25",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Brighton & Hove Albion – Brentford FC",
+  "category": "Premier League",
+  "time": "20:30",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Dunfermline Athletic – Falkirk FC",
+  "category": "Scottish Premiership",
+  "time": "20:45",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Arsenal FC – Ipswich Town",
+  "category": "Premier League",
+  "time": "21:15",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "See",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Los Angeles Clippers – Golden State Warriors",
+  "category": "NBA",
+  "time": "04:00",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "San Jose Sharks – Vegas Golden Knights",
+  "category": "NHL",
+  "time": "04:35",
+  "date": "2024-12-27",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
