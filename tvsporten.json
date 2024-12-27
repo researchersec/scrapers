@@ -1,37 +1,5 @@
 [
  {
-  "match": "Exact Cross - Loenhout (K)",
-  "category": "Cykelcross",
-  "time": "13:40",
-  "date": "2024-12-27",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
-  "match": "Exact Cross - Loenhout (M)",
-  "category": "Cykelcross",
-  "time": "14:55",
-  "date": "2024-12-27",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Discovery+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
-   }
-  ]
- },
- {
   "match": "Skomar Champ: Kvartfinaler",
   "category": "Billard",
   "time": "18:00",
