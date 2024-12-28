@@ -1,57 +1,5 @@
 [
  {
-  "match": "Alpint (H) Styrtløb",
-  "category": "Alpin Vintersport",
-  "time": "11:25",
-  "date": "2024-12-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Cross Country Ski (M/W) Sprint",
-  "category": "Langrend",
-  "time": "11:45",
-  "date": "2024-12-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Word Dart Championship",
-  "category": "World Darts Championship",
-  "time": "13:30",
-  "date": "2024-12-28",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Santander Cup: Semfinale (k)",
-  "category": "Santander Cup - Kvinder",
-  "time": "13:30",
-  "date": "2024-12-28",
-  "channels": [
-   {
-    "name": "TV2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.png"
-   }
-  ]
- },
- {
   "match": "Cross Country Ski (M/W) Sprint",
   "category": "Langrend",
   "time": "14:25",
