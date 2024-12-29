@@ -1,17 +1,5 @@
 [
  {
-  "match": "United Cup 2025",
-  "category": "United Cup",
-  "time": "08:00",
-  "date": "2024-12-29",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Alpint (H) Super G",
   "category": "Alpin Vintersport",
   "time": "11:25",
