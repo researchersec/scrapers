@@ -1,17 +1,5 @@
 [
  {
-  "match": "ATP 250 Brisbane: Indledende runder",
-  "category": "ATP",
-  "time": "05:00",
-  "date": "2024-12-29",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
   "match": "United Cup 2025",
   "category": "United Cup",
   "time": "08:00",
@@ -484,18 +472,6 @@
    {
     "name": "TV2 Sport X",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Los Angeles Kings – Philadelphia Flyers",
-  "category": "NHL",
-  "time": "03:05",
-  "date": "2024-12-29",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  }
