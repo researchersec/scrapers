@@ -1,9 +1,9 @@
 [
  {
-  "match": "Orlando Magic – Brooklyn Nets",
-  "category": "NBA",
-  "time": "21:30",
-  "date": "2024-12-29",
+  "match": "Hong Kong Open: Indledende runder",
+  "category": "BWF World Tour",
+  "time": "07:00",
+  "date": "2024-12-30",
   "channels": [
    {
     "name": "TV2 Play",
@@ -12,10 +12,10 @@
   ]
  },
  {
-  "match": "Anaheim Ducks – Edmonton Oilers",
-  "category": "NHL",
-  "time": "22:05",
-  "date": "2024-12-29",
+  "match": "United Cup 2024 (Sydney)",
+  "category": "Unite",
+  "time": "08:00",
+  "date": "2024-12-30",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -24,22 +24,10 @@
   ]
  },
  {
-  "match": "Minnesota Vikings – Green Bay Packers",
-  "category": "NFL",
-  "time": "22:25",
-  "date": "2024-12-29",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Tampa Bay Lightning – Montreal Canadiens",
-  "category": "NHL",
-  "time": "23:05",
-  "date": "2024-12-29",
+  "match": "United Cup 2025",
+  "category": "United Cup",
+  "time": "08:00",
+  "date": "2024-12-30",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -48,11 +36,151 @@
   ]
  },
  {
-  "match": "Detroit Red Wings – Washington Capitals",
-  "category": "NHL",
-  "time": "23:05",
-  "date": "2024-12-29",
+  "match": "Word Dart Championship",
+  "category": "World Darts Championship",
+  "time": "13:30",
+  "date": "2024-12-30",
   "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Cyclo- Cross Superprestige",
+  "category": "Cykelcross",
+  "time": "17:55",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Como Calcio – Lecce",
+  "category": "Serie A",
+  "time": "18:30",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Rungsted Seier Capital – Odense Bulldogs",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Esbjerg Energy – Herning Blue Fox",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Word Dart Championship",
+  "category": "World Darts Championship",
+  "time": "20:00",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Bologna FC – Hellas Verona",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Ipswich Town – Chelsea FC",
+  "category": "Premier League",
+  "time": "20:45",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Aston Villa – Brighton & Hove Albion",
+  "category": "Premier League",
+  "time": "20:45",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "AFC Wimbledon – Gillingham FC",
+  "category": "League Two",
+  "time": "21:00",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Manchester United – Newcastle United",
+  "category": "Premier League",
+  "time": "21:00",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "See",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
+   },
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
@@ -63,11 +191,23 @@
   "match": "WTA 250 Auckland: Indledende runder",
   "category": "WTA",
   "time": "23:30",
-  "date": "2024-12-29",
+  "date": "2024-12-30",
   "channels": [
    {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Sacramento Kings – Dallas Mavericks",
+  "category": "NBA",
+  "time": "04:00",
+  "date": "2024-12-30",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
    }
   ]
  }
