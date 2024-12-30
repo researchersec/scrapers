@@ -1,21 +1,5 @@
 [
  {
-  "match": "Word Dart Championship",
-  "category": "World Darts Championship",
-  "time": "13:30",
-  "date": "2024-12-30",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Cyclo- Cross Superprestige",
   "category": "Cykelcross",
   "time": "17:55",

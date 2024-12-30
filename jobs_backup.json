@@ -17,6 +17,14 @@
  },
  {
   "category": "it",
+  "pub_date": "30-12-2024",
+  "title": "Mixed-signal Hardware Development Engineer",
+  "company": "Satlab A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1509303/mixed-signal-hardware-development-engineer"
+ },
+ {
+  "category": "it",
   "pub_date": "26-12-2024",
   "title": "Senior Software Engineer til BILA Automation",
   "company": "BILA A/S",
@@ -134,14 +142,6 @@
   "company": "Admin By Request ApS",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1524779/senior-linux-udvikler"
- },
- {
-  "category": "it",
-  "pub_date": "18-12-2024",
-  "title": "Technical Product Manager",
-  "company": "Telenor",
-  "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145861&DepartmentId=18957&MediaId=5"
  },
  {
   "category": "industri",
@@ -688,20 +688,20 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1685&ProjectId=143730&DepartmentId=18956&MediaId=5"
  },
  {
-  "category": "social",
-  "pub_date": "16-12-2024",
-  "title": "Pædagogisk Psykologisk Rådgivning søger to psykologer til faste stillinger",
-  "company": "Hjørring Kommune",
-  "location": "Hjørring",
-  "job_URL": "https://hjoerring.emply.net/recruitment/vacancyAd.aspx?publishingId=3397b967-d929-410c-bf44-7bc061bbcb7a"
- },
- {
   "category": "ingenioer",
   "pub_date": "30-12-2024",
   "title": "Kvalitetsingeniør",
   "company": "Körber Supply Chain DK A/S",
   "location": "Arden eller Svenstrup",
   "job_URL": "https://jobs.koerber.com/supplychain/job/Arden-Kvalitets-ingeni%C3%B8r/1107450201/"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "30-12-2024",
+  "title": "Mixed-signal Hardware Development Engineer",
+  "company": "Satlab A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1509303/mixed-signal-hardware-development-engineer"
  },
  {
   "category": "ingenioer",
@@ -890,6 +890,14 @@
  {
   "category": "kontor",
   "pub_date": "30-12-2024",
+  "title": "Customer Service Advisor",
+  "company": "Telenor",
+  "location": "Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145862&DepartmentId=18957&MediaId=5"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "30-12-2024",
   "title": "Category Manager – stå for internationalt indkøb til MRO & Spareparts",
   "company": "Danpo A/S",
   "location": "Aars eller Give",
@@ -918,14 +926,6 @@
   "company": "UnikRecruitment",
   "location": "København K, Esbjerg, Randers C, Aarhus C, Odense C",
   "job_URL": "https://unikrecruitment.dk/ledige-stillinger/job/?hr=show-job%2F20146%26locale%3Dda_DK"
- },
- {
-  "category": "kontor",
-  "pub_date": "26-12-2024",
-  "title": "Virksomhedsanalytikere til Analyse og Ejendomssupport",
-  "company": "Sparekassen Danmark",
-  "location": "Vrå",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1519375/virksomhedsanalytikere-til-analyse-og-ejendomssupport"
  },
  {
   "category": "kontor",
@@ -1078,13 +1078,5 @@
   "company": "HTH",
   "location": "Thisted",
   "job_URL": "https://careers.nobia.com/jobs/5372533-bliv-salgs-eller-handelstrainee-ved-hth-thisted?promotion=1271629-jobindex"
- },
- {
-  "category": "oevrige",
-  "pub_date": "20-12-2024",
-  "title": "Stud.jur. med interesse i familie-/arveret",
-  "company": "Beierholm Godkendt Revisionspartnerselskab",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/studjur-med-interesse-i-familie/arveret-til-beierholm-jura-i-aalborg?_gl=1*1m23hiv*_up*MQ..*_ga*Mjk2MzIzMzA2LjE3MzQ2ODQ1MzE.*_ga_7E5KLPWM85*MTczNDY4NDUzMC4xLjAuMTczNDY4NDUzMC4wLjAuMA.."
  }
 ]
