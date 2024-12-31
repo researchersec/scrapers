@@ -80,6 +80,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTb9T7HSI%2Fp-9.webp&w=100&x1r=0.008&x2r=0.9897&y1r=0.056&y2r=0.995&s=817f46935e5eccade93dc6ebeb270eba"
  },
  {
+  "link": "/fotex/tilbud/Carlsberg-Gron-Tuborg-eller-Tuborg-Classic-flasker~o:c1jbZNLJkkQlc3_ad7AwS",
+  "price": "135.00",
+  "currency": "DKK",
+  "valid_from": "01-01-2025",
+  "valid_until": "16-01-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzAi4Ajvz%2Fp-32.webp&w=100&x1r=0.4767&x2r=0.9631&y1r=0.6991&y2r=0.978&s=1283de6a79a6043efda1f6d0b0ee276d"
+ },
+ {
   "link": "/fotex/tilbud/Carlsberg-Gron-Tuborg-eller-Tuborg-Classic-flasker~o:E_VlONHf8onf-nqJc0MSx",
   "price": "130.00",
   "currency": "DKK",
@@ -94,13 +102,5 @@
   "valid_from": "26-12-2024",
   "valid_until": "31-12-2024",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FOSjwkI1F%2Fp-41.webp&w=100&x1r=0.4386&x2r=0.9386&y1r=0.6225&y2r=0.8127&s=c034506e7034457414e58a16a2b6a594"
- },
- {
-  "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:lqEVGjOQYBdAgzeDK36fQ",
-  "price": "99.95",
-  "currency": "DKK",
-  "valid_from": "26-12-2024",
-  "valid_until": "31-12-2024",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FV5WsooUY%2Fp-1.webp&w=100&x1r=0.3443&x2r=0.9603&y1r=0.6076&y2r=0.8056&s=98486f2e623f9ad3f0fed1973ff5e7d9"
  }
 ]
