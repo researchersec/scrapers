@@ -1,57 +1,5 @@
 [
  {
-  "match": "Washington Capitals – Boston Bruins",
-  "category": "NHL",
-  "time": "18:35",
-  "date": "2024-12-31",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Toronto Maple Leafs – New York Islanders",
-  "category": "NHL",
-  "time": "19:05",
-  "date": "2024-12-31",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Indiana Pacers – Milwaukee Bucks",
-  "category": "NBA",
-  "time": "21:00",
-  "date": "2024-12-31",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Vegas Golden Knights – Montreal Canadiens",
-  "category": "NHL",
-  "time": "21:05",
-  "date": "2024-12-31",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Chicago Blackhawks – St. Louis Blues",
   "category": "NHL",
   "time": "23:05",
