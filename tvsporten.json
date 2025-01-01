@@ -1,9 +1,49 @@
 [
  {
-  "match": "Chicago Blackhawks – St. Louis Blues",
-  "category": "NHL",
-  "time": "23:05",
-  "date": "2024-12-31",
+  "match": "United Cup 2025",
+  "category": "United Cup",
+  "time": "08:00",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Cross Country (M) 15km, jagtstart, klassisk",
+  "category": "Langrend",
+  "time": "10:25",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Queens Park Rangers – Watford FC",
+  "category": "Championship",
+  "time": "13:25",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Word Dart Championship",
+  "category": "World Darts Championship",
+  "time": "13:30",
+  "date": "2025-01-01",
   "channels": [
    {
     "name": "TV3 Sport",
@@ -16,14 +56,130 @@
   ]
  },
  {
-  "match": "WTA 250 Auckland: Indledende runder",
-  "category": "WTA",
-  "time": "23:30",
-  "date": "2024-12-31",
+  "match": "Badkamers Trophy",
+  "category": "Cykelcross",
+  "time": "13:40",
+  "date": "2025-01-01",
   "channels": [
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Cardiff - Ospreys",
+  "category": "United Rugby Championship",
+  "time": "15:55",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sheffield Wednesday – Derby County",
+  "category": "Championship",
+  "time": "15:55",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Swindon Town – Colchester United",
+  "category": "League Two",
+  "time": "15:55",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Scarlets - Dragons",
+  "category": "United Rugby Championship",
+  "time": "18:10",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hull City – Middlesbrough FC",
+  "category": "Championship",
+  "time": "18:25",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Brentford FC – Arsenal FC",
+  "category": "Premier League",
+  "time": "18:30",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "Prime Video",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/amazon_prime_video_2024-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Word Dart Championship",
+  "category": "World Darts Championship",
+  "time": "20:00",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sunderland – Sheffield United",
+  "category": "Championship",
+  "time": "20:55",
+  "date": "2025-01-01",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  }
