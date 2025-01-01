@@ -1,49 +1,5 @@
 [
  {
-  "match": "Cross Country (M) 15km, jagtstart, klassisk",
-  "category": "Langrend",
-  "time": "10:25",
-  "date": "2025-01-01",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Queens Park Rangers – Watford FC",
-  "category": "Championship",
-  "time": "13:25",
-  "date": "2025-01-01",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Word Dart Championship",
-  "category": "World Darts Championship",
-  "time": "13:30",
-  "date": "2025-01-01",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Badkamers Trophy",
   "category": "Cykelcross",
   "time": "13:40",
