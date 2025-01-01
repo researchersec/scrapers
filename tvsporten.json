@@ -1,17 +1,5 @@
 [
  {
-  "match": "United Cup 2025",
-  "category": "United Cup",
-  "time": "08:00",
-  "date": "2025-01-01",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Cross Country (M) 15km, jagtstart, klassisk",
   "category": "Langrend",
   "time": "10:25",
