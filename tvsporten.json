@@ -1,57 +1,5 @@
 [
  {
-  "match": "Dundee FC – Dundee United",
-  "category": "Scottish Premiership",
-  "time": "18:25",
-  "date": "2025-01-02",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Zalgiris Kaunas – Olympiakos Pireus",
-  "category": "Euroleague",
-  "time": "18:55",
-  "date": "2025-01-02",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Viborg HK – Nykøbing Falster Håndboldklub",
-  "category": "Bambusa Kvindeligaen",
-  "time": "20:00",
-  "date": "2025-01-02",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Word Dart Championship",
-  "category": "World Darts Championship",
-  "time": "20:30",
-  "date": "2025-01-02",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "WTA 250 Auckland: Kvartfinaler",
   "category": "WTA",
   "time": "23:30",
