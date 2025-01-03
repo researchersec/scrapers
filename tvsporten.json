@@ -1,13 +1,273 @@
 [
  {
-  "match": "WTA 250 Auckland: Kvartfinaler",
-  "category": "WTA",
-  "time": "23:30",
-  "date": "2025-01-02",
+  "match": "ATP 250 Brisbane: 2. kvartfinale",
+  "category": "ATP",
+  "time": "06:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Hong Kong: Kvartfinaler",
+  "category": "ATP",
+  "time": "06:00",
+  "date": "2025-01-03",
   "channels": [
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "United Cup 2025",
+  "category": "United Cup",
+  "time": "07:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Brisbane: 3. kvartfinale",
+  "category": "ATP",
+  "time": "08:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Brisbane: 4. kvartfinale",
+  "category": "ATP",
+  "time": "11:30",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Championship League Snooker Invitational",
+  "category": "Championship League Snooker",
+  "time": "12:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Badkamers Trophy",
+  "category": "Cykelcross",
+  "time": "13:40",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Cross Country (D/H) Sprint, klassisk",
+  "category": "Langrend",
+  "time": "14:40",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Championship League Snooker Invitational",
+  "category": "Championship League Snooker",
+  "time": "17:30",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "SønderjyskE – Rungsted Seier Capital",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Esbjerg Energy – Odense Bulldogs",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Bakken Bears – Randers Cimbria",
+  "category": "Basketligaen",
+  "time": "19:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Sport Live",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Herning Blue Fox – Frederikshavn White Hawks",
+  "category": "Metal Ligaen",
+  "time": "19:30",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rødovre Mighty Bulls – Herlev Eagles",
+  "category": "Metal Ligaen",
+  "time": "19:30",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Paris Basketball – Barcelona Lassa",
+  "category": "Euroleague",
+  "time": "20:10",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Valencia – Real Madrid",
+  "category": "La Liga",
+  "time": "21:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Word Dart Championship - Finale",
+  "category": "World Darts Championship",
+  "time": "21:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 250 Auckland: Semifinaler",
+  "category": "WTA",
+  "time": "03:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Edmonton Oilers – Anaheim Ducks",
+  "category": "NHL",
+  "time": "03:05",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 500 Brisbane: Semifinale",
+  "category": "WTA",
+  "time": "04:00",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Vancouver Canucks – Nashville Predators",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Los Angeles Lakers – Atlanta Hawks",
+  "category": "NBA",
+  "time": "04:30",
+  "date": "2025-01-03",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
    }
   ]
  }
