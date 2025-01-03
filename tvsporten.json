@@ -1,33 +1,5 @@
 [
  {
-  "match": "Badkamers Trophy",
-  "category": "Cykelcross",
-  "time": "13:40",
-  "date": "2025-01-03",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Cross Country (D/H) Sprint, klassisk",
-  "category": "Langrend",
-  "time": "14:40",
-  "date": "2025-01-03",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Championship League Snooker Invitational",
   "category": "Championship League Snooker",
   "time": "17:30",
