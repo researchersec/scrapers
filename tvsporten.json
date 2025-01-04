@@ -1,41 +1,5 @@
 [
  {
-  "match": "ATP 250 Brisbane: Semifinale",
-  "category": "ATP",
-  "time": "06:00",
-  "date": "2025-01-04",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Hong Kong: Semifinaler",
-  "category": "ATP",
-  "time": "07:00",
-  "date": "2025-01-04",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
-  "match": "United Cup 2025",
-  "category": "United Cup",
-  "time": "07:00",
-  "date": "2025-01-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "WTA 500 Brisbane: Semifinale",
   "category": "WTA",
   "time": "09:30",
