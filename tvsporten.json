@@ -326,53 +326,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
- },
- {
-  "match": "Los Angeles Kings – Tampa Bay Lightning",
-  "category": "NHL",
-  "time": "03:05",
-  "date": "2025-01-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Seattle Kraken – Edmonton Oilers",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2025-01-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Calgary Flames – Nashville Predators",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2025-01-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Vegas Golden Knights – Buffalo Sabres",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2025-01-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
