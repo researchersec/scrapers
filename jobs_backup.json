@@ -10,22 +10,6 @@
  {
   "category": "it",
   "pub_date": "30-12-2024",
-  "title": "Microsoft Azure-platformspecialist",
-  "company": "Aalborg Kommune",
-  "location": "Aalborg",
-  "job_URL": "https://aalborg.career.emply.com/ad/microsoft-azure-platformspecialist/wb5eff/da"
- },
- {
-  "category": "it",
-  "pub_date": "30-12-2024",
-  "title": "IT-serverspecialist",
-  "company": "Aalborg Kommune",
-  "location": "Aalborg",
-  "job_URL": "https://aalborg.career.emply.com/ad/it-serverspecialist/i6ncvb/da"
- },
- {
-  "category": "it",
-  "pub_date": "30-12-2024",
   "title": "Mixed-signal Hardware Development Engineer",
   "company": "Satlab A/S",
   "location": "Aalborg Øst",
@@ -46,6 +30,22 @@
   "company": "KMD A/S",
   "location": "København, Aarhus eller Aalborg",
   "job_URL": "https://jobs.kmd.net/job/K%C3%B8benhavn-Data-Engineer-%28back-end%29-2100/1154993701/"
+ },
+ {
+  "category": "it",
+  "pub_date": "23-12-2024",
+  "title": "Senior Product Manager - IT Security",
+  "company": "KMD A/S",
+  "location": "Aalborg",
+  "job_URL": "https://jobs.kmd.net/job/Aalborg-Senior-Product-Manager-IT-Security-9000/1154493501/"
+ },
+ {
+  "category": "it",
+  "pub_date": "06-01-2025",
+  "title": "Implementation Engineer",
+  "company": "MapsPeople A/S",
+  "location": "Nørresundby (DK) or Austin (US)",
+  "job_URL": "https://mapspeople.career.emply.com/ad/implementation-engineer/lslgof/en"
  },
  {
   "category": "it",
@@ -153,11 +153,35 @@
  },
  {
   "category": "industri",
-  "pub_date": "27-12-2024",
-  "title": "Råvareplanlægger til natproduktion",
-  "company": "Danpo A/S",
-  "location": "Aars",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1519767/raavareplanlaegger-til-natproduktion"
+  "pub_date": "06-01-2025",
+  "title": "Electrical & Automation Engineer",
+  "company": "Nature Energy",
+  "location": "Aarhus, Støvring or Odense",
+  "job_URL": "https://careers.nature-energy.com/jobs/5289987-electrical-automation-engineer?promotion=1256188-jobindex"
+ },
+ {
+  "category": "industri",
+  "pub_date": "06-01-2025",
+  "title": "Electrical Engineer",
+  "company": "Nature Energy",
+  "location": "Aarhus, Støvring or Odense",
+  "job_URL": "https://careers.nature-energy.com/jobs/5289868-electrical-engineer?promotion=1256162-jobindex"
+ },
+ {
+  "category": "industri",
+  "pub_date": "06-01-2025",
+  "title": "Vil du rådgive om el-sikkerhed og CE-mærkning?",
+  "company": "Maskinsikkerhed ApS",
+  "location": "Værløse, Kolding eller Aalborg",
+  "job_URL": "https://www.maskinsikkerhed.dk/maskinsikkerhed-aps/el-konsulent-soeges-hos-maskinsikkerhed-220815/"
+ },
+ {
+  "category": "industri",
+  "pub_date": "06-01-2025",
+  "title": "Smed/Opbygger",
+  "company": "SAWO A/S",
+  "location": "Støvring",
+  "job_URL": "https://www.sawo.dk/da/job-i-sawo/smed-opbygger-soges-grundet-travlhed-til-sawo-stovring"
  },
  {
   "category": "industri",
@@ -306,14 +330,6 @@
  {
   "category": "handel",
   "pub_date": "01-01-2025",
-  "title": "Driftsansvarlig med projektopgaver til Genbrugsbutikken og genbrugsværksted",
-  "company": "Nordværk I/S",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143705&DepartmentId=18974&MediaId=4629"
- },
- {
-  "category": "handel",
-  "pub_date": "01-01-2025",
   "title": "Deltidsgenbrugsvejleder - Gør en forskel for miljøet",
   "company": "Nordværk I/S",
   "location": "Hjørring og Brønderslev",
@@ -334,6 +350,14 @@
   "company": "Silvan A/S",
   "location": "Aalborg",
   "job_URL": "https://app.elvium.com/da/positions/28262/job_posting?referer_host=www.jobindex.dk"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "06-01-2025",
+  "title": "Afdelingschef til Kontraktenheden, Forskningsservice",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219340"
  },
  {
   "category": "ledelse",
@@ -430,14 +454,6 @@
   "company": "Brüel Systems A/S",
   "location": "Hjørring",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2378&ProjectId=143601&DepartmentId=18956&MediaId=4620"
- },
- {
-  "category": "ledelse",
-  "pub_date": "01-01-2025",
-  "title": "Driftsansvarlig med projektopgaver til Genbrugsbutikken og genbrugsværksted",
-  "company": "Nordværk I/S",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143705&DepartmentId=18974&MediaId=4629"
  },
  {
   "category": "undervisning",
@@ -545,19 +561,11 @@
  },
  {
   "category": "undervisning",
-  "pub_date": "16-12-2024",
-  "title": "Socialfaglig koordinator (Aalborg)",
-  "company": "Memox ApS",
-  "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1685&ProjectId=143730&DepartmentId=18956&MediaId=5"
- },
- {
-  "category": "undervisning",
-  "pub_date": "16-12-2024",
-  "title": "Barselsvikar for lærer i jobklassen på Tingstrup skole",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=132577"
+  "pub_date": "06-01-2025",
+  "title": "Pædagogiske medarbejdere søges til børne- og ungehjemmet Hostruphøj",
+  "company": "Hostruphøj S/I",
+  "location": "Hobro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1521936/paedagogiske-medarbejdere-soeges-til-boerne-og-ungehjemmet-hostruphoej"
  },
  {
   "category": "undervisning",
@@ -665,27 +673,35 @@
  },
  {
   "category": "ingenioer",
-  "pub_date": "31-12-2024",
-  "title": "Projektleder - Udvikling af bæredygtige emballager",
-  "company": "Nopa Nordic A/S",
-  "location": "Hobro",
-  "job_URL": "https://nopanordic.com/jobs-and-careers/?hr=show-job%2F228470%26locale%3Dda_DK"
+  "pub_date": "06-01-2025",
+  "title": "Konstruktør / Teknisk designer",
+  "company": "Nature Energy",
+  "location": "Odense SØ, Støvring, Aarhus N",
+  "job_URL": "https://careers.nature-energy.com/jobs/5290834-konstruktor-teknisk-designer-dec?promotion=1256436-jobindex"
  },
  {
   "category": "ingenioer",
-  "pub_date": "31-12-2024",
-  "title": "Technical Sales Support Engineer; Sales",
-  "company": "Brüel Systems A/S",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2378&ProjectId=143603&DepartmentId=18956&MediaId=4620"
+  "pub_date": "06-01-2025",
+  "title": "Electrical & Automation Engineer",
+  "company": "Nature Energy",
+  "location": "Aarhus, Støvring or Odense",
+  "job_URL": "https://careers.nature-energy.com/jobs/5289987-electrical-automation-engineer?promotion=1256188-jobindex"
  },
  {
   "category": "ingenioer",
-  "pub_date": "31-12-2024",
-  "title": "Construction Supervisor til opførelse af solenergiparker",
-  "company": "Brinch & Partners",
-  "location": "Aalborg og Ringkøbing",
-  "job_URL": "https://brinchpartners.dk/12-758/"
+  "pub_date": "06-01-2025",
+  "title": "Electrical Engineer",
+  "company": "Nature Energy",
+  "location": "Aarhus, Støvring or Odense",
+  "job_URL": "https://careers.nature-energy.com/jobs/5289868-electrical-engineer?promotion=1256162-jobindex"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "06-01-2025",
+  "title": "Vil du rådgive om el-sikkerhed og CE-mærkning?",
+  "company": "Maskinsikkerhed ApS",
+  "location": "Værløse, Kolding eller Aalborg",
+  "job_URL": "https://www.maskinsikkerhed.dk/maskinsikkerhed-aps/el-konsulent-soeges-hos-maskinsikkerhed-220815/"
  },
  {
   "category": "ingenioer",
@@ -825,11 +841,19 @@
  },
  {
   "category": "salg",
-  "pub_date": "24-12-2024",
-  "title": "Head of Sales",
-  "company": "Hansen Toft A/S",
-  "location": "Svenstrup",
-  "job_URL": "https://www.hansentoft.dk/job/8674"
+  "pub_date": "06-01-2025",
+  "title": "Salgsmedarbejder",
+  "company": "Danbrit Akkumulator A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1524493/salgsmedarbejder"
+ },
+ {
+  "category": "salg",
+  "pub_date": "06-01-2025",
+  "title": "Målrettet og dedikeret sælger/fundraiser med stort hjerte for dyr",
+  "company": "Anima",
+  "location": "København K",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1521671/maalrettet-og-dedikeret-saelger-fundraiser-med-stort-hjerte-for-dyr"
  },
  {
   "category": "salg",
@@ -862,6 +886,22 @@
   "company": "Varberg Management ApS",
   "location": "Brønderslev",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1518618/goer-verden-mere-groen-som-sales-manager-kom-ombord-hos-team-green"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "06-01-2025",
+  "title": "Salgsmedarbejder",
+  "company": "Danbrit Akkumulator A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1524493/salgsmedarbejder"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "06-01-2025",
+  "title": "Afdelingschef til Kontraktenheden, Forskningsservice",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219340"
  },
  {
   "category": "kontor",
@@ -982,14 +1022,6 @@
   "company": "Curia",
   "location": "Arden",
   "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22278&locale=da_DK"
- },
- {
-  "category": "kontor",
-  "pub_date": "01-01-2025",
-  "title": "Driftsansvarlig med projektopgaver til Genbrugsbutikken og genbrugsværksted",
-  "company": "Nordværk I/S",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143705&DepartmentId=18974&MediaId=4629"
  },
  {
   "category": "oevrige",
