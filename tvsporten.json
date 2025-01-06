@@ -1,41 +1,5 @@
 [
  {
-  "match": "Championship League Snooker Invitational",
-  "category": "Championship League Snooker",
-  "time": "17:30",
-  "date": "2025-01-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Queens Park Rangers – Luton Town",
-  "category": "Championship",
-  "time": "20:55",
-  "date": "2025-01-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Wolverhampton Wanderers – Nottingham Forest",
-  "category": "Premier League",
-  "time": "21:00",
-  "date": "2025-01-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "ATP 250 Auckland: Indledende runder",
   "category": "ATP",
   "time": "23:30",
