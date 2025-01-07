@@ -1,27 +1,19 @@
 [
  {
   "category": "it",
-  "pub_date": "31-12-2024",
-  "title": "Senior NAV/BC-konsulent – få en nøglerolle i vores ERP-team",
+  "pub_date": "07-01-2025",
+  "title": "Erfarne full stack Java Developers søges til spændende arbejde med strategiske kunder",
+  "company": "CGI Danmark A/S",
+  "location": "Aalborg, Aarhus eller Ballerup",
+  "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-0436&BRID=1176998&lang=10"
+ },
+ {
+  "category": "it",
+  "pub_date": "07-01-2025",
+  "title": "Kommerciel og strategisk ERP-direktør til fremadstormende IT-hus",
   "company": "Itm8",
-  "location": "Randers, Viby, Herning eller Aalborg",
-  "job_URL": "https://itm8.dk/job?jobid=224428&linkref=243898&locale=da_DK"
- },
- {
-  "category": "it",
-  "pub_date": "30-12-2024",
-  "title": "Mixed-signal Hardware Development Engineer",
-  "company": "Satlab A/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1509303/mixed-signal-hardware-development-engineer"
- },
- {
-  "category": "it",
-  "pub_date": "26-12-2024",
-  "title": "Senior Software Engineer til BILA Automation",
-  "company": "BILA A/S",
-  "location": "Nykøbing Mors",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144206&DepartmentId=18958&MediaId=4614"
+  "location": "Herning, Randers, Viby J, Aalborg, Odense eller Skovlunde",
+  "job_URL": "https://itm8.dk/job?jobid=225476&linkref=245590&locale=da_DK"
  },
  {
   "category": "it",
@@ -145,6 +137,14 @@
  },
  {
   "category": "industri",
+  "pub_date": "07-01-2025",
+  "title": "QA-Specialist for vores mælke leverandører",
+  "company": "NORDEX FOOD A/S",
+  "location": "Nørager",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143675&DepartmentId=18961&MediaId=5"
+ },
+ {
+  "category": "industri",
   "pub_date": "06-01-2025",
   "title": "Chauffører i aftenarbejde til kranteamet hos Nordværk",
   "company": "Nordværk I/S",
@@ -240,14 +240,6 @@
   "job_URL": "https://www.maskinsikkerhed.dk/maskinsikkerhed-aps/el-konsulent-soeges-hos-maskinsikkerhed-220815/"
  },
  {
-  "category": "industri",
-  "pub_date": "06-01-2025",
-  "title": "Smed/Opbygger",
-  "company": "SAWO A/S",
-  "location": "Støvring",
-  "job_URL": "https://www.sawo.dk/da/job-i-sawo/smed-opbygger-soges-grundet-travlhed-til-sawo-stovring"
- },
- {
   "category": "handel",
   "pub_date": "31-12-2024",
   "title": "Salgsleder",
@@ -326,6 +318,14 @@
   "company": "Nordværk I/S",
   "location": "Hjørring og Brønderslev",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143697&DepartmentId=18974&MediaId=4629"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "07-01-2025",
+  "title": "Kommerciel og strategisk ERP-direktør til fremadstormende IT-hus",
+  "company": "Itm8",
+  "location": "Herning, Randers, Viby J, Aalborg, Odense eller Skovlunde",
+  "job_URL": "https://itm8.dk/job?jobid=225476&linkref=245590&locale=da_DK"
  },
  {
   "category": "ledelse",
@@ -681,6 +681,14 @@
  },
  {
   "category": "ingenioer",
+  "pub_date": "07-01-2025",
+  "title": "QA-Specialist for vores mælke leverandører",
+  "company": "NORDEX FOOD A/S",
+  "location": "Nørager",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143675&DepartmentId=18961&MediaId=5"
+ },
+ {
+  "category": "ingenioer",
   "pub_date": "06-01-2025",
   "title": "Driftsassistent BioCirc Vesthimmerland Biogasanlæg",
   "company": "BioCirc Group ApS",
@@ -800,14 +808,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1527921/product-manager-uav-platform"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "03-01-2025",
-  "title": "Kvalitetskonsulent: vil du være med til at sikre kvalitetsarbejdet på byggepladser med et skarpt øje på kvalitet og ISO9001?",
-  "company": "MT Højgaard Danmark A/S",
-  "location": "Søborg, Risskov, Aalborg eller Fredericia",
-  "job_URL": "https://mthgroup.csod.com/ats/careersite/JobDetails.aspx?site=11&id=1299"
- },
- {
   "category": "salg",
   "pub_date": "31-12-2024",
   "title": "Technical Sales Support Engineer; Sales",
@@ -830,6 +830,14 @@
   "company": "Konsulenthuset ballisager A/S",
   "location": "Hobro",
   "job_URL": "https://ballisager.recruitio.dk/selection/teknisk_salgsradgiver_for_miljolosninger_til_olicem_as-6871/?lang=da&from=Jobindex"
+ },
+ {
+  "category": "salg",
+  "pub_date": "07-01-2025",
+  "title": "Business Development Manager",
+  "company": "RTX A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://rtx.easycruit.com/vacancy/3438937/164405?iso=us"
  },
  {
   "category": "salg",
@@ -878,6 +886,14 @@
   "company": "Varberg Management ApS",
   "location": "Brønderslev",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1518618/goer-verden-mere-groen-som-sales-manager-kom-ombord-hos-team-green"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-01-2025",
+  "title": "Supply Planner",
+  "company": "NORDEX FOOD A/S",
+  "location": "Dronninglund",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143678&DepartmentId=18956&MediaId=5"
  },
  {
   "category": "kontor",
@@ -974,14 +990,6 @@
   "company": "Krone Kapital A/S",
   "location": "Nykøbing M",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1527828/controller"
- },
- {
-  "category": "kontor",
-  "pub_date": "03-01-2025",
-  "title": "Lønassistent",
-  "company": "Tican Fresh Meat A/S",
-  "location": "Thisted",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1527804/loenassistent"
  },
  {
   "category": "oevrige",
