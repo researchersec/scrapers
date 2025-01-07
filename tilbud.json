@@ -72,14 +72,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQdlw5jrG%2Fp-35.webp&w=100&x1r=0.5669&x2r=0.988&y1r=0.6468&y2r=0.965&s=a8566166f4ca962a7468a177fbe6aad1"
  },
  {
-  "link": "/BorderShop/tilbud/Tuborg-Classic-eller-Pilsner-4-6~o:y8_VXFi654lDJ5e-3VcAB",
-  "price": "79.95",
-  "currency": "DKK",
-  "valid_from": "30-12-2024",
-  "valid_until": "09-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-20.webp&w=100&x1r=0.0307&x2r=0.4121&y1r=0.2437&y2r=0.4929&s=2faf86a6f4ffea5e2d77a4ca2e8b94b2"
- },
- {
   "link": "/BorderShop/tilbud/Tuborg-NUL-Classic-0-0-Carlsberg-Nordic-Ale-eller-Nordic-Pilsner~o:68z5hrjHEdebVLRQfqjnw",
   "price": "75.00",
   "currency": "DKK",
@@ -96,12 +88,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-5.webp&w=100&x1r=0.0209&x2r=0.9775&y1r=0.4684&y2r=0.9894&s=94b6333c491da5fa3f3239690c329274"
  },
  {
-  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller~o:HSiUzLuq-y0J8cSE_lUpb",
-  "price": "84.99",
+  "link": "/BorderShop/tilbud/Tuborg-Classic-eller-Pilsner-4-6~o:y8_VXFi654lDJ5e-3VcAB",
+  "price": "79.95",
   "currency": "DKK",
-  "valid_from": "07-01-2025",
-  "valid_until": "28-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fud3vR00i%2Fp-7.webp&w=100&x1r=0.4439&x2r=0.9404&y1r=0.0188&y2r=0.1604&s=a9591c451571a54764e69f2ad5dcdbf4"
+  "valid_from": "30-12-2024",
+  "valid_until": "09-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-20.webp&w=100&x1r=0.0307&x2r=0.4121&y1r=0.2437&y2r=0.4929&s=2faf86a6f4ffea5e2d77a4ca2e8b94b2"
  },
  {
   "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:LPF-W69itWIkBAmIpMDa8",
@@ -110,6 +102,14 @@
   "valid_from": "17-12-2024",
   "valid_until": "07-01-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FItstZBUY%2Fp-7.webp&w=100&x1r=0.4605&x2r=0.941&y1r=0.0085&y2r=0.16&s=320d23723a07c850d29150eac0e5c30c"
+ },
+ {
+  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller~o:HSiUzLuq-y0J8cSE_lUpb",
+  "price": "84.99",
+  "currency": "DKK",
+  "valid_from": "07-01-2025",
+  "valid_until": "28-01-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fud3vR00i%2Fp-7.webp&w=100&x1r=0.4439&x2r=0.9404&y1r=0.0188&y2r=0.1604&s=a9591c451571a54764e69f2ad5dcdbf4"
  },
  {
   "link": "/fotex/tilbud/Carlsberg-eller-Tuborg-alkoholfri-ol~o:q71UHHPwx8O5EAFMi7iBz",
