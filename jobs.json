@@ -1,6 +1,14 @@
 [
  {
   "category": "it",
+  "pub_date": "08-01-2025",
+  "title": "Lead System Architect",
+  "company": "RTX A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
+ },
+ {
+  "category": "it",
   "pub_date": "07-01-2025",
   "title": "Erfarne full stack Java Developers søges til spændende arbejde med strategiske kunder",
   "company": "CGI Danmark A/S",
@@ -128,14 +136,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1526282/microsoft-business-central-forretningskonsulent"
  },
  {
-  "category": "it",
-  "pub_date": "01-01-2025",
-  "title": "BI- og datakonsulent med backend-fokus",
-  "company": "Nordværk I/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143706&DepartmentId=18973&MediaId=4629"
- },
- {
   "category": "industri",
   "pub_date": "07-01-2025",
   "title": "Afdelingsleder",
@@ -206,14 +206,6 @@
   "company": "BioCirc Group ApS",
   "location": "Farsø",
   "job_URL": "https://biocirc.com/careers-detail-view?id=03-01-2025"
- },
- {
-  "category": "industri",
-  "pub_date": "06-01-2025",
-  "title": "Comissioning-tekniker",
-  "company": "PowerCon A/S",
-  "location": "Hobro",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1527655/comissioning-tekniker"
  },
  {
   "category": "handel",
@@ -310,6 +302,14 @@
   "company": "Region Nordjylland",
   "location": "Aalborg",
   "job_URL": "https://rn.emply.net/recruitment/vacancyAd.aspx?publishingId=e46bfe65-2d8a-4c3f-8566-51747d1ae367"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "08-01-2025",
+  "title": "Lead System Architect",
+  "company": "RTX A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
  },
  {
   "category": "ledelse",
@@ -446,14 +446,6 @@
   "company": "Quickpoint A/S",
   "location": "Nørresundby",
   "job_URL": "https://quickpoint.career.emply.com/ad/vaerkstedschef-norresundby/x0pvyn/da"
- },
- {
-  "category": "ledelse",
-  "pub_date": "03-01-2025",
-  "title": "Projektleder",
-  "company": "HRTALENT",
-  "location": "Nørresundby",
-  "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/HRtalent/Jobs/TemplatePreview/16215"
  },
  {
   "category": "undervisning",
@@ -673,6 +665,14 @@
  },
  {
   "category": "ingenioer",
+  "pub_date": "08-01-2025",
+  "title": "Process and Manufacturing Engineer",
+  "company": "DESMI Danmark A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3498&joblistId=1&lang=en"
+ },
+ {
+  "category": "ingenioer",
   "pub_date": "07-01-2025",
   "title": "Maskinkonstruktør",
   "company": "idoc A/S",
@@ -768,20 +768,12 @@
   "job_URL": "https://careers.nature-energy.com/jobs/5289987-electrical-automation-engineer?promotion=1256188-jobindex"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "06-01-2025",
-  "title": "Electrical Engineer",
-  "company": "Nature Energy",
-  "location": "Aarhus, Støvring or Odense",
-  "job_URL": "https://careers.nature-energy.com/jobs/5289868-electrical-engineer?promotion=1256162-jobindex"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "06-01-2025",
-  "title": "Vil du rådgive om el-sikkerhed og CE-mærkning?",
-  "company": "Maskinsikkerhed ApS",
-  "location": "Værløse, Kolding eller Aalborg",
-  "job_URL": "https://www.maskinsikkerhed.dk/maskinsikkerhed-aps/el-konsulent-soeges-hos-maskinsikkerhed-220815/"
+  "category": "salg",
+  "pub_date": "08-01-2025",
+  "title": "Key Account Manager",
+  "company": "Dragsbæk A/S",
+  "location": "Thisted",
+  "job_URL": "https://dragsbaek.dk/job/?hr=show-job%2F229654&linkref=252943&locale=da_DK"
  },
  {
   "category": "salg",
@@ -881,6 +873,22 @@
  },
  {
   "category": "kontor",
+  "pub_date": "08-01-2025",
+  "title": "Key Account Manager",
+  "company": "Dragsbæk A/S",
+  "location": "Thisted",
+  "job_URL": "https://dragsbaek.dk/job/?hr=show-job%2F229654&linkref=252943&locale=da_DK"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "08-01-2025",
+  "title": "Erhvervsrådgiver til Erhverv Aars",
+  "company": "Sparekassen Danmark",
+  "location": "Aars",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1522799/erhvervsraadgiver-til-erhverv-aars"
+ },
+ {
+  "category": "kontor",
   "pub_date": "07-01-2025",
   "title": "Administrativ medarbejder til Direktionssekretariatet i Nordværk",
   "company": "Nordværk I/S",
@@ -968,36 +976,12 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=185651&DepartmentId=9143&MediaId=5"
  },
  {
-  "category": "kontor",
-  "pub_date": "06-01-2025",
-  "title": "Begynd din karriere med en elevplads hos Scan Global Logistics",
-  "company": "Scan Global Logistics",
-  "location": "Odense, Billund, Hvidovre, Viby J, Esbjerg, Nørresundby eller Herning",
-  "job_URL": "https://scangl-v2-2-1.career.emply.com/ad/begynd-din-karriere-med-en-elevplads-hos-scan-global-logistics/u917l0/en"
- },
- {
-  "category": "kontor",
-  "pub_date": "06-01-2025",
-  "title": "Salgsmedarbejder",
-  "company": "Danbrit Akkumulator A/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1524493/salgsmedarbejder"
- },
- {
-  "category": "kontor",
-  "pub_date": "06-01-2025",
-  "title": "Afdelingschef til Kontraktenheden, Forskningsservice",
-  "company": "Aalborg Universitet",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219340"
- },
- {
-  "category": "kontor",
-  "pub_date": "06-01-2025",
-  "title": "Financial controller",
-  "company": "MAT Dania ApS",
-  "location": "Aars",
-  "job_URL": "https://matdania.career.emply.com/da/ad/financial-controller/00z16h"
+  "category": "oevrige",
+  "pub_date": "08-01-2025",
+  "title": "IT Intern",
+  "company": "DESMI Danmark A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3499&joblistId=1&lang=en"
  },
  {
   "category": "oevrige",
