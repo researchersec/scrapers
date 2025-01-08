@@ -64,6 +64,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzAi4Ajvz%2Fp-32.webp&w=100&x1r=0.4767&x2r=0.9631&y1r=0.6991&y2r=0.978&s=1283de6a79a6043efda1f6d0b0ee276d"
  },
  {
+  "link": "/Netto/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Classic-alkoholfri~o:n2DMzInXDPtuCaXqrFOrH",
+  "price": "105.00",
+  "currency": "DKK",
+  "valid_from": "10-01-2025",
+  "valid_until": "17-01-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgjePRmH4%2Fp-19.webp&w=100&x1r=0.6591&x2r=0.9959&y1r=0.6858&y2r=0.9779&s=d571f41d5b53ae4e0aac501e91e0eb95"
+ },
+ {
   "link": "/Bilka/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg~o:kx0CAvKbVAEUsO_sTXye0",
   "price": "125.00",
   "currency": "DKK",
@@ -118,13 +126,5 @@
   "valid_from": "01-01-2025",
   "valid_until": "28-01-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRTD-keml%2Fp-17.webp&w=100&x1r=0.3308&x2r=0.9872&y1r=0.0125&y2r=0.2524&s=414826dc17cd8564c192f608f07222e8"
- },
- {
-  "link": "/Nielsen-Scan-Shop/tilbud/TUBORG~o:mBzX7ucFL5ntkfvaczHb0",
-  "price": "75.00",
-  "currency": "DKK",
-  "valid_from": "27-11-2024",
-  "valid_until": "15-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIkQNWKla%2Fp-1.webp&w=100&x1r=0.4916&x2r=1&y1r=0.4205&y2r=0.7253&s=a83f776b647f002ceecf43d4b1e7d634"
  }
 ]
