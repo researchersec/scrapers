@@ -1,1 +1,42 @@
-[]
+[
+ {
+  "match": "Skiskydning World Cup: Oberhof Sprint (k)",
+  "category": "Skiskydning",
+  "time": "14:20",
+  "date": "2025-01-09",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "The FA Cup",
+  "category": "FA Cup",
+  "time": "20:40",
+  "date": "2025-01-09",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Danmark – Bahrain",
+  "category": "Håndbold Venskabskampe",
+  "time": "21:00",
+  "date": "2025-01-09",
+  "channels": [
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.png"
+   }
+  ]
+ }
+]
