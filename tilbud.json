@@ -24,22 +24,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FugOkv2zj%2Fp-38.webp&w=100&x1r=0.0061&x2r=0.4669&y1r=0.3271&y2r=0.6843&s=8318b02f889e1bc36a90cc8d3186b966"
  },
  {
-  "link": "/SuperBrugsen/tilbud/Quaker-Crueesli-morgenmad~o:0eqOhz-zp7v30_uxKXKj3",
-  "price": "25.00",
-  "currency": "DKK",
-  "valid_from": "01-01-2025",
-  "valid_until": "09-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_O7fV0_i%2Fp-8.webp&w=100&x1r=0.0265&x2r=0.5474&y1r=0.5271&y2r=0.969&s=6d65d815e361ac8e613954fa86388c90"
- },
- {
-  "link": "/Kvickly/tilbud/Quaker-Crueesli-morgenmad~o:mTs8Ndk2UQxnefo1cDG-_",
-  "price": "25.00",
-  "currency": "DKK",
-  "valid_from": "01-01-2025",
-  "valid_until": "09-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fi_OM8xPF%2Fp-8.webp&w=100&x1r=0.0234&x2r=0.5378&y1r=0.5222&y2r=0.9664&s=b0f2a68c7a5053d43a586fa4940dd10b"
- },
- {
   "link": "/SPAR/tilbud/Quaker-Cruesli~o:lg2DpikqA97OdH_VOTuc_",
   "price": "30.00",
   "currency": "DKK",
@@ -96,22 +80,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FqDN79FZn%2Fp-10.webp&w=100&x1r=0.5867&x2r=0.9894&y1r=0.3895&y2r=0.7325&s=990dd13d8bed0253dbc59e9e325ddd5e"
  },
  {
-  "link": "/Bilka/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg~o:kx0CAvKbVAEUsO_sTXye0",
-  "price": "125.00",
-  "currency": "DKK",
-  "valid_from": "31-12-2024",
-  "valid_until": "09-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQdlw5jrG%2Fp-35.webp&w=100&x1r=0.5669&x2r=0.988&y1r=0.6468&y2r=0.965&s=a8566166f4ca962a7468a177fbe6aad1"
- },
- {
-  "link": "/BorderShop/tilbud/Tuborg-Classic-eller-Pilsner-4-6~o:y8_VXFi654lDJ5e-3VcAB",
-  "price": "79.95",
-  "currency": "DKK",
-  "valid_from": "30-12-2024",
-  "valid_until": "09-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-20.webp&w=100&x1r=0.0307&x2r=0.4121&y1r=0.2437&y2r=0.4929&s=2faf86a6f4ffea5e2d77a4ca2e8b94b2"
- },
- {
   "link": "/BorderShop/tilbud/Tuborg-NUL-Classic-0-0-Carlsberg-Nordic-Ale-eller-Nordic-Pilsner~o:68z5hrjHEdebVLRQfqjnw",
   "price": "75.00",
   "currency": "DKK",
@@ -128,11 +96,27 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-5.webp&w=100&x1r=0.0209&x2r=0.9775&y1r=0.4684&y2r=0.9894&s=94b6333c491da5fa3f3239690c329274"
  },
  {
-  "link": "/Kobmandsgarden/tilbud/Tuborg-Classic-Pilsner-Carlsberg-Pilsner-1883~o:j3O9CW20YSMhqRBKjYqNI",
+  "link": "/BorderShop/tilbud/Tuborg-Classic-eller-Pilsner-4-6~o:y8_VXFi654lDJ5e-3VcAB",
+  "price": "79.95",
+  "currency": "DKK",
+  "valid_from": "30-12-2024",
+  "valid_until": "09-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-20.webp&w=100&x1r=0.0307&x2r=0.4121&y1r=0.2437&y2r=0.4929&s=2faf86a6f4ffea5e2d77a4ca2e8b94b2"
+ },
+ {
+  "link": "/Kobmandsgarden/tilbud/Tuborg-Classic-Pilsner-Carlsberg-Pilsner-1883~o:N8ZT4UFbIc8msOijtRc_d",
   "price": "79.00",
   "currency": "DKK",
-  "valid_from": "26-11-2024",
+  "valid_from": "05-01-2025",
   "valid_until": "28-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTb9T7HSI%2Fp-9.webp&w=100&x1r=0.008&x2r=0.9897&y1r=0.056&y2r=0.995&s=817f46935e5eccade93dc6ebeb270eba"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxNiQ2suq%2Fp-9.webp&w=100&x1r=0.0048&x2r=0.9957&y1r=0.0481&y2r=0.9973&s=dc727c22b4221d00162d86be68caeb73"
+ },
+ {
+  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:HSiUzLuq-y0J8cSE_lUpb",
+  "price": "84.99",
+  "currency": "DKK",
+  "valid_from": "07-01-2025",
+  "valid_until": "28-01-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fud3vR00i%2Fp-7.webp&w=100&x1r=0.4439&x2r=0.9404&y1r=0.0188&y2r=0.1604&s=a9591c451571a54764e69f2ad5dcdbf4"
  }
 ]
