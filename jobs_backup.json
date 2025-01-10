@@ -10,6 +10,14 @@
  {
   "category": "it",
   "pub_date": "10-01-2025",
+  "title": "E-commerce Coordinator",
+  "company": "Kompetent",
+  "location": "Støvring",
+  "job_URL": "https://karriere.kompetent.as/jobs/5418251-e-commerce-coordinator"
+ },
+ {
+  "category": "it",
+  "pub_date": "10-01-2025",
   "title": "Softwareudvikler med potentiale til at blive softwarearkitekt til R&D",
   "company": "Curia",
   "location": "Arden",
@@ -18,10 +26,10 @@
  {
   "category": "it",
   "pub_date": "10-01-2025",
-  "title": "Application Operation Specialist - vær med til at drive kvalitetsforbedringer i vores BSS-løsning",
+  "title": "Application Operation Specialist - vær med til at styrke vores drift og forbedre vores BSS-løsning",
   "company": "Norlys",
   "location": "Aalborg",
-  "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Application-Operation-Specialist-v%C3%A6r-med-til-at-drive-kvalitetsforbedringer-i-vores-BSS-l%C3%B8sning-9000/1158981501/"
+  "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Application-Operation-Specialist-v%C3%A6r-med-til-at-styrke-vores-drift-og-forbedre-vores-BSS-l%C3%B8sning-9000/1158981501/"
  },
  {
   "category": "it",
@@ -128,12 +136,20 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1527499/quality-assurance-engineer"
  },
  {
-  "category": "it",
-  "pub_date": "02-01-2025",
-  "title": "Projektingeniør - Nordjylland",
-  "company": "Init Denmark A/S",
-  "location": "Thisted, Aalborg SV eller Vrå",
-  "job_URL": "https://init.career.emply.com/ad/projektingenior-nordjylland/xrpdyc"
+  "category": "industri",
+  "pub_date": "10-01-2025",
+  "title": "Er du Scandinavian Medical Solution A/S’ nye Lagermedarbejder?",
+  "company": "Scandinavian Medical Solutions A/S",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1530025/er-du-scandinavian-medical-solution-a-s-nye-lagermedarbejder"
+ },
+ {
+  "category": "industri",
+  "pub_date": "10-01-2025",
+  "title": "Bådmekaniker",
+  "company": "Uni-Safe A/S",
+  "location": "Frederikshavn",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1529919/baadmekaniker"
  },
  {
   "category": "industri",
@@ -185,6 +201,14 @@
  },
  {
   "category": "industri",
+  "pub_date": "10-01-2025",
+  "title": "Relæspecialist i Automation - bliv en vigtig del af N1's rejse mod fremtidens el distribution",
+  "company": "N1 A/S",
+  "location": "Støvring",
+  "job_URL": "https://www.job-karriere.dk/N1/job/St%C3%B8vring-Rel%C3%A6specialist-i-Automation-bliv-en-vigtig-del-af-N1&apos;s-rejse-mod-fremtidens-el-distribution-9530/1159083801/"
+ },
+ {
+  "category": "industri",
   "pub_date": "09-01-2025",
   "title": "Servicekoordinator til Nørresundby eller Aarhus",
   "company": "Strøm Hansen A/S",
@@ -224,36 +248,12 @@
   "job_URL": "https://jobs.semler.dk/job/Br%C3%B8nderslev-V%C3%A6rkf%C3%B8rer-s%C3%B8ges-til-Semler-Agro%2C-Br%C3%B8nderslev-9700/810980202/"
  },
  {
-  "category": "industri",
-  "pub_date": "09-01-2025",
-  "title": "Driftsleder",
-  "company": "Asgaard Recruitment",
-  "location": "Thisted",
-  "job_URL": "https://asgaardrecruitment.dk/stillingsopslag/?hr=show-job%2F233057%26locale%3Dda_DK"
- },
- {
-  "category": "industri",
-  "pub_date": "08-01-2025",
-  "title": "Service Technician",
-  "company": "FLSmidth",
-  "location": "Mariager",
-  "job_URL": "https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Mariager/Service-Technician_R26014-1"
- },
- {
-  "category": "industri",
-  "pub_date": "08-01-2025",
-  "title": "Servicetekniker til driftssikring og vedligehold hos vores kunder",
-  "company": "FC. Strømmen A/S",
-  "location": "Jylland",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1529162/servicetekniker-til-driftssikring-og-vedligehold-hos-vores-kunder"
- },
- {
-  "category": "industri",
-  "pub_date": "08-01-2025",
-  "title": "Sæt bæredygtighed i førersædet: Bliv vores nye Auditor",
-  "company": "Baltic Control Certification A/S",
-  "location": "Risskov",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1529125/saet-baeredygtighed-i-foerersaedet-bliv-vores-nye-auditor"
+  "category": "handel",
+  "pub_date": "10-01-2025",
+  "title": "Kok/gastronom",
+  "company": "Aalborg Lufthavn",
+  "location": "Nørresundby",
+  "job_URL": "https://aal.dk/job?hr=show-job%2F233939%26locale%3Dda_DK"
  },
  {
   "category": "handel",
@@ -270,14 +270,6 @@
   "company": "Boligforeningen Fredensbo",
   "location": "Brønderslev",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1520354/ledende-ejendomsfunktionaer-faa-frihed-til-at-lede-dit-team"
- },
- {
-  "category": "handel",
-  "pub_date": "10-01-2025",
-  "title": "Kok/gastronom",
-  "company": "Aalborg Lufthavn",
-  "location": "Nørresundby",
-  "job_URL": "https://aal.dk/job?hr=show-job%2F233939%26locale%3Dda_DK"
  },
  {
   "category": "handel",
@@ -714,6 +706,14 @@
  {
   "category": "ingenioer",
   "pub_date": "10-01-2025",
+  "title": "Relæspecialist i Automation - bliv en vigtig del af N1's rejse mod fremtidens el distribution",
+  "company": "N1 A/S",
+  "location": "Støvring",
+  "job_URL": "https://www.job-karriere.dk/N1/job/St%C3%B8vring-Rel%C3%A6specialist-i-Automation-bliv-en-vigtig-del-af-N1&apos;s-rejse-mod-fremtidens-el-distribution-9530/1159083801/"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "10-01-2025",
   "title": "Technical Trainer, Fish",
   "company": "Marel A/S",
   "location": "Støvring",
@@ -808,14 +808,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1529001/er-du-klar-til-at-forme-fremtidens-tekniske-loesninger"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "08-01-2025",
-  "title": "Process and Manufacturing Engineer",
-  "company": "DESMI Danmark A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3498&joblistId=1&lang=en"
- },
- {
   "category": "salg",
   "pub_date": "10-01-2025",
   "title": "Kan du sætte ord på den grønne omstilling? (barselsvikariat)",
@@ -846,6 +838,14 @@
   "company": "Storm Group",
   "location": "Herning, Aalborg, Aarhus, Viborg, Kolding, Odense, Roskilde, Næstved, Hillerød eller København",
   "job_URL": "https://www.stormgroup.net/jobs/sales-consultant"
+ },
+ {
+  "category": "salg",
+  "pub_date": "10-01-2025",
+  "title": "E-commerce Coordinator",
+  "company": "Kompetent",
+  "location": "Støvring",
+  "job_URL": "https://karriere.kompetent.as/jobs/5418251-e-commerce-coordinator"
  },
  {
   "category": "salg",
@@ -936,14 +936,6 @@
   "job_URL": "https://rtx.easycruit.com/vacancy/3438937/164405?iso=us"
  },
  {
-  "category": "salg",
-  "pub_date": "07-01-2025",
-  "title": "Sælger",
-  "company": "Bygma",
-  "location": "Aalborg SV",
-  "job_URL": "https://jobs.bygma.dk/job/Aalborg-SV-S%C3%A6lger-til-Bygma-Aalborg-9200/1142789155/"
- },
- {
   "category": "kontor",
   "pub_date": "10-01-2025",
   "title": "Økonomimedarbejder med skarpt blik for detaljen søges til Plus Boligs økonomiteam",
@@ -958,6 +950,14 @@
   "company": "Statens Administration",
   "location": "Hjørring",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=143687&DepartmentId=18981&MediaId=4646"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "10-01-2025",
+  "title": "Økonomiassistent",
+  "company": "Gabriel A/S",
+  "location": "Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1702&ProjectId=143773&DepartmentId=18974&MediaId=4616"
  },
  {
   "category": "kontor",
@@ -1080,28 +1080,20 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1523030/nordiske-kundeservicemedarbejdere-se-fi-no"
  },
  {
-  "category": "kontor",
-  "pub_date": "09-01-2025",
-  "title": "Accountant/bogholder",
-  "company": "Eurowind Energy A/S",
-  "location": "Hobro",
-  "job_URL": "https://eurowindenergy.com/career?hr=show-job/229889&locale=da_DK#hrskyen"
- },
- {
-  "category": "kontor",
-  "pub_date": "09-01-2025",
-  "title": "Værkførerassistent søges til Semler Agro i Brønderslev",
-  "company": "Semler Gruppen",
-  "location": "Brønderslev",
-  "job_URL": "https://jobs.semler.dk/job/Br%C3%B8nderslev-V%C3%A6rkf%C3%B8rerassistent-s%C3%B8ges-til-Semler-Agro-i-Br%C3%B8nderslev-9700/810981202/"
- },
- {
   "category": "oevrige",
   "pub_date": "10-01-2025",
   "title": "Økonomielever",
   "company": "Statens Administration",
   "location": "Hjørring",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=143687&DepartmentId=18981&MediaId=4646"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "10-01-2025",
+  "title": "Køkkenassistent, deltid 70 timer pr. måned - studiejob, Scandic Aalborg City",
+  "company": "Scandic Hotel A/S",
+  "location": "Aalborg",
+  "job_URL": "https://emp.jobylon.com/jobs/269134-scandic-hotels-denmark-kokkenassistent-deltid-70-timer-pr-maned-studiejob-scandic-aalborg-city/"
  },
  {
   "category": "oevrige",
@@ -1206,13 +1198,5 @@
   "company": "IKEA",
   "location": "Taastrup, Aalborg, Gentofte, Odense SØ eller Aarhus N",
   "job_URL": "https://ikea.avature.net/en_BW/External/JobDetail/IKEA-Logistikelev-Nationalt/269138"
- },
- {
-  "category": "oevrige",
-  "pub_date": "06-01-2025",
-  "title": "Salgselev - Nationalt",
-  "company": "IKEA",
-  "location": "Taastrup, Aalborg, Gentofte, Odense SØ eller Aarhus N",
-  "job_URL": "https://ikea.avature.net/en_BW/External/JobDetail/IKEA-Salgselev-Nationalt/269135"
  }
 ]

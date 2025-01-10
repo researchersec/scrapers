@@ -1,29 +1,5 @@
 [
  {
-  "match": "Malaysia Open: Anders Antonsen - Kunlavut Vitidsarn",
-  "category": "BWF World Tour",
-  "time": "14:00",
-  "date": "2025-01-10",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Skiskydning World Cup: Sprint (m)",
-  "category": "Skiskydning",
-  "time": "14:20",
-  "date": "2025-01-10",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
   "match": "Championship League Snooker Invitational",
   "category": "Championship League Snooker",
   "time": "17:30",
