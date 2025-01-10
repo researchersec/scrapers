@@ -1,17 +1,97 @@
 [
  {
-  "match": "Ski Mountaineering World Cup",
-  "category": "Skisport",
-  "time": "13:00",
+  "match": "Malaysia Open: Anders Antonsen - Kunlavut Vitidsarn",
+  "category": "BWF World Tour",
+  "time": "14:00",
   "date": "2025-01-10",
   "channels": [
    {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Skiskydning World Cup: Sprint (m)",
+  "category": "Skiskydning",
+  "time": "14:20",
+  "date": "2025-01-10",
+  "channels": [
    {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Championship League Snooker Invitational",
+  "category": "Championship League Snooker",
+  "time": "17:30",
+  "date": "2025-01-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Bahrain – Danmark",
+  "category": "Håndbold Venskabskampe",
+  "time": "17:30",
+  "date": "2025-01-10",
+  "channels": [
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Al Ahli – Al Shabab",
+  "category": "Saudi Pro League",
+  "time": "17:55",
+  "date": "2025-01-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Nantes – AS Monaco",
+  "category": "Ligue 1",
+  "time": "18:55",
+  "date": "2025-01-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "ISU European Speed Skating Championships",
+  "category": "Skøjtesport",
+  "time": "18:55",
+  "date": "2025-01-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Crvena Zvezda Beograd – Paris Basketball",
+  "category": "Euroleague",
+  "time": "19:55",
+  "date": "2025-01-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
@@ -19,6 +99,22 @@
   "match": "Borussia Dortmund – Bayer Leverkusen",
   "category": "Bundesliga",
   "time": "20:30",
+  "date": "2025-01-10",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Wycombe Wanderers – Portsmouth FC",
+  "category": "FA Cup",
+  "time": "20:45",
   "date": "2025-01-10",
   "channels": [
    {
@@ -34,8 +130,32 @@
   "date": "2025-01-10",
   "channels": [
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Aston Villa – West Ham United",
+  "category": "FA Cup",
+  "time": "20:55",
+  "date": "2025-01-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Auxerre – Lille",
+  "category": "Ligue 1",
+  "time": "20:55",
+  "date": "2025-01-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
