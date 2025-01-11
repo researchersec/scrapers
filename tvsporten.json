@@ -1,57 +1,5 @@
 [
  {
-  "match": "DP World Tour",
-  "category": "DP World Tour",
-  "time": "06:00",
-  "date": "2025-01-11",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "WTA 500 Adelaide: Finale",
-  "category": "WTA",
-  "time": "06:30",
-  "date": "2025-01-11",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Adelaide: Finale",
-  "category": "ATP",
-  "time": "08:30",
-  "date": "2025-01-11",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
-  "match": "Langrend: 3 Zinnen Ski-Marathon",
-  "category": "Langrend",
-  "time": "08:55",
-  "date": "2025-01-11",
-  "channels": [
-   {
-    "name": "Sport Live",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
-   }
-  ]
- },
- {
   "match": "ISU European Speed Skating Championships",
   "category": "Skøjtesport",
   "time": "10:50",
