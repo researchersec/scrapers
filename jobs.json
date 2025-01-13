@@ -2,10 +2,42 @@
  {
   "category": "it",
   "pub_date": "13-01-2025",
+  "title": "IT-systemadministrator",
+  "company": "CS WIND Offshore A/S",
+  "location": "Aalborg Ø",
+  "job_URL": "https://www.cswoffshore.com/join-us/job-openings/vacancy?id=13-01-2025&culture=da-DK"
+ },
+ {
+  "category": "it",
+  "pub_date": "13-01-2025",
+  "title": "Delivery Manager",
+  "company": "Telenor",
+  "location": "Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145866&DepartmentId=18957&MediaId=5"
+ },
+ {
+  "category": "it",
+  "pub_date": "13-01-2025",
+  "title": "Solution Architect – sæt dit præg på Netics infrastruktur",
+  "company": "Netic A/S",
+  "location": "Aalborg eller Aarhus N",
+  "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK"
+ },
+ {
+  "category": "it",
+  "pub_date": "13-01-2025",
   "title": "Strategic Customer Success Manager",
   "company": "Unik System Design A/S",
   "location": "Vejle eller Aalborg",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143761&DepartmentId=18962&MediaId=4617"
+ },
+ {
+  "category": "it",
+  "pub_date": "13-01-2025",
+  "title": "IT- og Digitaliseringschef",
+  "company": "Curia",
+  "location": "Aalborg Ø",
+  "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22281&locale=da_DK"
  },
  {
   "category": "it",
@@ -104,38 +136,6 @@
   "job_URL": "https://mapspeople.career.emply.com/ad/implementation-engineer/lslgof/en"
  },
  {
-  "category": "it",
-  "pub_date": "03-01-2025",
-  "title": "Product Manager – UAV Platform",
-  "company": "Sky-Watch",
-  "location": "Støvring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1527921/product-manager-uav-platform"
- },
- {
-  "category": "it",
-  "pub_date": "03-01-2025",
-  "title": "Business Intelligence Specialist",
-  "company": "Krone Kapital A/S",
-  "location": "Nykøbing M eller Aarhus C",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1527678/business-intelligence-specialist"
- },
- {
-  "category": "it",
-  "pub_date": "03-01-2025",
-  "title": "Software Developer (L1) - for 5G Space Development",
-  "company": "Gatehouse Satcom A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=gatehouse&JobNoticeId=105"
- },
- {
-  "category": "it",
-  "pub_date": "03-01-2025",
-  "title": "Controller til hovedkontoret",
-  "company": "PWT Group A/S",
-  "location": "Aalborg",
-  "job_URL": "https://awstrack.youngcrm.com/CL0/https:%2F%2Fpwt.youngcrm.com%2Fjobportal%2F10717%3Futm_source=youngcrm%26utm_medium=notification%26utm_campaign=media/1/0102019427cd983f-aaaf81ed-cba3-4d51-8fa5-200eecef233e-000000/n-ndyNscTiVk0NVFzjFnR3cZ3uwVFOhAcESmKrOlnJU=386"
- },
- {
   "category": "industri",
   "pub_date": "13-01-2025",
   "title": "Maskinarbejder / industritekniker / mekaniker eller lignende med erfaring i maskinreparationer indenfor jern og metal",
@@ -158,6 +158,14 @@
   "company": "Xpedit A/S",
   "location": "Nørresundby",
   "job_URL": "https://www.xpedit.dk/mc-mekaniker-noerresundby"
+ },
+ {
+  "category": "industri",
+  "pub_date": "13-01-2025",
+  "title": "Intern sælger til XL-BYG i Elling",
+  "company": "XL-BYG",
+  "location": "Frederikshavn",
+  "job_URL": "https://app.elvium.com/da/positions/28997/job_posting?referer_host=www.jobindex.dk"
  },
  {
   "category": "industri",
@@ -229,23 +237,7 @@
   "title": "Relæspecialist i Automation - bliv en vigtig del af N1's rejse mod fremtidens el distribution",
   "company": "N1 A/S",
   "location": "Støvring",
-  "job_URL": "https://www.job-karriere.dk/N1/job/St%C3%B8vring-Rel%C3%A6specialist-i-Automation-bliv-en-vigtig-del-af-N1&apos;s-rejse-mod-fremtidens-el-distribution-9530/1159083801/"
- },
- {
-  "category": "industri",
-  "pub_date": "09-01-2025",
-  "title": "Servicekoordinator til Nørresundby eller Aarhus",
-  "company": "Strøm Hansen A/S",
-  "location": "Nørresundby eller Aarhus V",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1529548/servicekoordinator-til-noerresundby-eller-aarhus"
- },
- {
-  "category": "industri",
-  "pub_date": "09-01-2025",
-  "title": "Group Lead",
-  "company": "Skagen SSB",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1523229/group-lead"
+  "job_URL": "https://www.job-karriere.dk/N1/job/St%C3%B8vring-Rel%C3%A6specialist-i-Automation-bliv-en-vigtig-del-af-N1&apos;s-rejse-mod-fremtidens-el-distribution-9530/1159083901/"
  },
  {
   "category": "handel",
@@ -254,6 +246,14 @@
   "company": "BigDollar",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1530094/butiksmedarbejdere"
+ },
+ {
+  "category": "handel",
+  "pub_date": "13-01-2025",
+  "title": "Intern sælger til XL-BYG i Elling",
+  "company": "XL-BYG",
+  "location": "Frederikshavn",
+  "job_URL": "https://app.elvium.com/da/positions/28997/job_posting?referer_host=www.jobindex.dk"
  },
  {
   "category": "handel",
@@ -334,6 +334,22 @@
   "company": "Søren Enggaard A/S",
   "location": "Aalborg SØ",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1528190/ejendomsservicetekniker"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "13-01-2025",
+  "title": "Danmarks førende dronevirksomhed søger Finance Manager",
+  "company": "Sky-Watch",
+  "location": "Støvring",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1530271/danmarks-foerende-dronevirksomhed-soeger-finance-manager"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "13-01-2025",
+  "title": "IT- og Digitaliseringschef",
+  "company": "Curia",
+  "location": "Aalborg Ø",
+  "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22281&locale=da_DK"
  },
  {
   "category": "ledelse",
@@ -438,22 +454,6 @@
   "company": "Telenor",
   "location": "Aalborg",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145865&DepartmentId=18957&MediaId=5"
- },
- {
-  "category": "ledelse",
-  "pub_date": "08-01-2025",
-  "title": "Lead System Architect",
-  "company": "RTX A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
- },
- {
-  "category": "ledelse",
-  "pub_date": "08-01-2025",
-  "title": "Produktionschef til spændende og innovativ vinduesfabrik",
-  "company": "Krone Vinduer A/S",
-  "location": "Vrå",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1521754/produktionschef-til-spaendende-og-innovativ-vinduesfabrik"
  },
  {
   "category": "undervisning",
@@ -690,6 +690,14 @@
  {
   "category": "ingenioer",
   "pub_date": "13-01-2025",
+  "title": "Produktionsplanlægger / Production Planner",
+  "company": "Mekoprint A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://app.elvium.com/da/positions/28999/job_posting"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "13-01-2025",
   "title": "Geologi & Quarry Manager",
   "company": "Imerys Industrial Minerals Denmark A/S",
   "location": "Fur og Mors",
@@ -702,6 +710,14 @@
   "company": "Sterke A/S",
   "location": "Aalborg Øst",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1523892/maskinarbejder-industritekniker-mekaniker-eller-lignende-med-erfaring-i-maskinreparationer-indenfor-jern-og-metal"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "13-01-2025",
+  "title": "Contract Manager - form fremtidens elnet og udvikl dine juridiske og forretningsmæssige kompetencer",
+  "company": "N1 A/S",
+  "location": "Århus V, Aalborg, Silkeborg eller Esbjerg N",
+  "job_URL": "https://www.job-karriere.dk/N1/job/Esbjerg-Contract-Manager-form-fremtidens-elnet-og-udvikl-dine-juridiske-og-forretningsm%C3%A6ssige-kompetencer-6715/1159181901/"
  },
  {
   "category": "ingenioer",
@@ -733,7 +749,7 @@
   "title": "Relæspecialist i Automation - bliv en vigtig del af N1's rejse mod fremtidens el distribution",
   "company": "N1 A/S",
   "location": "Støvring",
-  "job_URL": "https://www.job-karriere.dk/N1/job/St%C3%B8vring-Rel%C3%A6specialist-i-Automation-bliv-en-vigtig-del-af-N1&apos;s-rejse-mod-fremtidens-el-distribution-9530/1159083801/"
+  "job_URL": "https://www.job-karriere.dk/N1/job/St%C3%B8vring-Rel%C3%A6specialist-i-Automation-bliv-en-vigtig-del-af-N1&apos;s-rejse-mod-fremtidens-el-distribution-9530/1159083901/"
  },
  {
   "category": "ingenioer",
@@ -800,20 +816,12 @@
   "job_URL": "https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Mariager/Service-Technician_R26014-1"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "08-01-2025",
-  "title": "Servicetekniker til driftssikring og vedligehold hos vores kunder",
-  "company": "FC. Strømmen A/S",
-  "location": "Jylland",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1529162/servicetekniker-til-driftssikring-og-vedligehold-hos-vores-kunder"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "08-01-2025",
-  "title": "HSE Coordinator",
-  "company": "DESMI Pumping Technology A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3501&joblistId=1&lang=en"
+  "category": "salg",
+  "pub_date": "13-01-2025",
+  "title": "Medindehaver/partner til opstart af ny mæglerforretning",
+  "company": "Jobboozt ApS",
+  "location": "Thisted",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2135&ProjectId=143780&DepartmentId=19022&MediaId=5"
  },
  {
   "category": "salg",
@@ -920,20 +928,52 @@
   "job_URL": "https://career.jks.dk/Default.aspx?ID=68079"
  },
  {
-  "category": "salg",
-  "pub_date": "07-01-2025",
-  "title": "Kommunikationskonsulent med presseansvar",
-  "company": "Motorstyrelsen",
-  "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=185707&DepartmentId=9409&MediaId=3191"
+  "category": "kontor",
+  "pub_date": "13-01-2025",
+  "title": "Produktionsplanlægger / Production Planner",
+  "company": "Mekoprint A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://app.elvium.com/da/positions/28999/job_posting"
  },
  {
-  "category": "salg",
-  "pub_date": "07-01-2025",
-  "title": "Salgskonsulent til Danmarks mest eksklusive fritidshuse - Attraktiv lønpakke uden loft",
-  "company": "Sonne Huse A/S",
-  "location": "Hjørring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1528443/salgskonsulent-til-danmarks-mest-eksklusive-fritidshuse-attraktiv-loenpakke-uden-loft"
+  "category": "kontor",
+  "pub_date": "13-01-2025",
+  "title": "Medindehaver/partner til opstart af ny mæglerforretning",
+  "company": "Jobboozt ApS",
+  "location": "Thisted",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2135&ProjectId=143780&DepartmentId=19022&MediaId=5"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "13-01-2025",
+  "title": "Danmarks førende dronevirksomhed søger Finance Manager",
+  "company": "Sky-Watch",
+  "location": "Støvring",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1530271/danmarks-foerende-dronevirksomhed-soeger-finance-manager"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "13-01-2025",
+  "title": "Denmark's leading drone Company is looking for a Financial Controller",
+  "company": "Sky-Watch",
+  "location": "Støvring",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1530262/denmarks-leading-drone-company-is-looking-for-a-financial-controller"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "13-01-2025",
+  "title": "Speditør/kontorassistent med erfaring inden for told",
+  "company": "Logent Customs Hirtshals ApS",
+  "location": "Hirtshals",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1530174/speditoer-kontorassistent-med-erfaring-inden-for-told"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "13-01-2025",
+  "title": "Delivery Manager",
+  "company": "Telenor",
+  "location": "Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145866&DepartmentId=18957&MediaId=5"
  },
  {
   "category": "kontor",
@@ -942,6 +982,30 @@
   "company": "Sparekassen Danmark",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1524067/formuespecialist-til-region-aalborg"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "13-01-2025",
+  "title": "ESG Business Partner",
+  "company": "Beierholm Godkendt Revisionspartnerselskab",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/esg-business-partner?_gl=1*1aye8d4*_up*MQ..*_ga*MTM2MTE3NDQyNC4xNzM2NzYzMDk3*_ga_7E5KLPWM85*MTczNjc2MzA5Ny4xLjAuMTczNjc2MzA5Ny4wLjAuMA.."
+ },
+ {
+  "category": "kontor",
+  "pub_date": "13-01-2025",
+  "title": "Senior Sourcing Consultant - vær med til at forme fremtidens elnet",
+  "company": "N1 A/S",
+  "location": "Århus V, Aalborg, Silkeborg eller Esbjerg N",
+  "job_URL": "https://www.job-karriere.dk/N1/job/Esbjerg-Senior-Sourcing-Consultant-v%C3%A6r-med-til-at-forme-fremtidens-elnet-6715/1159191801/"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "13-01-2025",
+  "title": "Contract Manager - form fremtidens elnet og udvikl dine juridiske og forretningsmæssige kompetencer",
+  "company": "N1 A/S",
+  "location": "Århus V, Aalborg, Silkeborg eller Esbjerg N",
+  "job_URL": "https://www.job-karriere.dk/N1/job/Esbjerg-Contract-Manager-form-fremtidens-elnet-og-udvikl-dine-juridiske-og-forretningsm%C3%A6ssige-kompetencer-6715/1159181901/"
  },
  {
   "category": "kontor",
@@ -1016,76 +1080,20 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2378&ProjectId=143605&DepartmentId=18956&MediaId=5&SkipAdvertisement=False"
  },
  {
-  "category": "kontor",
-  "pub_date": "10-01-2025",
-  "title": "Ledende ejendomsfunktionær – få frihed til at lede dit team",
-  "company": "Boligforeningen Fredensbo",
-  "location": "Brønderslev",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1520354/ledende-ejendomsfunktionaer-faa-frihed-til-at-lede-dit-team"
- },
- {
-  "category": "kontor",
-  "pub_date": "10-01-2025",
-  "title": "Logistikkoordinator",
-  "company": "Curia",
-  "location": "Aalborg",
-  "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22280&locale=da_DK"
- },
- {
-  "category": "kontor",
-  "pub_date": "10-01-2025",
-  "title": "Projektadministrator",
-  "company": "Aalborg Universitet",
-  "location": "Aalborg",
-  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219384"
- },
- {
-  "category": "kontor",
-  "pub_date": "10-01-2025",
-  "title": "EU-Formandskabet 2025 (FO)",
-  "company": "Moment",
-  "location": "Aalborg, Herning, Horsens og København",
-  "job_URL": "https://my.enaportal.com/jobopslag/vis?no=193625"
- },
- {
-  "category": "kontor",
-  "pub_date": "10-01-2025",
-  "title": "Operational Excellence Specialist",
-  "company": "Marel A/S",
-  "location": "Støvring",
-  "job_URL": "https://marel.wd3.myworkdayjobs.com/da-DK/Marel/job/Operational-Excellence-Specialist_17228?source=jobindex_dk"
- },
- {
-  "category": "kontor",
-  "pub_date": "09-01-2025",
-  "title": "Graduate program",
-  "company": "Eurowind Energy A/S",
-  "location": "Hobro",
-  "job_URL": "https://eurowindenergy.com/uk/career?hr=show-job/233830&locale=en_US#hrskyen"
- },
- {
-  "category": "kontor",
-  "pub_date": "09-01-2025",
-  "title": "Ejendomsinspektør",
-  "company": "Fjerritslev Boligforening",
-  "location": "Fjerritslev, Løgstør",
-  "job_URL": "https://www.jobindex.dk/img/pdf/ejendomsinspektoer_20250109.pdf"
- },
- {
-  "category": "kontor",
-  "pub_date": "09-01-2025",
-  "title": "Servicekoordinator til Nørresundby eller Aarhus",
-  "company": "Strøm Hansen A/S",
-  "location": "Nørresundby eller Aarhus V",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1529548/servicekoordinator-til-noerresundby-eller-aarhus"
- },
- {
   "category": "oevrige",
   "pub_date": "13-01-2025",
   "title": "Slagterelever (med potentiale til at blive Mesterkødskærer)",
   "company": "Tican Fresh Meat A/S",
   "location": "Thisted eller Brørup",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1516650/slagterelever-med-potentiale-til-at-blive-mesterkoedskaerer"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "13-01-2025",
+  "title": "Jurastuderende som studentermedhjælpere",
+  "company": "Nordjyllands Politi",
+  "location": "Aalborg",
+  "job_URL": "https://job.politi.dk/job/Nordjyllands-Politi-s%C3%B8ger-jurastuderende-som-studentermedhj%C3%A6lpere/1102-da_DK"
  },
  {
   "category": "oevrige",
@@ -1174,13 +1182,5 @@
   "company": "Scan Global Logistics",
   "location": "Odense, Billund, Hvidovre, Viby J, Esbjerg, Nørresundby eller Herning",
   "job_URL": "https://scangl-v2-2-1.career.emply.com/ad/begynd-din-karriere-med-en-elevplads-hos-scan-global-logistics/u917l0/en"
- },
- {
-  "category": "oevrige",
-  "pub_date": "06-01-2025",
-  "title": "Sky-Watch is where your career takes flight – join our creative and fun marketing team",
-  "company": "Sky-Watch",
-  "location": "Støvring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1519327/sky-watch-is-where-your-career-takes-flight-join-our-creative-and-fun-marketing-team"
  }
 ]
