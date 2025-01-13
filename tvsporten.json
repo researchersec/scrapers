@@ -82,29 +82,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
    }
   ]
- },
- {
-  "match": "Edmonton Oilers – Los Angeles Kings",
-  "category": "NHL",
-  "time": "03:35",
-  "date": "2025-01-13",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Los Angeles Lakers – San Antonio Spurs",
-  "category": "NBA",
-  "time": "04:30",
-  "date": "2025-01-13",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
  }
 ]
