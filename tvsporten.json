@@ -1,21 +1,5 @@
 [
  {
-  "match": "Australian Open 2025",
-  "category": "Australian Open",
-  "time": "09:00",
-  "date": "2025-01-14",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "Snooker London Masters",
   "category": "World Snooker Tour",
   "time": "14:00",
