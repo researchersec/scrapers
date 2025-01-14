@@ -1,21 +1,5 @@
 [
  {
-  "match": "Snooker London Masters",
-  "category": "World Snooker Tour",
-  "time": "14:00",
-  "date": "2025-01-14",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "Italien – Tunesien",
   "category": "VM i håndbold - Herrer",
   "time": "17:30",
