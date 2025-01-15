@@ -1,33 +1,5 @@
 [
  {
-  "match": "Snooker London Masters",
-  "category": "World Snooker Tour",
-  "time": "14:00",
-  "date": "2025-01-15",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Skiskydning World Cup: Individuel (m)",
-  "category": "Skiskydning",
-  "time": "14:10",
-  "date": "2025-01-15",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
   "match": "Portugal – USA",
   "category": "VM i håndbold - Herrer",
   "time": "18:00",
