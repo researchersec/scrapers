@@ -153,6 +153,14 @@
  },
  {
   "category": "industri",
+  "pub_date": "15-01-2025",
+  "title": "Robotsvejser",
+  "company": "SAWO A/S",
+  "location": "Støvring",
+  "job_URL": "https://www.sawo.dk/da/job-i-sawo/robotsvejser-sawo-stovring"
+ },
+ {
+  "category": "industri",
   "pub_date": "14-01-2025",
   "title": "Delikatesseassistent",
   "company": "Meny",
@@ -256,22 +264,6 @@
   "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219388"
  },
  {
-  "category": "industri",
-  "pub_date": "10-01-2025",
-  "title": "Electrical Designer til BILA Automation",
-  "company": "BILA A/S",
-  "location": "Nykøbing Mors",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144178&DepartmentId=18958&MediaId=4614"
- },
- {
-  "category": "industri",
-  "pub_date": "10-01-2025",
-  "title": "Bliv en del af vores team som VVS-montør",
-  "company": "Pandrup-Kaas Smede & VVS A/S",
-  "location": "Pandrup",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1529786/bliv-en-del-af-vores-team-som-vvs-montoer"
- },
- {
   "category": "handel",
   "pub_date": "14-01-2025",
   "title": "Kok/cater til kantine",
@@ -366,6 +358,14 @@
   "company": "Coor Service Management A/S",
   "location": "Aalborg Øst",
   "job_URL": "https://coor.easycruit.com/vacancy/3448707/239029?iso=dk"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "15-01-2025",
+  "title": "Projektleder til design- og udbudsprocesser på store vejprojekter",
+  "company": "Vejdirektoratet",
+  "location": "Skanderborg, Hedehusene, Middelfart eller Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=185327&DepartmentId=9800&MediaId=5"
  },
  {
   "category": "ledelse",
@@ -486,14 +486,6 @@
   "company": "Human Risks ApS",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/img/pdf/lead-developer-human-risks.pdf"
- },
- {
-  "category": "ledelse",
-  "pub_date": "10-01-2025",
-  "title": "Ledende ejendomsfunktionær – få frihed til at lede dit team",
-  "company": "Boligforeningen Fredensbo",
-  "location": "Brønderslev",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1520354/ledende-ejendomsfunktionaer-faa-frihed-til-at-lede-dit-team"
  },
  {
   "category": "undervisning",
@@ -625,6 +617,14 @@
  },
  {
   "category": "social",
+  "pub_date": "15-01-2025",
+  "title": "Speciallæge i psykiatri, evt. deltid – samskabelse på et lægefagligt fundament",
+  "company": "Privat Psykiatrisk Center ApS",
+  "location": "Høje-Taastrup, Kongens Lyngby, Ringsted, Odense, Kolding, Silkeborg, Aarhus eller Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1524168/speciallaege-i-psykiatri-evt-deltid-samskabelse-paa-et-laegefagligt-fundament"
+ },
+ {
+  "category": "social",
   "pub_date": "14-01-2025",
   "title": "Autoriserede psykologer til børnesagkyndige undersøgelser og sagkyndige erklæringer",
   "company": "Familieretshuset",
@@ -734,6 +734,14 @@
   "company": "Lægerne Smutten Fællesafd. I/S",
   "location": "Hjørring",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1527747/laegerne-i-smutten-hjoerring-soeger-ny-medarbejder"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "15-01-2025",
+  "title": "Projektleder til design- og udbudsprocesser på store vejprojekter",
+  "company": "Vejdirektoratet",
+  "location": "Skanderborg, Hedehusene, Middelfart eller Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=185327&DepartmentId=9800&MediaId=5"
  },
  {
   "category": "ingenioer",
@@ -856,20 +864,12 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143679&DepartmentId=18961&MediaId=5"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "10-01-2025",
-  "title": "Operatør til Assembly Line MAN 175D",
-  "company": "MAN Energy Solutions",
-  "location": "Frederikshavn",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145440&DepartmentId=19149&MediaId=4619"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "10-01-2025",
-  "title": "Relæspecialist i Automation - bliv en vigtig del af N1's rejse mod fremtidens el distribution",
-  "company": "N1 A/S",
-  "location": "Støvring",
-  "job_URL": "https://www.job-karriere.dk/N1/job/St%C3%B8vring-Rel%C3%A6specialist-i-Automation-bliv-en-vigtig-del-af-N1&apos;s-rejse-mod-fremtidens-el-distribution-9530/1159083901/"
+  "category": "salg",
+  "pub_date": "15-01-2025",
+  "title": "Kørende Salgskonsulent til salg af Tryghed – Aalborg",
+  "company": "Verisure",
+  "location": "Aalborg Øst",
+  "job_URL": "https://careers.verisure.com/dk/da/job/r2024060934/K%C3%B8rende-Salgskonsulent-til-salg-af-Tryghed-Aalborg"
  },
  {
   "category": "salg",
@@ -960,12 +960,12 @@
   "job_URL": "https://aalborg.career.emply.com/ad/kan-du-saette-ord-pa-den-gronne-omstilling-barselsvikariat/4b45lk/da"
  },
  {
-  "category": "salg",
-  "pub_date": "10-01-2025",
-  "title": "Inhouse Grafiker med stærk passion for emballagedesign",
-  "company": "NORDEX FOOD A/S",
-  "location": "Dronninglund",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143674&DepartmentId=18960&MediaId=5"
+  "category": "kontor",
+  "pub_date": "15-01-2025",
+  "title": "Lønmedarbejder",
+  "company": "A/S J. Petersens Beslagfabrik, Nibe",
+  "location": "Nibe",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1524803/loenmedarbejder"
  },
  {
   "category": "kontor",
@@ -1094,14 +1094,6 @@
   "company": "Logent Customs Hirtshals ApS",
   "location": "Hirtshals",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1530174/speditoer-kontorassistent-med-erfaring-inden-for-told"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-01-2025",
-  "title": "Delivery Manager",
-  "company": "Telenor",
-  "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145866&DepartmentId=18957&MediaId=5"
  },
  {
   "category": "oevrige",
