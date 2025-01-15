@@ -1,1 +1,362 @@
-[]
+[
+ {
+  "match": "Australian Open 2025",
+  "category": "Australian Open",
+  "time": "09:00",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Snooker London Masters",
+  "category": "World Snooker Tour",
+  "time": "14:00",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Skiskydning World Cup: Individuel (m)",
+  "category": "Skiskydning",
+  "time": "14:10",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Portugal – USA",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Egypten – Argentina",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Tjekkiet – Schweiz",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Holland – Guinea",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "VfL Bochum – FC St Pauli",
+  "category": "Bundesliga",
+  "time": "18:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Snooker London Masters",
+  "category": "World Snooker Tour",
+  "time": "19:45",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Ge Servette Hc – ZSC Lions",
+  "category": "Champions Hockey League",
+  "time": "20:10",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Barcelona Lassa – Panathinaikos",
+  "category": "Euroleague",
+  "time": "20:25",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Newcastle United – Wolverhampton Wanderers",
+  "category": "Premier League",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Everton FC – Aston Villa",
+  "category": "Premier League",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Leicester City – Crystal Palace",
+  "category": "Premier League",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Werder Bremen – 1. FC Heidenheim",
+  "category": "Bundesliga",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Tyskland – Polen",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "1. FC Union Berlin – FC Augsburg",
+  "category": "Bundesliga",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Ungarn – Nord Makedonien",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "VfB Stuttgart – RB Leipzig",
+  "category": "Bundesliga",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Norge – Brasilien",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Bayern München – 1899 Hoffenheim",
+  "category": "Bundesliga",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Kroatien – Bahrain",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Inter – Bologna FC",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Rangers – Aberdeen FC",
+  "category": "Scottish Premiership",
+  "time": "20:55",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Arsenal FC – Tottenham Hotspur",
+  "category": "Premier League",
+  "time": "21:00",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "See",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Barcelona – Real Betis",
+  "category": "Copa del Rey",
+  "time": "21:00",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Sport Live",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Minnesota Wild – Edmonton Oilers",
+  "category": "NHL",
+  "time": "02:35",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "India Open: Indledende runder",
+  "category": "BWF World Tour",
+  "time": "04:30",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ }
+]
