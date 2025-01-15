@@ -88,6 +88,18 @@
   ]
  },
  {
+  "match": "Aalborg Pirates – Herlev Eagles",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-15",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
   "match": "Snooker London Masters",
   "category": "World Snooker Tour",
   "time": "19:45",
