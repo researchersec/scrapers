@@ -1,17 +1,5 @@
 [
  {
-  "match": "Featured Groups",
-  "category": "DP World Tour",
-  "time": "05:00",
-  "date": "2025-01-16",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Hero Dubai Desert Classic",
   "category": "DP World Tour",
   "time": "08:30",
@@ -304,42 +292,6 @@
    {
     "name": "Max",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Colorado Avalanche – Edmonton Oilers",
-  "category": "NHL",
-  "time": "03:35",
-  "date": "2025-01-16",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Sacramento Kings – Houston Rockets",
-  "category": "NBA",
-  "time": "04:00",
-  "date": "2025-01-16",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Vancouver Canucks – Los Angeles Kings",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2025-01-16",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  }
