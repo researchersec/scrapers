@@ -1,1 +1,346 @@
-[]
+[
+ {
+  "match": "Featured Groups",
+  "category": "DP World Tour",
+  "time": "05:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hero Dubai Desert Classic",
+  "category": "DP World Tour",
+  "time": "08:30",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Australian Open 2025",
+  "category": "Australian Open",
+  "time": "09:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Snooker London Masters",
+  "category": "World Snooker Tour",
+  "time": "14:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Skiskydning World Cup: Individuel (k)",
+  "category": "Skiskydning",
+  "time": "14:10",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Bahrain Darts Masters - Dag 1",
+  "category": "PDC",
+  "time": "18:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Bahrain Darts Masters",
+  "category": "PDC",
+  "time": "18:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Italien – Algeriet",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Kuwait – Frankrig",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Spanien – Chile",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Slovenien – Cuba",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Athletic Bilbao – Osasuna",
+  "category": "Copa del Rey",
+  "time": "19:25",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Sport Live",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Snooker London Masters",
+  "category": "World Snooker Tour",
+  "time": "19:45",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Ipswich Town – Brighton & Hove Albion",
+  "category": "Premier League",
+  "time": "20:30",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "See",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Tunesien – Danmark",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Sverige – Japan",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Island – Kap Verde",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Østrig – Qatar",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Real Madrid – Olympiakos Pireus",
+  "category": "Euroleague",
+  "time": "20:35",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Shrewsbury Town – Wrexham FC",
+  "category": "League One",
+  "time": "20:55",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Manchester United – Southampton FC",
+  "category": "Premier League",
+  "time": "21:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Prime Video",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/amazon_prime_video_2024-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Real Madrid – Celta de Vigo",
+  "category": "Copa del Rey",
+  "time": "21:25",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Sport Live",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
+   }
+  ]
+ },
+ {
+  "match": "PGA Golf - The American Express",
+  "category": "PGA",
+  "time": "22:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Discovery+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/discovery-plus_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Colorado Avalanche – Edmonton Oilers",
+  "category": "NHL",
+  "time": "03:35",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sacramento Kings – Houston Rockets",
+  "category": "NBA",
+  "time": "04:00",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Vancouver Canucks – Los Angeles Kings",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-01-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
