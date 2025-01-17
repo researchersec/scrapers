@@ -1,9 +1,233 @@
 [
  {
-  "match": "Real Madrid – Celta de Vigo",
-  "category": "Copa del Rey",
-  "time": "21:25",
-  "date": "2025-01-16",
+  "match": "Featured Groups",
+  "category": "DP World Tour",
+  "time": "05:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "India Open: Bane 2",
+  "category": "BWF World Tour",
+  "time": "07:30",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Hero Dubai Desert Classic",
+  "category": "DP World Tour",
+  "time": "08:30",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Australian Open 2025",
+  "category": "Australian Open",
+  "time": "09:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Freestyle (D/H) Slopestyle",
+  "category": "Skisport",
+  "time": "13:10",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Snooker London Masters",
+  "category": "World Snooker Tour",
+  "time": "14:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Skiskydning World Cup: Ruhpolding stafet (m)",
+  "category": "Skiskydning",
+  "time": "14:20",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Bahrain Darts Masters",
+  "category": "PDC",
+  "time": "17:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Bahrain Darts Masters - Finaledagen",
+  "category": "PDC",
+  "time": "17:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Tjekkiet Håndbold – Polen",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Holland – Nord Makedonien",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Portugal – Brasilien",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Bahrain – Egypten",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "SSV Jahn Regensburg – Hannover 96",
+  "category": "2. Bundesliga",
+  "time": "18:25",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Fortuna Düsseldorf – SV Darmstadt 98",
+  "category": "2. Bundesliga",
+  "time": "18:25",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "HSC Montpellier – AS Monaco",
+  "category": "Ligue 1",
+  "time": "18:55",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Rungsted Seier Capital – Aalborg Pirates",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "BMS Herlev – BC Copenhagen",
+  "category": "Basketligaen",
+  "time": "19:00",
+  "date": "2025-01-17",
   "channels": [
    {
     "name": "Sport Live",
@@ -12,10 +236,202 @@
   ]
  },
  {
+  "match": "SønderjyskE – Herning Blue Fox",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Herlev Eagles – Esbjerg Energy",
+  "category": "Metal Ligaen",
+  "time": "19:30",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Frederikshavn White Hawks – Rødovre Mighty Bulls",
+  "category": "Metal Ligaen",
+  "time": "19:30",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Snooker London Masters",
+  "category": "World Snooker Tour",
+  "time": "19:45",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Crvena Zvezda Beograd – Monaco Basket",
+  "category": "Euroleague",
+  "time": "19:55",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Liverpool FC Women – Brighton & Hove Albion WFC",
+  "category": "WSL",
+  "time": "19:55",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Guinea – Ungarn",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "USA – Norge",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Kroatien – Argentina",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Schweiz – Tyskland",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Eintracht Frankfurt – Borussia Dortmund",
+  "category": "Bundesliga",
+  "time": "20:30",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "AS Roma – Genoa",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Burnley FC – Sunderland",
+  "category": "Championship",
+  "time": "20:55",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Lille – Nice",
+  "category": "Ligue 1",
+  "time": "21:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Espanyol – Real Valladolid",
+  "category": "La Liga",
+  "time": "21:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
   "match": "PGA Golf - The American Express",
   "category": "PGA",
   "time": "22:00",
-  "date": "2025-01-16",
+  "date": "2025-01-17",
   "channels": [
    {
     "name": "Eurosport 2",
