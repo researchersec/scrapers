@@ -16,20 +16,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJ7jY_RgI%2Fp-8.webp&w=100&x1r=0.0078&x2r=0.4945&y1r=0.1881&y2r=0.894&s=4acc607e6ab947980ec2b1412555bcb2"
  },
  {
-  "link": "/Lidl/tilbud/Yoghurt-med-myslitop~o:q9ogMhtexdmKwGLibmpXf",
-  "price": "7.00",
-  "currency": "DKK",
-  "valid_from": "15-01-2025",
-  "valid_until": "18-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9Nlln6Vu%2Fp-38.webp&w=100&x1r=0.0061&x2r=0.4669&y1r=0.3271&y2r=0.6843&s=95e120dbd0bfcc9ecdb1fbb193f288ef"
- },
- {
   "link": "/Bilka/tilbud/To-go-marked~o:vDQV5NlJCc9UuxMBnM7HB",
   "price": "8.00",
   "currency": "DKK",
   "valid_from": "16-01-2025",
   "valid_until": "23-01-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJ-pjeiy5%2Fp-17.webp&w=100&x1r=0.6532&x2r=0.9941&y1r=0.0148&y2r=0.3351&s=a49b371ebb49a95d3a8d85785ed334e9"
+ },
+ {
+  "link": "/Lidl/tilbud/Yoghurt-med-myslitop~o:q9ogMhtexdmKwGLibmpXf",
+  "price": "7.00",
+  "currency": "DKK",
+  "valid_from": "15-01-2025",
+  "valid_until": "18-01-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9Nlln6Vu%2Fp-38.webp&w=100&x1r=0.0061&x2r=0.4669&y1r=0.3271&y2r=0.6843&s=95e120dbd0bfcc9ecdb1fbb193f288ef"
  },
  {
   "link": "/Min-Kobmand/tilbud/Quaker-Cruesli~o:polHDtbc-RJg1WebUwEOL",
@@ -62,6 +62,14 @@
   "valid_from": "18-01-2025",
   "valid_until": "25-01-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBL4NSOdw%2Fp-5.webp&w=100&x1r=0.0132&x2r=0.5144&y1r=0.0945&y2r=0.56&s=be7ecd76564b173d7d07b19dd226c24a"
+ },
+ {
+  "link": "/Bilka/tilbud/Tuborg-Classic-Gron-Tuborg-eller-Carlsberg-Pilsner~o:lxYo0gEyDO_QRU3_DcwgA",
+  "price": "105.00",
+  "currency": "DKK",
+  "valid_from": "16-01-2025",
+  "valid_until": "23-01-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSHG2laSA%2Fp-12.webp&w=100&x1r=0&x2r=0.2771&y1r=0.275&y2r=0.7007&s=2f9c1231fdad0fe6c2f329c95dbc7351"
  },
  {
   "link": "/fotex/tilbud/Carlsberg-Gron-Tuborg-eller-Tuborg-Classic-flasker~o:UrPyzd0LV61eZoDVp-7w5",
@@ -102,14 +110,6 @@
   "valid_from": "12-01-2025",
   "valid_until": "26-01-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJ7jY_RgI%2Fp-4.webp&w=100&x1r=0.5012&x2r=0.9829&y1r=0.6621&y2r=0.9833&s=3321484d32f7cc88640355fec65aeb2c"
- },
- {
-  "link": "/Bilka/tilbud/Tuborg-Classic-Gron-Tuborg-eller-Carlsberg-Pilsner~o:lxYo0gEyDO_QRU3_DcwgA",
-  "price": "105.00",
-  "currency": "DKK",
-  "valid_from": "16-01-2025",
-  "valid_until": "23-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSHG2laSA%2Fp-12.webp&w=100&x1r=0&x2r=0.2771&y1r=0.275&y2r=0.7007&s=2f9c1231fdad0fe6c2f329c95dbc7351"
  },
  {
   "link": "/BorderShop/tilbud/Tuborg-NUL-Classic-0-0-Carlsberg-Nordic-Ale-eller-Nordic-Pilsner~o:68z5hrjHEdebVLRQfqjnw",

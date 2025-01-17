@@ -1,53 +1,5 @@
 [
  {
-  "match": "India Open: Bane 2",
-  "category": "BWF World Tour",
-  "time": "07:30",
-  "date": "2025-01-17",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
-  "match": "Hero Dubai Desert Classic",
-  "category": "DP World Tour",
-  "time": "08:30",
-  "date": "2025-01-17",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Australian Open 2025",
-  "category": "Australian Open",
-  "time": "09:00",
-  "date": "2025-01-17",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "Freestyle (D/H) Slopestyle",
   "category": "Skisport",
   "time": "13:10",
@@ -56,6 +8,18 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "India Open: Viktor Axelsen - Loh Kean Yew",
+  "category": "BWF World Tour",
+  "time": "14:00",
+  "date": "2025-01-17",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
    }
   ]
  },
