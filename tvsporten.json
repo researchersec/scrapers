@@ -1,33 +1,5 @@
 [
  {
-  "match": "India Open: Semifinaler",
-  "category": "BWF World Tour",
-  "time": "07:30",
-  "date": "2025-01-18",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Hero Dubai Desert Classic - Dag 3",
-  "category": "DP World Tour",
-  "time": "08:00",
-  "date": "2025-01-18",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Nordisk kombination (D) Normal bakke",
   "category": "Nordisk kombination",
   "time": "09:25",
