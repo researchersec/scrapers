@@ -2,6 +2,14 @@
  {
   "category": "it",
   "pub_date": "20-01-2025",
+  "title": "Test Manager",
+  "company": "CGI Danmark A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-1799&BRID=1184276&lang=10"
+ },
+ {
+  "category": "it",
+  "pub_date": "20-01-2025",
   "title": "Data Engineer (back-end)",
   "company": "KMD A/S",
   "location": "København, Aarhus eller Aalborg",
@@ -152,12 +160,20 @@
   "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0823-1595&BRID=1075852&lang=10"
  },
  {
-  "category": "it",
-  "pub_date": "14-01-2025",
-  "title": "ERP Project Manager",
-  "company": "Wrist Ship Supply",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1524292/erp-project-manager"
+  "category": "industri",
+  "pub_date": "20-01-2025",
+  "title": "Konstruktør",
+  "company": "Dahl Engineering ApS",
+  "location": "Thisted",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1532234/konstruktoer"
+ },
+ {
+  "category": "industri",
+  "pub_date": "20-01-2025",
+  "title": "Teknisk Supporter til Solcelleanlæg – Vær med til at drive den grønne omstilling!",
+  "company": "MIKMA ApS",
+  "location": "Svenstrup J",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1532188/teknisk-supporter-til-solcelleanlaeg-vaer-med-til-at-drive-den-groenne-omstilling"
  },
  {
   "category": "industri",
@@ -226,10 +242,10 @@
  {
   "category": "industri",
   "pub_date": "16-01-2025",
-  "title": "Sterke A/S søger industritekniker, der er specialiseret i at betjene en Doosan CNC-drejebænk model Puma 3100ULY",
+  "title": "Sterke A/S søger industritekniker, der er specialiseret i at betjene CNC-drejebænk",
   "company": "Sterke A/S",
   "location": "Aalborg Øst",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1531448/sterke-a-s-soeger-industritekniker-der-er-specialiseret-i-at-betjene-en-doosan-cnc-drejebaenk-model-puma-3100uly"
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1531448/sterke-a-s-soeger-industritekniker-der-er-specialiseret-i-at-betjene-cnc-drejebaenk"
  },
  {
   "category": "industri",
@@ -362,6 +378,22 @@
  {
   "category": "ledelse",
   "pub_date": "20-01-2025",
+  "title": "Test Manager",
+  "company": "CGI Danmark A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-1799&BRID=1184276&lang=10"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "20-01-2025",
+  "title": "ESG & Sustainability Specialist",
+  "company": "Sjørring Maskinfabrik A/S",
+  "location": "Thisted",
+  "job_URL": "https://sjrringmaskinfabrik.hr-on.com/show-job/235073&locale=en_US"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "20-01-2025",
   "title": "Project Manager  - Nøglemedarbejder til internationale kunder og kolleger",
   "company": "Scanico A/S",
   "location": "Aalborg",
@@ -374,6 +406,14 @@
   "company": "Erenfred Pedersen A/S",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1525749/oekonomichef"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "20-01-2025",
+  "title": "Produktionsmester",
+  "company": "ROCKWOOL Danmark A/S",
+  "location": "Hobro",
+  "job_URL": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Hobro/Produktionsmester_R0029978"
  },
  {
   "category": "ledelse",
@@ -472,22 +512,6 @@
   "job_URL": "https://karriere.lidl.dk/jobs/souschef-fuldtid-skagen-skagen-507591"
  },
  {
-  "category": "ledelse",
-  "pub_date": "16-01-2025",
-  "title": "Maskinmester - DTU Aqua",
-  "company": "DTU, Danmarks Tekniske Universitet",
-  "location": "Hirtshals",
-  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4560"
- },
- {
-  "category": "ledelse",
-  "pub_date": "15-01-2025",
-  "title": "Afdelingsleder til Børne- og Arbejdsmarkedsforvaltningens nyetablerede afdeling: \"Udvikling og Implementering\"",
-  "company": "Hjørring Kommune",
-  "location": "Hjørring",
-  "job_URL": "https://hjoerring.emply.net/recruitment/vacancyAd.aspx?publishingId=ba57216b-7753-4372-bd59-0924519193e8"
- },
- {
   "category": "undervisning",
   "pub_date": "20-01-2025",
   "title": "Pædagog eller sygeplejerske søges til fuldtidsstilling",
@@ -497,35 +521,35 @@
  },
  {
   "category": "undervisning",
+  "pub_date": "20-01-2025",
+  "title": "Familiegruppe Nord søger to pædagogiske familierådgivere",
+  "company": "Aalborg Kommune",
+  "location": "Nørresundby",
+  "job_URL": "https://www.aalborg.dk/job-og-karriere/vis-job?id=21013"
+ },
+ {
+  "category": "undervisning",
+  "pub_date": "20-01-2025",
+  "title": "Pædagogisk Familierådgiver",
+  "company": "Aalborg Kommune",
+  "location": "Aalborg SV",
+  "job_URL": "https://www.aalborg.dk/job-og-karriere/vis-job?id=21012"
+ },
+ {
+  "category": "undervisning",
+  "pub_date": "20-01-2025",
+  "title": "Er du en nysgerrig og refleksiv pædagog, der har erfaring med Menta-lisering og LA2… så læs endelig videre",
+  "company": "",
+  "location": "Fjerritslev",
+  "job_URL": "https://www.jobindex.dk/jobannonce/r12970716/er-du-en-nysgerrig-og-refleksiv-paedagog-der-har-erfaring-med-menta-lisering-og-la2-saa-laes-endelig-videre"
+ },
+ {
+  "category": "undervisning",
   "pub_date": "17-01-2025",
   "title": "Instruktør",
   "company": "Nordjyllands Beredskab",
   "location": "Aalborg Øst",
   "job_URL": "https://aalborg-2.career.emply.com/ad/instruktor/5mutx1"
- },
- {
-  "category": "undervisning",
-  "pub_date": "17-01-2025",
-  "title": "Musikunderviser søges til nye samarbejder mellem Musikskolen og skolerne i Frederikshavn Kommune",
-  "company": "Frederikshavn Kommune",
-  "location": "Frederikshavn",
-  "job_URL": "https://frederikshavn.career.emply.com/ad/musikunderviser-soges-til-nye-samarbejder-mellem-musikskolen-og-skolerne-i-freder/6655bo/da"
- },
- {
-  "category": "undervisning",
-  "pub_date": "17-01-2025",
-  "title": "Musikunderviser søges til nye samarbejder mellem Musikskolen og dagtilbud/skoler",
-  "company": "Frederikshavn Kommune",
-  "location": "Frederikshavn",
-  "job_URL": "https://frederikshavn.career.emply.com/ad/musikunderviser-soges-til-nye-samarbejder-mellem-musikskolen-og-dagtilbud-skoler/ns6d1y/da"
- },
- {
-  "category": "undervisning",
-  "pub_date": "17-01-2025",
-  "title": "Pædagog til Syrenhuset – vær med fra starten!",
-  "company": "Aalborg Kommune",
-  "location": "Nørresundby",
-  "job_URL": "https://www.aalborg.dk/job-og-karriere/vis-job?id=20999"
  },
  {
   "category": "undervisning",
@@ -746,10 +770,26 @@
  {
   "category": "ingenioer",
   "pub_date": "20-01-2025",
+  "title": "Konstruktør",
+  "company": "Dahl Engineering ApS",
+  "location": "Thisted",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1532234/konstruktoer"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "20-01-2025",
   "title": "Project Manager  - Nøglemedarbejder til internationale kunder og kolleger",
   "company": "Scanico A/S",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1531950/project-manager-noeglemedarbejder-til-internationale-kunder-og-kolleger"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "20-01-2025",
+  "title": "Produktionsmester",
+  "company": "ROCKWOOL Danmark A/S",
+  "location": "Hobro",
+  "job_URL": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Hobro/Produktionsmester_R0029978"
  },
  {
   "category": "ingenioer",
@@ -830,38 +870,6 @@
   "company": "Aalborg Portland",
   "location": "Aalborg Øst",
   "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3452689/130141/jobindex&iso=dk/"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "16-01-2025",
-  "title": "Bilinspektør/ingeniør",
-  "company": "Nordjyllands Politi",
-  "location": "Aalborg",
-  "job_URL": "https://job.politi.dk/job/Bilinspekt%C3%B8ringeni%C3%B8r-s%C3%B8ges-til-Nordjyllands-Politi/1115-da_DK"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "16-01-2025",
-  "title": "Maskinmester - DTU Aqua",
-  "company": "DTU, Danmarks Tekniske Universitet",
-  "location": "Hirtshals",
-  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4560"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "15-01-2025",
-  "title": "Service Operations Manager til Automationsprojekter hos Migatronic Automation",
-  "company": "Migatronic A/S",
-  "location": "Aabybro",
-  "job_URL": "https://app.jobmatchprofile.com/y2xmad"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "15-01-2025",
-  "title": "Marinbiolog til marin overvågning til enhed i Nordjylland",
-  "company": "Styrelsen for Grøn Arealomlægning og Vandmiljø",
-  "location": "Aalborg Øst",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=185899&DepartmentId=7683&MediaId=5"
  },
  {
   "category": "salg",
@@ -952,12 +960,36 @@
   "job_URL": "https://careers.verisure.com/dk/da/job/r2024060934/K%C3%B8rende-Salgskonsulent-til-salg-af-Tryghed-Aalborg"
  },
  {
-  "category": "salg",
-  "pub_date": "15-01-2025",
-  "title": "Salgs- og Markedschef med strategisk fokus",
-  "company": "NCC Danmark",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.ncc.dk/arbejd-hos-ncc/ledige-job/job2/e0f4146c-5be6-4b1f-a558-e7839e663267/NCC_s-ger_Salgs-_og_Markedschef_med_strategisk_fokus"
+  "category": "kontor",
+  "pub_date": "20-01-2025",
+  "title": "Teknisk Supporter til Solcelleanlæg – Vær med til at drive den grønne omstilling!",
+  "company": "MIKMA ApS",
+  "location": "Svenstrup J",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1532188/teknisk-supporter-til-solcelleanlaeg-vaer-med-til-at-drive-den-groenne-omstilling"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "20-01-2025",
+  "title": "Jurist til Legal Tech i København",
+  "company": "Testaviva DK ApS",
+  "location": "København S",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1532175/jurist-til-legal-tech-i-koebenhavn"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "20-01-2025",
+  "title": "Controller",
+  "company": "Sjørring Maskinfabrik A/S",
+  "location": "Thisted",
+  "job_URL": "https://www.sjorring.com/career?hr=show-job%2F235059%26locale%3Den_US"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "20-01-2025",
+  "title": "ESG & Sustainability Specialist",
+  "company": "Sjørring Maskinfabrik A/S",
+  "location": "Thisted",
+  "job_URL": "https://sjrringmaskinfabrik.hr-on.com/show-job/235073&locale=en_US"
  },
  {
   "category": "kontor",
@@ -1072,36 +1104,20 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1526444/revisorassistent-koer-din-egen-rutine-blandt-erfarne-kolleger"
  },
  {
-  "category": "kontor",
-  "pub_date": "17-01-2025",
-  "title": "ERP-Konsulent med forretningsforståelse og potentiale til lederrolle",
-  "company": "Mariendal IT A/S",
-  "location": "Aalborg eller Aarhus N",
-  "job_URL": "https://MariendalITAS.reqruiting.com/Job.aspx?id=22511"
+  "category": "oevrige",
+  "pub_date": "20-01-2025",
+  "title": "IT Assistant (Studentermedhjælper/Deltid)",
+  "company": "Slipgate Ironworks ApS",
+  "location": "Aalborg SV",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1532229/it-assistant-studentermedhjaelper-deltid"
  },
  {
-  "category": "kontor",
-  "pub_date": "17-01-2025",
-  "title": "Vagtplanlægger til Bjergbo",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=133832"
- },
- {
-  "category": "kontor",
-  "pub_date": "17-01-2025",
-  "title": "Miljøsagsbehandler - landbrug",
-  "company": "Vesthimmerlands Kommune",
-  "location": "Farsø",
-  "job_URL": "https://vesthimmerland.dk/ledige-stillinger?hr=show-job/28489&linkref=8382&locale=da_DK"
- },
- {
-  "category": "kontor",
-  "pub_date": "17-01-2025",
-  "title": "Revisor med fokus på Sustainability",
-  "company": "EY",
+  "category": "oevrige",
+  "pub_date": "20-01-2025",
+  "title": "Mødebooker til Telenor Erhverv (Studentermedhjælper)",
+  "company": "Telenor",
   "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1531648/revisor-med-fokus-paa-sustainability"
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145868&DepartmentId=18957&MediaId=5"
  },
  {
   "category": "oevrige",
@@ -1110,6 +1126,14 @@
   "company": "MAN Energy Solutions",
   "location": "Frederikshavn",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145467&DepartmentId=19149&MediaId=4619"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "20-01-2025",
+  "title": "Karrosseriteknikerlærling",
+  "company": "Bayern AutoGroup",
+  "location": "Aalborg",
+  "job_URL": "https://app.jobmatchprofile.com/f3yyuh?client=jobindex"
  },
  {
   "category": "oevrige",
@@ -1174,13 +1198,5 @@
   "company": "Lemvigh-Müller A/S",
   "location": "Thisted",
   "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2148/lemvigh-mller-salgselev-til-thisted"
- },
- {
-  "category": "oevrige",
-  "pub_date": "14-01-2025",
-  "title": "Finanselev",
-  "company": "Nordjyske Bank",
-  "location": "Frederikshavn, Sæby, Nørresundby, Aalborg, Aabybro m.fl.",
-  "job_URL": "https://www.nordjyskebank.dk/karriere/job/stillinger/2338-finanselev"
  }
 ]
