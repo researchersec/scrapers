@@ -1,6 +1,22 @@
 [
  {
   "category": "it",
+  "pub_date": "20-01-2025",
+  "title": "Data Engineer (back-end)",
+  "company": "KMD A/S",
+  "location": "København, Aarhus eller Aalborg",
+  "job_URL": "https://jobs.kmd.net/job/K%C3%B8benhavn-Data-Engineer-%28back-end%29-2100/1154993701/"
+ },
+ {
+  "category": "it",
+  "pub_date": "20-01-2025",
+  "title": "IT-Supporter",
+  "company": "Sjørring Maskinfabrik A/S",
+  "location": "Thisted",
+  "job_URL": "https://www.sjorring.com/career?hr=show-job%2F234479%26locale%3Den_US"
+ },
+ {
+  "category": "it",
   "pub_date": "17-01-2025",
   "title": "Senior Compliance Manager",
   "company": "Continia Software A/S",
@@ -144,20 +160,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1524292/erp-project-manager"
  },
  {
-  "category": "it",
-  "pub_date": "14-01-2025",
-  "title": "NAV/BC-konsulent med udviklingspotentiale",
-  "company": "Itm8",
-  "location": "Herning, Aalborg, Randers eller Viby J",
-  "job_URL": "https://itm8.dk/job?jobid=230668&linkref=254797&locale=da_DK"
- },
- {
-  "category": "it",
-  "pub_date": "13-01-2025",
-  "title": "Håndværkerbranchens ERP-system søger kundemindet medarbejder med regnskabserfaring",
-  "company": "E-Komplet A/S",
-  "location": "Aalborg SV",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1530389/haandvaerkerbranchens-erp-system-soeger-kundemindet-medarbejder-med-regnskabserfaring"
+  "category": "industri",
+  "pub_date": "20-01-2025",
+  "title": "Chauffør og lagermedarbejder til Nopa Nordic",
+  "company": "Nopa Nordic A/S",
+  "location": "Hobro",
+  "job_URL": "https://nopanordic.com/da/job-karriere/?hr=show-job/232297&linkref=257642&locale=da_DK"
  },
  {
   "category": "industri",
@@ -262,14 +270,6 @@
   "company": "Nordjyllands Politi",
   "location": "Aalborg",
   "job_URL": "https://job.politi.dk/job/Bilinspekt%C3%B8ringeni%C3%B8r-s%C3%B8ges-til-Nordjyllands-Politi/1115-da_DK"
- },
- {
-  "category": "industri",
-  "pub_date": "16-01-2025",
-  "title": "Delikatesseassistent, Brugsen Øster Hurup",
-  "company": "Brugsen",
-  "location": "Hadsund",
-  "job_URL": "https://jobs.coop.dk/job/Delikatesseassistent%2C-Brugsen-%C3%98ster-Hurup/154257-da_DK"
  },
  {
   "category": "handel",
@@ -545,6 +545,14 @@
  },
  {
   "category": "undervisning",
+  "pub_date": "17-01-2025",
+  "title": "Vikarer til Syrenhuset – vær med fra starten!",
+  "company": "Aalborg Kommune",
+  "location": "Nørresundby",
+  "job_URL": "https://www.aalborg.dk/job-og-karriere/vis-job?id=21001"
+ },
+ {
+  "category": "undervisning",
   "pub_date": "16-01-2025",
   "title": "Smilende og dygtig pædagog søges",
   "company": "Privat Børnehaven Brombærhaven",
@@ -590,14 +598,6 @@
   "company": "Brønderslev Kommune",
   "location": "Dronninglund",
   "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/assisterende-plejecenterleder/ylyq4u/da"
- },
- {
-  "category": "undervisning",
-  "pub_date": "07-01-2025",
-  "title": "Pædagogisk assistent eller medhjælper til Markblomsten i Vestervig",
-  "company": "THISTED KOMMUNE",
-  "location": "Vestervig",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=133287"
  },
  {
   "category": "undervisning",
@@ -1009,6 +1009,22 @@
  },
  {
   "category": "kontor",
+  "pub_date": "20-01-2025",
+  "title": "Administrationselev i Frederikshavn",
+  "company": "MAN Energy Solutions",
+  "location": "Frederikshavn",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145467&DepartmentId=19149&MediaId=4619"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "20-01-2025",
+  "title": "Chauffør og lagermedarbejder til Nopa Nordic",
+  "company": "Nopa Nordic A/S",
+  "location": "Hobro",
+  "job_URL": "https://nopanordic.com/da/job-karriere/?hr=show-job/232297&linkref=257642&locale=da_DK"
+ },
+ {
+  "category": "kontor",
   "pub_date": "17-01-2025",
   "title": "Hovedkasserer til Aars",
   "company": "Sparekassen Danmark",
@@ -1136,36 +1152,12 @@
   "job_URL": "https://nopanordic.com/da/job-karriere/?hr=show-job/231435&linkref=256156&locale=da_DK"
  },
  {
-  "category": "kontor",
-  "pub_date": "16-01-2025",
-  "title": "Disponent – Region Aalborg",
-  "company": "Marius Pedersen A/S",
-  "location": "Aalborg",
-  "job_URL": "https://www.mariuspedersen.dk/om-os/ledige-stillinger/ledige-stillinger?hr=show-job/234967&locale=da_dk&sd=1"
- },
- {
-  "category": "kontor",
-  "pub_date": "15-01-2025",
-  "title": "Assistent til Nordværks vejekontor",
-  "company": "Nordværk I/S",
-  "location": "Hjørring og Vodskov",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143714&DepartmentId=18973&MediaId=4629"
- },
- {
-  "category": "kontor",
-  "pub_date": "15-01-2025",
-  "title": "Afdelingsleder til Børne- og Arbejdsmarkedsforvaltningens nyetablerede afdeling: \"Udvikling og Implementering\"",
-  "company": "Hjørring Kommune",
-  "location": "Hjørring",
-  "job_URL": "https://hjoerring.emply.net/recruitment/vacancyAd.aspx?publishingId=ba57216b-7753-4372-bd59-0924519193e8"
- },
- {
-  "category": "kontor",
-  "pub_date": "15-01-2025",
-  "title": "Ferierådgiver til Feriepartner Tversted & Ålbæk",
-  "company": "Feriepartner",
-  "location": "Bindslev",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2223&ProjectId=144924&DepartmentId=19282&MediaId=4631"
+  "category": "oevrige",
+  "pub_date": "20-01-2025",
+  "title": "Administrationselev i Frederikshavn",
+  "company": "MAN Energy Solutions",
+  "location": "Frederikshavn",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145467&DepartmentId=19149&MediaId=4619"
  },
  {
   "category": "oevrige",
@@ -1238,21 +1230,5 @@
   "company": "Nordjyske Bank",
   "location": "Frederikshavn, Sæby, Nørresundby, Aalborg, Aabybro m.fl.",
   "job_URL": "https://www.nordjyskebank.dk/karriere/job/stillinger/2338-finanselev"
- },
- {
-  "category": "oevrige",
-  "pub_date": "13-01-2025",
-  "title": "Slagterelever (med potentiale til at blive Mesterkødskærer)",
-  "company": "Tican Fresh Meat A/S",
-  "location": "Thisted eller Brørup",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1516650/slagterelever-med-potentiale-til-at-blive-mesterkoedskaerer"
- },
- {
-  "category": "oevrige",
-  "pub_date": "13-01-2025",
-  "title": "Revisortrainee hos Redmark 2026",
-  "company": "Redmark",
-  "location": "Frederiksberg, Aalborg eller Randers SØ",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1530444/revisortrainee-hos-redmark-2026"
  }
 ]
