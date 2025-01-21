@@ -298,41 +298,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
- },
- {
-  "match": "Edmonton Oilers – Washington Capitals",
-  "category": "NHL",
-  "time": "03:05",
-  "date": "2025-01-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Anaheim Ducks – Florida Panthers",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2025-01-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Vancouver Canucks – Buffalo Sabres",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2025-01-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
