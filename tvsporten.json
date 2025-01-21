@@ -1,9 +1,97 @@
 [
  {
-  "match": "Seattle Kraken – Buffalo Sabres",
-  "category": "NHL",
-  "time": "22:05",
-  "date": "2025-01-20",
+  "match": "Australian Open 2025 - Kvartfinaler",
+  "category": "Australian Open",
+  "time": "09:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "2025 Championship League Snooker Invitational",
+  "category": "Championship League Snooker",
+  "time": "12:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "VM i håndbold - Mellemrunde Kamp",
+  "category": "VM i håndbold - Herrer",
+  "time": "15:30",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Al Khaleej – Al Nassr",
+  "category": "Saudi Pro League",
+  "time": "15:45",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Galatasaray – Dynamo Kyiv",
+  "category": "Europa League",
+  "time": "16:30",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "2025 Championship League Snooker Invitational",
+  "category": "Championship League Snooker",
+  "time": "17:30",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "VM i håndbold - Mellemrunde Kamp",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "AS Monaco – Aston Villa",
+  "category": "Champions League",
+  "time": "18:45",
+  "date": "2025-01-21",
   "channels": [
    {
     "name": "TV3 Sport",
@@ -16,10 +104,26 @@
   ]
  },
  {
-  "match": "Seattle Kraken – Buffalo Sabres",
-  "category": "NHL",
-  "time": "22:05",
-  "date": "2025-01-20",
+  "match": "Atalanta – Sturm Graz",
+  "category": "Champions League",
+  "time": "18:45",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Färjestad BK – Sparta Prag",
+  "category": "Champions Hockey League",
+  "time": "18:55",
+  "date": "2025-01-21",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -28,14 +132,206 @@
   ]
  },
  {
-  "match": "Golden State Warriors – Boston Celtics",
-  "category": "NBA",
-  "time": "23:00",
-  "date": "2025-01-20",
+  "match": "Herning Blue Fox – Rungsted Seier Capital",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-21",
   "channels": [
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rødovre Mighty Bulls – Odense Bulldogs",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Frederikshavn White Hawks – Esbjerg Energy",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "ZSC Lions – Ge Servette Hc",
+  "category": "Champions Hockey League",
+  "time": "20:10",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Danmark – Tyskland",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Millwall FC – Cardiff City",
+  "category": "Championship",
+  "time": "20:55",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Atletico Madrid – Bayer Leverkusen",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Benfica – FC Barcelona",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Røde Stjerne – PSV Eindhoven",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Liverpool FC – Lille",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "TV3 +",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Club Brugge – Juventus",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "SK Slovan Bratislava – VfB Stuttgart",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Bologna FC – Borussia Dortmund",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Edmonton Oilers – Washington Capitals",
+  "category": "NHL",
+  "time": "03:05",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Anaheim Ducks – Florida Panthers",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Vancouver Canucks – Buffalo Sabres",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  }
