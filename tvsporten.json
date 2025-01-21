@@ -1,53 +1,5 @@
 [
  {
-  "match": "Østrig – Nord Makedonien",
-  "category": "VM i håndbold - Herrer",
-  "time": "15:30",
-  "date": "2025-01-21",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
-  "match": "Schweiz – Tunesien",
-  "category": "VM i håndbold - Herrer",
-  "time": "15:30",
-  "date": "2025-01-21",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   }
-  ]
- },
- {
-  "match": "Al Khaleej – Al Nassr",
-  "category": "Saudi Pro League",
-  "time": "15:45",
-  "date": "2025-01-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Galatasaray – Dynamo Kyiv",
-  "category": "Europa League",
-  "time": "16:30",
-  "date": "2025-01-21",
-  "channels": [
-   {
-    "name": "Disney Plus",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
-   }
-  ]
- },
- {
   "match": "2025 Championship League Snooker Invitational",
   "category": "Championship League Snooker",
   "time": "17:30",
