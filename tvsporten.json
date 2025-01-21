@@ -1,18 +1,6 @@
 [
  {
-  "match": "2025 Championship League Snooker Invitational",
-  "category": "Championship League Snooker",
-  "time": "12:00",
-  "date": "2025-01-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "VM i håndbold - Mellemrunde Kamp",
+  "match": "Østrig – Nord Makedonien",
   "category": "VM i håndbold - Herrer",
   "time": "15:30",
   "date": "2025-01-21",
@@ -20,6 +8,18 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Schweiz – Tunesien",
+  "category": "VM i håndbold - Herrer",
+  "time": "15:30",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
    }
   ]
  },
@@ -60,14 +60,26 @@
   ]
  },
  {
-  "match": "VM i håndbold - Mellemrunde Kamp",
+  "match": "Tjekkiet – Italien",
   "category": "VM i håndbold - Herrer",
   "time": "18:00",
   "date": "2025-01-21",
   "channels": [
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Qatar – Holland",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
    }
   ]
  },
@@ -184,6 +196,18 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Ungarn – Frankrig",
+  "category": "VM i håndbold - Herrer",
+  "time": "21:00",
+  "date": "2025-01-21",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
    }
   ]
  },
