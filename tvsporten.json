@@ -1,1 +1,326 @@
-[]
+[
+ {
+  "match": "Australian Open 2025 - Kvartfinaler",
+  "category": "Australian Open",
+  "time": "09:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "2025 Championship League Snooker Invitational",
+  "category": "Championship League Snooker",
+  "time": "12:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Slovenien – Argentina",
+  "category": "VM i håndbold - Herrer",
+  "time": "15:30",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Brasilien – Chile",
+  "category": "VM i håndbold - Herrer",
+  "time": "15:30",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Besiktas Jk – Athletic Bilbao",
+  "category": "Europa League",
+  "time": "16:30",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "2025 Championship League Snooker Invitational",
+  "category": "Championship League Snooker",
+  "time": "17:30",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sverige – Portugal",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Kap Verde – Kroatien",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "RB Leipzig – Sporting Clube de Portugal",
+  "category": "Champions League",
+  "time": "18:40",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Shakhtar Donetsk – Stade Brest",
+  "category": "Champions League",
+  "time": "18:45",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Herlev Eagles – SønderjyskE",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Norge – Spanien",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Egypten – Island",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Plymouth Argyle – Burnley FC",
+  "category": "Championship",
+  "time": "20:55",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "AC Milan – Girona Cf",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Paris Saint Germain – Manchester City",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "TV3 +",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Real Madrid – Red Bull Salzburg",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Celtic FC – Bsc Young Boys Bern",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "PGA Tour - Farmers Insurance Open",
+  "category": "PGA",
+  "time": "21:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Sparta Prag – Inter",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Feyenoord – FC Bayern München",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Arsenal FC – Nk Dinamo Zagreb",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Indonesia Open",
+  "category": "BWF World Tour",
+  "time": "03:00",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Colorado Avalanche – Winnipeg Jets",
+  "category": "NHL",
+  "time": "03:35",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Los Angeles Kings – Florida Panthers",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-01-22",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
