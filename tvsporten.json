@@ -1,17 +1,5 @@
 [
  {
-  "match": "Australian Open 2025 - Kvartfinaler",
-  "category": "Australian Open",
-  "time": "09:00",
-  "date": "2025-01-22",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "2025 Championship League Snooker Invitational",
   "category": "Championship League Snooker",
   "time": "12:00",
