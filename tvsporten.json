@@ -1,41 +1,5 @@
 [
  {
-  "match": "Slovenien – Argentina",
-  "category": "VM i håndbold - Herrer",
-  "time": "15:30",
-  "date": "2025-01-22",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   }
-  ]
- },
- {
-  "match": "Brasilien – Chile",
-  "category": "VM i håndbold - Herrer",
-  "time": "15:30",
-  "date": "2025-01-22",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Besiktas Jk – Athletic Bilbao",
-  "category": "Europa League",
-  "time": "16:30",
-  "date": "2025-01-22",
-  "channels": [
-   {
-    "name": "Disney Plus",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
-   }
-  ]
- },
- {
   "match": "2025 Championship League Snooker Invitational",
   "category": "Championship League Snooker",
   "time": "17:30",
