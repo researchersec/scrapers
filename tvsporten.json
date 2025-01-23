@@ -1,17 +1,5 @@
 [
  {
-  "match": "2025 Championship League Snooker Invitational",
-  "category": "World Snooker Tour",
-  "time": "12:00",
-  "date": "2025-01-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Skiskydning World Cup: Sprint (k)",
   "category": "Skiskydning",
   "time": "14:30",
@@ -320,18 +308,6 @@
    {
     "name": "Disney Plus",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
-   }
-  ]
- },
- {
-  "match": "Australian Open 2025 - Semifinaler Kvinder",
-  "category": "Australian Open",
-  "time": "23:45",
-  "date": "2025-01-23",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    }
   ]
  }
