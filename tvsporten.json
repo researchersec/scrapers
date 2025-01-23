@@ -1,41 +1,5 @@
 [
  {
-  "match": "Skiskydning World Cup: Sprint (k)",
-  "category": "Skiskydning",
-  "time": "14:30",
-  "date": "2025-01-23",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Tunesien – Tjekkiet",
-  "category": "VM i håndbold - Herrer",
-  "time": "15:30",
-  "date": "2025-01-23",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Nord Makedonien – Qatar",
-  "category": "VM i håndbold - Herrer",
-  "time": "15:30",
-  "date": "2025-01-23",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   }
-  ]
- },
- {
   "match": "2025 Championship League Snooker Invitational",
   "category": "World Snooker Tour",
   "time": "17:30",

@@ -152,12 +152,12 @@
   "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=gatehouse&JobNoticeId=108"
  },
  {
-  "category": "it",
-  "pub_date": "14-01-2025",
-  "title": "Cybersecurity Architect for OT Security",
-  "company": "Eurowind Energy A/S",
-  "location": "Hobro",
-  "job_URL": "https://eurowindenergy.com/career?hr=show-job/234402&locale=en_US#hrskyen"
+  "category": "industri",
+  "pub_date": "23-01-2025",
+  "title": "Vedligeholdelsestekniker",
+  "company": "Glaseksperten A/S",
+  "location": "Hjørring",
+  "job_URL": "https://www.glaseksperten.dk/om-glaseksperten/karriere/vedligeholdelsestekniker/"
  },
  {
   "category": "industri",
@@ -272,12 +272,20 @@
   "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1035"
  },
  {
-  "category": "industri",
-  "pub_date": "20-01-2025",
-  "title": "Tekniker med ansvar for vedligeholdelsesafdelingen til Outrup",
-  "company": "Outrup Vinduer & Døre A/S",
-  "location": "Nykøbing Mors",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1532302/tekniker-med-ansvar-for-vedligeholdelsesafdelingen-til-outrup"
+  "category": "handel",
+  "pub_date": "23-01-2025",
+  "title": "Peopleorienteret Butikschef til Telenor i Hjørring",
+  "company": "Telenor",
+  "location": "Hjørring",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145871&DepartmentId=18958&MediaId=5"
+ },
+ {
+  "category": "handel",
+  "pub_date": "23-01-2025",
+  "title": "Er du vores nye køkkenmedarbejder?",
+  "company": "Efterskolen Frydensberg",
+  "location": "Mariager",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1533065/er-du-vores-nye-koekkenmedarbejder"
  },
  {
   "category": "handel",
@@ -294,14 +302,6 @@
   "company": "XL-BYG",
   "location": "Hurup Thy",
   "job_URL": "https://app.elvium.com/da/positions/29148/job_posting?referer_host=www.jobindex.dk"
- },
- {
-  "category": "handel",
-  "pub_date": "22-01-2025",
-  "title": "Er du vores nye køkkenmedarbejder?",
-  "company": "Efterskolen Frydensberg",
-  "location": "Mariager",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1533065/er-du-vores-nye-koekkenmedarbejder"
  },
  {
   "category": "handel",
@@ -406,6 +406,14 @@
   "company": "Nordjyllands Beredskab",
   "location": "Aalborg Øst",
   "job_URL": "https://aalborg-2.career.emply.com/ad/instruktor/5mutx1"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "23-01-2025",
+  "title": "Peopleorienteret Butikschef til Telenor i Hjørring",
+  "company": "Telenor",
+  "location": "Hjørring",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145871&DepartmentId=18958&MediaId=5"
  },
  {
   "category": "ledelse",
@@ -544,20 +552,20 @@
   "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-1799&BRID=1184276&lang=10"
  },
  {
-  "category": "ledelse",
-  "pub_date": "20-01-2025",
-  "title": "ESG & Sustainability Specialist",
-  "company": "Sjørring Maskinfabrik A/S",
-  "location": "Thisted",
-  "job_URL": "https://sjrringmaskinfabrik.hr-on.com/show-job/235073&locale=en_US"
- },
- {
   "category": "undervisning",
   "pub_date": "23-01-2025",
   "title": "Pædagogisk medarbejder søges til nyoprettede tilbud",
   "company": "Habitus",
   "location": "Sindal",
   "job_URL": "https://habitus.career.emply.com/ad/paedagogisk-medarbejder-soges-til-nyoprettede-tilbud/4p23t0/da"
+ },
+ {
+  "category": "undervisning",
+  "pub_date": "23-01-2025",
+  "title": "Barselsvikariat som kontaktperson til Huset",
+  "company": "THISTED KOMMUNE",
+  "location": "Thisted",
+  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=134049"
  },
  {
   "category": "undervisning",
@@ -810,6 +818,14 @@
  {
   "category": "ingenioer",
   "pub_date": "23-01-2025",
+  "title": "Vedligeholdelsestekniker",
+  "company": "Glaseksperten A/S",
+  "location": "Hjørring",
+  "job_URL": "https://www.glaseksperten.dk/om-glaseksperten/karriere/vedligeholdelsestekniker/"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "23-01-2025",
   "title": "Bygningskonstruktør",
   "company": "Energihuset A/S",
   "location": "Sæby",
@@ -944,12 +960,12 @@
   "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1035"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "20-01-2025",
-  "title": "CEO til international teknisk markedsleder",
-  "company": "HumanTrust A/S",
-  "location": "Hjørring",
-  "job_URL": "https://humantrust.dk/c/jobs/ceo-til-international-teknisk-markedsleder"
+  "category": "salg",
+  "pub_date": "23-01-2025",
+  "title": "Salgs- og Indkøbskoordinator",
+  "company": "Nordiq A/S",
+  "location": "Nibe",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1533378/salgs-og-indkoebskoordinator"
  },
  {
   "category": "salg",
@@ -1032,12 +1048,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1531542/salgs-og-administrationsmedarbejder-barselsvikariat"
  },
  {
-  "category": "salg",
-  "pub_date": "17-01-2025",
-  "title": "Area Sales Manager",
-  "company": "HJ Lubricators",
-  "location": "Hadsund or Kgs. Lyngby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1531903/area-sales-manager"
+  "category": "kontor",
+  "pub_date": "23-01-2025",
+  "title": "Salgs- og Indkøbskoordinator",
+  "company": "Nordiq A/S",
+  "location": "Nibe",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1533378/salgs-og-indkoebskoordinator"
  },
  {
   "category": "kontor",
@@ -1168,12 +1184,20 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1532175/jurist-til-legal-tech-i-koebenhavn"
  },
  {
-  "category": "kontor",
-  "pub_date": "20-01-2025",
-  "title": "Controller",
-  "company": "Sjørring Maskinfabrik A/S",
-  "location": "Thisted",
-  "job_URL": "https://www.sjorring.com/career?hr=show-job%2F235059%26locale%3Den_US"
+  "category": "oevrige",
+  "pub_date": "23-01-2025",
+  "title": "Kokkeelev søges til fantastisk hotel",
+  "company": "Hotel Bramslevgaard ApS",
+  "location": "Hobro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1533442/kokkeelev-soeges-til-fantastisk-hotel"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "23-01-2025",
+  "title": "Tjenerelev søges til fantastisk hotel",
+  "company": "Hotel Bramslevgaard ApS",
+  "location": "Hobro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1533421/tjenerelev-soeges-til-fantastisk-hotel"
  },
  {
   "category": "oevrige",
@@ -1198,6 +1222,14 @@
   "company": "Ahlsell",
   "location": "Aalborg",
   "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16224"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "23-01-2025",
+  "title": "Studentermedarbejder - Business Tax Services (Aalborg)",
+  "company": "EY",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1533448/studentermedarbejder-business-tax-services-aalborg"
  },
  {
   "category": "oevrige",
@@ -1286,29 +1318,5 @@
   "company": "BAUHAUS",
   "location": "Hjørring",
   "job_URL": "https://bauhausdk.easycruit.com/vacancy/3447535/28568?iso=dk"
- },
- {
-  "category": "oevrige",
-  "pub_date": "21-01-2025",
-  "title": "Start din karriere som trainee inden for Business & Outsourcing – september 2025",
-  "company": "BDO",
-  "location": "København, Kolding, Roskilde, Silkeborg, Herning",
-  "job_URL": "https://jobs.bdo.dk/ad/start-din-karriere-som-trainee-inden-for-business-outsourcing-september-2025/a0x7j9/da"
- },
- {
-  "category": "oevrige",
-  "pub_date": "20-01-2025",
-  "title": "Servicespecialist/kommende studentermedhjælper",
-  "company": "Spar Nord Bank A/S",
-  "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1148&ProjectId=145105&DepartmentId=19200&MediaId=59"
- },
- {
-  "category": "oevrige",
-  "pub_date": "20-01-2025",
-  "title": "Handelselever / Sales Trainees",
-  "company": "Solar Danmark A/S",
-  "location": "Vejen, Brøndby, Svenstrup, Aarhus N eller København",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1532318/handelselever-sales-trainees"
  }
 ]
