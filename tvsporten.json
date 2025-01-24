@@ -1,41 +1,5 @@
 [
  {
-  "match": "Skiskydning World Cup: Sprint (m)",
-  "category": "Skiskydning",
-  "time": "14:30",
-  "date": "2025-01-24",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Argentina – Kap Verde",
-  "category": "VM i håndbold - Herrer",
-  "time": "15:30",
-  "date": "2025-01-24",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Spanien – Portugal",
-  "category": "VM i håndbold - Herrer",
-  "time": "15:30",
-  "date": "2025-01-24",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   }
-  ]
- },
- {
   "match": "2025 Championship League Snooker Invitational",
   "category": "Championship League Snooker",
   "time": "17:30",
