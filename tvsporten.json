@@ -1,29 +1,5 @@
 [
  {
-  "match": "Australian Open 2025 - Semifinaler Mænd",
-  "category": "Australian Open",
-  "time": "09:30",
-  "date": "2025-01-24",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "2025 Championship League Snooker Invitational",
-  "category": "Championship League Snooker",
-  "time": "12:00",
-  "date": "2025-01-24",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Skiskydning World Cup: Sprint (m)",
   "category": "Skiskydning",
   "time": "14:30",
