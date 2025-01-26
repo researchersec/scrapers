@@ -1,57 +1,5 @@
 [
  {
-  "match": "Rolex 24 at Daytona",
-  "category": "IMSA Sportscar Championship",
-  "time": "05:30",
-  "date": "2025-01-26",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Indonesia Masters: Finaler",
-  "category": "BWF World Tour",
-  "time": "07:00",
-  "date": "2025-01-26",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "Ras al Khaimah Championship",
-  "category": "DP World Tour",
-  "time": "09:00",
-  "date": "2025-01-26",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "DP World Tour",
-  "category": "DP World Tour",
-  "time": "09:00",
-  "date": "2025-01-26",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Australian Open 2025 - Finale Mænd",
   "category": "Australian Open",
   "time": "09:30",
