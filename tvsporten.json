@@ -1,49 +1,5 @@
 [
  {
-  "match": "Challenge Mallorca",
-  "category": "UCI Herrer",
-  "time": "15:00",
-  "date": "2025-01-27",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "German Masters",
-  "category": "World Snooker Tour",
-  "time": "15:00",
-  "date": "2025-01-27",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Montpellier: Indledende runder",
-  "category": "ATP",
-  "time": "16:30",
-  "date": "2025-01-27",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
   "match": "AC Venezia – Hellas Verona",
   "category": "Serie A",
   "time": "18:30",
