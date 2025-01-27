@@ -122,29 +122,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
    }
   ]
- },
- {
-  "match": "Edmonton Oilers – Seattle Kraken",
-  "category": "NHL",
-  "time": "03:35",
-  "date": "2025-01-27",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "San Jose Sharks – Pittsburgh Penguins",
-  "category": "NHL",
-  "time": "04:35",
-  "date": "2025-01-27",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
