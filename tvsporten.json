@@ -1,1 +1,150 @@
-[]
+[
+ {
+  "match": "Challenge Mallorca",
+  "category": "UCI Herrer",
+  "time": "15:00",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "German Masters",
+  "category": "World Snooker Tour",
+  "time": "15:00",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Montpellier: Indledende runder",
+  "category": "ATP",
+  "time": "16:30",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "AC Venezia – Hellas Verona",
+  "category": "Serie A",
+  "time": "18:30",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "German Masters",
+  "category": "World Snooker Tour",
+  "time": "20:00",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Annecy – Dunkerque",
+  "category": "Ligue 2",
+  "time": "20:40",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Genoa – Monza",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Burnley FC – Leeds United",
+  "category": "Championship",
+  "time": "21:00",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "CD Alaves – Celta de Vigo",
+  "category": "La Liga",
+  "time": "21:00",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Edmonton Oilers – Seattle Kraken",
+  "category": "NHL",
+  "time": "03:35",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "San Jose Sharks – Pittsburgh Penguins",
+  "category": "NHL",
+  "time": "04:35",
+  "date": "2025-01-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]

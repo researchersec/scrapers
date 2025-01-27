@@ -16,22 +16,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FU13z59aN%2Fp-10.webp&w=100&x1r=0.6537&x2r=0.9891&y1r=0.3983&y2r=0.6894&s=996bc926569a2af5f2500668affbb24b"
  },
  {
-  "link": "/SuperBrugsen/tilbud/Yoggi-yoghurt~o:0vRsVuAfumUgi1IyaRYVg",
-  "price": "12.00",
-  "currency": "DKK",
-  "valid_from": "25-01-2025",
-  "valid_until": "26-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwJyKgxK2%2Fp-5.webp&w=100&x1r=0.0311&x2r=0.5097&y1r=0.1394&y2r=0.5485&s=0877fc97f966904515d91e5313054dc4"
- },
- {
-  "link": "/Kvickly/tilbud/Yoggi-yoghurt~o:NqlURcfvvGKyY07BKSadV",
-  "price": "12.00",
-  "currency": "DKK",
-  "valid_from": "25-01-2025",
-  "valid_until": "26-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLmBUu4GE%2Fp-5.webp&w=100&x1r=0.0311&x2r=0.5097&y1r=0.1394&y2r=0.5485&s=d4851b45bcd63359607a0282dcbd569e"
- },
- {
   "link": "/fotex/tilbud/Yoggi-yoghurt~o:SXQJ9G0-lGh4-nQOmL1I3",
   "price": "15.00",
   "currency": "DKK",
@@ -46,14 +30,6 @@
   "valid_from": "23-01-2025",
   "valid_until": "30-01-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSC-byJHK%2Fp-37.webp&w=100&x1r=0.5127&x2r=0.9747&y1r=0.0164&y2r=0.3172&s=2348cffbf545be7f3b94663530d07adb"
- },
- {
-  "link": "/LET-KOB/tilbud/YOGGI-YOGHURT~o:8b6varRKeXBHvlYQ--E_b",
-  "price": "14.00",
-  "currency": "DKK",
-  "valid_from": "12-01-2025",
-  "valid_until": "26-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJ7jY_RgI%2Fp-8.webp&w=100&x1r=0.0078&x2r=0.4945&y1r=0.1881&y2r=0.894&s=4acc607e6ab947980ec2b1412555bcb2"
  },
  {
   "link": "/Brugsen/tilbud/Cruesli-Kellogg-s-eller-Havrefras-morgenmad~o:hDRQ0i40IZF2Tv2LOtahL",
@@ -120,14 +96,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbsvNClDX%2Fp-14.webp&w=100&x1r=0.5076&x2r=0.9751&y1r=0.7394&y2r=0.9756&s=645808cb96df82d01f6fabf9438986c4"
  },
  {
-  "link": "/LET-KOB/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-CARLSBERG-PILSNER~o:ZttJ7YVv85y-IH6utAniV",
-  "price": "135.00",
-  "currency": "DKK",
-  "valid_from": "12-01-2025",
-  "valid_until": "26-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJ7jY_RgI%2Fp-4.webp&w=100&x1r=0.5012&x2r=0.9829&y1r=0.6621&y2r=0.9833&s=3321484d32f7cc88640355fec65aeb2c"
- },
- {
   "link": "/BorderShop/tilbud/Tuborg-Classic-eller-Pilsner-4-6~o:y8_VXFi654lDJ5e-3VcAB",
   "price": "79.95",
   "currency": "DKK",
@@ -150,5 +118,13 @@
   "valid_from": "30-12-2024",
   "valid_until": "09-02-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-5.webp&w=100&x1r=0.0209&x2r=0.9775&y1r=0.4684&y2r=0.9894&s=94b6333c491da5fa3f3239690c329274"
+ },
+ {
+  "link": "/Kobmandsgarden/tilbud/Tuborg-Classic-Pilsner-Carlsberg-Pilsner-1883~o:N8ZT4UFbIc8msOijtRc_d",
+  "price": "79.00",
+  "currency": "DKK",
+  "valid_from": "05-01-2025",
+  "valid_until": "28-01-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxNiQ2suq%2Fp-9.webp&w=100&x1r=0.0048&x2r=0.9957&y1r=0.0481&y2r=0.9973&s=dc727c22b4221d00162d86be68caeb73"
  }
 ]
