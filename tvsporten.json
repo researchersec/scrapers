@@ -1,45 +1,5 @@
 [
  {
-  "match": "ATP 250 Montpellier: Indledende runder",
-  "category": "ATP",
-  "time": "14:30",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
-  "match": "German Masters",
-  "category": "World Snooker Tour",
-  "time": "15:00",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Algeriet – Bahrain",
-  "category": "VM i håndbold - Herrer",
-  "time": "15:30",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "Ubestemt",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/kanal_tillkommer-100x60_dk.png"
-   }
-  ]
- },
- {
   "match": "Kuwait – Japan",
   "category": "VM i håndbold - Herrer",
   "time": "18:00",
