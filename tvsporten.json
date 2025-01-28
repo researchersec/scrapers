@@ -1,61 +1,5 @@
 [
  {
-  "match": "German Masters",
-  "category": "World Snooker Tour",
-  "time": "10:00",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Clara Tauson - Anhelina Kalinia",
-  "category": "WTA",
-  "time": "12:00",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "AIULa Tour (m)",
-  "category": "UCI Herrer",
-  "time": "12:30",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "VM i håndbold – Cuba",
-  "category": "VM i håndbold - Herrer",
-  "time": "13:00",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "Ubestemt",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/kanal_tillkommer-100x60_dk.png"
-   }
-  ]
- },
- {
   "match": "ATP 250 Montpellier: Indledende runder",
   "category": "ATP",
   "time": "14:30",
@@ -178,8 +122,8 @@
   "date": "2025-01-28",
   "channels": [
    {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+    "name": "DR 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
    }
   ]
  }
