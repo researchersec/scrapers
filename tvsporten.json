@@ -1,1 +1,222 @@
-[]
+[
+ {
+  "match": "German Masters",
+  "category": "World Snooker Tour",
+  "time": "10:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 500 Linz: Indledende runder",
+  "category": "WTA",
+  "time": "12:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "AIULa Tour (m)",
+  "category": "UCI Herrer",
+  "time": "12:30",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "VM i håndbold – Cuba",
+  "category": "VM i håndbold - Herrer",
+  "time": "13:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Ubestemt",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/kanal_tillkommer-100x60_dk.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Montpellier: Indledende runder",
+  "category": "ATP",
+  "time": "14:30",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "German Masters",
+  "category": "World Snooker Tour",
+  "time": "15:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Algeriet – Bahrain",
+  "category": "VM i håndbold - Herrer",
+  "time": "15:30",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Ubestemt",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/kanal_tillkommer-100x60_dk.png"
+   }
+  ]
+ },
+ {
+  "match": "Kuwait – Japan",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Ubestemt",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/kanal_tillkommer-100x60_dk.png"
+   }
+  ]
+ },
+ {
+  "match": "Kroatien – Ungarn",
+  "category": "VM i håndbold - Herrer",
+  "time": "18:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Aalborg Pirates – Odense Bulldogs",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Esbjerg Energy – Rungsted Seier Capital",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "German Masters",
+  "category": "World Snooker Tour",
+  "time": "20:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Polen – USA",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Ubestemt",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/kanal_tillkommer-100x60_dk.png"
+   }
+  ]
+ },
+ {
+  "match": "Frankrig – Egypten",
+  "category": "VM i håndbold - Herrer",
+  "time": "21:00",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Calgary Flames – Washington Capitals",
+  "category": "NHL",
+  "time": "03:05",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Seattle Kraken – Anaheim Ducks",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Vegas Golden Knights – Dallas Stars",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-01-28",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
