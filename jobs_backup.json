@@ -1,6 +1,14 @@
 [
  {
   "category": "it",
+  "pub_date": "28-01-2025",
+  "title": "Salesforce Developer",
+  "company": "Telia Danmark",
+  "location": "Aalborg, Aarhus, or Copenhagen",
+  "job_URL": "https://www.teliacompany.com/en/careers/open-positions/Salesforce-Developer--Telia---Aalborg--Aarhus--Copenhagen_54517-2"
+ },
+ {
+  "category": "it",
   "pub_date": "27-01-2025",
   "title": "IT-kyndig fagansvarlig til Vejdirektoratets vintertjeneste",
   "company": "Vejdirektoratet",
@@ -126,14 +134,6 @@
   "company": "Continia Software A/S",
   "location": "Copenhagen or Nørresundby",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143659&DepartmentId=18974&MediaId=5"
- },
- {
-  "category": "it",
-  "pub_date": "17-01-2025",
-  "title": "Business Central Support Engineer - Document Capture Support Team",
-  "company": "Continia Software A/S",
-  "location": "Copenhagen or Nørresundby",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143670&DepartmentId=18974&MediaId=5"
  },
  {
   "category": "industri",
@@ -350,22 +350,6 @@
   "company": "Nordværk I/S",
   "location": "Aalborg",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143715&DepartmentId=18969&MediaId=4629"
- },
- {
-  "category": "handel",
-  "pub_date": "21-01-2025",
-  "title": "Altiden Knivholtvej søger en kostfaglig eneansvarlig til køkkenet",
-  "company": "Altiden",
-  "location": "Frederikshavn",
-  "job_URL": "https://jobs.altiden.dk/jobs/5454632-altiden-knivholtvej-soeger-en-kostfaglig-eneansvarlig-til-koekkenet?promotion=1308879-jobindex"
- },
- {
-  "category": "handel",
-  "pub_date": "21-01-2025",
-  "title": "Teamleder til Butiksteam - STARK Aalborg",
-  "company": "STARK Danmark",
-  "location": "Aalborg",
-  "job_URL": "https://stark.wd3.myworkdayjobs.com/STARK-Denmark/job/Aalborg/Teamleder-til-Butiksteam----STARK-Aalborg_JR25675"
  },
  {
   "category": "ledelse",
@@ -625,6 +609,22 @@
  },
  {
   "category": "social",
+  "pub_date": "28-01-2025",
+  "title": "Psykiatrisk sygeplejerske søges til børne -og ungeafdeling",
+  "company": "Hejmdal Privathospital A/S",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1534357/psykiatrisk-sygeplejerske-soeges-til-boerne-og-ungeafdeling"
+ },
+ {
+  "category": "social",
+  "pub_date": "28-01-2025",
+  "title": "Visitator i Myndighed Ældre",
+  "company": "Hjørring Kommune",
+  "location": "Hjørring",
+  "job_URL": "https://hjoerring.emply.net/recruitment/vacancyAd.aspx?publishingId=7a0b96cc-968b-496c-a758-72b186e8e65f"
+ },
+ {
+  "category": "social",
   "pub_date": "27-01-2025",
   "title": "Lægesekretær",
   "company": "Lægehuset i Nørager I/S",
@@ -734,14 +734,6 @@
   "company": "Hobro Friplejehjem S/I",
   "location": "Hobro",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1531810/social-og-sundhedsassistent-til-nattevagt"
- },
- {
-  "category": "social",
-  "pub_date": "15-01-2025",
-  "title": "Speciallæge i psykiatri, evt. deltid – samskabelse på et lægefagligt fundament",
-  "company": "Privat Psykiatrisk Center ApS",
-  "location": "Høje-Taastrup, Kongens Lyngby, Ringsted, Odense, Kolding, Silkeborg, Aarhus eller Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1524168/speciallaege-i-psykiatri-evt-deltid-samskabelse-paa-et-laegefagligt-fundament"
  },
  {
   "category": "ingenioer",
@@ -937,6 +929,22 @@
  },
  {
   "category": "kontor",
+  "pub_date": "28-01-2025",
+  "title": "Kontorelev - Bogholderi",
+  "company": "Louis Nielsen A/S",
+  "location": "Aalborg SØ",
+  "job_URL": "https://join.specsavers.com/louis-nielsen/position/kontorelev-bogholderi/"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "28-01-2025",
+  "title": "Shipping Trainee",
+  "company": "NOWACO A/S",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1534267/shipping-trainee"
+ },
+ {
+  "category": "kontor",
   "pub_date": "27-01-2025",
   "title": "Danmarks førende dronevirksomhed søger Management Coordinator",
   "company": "Sky-Watch",
@@ -1048,20 +1056,20 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1533246/bogholder-deltid-25-30-timer-pr-uge"
  },
  {
-  "category": "kontor",
-  "pub_date": "23-01-2025",
-  "title": "Kundeservicemedarbejder",
-  "company": "Cykelgear A/S",
-  "location": "Terndrup",
-  "job_URL": "https://job.cykelgear.dk/jobs/5405964-kundeservicemedarbejder"
+  "category": "oevrige",
+  "pub_date": "28-01-2025",
+  "title": "Kontorelev - Bogholderi",
+  "company": "Louis Nielsen A/S",
+  "location": "Aalborg SØ",
+  "job_URL": "https://join.specsavers.com/louis-nielsen/position/kontorelev-bogholderi/"
  },
  {
-  "category": "kontor",
-  "pub_date": "22-01-2025",
-  "title": "Privatkunderådgiver til Nibe",
-  "company": "Sparekassen Danmark",
-  "location": "Nibe",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1533074/privatkunderaadgiver-til-nibe"
+  "category": "oevrige",
+  "pub_date": "28-01-2025",
+  "title": "Shipping Trainee",
+  "company": "NOWACO A/S",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1534267/shipping-trainee"
  },
  {
   "category": "oevrige",
@@ -1150,29 +1158,5 @@
   "company": "EY",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1533448/studentermedarbejder-business-tax-services-aalborg"
- },
- {
-  "category": "oevrige",
-  "pub_date": "22-01-2025",
-  "title": "Studentermedhjælper til Operations",
-  "company": "Netcompany A/S",
-  "location": "København eller Aalborg",
-  "job_URL": "https://smrtr.io/pccwn"
- },
- {
-  "category": "oevrige",
-  "pub_date": "22-01-2025",
-  "title": "BAUHAUS Hjørring søger salgselever",
-  "company": "BAUHAUS",
-  "location": "Hjørring",
-  "job_URL": "https://bauhausdk.easycruit.com/vacancy/3453993/28568?iso=dk"
- },
- {
-  "category": "oevrige",
-  "pub_date": "22-01-2025",
-  "title": "BAUHAUS Aalborg søger salgselever",
-  "company": "BAUHAUS",
-  "location": "Aalborg SV",
-  "job_URL": "https://bauhausdk.easycruit.com/vacancy/3452907/10038?iso=dk"
  }
 ]
