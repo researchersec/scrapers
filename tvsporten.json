@@ -182,41 +182,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
    }
   ]
- },
- {
-  "match": "Calgary Flames – Washington Capitals",
-  "category": "NHL",
-  "time": "03:05",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Seattle Kraken – Anaheim Ducks",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Vegas Golden Knights – Dallas Stars",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2025-01-28",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
