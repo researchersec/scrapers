@@ -1,17 +1,5 @@
 [
  {
-  "match": "Val Thorens Pro",
-  "category": "Skisport",
-  "time": "08:15",
-  "date": "2025-01-29",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "German Masters",
   "category": "World Snooker Tour",
   "time": "10:00",
