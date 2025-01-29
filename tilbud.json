@@ -32,20 +32,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSC-byJHK%2Fp-37.webp&w=100&x1r=0.5127&x2r=0.9747&y1r=0.0164&y2r=0.3172&s=2348cffbf545be7f3b94663530d07adb"
  },
  {
+  "link": "/Kvickly/tilbud/Quaker-Crueesli-morgenmad~o:ar7p4P7SCOGn3It-Wf-9x",
+  "price": "109.00",
+  "currency": "DKK",
+  "valid_from": "30-01-2025",
+  "valid_until": "06-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FykouMbPf%2Fp-45.webp&w=100&x1r=0&x2r=0.6801&y1r=0.0065&y2r=0.4574&s=3881dc06a8aabccddb9a554f198be965"
+ },
+ {
   "link": "/Brugsen/tilbud/Cruesli-Kellogg-s-eller-Havrefras-morgenmad~o:hDRQ0i40IZF2Tv2LOtahL",
   "price": "25.00",
   "currency": "DKK",
   "valid_from": "16-01-2025",
   "valid_until": "30-01-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_S2xL41r%2Fp-1.webp&w=100&x1r=0.0265&x2r=0.9982&y1r=0.6857&y2r=0.9882&s=1cdd01e49ad55c259b9501026975410d"
- },
- {
-  "link": "/Calle/tilbud/Quaker-Cruesli~o:fHM1stzrRm5CdAF2Yk21t",
-  "price": "28.00",
-  "currency": "DKK",
-  "valid_from": "01-01-2025",
-  "valid_until": "28-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRTD-keml%2Fp-8.webp&w=100&x1r=0.0101&x2r=0.9804&y1r=0.0135&y2r=0.4544&s=1c99637c7b861191f716ccb14b79cdb6"
  },
  {
   "link": "/Bilka/tilbud/Tuborg-Classic-Gron-Tuborg-eller-Carlsberg-Pilsner~o:k8cybIp4UVKKC0YsYqepP",
@@ -120,11 +120,11 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-20.webp&w=100&x1r=0.0307&x2r=0.4121&y1r=0.2437&y2r=0.4929&s=2faf86a6f4ffea5e2d77a4ca2e8b94b2"
  },
  {
-  "link": "/Kobmandsgarden/tilbud/Tuborg-Classic-Pilsner-Carlsberg-Pilsner-1883~o:N8ZT4UFbIc8msOijtRc_d",
-  "price": "79.00",
+  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:x6xs2QzT_5FDjybSMxj5E",
+  "price": "84.99",
   "currency": "DKK",
-  "valid_from": "05-01-2025",
-  "valid_until": "28-01-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxNiQ2suq%2Fp-9.webp&w=100&x1r=0.0048&x2r=0.9957&y1r=0.0481&y2r=0.9973&s=dc727c22b4221d00162d86be68caeb73"
+  "valid_from": "28-01-2025",
+  "valid_until": "25-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKAawNGrl%2Fp-13.webp&w=100&x1r=0.4254&x2r=0.9497&y1r=0.0111&y2r=0.1603&s=e56a07015f4f5f6882eef34277783361"
  }
 ]
