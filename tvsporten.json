@@ -1,49 +1,5 @@
 [
  {
-  "match": "German Masters",
-  "category": "World Snooker Tour",
-  "time": "10:00",
-  "date": "2025-01-29",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "WTA 500 Linz: Indledende runder",
-  "category": "WTA",
-  "time": "12:00",
-  "date": "2025-01-29",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
-  "match": "AIULa Tour (m)",
-  "category": "UCI Herrer",
-  "time": "12:30",
-  "date": "2025-01-29",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "ATP 250 Montpellier: Indledende runder",
   "category": "ATP",
   "time": "14:30",
@@ -84,6 +40,18 @@
    {
     "name": "Max",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Clara Tauson🇩🇰 - Sorana Cirstea",
+  "category": "WTA",
+  "time": "16:00",
+  "date": "2025-01-29",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
    }
   ]
  },
