@@ -120,14 +120,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FawqcX_-Y%2Fp-19.webp&w=100&x1r=0.6528&x2r=0.9933&y1r=0.6889&y2r=0.9752&s=b9b10d27f1c6c02436451b57c778c419"
  },
  {
-  "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Sprod~o:y0PSquPBKHbBzDNfQY6t9",
-  "price": "72.00",
-  "currency": "DKK",
-  "valid_from": "31-01-2025",
-  "valid_until": "28-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fb7fglXY2%2Fp-2.webp&w=100&x1r=0.5095&x2r=0.9653&y1r=0.704&y2r=0.9633&s=04fba64a2e126475c118c1ae32235fe1"
- },
- {
   "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:5pUaHxGbXtnavH_2pbDXR",
   "price": "135.00",
   "currency": "DKK",
@@ -136,11 +128,19 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJLp8S9vN%2Fp-20.webp&w=100&x1r=0.3544&x2r=0.9452&y1r=0.7116&y2r=0.9595&s=c8f2d5aed4cbef1a4810f3754980d6bb"
  },
  {
-  "link": "/Min-Kobmand/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Sprod~o:ge712jD5HL1B-ppPvwBxa",
+  "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Sprod~o:y0PSquPBKHbBzDNfQY6t9",
   "price": "72.00",
   "currency": "DKK",
   "valid_from": "31-01-2025",
   "valid_until": "28-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fh_m6cTEs%2Fp-2.webp&w=100&x1r=0.5053&x2r=0.9809&y1r=0.7025&y2r=0.9769&s=7a0bb15560b0a2c853e46a1b72b32b38"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fb7fglXY2%2Fp-2.webp&w=100&x1r=0.5095&x2r=0.9653&y1r=0.704&y2r=0.9633&s=04fba64a2e126475c118c1ae32235fe1"
+ },
+ {
+  "link": "/Min-Kobmand/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:9EVpXmTME00KrTmta0pDK",
+  "price": "135.00",
+  "currency": "DKK",
+  "valid_from": "24-01-2025",
+  "valid_until": "30-01-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbsvNClDX%2Fp-14.webp&w=100&x1r=0.5076&x2r=0.9751&y1r=0.7394&y2r=0.9756&s=645808cb96df82d01f6fabf9438986c4"
  }
 ]
