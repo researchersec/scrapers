@@ -1,1 +1,478 @@
-[]
+[
+ {
+  "match": "WTA 250 Singapore: Indledende runder",
+  "category": "WTA",
+  "time": "07:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "DP World Tour",
+  "category": "DP World Tour",
+  "time": "09:30",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "AIULa Tour (m)",
+  "category": "UCI Herrer",
+  "time": "12:30",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 500 Linz: Indledende runder",
+  "category": "WTA",
+  "time": "14:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Challenge Mallorca (m)",
+  "category": "UCI Herrer",
+  "time": "14:30",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Montpellier: Indledende runder",
+  "category": "ATP",
+  "time": "14:30",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "German Masters",
+  "category": "World Snooker Tour",
+  "time": "15:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "LPGA Tour",
+  "category": "LPGA",
+  "time": "17:30",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Værløse Blue Hawks – Amager",
+  "category": "Basketligaen",
+  "time": "19:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Sport Live",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
+   }
+  ]
+ },
+ {
+  "match": "World Darts Masters",
+  "category": "World Cup of Darts",
+  "time": "20:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "German Masters",
+  "category": "World Snooker Tour",
+  "time": "20:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Paris Basketball – Adecco Asvel Basket",
+  "category": "Euroleague",
+  "time": "20:30",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Kroatien – Frankrig",
+  "category": "VM i håndbold - Herrer",
+  "time": "20:30",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Fenerbahce – FC Midtjylland",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Dynamo Kyiv – RFS",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Tottenham Hotspur – IF Elfsborg",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Maccabi Tel Aviv – Eintracht Frankfurt",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Sk Slavia Praha – Malmö FF",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "AS Roma – Eintracht Frankfurt",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Ajax – Galatasaray",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Lyon – Ludogorets",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Athletic Bilbao – FC Viktoria Plzen",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Rsc Anderlecht – 1899 Hoffenheim",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Sporting Braga – SS Lazio",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Rangers – Union Saint-gilloise",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Ferencvarosi Tc – AZ Alkmaar",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "PGA Tour - Pebble Beach Tournament",
+  "category": "PGA",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Twente – Besiktas Jk",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Real Sociedad – Paok Thessaloniki",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "FCSB – Manchester United",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Nice – Bodø/Glimt",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Olympiakos – Qarabag FK",
+  "category": "Europa League",
+  "time": "21:00",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Edmonton Oilers – Detroit Red Wings",
+  "category": "NHL",
+  "time": "03:05",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Calgary Flames – Anaheim Ducks",
+  "category": "NHL",
+  "time": "03:05",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Memphis Grizzlies – Houston Rockets",
+  "category": "NBA",
+  "time": "03:30",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Vegas Golden Knights – Columbus Blue Jackets",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Seattle Kraken – San Jose Sharks",
+  "category": "NHL",
+  "time": "04:35",
+  "date": "2025-01-30",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
