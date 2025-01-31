@@ -1,49 +1,5 @@
 [
  {
-  "match": "DP World Tour",
-  "category": "DP World Tour",
-  "time": "09:30",
-  "date": "2025-01-31",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "AIUla Tour (m)",
-  "category": "UCI Herrer",
-  "time": "12:30",
-  "date": "2025-01-31",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "WTA 500 Linz: Kvartfinale",
-  "category": "WTA",
-  "time": "13:00",
-  "date": "2025-01-31",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
   "match": "Challenge Mallorca (m)",
   "category": "UCI Herrer",
   "time": "14:30",
