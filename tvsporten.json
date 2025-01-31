@@ -1,17 +1,5 @@
 [
  {
-  "match": "WTA 250 Singapore: Kvartfinale",
-  "category": "WTA",
-  "time": "07:00",
-  "date": "2025-01-31",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
   "match": "DP World Tour",
   "category": "DP World Tour",
   "time": "09:30",
