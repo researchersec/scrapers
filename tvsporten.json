@@ -726,17 +726,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
- },
- {
-  "match": "Seattle Kraken – Calgary Flames",
-  "category": "NHL",
-  "time": "03:05",
-  "date": "2025-02-02",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
