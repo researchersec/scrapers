@@ -268,20 +268,20 @@
   "category": "Erhverv"
  },
  {
+  "title": "Tidligere folketingsmedlemmer har karantæne på livstid på værtshus",
+  "description": "De to tidligere politikere ejede indtil sidste år værtshuset, hvor de nu har karantæne på livstid",
+  "link": "https://nordjyske.dk/nyheder/mariagerfjord/tidligere-folketingsmedlemmer-har-livstidskarantaene-fra-vaertshus/5405738?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 01 Feb 2025 20:36:28 Z",
+  "guid": "dc1e58c4-98f7-4ccb-8868-02bd263d1e1e",
+  "category": "Politik"
+ },
+ {
   "title": "Børn er ofte mere aktive end en Superliga-fodboldspiller. Derfor skal du være opmærksom",
   "description": "Store ambitioner kan være lig med skader, og håndteres de ikke korrekt, kan det have store konsekvenser",
   "link": "https://nordjyske.dk/nyheder/sport/ledende-overlaege-smertestillende-medicin-til-boern-der-dyrker-sport-kan-forvaerre-skader/5384447?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sat, 01 Feb 2025 18:03:45 Z",
   "guid": "a0f885c8-4b14-4072-b8cd-1c717af50c56",
   "category": "Forældre på sidelinjen"
- },
- {
-  "title": "Bliver der scoret endnu flere millioner før lukketid? Følg Deadline Day live på nordjyske.dk",
-  "description": "AaB har solgt spillere for mere end 40 millioner i januar. Vi går tæt på transfervinduet og lukker det med et liveshow på nordjyske.dk",
-  "link": "https://nordjyske.dk/nyheder/sport/bliver-der-scoret-endnu-flere-millioner-foer-lukketid-foelg-deadline-day-live-paa-nordjyske-dk/5402382?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 01 Feb 2025 19:17:14 Z",
-  "guid": "318ec12d-4bf9-46ab-b075-ae146ba145da",
-  "category": "fodboldtransfer"
  },
  {
   "title": "Mand er død efter voldsom brand i midtby",
@@ -298,6 +298,14 @@
   "published": "Sat, 01 Feb 2025 04:53:42 Z",
   "guid": "a7c8322f-d542-4863-a4fc-7225a9b421f7",
   "category": "Familieliv"
+ },
+ {
+  "title": "AaB's bedste transfervindue nogensinde? Følg Deadline Day live på nordjyske.dk",
+  "description": "AaB har solgt spillere for mere end 40 millioner i januar. Vi går tæt på transfervinduet og lukker det med et liveshow på nordjyske.dk",
+  "link": "https://nordjyske.dk/nyheder/sport/bliver-der-scoret-endnu-flere-millioner-foer-lukketid-foelg-deadline-day-live-paa-nordjyske-dk/5402382?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 01 Feb 2025 19:17:14 Z",
+  "guid": "318ec12d-4bf9-46ab-b075-ae146ba145da",
+  "category": "fodboldtransfer"
  },
  {
   "title": "Hun troede kun, at den slags skete for naboen. Men pludselig var hun ikke i stand til at stå ud af sengen",
@@ -322,22 +330,6 @@
   "published": "Sat, 01 Feb 2025 10:03:23 Z",
   "guid": "3b4d5215-0ca2-4f70-b702-79195abab1a5",
   "category": "Bandekriminalitet"
- },
- {
-  "title": "Udlover dusør efter hærværk: - Vi står med en følelse af afmagt",
-  "description": "Nordjysk klub er vågnet op til en ordentlig pløjebane - udlover nu kontant dusør, hvis man har oplysninger, der kan føre til gerningsmand",
-  "link": "https://nordjyske.dk/nyheder/aalborg/hvem-parkerede-bussen-saa-primitivt/5405380?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 01 Feb 2025 11:12:02 Z",
-  "guid": "aba0ae8c-854a-4cb4-adf5-1d374d65034d",
-  "category": "Hærværk"
- },
- {
-  "title": "Mødet med deres berømte frontfigur har givet en oplevelse for livet",
-  "description": "Vendsyssel FF får oplevelser i alle afskygninger under besøget i Colombia",
-  "link": "https://nordjyske.dk/nyheder/sport/moedet-med-deres-beroemte-frontfigur-har-givet-en-oplevelse-for-livet/5404248?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 01 Feb 2025 16:51:26 Z",
-  "guid": "d610505e-c19c-4aea-b2f6-e429dd0a9a0f",
-  "category": "Fodbold"
  },
  {
   "title": "Advokaten har nu fået bøder for 100.000 kroner. Tre søskende står fanget i et limbo",
@@ -370,6 +362,22 @@
   "published": "Thu, 30 Jan 2025 18:06:22 Z",
   "guid": "b3692285-5283-4f33-bc9e-d8c868aebae8",
   "category": "Parkeringsbøder"
+ },
+ {
+  "title": "Udlover dusør efter hærværk: - Vi står med en følelse af afmagt",
+  "description": "Nordjysk klub er vågnet op til en ordentlig pløjebane - udlover nu kontant dusør, hvis man har oplysninger, der kan føre til gerningsmand",
+  "link": "https://nordjyske.dk/nyheder/aalborg/hvem-parkerede-bussen-saa-primitivt/5405380?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 01 Feb 2025 11:12:02 Z",
+  "guid": "aba0ae8c-854a-4cb4-adf5-1d374d65034d",
+  "category": "Hærværk"
+ },
+ {
+  "title": "Mødet med deres berømte frontfigur har givet en oplevelse for livet",
+  "description": "Vendsyssel FF får oplevelser i alle afskygninger under besøget i Colombia",
+  "link": "https://nordjyske.dk/nyheder/sport/moedet-med-deres-beroemte-frontfigur-har-givet-en-oplevelse-for-livet/5404248?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 01 Feb 2025 16:51:26 Z",
+  "guid": "d610505e-c19c-4aea-b2f6-e429dd0a9a0f",
+  "category": "Fodbold"
  },
  {
   "title": "Tabte trailer i tunnelen - skabte lang kø",
@@ -410,13 +418,5 @@
   "published": "Sat, 01 Feb 2025 04:55:22 Z",
   "guid": "f49a0a49-df87-457c-bbd4-2a29696506e5",
   "category": "Bolig"
- },
- {
-  "title": "Vi prøvede en helaftensmenu uden vin – og blev ikke skuffede",
-  "description": "Kendt spisested er god til drikkevarer uden alkohol - og det sætter flere og flere pris på",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/himmelsk-fisk-og-saft-med-peberrod-her-bliver-du-positivt-overrasket-naar-du-fravaelger-vin-til-maden/5398309?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 01 Feb 2025 08:10:22 Z",
-  "guid": "128c943d-1f9e-47e3-b92b-76436b08884c",
-  "category": "Madanmeldelser"
  }
 ]

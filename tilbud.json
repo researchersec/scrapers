@@ -1,13 +1,5 @@
 [
  {
-  "link": "/REMA-1000/tilbud/Yoggi-med-vanilje-med-appelsin-eller-Airy-skyr-med-jordbaer-128-166-g~o:nNjSMrG9kg-KMnbUhddLm",
-  "price": "5.00",
-  "currency": "DKK",
-  "valid_from": "25-01-2025",
-  "valid_until": "01-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7hhdLC5L%2Fp-1.webp&w=100&x1r=0.4962&x2r=0.9859&y1r=0.4199&y2r=0.687&s=a9c4d0b1c1e8da6909f444149d970166"
- },
- {
   "link": "/Min-Kobmand/tilbud/Yoggi-Yoghurt~o:euMAgX4G8ev2uzPV-iO0T",
   "price": "12.00",
   "currency": "DKK",
@@ -30,14 +22,6 @@
   "valid_from": "30-01-2025",
   "valid_until": "06-02-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmEk5AErd%2Fp-43.webp&w=100&x1r=0&x2r=0.6794&y1r=0.0065&y2r=0.4572&s=05d3526160b7ae6c26d137635f1133ac"
- },
- {
-  "link": "/REMA-1000/tilbud/Tuborg-Classic-Gron-Tuborg-eller-Tuborg-0.0-33-cl.-Ex.-pant~o:VGvBmPubVhYbRaUesMXkB",
-  "price": "4.50",
-  "currency": "DKK",
-  "valid_from": "25-01-2025",
-  "valid_until": "01-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7hhdLC5L%2Fp-6.webp&w=100&x1r=0.0114&x2r=0.5064&y1r=0.0068&y2r=0.5&s=4bfd1afec3f72edb2410706c96e7b49e"
  },
  {
   "link": "/fotex/tilbud/Carlsberg-Gron-Tuborg-eller-Tuborg-Classic-flasker~o:XpZqlKfHZhFpXOXOdhqnm",
@@ -110,5 +94,13 @@
   "valid_from": "30-12-2024",
   "valid_until": "09-02-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-20.webp&w=100&x1r=0.0307&x2r=0.4121&y1r=0.2437&y2r=0.4929&s=2faf86a6f4ffea5e2d77a4ca2e8b94b2"
+ },
+ {
+  "link": "/BorderShop/tilbud/Gron-Tuborg-Pilsner-eller-Tuborg-Classic~o:cK0NfBTX4yAMng8hrvOXk",
+  "price": "79.95",
+  "currency": "DKK",
+  "valid_from": "09-02-2025",
+  "valid_until": "11-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FOlESYynQ%2Fp-1.webp&w=100&x1r=0.2335&x2r=0.6175&y1r=0.126&y2r=0.374&s=074b3a62733813d35f157f9c9d535243"
  }
 ]
