@@ -1,20 +1,20 @@
 [
  {
-  "match": "WTA 500 Abu Dhabi: Indledende runder",
-  "category": "WTA",
-  "time": "10:00",
+  "match": "VM Herrehåndbold: Guldfejring🏆",
+  "category": "VM i håndbold - Herrer",
+  "time": "14:00",
   "date": "2025-02-03",
   "channels": [
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.png"
    }
   ]
  },
  {
-  "match": "ATP 500 Rotterdam: Indledende runder",
+  "match": "ATP 500 Rotterdam: Tsitsipas - Mayot",
   "category": "ATP",
-  "time": "13:00",
+  "time": "15:00",
   "date": "2025-02-03",
   "channels": [
    {
@@ -36,7 +36,7 @@
   ]
  },
  {
-  "match": "ATP 500 Rotterdam: Indledende runder",
+  "match": "ATP 500 Rotterdam: Wawrinka - Medvedev",
   "category": "ATP",
   "time": "19:30",
   "date": "2025-02-03",
