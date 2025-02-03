@@ -1,29 +1,5 @@
 [
  {
-  "match": "VM Herrehåndbold: Guldfejring🏆",
-  "category": "VM i håndbold - Herrer",
-  "time": "14:00",
-  "date": "2025-02-03",
-  "channels": [
-   {
-    "name": "TV2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2hovedkanalen_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "ATP 500 Rotterdam: Tsitsipas - Mayot",
-  "category": "ATP",
-  "time": "15:00",
-  "date": "2025-02-03",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
   "match": "ATP 250 Dallas: Indledende runder",
   "category": "ATP",
   "time": "19:00",
