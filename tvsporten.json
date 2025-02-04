@@ -1,8 +1,8 @@
 [
  {
-  "match": "WTA 500 Abu Dhabi: Indledende runder",
-  "category": "WTA",
-  "time": "10:00",
+  "match": "ATP 500 Rotterdam: Indledende runder",
+  "category": "ATP",
+  "time": "14:00",
   "date": "2025-02-04",
   "channels": [
    {
@@ -12,26 +12,14 @@
   ]
  },
  {
-  "match": "Holger Rune - Lorenzo Sonego",
+  "match": "ATP 500 Rotterdam: Rublev - Zhang",
   "category": "ATP",
-  "time": "11:00",
+  "time": "15:00",
   "date": "2025-02-04",
   "channels": [
    {
     "name": "TV2 Sport X",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "2025 Championship League Snooker Invitational",
-  "category": "Championship League Snooker",
-  "time": "12:00",
-  "date": "2025-02-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  },
@@ -124,6 +112,18 @@
   ]
  },
  {
+  "match": "ATP 500 Rotterdam: Alcaraz - Van De Zandschulp",
+  "category": "ATP",
+  "time": "19:30",
+  "date": "2025-02-04",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
   "match": "Panathinaikos – Fenerbahce",
   "category": "Euroleague",
   "time": "20:10",
@@ -132,6 +132,18 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Holger Rune - Lorenzo Sonego",
+  "category": "ATP",
+  "time": "21:30",
+  "date": "2025-02-04",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
    }
   ]
  }
