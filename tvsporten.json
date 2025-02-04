@@ -1,17 +1,5 @@
 [
  {
-  "match": "Ras al Khaimah Championship",
-  "category": "DP World Tour",
-  "time": "09:00",
-  "date": "2025-02-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "WTA 500 Abu Dhabi: Indledende runder",
   "category": "WTA",
   "time": "10:00",
