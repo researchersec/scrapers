@@ -1,13 +1,197 @@
 [
  {
-  "match": "Holger Rune - Lorenzo Sonego",
+  "match": "WTA 500 Abu Dhabi: Indledende runder",
+  "category": "WTA",
+  "time": "08:00",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 500 Rotterdam: Indledende runder",
   "category": "ATP",
-  "time": "21:30",
-  "date": "2025-02-04",
+  "time": "11:00",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "2025 Championship League Snooker Invitational",
+  "category": "Championship League Snooker",
+  "time": "12:00",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Africa Amateur Championship",
+  "category": "LIV Golf",
+  "time": "12:00",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Exact Cross (k)",
+  "category": "Cykelcross",
+  "time": "13:40",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Exact Cross (m)",
+  "category": "Cykelcross",
+  "time": "14:55",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Valencia Rundt (m)",
+  "category": "UCI Herrer",
+  "time": "16:05",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "2025 Championship League Snooker Invitational",
+  "category": "Championship League Snooker",
+  "time": "17:30",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 500 Dallas: Indledende runder",
+  "category": "ATP",
+  "time": "19:00",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 500 Rotterdam: Indledende runder",
+  "category": "ATP",
+  "time": "19:30",
+  "date": "2025-02-05",
   "channels": [
    {
     "name": "TV2 Sport X",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Aarhus United – Ikast Håndbold",
+  "category": "Bambusa Kvindeligaen",
+  "time": "20:00",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Paris Basketball – Olympiakos Pireus",
+  "category": "Euroleague",
+  "time": "20:25",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Newcastle United – Arsenal FC",
+  "category": "League Cup",
+  "time": "20:55",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Chicago Blackhawks – Edmonton Oilers",
+  "category": "NHL",
+  "time": "03:35",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Los Angeles Kings – Montreal Canadiens",
+  "category": "NHL",
+  "time": "04:35",
+  "date": "2025-02-05",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  }
