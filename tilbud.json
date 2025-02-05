@@ -56,20 +56,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FePzHcQ5K%2Fp-43.webp&w=100&x1r=0.4735&x2r=0.9835&y1r=0.3127&y2r=0.7172&s=a2439878adc1a27fd604a98c0b5d634a"
  },
  {
-  "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-TUBORG-SPROD~o:RNWYBn2Ee4l30Y7eYlU4n",
+  "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-TUBORG-SPROD~o:eYY-KKZlOMAq2XrBb4uhc",
   "price": "72.00",
   "currency": "DKK",
   "valid_from": "31-01-2025",
   "valid_until": "28-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FdYkMmIcs%2Fp-15.webp&w=100&x1r=0.4581&x2r=0.9768&y1r=0.6623&y2r=0.9725&s=1788b57acbf01d06b0d0d97f56d9d6ae"
- },
- {
-  "link": "/MENY/tilbud/GRON-TUBORG-ELLER-TUBORG-CLASSIC-ALKOHOLFRI~o:lcpENtoBcdX2QoCE00h4Z",
-  "price": "35.00",
-  "currency": "DKK",
-  "valid_from": "06-02-2025",
-  "valid_until": "13-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-32.webp&w=100&x1r=0.261&x2r=0.5751&y1r=0.3611&y2r=0.6384&s=fcd22440d051498b04d12f9014844308"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-34.webp&w=100&x1r=0.5077&x2r=0.9962&y1r=0.6657&y2r=0.9581&s=c74bf3d758a86c66136809ef80d39d7b"
  },
  {
   "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-CARLSBERG-PILSNER~o:VGQjb-KPNUFoxPOz1WrzB",
@@ -80,6 +72,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-39.webp&w=100&x1r=0.5052&x2r=0.9799&y1r=0.6163&y2r=0.914&s=e06d3112dd757c532e706106c05af3bc"
  },
  {
+  "link": "/MENY/tilbud/GRON-TUBORG-ELLER-TUBORG-CLASSIC-ALKOHOLFRI~o:lcpENtoBcdX2QoCE00h4Z",
+  "price": "35.00",
+  "currency": "DKK",
+  "valid_from": "06-02-2025",
+  "valid_until": "13-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-32.webp&w=100&x1r=0.261&x2r=0.5751&y1r=0.3611&y2r=0.6384&s=fcd22440d051498b04d12f9014844308"
+ },
+ {
   "link": "/Netto/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Classic-alkoholfri~o:9J-ZiIAd7ynqU_a3C1mHw",
   "price": "79.00",
   "currency": "DKK",
@@ -88,12 +88,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FawqcX_-Y%2Fp-19.webp&w=100&x1r=0.6528&x2r=0.9933&y1r=0.6889&y2r=0.9752&s=b9b10d27f1c6c02436451b57c778c419"
  },
  {
-  "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Sprod~o:haoHKOehb-PVD5xbQoAYi",
+  "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Sprod~o:y0PSquPBKHbBzDNfQY6t9",
   "price": "72.00",
   "currency": "DKK",
   "valid_from": "31-01-2025",
   "valid_until": "28-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc0_iiunz%2Fp-21.webp&w=100&x1r=0.6454&x2r=0.9719&y1r=0.2808&y2r=0.4999&s=ae8934532f4d44e7281fb3737a2b8a04"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fb7fglXY2%2Fp-2.webp&w=100&x1r=0.5095&x2r=0.9653&y1r=0.704&y2r=0.9633&s=04fba64a2e126475c118c1ae32235fe1"
  },
  {
   "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:G9LV5HzKp6dPHSgvqC12U",
