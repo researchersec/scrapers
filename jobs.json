@@ -161,6 +161,14 @@
  },
  {
   "category": "industri",
+  "pub_date": "06-02-2025",
+  "title": "Automation Engineer",
+  "company": "DESMI Danmark A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=4506&joblistId=1&lang=en"
+ },
+ {
+  "category": "industri",
   "pub_date": "05-02-2025",
   "title": "Lagerforvalter til kornlager",
   "company": "Aurion A/S",
@@ -210,10 +218,10 @@
  {
   "category": "industri",
   "pub_date": "05-02-2025",
-  "title": "Produktionsmedarbejder",
+  "title": "Produktionsmedarbejder til tyndpladebearbejdning",
   "company": "Flair",
   "location": "Aalborg Øst",
-  "job_URL": "https://www.flair.dk/ledige-stillinger/produktionsmedarbejder-til-oerbaek-ventilation-i-aalborg/?id=238890&utm_source=jobindex&utm_medium=banner&utm_campaign=profilad"
+  "job_URL": "https://www.flair.dk/ledige-stillinger/produktionsmedarbejder-til-tyndpladebearbejdning-i-aalborg/?id=238890"
  },
  {
   "category": "industri",
@@ -262,14 +270,6 @@
   "company": "Lineage",
   "location": "Hirtshals",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1536209/frysehusmedarbejder-m-k"
- },
- {
-  "category": "industri",
-  "pub_date": "03-02-2025",
-  "title": "Sælger med el-teknisk baggrund",
-  "company": "Lemvigh-Müller A/S",
-  "location": "Aalborg, Aarhus, Herlev, Kolding eller Slagelse",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1532435/saelger-med-el-teknisk-baggrund"
  },
  {
   "category": "handel",
@@ -393,19 +393,11 @@
  },
  {
   "category": "ledelse",
-  "pub_date": "31-01-2025",
-  "title": "Butikschef til Land & Fritid",
-  "company": "Land & Fritid",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=363&ProjectId=189107&DepartmentId=22874&MediaId=5"
- },
- {
-  "category": "ledelse",
-  "pub_date": "31-01-2025",
-  "title": "Projektleder",
-  "company": "Vils Entreprenørforretning A/S",
-  "location": "Vils eller Viborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1535727/projektleder"
+  "pub_date": "06-02-2025",
+  "title": "People & Payroll Administrator (part time)",
+  "company": "AGITO Medical A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1536512/people-payroll-administrator-part-time"
  },
  {
   "category": "ledelse",
@@ -414,6 +406,14 @@
   "company": "Eurowind Energy A/S",
   "location": "Hobro",
   "job_URL": "https://eurowindenergy.com/uk/career?hr=show-job/233830&locale=en_US#hrskyen"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "06-02-2025",
+  "title": "HR Coordinator",
+  "company": "Shaping New Tomorrow",
+  "location": "Aalborg",
+  "job_URL": "https://career.shapingnewtomorrow.com/jobs/5511706-hr-coordinator"
  },
  {
   "category": "ledelse",
@@ -737,11 +737,19 @@
  },
  {
   "category": "ingenioer",
-  "pub_date": "05-02-2025",
-  "title": "HSE Coordinator",
-  "company": "DESMI Pumping Technology A/S",
+  "pub_date": "06-02-2025",
+  "title": "Automation Engineer",
+  "company": "DESMI Danmark A/S",
   "location": "Nørresundby",
-  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3501&joblistId=1&lang=en"
+  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=4506&joblistId=1&lang=en"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "06-02-2025",
+  "title": "Environmental Supervisor",
+  "company": "Essentia Protein Solutions",
+  "location": "Hobro, Gråsten",
+  "job_URL": "https://essentia-cand.talent-soft.com/job/job-essentia-protein-solutions-s-ger-en-environmental-supervisor_165.aspx"
  },
  {
   "category": "ingenioer",
@@ -840,22 +848,6 @@
   "job_URL": "https://ballisager.recruitio.dk/selection/montage_og_kvalitetschef_til_bobach_stalentreprise-7015/?lang=da&from=Jobindex"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "03-02-2025",
-  "title": "Projektchef",
-  "company": "MatchMind",
-  "location": "Nibe",
-  "job_URL": "https://matchmind.dk/ledige-jobs?hr=show-job/236967&linkref=267977&locale=da_DK"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "03-02-2025",
-  "title": "Konstruktør / Mechanical Design Engineer",
-  "company": "Danfotech Middleby Denmark, Filial af Danfotech INC., USA",
-  "location": "Aalborg SØ",
-  "job_URL": "https://htkconsult.reqruiting.com/Job.aspx?id=22681"
- },
- {
   "category": "salg",
   "pub_date": "05-02-2025",
   "title": "Iværksætterkonsulent",
@@ -950,6 +942,14 @@
   "company": "Lemvigh-Müller A/S",
   "location": "Aalborg, Aarhus, Herlev, Kolding eller Slagelse",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1532435/saelger-med-el-teknisk-baggrund"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "06-02-2025",
+  "title": "People & Payroll Administrator (part time)",
+  "company": "AGITO Medical A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1536512/people-payroll-administrator-part-time"
  },
  {
   "category": "kontor",
@@ -1054,6 +1054,14 @@
   "company": "Carmo Foods A/S",
   "location": "Aalborg SV",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1536694/regnskabsmedarbejder"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "06-02-2025",
+  "title": "Bliv salgselev",
+  "company": "Louis Nielsen A/S",
+  "location": "Thisted",
+  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2220/salgselev-til-louis-nielsen-thisted"
  },
  {
   "category": "oevrige",

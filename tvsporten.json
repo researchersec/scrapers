@@ -64,18 +64,6 @@
   ]
  },
  {
-  "match": "Holger Rune - Pedro Martinez",
-  "category": "ATP",
-  "time": "11:00",
-  "date": "2025-02-06",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
   "match": "Ski: World Championship",
   "category": "Skisport",
   "time": "11:20",
@@ -288,6 +276,18 @@
    {
     "name": "Sport Live",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Holger Rune - Pedro Martinez",
+  "category": "ATP",
+  "time": "21:30",
+  "date": "2025-02-06",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
    }
   ]
  },
