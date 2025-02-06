@@ -1,49 +1,5 @@
 [
  {
-  "match": "Valencia Rundt (m)",
-  "category": "UCI Herrer",
-  "time": "15:30",
-  "date": "2025-02-06",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "LPGA Tour",
-  "category": "LPGA",
-  "time": "17:00",
-  "date": "2025-02-06",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Founders Cup",
-  "category": "LPGA",
-  "time": "17:00",
-  "date": "2025-02-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Freestyle (D/M) Big Air",
   "category": "Skisport",
   "time": "17:50",

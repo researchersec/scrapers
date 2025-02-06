@@ -49,19 +49,19 @@
  },
  {
   "category": "it",
-  "pub_date": "30-01-2025",
-  "title": "IT Consultant",
-  "company": "Netcompany A/S",
-  "location": "København, Aarhus eller Aalborg",
-  "job_URL": "https://smrtr.io/nkFdB"
- },
- {
-  "category": "it",
   "pub_date": "06-02-2025",
   "title": "Serviceminded IT-supporter",
   "company": "Carsoe",
   "location": "Aalborg Øst",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2042&ProjectId=143753&DepartmentId=18956&MediaId=4617"
+ },
+ {
+  "category": "it",
+  "pub_date": "06-02-2025",
+  "title": "Development Manager søges til hardware/mekanik udviklingsteam",
+  "company": "Hviid & Larsen ApS",
+  "location": "Aars",
+  "job_URL": "https://www.hviidoglarsen.dk/jobs?hr=show-job/239176&linkref=269908&locale=da_DK"
  },
  {
   "category": "it",
@@ -177,6 +177,14 @@
  },
  {
   "category": "industri",
+  "pub_date": "06-02-2025",
+  "title": "Key Account Manager med ambitioner søges",
+  "company": "Duelco A/S",
+  "location": "Aalborg SV",
+  "job_URL": "https://www.jobindex.dk/img/pdf/keyaccountmanager_wind.pdf"
+ },
+ {
+  "category": "industri",
   "pub_date": "05-02-2025",
   "title": "Lagerforvalter til kornlager",
   "company": "Aurion A/S",
@@ -232,46 +240,6 @@
   "job_URL": "https://www.flair.dk/ledige-stillinger/produktionsmedarbejder-til-tyndpladebearbejdning-i-aalborg/?id=238890"
  },
  {
-  "category": "industri",
-  "pub_date": "04-02-2025",
-  "title": "Tekniker til aftenhold i Svenstrup",
-  "company": "DANISH CROWN A/S",
-  "location": "Svenstrup J",
-  "job_URL": "https://jobs.danishcrown.com/job/Svenstrup-Tekniker-til-aftenhold-i-Svenstrup-9230/1167733001/"
- },
- {
-  "category": "industri",
-  "pub_date": "04-02-2025",
-  "title": "Elektriker til daghold i Svenstrup",
-  "company": "DANISH CROWN A/S",
-  "location": "Svenstrup J",
-  "job_URL": "https://jobs.danishcrown.com/job/Svenstrup-Eletriker-til-daghold-i-Svenstrup-9230/1167277001/"
- },
- {
-  "category": "industri",
-  "pub_date": "04-02-2025",
-  "title": "Service Technician",
-  "company": "FLSmidth",
-  "location": "Mariager",
-  "job_URL": "https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Mariager/Service-Technician_R26014-1"
- },
- {
-  "category": "industri",
-  "pub_date": "04-02-2025",
-  "title": "Karrosseritekniker",
-  "company": "Bayern AutoGroup",
-  "location": "Aalborg",
-  "job_URL": "https://app.jobmatchprofile.com/mqdcce?client=jobindex"
- },
- {
-  "category": "industri",
-  "pub_date": "03-02-2025",
-  "title": "Klejnsmed til smede- og montageafdelingen i R&D",
-  "company": "Sterke A/S",
-  "location": "Aalborg Øst og Svenstrup J",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1536302/klejnsmed-til-smede-og-montageafdelingen-i-r-d"
- },
- {
   "category": "handel",
   "pub_date": "31-01-2025",
   "title": "Butikschef til Land & Fritid",
@@ -286,14 +254,6 @@
   "company": "Morsø Kommune",
   "location": "Nykøbing Mors",
   "job_URL": "https://mors.career.emply.com/ad/vil-du-vaerevores-nye-rengoringsleder-i-morso-kommune/pc7t2v/da"
- },
- {
-  "category": "handel",
-  "pub_date": "31-01-2025",
-  "title": "Cleaning Supervisor",
-  "company": "NOVASOL part of Awaze",
-  "location": "Thisted",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1535556/cleaning-supervisor"
  },
  {
   "category": "handel",
@@ -394,6 +354,22 @@
  {
   "category": "ledelse",
   "pub_date": "06-02-2025",
+  "title": "Technical Director",
+  "company": "BILA A/S",
+  "location": "Nykøbing Mors",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144275&DepartmentId=18956&MediaId=4614"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "06-02-2025",
+  "title": "Erfaren HR Business Partner til en af Danmarks mest bæredygtige fødevarevirksomheder",
+  "company": "Kongruens ApS",
+  "location": "Mariager eller Tilst",
+  "job_URL": "https://kongruensaps.hr-on.com/show-job/238178?linkref=269990&locale=da_DK"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "06-02-2025",
   "title": "HR Coordinator",
   "company": "Shaping New Tomorrow",
   "location": "Aalborg",
@@ -422,6 +398,22 @@
   "company": "Eurowind Energy A/S",
   "location": "Hobro",
   "job_URL": "https://eurowindenergy.com/uk/career?hr=show-job/233830&locale=en_US#hrskyen"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "06-02-2025",
+  "title": "Teknisk projektleder",
+  "company": "idoc A/S",
+  "location": "Vejle, Aalborg eller Albertslund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1528809/teknisk-projektleder"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "06-02-2025",
+  "title": "Development Manager søges til hardware/mekanik udviklingsteam",
+  "company": "Hviid & Larsen ApS",
+  "location": "Aars",
+  "job_URL": "https://www.hviidoglarsen.dk/jobs?hr=show-job/239176&linkref=269908&locale=da_DK"
  },
  {
   "category": "ledelse",
@@ -470,54 +462,6 @@
   "company": "DSI Bostedet Vendelbo",
   "location": "Vrå",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1536713/oekonomichef-soeges-til-spaendende-socialpsykiatrisk-virksomhed"
- },
- {
-  "category": "ledelse",
-  "pub_date": "04-02-2025",
-  "title": "HR-Partner",
-  "company": "Kompetent Search A/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://karriere.kompetent.as/jobs/5497323-hr-partner"
- },
- {
-  "category": "ledelse",
-  "pub_date": "04-02-2025",
-  "title": "Konsulent - Tax & Law | Opstart august 2025",
-  "company": "EY",
-  "location": "Aarhus C, Aalborg, Frederiksberg, Esbjerg, Herning",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1536726/konsulent-tax-law-opstart-august-2025"
- },
- {
-  "category": "ledelse",
-  "pub_date": "04-02-2025",
-  "title": "Uddeler, BRF Brugsen Ranum",
-  "company": "Brugsen",
-  "location": "Ranum",
-  "job_URL": "https://jobs.coop.dk/job/Uddeler%2C-BRF-Brugsen-Ranum/154395-da_DK"
- },
- {
-  "category": "ledelse",
-  "pub_date": "04-02-2025",
-  "title": "Head of Sales, Sjælland",
-  "company": "Hansen Toft A/S",
-  "location": "Svenstrup",
-  "job_URL": "https://www.hansentoft.dk/job/8674"
- },
- {
-  "category": "ledelse",
-  "pub_date": "03-02-2025",
-  "title": "Vil du være en del af finance teamet hos TeeJet? – bliv strategisk sparringspartner for ledelsen",
-  "company": "Jobindex",
-  "location": "Aabybro",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1536121/vil-du-vaere-en-del-af-finance-teamet-hos-teejet-bliv-strategisk-sparringspartner-for-ledelsen"
- },
- {
-  "category": "ledelse",
-  "pub_date": "03-02-2025",
-  "title": "Finance Manager – Cubic",
-  "company": "CUBIC-Modulsystem A/S",
-  "location": "Brønderslev",
-  "job_URL": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Finance-Manager---Cubic--Cubic_R24-7568-1"
  },
  {
   "category": "undervisning",
@@ -754,6 +698,14 @@
  {
   "category": "ingenioer",
   "pub_date": "06-02-2025",
+  "title": "Technical Director",
+  "company": "BILA A/S",
+  "location": "Nykøbing Mors",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144275&DepartmentId=18956&MediaId=4614"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "06-02-2025",
   "title": "Teknisk værkfører til spændende job i Hobro",
   "company": "BEWI Denmark A/S",
   "location": "Hobro",
@@ -777,6 +729,30 @@
  },
  {
   "category": "ingenioer",
+  "pub_date": "06-02-2025",
+  "title": "Maskinkonstruktør",
+  "company": "idoc A/S",
+  "location": "Vejle, Aalborg eller Albertslund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1528811/maskinkonstruktoer"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "06-02-2025",
+  "title": "Teknisk projektleder",
+  "company": "idoc A/S",
+  "location": "Vejle, Aalborg eller Albertslund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1528809/teknisk-projektleder"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "06-02-2025",
+  "title": "Development Manager søges til hardware/mekanik udviklingsteam",
+  "company": "Hviid & Larsen ApS",
+  "location": "Aars",
+  "job_URL": "https://www.hviidoglarsen.dk/jobs?hr=show-job/239176&linkref=269908&locale=da_DK"
+ },
+ {
+  "category": "ingenioer",
   "pub_date": "05-02-2025",
   "title": "Er du klar til at forme fremtidens tekniske løsninger?",
   "company": "Jobindex",
@@ -792,60 +768,20 @@
   "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=3498&joblistId=1&lang=en"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "05-02-2025",
-  "title": "Konsulent med politisk tæft til regioner og foreninger i DI Byggeri",
-  "company": "DI Dansk Industri",
-  "location": "Risskov, København V eller Aalborg",
-  "job_URL": "https://di.easycruit.com/vacancy/3461733/39793?channel=jobindex&iso=dk"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "05-02-2025",
-  "title": "Projektingeniør til Lilleheden",
-  "company": "MatchMind",
-  "location": "Hirtshals",
-  "job_URL": "https://matchmind.dk/ledige-jobs?hr=show-job/237867&linkref=268860&locale=da_DK"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "04-02-2025",
-  "title": "Service Technician",
-  "company": "FLSmidth",
-  "location": "Mariager",
-  "job_URL": "https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Mariager/Service-Technician_R26014-1"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "04-02-2025",
-  "title": "Logistik QEHS Specialist til Warehouse og distribution - Hobro",
-  "company": "Arla Foods amba",
-  "location": "Hobro",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1536544/logistik-qehs-specialist-til-warehouse-og-distribution-hobro"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "04-02-2025",
-  "title": "Head of Sales, Sjælland",
-  "company": "Hansen Toft A/S",
-  "location": "Svenstrup",
-  "job_URL": "https://www.hansentoft.dk/job/8674"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "03-02-2025",
-  "title": "Projekterende bygningskonstruktør med kreativ sans og kundetække",
-  "company": "HusCompagniet A/S",
+  "category": "salg",
+  "pub_date": "06-02-2025",
+  "title": "Erhvervssælger med hunter-mentalitet til dansk flise lager i Aalborg",
+  "company": "Dansk Flise Lager ApS",
   "location": "Aalborg",
-  "job_URL": "https://www.huscompagniet.dk/om-os/stillinger/projekterende-aalborg-februar-2025"
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1537563/erhvervssaelger-med-hunter-mentalitet-til-dansk-flise-lager-i-aalborg"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "03-02-2025",
-  "title": "Projektingeniør - Nordjylland",
-  "company": "Init Denmark A/S",
-  "location": "Thisted, Aalborg SV eller Vrå",
-  "job_URL": "https://init.career.emply.com/ad/projektingenior-nordjylland/xrpdyc"
+  "category": "salg",
+  "pub_date": "06-02-2025",
+  "title": "Key Account Manager med ambitioner søges",
+  "company": "Duelco A/S",
+  "location": "Aalborg SV",
+  "job_URL": "https://www.jobindex.dk/img/pdf/keyaccountmanager_wind.pdf"
  },
  {
   "category": "salg",
@@ -904,28 +840,20 @@
   "job_URL": "https://di.easycruit.com/vacancy/3461733/39793?channel=jobindex&iso=dk"
  },
  {
-  "category": "salg",
-  "pub_date": "04-02-2025",
-  "title": "Videnskabelig assistent til Immigrantmuseet",
-  "company": "Furesø Museer",
-  "location": "Farum",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1536362/videnskabelig-assistent-til-immigrantmuseet"
+  "category": "kontor",
+  "pub_date": "06-02-2025",
+  "title": "Få den bedste start på din karriere – bliv HANDELSELEV i kundeservice",
+  "company": "Daarbak Redoffice",
+  "location": "Aalborg SØ",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1537645/faa-den-bedste-start-paa-din-karriere-bliv-handelselev-i-kundeservice"
  },
  {
-  "category": "salg",
-  "pub_date": "04-02-2025",
-  "title": "Salgskonsulent til Danmarks mest eksklusive fritidshuse - Attraktiv lønpakke uden loft",
-  "company": "Sonne Huse A/S",
-  "location": "Hjørring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1528443/salgskonsulent-til-danmarks-mest-eksklusive-fritidshuse-attraktiv-loenpakke-uden-loft"
- },
- {
-  "category": "salg",
-  "pub_date": "04-02-2025",
-  "title": "Business Development Manager",
-  "company": "RTX A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://rtx.easycruit.com/vacancy/3438937/164405?iso=us"
+  "category": "kontor",
+  "pub_date": "06-02-2025",
+  "title": "Få den bedste start på din karriere - bliv HANDELSELEV i kundeservice",
+  "company": "Daarbak Design",
+  "location": "Aalborg SØ",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1537643/faa-den-bedste-start-paa-din-karriere-bliv-handelselev-i-kundeservice"
  },
  {
   "category": "kontor",
@@ -1032,20 +960,20 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1522799/erhvervsraadgiver-til-erhverv-aars"
  },
  {
-  "category": "kontor",
-  "pub_date": "05-02-2025",
-  "title": "Maintenance Technician",
-  "company": "NOVASOL part of Awaze",
-  "location": "Blokhus",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1537131/maintenance-technician"
+  "category": "oevrige",
+  "pub_date": "06-02-2025",
+  "title": "Få den bedste start på din karriere – bliv HANDELSELEV i kundeservice",
+  "company": "Daarbak Redoffice",
+  "location": "Aalborg SØ",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1537645/faa-den-bedste-start-paa-din-karriere-bliv-handelselev-i-kundeservice"
  },
  {
-  "category": "kontor",
-  "pub_date": "05-02-2025",
-  "title": "Konsulent med politisk tæft til regioner og foreninger i DI Byggeri",
-  "company": "DI Dansk Industri",
-  "location": "Risskov, København V eller Aalborg",
-  "job_URL": "https://di.easycruit.com/vacancy/3461733/39793?channel=jobindex&iso=dk"
+  "category": "oevrige",
+  "pub_date": "06-02-2025",
+  "title": "Få den bedste start på din karriere - bliv HANDELSELEV i kundeservice",
+  "company": "Daarbak Design",
+  "location": "Aalborg SØ",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1537643/faa-den-bedste-start-paa-din-karriere-bliv-handelselev-i-kundeservice"
  },
  {
   "category": "oevrige",
@@ -1150,13 +1078,5 @@
   "company": "Scan Global Logistics",
   "location": "Billund, Hvidovre, Viby J, Esbjerg Ø eller Nørresundby",
   "job_URL": "https://scangl-v2-2-1.career.emply.com/ad/begynd-din-karriere-med-en-elevplads-hos-scan-global-logistics/u917l0/en"
- },
- {
-  "category": "oevrige",
-  "pub_date": "03-02-2025",
-  "title": "Kunderådgiver – gør karriere inden for salg og kundeservice, deltid 10 timer til vores butik i Hjørring",
-  "company": "Telia Danmark",
-  "location": "Hjørring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2253/kunderaadgiver-deltid-10-timer-til-vores-butik-i-hjoerring"
  }
 ]
