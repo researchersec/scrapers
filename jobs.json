@@ -25,19 +25,19 @@
  },
  {
   "category": "it",
-  "pub_date": "30-01-2025",
-  "title": "Business Central Software Engineer - Continia Finance Solution",
-  "company": "Continia Software A/S",
-  "location": "Copenhagen, Nørresundby, Hamburg, Osterholz-Scharmbeck, Kiel or Vilnius",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143675&DepartmentId=18956&MediaId=5"
- },
- {
-  "category": "it",
   "pub_date": "07-02-2025",
   "title": "Vi søger dygtig kollega til installationsteamet i Aalborg",
   "company": "AV CENTER Aalborg ApS",
   "location": "Nørresundby",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1537660/vi-soeger-dygtig-kollega-til-installationsteamet-i-aalborg"
+ },
+ {
+  "category": "it",
+  "pub_date": "07-02-2025",
+  "title": "IT-supporter med Microsoft 365-erfaring søges til spændende rolle med ansvar",
+  "company": "Ølandhus ApS",
+  "location": "Aabybro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1538031/it-supporter-med-microsoft-365-erfaring-soeges-til-spaendende-rolle-med-ansvar"
  },
  {
   "category": "it",
@@ -249,11 +249,11 @@
  },
  {
   "category": "handel",
-  "pub_date": "31-01-2025",
-  "title": "Butikschef til Land & Fritid",
-  "company": "Land & Fritid",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=363&ProjectId=189107&DepartmentId=22874&MediaId=5"
+  "pub_date": "07-02-2025",
+  "title": "Erfaren fuldtidstjener med superkræfter og et smittende smil",
+  "company": "Hotel Viking",
+  "location": "Sæby",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1537670/erfaren-fuldtidstjener-med-superkraefter-og-et-smittende-smil"
  },
  {
   "category": "handel",
@@ -362,6 +362,14 @@
  {
   "category": "ledelse",
   "pub_date": "07-02-2025",
+  "title": "Erfaren, praksisnær og visionær leder til Duelund",
+  "company": "Morsø Kommune",
+  "location": "Nykøbing M",
+  "job_URL": "https://mors.career.emply.com/ad/erfaren-praksisnaer-og-visionaer-leder-til-duelund/jtfsbu/da"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "07-02-2025",
   "title": "Projektledere",
   "company": "Hansen Toft A/S",
   "location": "Hobro, Albertslund eller Åbyhøj",
@@ -432,14 +440,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1528809/teknisk-projektleder"
  },
  {
-  "category": "ledelse",
-  "pub_date": "06-02-2025",
-  "title": "Development Manager søges til hardware/mekanik udviklingsteam",
-  "company": "Hviid & Larsen ApS",
-  "location": "Aars",
-  "job_URL": "https://www.hviidoglarsen.dk/jobs?hr=show-job/239176&linkref=269908&locale=da_DK"
- },
- {
   "category": "undervisning",
   "pub_date": "31-01-2025",
   "title": "HabitusHuset Sct. Mortensgaard søger pædagogiske medarbejdere til to nystartede solisttilbud",
@@ -481,11 +481,11 @@
  },
  {
   "category": "undervisning",
-  "pub_date": "28-01-2025",
-  "title": "Tysk- og matematiklærer til Skolecenter Jetsmark",
-  "company": "Jammerbugt Kommune",
-  "location": "Pandrup",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1475&WebAdId=134155"
+  "pub_date": "07-02-2025",
+  "title": "Erfaren, praksisnær og visionær leder til Duelund",
+  "company": "Morsø Kommune",
+  "location": "Nykøbing M",
+  "job_URL": "https://mors.career.emply.com/ad/erfaren-praksisnaer-og-visionaer-leder-til-duelund/jtfsbu/da"
  },
  {
   "category": "undervisning",
@@ -682,6 +682,14 @@
  {
   "category": "ingenioer",
   "pub_date": "07-02-2025",
+  "title": "Vi søger en Q-ansvarlig til førende robotteknologivirksomhed",
+  "company": "Technicon A/S",
+  "location": "Hobro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1538141/vi-soeger-en-q-ansvarlig-til-foerende-robotteknologivirksomhed"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "07-02-2025",
   "title": "Project Engineer – Electrical Design",
   "company": "Körber Supply Chain DK A/S",
   "location": "Arden",
@@ -754,10 +762,26 @@
  {
   "category": "salg",
   "pub_date": "07-02-2025",
+  "title": "Key Account Manager til firmagaver – opsøgende salg og stærke relationer",
+  "company": "Daarbak Redoffice",
+  "location": "Esbjerg Ø",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1537973/key-account-manager-til-firmagaver-opsoegende-salg-og-staerke-relationer"
+ },
+ {
+  "category": "salg",
+  "pub_date": "07-02-2025",
   "title": "Skal du være en del af 2025’s mest ambitiøse salgsbureau?",
   "company": "Storm Group",
   "location": "Herning, Aalborg, Aarhus, Viborg, Kolding, Odense, Roskilde, Næstved, Hillerød eller København",
   "job_URL": "https://www.stormgroup.net/jobs/sales-consultant"
+ },
+ {
+  "category": "salg",
+  "pub_date": "07-02-2025",
+  "title": "Salgskonsulent",
+  "company": "Norlys",
+  "location": "Brønderslev",
+  "job_URL": "https://www.job-karriere.dk/Norlys/job/Br%C3%B8nderslev-Salgskonsulent-9700/1169378701/"
  },
  {
   "category": "salg",
@@ -810,6 +834,30 @@
  {
   "category": "kontor",
   "pub_date": "07-02-2025",
+  "title": "Shippingkoordinator til international handelsvirksomhed",
+  "company": "ESS-FOOD A/S",
+  "location": "Aalborg, København V",
+  "job_URL": "https://jobs.danishcrown.com/job/K%C3%B8benhavn-V-Shippingkoordinator-til-international-handelsvirksomhed-1620/1169413801/"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-02-2025",
+  "title": "Administrativ medarbejder til international handelsvirksomhed",
+  "company": "ESS-FOOD A/S",
+  "location": "Aalborg, København V",
+  "job_URL": "https://jobs.danishcrown.com/job/K%C3%B8benhavn-V-Administrativ-medarbejder-til-international-handelsvirksomhed-1620/1169412101/"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-02-2025",
+  "title": "Ankestyrelsen i Aalborg og København søger jurister til socialområdet",
+  "company": "Ankestyrelsen",
+  "location": "København SV eller Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=186486&DepartmentId=6085&MediaId=4314"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-02-2025",
   "title": "Legal Counsel & DPO",
   "company": "Admin By Request ApS",
   "location": "Aalborg",
@@ -854,6 +902,14 @@
   "company": "Brüel Systems A/S",
   "location": "Hjørring",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2378&ProjectId=143605&DepartmentId=18956&MediaId=5&SkipAdvertisement=False"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-02-2025",
+  "title": "Salgskonsulent",
+  "company": "Norlys",
+  "location": "Brønderslev",
+  "job_URL": "https://www.job-karriere.dk/Norlys/job/Br%C3%B8nderslev-Salgskonsulent-9700/1169378701/"
  },
  {
   "category": "kontor",
@@ -928,44 +984,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1523030/nordiske-kundeservicemedarbejdere-se-fi-no"
  },
  {
-  "category": "kontor",
-  "pub_date": "06-02-2025",
-  "title": "Accountant/bogholder",
-  "company": "Eurowind Energy A/S",
-  "location": "Hobro",
-  "job_URL": "https://eurowindenergy.com/career?hr=show-job/229889&locale=da_DK#hrskyen"
- },
- {
-  "category": "kontor",
-  "pub_date": "06-02-2025",
-  "title": "Nysgerrig forretningsudvikler med indsigt i og erfaring med innovation, automatisering og grøn omstilling f.eks. inden for energisektoren",
-  "company": "Erhvervshus Nordjylland S/I",
-  "location": "Nykøbing M",
-  "job_URL": "https://ehnj.dk/content/ydelser/nysgerrig-forretningsudvikler-med-indsigt-i-og-erfaring-med-innovation-automatisering-og-groen-omstilling-feks-inden-for-energisektoren/d0098e3c-f4bb-42cc-8ff0-2938617d842a/"
- },
- {
-  "category": "kontor",
-  "pub_date": "06-02-2025",
-  "title": "Kundeservicemedarbejder",
-  "company": "Cykelgear A/S",
-  "location": "Terndrup eller Aarhus C",
-  "job_URL": "https://job.cykelgear.dk/jobs/5405964-kundeservicemedarbejder"
- },
- {
-  "category": "kontor",
-  "pub_date": "05-02-2025",
-  "title": "Privatkunderådgivere til Støvring",
-  "company": "Sparekassen Danmark",
-  "location": "Støvring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1537206/privatkunderaadgivere-til-stoevring"
- },
- {
-  "category": "kontor",
-  "pub_date": "05-02-2025",
-  "title": "Regnskabsassistent til A. Enggaards økonomiafdeling",
-  "company": "A. Enggaard A/S, Entreprenør- og Byggefirma",
+  "category": "oevrige",
+  "pub_date": "07-02-2025",
+  "title": "Studiemedhjælper til Finans - Power BI & Dataanalyse - Körber Supply Chain",
+  "company": "Körber Supply Chain DK A/S",
   "location": "Svenstrup J",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1537096/regnskabsassistent-til-a-enggaards-oekonomiafdeling"
+  "job_URL": "https://jobs.koerber.com/job/Svenstrup-Studiemedhj%C3%A6lper-til-Finans-Power-BI-&-Dataanalyse-K%C3%B6rber-Supply-Chain/1169413201/"
  },
  {
   "category": "oevrige",
@@ -1062,29 +1086,5 @@
   "company": "BILA A/S",
   "location": "Nykøbing Mors",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144269&DepartmentId=18958&MediaId=4614"
- },
- {
-  "category": "oevrige",
-  "pub_date": "03-02-2025",
-  "title": "Praktik i EL-konstruktion",
-  "company": "BILA A/S",
-  "location": "Nykøbing Mors",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144270&DepartmentId=18958&MediaId=4614"
- },
- {
-  "category": "oevrige",
-  "pub_date": "03-02-2025",
-  "title": "Praktik i mekanisk konstruktion",
-  "company": "BILA A/S",
-  "location": "Nykøbing Mors eller Herning",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144271&DepartmentId=18958&MediaId=4614"
- },
- {
-  "category": "oevrige",
-  "pub_date": "03-02-2025",
-  "title": "Praktik i projektledelse",
-  "company": "BILA A/S",
-  "location": "Nykøbing Mors, Herning eller Randers SV",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144272&DepartmentId=18958&MediaId=4614"
  }
 ]
