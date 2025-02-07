@@ -1,19 +1,19 @@
 [
  {
-  "link": "/SPAR/tilbud/Yoggi-Yoghurt~o:felTQL0c7hMn5yiG77p66",
-  "price": "12.00",
-  "currency": "DKK",
-  "valid_from": "06-02-2025",
-  "valid_until": "13-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc0_iiunz%2Fp-1.webp&w=100&x1r=0.4863&x2r=0.9841&y1r=0.1475&y2r=0.6576&s=4b1002526c5468c1f52567d8ec31c06f"
- },
- {
   "link": "/Bilka/tilbud/Yoggi-yoghurt~o:iWw4Y8vfUY85Rq5WpoWP2",
   "price": "22.00",
   "currency": "DKK",
   "valid_from": "06-02-2025",
   "valid_until": "13-02-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6SigckzE%2Fp-1.webp&w=100&x1r=0.4671&x2r=0.7037&y1r=0.5319&y2r=0.7982&s=eeaebb2a356738c9e8914efba555ef8f"
+ },
+ {
+  "link": "/SPAR/tilbud/Yoggi-Yoghurt~o:felTQL0c7hMn5yiG77p66",
+  "price": "12.00",
+  "currency": "DKK",
+  "valid_from": "06-02-2025",
+  "valid_until": "13-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc0_iiunz%2Fp-1.webp&w=100&x1r=0.4863&x2r=0.9841&y1r=0.1475&y2r=0.6576&s=4b1002526c5468c1f52567d8ec31c06f"
  },
  {
   "link": "/REMA-1000/tilbud/Tuborg-Classic-Gron-Tuborg-Gron-Tuborg-0.0-eller-Tuborg-sprod-33-cl.-Ex.-pant~o:kI5M01gOLkiYowakB0Xlx",
