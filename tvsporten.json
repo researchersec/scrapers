@@ -1,89 +1,5 @@
 [
  {
-  "match": "DP World Tour",
-  "category": "DP World Tour",
-  "time": "10:00",
-  "date": "2025-02-07",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Ski: World Championship",
-  "category": "Skisport",
-  "time": "11:20",
-  "date": "2025-02-07",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Africa Amateur Championship",
-  "category": "LIV Golf",
-  "time": "12:00",
-  "date": "2025-02-07",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "UAE Tour (k)",
-  "category": "UCI Women's World Tour",
-  "time": "12:00",
-  "date": "2025-02-07",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "ATP 500 Rotterdam: Kvartfinale",
-  "category": "ATP",
-  "time": "13:00",
-  "date": "2025-02-07",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "WTA 250 Cluj Napoca: Kvartfinaler",
-  "category": "WTA",
-  "time": "13:00",
-  "date": "2025-02-07",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
   "match": "WTA 500 Abu Dhabi: Semifinaler",
   "category": "WTA",
   "time": "14:00",
@@ -120,7 +36,7 @@
   ]
  },
  {
-  "match": "ATP 500 Rotterdam: Kvartfinale",
+  "match": "ATP 500 Rotterdam: Stefanos Tsitsipas - Mattia Bellucci",
   "category": "ATP",
   "time": "15:00",
   "date": "2025-02-07",
@@ -260,7 +176,7 @@
   ]
  },
  {
-  "match": "ATP 500 Rotterdam: Kvartfinale",
+  "match": "ATP 500 Rotterdam: Carlos Alcaraz - Pedro Martínez",
   "category": "ATP",
   "time": "19:30",
   "date": "2025-02-07",
@@ -388,6 +304,18 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 500 Rotterdam: Andrey Rublev - Hubert Hurkacz",
+  "category": "ATP",
+  "time": "21:00",
+  "date": "2025-02-07",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
    }
   ]
  },
