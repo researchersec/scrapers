@@ -32,6 +32,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FePzHcQ5K%2Fp-43.webp&w=100&x1r=0.4735&x2r=0.9835&y1r=0.3127&y2r=0.7172&s=a2439878adc1a27fd604a98c0b5d634a"
  },
  {
+  "link": "/MENY/tilbud/GRON-TUBORG-ELLER-TUBORG-CLASSIC-ALKOHOLFRI~o:lcpENtoBcdX2QoCE00h4Z",
+  "price": "35.00",
+  "currency": "DKK",
+  "valid_from": "06-02-2025",
+  "valid_until": "13-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-32.webp&w=100&x1r=0.261&x2r=0.5751&y1r=0.3611&y2r=0.6384&s=fcd22440d051498b04d12f9014844308"
+ },
+ {
   "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-TUBORG-SPROD~o:eYY-KKZlOMAq2XrBb4uhc",
   "price": "72.00",
   "currency": "DKK",
@@ -46,14 +54,6 @@
   "valid_from": "06-02-2025",
   "valid_until": "13-02-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-39.webp&w=100&x1r=0.5052&x2r=0.9799&y1r=0.6163&y2r=0.914&s=e06d3112dd757c532e706106c05af3bc"
- },
- {
-  "link": "/MENY/tilbud/GRON-TUBORG-ELLER-TUBORG-CLASSIC-ALKOHOLFRI~o:lcpENtoBcdX2QoCE00h4Z",
-  "price": "35.00",
-  "currency": "DKK",
-  "valid_from": "06-02-2025",
-  "valid_until": "13-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-32.webp&w=100&x1r=0.261&x2r=0.5751&y1r=0.3611&y2r=0.6384&s=fcd22440d051498b04d12f9014844308"
  },
  {
   "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Sprod~o:haoHKOehb-PVD5xbQoAYi",
