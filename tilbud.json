@@ -56,14 +56,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-39.webp&w=100&x1r=0.5052&x2r=0.9799&y1r=0.6163&y2r=0.914&s=e06d3112dd757c532e706106c05af3bc"
  },
  {
-  "link": "/Netto/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Classic-alkoholfri~o:9J-ZiIAd7ynqU_a3C1mHw",
-  "price": "79.00",
-  "currency": "DKK",
-  "valid_from": "31-01-2025",
-  "valid_until": "07-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FawqcX_-Y%2Fp-19.webp&w=100&x1r=0.6528&x2r=0.9933&y1r=0.6889&y2r=0.9752&s=b9b10d27f1c6c02436451b57c778c419"
- },
- {
   "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Sprod~o:haoHKOehb-PVD5xbQoAYi",
   "price": "72.00",
   "currency": "DKK",
@@ -94,5 +86,13 @@
   "valid_from": "31-01-2025",
   "valid_until": "28-02-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKortJ4nz%2Fp-18.webp&w=100&x1r=0.6583&x2r=0.9792&y1r=0.2928&y2r=0.4986&s=950ae3f6bc55fc7a7a0a5f06c8ef0704"
+ },
+ {
+  "link": "/Lidl/tilbud/Tuborg-Sprod-Classic-eller-Pilsner~o:UY2Kf3NGAuc2gfFG7mz_2",
+  "price": "85.00",
+  "currency": "DKK",
+  "valid_from": "05-02-2025",
+  "valid_until": "08-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhwT4YE87%2Fp-12.webp&w=100&x1r=0.3364&x2r=0.9922&y1r=0.6642&y2r=0.9422&s=0da07b9c55a5f1767c2ef7187896558a"
  }
 ]
