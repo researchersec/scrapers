@@ -1,13 +1,725 @@
 [
  {
-  "match": "Boston Bruins – Vegas Golden Knights",
-  "category": "NHL",
-  "time": "21:35",
-  "date": "2025-02-08",
+  "match": "Langrend: Jizerska 50",
+  "category": "Langrend",
+  "time": "07:50",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Sport Live",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Nordisk kombination (D) Normal bakke",
+  "category": "Nordisk kombination",
+  "time": "09:10",
+  "date": "2025-02-09",
   "channels": [
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Commercial Bank Qatar Masters",
+  "category": "DP World Tour",
+  "time": "09:30",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "DP World Tour",
+  "category": "DP World Tour",
+  "time": "09:30",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Nordisk kombination (H) Normal bakke",
+  "category": "Nordisk kombination",
+  "time": "10:10",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Season Launch MotoGP",
+  "category": "MotoGP",
+  "time": "10:25",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Valencia Rundt (k)",
+  "category": "UCI Women's World Tour",
+  "time": "11:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Ski: World Championship",
+  "category": "Skisport",
+  "time": "11:20",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "UAE Tour (k)",
+  "category": "UCI Women's World Tour",
+  "time": "12:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Skicross (D/H)",
+  "category": "Skicross",
+  "time": "12:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 1000 Doha: Indledende runder",
+  "category": "WTA",
+  "time": "12:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "AC Venezia – AS Roma",
+  "category": "Serie A",
+  "time": "12:30",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Bristol City – Swansea City",
+  "category": "Championship",
+  "time": "12:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "ISU Short Track World Tour",
+  "category": "Skøjtesport",
+  "time": "13:25",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hannover 96 – Fortuna Düsseldorf",
+  "category": "2. Bundesliga",
+  "time": "13:25",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Karlsruher SC – Eintracht Braunschweig",
+  "category": "2. Bundesliga",
+  "time": "13:25",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "1. FC Köln – Schalke 04",
+  "category": "2. Bundesliga",
+  "time": "13:25",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Blackburn Rovers – Wolverhampton Wanderers",
+  "category": "FA Cup",
+  "time": "13:25",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "X2O Trofee Lille (k)",
+  "category": "Cykelcross",
+  "time": "13:40",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Danmark – England",
+  "category": "Basket-EM Damer",
+  "time": "13:40",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Sport Live",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Borussia Dortmund – Ikast Håndbold",
+  "category": "Women's EHF European League",
+  "time": "13:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Borussia Dortmund – Ikast Håndbold",
+  "category": "Women's EHF European League",
+  "time": "13:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Ludwigsburg – Rapid Bucuresti",
+  "category": "EHF Champions League",
+  "time": "13:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "CD Alaves – CF Getafe",
+  "category": "La Liga",
+  "time": "14:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Fortuna Sittard – Ajax",
+  "category": "Eredivisie",
+  "time": "14:25",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Lyon – Stade Reims",
+  "category": "Ligue 1",
+  "time": "14:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "X2O Trofee Lille (m)",
+  "category": "Cykelcross",
+  "time": "14:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "SS Lazio – Monza",
+  "category": "Serie A",
+  "time": "15:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Cagliari – Parma",
+  "category": "Serie A",
+  "time": "15:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Holstein Kiel – VfL Bochum",
+  "category": "Bundesliga",
+  "time": "15:25",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 500 Rotterdam: Finale",
+  "category": "ATP",
+  "time": "15:30",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Plymouth Argyle – Liverpool FC",
+  "category": "FA Cup",
+  "time": "15:30",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Skotland – Irland",
+  "category": "Six Nations - Herrer",
+  "time": "15:50",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Cercle Dijon – Motherson-Mosonmagyarovar",
+  "category": "Women's EHF European League",
+  "time": "15:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "CSM Bucuresti – Rk Podravka Vegeta",
+  "category": "EHF Champions League",
+  "time": "15:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Team Esbjerg – Brest Bretagne",
+  "category": "EHF Champions League",
+  "time": "16:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "DR 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 250 Cluj Napoca: Finale",
+  "category": "WTA",
+  "time": "16:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Valencia Rundt (m)",
+  "category": "UCI Herrer",
+  "time": "16:05",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Valencia – Leganes Cd",
+  "category": "La Liga",
+  "time": "16:15",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "TSV Hannover Burgdorf – SC Dhfk Leipzig",
+  "category": "Bundesliga Håndbold",
+  "time": "16:25",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "The FA Cup",
+  "category": "FA Cup",
+  "time": "16:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV3 +",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Racing Strasbourg – HSC Montpellier",
+  "category": "Ligue 1",
+  "time": "17:10",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Auxerre – Toulouse",
+  "category": "Ligue 1",
+  "time": "17:10",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "RB Leipzig – FC St Pauli",
+  "category": "Bundesliga",
+  "time": "17:30",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Fredrikstad - Bera Bera",
+  "category": "Women's EHF European League",
+  "time": "17:55",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Lecce – Bologna FC",
+  "category": "Serie A",
+  "time": "18:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Aston Villa – Tottenham Hotspur",
+  "category": "FA Cup",
+  "time": "18:30",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Real Sociedad – Espanyol",
+  "category": "La Liga",
+  "time": "18:30",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "PGA Tour Phoenix Open",
+  "category": "PGA",
+  "time": "19:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Montreal Canadiens – Tampa Bay Lightning",
+  "category": "NHL",
+  "time": "19:05",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "LPGA Tour",
+  "category": "LPGA",
+  "time": "20:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Milwaukee Bucks – Philadelphia 76ers",
+  "category": "NBA",
+  "time": "20:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Mors-Thy Håndbold – KIF Kolding",
+  "category": "HTH Herreligaen",
+  "time": "20:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "SCO Angers – Olympique Marseille",
+  "category": "Ligue 1",
+  "time": "20:40",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Napoli – Udinese",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Sevilla – FC Barcelona",
+  "category": "La Liga",
+  "time": "21:00",
+  "date": "2025-02-09",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
    }
   ]
  }
