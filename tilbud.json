@@ -16,6 +16,22 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc0_iiunz%2Fp-1.webp&w=100&x1r=0.4863&x2r=0.9841&y1r=0.1475&y2r=0.6576&s=4b1002526c5468c1f52567d8ec31c06f"
  },
  {
+  "link": "/LET-KOB/tilbud/YOGGI-YOGHURT~o:h6Z-3n8EWU6GR2oO9RCpH",
+  "price": "17.00",
+  "currency": "DKK",
+  "valid_from": "09-02-2025",
+  "valid_until": "23-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjuY98yBr%2Fp-5.webp&w=100&x1r=0.0227&x2r=0.4778&y1r=0.3527&y2r=0.6572&s=4893207fb24111ada7584a9efbc5ba65"
+ },
+ {
+  "link": "/LET-KOB/tilbud/QUAKER-CRUESLI~o:HChoO6Wv3M7xDlCouC8T6",
+  "price": "25.00",
+  "currency": "DKK",
+  "valid_from": "09-02-2025",
+  "valid_until": "23-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjuY98yBr%2Fp-8.webp&w=100&x1r=0.0241&x2r=0.5204&y1r=0.5076&y2r=0.8863&s=40d1706d2fb311f4a8973b196f76c140"
+ },
+ {
   "link": "/REMA-1000/tilbud/Tuborg-Classic-Gron-Tuborg-Gron-Tuborg-0.0-eller-Tuborg-sprod-33-cl.-Ex.-pant~o:kI5M01gOLkiYowakB0Xlx",
   "price": "4.50",
   "currency": "DKK",
@@ -88,11 +104,11 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKortJ4nz%2Fp-18.webp&w=100&x1r=0.6583&x2r=0.9792&y1r=0.2928&y2r=0.4986&s=950ae3f6bc55fc7a7a0a5f06c8ef0704"
  },
  {
-  "link": "/BorderShop/tilbud/Tuborg-NUL-Classic-0-0-Carlsberg-Nordic-Ale-eller-Nordic-Pilsner~o:68z5hrjHEdebVLRQfqjnw",
-  "price": "75.00",
+  "link": "/LET-KOB/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-CARLSBERG-PILSNER~o:pgX0sf6ZrBFLgOfXphKfY",
+  "price": "135.00",
   "currency": "DKK",
-  "valid_from": "30-12-2024",
-  "valid_until": "09-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX3iPevH%2Fp-5.webp&w=100&x1r=0.1546&x2r=0.8954&y1r=0.2397&y2r=0.4711&s=ebe75ba9b29399b8ace637827b011944"
+  "valid_from": "09-02-2025",
+  "valid_until": "23-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjuY98yBr%2Fp-4.webp&w=100&x1r=0.4954&x2r=0.9816&y1r=0.6614&y2r=0.984&s=21d3bd16590c385a0bb1e91e45815c23"
  }
 ]
