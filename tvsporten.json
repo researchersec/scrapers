@@ -1,29 +1,5 @@
 [
  {
-  "match": "Langrend: Jizerska 50",
-  "category": "Langrend",
-  "time": "07:50",
-  "date": "2025-02-09",
-  "channels": [
-   {
-    "name": "Sport Live",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
-   }
-  ]
- },
- {
-  "match": "Nordisk kombination (D) Normal bakke",
-  "category": "Nordisk kombination",
-  "time": "09:10",
-  "date": "2025-02-09",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Commercial Bank Qatar Masters",
   "category": "DP World Tour",
   "time": "09:30",
