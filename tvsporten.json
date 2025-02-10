@@ -1,17 +1,5 @@
 [
  {
-  "match": "Riyadh P1",
-  "category": "Premier Padel",
-  "time": "10:00",
-  "date": "2025-02-10",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Snooker Welsh Open",
   "category": "World Snooker Tour",
   "time": "14:00",
