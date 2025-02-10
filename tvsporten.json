@@ -1,21 +1,5 @@
 [
  {
-  "match": "Snooker Welsh Open",
-  "category": "World Snooker Tour",
-  "time": "14:00",
-  "date": "2025-02-10",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "Esbjerg Energy – Rødovre Mighty Bulls",
   "category": "Metal Ligaen",
   "time": "19:00",
