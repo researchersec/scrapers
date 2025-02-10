@@ -2,6 +2,14 @@
  {
   "category": "it",
   "pub_date": "10-02-2025",
+  "title": "Senior Platform Engineer",
+  "company": "Continia Software A/S",
+  "location": "Copenhagen Ø or Nørresundby",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143677&DepartmentId=18974&MediaId=5"
+ },
+ {
+  "category": "it",
+  "pub_date": "10-02-2025",
   "title": "Cybersecurity Architect for OT Security",
   "company": "Eurowind Energy A/S",
   "location": "Hobro",
@@ -150,14 +158,6 @@
   "company": "TECHCOLLEGE",
   "location": "Aalborg Øst",
   "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1038"
- },
- {
-  "category": "it",
-  "pub_date": "03-02-2025",
-  "title": "Senior Software Developer (PHP)",
-  "company": "Cykelgear A/S",
-  "location": "Terndrup, Aarhus C eller Jebjerg",
-  "job_URL": "https://job.cykelgear.dk/jobs/2780916-senior-software-developer-php"
  },
  {
   "category": "industri",
@@ -698,6 +698,14 @@
  {
   "category": "ingenioer",
   "pub_date": "10-02-2025",
+  "title": "Engineering Documentation Coordinator",
+  "company": "Körber Supply Chain DK A/S",
+  "location": "Arden",
+  "job_URL": "https://jobs.koerber.com/job/Arden-Engineering-Documentation-Coordinator/1169446801/"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "10-02-2025",
   "title": "NPI Engineer",
   "company": "Green Instruments A/S",
   "location": "Brønderslev",
@@ -784,12 +792,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1528811/maskinkonstruktoer"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "06-02-2025",
-  "title": "Teknisk projektleder",
-  "company": "idoc A/S",
-  "location": "Vejle, Aalborg eller Albertslund",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1528809/teknisk-projektleder"
+  "category": "salg",
+  "pub_date": "10-02-2025",
+  "title": "Key Account Manager til firmagaver – opsøgende salg og stærke relationer",
+  "company": "Daarbak Redoffice",
+  "location": "Vejle",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1537973/key-account-manager-til-firmagaver-opsoegende-salg-og-staerke-relationer"
  },
  {
   "category": "salg",
@@ -806,14 +814,6 @@
   "company": "Web-Koncept A/S",
   "location": "Aalborg",
   "job_URL": "https://webkoncept.teamtailor.com/jobs/5028634-moedebooker"
- },
- {
-  "category": "salg",
-  "pub_date": "07-02-2025",
-  "title": "Key Account Manager til firmagaver – opsøgende salg og stærke relationer",
-  "company": "Daarbak Redoffice",
-  "location": "Esbjerg Ø",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1537973/key-account-manager-til-firmagaver-opsoegende-salg-og-staerke-relationer"
  },
  {
   "category": "salg",
@@ -866,6 +866,14 @@
  {
   "category": "kontor",
   "pub_date": "10-02-2025",
+  "title": "Engineering Documentation Coordinator",
+  "company": "Körber Supply Chain DK A/S",
+  "location": "Arden",
+  "job_URL": "https://jobs.koerber.com/job/Arden-Engineering-Documentation-Coordinator/1169446801/"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "10-02-2025",
   "title": "Revisortrainee hos Redmark 2026",
   "company": "Redmark",
   "location": "Frederiksberg, Aalborg eller Randers SØ",
@@ -894,14 +902,6 @@
   "company": "ESS-FOOD A/S",
   "location": "Aalborg, København V",
   "job_URL": "https://jobs.danishcrown.com/job/K%C3%B8benhavn-V-Administrativ-medarbejder-til-international-handelsvirksomhed-1620/1169412101/"
- },
- {
-  "category": "kontor",
-  "pub_date": "07-02-2025",
-  "title": "Ankestyrelsen i Aalborg og København søger jurister til socialområdet",
-  "company": "Ankestyrelsen",
-  "location": "København SV eller Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=186486&DepartmentId=6085&MediaId=4314"
  },
  {
   "category": "kontor",
@@ -1110,5 +1110,13 @@
   "company": "ROCKWOOL Danmark A/S",
   "location": "Hobro",
   "job_URL": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Hobro/Industri-Elektrikerlrling_R0030165"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "03-02-2025",
+  "title": "Student til R&D afdeling",
+  "company": "HJ Lubricators",
+  "location": "Hadsund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1536280/student-til-r-d-afdeling"
  }
 ]
