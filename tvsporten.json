@@ -1,1 +1,438 @@
-[]
+[
+ {
+  "match": "Ski: World Championship",
+  "category": "Skisport",
+  "time": "09:50",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Riyadh P1",
+  "category": "Premier Padel",
+  "time": "10:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 1000 Doha: Indledende runder",
+  "category": "WTA",
+  "time": "12:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Marseille: Indledende runder",
+  "category": "ATP",
+  "time": "13:30",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Midtjylland U19 – Manchester City U19",
+  "category": "UEFA Youth League",
+  "time": "13:55",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sporting U19 - AS Monaco U19",
+  "category": "UEFA Youth League",
+  "time": "13:55",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Snooker Welsh Open",
+  "category": "World Snooker Tour",
+  "time": "14:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "VM i skiskydning: Mixed stafet",
+  "category": "Skiskydning",
+  "time": "14:30",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Real Madrid U19 – Borussia Dortmund U19",
+  "category": "UEFA Youth League",
+  "time": "15:55",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Trabzonspor U19 – Juventus U19",
+  "category": "UEFA Youth League",
+  "time": "15:55",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Holger Rune - Mariano Navone",
+  "category": "ATP",
+  "time": "16:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Buenos Aires: Indledende runder",
+  "category": "ATP",
+  "time": "17:30",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "WTA 1000 Doha: Indledende runder",
+  "category": "WTA",
+  "time": "18:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Bayern München – 1. FFC Frankfurt",
+  "category": "DFB-Pokal Frauen",
+  "time": "18:25",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Bayer Leverkusen – Werder Bremen Frauen",
+  "category": "DFB-Pokal Frauen",
+  "time": "18:25",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "HSV - Mönchengladbach",
+  "category": "DFB-Pokal Frauen",
+  "time": "18:25",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hoffenheim – Vfl Wolfsburg Kvindefodbold",
+  "category": "DFB-Pokal Frauen",
+  "time": "18:25",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Ikast Håndbold – København Håndbold",
+  "category": "Bambusa Kvindeligaen",
+  "time": "18:30",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "MOL Pick Szeged – HC PPD Zagreb",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:40",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Kolstad - Nantes",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:40",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "EM I Banecykling - Heusden Zolder",
+  "category": "EM i banecykling",
+  "time": "18:45",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Aalborg Håndbold – FC Barcelona",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:45",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Club Brugge – Atalanta",
+  "category": "Champions League",
+  "time": "18:45",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "SønderjyskE – Aalborg Pirates",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Delray Beach: Indledende runder",
+  "category": "ATP",
+  "time": "19:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Snooker Welsh Open",
+  "category": "World Snooker Tour",
+  "time": "20:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Team Esbjerg – Odense Håndbold",
+  "category": "Bambusa Kvindeligaen",
+  "time": "20:30",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Everton FC – Liverpool FC",
+  "category": "Premier League",
+  "time": "20:30",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Prime Video",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/amazon_prime_video_2024-2.png"
+   }
+  ]
+ },
+ {
+  "match": "KS Vive Tauron Kielce – SC Magdeburg",
+  "category": "EHF Champions League Håndbold",
+  "time": "20:40",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sheffield United – Middlesbrough FC",
+  "category": "Championship",
+  "time": "20:55",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Feyenoord – AC Milan",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "AS Monaco – Benfica",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Celtic FC – FC Bayern München",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-02-12",
+  "channels": [
+   {
+    "name": "TV3 +",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
