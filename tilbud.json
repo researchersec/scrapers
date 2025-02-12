@@ -88,14 +88,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-32.webp&w=100&x1r=0.261&x2r=0.5751&y1r=0.3611&y2r=0.6384&s=fcd22440d051498b04d12f9014844308"
  },
  {
-  "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-TUBORG-SPROD~o:eYY-KKZlOMAq2XrBb4uhc",
-  "price": "72.00",
-  "currency": "DKK",
-  "valid_from": "31-01-2025",
-  "valid_until": "28-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-34.webp&w=100&x1r=0.5077&x2r=0.9962&y1r=0.6657&y2r=0.9581&s=c74bf3d758a86c66136809ef80d39d7b"
- },
- {
   "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-CARLSBERG-PILSNER~o:VGQjb-KPNUFoxPOz1WrzB",
   "price": "115.00",
   "currency": "DKK",
@@ -104,12 +96,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhOQE1_Jz%2Fp-39.webp&w=100&x1r=0.5052&x2r=0.9799&y1r=0.6163&y2r=0.914&s=e06d3112dd757c532e706106c05af3bc"
  },
  {
-  "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Sprod~o:fZfXO9i2POaakkMMncHt3",
+  "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-TUBORG-SPROD~o:UQ9kHn1kjgyz99Tcmxmj7",
   "price": "72.00",
   "currency": "DKK",
   "valid_from": "31-01-2025",
   "valid_until": "28-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8X3mKL2q%2Fp-22.webp&w=100&x1r=0.6481&x2r=0.9692&y1r=0.2818&y2r=0.4994&s=90c874f18caf70f15cf8ffd3fdf97c0a"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4neZubIi%2Fp-5.webp&w=100&x1r=0.6566&x2r=0.9903&y1r=0.2356&y2r=0.4986&s=ba81ac330a1fff83dddcf2a59a67c732"
+ },
+ {
+  "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Tuborg-Sprod~o:haoHKOehb-PVD5xbQoAYi",
+  "price": "72.00",
+  "currency": "DKK",
+  "valid_from": "31-01-2025",
+  "valid_until": "28-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fc0_iiunz%2Fp-21.webp&w=100&x1r=0.6454&x2r=0.9719&y1r=0.2808&y2r=0.4999&s=ae8934532f4d44e7281fb3737a2b8a04"
  },
  {
   "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:G9LV5HzKp6dPHSgvqC12U",
