@@ -288,14 +288,6 @@
   "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1039"
  },
  {
-  "category": "industri",
-  "pub_date": "07-02-2025",
-  "title": "Delikatesseassistent, SuperBrugsen, Hadsund",
-  "company": "SuperBrugsen",
-  "location": "Hadsund",
-  "job_URL": "https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/154467-da_DK"
- },
- {
   "category": "handel",
   "pub_date": "11-02-2025",
   "title": "G4S søger Afdelingsleder til vores Sikringsteam i Serviceafdelingen",
@@ -406,6 +398,14 @@
   "company": "HimmerLand",
   "location": "Farsø",
   "job_URL": "https://HimmerLand.career.emply.com/ad/energisk-og-passioneret-daglig-leder-til-larsens-sportsbar-bistro/mdxvr2/da"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "12-02-2025",
+  "title": "Kalkulatør til Jord i Jylland",
+  "company": "MT Højgaard Danmark A/S",
+  "location": "Risskov, Aalborg eller Fredericia",
+  "job_URL": "https://mthgroup.csod.com/ats/careersite/JobDetails.aspx?site=11&id=1209"
  },
  {
   "category": "ledelse",
@@ -542,22 +542,6 @@
   "company": "EnviDan A/S",
   "location": "Kastrup, Silkeborg, Aarhus m.fl.",
   "job_URL": "https://envidandenmark.teamtailor.com/jobs/5343063-projektleder-til-spildevandsplaner-i-innovativ-ingeniorvirksomhed"
- },
- {
-  "category": "ledelse",
-  "pub_date": "10-02-2025",
-  "title": "Project Manager for OT Cybersecurity projects",
-  "company": "Eurowind Energy A/S",
-  "location": "Hobro",
-  "job_URL": "https://eurowindenergy.com/career?hr=show-job/234448&locale=en_US#hrskyen"
- },
- {
-  "category": "ledelse",
-  "pub_date": "10-02-2025",
-  "title": "NPI Engineer",
-  "company": "Green Instruments A/S",
-  "location": "Brønderslev",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2356&ProjectId=143607&DepartmentId=18984&MediaId=4619"
  },
  {
   "category": "undervisning",
@@ -809,6 +793,14 @@
  },
  {
   "category": "ingenioer",
+  "pub_date": "12-02-2025",
+  "title": "Kalkulatør til Jord i Jylland",
+  "company": "MT Højgaard Danmark A/S",
+  "location": "Risskov, Aalborg eller Fredericia",
+  "job_URL": "https://mthgroup.csod.com/ats/careersite/JobDetails.aspx?site=11&id=1209"
+ },
+ {
+  "category": "ingenioer",
   "pub_date": "11-02-2025",
   "title": "Test Lead - for 5G/6G Satellite Communication",
   "company": "Gatehouse Satcom A/S",
@@ -928,20 +920,12 @@
   "job_URL": "https://envidandenmark.teamtailor.com/jobs/5366315-planlaegningsingenior-til-aflob-klimatilpasning"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "10-02-2025",
-  "title": "Engineering Documentation Coordinator",
-  "company": "Körber Supply Chain DK A/S",
-  "location": "Arden",
-  "job_URL": "https://jobs.koerber.com/job/Arden-Engineering-Documentation-Coordinator/1169446801/"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "10-02-2025",
-  "title": "NPI Engineer",
-  "company": "Green Instruments A/S",
-  "location": "Brønderslev",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2356&ProjectId=143607&DepartmentId=18984&MediaId=4619"
+  "category": "salg",
+  "pub_date": "12-02-2025",
+  "title": "Kørende Salgskonsulent til salg af Tryghed – Aalborg",
+  "company": "Verisure",
+  "location": "Aalborg Øst",
+  "job_URL": "https://careers.verisure.com/dk/da/job/r2024060934/K%C3%B8rende-Salgskonsulent-til-salg-af-Tryghed-Aalborg"
  },
  {
   "category": "salg",
