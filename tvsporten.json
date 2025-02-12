@@ -132,18 +132,6 @@
   ]
  },
  {
-  "match": "Holger Rune - Mariano Navone",
-  "category": "ATP",
-  "time": "16:00",
-  "date": "2025-02-12",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
   "match": "ATP 250 Buenos Aires: Indledende runder",
   "category": "ATP",
   "time": "17:30",
