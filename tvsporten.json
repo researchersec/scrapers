@@ -1,57 +1,5 @@
 [
  {
-  "match": "Ski: World Championship",
-  "category": "Skisport",
-  "time": "09:50",
-  "date": "2025-02-12",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Riyadh P1",
-  "category": "Premier Padel",
-  "time": "10:00",
-  "date": "2025-02-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "WTA 1000 Doha: Indledende runder",
-  "category": "WTA",
-  "time": "12:00",
-  "date": "2025-02-12",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Marseille: Indledende runder",
-  "category": "ATP",
-  "time": "13:30",
-  "date": "2025-02-12",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
   "match": "FC Midtjylland U19 – Manchester City U19",
   "category": "UEFA Youth League",
   "time": "13:55",
