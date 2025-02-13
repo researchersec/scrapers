@@ -116,14 +116,14 @@
   ]
  },
  {
-  "match": "Holger Rune - Mariano Navone",
-  "category": "ATP",
-  "time": "16:00",
+  "match": "WTA 1000 Doha: Rybakina - Swiatek",
+  "category": "WTA",
+  "time": "15:30",
   "date": "2025-02-13",
   "channels": [
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
    }
   ]
  },
@@ -336,6 +336,30 @@
   ]
  },
  {
+  "match": "WTA 1000 Doha: Kostyuk - Anisimova",
+  "category": "WTA",
+  "time": "19:30",
+  "date": "2025-02-13",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "ATP 250 Buenos Aires",
+  "category": "ATP",
+  "time": "19:30",
+  "date": "2025-02-13",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
   "match": "Glasgow PDC Darts",
   "category": "Dart",
   "time": "20:00",
@@ -492,6 +516,18 @@
    {
     "name": "Disney Plus",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Holger Rune - Mariano Navone",
+  "category": "ATP",
+  "time": "21:30",
+  "date": "2025-02-13",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
    }
   ]
  },
