@@ -1,57 +1,5 @@
 [
  {
-  "match": "Snooker Welsh Open",
-  "category": "World Snooker Tour",
-  "time": "14:00",
-  "date": "2025-02-14",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "ATP 250 Marseille: Kvartfinaler",
-  "category": "ATP",
-  "time": "14:30",
-  "date": "2025-02-14",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
-  "match": "WTA 1000 Doha: Semifinale",
-  "category": "WTA",
-  "time": "15:00",
-  "date": "2025-02-14",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "VM i skiskydning: Sprint (k)",
-  "category": "Skiskydning",
-  "time": "15:05",
-  "date": "2025-02-14",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
   "match": "ATP 250 Buenos Aires: Kvartfinaler",
   "category": "ATP",
   "time": "17:30",
