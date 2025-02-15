@@ -910,17 +910,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    }
   ]
- },
- {
-  "match": "Freestyle (D/M) Halfpipe",
-  "category": "Skisport",
-  "time": "02:50",
-  "date": "2025-02-15",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
