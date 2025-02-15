@@ -1,17 +1,5 @@
 [
  {
-  "match": "EM: Semifinale",
-  "category": "Badminton-EM",
-  "time": "07:00",
-  "date": "2025-02-15",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
   "match": "Ski: World Championship",
   "category": "Skisport",
   "time": "09:35",
