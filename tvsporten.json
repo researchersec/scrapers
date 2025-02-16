@@ -1,41 +1,5 @@
 [
  {
-  "match": "Langrend Gronklitt Enkeltstart",
-  "category": "Langrend",
-  "time": "07:50",
-  "date": "2025-02-16",
-  "channels": [
-   {
-    "name": "Sport Live",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
-   }
-  ]
- },
- {
-  "match": "WTA 1000 Dubai: Indledende runder",
-  "category": "WTA",
-  "time": "08:00",
-  "date": "2025-02-16",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
-  "match": "EM: Finale",
-  "category": "Badminton-EM",
-  "time": "08:00",
-  "date": "2025-02-16",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
   "match": "Ski: World Championship",
   "category": "Skisport",
   "time": "09:35",
