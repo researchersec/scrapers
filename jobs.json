@@ -169,6 +169,14 @@
  },
  {
   "category": "industri",
+  "pub_date": "17-02-2025",
+  "title": "Mejerichef - NØRAGER MEJERI",
+  "company": "NORDEX FOOD A/S",
+  "location": "Nørager",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143682&DepartmentId=18961&MediaId=5"
+ },
+ {
+  "category": "industri",
   "pub_date": "14-02-2025",
   "title": "Intern sælger ventilation",
   "company": "Lund HR ApS",
@@ -238,14 +246,6 @@
   "company": "Arla Foods amba",
   "location": "Hobro",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1539603/transport-team-leader-hobro-distribution"
- },
- {
-  "category": "industri",
-  "pub_date": "12-02-2025",
-  "title": "Fuldmægtig til Naturstyrelsen Thy",
-  "company": "Naturstyrelsen",
-  "location": "Thisted",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=186663&DepartmentId=6163&MediaId=3638"
  },
  {
   "category": "handel",
@@ -352,12 +352,28 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1537670/erfaren-fuldtidstjener-med-superkraefter-og-et-smittende-smil"
  },
  {
-  "category": "handel",
-  "pub_date": "07-02-2025",
-  "title": "Delikatesseassistent, SuperBrugsen, Hadsund",
-  "company": "SuperBrugsen",
-  "location": "Hadsund",
-  "job_URL": "https://jobs.coop.dk/job/Delikatesseassistent%2C-SuperBrugsen%2C-Hadsund/154467-da_DK"
+  "category": "ledelse",
+  "pub_date": "17-02-2025",
+  "title": "Electrical Lead Engineer to pioneering projects",
+  "company": "ABB A/S",
+  "location": "Aalborg Øst, Esbjerg N, Middelfart, or Ballerup",
+  "job_URL": "https://careers.abb/global/en/job/95288438/Electrical-Lead-Engineer-to-pioneering-projects"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "17-02-2025",
+  "title": "Manager of Propulsion System Engineering",
+  "company": "MAN Energy Solutions",
+  "location": "Frederikshavn",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145538&DepartmentId=19149&MediaId=4619"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "17-02-2025",
+  "title": "Skoleleder",
+  "company": "Aalborg Friskole",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1540228/skoleleder"
  },
  {
   "category": "ledelse",
@@ -382,6 +398,14 @@
   "company": "CGI Danmark A/S",
   "location": "Nørresundby",
   "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-1799&BRID=1184276&lang=10"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "17-02-2025",
+  "title": "Mejerichef - NØRAGER MEJERI",
+  "company": "NORDEX FOOD A/S",
+  "location": "Nørager",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143682&DepartmentId=18961&MediaId=5"
  },
  {
   "category": "ledelse",
@@ -480,30 +504,6 @@
   "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Team-Leader-til-Aalborg-9000/1171504901/"
  },
  {
-  "category": "ledelse",
-  "pub_date": "13-02-2025",
-  "title": "Medarbejder til lavbunds- og vådområdeprojekter",
-  "company": "Naturstyrelsen",
-  "location": "Skørping",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=186685&DepartmentId=6163&MediaId=3638"
- },
- {
-  "category": "ledelse",
-  "pub_date": "13-02-2025",
-  "title": "Erfaren og energisk teamleder til lager",
-  "company": "Luksusbaby A/S",
-  "location": "Støvring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2758&ProjectId=143616&DepartmentId=18956&MediaId=5&SkipAdvertisement=False"
- },
- {
-  "category": "ledelse",
-  "pub_date": "13-02-2025",
-  "title": "Transport Team Leader - Hobro Distribution",
-  "company": "Arla Foods amba",
-  "location": "Hobro",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1539603/transport-team-leader-hobro-distribution"
- },
- {
   "category": "undervisning",
   "pub_date": "31-01-2025",
   "title": "HabitusHuset Sct. Mortensgaard søger pædagogiske medarbejdere til to nystartede solisttilbud",
@@ -521,11 +521,11 @@
  },
  {
   "category": "undervisning",
-  "pub_date": "29-01-2025",
-  "title": "Den Sociale Café Hjerterummet søger værestedsmedarbejder",
-  "company": "Blå Kors Danmark",
+  "pub_date": "17-02-2025",
+  "title": "Skoleleder",
+  "company": "Aalborg Friskole",
   "location": "Aalborg",
-  "job_URL": "https://blaakors.career.emply.com/ad/den-sociale-cafe-hjerterummet-soger-vaerestedsmedarbejder/rmvwk9/da"
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1540228/skoleleder"
  },
  {
   "category": "undervisning",
@@ -754,6 +754,30 @@
  {
   "category": "ingenioer",
   "pub_date": "17-02-2025",
+  "title": "Electrical Lead Engineer to pioneering projects",
+  "company": "ABB A/S",
+  "location": "Aalborg Øst, Esbjerg N, Middelfart, or Ballerup",
+  "job_URL": "https://careers.abb/global/en/job/95288438/Electrical-Lead-Engineer-to-pioneering-projects"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "17-02-2025",
+  "title": "Manager of Propulsion System Engineering",
+  "company": "MAN Energy Solutions",
+  "location": "Frederikshavn",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145538&DepartmentId=19149&MediaId=4619"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "17-02-2025",
+  "title": "Udviklingsassistent med flair og erfaring med produktionsmodning af produktkoncepter",
+  "company": "Audio Group Denmark",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1539823/udviklingsassistent-med-flair-og-erfaring-med-produktionsmodning-af-produktkoncepter"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "17-02-2025",
   "title": "Master Data Specialist til vores IT-afdeling",
   "company": "Idealcombi A/S",
   "location": "Hurup",
@@ -766,6 +790,22 @@
   "company": "HumanTrust A/S",
   "location": "Hjørring",
   "job_URL": "https://humantrust.dk/c/jobs/ceo-til-international-teknisk-markedsleder"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "17-02-2025",
+  "title": "Mejerichef - NØRAGER MEJERI",
+  "company": "NORDEX FOOD A/S",
+  "location": "Nørager",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143682&DepartmentId=18961&MediaId=5"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "17-02-2025",
+  "title": "Biolog til klækkeri, laboratoriefunktioner og formidling - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Nykøbing M",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4687"
  },
  {
   "category": "ingenioer",
@@ -830,54 +870,6 @@
   "company": "Global Boiler Services",
   "location": "Svenstrup J",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1539838/automation-projects-assistant"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "14-02-2025",
-  "title": "Area Sales Manager",
-  "company": "HJ Lubricators",
-  "location": "Hadsund or Kgs. Lyngby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1531903/area-sales-manager"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "14-02-2025",
-  "title": "Projektleder til førende anlægsgartnerkoncern",
-  "company": "OKNygaard A/S",
-  "location": "Aalborg SV",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1525962/projektleder-til-foerende-anlaegsgartnerkoncern"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "14-02-2025",
-  "title": "Technical digital building designer - Temporary position",
-  "company": "MapsPeople A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://mapspeople.career.emply.com/ad/technical-digital-building-designer-temporary-position/dbc6w3/en"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "14-02-2025",
-  "title": "Afdelingsleder for vandmiljø",
-  "company": "Vesthimmerlands Kommune",
-  "location": "Farsø",
-  "job_URL": "https://vesthimmerland.dk/ledige-stillinger?hr=show-job/28605&linkref=8705&locale=da_DK"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "14-02-2025",
-  "title": "El-ingeniør",
-  "company": "Process Engineering A/S",
-  "location": "Aalborg SV",
-  "job_URL": "https://proeng.dk/job/el-ingenioer/"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "14-02-2025",
-  "title": "COO",
-  "company": "Hansen Toft A/S",
-  "location": "Svenstrup J",
-  "job_URL": "https://www.hansentoft.dk/job/8780"
  },
  {
   "category": "salg",
@@ -968,14 +960,6 @@
   "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Team-Leader-til-Aalborg-9000/1171504901/"
  },
  {
-  "category": "salg",
-  "pub_date": "13-02-2025",
-  "title": "Kickstart din salgskarriere i en international virksomhed!",
-  "company": "Roblon",
-  "location": "Frederikshavn",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1530969/kickstart-din-salgskarriere-i-en-international-virksomhed"
- },
- {
   "category": "kontor",
   "pub_date": "17-02-2025",
   "title": "Assisterende havnefoged",
@@ -994,10 +978,10 @@
  {
   "category": "kontor",
   "pub_date": "17-02-2025",
-  "title": "Regnskabs- og økonomimedarbejder",
-  "company": "Erenfred Pedersen A/S",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1525749/regnskabs-og-oekonomimedarbejder"
+  "title": "Fabriksassistent i Nørresundby",
+  "company": "Colas Danmark A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://careers.colasjobs.com/job/N%C3%B8rresundby-Colas-Danmark-AS-s%C3%B8ger-fabriksassistent-i-N%C3%B8rresundby-Regi-9400/813705202/"
  },
  {
   "category": "kontor",
@@ -1102,14 +1086,6 @@
   "company": "DKV",
   "location": "Brøndby or remotely",
   "job_URL": "https://vonq.io/4hSw0kQ"
- },
- {
-  "category": "kontor",
-  "pub_date": "14-02-2025",
-  "title": "Indkøbsassistent",
-  "company": "Kompetent",
-  "location": "Støvring",
-  "job_URL": "https://karriere.kompetent.as/jobs/5544595-indkoebsassistent"
  },
  {
   "category": "oevrige",
