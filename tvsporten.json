@@ -1,37 +1,5 @@
 [
  {
-  "match": "Jaen Classic (m)",
-  "category": "UCI Herrer",
-  "time": "15:00",
-  "date": "2025-02-17",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Finland – Sverige",
-  "category": "4 Nations",
-  "time": "16:30",
-  "date": "2025-02-17",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Randers FC – FC København",
   "category": "Superliga",
   "time": "19:00",
