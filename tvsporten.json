@@ -1,29 +1,5 @@
 [
  {
-  "match": "VM i skiskydning: Lenzerheide individuel (k)",
-  "category": "Skiskydning",
-  "time": "15:05",
-  "date": "2025-02-18",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
-   }
-  ]
- },
- {
-  "match": "WTA 1000 Dubai: Indledende runder",
-  "category": "WTA",
-  "time": "15:30",
-  "date": "2025-02-18",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   }
-  ]
- },
- {
   "match": "Hc Kriens – Fraikin Bm Granollers",
   "category": "EHF Cup - Herrer",
   "time": "18:40",
