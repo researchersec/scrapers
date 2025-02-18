@@ -1,21 +1,5 @@
 [
  {
-  "match": "WTA 1000 Dubai: Indledende runder",
-  "category": "ATP",
-  "time": "08:00",
-  "date": "2025-02-18",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
-   }
-  ]
- },
- {
   "match": "UAE Tour (m)",
   "category": "UCI Herrer",
   "time": "11:50",
