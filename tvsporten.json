@@ -1,21 +1,5 @@
 [
  {
-  "match": "UAE Tour (m)",
-  "category": "UCI Herrer",
-  "time": "11:50",
-  "date": "2025-02-19",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "Vuelta a Andalucia (m)",
   "category": "UCI Herrer",
   "time": "14:00",
