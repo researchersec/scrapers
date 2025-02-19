@@ -1,6 +1,22 @@
 [
  {
   "category": "it",
+  "pub_date": "19-02-2025",
+  "title": "Software QA Engineer",
+  "company": "XCI A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://xci.teamtailor.com/jobs/5558727-software-qa-engineer?promotion=1349089-jobindex"
+ },
+ {
+  "category": "it",
+  "pub_date": "19-02-2025",
+  "title": "Lead Software Developer - for maritime tracking-systems",
+  "company": "Gatehouse Maritime",
+  "location": "Nørresundby",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1540871/lead-software-developer-for-maritime-tracking-systems"
+ },
+ {
+  "category": "it",
   "pub_date": "18-02-2025",
   "title": "Kreativ Content Creator –  Barselsvikariat – Start hurtigst muligt",
   "company": "Sol og Strand Feriehusudlejning A/S",
@@ -128,12 +144,20 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1539418/dolle-soeger-pim-specialist-til-marketingafdelingen"
  },
  {
-  "category": "it",
-  "pub_date": "12-02-2025",
-  "title": "Director, Head of Network",
-  "company": "Telenor",
-  "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145875&DepartmentId=18957&MediaId=5"
+  "category": "industri",
+  "pub_date": "19-02-2025",
+  "title": "Vil du arbejde med Læsøs natur?",
+  "company": "Naturstyrelsen",
+  "location": "Læsø",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=186782&DepartmentId=6163&MediaId=3638"
+ },
+ {
+  "category": "industri",
+  "pub_date": "19-02-2025",
+  "title": "Teknisk projektleder",
+  "company": "Carsoe",
+  "location": "Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2042&ProjectId=143754&DepartmentId=18956&MediaId=4617"
  },
  {
   "category": "industri",
@@ -222,14 +246,6 @@
   "company": "Vesthimmerlands Kommune",
   "location": "Farsø",
   "job_URL": "https://vesthimmerland.dk/ledige-stillinger?hr=show-job/28605&linkref=8705&locale=da_DK"
- },
- {
-  "category": "industri",
-  "pub_date": "13-02-2025",
-  "title": "Medarbejder til lavbunds- og vådområdeprojekter",
-  "company": "Naturstyrelsen",
-  "location": "Skørping",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=186685&DepartmentId=6163&MediaId=3638"
  },
  {
   "category": "handel",
@@ -342,6 +358,22 @@
   "company": "Restaurant AKKC by MEST",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1538501/koekkenchef-til-restaurant-akkc-by-mest-restaurant-podium"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "19-02-2025",
+  "title": "Lead Software Developer - for maritime tracking-systems",
+  "company": "Gatehouse Maritime",
+  "location": "Nørresundby",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1540871/lead-software-developer-for-maritime-tracking-systems"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "19-02-2025",
+  "title": "Teknisk projektleder",
+  "company": "Carsoe",
+  "location": "Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2042&ProjectId=143754&DepartmentId=18956&MediaId=4617"
  },
  {
   "category": "ledelse",
@@ -470,22 +502,6 @@
   "company": "OKNygaard A/S",
   "location": "Aalborg SV",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1525962/projektleder-til-foerende-anlaegsgartnerkoncern"
- },
- {
-  "category": "ledelse",
-  "pub_date": "14-02-2025",
-  "title": "Afdelingsleder for vandmiljø",
-  "company": "Vesthimmerlands Kommune",
-  "location": "Farsø",
-  "job_URL": "https://vesthimmerland.dk/ledige-stillinger?hr=show-job/28605&linkref=8705&locale=da_DK"
- },
- {
-  "category": "ledelse",
-  "pub_date": "14-02-2025",
-  "title": "El-ingeniør",
-  "company": "Process Engineering A/S",
-  "location": "Aalborg SV",
-  "job_URL": "https://proeng.dk/job/el-ingenioer/"
  },
  {
   "category": "undervisning",
@@ -738,6 +754,14 @@
  {
   "category": "ingenioer",
   "pub_date": "19-02-2025",
+  "title": "Teknisk projektleder",
+  "company": "Carsoe",
+  "location": "Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2042&ProjectId=143754&DepartmentId=18956&MediaId=4617"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "19-02-2025",
   "title": "Projektleder til energi-, bygge- og anlægsbranchen",
   "company": "idoc A/S",
   "location": "Aalborg, Vejle eller Albertslund",
@@ -856,14 +880,6 @@
   "job_URL": "https://molbak.dk/om-moelbak/karriere/ledige-stillinger/kort-og-landmaalingstekniker-hobro/"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "14-02-2025",
-  "title": "Global PT Manager",
-  "company": "CUBIC-Modulsystem A/S",
-  "location": "Brønderslev",
-  "job_URL": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Global-PT-Manager_R24-7035"
- },
- {
   "category": "salg",
   "pub_date": "18-02-2025",
   "title": "Teknikjournalist hos LandbrugsMedierne",
@@ -974,14 +990,6 @@
   "company": "HJ Lubricators",
   "location": "Hadsund or Kgs. Lyngby",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1531903/area-sales-manager"
- },
- {
-  "category": "salg",
-  "pub_date": "14-02-2025",
-  "title": "Content creator",
-  "company": "Aalborg Boldspilklub A/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1540158/content-creator"
  },
  {
   "category": "kontor",
