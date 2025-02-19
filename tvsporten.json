@@ -1,13 +1,205 @@
 [
  {
-  "match": "ATP 500 Rio: Indledende runder",
-  "category": "ATP",
-  "time": "23:00",
-  "date": "2025-02-18",
+  "match": "Formel 1 75 Live",
+  "category": "Formel 1",
+  "time": "09:00",
+  "date": "2025-02-19",
   "channels": [
    {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "UAE Tour (m)",
+  "category": "UCI Herrer",
+  "time": "11:50",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Vuelta a Andalucia (m)",
+  "category": "UCI Herrer",
+  "time": "14:00",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "Volta ao Algarve (m)",
+  "category": "UCI Herrer",
+  "time": "16:00",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "6'eren",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/6eren_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   }
+  ]
+ },
+ {
+  "match": "RK Prvo Zagreb - Kolstad",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:40",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Borussia Dortmund – Sporting Clube de Portugal",
+  "category": "Champions League",
+  "time": "18:45",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Rungsted Seier Capital – Frederikshavn White Hawks",
+  "category": "Metal Ligaen",
+  "time": "19:00",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "Metalligaen.tv",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Nykøbing Falster Håndboldklub – Team Esbjerg",
+  "category": "Bambusa Kvindeligaen",
+  "time": "20:00",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "SC Magdeburg – Aalborg Håndbold",
+  "category": "EHF Champions League Håndbold",
+  "time": "20:40",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Paris Saint Germain – Stade Brest",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "PSV Eindhoven – Juventus",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Real Madrid – Manchester City",
+  "category": "Champions League",
+  "time": "21:00",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "TV3 +",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Four Continents Figure Skating Championships",
+  "category": "Skøjtesport",
+  "time": "04:00",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "LPGA Tour",
+  "category": "LPGA",
+  "time": "04:00",
+  "date": "2025-02-19",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  }
