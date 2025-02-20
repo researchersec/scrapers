@@ -1,37 +1,5 @@
 [
  {
-  "match": "Vuelta a Andalucia (m)",
-  "category": "UCI Herrer",
-  "time": "14:00",
-  "date": "2025-02-20",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Volta ao Algarve (m)",
-  "category": "UCI Herrer",
-  "time": "16:00",
-  "date": "2025-02-20",
-  "channels": [
-   {
-    "name": "6'eren",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/6eren_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "Pafos FC – AC Omonia",
   "category": "Europa Conference League",
   "time": "18:00",
