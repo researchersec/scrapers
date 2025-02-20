@@ -1,37 +1,5 @@
 [
  {
-  "match": "DP World Tour",
-  "category": "DP World Tour",
-  "time": "11:00",
-  "date": "2025-02-20",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "UAE Tour (m)",
-  "category": "UCI Herrer",
-  "time": "11:50",
-  "date": "2025-02-20",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "Vuelta a Andalucia (m)",
   "category": "UCI Herrer",
   "time": "14:00",
@@ -176,6 +144,30 @@
   ]
  },
  {
+  "match": "Veszprém - Sporting",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:40",
+  "date": "2025-02-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Wisła Płock - Füchse Berlin",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:40",
+  "date": "2025-02-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
   "match": "Bodø/Glimt – FC Twente",
   "category": "Europa League",
   "time": "18:45",
@@ -261,6 +253,42 @@
     "name": "TV3 Sport",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
    },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Dublin",
+  "category": "Dart",
+  "time": "20:00",
+  "date": "2025-02-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Barcelona – PGE Vive Kielce",
+  "category": "EHF Champions League Håndbold",
+  "time": "20:40",
+  "date": "2025-02-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Eurofarm Pelister - Dinamo Bucureşti",
+  "category": "EHF Champions League Håndbold",
+  "time": "20:40",
+  "date": "2025-02-20",
+  "channels": [
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
