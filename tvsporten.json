@@ -330,21 +330,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_logo-svg-1-2.png"
    }
   ]
- },
- {
-  "match": "LPGA Tour",
-  "category": "LPGA",
-  "time": "04:00",
-  "date": "2025-02-20",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
