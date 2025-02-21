@@ -1,49 +1,5 @@
 [
  {
-  "match": "Magical Kenya Open",
-  "category": "DP World Tour",
-  "time": "11:00",
-  "date": "2025-02-21",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "UAE Tour (m)",
-  "category": "UCI Herrer",
-  "time": "11:50",
-  "date": "2025-02-21",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Lodtrækning",
-  "category": "Champions League",
-  "time": "12:00",
-  "date": "2025-02-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Vuelta a Andalucia (m)",
   "category": "UCI Herrer",
   "time": "14:00",
