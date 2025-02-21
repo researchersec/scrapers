@@ -1,37 +1,5 @@
 [
  {
-  "match": "Vuelta a Andalucia (m)",
-  "category": "UCI Herrer",
-  "time": "14:00",
-  "date": "2025-02-21",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Volta ao Algarve (m)",
-  "category": "UCI Herrer",
-  "time": "16:00",
-  "date": "2025-02-21",
-  "channels": [
-   {
-    "name": "6'eren",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/6eren_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "Hobro IK – Vendsyssel FF",
   "category": "NordicBet Liga",
   "time": "18:30",
@@ -112,6 +80,18 @@
    {
     "name": "Metalligaen.tv",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Danmark – Sverige",
+  "category": "UEFA Nations League \n\t\t\t\t\t\t\t\t\t(Kvinder)",
+  "time": "19:15",
+  "date": "2025-02-21",
+  "channels": [
+   {
+    "name": "DR 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
    }
   ]
  },

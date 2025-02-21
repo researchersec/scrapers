@@ -25,6 +25,14 @@
  },
  {
   "category": "it",
+  "pub_date": "21-02-2025",
+  "title": "Softwareudvikler",
+  "company": "Nordiske Medier A/S",
+  "location": "Aalborg",
+  "job_URL": "https://detnordjyskemediehus.dk/job-og-karriere/ledige-stillinger/job-detail/?vid=2025-21-02&locationId=3911"
+ },
+ {
+  "category": "it",
   "pub_date": "19-02-2025",
   "title": "Software QA Engineer",
   "company": "XCI A/S",
@@ -128,12 +136,12 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143659&DepartmentId=18974&MediaId=5"
  },
  {
-  "category": "it",
-  "pub_date": "14-02-2025",
-  "title": "Business Central Support Engineer - Document Capture Support Team",
-  "company": "Continia Software A/S",
-  "location": "Copenhagen or Nørresundby",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143670&DepartmentId=18974&MediaId=5"
+  "category": "industri",
+  "pub_date": "21-02-2025",
+  "title": "Lagermedarbejdere til sommersæsonen",
+  "company": "Color Line, Danmark A/S",
+  "location": "Hirtshals",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1327&ProjectId=144284&DepartmentId=18960&MediaId=5"
  },
  {
   "category": "industri",
@@ -174,14 +182,6 @@
   "company": "XL-BYG",
   "location": "Tårs",
   "job_URL": "https://app.elvium.com/da/positions/29454/job_posting?referer_host=www.jobindex.dk"
- },
- {
-  "category": "industri",
-  "pub_date": "19-02-2025",
-  "title": "Vil du arbejde med Læsøs natur?",
-  "company": "Naturstyrelsen",
-  "location": "Læsø",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=186782&DepartmentId=6163&MediaId=3638"
  },
  {
   "category": "handel",
@@ -288,22 +288,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1540127/assisterende-havnefoged"
  },
  {
-  "category": "handel",
-  "pub_date": "17-02-2025",
-  "title": "Teamkoordinator til Salling Rooftop og Cafe Herman i Aalborg",
-  "company": "Salling",
-  "location": "Aalborg",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/c32d7296-23f3-4d93-a9b3-4677fd57b20e"
- },
- {
-  "category": "handel",
-  "pub_date": "14-02-2025",
-  "title": "Souschef",
-  "company": "REMA 1000",
-  "location": "Aalborg SV",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72277&DepartmentId=8686&MediaId=59"
- },
- {
   "category": "ledelse",
   "pub_date": "21-02-2025",
   "title": "Produktionsteknisk Ingeniør",
@@ -406,22 +390,6 @@
   "company": "B6 NORDIC A/S",
   "location": "Sæby",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1530702/teknisk-teamleder"
- },
- {
-  "category": "ledelse",
-  "pub_date": "17-02-2025",
-  "title": "Electrical Lead Engineer to pioneering projects",
-  "company": "ABB A/S",
-  "location": "Aalborg Øst, Esbjerg N, Middelfart, or Ballerup",
-  "job_URL": "https://careers.abb/global/en/job/95288438/Electrical-Lead-Engineer-to-pioneering-projects"
- },
- {
-  "category": "ledelse",
-  "pub_date": "17-02-2025",
-  "title": "Manager of Propulsion System Engineering",
-  "company": "MAN Energy Solutions",
-  "location": "Frederikshavn",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145538&DepartmentId=19149&MediaId=4619"
  },
  {
   "category": "undervisning",
@@ -874,6 +842,14 @@
  {
   "category": "kontor",
   "pub_date": "21-02-2025",
+  "title": "Privatkunderådgiver til Hadsund",
+  "company": "Sparekassen Danmark",
+  "location": "Hadsund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1541906/privatkunderaadgiver-til-hadsund"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "21-02-2025",
   "title": "Sales- and Shippingtrainees",
   "company": "ESS-FOOD A/S",
   "location": "Aalborg or København V",
@@ -984,12 +960,20 @@
   "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/tilsynsmedarbejder-til-landbrugsteamet-i-natur-og-miljo/zo3osu/da"
  },
  {
-  "category": "kontor",
-  "pub_date": "19-02-2025",
-  "title": "Privatkunderådgiver til Nibe",
-  "company": "Sparekassen Danmark",
-  "location": "Nibe",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1533074/privatkunderaadgiver-til-nibe"
+  "category": "oevrige",
+  "pub_date": "21-02-2025",
+  "title": "Bliv elev hos BabySam Vejle: Det rigtige sted at starte din karriere!",
+  "company": "BabySam A/S",
+  "location": "Hjørring",
+  "job_URL": "https://app.elvium.com/da/positions/29492/job_posting?referer_host=www.jobindex.dk"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "21-02-2025",
+  "title": "Lagermedarbejdere til sommersæsonen",
+  "company": "Color Line, Danmark A/S",
+  "location": "Hirtshals",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1327&ProjectId=144284&DepartmentId=18960&MediaId=5"
  },
  {
   "category": "oevrige",
@@ -1102,21 +1086,5 @@
   "company": "Skagen Strand Feriecenter",
   "location": "Skagen",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1540943/tjenere"
- },
- {
-  "category": "oevrige",
-  "pub_date": "18-02-2025",
-  "title": "Handelselever / Sales Trainees",
-  "company": "Solar Danmark A/S",
-  "location": "Vejen, Brøndby, Svenstrup, Aarhus N eller København",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1540596/handelselever-sales-trainees"
- },
- {
-  "category": "oevrige",
-  "pub_date": "18-02-2025",
-  "title": "Arkil søger studerende til praktikjob i efteråret 2025",
-  "company": "Arkil A/S",
-  "location": "Hele landet",
-  "job_URL": "https://arkil.career.emply.com/ad/arkil-soger-studerende-til-praktikjob-i-efteraret-2025/13428j/da"
  }
 ]
