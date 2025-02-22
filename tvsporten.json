@@ -1,21 +1,5 @@
 [
  {
-  "match": "Superbike VM",
-  "category": "Super Car Championship",
-  "time": "05:00",
-  "date": "2025-02-22",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
   "match": "LPGA Tour",
   "category": "LPGA",
   "time": "06:00",
@@ -773,66 +757,6 @@
   "time": "23:35",
   "date": "2025-02-22",
   "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Cejudo vs Song",
-  "category": "UFC",
-  "time": "03:00",
-  "date": "2025-02-22",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Superbike VM",
-  "category": "Super Car Championship",
-  "time": "04:00",
-  "date": "2025-02-22",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   }
-  ]
- },
- {
-  "match": "Vancouver Canucks – Vegas Golden Knights",
-  "category": "NHL",
-  "time": "04:05",
-  "date": "2025-02-22",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "LPGA Tour",
-  "category": "LPGA",
-  "time": "04:30",
-  "date": "2025-02-22",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
