@@ -1,33 +1,5 @@
 [
  {
-  "match": "LPGA Tour",
-  "category": "LPGA",
-  "time": "06:00",
-  "date": "2025-02-22",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Freestyle (D/M) Parallell pukkelpiste",
-  "category": "Freestyle",
-  "time": "06:50",
-  "date": "2025-02-22",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Magical Kenya Open",
   "category": "DP World Tour",
   "time": "10:30",
