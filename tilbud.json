@@ -1,13 +1,5 @@
 [
  {
-  "link": "/LET-KOB/tilbud/YOGGI-YOGHURT~o:h6Z-3n8EWU6GR2oO9RCpH",
-  "price": "17.00",
-  "currency": "DKK",
-  "valid_from": "09-02-2025",
-  "valid_until": "23-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjuY98yBr%2Fp-5.webp&w=100&x1r=0.0227&x2r=0.4778&y1r=0.3527&y2r=0.6572&s=4893207fb24111ada7584a9efbc5ba65"
- },
- {
   "link": "/fotex/tilbud/Yoggi-yoghurt~o:FyipUwqsd7TJkFwrFm2l7",
   "price": "12.00",
   "currency": "DKK",
@@ -32,14 +24,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLs8BzZM5%2Fp-8.webp&w=100&x1r=0&x2r=0.8834&y1r=0.1746&y2r=0.7454&s=8cb7f5436fad1556f4984abfaeeb916c"
  },
  {
-  "link": "/LET-KOB/tilbud/QUAKER-CRUESLI~o:HChoO6Wv3M7xDlCouC8T6",
-  "price": "25.00",
-  "currency": "DKK",
-  "valid_from": "09-02-2025",
-  "valid_until": "23-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjuY98yBr%2Fp-8.webp&w=100&x1r=0.0241&x2r=0.5204&y1r=0.5076&y2r=0.8863&s=40d1706d2fb311f4a8973b196f76c140"
- },
- {
   "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:PQhXv6wOPWw3Bsu8frx6R",
   "price": "135.00",
   "currency": "DKK",
@@ -56,14 +40,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzFgAMc-W%2Fp-13.webp&w=100&x1r=0.5041&x2r=0.9787&y1r=0.7036&y2r=0.976&s=ce0cdb49dff15a385ea48c6153ba6a24"
  },
  {
-  "link": "/LET-KOB/tilbud/GRON-TUBORG-TUBORG-CLASSIC-ELLER-CARLSBERG-PILSNER~o:pgX0sf6ZrBFLgOfXphKfY",
-  "price": "135.00",
-  "currency": "DKK",
-  "valid_from": "09-02-2025",
-  "valid_until": "23-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjuY98yBr%2Fp-4.webp&w=100&x1r=0.4954&x2r=0.9816&y1r=0.6614&y2r=0.984&s=21d3bd16590c385a0bb1e91e45815c23"
- },
- {
   "link": "/BorderShop/tilbud/Gron-Tuborg-Pilsner-eller-Tuborg-Classic~o:cK0NfBTX4yAMng8hrvOXk",
   "price": "79.95",
   "currency": "DKK",
@@ -72,20 +48,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FOlESYynQ%2Fp-1.webp&w=100&x1r=0.2335&x2r=0.6175&y1r=0.126&y2r=0.374&s=074b3a62733813d35f157f9c9d535243"
  },
  {
-  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:Xblny8gWI4Cwvc8b45DDY",
-  "price": "84.99",
-  "currency": "DKK",
-  "valid_from": "25-02-2025",
-  "valid_until": "18-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoInXZwRQ%2Fp-11.webp&w=100&x1r=0.4255&x2r=0.9497&y1r=0.0111&y2r=0.1604&s=7f84d047776515bd6507902bba6f4cf1"
- },
- {
   "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:x6xs2QzT_5FDjybSMxj5E",
   "price": "84.99",
   "currency": "DKK",
   "valid_from": "28-01-2025",
   "valid_until": "25-02-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKAawNGrl%2Fp-13.webp&w=100&x1r=0.4254&x2r=0.9497&y1r=0.0111&y2r=0.1603&s=e56a07015f4f5f6882eef34277783361"
+ },
+ {
+  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:Xblny8gWI4Cwvc8b45DDY",
+  "price": "84.99",
+  "currency": "DKK",
+  "valid_from": "25-02-2025",
+  "valid_until": "18-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoInXZwRQ%2Fp-11.webp&w=100&x1r=0.4255&x2r=0.9497&y1r=0.0111&y2r=0.1604&s=7f84d047776515bd6507902bba6f4cf1"
  },
  {
   "link": "/MENY/tilbud/TUBORG-ELLER-CARLSBERG~o:Kt7QnT0lwX-MrX_WMaSqW",
@@ -118,5 +94,13 @@
   "valid_from": "18-02-2025",
   "valid_until": "04-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F8b63dbe5fc357a1fbbece89f6d9fb5e5&w=100&s=7e7bdfaf364fef09da6ad323b46ef44a"
+ },
+ {
+  "link": "/Nielsen-Scan-Shop/tilbud/TUBORG~o:QRev9K-gBUDqu5xkl6hvy",
+  "price": "79.00",
+  "currency": "DKK",
+  "valid_from": "15-01-2025",
+  "valid_until": "26-02-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FE8h1f0Me%2Fp-29.webp&w=100&x1r=0.3344&x2r=0.6688&y1r=0.5033&y2r=0.9963&s=b3e79718c369ab803f2ee5a7bf057397"
  }
 ]

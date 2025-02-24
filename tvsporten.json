@@ -1,9 +1,77 @@
 [
  {
-  "match": "Pittsburgh Penguins – New York Rangers",
+  "match": "Freestyle (D/M, lag) Arials",
+  "category": "Freestyle",
+  "time": "06:50",
+  "date": "2025-02-24",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Viborg FF – Silkeborg IF",
+  "category": "Superliga",
+  "time": "19:00",
+  "date": "2025-02-24",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "Sheffield United – Leeds United",
+  "category": "Championship",
+  "time": "20:55",
+  "date": "2025-02-24",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Sevilla – Mallorca",
+  "category": "La Liga",
+  "time": "21:00",
+  "date": "2025-02-24",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Formel 1 75 Live",
+  "category": "Formel 1",
+  "time": "21:00",
+  "date": "2025-02-24",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Los Angeles Kings – Vegas Golden Knights",
   "category": "NHL",
-  "time": "21:35",
-  "date": "2025-02-23",
+  "time": "04:35",
+  "date": "2025-02-24",
   "channels": [
    {
     "name": "Viaplay.dk",
