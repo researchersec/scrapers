@@ -1,6 +1,14 @@
 [
  {
   "category": "it",
+  "pub_date": "24-02-2025",
+  "title": "CGI Danmarks Graduate Program 2025",
+  "company": "CGI Danmark A/S",
+  "location": "Aarhus, Aalborg eller Ballerup",
+  "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0225-1618&BRID=1195291&lang=10"
+ },
+ {
+  "category": "it",
   "pub_date": "21-02-2025",
   "title": "Ex­pe­ri­en­ced developer for SaaS products",
   "company": "Unik System Design A/S",
@@ -128,14 +136,6 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143671&DepartmentId=18974&MediaId=5"
  },
  {
-  "category": "it",
-  "pub_date": "14-02-2025",
-  "title": "Senior Solution Manager - Continia Finance Solution",
-  "company": "Continia Software A/S",
-  "location": "Copenhagen or Nørresundby",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143659&DepartmentId=18974&MediaId=5"
- },
- {
   "category": "industri",
   "pub_date": "24-02-2025",
   "title": "Forretningsorienteret afdelingschef med baggrund i automation",
@@ -182,14 +182,6 @@
   "company": "MAN Energy Solutions",
   "location": "Frederikshavn",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145496&DepartmentId=19149&MediaId=4619"
- },
- {
-  "category": "industri",
-  "pub_date": "20-02-2025",
-  "title": "Fiskemester - DTU Aqua",
-  "company": "DTU, Danmarks Tekniske Universitet",
-  "location": "Hirtshals",
-  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4713"
  },
  {
   "category": "handel",
@@ -409,6 +401,22 @@
  },
  {
   "category": "undervisning",
+  "pub_date": "30-01-2025",
+  "title": "Pædagog søges til herberget Lærkereden",
+  "company": "KFUKs Sociale Arbejde",
+  "location": "Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1862&ProjectId=143652&DepartmentId=18993&MediaId=5&SkipAdvertisement=False"
+ },
+ {
+  "category": "undervisning",
+  "pub_date": "28-01-2025",
+  "title": "Altiden Vester Hjermitslev søger en pædagogisk medarbejder med psykiatri erfaring",
+  "company": "Altiden",
+  "location": "Brønderslev",
+  "job_URL": "https://url-scan.centerasecurity.com/url?l=2a578cfcdd8411efb383005056a85f91mx14.c&k=30&h=e88f7441a3d728adc44322bdb1701414&url=https%3A%2F%2Fjobs.altiden.dk%2Fjobs%2F5267251-altiden-vester-hjermitslev-soeger-en-paedagogisk-medarbejder-med-psykiatri-erfaring%3Fpromotion%3D1318838-jobindex"
+ },
+ {
+  "category": "undervisning",
   "pub_date": "21-02-2025",
   "title": "Pædagogisk assistent til Hannæs Børnehus",
   "company": "THISTED KOMMUNE",
@@ -462,14 +470,6 @@
   "company": "THISTED KOMMUNE",
   "location": "Frøstrup",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135017"
- },
- {
-  "category": "undervisning",
-  "pub_date": "10-02-2025",
-  "title": "Pædagog til Bedsteds nye børnehus",
-  "company": "THISTED KOMMUNE",
-  "location": "Bedsted Thy",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=134888"
  },
  {
   "category": "undervisning",
@@ -752,20 +752,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1541176/farmakonom-soeges-til-spaendende-stilling-inden-for-veterinaermedicin"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "18-02-2025",
-  "title": "Senior Technical Sales Support Engineer",
-  "company": "DESMI Pumping Technology A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=4505&joblistId=1&lang=en"
- },
- {
   "category": "salg",
-  "pub_date": "21-02-2025",
+  "pub_date": "24-02-2025",
   "title": "Sales- and Shippingtrainees",
   "company": "ESS-FOOD A/S",
   "location": "Aalborg or København V",
-  "job_URL": "https://jobs.danishcrown.com/job/K%C3%B8benhavn-V-Sales-and-Shippingtrainees-1620/1174294001/"
+  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2281/sales-and-shipping-trainee"
  },
  {
   "category": "salg",
@@ -834,6 +826,14 @@
  {
   "category": "kontor",
   "pub_date": "24-02-2025",
+  "title": "Sales- and Shippingtrainees",
+  "company": "ESS-FOOD A/S",
+  "location": "Aalborg or København V",
+  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2281/sales-and-shipping-trainee"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "24-02-2025",
   "title": "ESG Policy Manager",
   "company": "Eurowind Energy A/S",
   "location": "Hobro",
@@ -846,14 +846,6 @@
   "company": "Sparekassen Danmark",
   "location": "Hadsund",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1541906/privatkunderaadgiver-til-hadsund"
- },
- {
-  "category": "kontor",
-  "pub_date": "21-02-2025",
-  "title": "Sales- and Shippingtrainees",
-  "company": "ESS-FOOD A/S",
-  "location": "Aalborg or København V",
-  "job_URL": "https://jobs.danishcrown.com/job/K%C3%B8benhavn-V-Sales-and-Shippingtrainees-1620/1174294001/"
  },
  {
   "category": "kontor",
@@ -953,6 +945,14 @@
  },
  {
   "category": "oevrige",
+  "pub_date": "24-02-2025",
+  "title": "Sales- and Shippingtrainees",
+  "company": "ESS-FOOD A/S",
+  "location": "Aalborg or København V",
+  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2281/sales-and-shipping-trainee"
+ },
+ {
+  "category": "oevrige",
   "pub_date": "21-02-2025",
   "title": "Bliv elev hos BabySam Vejle: Det rigtige sted at starte din karriere!",
   "company": "BabySam A/S",
@@ -966,14 +966,6 @@
   "company": "Color Line, Danmark A/S",
   "location": "Hirtshals",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1327&ProjectId=144284&DepartmentId=18960&MediaId=5"
- },
- {
-  "category": "oevrige",
-  "pub_date": "21-02-2025",
-  "title": "Sales- and Shippingtrainees",
-  "company": "ESS-FOOD A/S",
-  "location": "Aalborg or København V",
-  "job_URL": "https://jobs.danishcrown.com/job/K%C3%B8benhavn-V-Sales-and-Shippingtrainees-1620/1174294001/"
  },
  {
   "category": "oevrige",
