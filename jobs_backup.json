@@ -41,6 +41,14 @@
  },
  {
   "category": "it",
+  "pub_date": "24-02-2025",
+  "title": "Software Architect",
+  "company": "Wirtek",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.wirtek.com/software-architect"
+ },
+ {
+  "category": "it",
   "pub_date": "21-02-2025",
   "title": "Ex­pe­ri­en­ced developer for SaaS products",
   "company": "Unik System Design A/S",
@@ -120,14 +128,6 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143679&DepartmentId=18974&MediaId=5"
  },
  {
-  "category": "it",
-  "pub_date": "17-02-2025",
-  "title": "Master Data Specialist til vores IT-afdeling",
-  "company": "Idealcombi A/S",
-  "location": "Hurup",
-  "job_URL": "https://idealcombi.career.emply.com/da/ad/master-data-specialist-til-vores-it-afdeling/ev3gqk"
- },
- {
   "category": "industri",
   "pub_date": "24-02-2025",
   "title": "Driftschef",
@@ -190,6 +190,14 @@
   "company": "MAN Energy Solutions",
   "location": "Frederikshavn",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145496&DepartmentId=19149&MediaId=4619"
+ },
+ {
+  "category": "handel",
+  "pub_date": "24-02-2025",
+  "title": "Timelønnet Serviceteknikere",
+  "company": "NOVASOL part of Awaze",
+  "location": "Jerup",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1542283/timeloennet-serviceteknikere"
  },
  {
   "category": "handel",
@@ -280,20 +288,12 @@
   "job_URL": "https://stark.wd3.myworkdayjobs.com/STARK-Denmark/job/Frederikshavn/Slger-til-Butiksteamet---STARK-Frederikshavn_JR26575"
  },
  {
-  "category": "handel",
-  "pub_date": "17-02-2025",
-  "title": "Støvring Gymnasium søger pedel",
-  "company": "Støvring Gymnasium",
-  "location": "Støvring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1540444/stoevring-gymnasium-soeger-pedel"
- },
- {
-  "category": "handel",
-  "pub_date": "17-02-2025",
-  "title": "Assisterende havnefoged",
-  "company": "Rønnerhavnsforeningen",
-  "location": "Frederikshavn",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1540127/assisterende-havnefoged"
+  "category": "ledelse",
+  "pub_date": "24-02-2025",
+  "title": "Afdelingschef med driftsmæssige og menneskelige kompetencer søges til branchens mest attraktive arbejdsplads!",
+  "company": "LOXAM A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1542209/afdelingschef-med-driftsmaessige-og-menneskelige-kompetencer-soeges-til-branchens-mest-attraktive-arbejdsplads"
  },
  {
   "category": "ledelse",
@@ -374,22 +374,6 @@
   "company": "Curia",
   "location": "Aalborg Øst",
   "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22290&locale=da_DK"
- },
- {
-  "category": "ledelse",
-  "pub_date": "19-02-2025",
-  "title": "Vicedirektør",
-  "company": "Nordværk I/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143722&DepartmentId=18956&MediaId=4629"
- },
- {
-  "category": "ledelse",
-  "pub_date": "19-02-2025",
-  "title": "Senior Design Project Manager - Brand & Design",
-  "company": "Nilfisk A/S",
-  "location": "Hadsund, Nordhavn or Budapest",
-  "job_URL": "https://nilfisk.wd3.myworkdayjobs.com/Nilfisk/job/Hadsund/Senior-Design-Project-Manager---Brand---Design_R013169"
  },
  {
   "category": "undervisning",
@@ -754,10 +738,26 @@
  {
   "category": "salg",
   "pub_date": "24-02-2025",
+  "title": "Afdelingschef med driftsmæssige og menneskelige kompetencer søges til branchens mest attraktive arbejdsplads!",
+  "company": "LOXAM A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1542209/afdelingschef-med-driftsmaessige-og-menneskelige-kompetencer-soeges-til-branchens-mest-attraktive-arbejdsplads"
+ },
+ {
+  "category": "salg",
+  "pub_date": "24-02-2025",
   "title": "Sales- and Shippingtrainees",
   "company": "ESS-FOOD A/S",
   "location": "Aalborg or København V",
   "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2281/sales-and-shipping-trainee"
+ },
+ {
+  "category": "salg",
+  "pub_date": "24-02-2025",
+  "title": "Kirkesanger",
+  "company": "Dronninglund Kirkekontor",
+  "location": "Dronninglund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1542250/kirkesanger"
  },
  {
   "category": "salg",
@@ -816,12 +816,12 @@
   "job_URL": "https://nilfisk.wd3.myworkdayjobs.com/Nilfisk/job/Hadsund/Senior-Design-Project-Manager---Brand---Design_R013169"
  },
  {
-  "category": "salg",
-  "pub_date": "19-02-2025",
-  "title": "Customer Success Manager med softwarekærlighed",
-  "company": "IPW Systems A/S",
-  "location": "Kolding",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1541116/customer-success-manager-med-softwarekaerlighed"
+  "category": "kontor",
+  "pub_date": "24-02-2025",
+  "title": "Policemedarbejder / skadebehandler",
+  "company": "Forsikringsselskabet Vendsyssel A/S",
+  "location": "Hjørring",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1542285/policemedarbejder-skadebehandler"
  },
  {
   "category": "kontor",
@@ -862,6 +862,22 @@
   "company": "Erik Maibom A/S",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1533746/medarbejder-til-oekonomi-administration"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "24-02-2025",
+  "title": "Ejendomsadministrator (EA)",
+  "company": "Prodomus",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1533291/ejendomsadministrator-ea"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "24-02-2025",
+  "title": "Timelønnet Serviceteknikere",
+  "company": "NOVASOL part of Awaze",
+  "location": "Jerup",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1542283/timeloennet-serviceteknikere"
  },
  {
   "category": "kontor",
@@ -934,30 +950,6 @@
   "company": "MARTEC",
   "location": "Frederikshavn",
   "job_URL": "https://www.martec.dk/om-os/ledige-stillinger/studadmmed-marts25/"
- },
- {
-  "category": "kontor",
-  "pub_date": "20-02-2025",
-  "title": "Become our new SOP Coordinator at Aalborg Portland Nordic & Baltic",
-  "company": "Aalborg Portland",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3468451/130145/"
- },
- {
-  "category": "kontor",
-  "pub_date": "19-02-2025",
-  "title": "Vicedirektør",
-  "company": "Nordværk I/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143722&DepartmentId=18956&MediaId=4629"
- },
- {
-  "category": "kontor",
-  "pub_date": "19-02-2025",
-  "title": "Vi søger to barselsvikarer, som vil være med til at gøre en forskel for vores beboere hver dag!",
-  "company": "Plus Bolig",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/img/pdf/plusbolig_barselsvikar_20250219_lost.pdf"
  },
  {
   "category": "oevrige",
