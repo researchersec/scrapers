@@ -6,6 +6,10 @@
   "date": "2025-02-25",
   "channels": [
    {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
     "name": "DR TV",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
    }
