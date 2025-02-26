@@ -1,5 +1,13 @@
 [
  {
+  "link": "/Netto/tilbud/Yoggi-yoghurt~o:DyRW9H2fSiQvII6A-Rnnp",
+  "price": "10.00",
+  "currency": "DKK",
+  "valid_from": "28-02-2025",
+  "valid_until": "07-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fg8S_Fm3o%2Fp-1.webp&w=100&x1r=0.495&x2r=1&y1r=0.5903&y2r=0.9798&s=9017db9f99cd486aa3ffc504bde37005"
+ },
+ {
   "link": "/fotex/tilbud/Yoggi-yoghurt~o:FyipUwqsd7TJkFwrFm2l7",
   "price": "12.00",
   "currency": "DKK",
@@ -24,6 +32,22 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLs8BzZM5%2Fp-8.webp&w=100&x1r=0&x2r=0.8834&y1r=0.1746&y2r=0.7454&s=8cb7f5436fad1556f4984abfaeeb916c"
  },
  {
+  "link": "/Bilka/tilbud/To-go-marked~o:XBE7omIYsgfTgGG8NkHkm",
+  "price": "6.00",
+  "currency": "DKK",
+  "valid_from": "27-02-2025",
+  "valid_until": "06-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuJWyne2w%2Fp-3.webp&w=100&x1r=0.0035&x2r=0.4888&y1r=0.2085&y2r=0.6099&s=1aac9c6d71b7402b251de0508e655cb1"
+ },
+ {
+  "link": "/fotex/tilbud/Tuborg-Kylle-Kylle-Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:NulO6-O-4XQxeVwJoAQVd",
+  "price": "135.00",
+  "currency": "DKK",
+  "valid_from": "27-02-2025",
+  "valid_until": "13-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4dN18aY7%2Fp-27.webp&w=100&x1r=0.7236&x2r=0.9918&y1r=0.2808&y2r=0.7322&s=2d1fe16feb65db1411ab901b0d094e46"
+ },
+ {
   "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:PQhXv6wOPWw3Bsu8frx6R",
   "price": "135.00",
   "currency": "DKK",
@@ -38,6 +62,14 @@
   "valid_from": "20-02-2025",
   "valid_until": "27-02-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzFgAMc-W%2Fp-13.webp&w=100&x1r=0.5041&x2r=0.9787&y1r=0.7036&y2r=0.976&s=ce0cdb49dff15a385ea48c6153ba6a24"
+ },
+ {
+  "link": "/Bilka/tilbud/Tuborg-Classic-Gron-Tuborg-Tuborg-Kylle-Kylle-eller-Carlsberg-Pilsner~o:xqHn6H9OKPfqgpx4e32ug",
+  "price": "115.00",
+  "currency": "DKK",
+  "valid_from": "27-02-2025",
+  "valid_until": "06-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuJWyne2w%2Fp-26.webp&w=100&x1r=0&x2r=0.6498&y1r=0.5841&y2r=0.9838&s=5bc77bda189904d26305a2671ad17d53"
  },
  {
   "link": "/BorderShop/tilbud/Gron-Tuborg-Pilsner-eller-Tuborg-Classic~o:cK0NfBTX4yAMng8hrvOXk",
@@ -72,14 +104,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLs8BzZM5%2Fp-19.webp&w=100&x1r=0.0461&x2r=0.5005&y1r=0.6823&y2r=0.9609&s=908c6bdd0a89b69b36133304fc92c67f"
  },
  {
-  "link": "/Calle/tilbud/Harboe-Classic-Pilsner-el.-0-0~o:CGCOs7K816Qx8ON-H-qf7",
-  "price": "54.00",
-  "currency": "DKK",
-  "valid_from": "18-02-2025",
-  "valid_until": "04-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F8b63dbe5fc357a1fbbece89f6d9fb5e5&w=100&s=7e7bdfaf364fef09da6ad323b46ef44a"
- },
- {
   "link": "/Calle/tilbud/Tuborg~o:T32VofArp_AzK79SXatkr",
   "price": "85.00",
   "currency": "DKK",
@@ -88,19 +112,11 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fjs1cLuUV%2Fp-17.webp&w=100&x1r=0.0052&x2r=0.3501&y1r=0.4119&y2r=0.7572&s=ac883b27143ec60591a6d6044a50aa42"
  },
  {
-  "link": "/Nielsen-Scan-Shop/tilbud/TUBORG~o:QRev9K-gBUDqu5xkl6hvy",
-  "price": "79.00",
-  "currency": "DKK",
-  "valid_from": "15-01-2025",
-  "valid_until": "26-02-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FE8h1f0Me%2Fp-29.webp&w=100&x1r=0.3344&x2r=0.6688&y1r=0.5033&y2r=0.9963&s=b3e79718c369ab803f2ee5a7bf057397"
- },
- {
-  "link": "/Fleggaard/tilbud/Tuborg~o:6OIlXBJBPI827SehRm1PN",
-  "price": "84.99",
+  "link": "/Calle/tilbud/Harboe-Classic-Pilsner-el.-0-0~o:CGCOs7K816Qx8ON-H-qf7",
+  "price": "54.00",
   "currency": "DKK",
   "valid_from": "18-02-2025",
   "valid_until": "04-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FqgyqCCqi%2Fp-62.webp&w=100&x1r=0.654&x2r=0.9915&y1r=0.6884&y2r=0.9476&s=654d786db7af44bc0356617faf80382a"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F8b63dbe5fc357a1fbbece89f6d9fb5e5&w=100&s=7e7bdfaf364fef09da6ad323b46ef44a"
  }
 ]
