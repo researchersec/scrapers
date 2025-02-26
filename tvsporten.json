@@ -1,21 +1,5 @@
 [
  {
-  "match": "Formel 1 75 Live",
-  "category": "Formel 1",
-  "time": "17:00",
-  "date": "2025-02-26",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Dinamo Bucureşti - Wisła Płock",
   "category": "EHF Champions League Håndbold",
   "time": "18:40",
@@ -24,6 +8,22 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Aalborg Håndbold – Zagreb",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:45",
+  "date": "2025-02-26",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
    }
   ]
  },
@@ -48,6 +48,22 @@
    {
     "name": "Metalligaen.tv",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/64f4494c5f196f9782100178-198x149-2x-2.jpg"
+   }
+  ]
+ },
+ {
+  "match": "AaB – FC Nordsjælland",
+  "category": "Superliga",
+  "time": "19:30",
+  "date": "2025-02-26",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
    }
   ]
  },
