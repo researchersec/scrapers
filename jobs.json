@@ -1,6 +1,38 @@
 [
  {
   "category": "it",
+  "pub_date": "27-02-2025",
+  "title": "Linux Operations Engineer",
+  "company": "Netcompany A/S",
+  "location": "København, Aarhus eller Aalborg",
+  "job_URL": "https://smrtr.io/nkDkK"
+ },
+ {
+  "category": "it",
+  "pub_date": "27-02-2025",
+  "title": "Software Developer",
+  "company": "Netcompany A/S",
+  "location": "København, Aarhus eller Aalborg",
+  "job_URL": "https://smrtr.io/nkxyX"
+ },
+ {
+  "category": "it",
+  "pub_date": "27-02-2025",
+  "title": "IT Consultant",
+  "company": "Netcompany A/S",
+  "location": "København, Aarhus eller Aalborg",
+  "job_URL": "https://smrtr.io/nkFdB"
+ },
+ {
+  "category": "it",
+  "pub_date": "27-02-2025",
+  "title": "Tech. Platform Team Lead",
+  "company": "RTX A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://rtx.easycruit.com/vacancy/3446965/164407?iso=us"
+ },
+ {
+  "category": "it",
   "pub_date": "25-02-2025",
   "title": "Do you want to start a career within enterprise IT equipment?",
   "company": "Nordic Computer A/S",
@@ -110,38 +142,6 @@
   "company": "XCI A/S",
   "location": "Aalborg Øst",
   "job_URL": "https://xci.teamtailor.com/jobs/5558727-software-qa-engineer?promotion=1349089-jobindex"
- },
- {
-  "category": "it",
-  "pub_date": "19-02-2025",
-  "title": "Lead Software Developer - for maritime tracking-systems",
-  "company": "Gatehouse Maritime",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1540871/lead-software-developer-for-maritime-tracking-systems"
- },
- {
-  "category": "it",
-  "pub_date": "18-02-2025",
-  "title": "Kreativ Content Creator –  Barselsvikariat – Start hurtigst muligt",
-  "company": "Sol og Strand Feriehusudlejning A/S",
-  "location": "Blokhus",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1540467/kreativ-content-creator-barselsvikariat-start-hurtigst-muligt"
- },
- {
-  "category": "it",
-  "pub_date": "18-02-2025",
-  "title": "Software System Engineer",
-  "company": "Mercuri Urval",
-  "location": "Kastrup or Aalborg",
-  "job_URL": "https://www.mercuriurval.com/da-dk/Opportunity/?jobadid=74388&refno=DK-10590"
- },
- {
-  "category": "it",
-  "pub_date": "17-02-2025",
-  "title": "Cloud Administrator",
-  "company": "Continia Software A/S",
-  "location": "Copenhagen or Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143678&DepartmentId=18974&MediaId=5"
  },
  {
   "category": "industri",
@@ -321,6 +321,14 @@
  },
  {
   "category": "ledelse",
+  "pub_date": "27-02-2025",
+  "title": "Tech. Platform Team Lead",
+  "company": "RTX A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://rtx.easycruit.com/vacancy/3446965/164407?iso=us"
+ },
+ {
+  "category": "ledelse",
   "pub_date": "26-02-2025",
   "title": "Projektleder til driftsudbud",
   "company": "Forsvarsministeriets Ejendomsstyrelse",
@@ -446,14 +454,6 @@
   "company": "Elgaard Mancom",
   "location": "Hjørring",
   "job_URL": "https://elgaardmancom.dk/rekruttering/ledige-stillinger/?hr=show-job%2F242245%26locale%3Dda_DK"
- },
- {
-  "category": "ledelse",
-  "pub_date": "24-02-2025",
-  "title": "Forretningsorienteret afdelingschef med baggrund i automation",
-  "company": "CBRE Teknisk Servicepartner",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1534064/forretningsorienteret-afdelingschef-med-baggrund-i-automation"
  },
  {
   "category": "undervisning",
@@ -697,6 +697,14 @@
  },
  {
   "category": "ingenioer",
+  "pub_date": "27-02-2025",
+  "title": "Bygningskonstruktør",
+  "company": "Sonne Huse A/S",
+  "location": "Hjørring",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1534823/bygningskonstruktoer"
+ },
+ {
+  "category": "ingenioer",
   "pub_date": "26-02-2025",
   "title": "Quality and Food Safety Specialist, NØRAGER MEJERI",
   "company": "NORDEX FOOD A/S",
@@ -913,6 +921,14 @@
  },
  {
   "category": "kontor",
+  "pub_date": "27-02-2025",
+  "title": "Erhvervssupporter til Frederikshavn",
+  "company": "Sparekassen Danmark",
+  "location": "Frederikshavn",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1535120/erhvervssupporter-til-frederikshavn"
+ },
+ {
+  "category": "kontor",
   "pub_date": "26-02-2025",
   "title": "Eventmanager ved InterForce Region Nordjylland",
   "company": "Forsvaret",
@@ -1062,14 +1078,6 @@
   "company": "ATP",
   "location": "Frederikshavn",
   "job_URL": "https://www.atp.dk/karriere/jurist-til-loenmodtagernes-garantifond-184537"
- },
- {
-  "category": "kontor",
-  "pub_date": "25-02-2025",
-  "title": "Bliv en nøglespiller i den grønne omstilling – vi søger en organisationskonsulent",
-  "company": "Hjørring Vandselskab A/S",
-  "location": "Hjørring",
-  "job_URL": "https://hjvand.dk/hjv-jobs/organisationskonsulent/"
  },
  {
   "category": "oevrige",
