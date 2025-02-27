@@ -1,37 +1,5 @@
 [
  {
-  "match": "HSBC Womens World Championship - Dag 1",
-  "category": "LPGA",
-  "time": "06:00",
-  "date": "2025-02-27",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Formel 1 Pre Season - Dag 2",
-  "category": "Formel 1",
-  "time": "07:55",
-  "date": "2025-02-27",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "South Africa Open Championship - Dag 1",
   "category": "DP World Tour",
   "time": "12:00",

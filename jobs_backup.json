@@ -698,10 +698,26 @@
  {
   "category": "ingenioer",
   "pub_date": "27-02-2025",
+  "title": "Mechanical Engineer",
+  "company": "QUPAQ",
+  "location": "Brønderslev",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1543031/mechanical-engineer"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "27-02-2025",
   "title": "Bygningskonstruktør",
   "company": "Sonne Huse A/S",
   "location": "Hjørring",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1534823/bygningskonstruktoer"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "27-02-2025",
+  "title": "QHSE Support",
+  "company": "Alfa Laval Aalborg A/S",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1543101/qhse-support"
  },
  {
   "category": "ingenioer",
@@ -816,22 +832,6 @@
   "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3469611/130141/jobindex&iso=dk"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "21-02-2025",
-  "title": "PLC Software Engineer til BILA Automation",
-  "company": "BILA A/S",
-  "location": "Nykøbing Mors",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144206&DepartmentId=18958&MediaId=4614"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "21-02-2025",
-  "title": "Embedded Software Developer for VoIP base station team",
-  "company": "RTX A/S",
-  "location": "Nørresundby or Aarhus",
-  "job_URL": "https://rtx.easycruit.com/vacancy/3456403/164407?iso=us"
- },
- {
   "category": "salg",
   "pub_date": "26-02-2025",
   "title": "Eventmanager ved InterForce Region Nordjylland",
@@ -918,6 +918,14 @@
   "company": "Carl Ras A/S",
   "location": "Aalborg",
   "job_URL": "https://app.jobmatchprofile.com/6ye57d/carl-ras-as/hy4myr/intern-slger"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "27-02-2025",
+  "title": "Økonomiassistent",
+  "company": "SAWO A/S",
+  "location": "Støvring",
+  "job_URL": "https://www.sawo.dk/da/job-i-sawo/okonomiassistent-sawo-stovring"
  },
  {
   "category": "kontor",
@@ -1070,14 +1078,6 @@
   "company": "Hotel Limfjorden",
   "location": "Thisted",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1542930/er-du-vores-nye-receptionist-elev"
- },
- {
-  "category": "kontor",
-  "pub_date": "26-02-2025",
-  "title": "Jurist til Lønmodtagernes Garantifond",
-  "company": "ATP",
-  "location": "Frederikshavn",
-  "job_URL": "https://www.atp.dk/karriere/jurist-til-loenmodtagernes-garantifond-184537"
  },
  {
   "category": "oevrige",
