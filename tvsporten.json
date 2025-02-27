@@ -1,1 +1,274 @@
-[]
+[
+ {
+  "match": "HSBC Womens World Championship - Dag 1",
+  "category": "LPGA",
+  "time": "06:00",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Formel 1 Pre Season - Dag 2",
+  "category": "Formel 1",
+  "time": "07:55",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "South Africa Open Championship - Dag 1",
+  "category": "DP World Tour",
+  "time": "12:00",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Formel 1 Pre Season - Dag 2",
+  "category": "Formel 1",
+  "time": "12:55",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Kolstad - SC Magdeburg",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:45",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "MOL Pick Szeged – FC Barcelona",
+  "category": "EHF Champions League Håndbold",
+  "time": "18:45",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "HSV Hamburg – Vfl Gummersbach",
+  "category": "Bundesliga Håndbold",
+  "time": "19:00",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hvidovre IF – FC Fredericia",
+  "category": "NordicBet Liga",
+  "time": "19:00",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "TTH Holstebro – Skjern Håndbold",
+  "category": "HTH Herreligaen",
+  "time": "20:00",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
+   }
+  ]
+ },
+ {
+  "match": "ATX Open",
+  "category": "WTA",
+  "time": "20:00",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Premier League Darts",
+  "category": "Premier League Darts",
+  "time": "20:00",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Füchse Berlin – HC Eurofarm Pelister",
+  "category": "EHF Champions League Håndbold",
+  "time": "20:45",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Paris SG – Telekom Veszprém",
+  "category": "EHF Champions League Håndbold",
+  "time": "20:45",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Barcelona – Real Madrid",
+  "category": "Euroleague",
+  "time": "20:45",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Bologna FC – AC Milan",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "Merida Open",
+  "category": "WTA",
+  "time": "21:00",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
+   }
+  ]
+ },
+ {
+  "match": "West Ham United – Leicester City",
+  "category": "Premier League",
+  "time": "21:00",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "HSBC Womens World Championship - Dag 2",
+  "category": "LPGA",
+  "time": "03:30",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Anaheim Ducks – Vancouver Canucks",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Vegas Golden Knights – Chicago Blackhawks",
+  "category": "NHL",
+  "time": "04:05",
+  "date": "2025-02-27",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
