@@ -1,37 +1,5 @@
 [
  {
-  "match": "South Africa Open Championship - Dag 2",
-  "category": "DP World Tour",
-  "time": "12:00",
-  "date": "2025-02-28",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Formel 1 Pre Season - Dag 3",
-  "category": "Formel 1",
-  "time": "12:55",
-  "date": "2025-02-28",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Dubai Championship",
   "category": "ATP",
   "time": "14:00",
