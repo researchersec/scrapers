@@ -1,21 +1,5 @@
 [
  {
-  "match": "HSBC Womens World Championship - Dag 3",
-  "category": "LPGA",
-  "time": "06:00",
-  "date": "2025-03-01",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "South Africa Open Championship - Dag 3",
   "category": "DP World Tour",
   "time": "11:30",
