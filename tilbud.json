@@ -48,6 +48,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4dN18aY7%2Fp-27.webp&w=100&x1r=0.7236&x2r=0.9918&y1r=0.2808&y2r=0.7322&s=2d1fe16feb65db1411ab901b0d094e46"
  },
  {
+  "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-PASKEBRYG-ELLER-CARLSBERG-PILSNER~o:AV38vAMmO4Ii8ykbwCCC7",
+  "price": "110.00",
+  "currency": "DKK",
+  "valid_from": "27-02-2025",
+  "valid_until": "06-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_HT8LaUA%2Fp-6.webp&w=100&x1r=0.5013&x2r=0.9853&y1r=0.484&y2r=0.9345&s=57dedb368487584ac7979862b08029a1"
+ },
+ {
   "link": "/BorderShop/tilbud/Gron-Tuborg-Pilsner-eller-Tuborg-Classic~o:cK0NfBTX4yAMng8hrvOXk",
   "price": "79.95",
   "currency": "DKK",
@@ -62,14 +70,6 @@
   "valid_from": "25-02-2025",
   "valid_until": "18-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoInXZwRQ%2Fp-11.webp&w=100&x1r=0.4255&x2r=0.9497&y1r=0.0111&y2r=0.1604&s=7f84d047776515bd6507902bba6f4cf1"
- },
- {
-  "link": "/MENY/tilbud/CLASSIC-PASKEBRYG-ELLER-CARLSBERG-PILSNER~o:AV38vAMmO4Ii8ykbwCCC7",
-  "price": "110.00",
-  "currency": "DKK",
-  "valid_from": "27-02-2025",
-  "valid_until": "06-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_HT8LaUA%2Fp-6.webp&w=100&x1r=0.5013&x2r=0.9853&y1r=0.484&y2r=0.9345&s=57dedb368487584ac7979862b08029a1"
  },
  {
   "link": "/Calle/tilbud/Harboe-Classic-Pilsner-el.-0-0~o:CGCOs7K816Qx8ON-H-qf7",
