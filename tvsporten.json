@@ -1,49 +1,5 @@
 [
  {
-  "match": "HSBC Womens World Championship - Finalerunden",
-  "category": "LPGA",
-  "time": "06:00",
-  "date": "2025-03-02",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Vasaloppet",
-  "category": "Skisport",
-  "time": "08:00",
-  "date": "2025-03-02",
-  "channels": [
-   {
-    "name": "Sport Live",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/324079404_842872150337119_6273843625686547080_n-2.png"
-   }
-  ]
- },
- {
-  "match": "Grand Prix Of Thailand",
-  "category": "MotoGP",
-  "time": "08:50",
-  "date": "2025-03-02",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "South Africa Open Championship - Finalerunden",
   "category": "DP World Tour",
   "time": "10:30",
