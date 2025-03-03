@@ -1,9 +1,37 @@
 [
  {
-  "match": "Cleveland Cavaliers – Portland Trail Blazers",
-  "category": "NBA",
-  "time": "21:30",
-  "date": "2025-03-02",
+  "match": "Brøndby IF – Lyngby BK",
+  "category": "Superliga",
+  "time": "19:00",
+  "date": "2025-03-03",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sportx_positive_rgb-2.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Nottingham Forest – Ipswich Town",
+  "category": "FA Cup",
+  "time": "20:30",
+  "date": "2025-03-03",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Juventus – Hellas Verona",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2025-03-03",
   "channels": [
    {
     "name": "TV2 Sport",
@@ -16,50 +44,10 @@
   ]
  },
  {
-  "match": "EchoPark Automotive Grand Prix",
-  "category": "Nascar",
-  "time": "21:30",
-  "date": "2025-03-02",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Minnesota Wild – Boston Bruins",
-  "category": "NHL",
-  "time": "21:35",
-  "date": "2025-03-02",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Carolina Hurricanes – Calgary Flames",
-  "category": "NHL",
-  "time": "23:05",
-  "date": "2025-03-02",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Chile Open",
-  "category": "ATP",
-  "time": "23:30",
-  "date": "2025-03-02",
+  "match": "Villarreal – Espanyol",
+  "category": "La Liga",
+  "time": "21:00",
+  "date": "2025-03-03",
   "channels": [
    {
     "name": "TV2 Play",
