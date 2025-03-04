@@ -1,29 +1,5 @@
 [
  {
-  "match": "Red Bull Salzburg U19 – Atletico Madrid U19",
-  "category": "UEFA Youth League",
-  "time": "14:00",
-  "date": "2025-03-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "FC Barcelona U19 – Aston Villa U19",
-  "category": "UEFA Youth League",
-  "time": "16:00",
-  "date": "2025-03-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "SG Flensburg-Handewitt – Vfl Gummersbach",
   "category": "EHF European Cup Men",
   "time": "18:45",
