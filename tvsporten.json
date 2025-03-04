@@ -206,41 +206,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
- },
- {
-  "match": "Colorado Avalanche – Pittsburgh Penguins",
-  "category": "NHL",
-  "time": "03:00",
-  "date": "2025-03-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Edmonton Oilers – Anaheim Ducks",
-  "category": "NHL",
-  "time": "03:00",
-  "date": "2025-03-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Seattle Kraken – Minnesota Wild",
-  "category": "NHL",
-  "time": "04:00",
-  "date": "2025-03-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
