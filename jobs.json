@@ -33,14 +33,6 @@
  },
  {
   "category": "it",
-  "pub_date": "27-02-2025",
-  "title": "Linux Operations Engineer",
-  "company": "Netcompany A/S",
-  "location": "København, Aarhus eller Aalborg",
-  "job_URL": "https://smrtr.io/nkDkK"
- },
- {
-  "category": "it",
   "pub_date": "05-03-2025",
   "title": "Erfaren test manager til softwarevirksomhed",
   "company": "Admin By Request ApS",
@@ -162,6 +154,22 @@
  {
   "category": "industri",
   "pub_date": "05-03-2025",
+  "title": "Erfaren Automationsingeniør til vores Automationsafdeling i Aalborg",
+  "company": "CBRE Teknisk Servicepartner",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1545206/erfaren-automationsingenioer-til-vores-automationsafdeling-i-aalborg"
+ },
+ {
+  "category": "industri",
+  "pub_date": "05-03-2025",
+  "title": "El-konstruktør med erfaring indenfor El og Automation til Aalborg",
+  "company": "CBRE Teknisk Servicepartner",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1545205/el-konstruktoer-med-erfaring-indenfor-el-og-automation-til-aalborg"
+ },
+ {
+  "category": "industri",
+  "pub_date": "05-03-2025",
   "title": "Bliv en del af vores team i Aalborg City – vi søger en dygtig mekaniker!",
   "company": "Super Dæk Service",
   "location": "Aalborg",
@@ -214,38 +222,6 @@
   "company": "Dagrofa Foodservice",
   "location": "Thisted",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147495&DepartmentId=19481&MediaId=4623"
- },
- {
-  "category": "industri",
-  "pub_date": "04-03-2025",
-  "title": "Mekaniker søges til Super Dæk Service og Bosch Car Service Aalborg Syd",
-  "company": "Super Dæk Service",
-  "location": "Aalborg SØ",
-  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2252/mekaniker-soeges-til-super-daek-service-og-bosch-car-service-aalborg-syd"
- },
- {
-  "category": "industri",
-  "pub_date": "04-03-2025",
-  "title": "Vedligeholdstekniker med El-baggrund - Hobro Mejericenter",
-  "company": "Arla Foods amba",
-  "location": "Hobro",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1544734/vedligeholdstekniker-med-el-baggrund-hobro-mejericenter"
- },
- {
-  "category": "industri",
-  "pub_date": "04-03-2025",
-  "title": "Delikatesseleder, Brugsen Tranum",
-  "company": "Brugsen",
-  "location": "Brovst",
-  "job_URL": "https://jobs.coop.dk/job/Delikatesseleder%2C-Brugsen-Tranum/154683-da_DK"
- },
- {
-  "category": "industri",
-  "pub_date": "04-03-2025",
-  "title": "Vil du syne biler for Danmarks førende bilsynsvirksomhed?",
-  "company": "Applus Danmark A/S",
-  "location": "Thisted",
-  "job_URL": "https://applus.career.emply.com/ad/vil-du-syne-biler-for-danmarks-forende-bilsynsvirksomhed/tgi8sa/da"
  },
  {
   "category": "handel",
@@ -385,14 +361,6 @@
  },
  {
   "category": "ledelse",
-  "pub_date": "28-02-2025",
-  "title": "Peopleorienteret Butikschef til Telenor i Hjørring",
-  "company": "Telenor",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145877&DepartmentId=18958&MediaId=5"
- },
- {
-  "category": "ledelse",
   "pub_date": "05-03-2025",
   "title": "Finance Manager til BILA Group",
   "company": "BILA A/S",
@@ -401,11 +369,19 @@
  },
  {
   "category": "ledelse",
-  "pub_date": "04-03-2025",
-  "title": "Udviklingskonsulent til Direktionssekretariatet",
-  "company": "Frederikshavn Kommune",
-  "location": "Frederikshavn",
-  "job_URL": "https://frederikshavn.career.emply.com/ad/udviklingskonsulent-til-direktionssekretariatet/rjrt83/da"
+  "pub_date": "05-03-2025",
+  "title": "Udviklingskonsulent til Drift og Anlæg",
+  "company": "THISTED KOMMUNE",
+  "location": "Hurup",
+  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135985"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "05-03-2025",
+  "title": "Økonomichef",
+  "company": "Hansen Toft A/S",
+  "location": "Sæby",
+  "job_URL": "https://www.hansentoft.dk/job/8851"
  },
  {
   "category": "ledelse",
@@ -713,11 +689,11 @@
  },
  {
   "category": "social",
-  "pub_date": "25-02-2025",
-  "title": "SSH eller SSA til Demensområdet",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135329"
+  "pub_date": "05-03-2025",
+  "title": "Bidrag til at implementere ældrereformen – BDO Advisory søger konsulenter med fokus på kvalitet, udvikling og optimering",
+  "company": "BDO",
+  "location": "København, Aalborg, Odense eller Aarhus C",
+  "job_URL": "https://jobs.bdo.dk/ad/bidrag-til-at-implementere-aeldrereformen-bdo-advisory-soger-konsulenter-med-fok/cgikwr"
  },
  {
   "category": "social",
@@ -809,19 +785,19 @@
  },
  {
   "category": "ingenioer",
-  "pub_date": "27-02-2025",
-  "title": "Technical Project Manager, Wind Energy",
-  "company": "Eurowind Energy A/S",
-  "location": "Hobro",
-  "job_URL": "https://eurowindenergy.com/career?hr=show-job/229173&locale=en_US#hrskyen"
+  "pub_date": "05-03-2025",
+  "title": "Erfaren Automationsingeniør til vores Automationsafdeling i Aalborg",
+  "company": "CBRE Teknisk Servicepartner",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1545206/erfaren-automationsingenioer-til-vores-automationsafdeling-i-aalborg"
  },
  {
   "category": "ingenioer",
-  "pub_date": "27-02-2025",
-  "title": "Ambitiøs ventilsælger søges",
-  "company": "JEMAC Rekruttering",
-  "location": "Præstø",
-  "job_URL": "https://open.thomasinternational.net/JobBoard/JobPosting.aspx?AgentID=NDI2ODc%3d&JobPostingID=MTQzNjk%3d"
+  "pub_date": "05-03-2025",
+  "title": "El-konstruktør med erfaring indenfor El og Automation til Aalborg",
+  "company": "CBRE Teknisk Servicepartner",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1545205/el-konstruktoer-med-erfaring-indenfor-el-og-automation-til-aalborg"
  },
  {
   "category": "ingenioer",
@@ -913,27 +889,11 @@
  },
  {
   "category": "salg",
-  "pub_date": "28-02-2025",
-  "title": "Sælger",
-  "company": "Bygma",
+  "pub_date": "05-03-2025",
+  "title": "Mødebooker",
+  "company": "Forest & Partners ApS",
   "location": "Aalborg",
-  "job_URL": "https://jobs.bygma.dk/job/Aalborg-S%C3%A6lger-til-Bygma-Aalborg-C-Tr%C3%A6last-9000/1149218555/"
- },
- {
-  "category": "salg",
-  "pub_date": "28-02-2025",
-  "title": "Forsikringsrådgiver til private kunder (Aalborg)",
-  "company": "Alm. Brand Group",
-  "location": "Aalborg",
-  "job_URL": "https://almbrandgroup-1679662358.teamtailor.com/jobs/5618373-forsikringsradgiver-til-private-kunder-aalborg"
- },
- {
-  "category": "salg",
-  "pub_date": "27-02-2025",
-  "title": "District Manager til Jylland",
-  "company": "Lidl Danmark K/S",
-  "location": "Kolding",
-  "job_URL": "https://karriere.lidl.dk/jobs/district-manager-til-jylland-kolding-520810"
+  "job_URL": "https://forestpartners.teamtailor.com/jobs/5631951-modebooker-group-online-a-s"
  },
  {
   "category": "salg",
@@ -1090,18 +1050,34 @@
  {
   "category": "kontor",
   "pub_date": "05-03-2025",
+  "title": "Udviklingskonsulent til Drift og Anlæg",
+  "company": "THISTED KOMMUNE",
+  "location": "Hurup",
+  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135985"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "05-03-2025",
+  "title": "Bidrag til at implementere ældrereformen – BDO Advisory søger konsulenter med fokus på kvalitet, udvikling og optimering",
+  "company": "BDO",
+  "location": "København, Aalborg, Odense eller Aarhus C",
+  "job_URL": "https://jobs.bdo.dk/ad/bidrag-til-at-implementere-aeldrereformen-bdo-advisory-soger-konsulenter-med-fok/cgikwr"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "05-03-2025",
+  "title": "Økonomichef",
+  "company": "Hansen Toft A/S",
+  "location": "Sæby",
+  "job_URL": "https://www.hansentoft.dk/job/8851"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "05-03-2025",
   "title": "Koordinerende sagsbehandler til Team Ydelse, Job og Ressourcer og KUI Jobcenter",
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135920"
- },
- {
-  "category": "kontor",
-  "pub_date": "04-03-2025",
-  "title": "Udviklingskonsulent til Direktionssekretariatet",
-  "company": "Frederikshavn Kommune",
-  "location": "Frederikshavn",
-  "job_URL": "https://frederikshavn.career.emply.com/ad/udviklingskonsulent-til-direktionssekretariatet/rjrt83/da"
  },
  {
   "category": "kontor",
@@ -1152,36 +1128,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1544525/junior-buyer"
  },
  {
-  "category": "kontor",
-  "pub_date": "04-03-2025",
-  "title": "Markedsdirektør Private Banking Nord",
-  "company": "Jyske Bank",
-  "location": "Aalborg",
-  "job_URL": "https://www.jyskebank.dk/om-os/job-og-karriere/job/jobopslag?id=190726"
- },
- {
-  "category": "kontor",
-  "pub_date": "04-03-2025",
-  "title": "Financial Controller til Asset Management",
-  "company": "Eurowind Energy A/S",
-  "location": "Hobro",
-  "job_URL": "https://eurowindenergy.com/career?hr=show-job/244143&locale=en_US#hrskyen"
- },
- {
   "category": "oevrige",
   "pub_date": "28-02-2025",
   "title": "Kurbadsansvarlig til Sydthy Kurbad",
   "company": "THISTED KOMMUNE",
   "location": "Hurup Thy",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135652"
- },
- {
-  "category": "oevrige",
-  "pub_date": "27-02-2025",
-  "title": "Studentermedhjælp til IT-support",
-  "company": "PowerCon A/S",
-  "location": "Hobro",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1543290/studentermedhjaelp-til-it-support"
  },
  {
   "category": "oevrige",

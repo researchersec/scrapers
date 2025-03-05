@@ -1,41 +1,5 @@
 [
  {
-  "match": "1899 Hoffenheim U19 – Manchester City U19",
-  "category": "UEFA Youth League",
-  "time": "14:00",
-  "date": "2025-03-05",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Trofeo Laigueglia",
-  "category": "UCI Herrer",
-  "time": "14:15",
-  "date": "2025-03-05",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   }
-  ]
- },
- {
-  "match": "FC Bayern München U19 – Inter U19",
-  "category": "UEFA Youth League",
-  "time": "16:00",
-  "date": "2025-03-05",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Carl Zeiss Jena – SC Freiburg",
   "category": "Frauen-Bundesliga",
   "time": "18:30",
