@@ -8,6 +8,22 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fg8S_Fm3o%2Fp-1.webp&w=100&x1r=0.495&x2r=1&y1r=0.5903&y2r=0.9798&s=9017db9f99cd486aa3ffc504bde37005"
  },
  {
+  "link": "/Bilka/tilbud/Yoggi-yoghurt~o:Q6dSN9LgOLfwa7PdaquV3",
+  "price": "15.00",
+  "currency": "DKK",
+  "valid_from": "06-03-2025",
+  "valid_until": "13-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-21.webp&w=100&x1r=0.3421&x2r=0.6564&y1r=0.7169&y2r=0.9577&s=9c2a6697e956a221de59efc04ccfbd4e"
+ },
+ {
+  "link": "/Bilka/tilbud/To-go-marked~o:ajG0ma_oQAJAnYe7S9aiw",
+  "price": "6.00",
+  "currency": "DKK",
+  "valid_from": "06-03-2025",
+  "valid_until": "13-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-7.webp&w=100&x1r=0.5037&x2r=0.9933&y1r=0.1935&y2r=0.5884&s=fc05b4023f39e4733c1459b8a901e7aa"
+ },
+ {
   "link": "/Bilka/tilbud/To-go-marked~o:XBE7omIYsgfTgGG8NkHkm",
   "price": "6.00",
   "currency": "DKK",
@@ -30,6 +46,14 @@
   "valid_from": "01-03-2025",
   "valid_until": "08-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2G_Bn1oz%2Fp-3.webp&w=100&x1r=0.0116&x2r=0.5057&y1r=0.7307&y2r=0.9926&s=ae90dcbeecd19b9ea0e04da30a7e04ae"
+ },
+ {
+  "link": "/Bilka/tilbud/Tuborg-Kylle-Kylle-Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:suHCtDIwlQ3m9CkWCmcqe",
+  "price": "109.00",
+  "currency": "DKK",
+  "valid_from": "06-03-2025",
+  "valid_until": "13-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-1.webp&w=100&x1r=0.4858&x2r=0.7312&y1r=0.278&y2r=0.5197&s=1470d5dbad9939ebc46997b1b232748f"
  },
  {
   "link": "/Bilka/tilbud/Tuborg-Classic-Gron-Tuborg-Tuborg-Kylle-Kylle-eller-Carlsberg-Pilsner~o:xqHn6H9OKPfqgpx4e32ug",
@@ -80,16 +104,8 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMnTKwjJb%2Fp-6.webp&w=100&x1r=0.0014&x2r=0.9969&y1r=0&y2r=1&s=7cf0ae54b5150ec83e6285957c52d5f3"
  },
  {
-  "link": "/Calle/tilbud/Tuborg~o:GEHujpMFz7bEHkaJ3Glo-",
-  "price": "85.00",
-  "currency": "DKK",
-  "valid_from": "04-03-2025",
-  "valid_until": "18-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FCzqOjPvL%2Fp-21.webp&w=100&x1r=0.3339&x2r=0.6644&y1r=0.4986&y2r=0.7415&s=b539874b1fe7c8034793c5fcb9e9ac7c"
- },
- {
   "link": "/Calle/tilbud/Harboe-Classic-Pilsner-el.-0-0~o:DBZx34u2JfkV49u2B4Z0_",
-  "price": "50.00",
+  "price": "54.00",
   "currency": "DKK",
   "valid_from": "04-03-2025",
   "valid_until": "18-03-2025",
