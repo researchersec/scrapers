@@ -80,20 +80,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ8lxC11E%2Fp-13.webp&w=100&x1r=0.6037&x2r=1&y1r=0.5304&y2r=0.9647&s=ca60fd81d12722435161cf19b4df9072"
  },
  {
-  "link": "/Bilka/tilbud/Tuborg-Classic-Gron-Tuborg-Tuborg-Kylle-Kylle-eller-Carlsberg-Pilsner~o:xqHn6H9OKPfqgpx4e32ug",
-  "price": "115.00",
-  "currency": "DKK",
-  "valid_from": "27-02-2025",
-  "valid_until": "06-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLKXeGKuH%2Fp-42.webp&w=100&x1r=0&x2r=0.6498&y1r=0.5841&y2r=0.9838&s=eb2ed60c8bbf9b6028d06d427201f1b3"
- },
- {
   "link": "/Bilka/tilbud/Tuborg-Kylle-Kylle-Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:suHCtDIwlQ3m9CkWCmcqe",
   "price": "109.00",
   "currency": "DKK",
   "valid_from": "06-03-2025",
   "valid_until": "13-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-1.webp&w=100&x1r=0.4858&x2r=0.7312&y1r=0.278&y2r=0.5197&s=1470d5dbad9939ebc46997b1b232748f"
+ },
+ {
+  "link": "/Bilka/tilbud/Tuborg-Classic-Gron-Tuborg-Tuborg-Kylle-Kylle-eller-Carlsberg-Pilsner~o:xqHn6H9OKPfqgpx4e32ug",
+  "price": "115.00",
+  "currency": "DKK",
+  "valid_from": "27-02-2025",
+  "valid_until": "06-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLKXeGKuH%2Fp-42.webp&w=100&x1r=0&x2r=0.6498&y1r=0.5841&y2r=0.9838&s=eb2ed60c8bbf9b6028d06d427201f1b3"
  },
  {
   "link": "/fotex/tilbud/Tuborg-Kylle-Kylle-Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:NulO6-O-4XQxeVwJoAQVd",

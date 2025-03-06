@@ -1,17 +1,5 @@
 [
  {
-  "match": "Blue Bay LPGA",
-  "category": "LPGA",
-  "time": "05:00",
-  "date": "2025-03-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Women's Amateur Asia-Pacific Championship",
   "category": "Women's Amateur Golf",
   "time": "08:00",
@@ -372,46 +360,6 @@
    {
     "name": "DR TV",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   }
-  ]
- },
- {
-  "match": "Edmonton Oilers – Montreal Canadiens",
-  "category": "NHL",
-  "time": "03:00",
-  "date": "2025-03-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Colorado Avalanche – San Jose Sharks",
-  "category": "NHL",
-  "time": "03:30",
-  "date": "2025-03-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Los Angeles Lakers – New York Knicks",
-  "category": "NBA",
-  "time": "04:00",
-  "date": "2025-03-06",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2sport_positive_rgb-2.png"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2play_positive_rgb.png"
    }
   ]
  }
