@@ -1,33 +1,5 @@
 [
  {
-  "match": "Blue Bay LPGA",
-  "category": "LPGA",
-  "time": "06:00",
-  "date": "2025-03-07",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Women's Amateur Asia-Pacific Championship",
-  "category": "Women's Amateur Asia-Pacific Championship",
-  "time": "08:00",
-  "date": "2025-03-07",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "ROC Nations Cup",
   "category": "Race of Champions",
   "time": "09:30",
