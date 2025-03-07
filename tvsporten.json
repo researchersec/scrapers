@@ -1,21 +1,5 @@
 [
  {
-  "match": "Belgian Darts Open",
-  "category": "PDC",
-  "time": "15:30",
-  "date": "2025-03-07",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Eintracht Frankfurt - SGS Essen",
   "category": "Frauen-Bundesliga",
   "time": "18:30",
@@ -53,7 +37,7 @@
  },
  {
   "match": "European Indoor Championships",
-  "category": "Atletik EM",
+  "category": "",
   "time": "18:45",
   "date": "2025-03-07",
   "channels": [
@@ -69,7 +53,7 @@
  },
  {
   "match": "B 93 - HB Køge",
-  "category": "NordicBet Liga",
+  "category": "",
   "time": "19:00",
   "date": "2025-03-07",
   "channels": [
@@ -81,7 +65,7 @@
  },
  {
   "match": "Fredericia - Hillerød",
-  "category": "NordicBet Liga",
+  "category": "",
   "time": "19:00",
   "date": "2025-03-07",
   "channels": [
@@ -109,7 +93,7 @@
  },
  {
   "match": "Al Fayha - Al Hilal",
-  "category": "Saudi Pro League",
+  "category": "",
   "time": "20:00",
   "date": "2025-03-07",
   "channels": [
@@ -121,7 +105,7 @@
  },
  {
   "match": "Al Nassr - Al Shabab",
-  "category": "Saudi Pro League",
+  "category": "",
   "time": "20:00",
   "date": "2025-03-07",
   "channels": [
