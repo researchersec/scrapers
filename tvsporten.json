@@ -1,1 +1,554 @@
-[]
+[
+ {
+  "match": "Blue Bay LPGA",
+  "category": "LPGA",
+  "time": "05:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Blue Bay LPGA",
+  "category": "LPGA",
+  "time": "06:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Women's Amateur Asia-Pacific Championship",
+  "category": "Women's Amateur Asia-Pacific Championship",
+  "time": "08:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "ROC Nations Cup",
+  "category": "Race of Champions",
+  "time": "09:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "European Indoor Championships",
+  "category": "European Indoor Championships",
+  "time": "10:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "European Indoor Championships",
+  "category": "",
+  "time": "10:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Joburg Open",
+  "category": "DP World Tour",
+  "time": "12:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Joburg Open",
+  "category": "DP World Tour",
+  "time": "12:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Belgian Darts Open - Dag 1",
+  "category": "European Tour",
+  "time": "15:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Belgian Darts Open",
+  "category": "",
+  "time": "15:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Eintracht Frankfurt - SGS Essen",
+  "category": "Frauen-Bundesliga",
+  "time": "18:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Darmstadt 98 - Karlsruher SC",
+  "category": "2. Bundesliga",
+  "time": "18:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Kaiserslautern - Elversberg",
+  "category": "2. Bundesliga",
+  "time": "18:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "SV Darmstadt 98 – Karlsruher SC",
+  "category": "2. Bundesliga",
+  "time": "18:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "1. FC Kaiserslautern – Spvgg Elversberg 07",
+  "category": "2. Bundesliga",
+  "time": "18:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "European Indoor Championships",
+  "category": "",
+  "time": "18:45",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "European Indoor Championships",
+  "category": "European Indoor Championships  | Apeldoorn, Holland",
+  "time": "18:45",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "B 93 - HB Køge",
+  "category": "",
+  "time": "19:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Fredericia - Hillerød",
+  "category": "",
+  "time": "19:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "B 93 København – HB Køge",
+  "category": "1. Division",
+  "time": "19:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Fredericia – Hillerød",
+  "category": "1. Division",
+  "time": "19:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Nordsjælland – Vejle BK",
+  "category": "Superliga",
+  "time": "19:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Al Fayha - Al Hilal",
+  "category": "",
+  "time": "20:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Al Nassr - Al Shabab",
+  "category": "",
+  "time": "20:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "BNP Paribas Open",
+  "category": "WTA",
+  "time": "20:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Golf Arnold Palmer Invitational",
+  "category": "PGA",
+  "time": "20:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "BNP Paribas Open",
+  "category": "ATP",
+  "time": "20:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Olympiacos - Partizan Mozzart Belgrad",
+  "category": "Euroleague",
+  "time": "20:15",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Olympiakos Pireus – Partizan Mobtel",
+  "category": "Euroleague",
+  "time": "20:15",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Borussia Mönchengladbach – FSV Mainz 05",
+  "category": "Bundesliga",
+  "time": "20:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Borussia Mönchengladbach - FSV Mainz 05",
+  "category": "Bundesliga",
+  "time": "20:30",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Toulouse - Monaco",
+  "category": "Ligue 1",
+  "time": "20:45",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Toulouse – AS Monaco",
+  "category": "Ligue 1",
+  "time": "20:45",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Cagliari – Genoa",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Norwich City – Oxford United",
+  "category": "Championship",
+  "time": "21:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Belgian Darts Open - Dag 1",
+  "category": "PDC European Tour",
+  "time": "22:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "BNP Paribas Open",
+  "category": "ATP",
+  "time": "03:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Vancouver Canucks – Minnesota Wild",
+  "category": "NHL",
+  "time": "04:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Vegas Golden Knights – Pittsburgh Penguins",
+  "category": "NHL",
+  "time": "04:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Anaheim Ducks – St. Louis Blues",
+  "category": "NHL",
+  "time": "04:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Vancouver Canucks - Minnesota Wild",
+  "category": "NHL",
+  "time": "04:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Vegas Golden Knights - Pittsburgh Penguins",
+  "category": "NHL",
+  "time": "04:00",
+  "date": "2025-03-07",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ }
+]
