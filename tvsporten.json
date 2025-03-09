@@ -1,41 +1,5 @@
 [
  {
-  "match": "Amanda Lemos - Iasmin Lucindo",
-  "category": "UFC",
-  "time": "05:00",
-  "date": "2025-03-09",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Women's Amateur Asia-Pacific Championship",
-  "category": "",
-  "time": "05:00",
-  "date": "2025-03-09",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Blue Bay LPGA",
-  "category": "LPGA",
-  "time": "05:00",
-  "date": "2025-03-09",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Alex Pereira - Magomed Ankalaev",
   "category": "UFC \n\t\t\t\t\t\t\t\t\t(Title Fight)",
   "time": "06:00",
