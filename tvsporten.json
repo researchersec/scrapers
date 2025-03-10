@@ -1,37 +1,21 @@
 [
  {
-  "match": "Carolina Hurricanes – Winnipeg Jets",
-  "category": "NHL",
-  "time": "22:00",
-  "date": "2025-03-09",
+  "match": "Tirreno–Adriatico",
+  "category": "Vuelta a España",
+  "time": "13:00",
+  "date": "2025-03-10",
   "channels": [
    {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
    }
   ]
  },
  {
-  "match": "New York Rangers - Columbus Blue Jackets",
-  "category": "NHL",
-  "time": "23:00",
-  "date": "2025-03-09",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "BNP Paribas Open",
-  "category": "ATP",
-  "time": "23:00",
-  "date": "2025-03-09",
+  "match": "Paris–Nice",
+  "category": "Vuelta a España",
+  "time": "14:45",
+  "date": "2025-03-10",
   "channels": [
    {
     "name": "TV2 Sport X",
@@ -40,6 +24,190 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Paris–Nice",
+  "category": "Vuelta a España",
+  "time": "15:45",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Werder Bremen - Hoffenheim",
+  "category": "Frauen-Bundesliga",
+  "time": "18:00",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "BNP Paribas Open",
+  "category": "WTA",
+  "time": "19:00",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Randers FC – Brøndby IF",
+  "category": "Superliga",
+  "time": "19:00",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "BNP Paribas Open",
+  "category": "ATP",
+  "time": "19:00",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Lazio - Udinese",
+  "category": "Serie A",
+  "time": "20:45",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rodez - Dunkerque",
+  "category": "Ligue 2",
+  "time": "20:45",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "West Ham United - Newcastle United",
+  "category": "Premier League",
+  "time": "21:00",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "See",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/see-logo-n.jpg"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Espanyol – Girona Cf",
+  "category": "La Liga",
+  "time": "21:00",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "West Ham United – Newcastle United",
+  "category": "Premier League",
+  "time": "21:00",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "BNP Paribas Open",
+  "category": "",
+  "time": "22:15",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "BNP Paribas Open",
+  "category": "ATP",
+  "time": "23:00",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Utah Hockey Club - Toronto Maple Leafs",
+  "category": "NHL",
+  "time": "03:00",
+  "date": "2025-03-10",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  }
