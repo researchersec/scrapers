@@ -1,35 +1,7 @@
 [
  {
-  "match": "All England Open",
-  "category": "BWF World Tour",
-  "time": "11:00",
-  "date": "2025-03-11",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Tirreno–Adriatico",
-  "category": "Vuelta a España",
-  "time": "13:15",
-  "date": "2025-03-11",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   }
-  ]
- },
- {
   "match": "Paris–Nice",
-  "category": "Vuelta a España",
+  "category": "Vuelta a España\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:45",
   "date": "2025-03-11",
   "channels": [
@@ -45,7 +17,7 @@
  },
  {
   "match": "Paris–Nice",
-  "category": "Vuelta a España",
+  "category": "Vuelta a España\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:45",
   "date": "2025-03-11",
   "channels": [
@@ -57,7 +29,7 @@
  },
  {
   "match": "Barcelona - Benfica",
-  "category": "Champions League",
+  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:45",
   "date": "2025-03-11",
   "channels": [
@@ -73,7 +45,7 @@
  },
  {
   "match": "All England Open",
-  "category": "BWF World Tour",
+  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-03-11",
   "channels": [
@@ -89,7 +61,7 @@
  },
  {
   "match": "BNP Paribas Open",
-  "category": "WTA",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-03-11",
   "channels": [
@@ -101,7 +73,7 @@
  },
  {
   "match": "BNP Paribas Open",
-  "category": "ATP",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-03-11",
   "channels": [
@@ -117,7 +89,7 @@
  },
  {
   "match": "Sheffield United - Bristol City",
-  "category": "Championship",
+  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-03-11",
   "channels": [
@@ -129,7 +101,7 @@
  },
  {
   "match": "Bayer Leverkusen - Bayern München",
-  "category": "Champions League",
+  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-03-11",
   "channels": [
@@ -145,7 +117,7 @@
  },
  {
   "match": "Inter - Feyenoord",
-  "category": "Champions League",
+  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-03-11",
   "channels": [
@@ -161,7 +133,7 @@
  },
  {
   "match": "Liverpool - PSG",
-  "category": "Champions League",
+  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-03-11",
   "channels": [
@@ -177,7 +149,7 @@
  },
  {
   "match": "Cancun P2",
-  "category": "",
+  "category": "Premier Padel\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "22:00",
   "date": "2025-03-11",
   "channels": [
