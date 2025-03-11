@@ -72,6 +72,22 @@
   ]
  },
  {
+  "match": "All England Open",
+  "category": "BWF World Tour",
+  "time": "19:00",
+  "date": "2025-03-11",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "BNP Paribas Open",
   "category": "WTA",
   "time": "19:00",
@@ -163,54 +179,6 @@
   "match": "Cancun P2",
   "category": "",
   "time": "22:00",
-  "date": "2025-03-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Vancouver Canucks - Montreal Canadiens",
-  "category": "NHL",
-  "time": "03:00",
-  "date": "2025-03-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Anaheim Ducks - Washington Capitals",
-  "category": "NHL",
-  "time": "03:00",
-  "date": "2025-03-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Los Angeles Kings - New York Islanders",
-  "category": "NHL",
-  "time": "03:30",
-  "date": "2025-03-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "San Jose Sharks - Nashville Predators",
-  "category": "NHL",
-  "time": "03:30",
   "date": "2025-03-11",
   "channels": [
    {
