@@ -24,6 +24,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-7.webp&w=100&x1r=0.5037&x2r=0.9933&y1r=0.1935&y2r=0.5884&s=fc05b4023f39e4733c1459b8a901e7aa"
  },
  {
+  "link": "/Lidl/tilbud/Cruesli~o:OlXjECFDc8gLdwq3_aC5B",
+  "price": "29.00",
+  "currency": "DKK",
+  "valid_from": "15-03-2025",
+  "valid_until": "22-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPPJKrMrI%2Fp-6.webp&w=100&x1r=0.013&x2r=0.543&y1r=0.7084&y2r=0.9443&s=7cb73732be956e4fe77004fc5af45fcd"
+ },
+ {
   "link": "/MENY/tilbud/GRON-TUBORG-TUBORG-CLASSIC-PASKEBRYG-ELLER-CARLSBERG-PILSNER~o:aH5AaGdRSaN5lvvoVZier",
   "price": "110.00",
   "currency": "DKK",
@@ -72,14 +80,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAtdrqfLC%2Fp-4.webp&w=100&x1r=0.4995&x2r=0.9822&y1r=0.6634&y2r=0.9848&s=5d7a1c669466b0bde410efd31d3ab412"
  },
  {
-  "link": "/BorderShop/tilbud/Gron-Tuborg-Pilsner-eller-Tuborg-Classic~o:cK0NfBTX4yAMng8hrvOXk",
-  "price": "79.95",
-  "currency": "DKK",
-  "valid_from": "09-02-2025",
-  "valid_until": "11-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FOlESYynQ%2Fp-1.webp&w=100&x1r=0.2335&x2r=0.6175&y1r=0.126&y2r=0.374&s=074b3a62733813d35f157f9c9d535243"
- },
- {
   "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:Xblny8gWI4Cwvc8b45DDY",
   "price": "84.99",
   "currency": "DKK",
@@ -102,5 +102,13 @@
   "valid_from": "06-03-2025",
   "valid_until": "13-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ8lxC11E%2Fp-12.webp&w=100&x1r=0.0259&x2r=0.9153&y1r=0.7489&y2r=0.9696&s=d8e59e3cb65c551bbec5424e79ab5545"
+ },
+ {
+  "link": "/BorderShop/tilbud/TUBORG-FAVORITTER~o:ZNod3a0lm2YjvtKv7pnp0",
+  "price": "79.95",
+  "currency": "DKK",
+  "valid_from": "11-03-2025",
+  "valid_until": "22-04-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMnTKwjJb%2Fp-6.webp&w=100&x1r=0.0014&x2r=0.9969&y1r=0&y2r=1&s=7cf0ae54b5150ec83e6285957c52d5f3"
  }
 ]
