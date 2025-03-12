@@ -56,6 +56,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4dN18aY7%2Fp-27.webp&w=100&x1r=0.7236&x2r=0.9918&y1r=0.2808&y2r=0.7322&s=2d1fe16feb65db1411ab901b0d094e46"
  },
  {
+  "link": "/Netto/tilbud/Somersby-Gron-Tuborg-Tuborg-Classic-eller-Classic-alkoholfri~o:ZApPpadTNkiqz6R6Nr2uI",
+  "price": "79.00",
+  "currency": "DKK",
+  "valid_from": "14-03-2025",
+  "valid_until": "21-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgVLYl1W3%2Fp-6.webp&w=100&x1r=0.0112&x2r=0.5201&y1r=0.5374&y2r=0.977&s=ac7003619f885a957a12e8954260690e"
+ },
+ {
   "link": "/Min-Kobmand/tilbud/Gron-Tuborg-Tuborg-Classic-Paskebryg-eller-Carlsberg-Pilsner~o:27koqsVBUW-yubdxljfjS",
   "price": "135.00",
   "currency": "DKK",
@@ -102,13 +110,5 @@
   "valid_from": "06-03-2025",
   "valid_until": "13-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ8lxC11E%2Fp-12.webp&w=100&x1r=0.0259&x2r=0.9153&y1r=0.7489&y2r=0.9696&s=d8e59e3cb65c551bbec5424e79ab5545"
- },
- {
-  "link": "/BorderShop/tilbud/TUBORG-FAVORITTER~o:ZNod3a0lm2YjvtKv7pnp0",
-  "price": "79.95",
-  "currency": "DKK",
-  "valid_from": "11-03-2025",
-  "valid_until": "22-04-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMnTKwjJb%2Fp-6.webp&w=100&x1r=0.0014&x2r=0.9969&y1r=0&y2r=1&s=7cf0ae54b5150ec83e6285957c52d5f3"
  }
 ]
