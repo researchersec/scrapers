@@ -16,6 +16,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-21.webp&w=100&x1r=0.3421&x2r=0.6564&y1r=0.7169&y2r=0.9577&s=9c2a6697e956a221de59efc04ccfbd4e"
  },
  {
+  "link": "/fotex/tilbud/Yoggi-yoghurt~o:eI-H9x-h0oc6k8UGoXIfg",
+  "price": "12.00",
+  "currency": "DKK",
+  "valid_from": "13-03-2025",
+  "valid_until": "27-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0JfXxdMy%2Fp-2.webp&w=100&x1r=0.0318&x2r=0.4623&y1r=0.0961&y2r=0.5419&s=2c4132fa4d975ec33faac030c12bf135"
+ },
+ {
   "link": "/Bilka/tilbud/To-go-marked~o:ajG0ma_oQAJAnYe7S9aiw",
   "price": "6.00",
   "currency": "DKK",
@@ -72,12 +80,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRRQpyfLo%2Fp-9.webp&w=100&x1r=0.5047&x2r=0.9774&y1r=0.734&y2r=0.9766&s=abcfc25fdca72a48fdfb95ec6762d172"
  },
  {
-  "link": "/Bilka/tilbud/Tuborg-Kylle-Kylle-Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:suHCtDIwlQ3m9CkWCmcqe",
+  "link": "/Bilka/tilbud/Tuborg-Kylle-Kylle-Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:QI7IW3UG7w0NZ3aoNHms9",
   "price": "109.00",
   "currency": "DKK",
-  "valid_from": "06-03-2025",
-  "valid_until": "13-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-1.webp&w=100&x1r=0.4858&x2r=0.7312&y1r=0.278&y2r=0.5197&s=1470d5dbad9939ebc46997b1b232748f"
+  "valid_from": "13-03-2025",
+  "valid_until": "20-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4xFJuHlH%2Fp-4.webp&w=100&x1r=0.0139&x2r=0.9682&y1r=0.5898&y2r=0.9702&s=5390d41b00cfecb46643acababb76f69"
+ },
+ {
+  "link": "/fotex/tilbud/Carlsberg-Gron-Tuborg-eller-Tuborg-Classic-flasker~o:zZYSNuGhbiqjL1DwM0KxO",
+  "price": "135.00",
+  "currency": "DKK",
+  "valid_from": "13-03-2025",
+  "valid_until": "27-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0JfXxdMy%2Fp-23.webp&w=100&x1r=0.0125&x2r=0.7009&y1r=0.203&y2r=0.5003&s=096336f34ffbe9c51e89e34ae89a113f"
  },
  {
   "link": "/LET-KOB/tilbud/GRON-TUBORG-TUBORG-CLASSIC-PASKEBRYG-ELLER-CARLSBERG-PILSNER~o:fZXau4iFDpOzKU7P-HB2e",
@@ -88,27 +104,19 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAtdrqfLC%2Fp-4.webp&w=100&x1r=0.4995&x2r=0.9822&y1r=0.6634&y2r=0.9848&s=5d7a1c669466b0bde410efd31d3ab412"
  },
  {
+  "link": "/Bilka/tilbud/Tuborg-Kylle-Kylle-Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:suHCtDIwlQ3m9CkWCmcqe",
+  "price": "109.00",
+  "currency": "DKK",
+  "valid_from": "06-03-2025",
+  "valid_until": "13-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-1.webp&w=100&x1r=0.4858&x2r=0.7312&y1r=0.278&y2r=0.5197&s=1470d5dbad9939ebc46997b1b232748f"
+ },
+ {
   "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:Xblny8gWI4Cwvc8b45DDY",
   "price": "84.99",
   "currency": "DKK",
   "valid_from": "25-02-2025",
   "valid_until": "18-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoInXZwRQ%2Fp-11.webp&w=100&x1r=0.4255&x2r=0.9497&y1r=0.0111&y2r=0.1604&s=7f84d047776515bd6507902bba6f4cf1"
- },
- {
-  "link": "/MENY/tilbud/TUBORG-ELLER-CARLSBERG~o:c3myQtRHFAFMe70W56y7A",
-  "price": "99.95",
-  "currency": "DKK",
-  "valid_from": "06-03-2025",
-  "valid_until": "13-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FT5NrVOZF%2Fp-37.webp&w=100&x1r=0.5068&x2r=0.9799&y1r=0.615&y2r=0.9127&s=063c0b1d10d11c607feadc02681c377a"
- },
- {
-  "link": "/SPAR/tilbud/Tuborg-eller-Carlsberg~o:WHs1g7O0vD7SEIQkWeLme",
-  "price": "112.00",
-  "currency": "DKK",
-  "valid_from": "06-03-2025",
-  "valid_until": "13-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ8lxC11E%2Fp-12.webp&w=100&x1r=0.0259&x2r=0.9153&y1r=0.7489&y2r=0.9696&s=d8e59e3cb65c551bbec5424e79ab5545"
  }
 ]
