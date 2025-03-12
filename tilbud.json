@@ -1,5 +1,13 @@
 [
  {
+  "link": "/MENY/tilbud/YOGGI-YOGHURT~o:IgZR58nWodTp-elbbc9M_",
+  "price": "12.00",
+  "currency": "DKK",
+  "valid_from": "13-03-2025",
+  "valid_until": "20-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fh9IVOoU7%2Fp-39.webp&w=100&x1r=0.0319&x2r=0.4991&y1r=0.0215&y2r=0.3217&s=49f96a98cc39d1a00b19daf57b79b398"
+ },
+ {
   "link": "/REMA-1000/tilbud/Yoggi-yoghurt-Paere-banan-jordbaer-havens-baer-tropisk-eller-kirsebaer-1-kg~o:Cs2eB9Y90z4DFFFsSnk1t",
   "price": "15.00",
   "currency": "DKK",
@@ -30,14 +38,6 @@
   "valid_from": "13-03-2025",
   "valid_until": "27-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0JfXxdMy%2Fp-2.webp&w=100&x1r=0.0318&x2r=0.4623&y1r=0.0961&y2r=0.5419&s=2c4132fa4d975ec33faac030c12bf135"
- },
- {
-  "link": "/MENY/tilbud/YOGGI-YOGHURT~o:IgZR58nWodTp-elbbc9M_",
-  "price": "12.00",
-  "currency": "DKK",
-  "valid_from": "13-03-2025",
-  "valid_until": "20-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fh9IVOoU7%2Fp-39.webp&w=100&x1r=0.0319&x2r=0.4991&y1r=0.0215&y2r=0.3217&s=49f96a98cc39d1a00b19daf57b79b398"
  },
  {
   "link": "/Bilka/tilbud/To-go-marked~o:ajG0ma_oQAJAnYe7S9aiw",
