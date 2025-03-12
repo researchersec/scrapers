@@ -1,5 +1,13 @@
 [
  {
+  "link": "/REMA-1000/tilbud/Yoggi-yoghurt-Paere-banan-jordbaer-havens-baer-tropisk-eller-kirsebaer-1-kg~o:Cs2eB9Y90z4DFFFsSnk1t",
+  "price": "15.00",
+  "currency": "DKK",
+  "valid_from": "15-03-2025",
+  "valid_until": "22-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwnRyloFn%2Fp-5.webp&w=100&x1r=0.0108&x2r=0.5452&y1r=0.4667&y2r=0.7231&s=9734f1b557ce79017220ca17f9aa8b8a"
+ },
+ {
   "link": "/Min-Kobmand/tilbud/Yoggi-Yoghurt~o:yNE0Qn5oxlLJv2Y97iXo8",
   "price": "14.00",
   "currency": "DKK",
@@ -24,12 +32,28 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0JfXxdMy%2Fp-2.webp&w=100&x1r=0.0318&x2r=0.4623&y1r=0.0961&y2r=0.5419&s=2c4132fa4d975ec33faac030c12bf135"
  },
  {
+  "link": "/MENY/tilbud/YOGGI-YOGHURT~o:IgZR58nWodTp-elbbc9M_",
+  "price": "12.00",
+  "currency": "DKK",
+  "valid_from": "13-03-2025",
+  "valid_until": "20-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fh9IVOoU7%2Fp-39.webp&w=100&x1r=0.0319&x2r=0.4991&y1r=0.0215&y2r=0.3217&s=49f96a98cc39d1a00b19daf57b79b398"
+ },
+ {
   "link": "/Bilka/tilbud/To-go-marked~o:ajG0ma_oQAJAnYe7S9aiw",
   "price": "6.00",
   "currency": "DKK",
   "valid_from": "06-03-2025",
   "valid_until": "13-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-7.webp&w=100&x1r=0.5037&x2r=0.9933&y1r=0.1935&y2r=0.5884&s=fc05b4023f39e4733c1459b8a901e7aa"
+ },
+ {
+  "link": "/MENY/tilbud/QUAKER-CRUESLI~o:O-mL3TjcoI4DAvcvb4pYr",
+  "price": "29.95",
+  "currency": "DKK",
+  "valid_from": "13-03-2025",
+  "valid_until": "20-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fh9IVOoU7%2Fp-6.webp&w=100&x1r=0.0119&x2r=0.5088&y1r=0.5568&y2r=0.9834&s=aefe6f1c4d6bb02838e78bda1d50af26"
  },
  {
   "link": "/Lidl/tilbud/Cruesli~o:OlXjECFDc8gLdwq3_aC5B",
@@ -48,6 +72,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FT5NrVOZF%2Fp-32.webp&w=100&x1r=0.5016&x2r=0.9901&y1r=0.5218&y2r=0.9845&s=283e74fe8e68281d0e870ad561465507"
  },
  {
+  "link": "/REMA-1000/tilbud/Tuborg-Classic-Gron-Tuborg-Tuborg-0.0-eller-Tuborg-Paskebryg-33-cl.-Ex.-pant~o:uPq1CXm7TekevQRUCinI1",
+  "price": "4.00",
+  "currency": "DKK",
+  "valid_from": "15-03-2025",
+  "valid_until": "22-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwnRyloFn%2Fp-20.webp&w=100&x1r=0.4991&x2r=0.9854&y1r=0.4409&y2r=0.8774&s=e92880531f2a2bdda6bd11fee782e982"
+ },
+ {
   "link": "/SPAR/tilbud/Gron-Tuborg-Tuborg-Classic-Paskebryg-eller-Carlsberg-Pilsner~o:aD1kESN26ritHHmNN_I4M",
   "price": "135.00",
   "currency": "DKK",
@@ -62,6 +94,14 @@
   "valid_from": "27-02-2025",
   "valid_until": "13-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4dN18aY7%2Fp-27.webp&w=100&x1r=0.7236&x2r=0.9918&y1r=0.2808&y2r=0.7322&s=2d1fe16feb65db1411ab901b0d094e46"
+ },
+ {
+  "link": "/REMA-1000/tilbud/EGO-okologisk-lemon-ingefaer-lime-hyldeblomst-appelsin-blodappelsin-jordbaer-rabarber-eller-Tuborg-Classic-33-cl.-Ex.-pant~o:wz5ePAwZRmi5B8ChTRDya",
+  "price": "5.00",
+  "currency": "DKK",
+  "valid_from": "15-03-2025",
+  "valid_until": "22-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwnRyloFn%2Fp-16.webp&w=100&x1r=0.0173&x2r=0.5742&y1r=0.7006&y2r=0.9927&s=5edb0e45b26602c1d8063552f89b3b0c"
  },
  {
   "link": "/Netto/tilbud/Somersby-Gron-Tuborg-Tuborg-Classic-eller-Classic-alkoholfri~o:ZApPpadTNkiqz6R6Nr2uI",
@@ -102,21 +142,5 @@
   "valid_from": "09-03-2025",
   "valid_until": "23-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAtdrqfLC%2Fp-4.webp&w=100&x1r=0.4995&x2r=0.9822&y1r=0.6634&y2r=0.9848&s=5d7a1c669466b0bde410efd31d3ab412"
- },
- {
-  "link": "/Bilka/tilbud/Tuborg-Kylle-Kylle-Gron-Tuborg-Tuborg-Classic-eller-Carlsberg-Pilsner~o:suHCtDIwlQ3m9CkWCmcqe",
-  "price": "109.00",
-  "currency": "DKK",
-  "valid_from": "06-03-2025",
-  "valid_until": "13-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoNmnOnGW%2Fp-1.webp&w=100&x1r=0.4858&x2r=0.7312&y1r=0.278&y2r=0.5197&s=1470d5dbad9939ebc46997b1b232748f"
- },
- {
-  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:Xblny8gWI4Cwvc8b45DDY",
-  "price": "84.99",
-  "currency": "DKK",
-  "valid_from": "25-02-2025",
-  "valid_until": "18-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoInXZwRQ%2Fp-11.webp&w=100&x1r=0.4255&x2r=0.9497&y1r=0.0111&y2r=0.1604&s=7f84d047776515bd6507902bba6f4cf1"
  }
 ]
