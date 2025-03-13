@@ -358,49 +358,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
- },
- {
-  "match": "Los Angeles Kings - Washington Capitals",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:30",
-  "date": "2025-03-13",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "San Jose Sharks - Chicago Blackhawks",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:30",
-  "date": "2025-03-13",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Australiens Grand Prix",
-  "category": "VBet Live odds",
-  "time": "04:00",
-  "date": "2025-03-13",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
