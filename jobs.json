@@ -1,6 +1,14 @@
 [
  {
   "category": "it",
+  "pub_date": "14-03-2025",
+  "title": "Senior UI/Frontend Developer",
+  "company": "XCI A/S",
+  "location": "Aalborg",
+  "job_URL": "https://xci.teamtailor.com/jobs/5683354-senior-ui-frontend-developer?promotion=1384215-jobindex"
+ },
+ {
+  "category": "it",
   "pub_date": "12-03-2025",
   "title": "Frontend webudvikler",
   "company": "Bewise",
@@ -136,12 +144,20 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1544283/udviklingschef-cto-til-satlab-a-s-udvikling-af-radiosystemer-til-rumindustrien"
  },
  {
-  "category": "it",
-  "pub_date": "06-03-2025",
-  "title": "Software Specialist - Power Protections",
-  "company": "DEIF A/S",
-  "location": "Skive, Silkeborg, Odense eller Aalborg og mulighed for hjemmearbejde",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1545566/software-specialist-power-protections"
+  "category": "industri",
+  "pub_date": "14-03-2025",
+  "title": "Arbejdsmand - weekend",
+  "company": "Nordmark",
+  "location": "Sæby",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2779&ProjectId=143581&DepartmentId=18966&MediaId=4629"
+ },
+ {
+  "category": "industri",
+  "pub_date": "14-03-2025",
+  "title": "Arbejdsmand – aftenhold",
+  "company": "Nordmark",
+  "location": "Sæby",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2779&ProjectId=143580&DepartmentId=18966&MediaId=4629"
  },
  {
   "category": "industri",
@@ -218,6 +234,14 @@
  {
   "category": "industri",
   "pub_date": "14-03-2025",
+  "title": "Sprøjtefører",
+  "company": "Klitgaard Agro ApS",
+  "location": "Hals",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1548040/sproejtefoerer"
+ },
+ {
+  "category": "industri",
+  "pub_date": "14-03-2025",
   "title": "Lagerekspedient til Thisted, Silstrupvej",
   "company": "XL-BYG",
   "location": "Thisted",
@@ -238,30 +262,6 @@
   "company": "Carsoe",
   "location": "Aalborg Øst",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2042&ProjectId=143761&DepartmentId=18956&MediaId=4617"
- },
- {
-  "category": "industri",
-  "pub_date": "13-03-2025",
-  "title": "Service Engineer",
-  "company": "Green Instruments A/S",
-  "location": "Brønderslev",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2356&ProjectId=143608&DepartmentId=18980&MediaId=4619"
- },
- {
-  "category": "industri",
-  "pub_date": "13-03-2025",
-  "title": "Engageret Lagermedarbejder søges til XL-BYG Farsøs lager",
-  "company": "XL-BYG",
-  "location": "Farsø",
-  "job_URL": "https://app.elvium.com/da/positions/29765/job_posting?referer_host=www.jobindex.dk"
- },
- {
-  "category": "industri",
-  "pub_date": "13-03-2025",
-  "title": "Udkørende montører søges til plastsvejsning",
-  "company": "Dansk PE Svejsning A/S",
-  "location": "Hele landet",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1547458/udkoerende-montoerer-soeges-til-plastsvejsning"
  },
  {
   "category": "handel",
@@ -385,6 +385,14 @@
  },
  {
   "category": "ledelse",
+  "pub_date": "14-03-2025",
+  "title": "Udviklingskonsulent til Ledelsessekretariatet - Genopslag",
+  "company": "THISTED KOMMUNE",
+  "location": "Thisted",
+  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=136418"
+ },
+ {
+  "category": "ledelse",
   "pub_date": "13-03-2025",
   "title": "Head of Sales, EMEA Cleaning and Milling",
   "company": "SKIOLD A/S",
@@ -480,12 +488,12 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=187211&DepartmentId=9791&MediaId=5"
  },
  {
-  "category": "ledelse",
-  "pub_date": "10-03-2025",
-  "title": "Technical Director",
-  "company": "BILA A/S",
-  "location": "Nykøbing Mors",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144275&DepartmentId=18956&MediaId=46145"
+  "category": "undervisning",
+  "pub_date": "14-03-2025",
+  "title": "HabitusHuset Sct. Mortensgaard søger pædagogiske medarbejdere",
+  "company": "Habitus",
+  "location": "Hurup Thy",
+  "job_URL": "https://habitus.career.emply.com/ad/habitushuset-sct-mortensgaard-soger-paedagogiske-medarbejdere/5n5wep/da"
  },
  {
   "category": "undervisning",
@@ -592,12 +600,12 @@
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135772"
  },
  {
-  "category": "undervisning",
-  "pub_date": "03-03-2025",
-  "title": "Pædagog til Sjørring børnehus",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135770"
+  "category": "social",
+  "pub_date": "14-03-2025",
+  "title": "HabitusHuset Sct. Mortensgaard søger pædagogiske medarbejdere",
+  "company": "Habitus",
+  "location": "Hurup Thy",
+  "job_URL": "https://habitus.career.emply.com/ad/habitushuset-sct-mortensgaard-soger-paedagogiske-medarbejdere/5n5wep/da"
  },
  {
   "category": "social",
@@ -720,14 +728,6 @@
   "job_URL": "https://habitus.career.emply.com/ad/habitushusene-sct-mortensgaard-soger-vagen-nattevagt-til-vores-solisttilbud/i38ebn/da"
  },
  {
-  "category": "social",
-  "pub_date": "06-03-2025",
-  "title": "Lægeklinikken Aars søger lægesekretær, farmakonom eller SOSA pr. 1.5.2025",
-  "company": "Lægeklinikken Aars I/S",
-  "location": "Aars",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1545583/laegeklinikken-aars-soeger-laegesekretaer-farmakonom-eller-sosa-pr-152025"
- },
- {
   "category": "ingenioer",
   "pub_date": "14-03-2025",
   "title": "Maritim sagsbehandler med stærke kommunikationsevner og evne til at se nye løsninger",
@@ -832,14 +832,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1546978/vi-soeger-en-pta-produktionsteknisk-assistent-med-opstart-hurtigst-muligt"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "11-03-2025",
-  "title": "Commissioning Manager",
-  "company": "Nature Energy",
-  "location": "Odense SØ, Støvring, Aarhus N",
-  "job_URL": "https://careers.nature-energy.com/jobs/5618133-commissioning-manager?promotion=1377968-jobindex"
- },
- {
   "category": "salg",
   "pub_date": "14-03-2025",
   "title": "Salgskonsulent - XPENG",
@@ -936,14 +928,6 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143690&DepartmentId=18956&MediaId=4620"
  },
  {
-  "category": "salg",
-  "pub_date": "11-03-2025",
-  "title": "Marketing & Communications Manager",
-  "company": "Beritech A/S",
-  "location": "Hillerød, Nørresundby",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143689&DepartmentId=18960&MediaId=4620"
- },
- {
   "category": "kontor",
   "pub_date": "14-03-2025",
   "title": "Strategisk rådgiver for uddannelse til Det Tekniske Fakultet for IT og Design på Aalborg Universitet (barselsvikariat)",
@@ -974,6 +958,14 @@
   "company": "NORDEX FOOD A/S",
   "location": "Dronninglund",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143687&DepartmentId=18956&MediaId=5"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "14-03-2025",
+  "title": "Udviklingskonsulent til Ledelsessekretariatet - Genopslag",
+  "company": "THISTED KOMMUNE",
+  "location": "Thisted",
+  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=136418"
  },
  {
   "category": "kontor",

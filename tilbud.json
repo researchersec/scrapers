@@ -96,6 +96,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoInXZwRQ%2Fp-11.webp&w=100&x1r=0.4255&x2r=0.9497&y1r=0.0111&y2r=0.1604&s=7f84d047776515bd6507902bba6f4cf1"
  },
  {
+  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:z2WiXDGBhL-RNHvY6QlKZ",
+  "price": "84.99",
+  "currency": "DKK",
+  "valid_from": "18-03-2025",
+  "valid_until": "08-04-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1b6Vlm37%2Fp-11.webp&w=100&x1r=0.0388&x2r=0.9075&y1r=0.0034&y2r=0.1693&s=589df50ce9813eacce964998da4c044c"
+ },
+ {
   "link": "/BorderShop/tilbud/TUBORG-FAVORITTER~o:ZNod3a0lm2YjvtKv7pnp0",
   "price": "79.95",
   "currency": "DKK",
@@ -110,13 +118,5 @@
   "valid_from": "12-03-2025",
   "valid_until": "15-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FCJ3tE2cJ%2Fp-34.webp&w=100&x1r=0.4925&x2r=0.9927&y1r=0.2163&y2r=0.6851&s=2fbf2168edd2e1bf348ffef8a695029a"
- },
- {
-  "link": "/Calle/tilbud/Harboe-Classic-Pilsner-el.-0-0~o:DBZx34u2JfkV49u2B4Z0_",
-  "price": "50.00",
-  "currency": "DKK",
-  "valid_from": "04-03-2025",
-  "valid_until": "18-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F8b63dbe5fc357a1fbbece89f6d9fb5e5&w=100&s=7e7bdfaf364fef09da6ad323b46ef44a"
  }
 ]
