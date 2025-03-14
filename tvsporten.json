@@ -1,47 +1,7 @@
 [
  {
-  "match": "All England Open",
-  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:30",
-  "date": "2025-03-14",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Grand Prix of Argentina",
-  "category": "VBet Live odds",
-  "time": "13:00",
-  "date": "2025-03-14",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Tirreno–Adriatico",
-  "category": "Vuelta a España\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "13:00",
-  "date": "2025-03-14",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   }
-  ]
- },
- {
-  "match": "Grand Prix of Argentina",
-  "category": "VBet Live odds",
+  "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "13:45",
   "date": "2025-03-14",
   "channels": [
@@ -213,7 +173,7 @@
  },
  {
   "match": "Hvidovre IF - OB",
-  "category": "VBet Live odds",
+  "category": "NordicBet Liga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-03-14",
   "channels": [
@@ -225,7 +185,7 @@
  },
  {
   "match": "Hillerød - B 93",
-  "category": "VBet Live odds",
+  "category": "NordicBet Liga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-03-14",
   "channels": [
@@ -237,7 +197,7 @@
  },
  {
   "match": "AC Horsens - Esbjerg fB",
-  "category": "VBet Live odds",
+  "category": "NordicBet Liga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-03-14",
   "channels": [
@@ -253,7 +213,7 @@
  },
  {
   "match": "Vendsyssel FF - Fredericia",
-  "category": "VBet Live odds",
+  "category": "NordicBet Liga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-03-14",
   "channels": [
@@ -265,7 +225,7 @@
  },
  {
   "match": "Kolding IF - Hobro IK",
-  "category": "VBet Live odds",
+  "category": "NordicBet Liga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-03-14",
   "channels": [
@@ -277,7 +237,7 @@
  },
  {
   "match": "HB Køge - Roskilde",
-  "category": "VBet Live odds",
+  "category": "NordicBet Liga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-03-14",
   "channels": [
@@ -300,8 +260,8 @@
   ]
  },
  {
-  "match": "Ikast Handbold W - Horsens Håndbold Elite",
-  "category": "VBet Live odds",
+  "match": "Ikast Håndbold – Horsens Hk",
+  "category": "Bambusa Kvindeligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:00",
   "date": "2025-03-14",
   "channels": [
@@ -313,7 +273,7 @@
  },
  {
   "match": "Al Nassr - Al Kholood",
-  "category": "VBet Live odds",
+  "category": "Saudi Pro League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:00",
   "date": "2025-03-14",
   "channels": [
@@ -417,7 +377,7 @@
  },
  {
   "match": "Cancun P2",
-  "category": "VBet Live odds",
+  "category": "Premier Padel\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "22:00",
   "date": "2025-03-14",
   "channels": [
