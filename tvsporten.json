@@ -458,41 +458,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
- },
- {
-  "match": "Anaheim Ducks - Nashville Predators",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:00",
-  "date": "2025-03-14",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Seattle Kraken - Utah Hockey Club",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:00",
-  "date": "2025-03-14",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Australiens Grand Prix",
-  "category": "VBet Live odds",
-  "time": "04:15",
-  "date": "2025-03-14",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
  }
 ]
