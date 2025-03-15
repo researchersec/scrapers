@@ -578,14 +578,6 @@
  {
   "category": "undervisning",
   "pub_date": "03-03-2025",
-  "title": "Faglærer til vores økologiske landbrug",
-  "company": "Fonden Nr. Vesterskov",
-  "location": "Dybvad",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1544031/faglaerer-til-vores-oekologiske-landbrug"
- },
- {
-  "category": "undervisning",
-  "pub_date": "03-03-2025",
   "title": "Vil du være med til at uddanne fremtidens kosmetikere?",
   "company": "TECHCOLLEGE",
   "location": "Aalborg",
@@ -598,6 +590,14 @@
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135772"
+ },
+ {
+  "category": "undervisning",
+  "pub_date": "03-03-2025",
+  "title": "Pædagog til Sjørring børnehus",
+  "company": "THISTED KOMMUNE",
+  "location": "Thisted",
+  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135770"
  },
  {
   "category": "social",
@@ -1057,6 +1057,14 @@
  },
  {
   "category": "oevrige",
+  "pub_date": "15-03-2025",
+  "title": "Et vellønnet, meningsfyldt og fleksibelt job",
+  "company": "European Sperm Bank",
+  "location": "Aarhus, Lyngby, Aalborg, København K og København N",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1494707/et-velloennet-meningsfyldt-og-fleksibelt-job"
+ },
+ {
+  "category": "oevrige",
   "pub_date": "14-03-2025",
   "title": "Studentermedhjælpere til sagsbehandling",
   "company": "Motorstyrelsen",
@@ -1158,13 +1166,5 @@
   "company": "Bayern AutoGroup",
   "location": "Aalborg",
   "job_URL": "https://app.jobmatchprofile.com/kwcqm2?client=jobindex"
- },
- {
-  "category": "oevrige",
-  "pub_date": "10-03-2025",
-  "title": "Revisortrainee hos Redmark 2026",
-  "company": "Redmark",
-  "location": "Frederiksberg, Aalborg eller Randers SØ",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1530444/revisortrainee-hos-redmark-2026"
  }
 ]
