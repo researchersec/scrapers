@@ -88,20 +88,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAtdrqfLC%2Fp-4.webp&w=100&x1r=0.4995&x2r=0.9822&y1r=0.6634&y2r=0.9848&s=5d7a1c669466b0bde410efd31d3ab412"
  },
  {
-  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:Xblny8gWI4Cwvc8b45DDY",
-  "price": "84.99",
-  "currency": "DKK",
-  "valid_from": "25-02-2025",
-  "valid_until": "18-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoInXZwRQ%2Fp-11.webp&w=100&x1r=0.4255&x2r=0.9497&y1r=0.0111&y2r=0.1604&s=7f84d047776515bd6507902bba6f4cf1"
- },
- {
   "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:z2WiXDGBhL-RNHvY6QlKZ",
   "price": "84.99",
   "currency": "DKK",
   "valid_from": "18-03-2025",
   "valid_until": "08-04-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1b6Vlm37%2Fp-11.webp&w=100&x1r=0.0388&x2r=0.9075&y1r=0.0034&y2r=0.1693&s=589df50ce9813eacce964998da4c044c"
+ },
+ {
+  "link": "/CITTI/tilbud/Tuborg-Classic-Pilsner-eller-Guld~o:Xblny8gWI4Cwvc8b45DDY",
+  "price": "84.99",
+  "currency": "DKK",
+  "valid_from": "25-02-2025",
+  "valid_until": "18-03-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoInXZwRQ%2Fp-11.webp&w=100&x1r=0.4255&x2r=0.9497&y1r=0.0111&y2r=0.1604&s=7f84d047776515bd6507902bba6f4cf1"
  },
  {
   "link": "/BorderShop/tilbud/TUBORG-FAVORITTER~o:ZNod3a0lm2YjvtKv7pnp0",
