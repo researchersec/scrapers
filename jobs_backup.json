@@ -2,6 +2,22 @@
  {
   "category": "it",
   "pub_date": "17-03-2025",
+  "title": "Technical Team Lead",
+  "company": "XCI A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://xci.teamtailor.com/jobs/5686277-technical-team-lead?promotion=1385611-jobindex"
+ },
+ {
+  "category": "it",
+  "pub_date": "17-03-2025",
+  "title": "Solution Architect (Infrastruktur)",
+  "company": "Telenor",
+  "location": "Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145885&DepartmentId=18957&MediaId=5"
+ },
+ {
+  "category": "it",
+  "pub_date": "17-03-2025",
   "title": "Bliv vores nye Customer Success Specialist hos Keatech ApS!",
   "company": "Keatech ApS",
   "location": "Hjørring",
@@ -110,22 +126,6 @@
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=136245"
- },
- {
-  "category": "it",
-  "pub_date": "11-03-2025",
-  "title": "Driftstekniker til IT Service",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=136242"
- },
- {
-  "category": "it",
-  "pub_date": "10-03-2025",
-  "title": "BI Frontend Specialist",
-  "company": "Telenor",
-  "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145881&DepartmentId=18957&MediaId=5"
  },
  {
   "category": "industri",
@@ -250,10 +250,10 @@
  {
   "category": "industri",
   "pub_date": "13-03-2025",
-  "title": "Keolis Aalborg søger mekaniker",
-  "company": "Keolis Danmark A/S",
-  "location": "Tylstrup",
-  "job_URL": "https://keolis.career.emply.com/ad/keolis-aalborg-soger-mekaniker/7t34dz/da"
+  "title": "Overfladebehandler",
+  "company": "Carsoe",
+  "location": "Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2042&ProjectId=143761&DepartmentId=18956&MediaId=4617"
  },
  {
   "category": "handel",
@@ -360,12 +360,28 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2223&ProjectId=144969&DepartmentId=19280&MediaId=4631"
  },
  {
-  "category": "handel",
-  "pub_date": "06-03-2025",
-  "title": "Indretningsarkitekt med passion for eksklusive kundeoplevelser",
-  "company": "Svane Køkkenet",
+  "category": "ledelse",
+  "pub_date": "17-03-2025",
+  "title": "Struktureret og ambitiøs sektionschef til Planlægnings- og Forligsstyringssektionen",
+  "company": "Forsvarsministeriets Ejendomsstyrelse",
+  "location": "Hjørring og mulighed for hjemmearbejde",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=144873&DepartmentId=19441&MediaId=4735"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "17-03-2025",
+  "title": "Fagchef",
+  "company": "Elgaard Mancom",
   "location": "Aalborg SV",
-  "job_URL": "https://www.jobindex.dk/img/pdf/stilling_indretningsarkitekt_aalborg-7.pdf"
+  "job_URL": "https://elgaardmancom.dk/rekruttering/ledige-stillinger/?hr=show-job%2F247226%26locale%3Dda_DK"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "17-03-2025",
+  "title": "Technical Team Lead",
+  "company": "XCI A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://xci.teamtailor.com/jobs/5686277-technical-team-lead?promotion=1385611-jobindex"
  },
  {
   "category": "ledelse",
@@ -456,28 +472,20 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146466&DepartmentId=18982&MediaId=59"
  },
  {
-  "category": "ledelse",
-  "pub_date": "11-03-2025",
-  "title": "CFO/Økonomichef",
-  "company": "Curia",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22297&locale=da_DK"
- },
- {
-  "category": "ledelse",
-  "pub_date": "11-03-2025",
-  "title": "Kvalitetschef til førende fødevarevirksomhed",
-  "company": "Fynbo Foods A/S",
-  "location": "Vrå",
-  "job_URL": "https://www.fynbofoods.dk/om-fynbo/job-og-karriere/ledige-stillinger-og-karriere/?hr=show-job%2F242778%26locale%3Dda_DK"
- },
- {
   "category": "undervisning",
   "pub_date": "28-02-2025",
   "title": "Altiden Knivholtvej søger en faglig stærk og erfaren socialpædagog",
   "company": "Altiden",
   "location": "Frederikshavn",
   "job_URL": "https://jobs.altiden.dk/jobs/5069262-altiden-knivholtvej-soeger-en-faglig-staerk-og-erfaren-socialpaedagog?promotion=1362362-jobindex"
+ },
+ {
+  "category": "undervisning",
+  "pub_date": "17-03-2025",
+  "title": "Koordinator til Social Sundhed NORD (37 timer)",
+  "company": "Social Sundhed - Brobyggere i Sundhedsvæsenet",
+  "location": "Thisted",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1548264/koordinator-til-social-sundhed-nord-37-timer"
  },
  {
   "category": "undervisning",
@@ -518,14 +526,6 @@
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=136337"
- },
- {
-  "category": "undervisning",
-  "pub_date": "12-03-2025",
-  "title": "PPR søger 1 medarbejder til Psykiatriteam for børn og unge",
-  "company": "Hjørring Kommune",
-  "location": "Hjørring",
-  "job_URL": "https://hjoerring.emply.net/recruitment/vacancyAd.aspx?publishingId=44d02f5e-958f-4105-afa8-93753a7ef18f"
  },
  {
   "category": "undervisning",
@@ -574,6 +574,22 @@
   "company": "Curia",
   "location": "Hirtshals",
   "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22293&locale=da_DK"
+ },
+ {
+  "category": "social",
+  "pub_date": "17-03-2025",
+  "title": "Konsultationssygeplejersker til vægttabsklinik",
+  "company": "Velform ApS",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1548445/konsultationssygeplejersker-til-vaegttabsklinik"
+ },
+ {
+  "category": "social",
+  "pub_date": "17-03-2025",
+  "title": "Koordinator til Social Sundhed NORD (37 timer)",
+  "company": "Social Sundhed - Brobyggere i Sundhedsvæsenet",
+  "location": "Thisted",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1548264/koordinator-til-social-sundhed-nord-37-timer"
  },
  {
   "category": "social",
@@ -630,14 +646,6 @@
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=136364"
- },
- {
-  "category": "social",
-  "pub_date": "12-03-2025",
-  "title": "PPR søger 1 medarbejder til Psykiatriteam for børn og unge",
-  "company": "Hjørring Kommune",
-  "location": "Hjørring",
-  "job_URL": "https://hjoerring.emply.net/recruitment/vacancyAd.aspx?publishingId=44d02f5e-958f-4105-afa8-93753a7ef18f"
  },
  {
   "category": "social",
@@ -896,12 +904,28 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1547013/customer-success-manager"
  },
  {
-  "category": "salg",
-  "pub_date": "11-03-2025",
-  "title": "Marketing & Communications Specialist",
-  "company": "Beritech A/S",
-  "location": "Hillerød eller Nørresundby",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143690&DepartmentId=18956&MediaId=4620"
+  "category": "kontor",
+  "pub_date": "17-03-2025",
+  "title": "Struktureret og ambitiøs sektionschef til Planlægnings- og Forligsstyringssektionen",
+  "company": "Forsvarsministeriets Ejendomsstyrelse",
+  "location": "Hjørring og mulighed for hjemmearbejde",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=144873&DepartmentId=19441&MediaId=4735"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "17-03-2025",
+  "title": "Fagchef",
+  "company": "Elgaard Mancom",
+  "location": "Aalborg SV",
+  "job_URL": "https://elgaardmancom.dk/rekruttering/ledige-stillinger/?hr=show-job%2F247226%26locale%3Dda_DK"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "17-03-2025",
+  "title": "Erfaren indkøber til daglig disponering",
+  "company": "Guldbrandsen & Lythje ApS",
+  "location": "Sæby",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1831&ProjectId=143929&DepartmentId=18981&MediaId=5&SkipAdvertisement=False"
  },
  {
   "category": "kontor",
@@ -914,10 +938,26 @@
  {
   "category": "kontor",
   "pub_date": "17-03-2025",
+  "title": "Koordinator til Social Sundhed NORD (37 timer)",
+  "company": "Social Sundhed - Brobyggere i Sundhedsvæsenet",
+  "location": "Thisted",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1548264/koordinator-til-social-sundhed-nord-37-timer"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "17-03-2025",
   "title": "Outsourcingkonsulent med digitalt mindset til Beierholm i Mariagerfjord",
   "company": "Beierholm Godkendt Revisionspartnerselskab",
   "location": "Hobro eller Hadsund",
   "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/outsourcingkonsulent-med-digitalt-mindset-til-beierholm-i-mariagerfjord"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "17-03-2025",
+  "title": "Legal Counsel / Advisor",
+  "company": "Norlys Energy Trading",
+  "location": "Aalborg eller Aarhus",
+  "job_URL": "https://www.norlysenergytrading.com/jobs/legal-counsel-advisor"
  },
  {
   "category": "kontor",
@@ -990,54 +1030,6 @@
   "company": "HJ Lubricators",
   "location": "Hadsund og mulighed for hjemmearbejde",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1547449/field-service-planner-marinebranchen"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-03-2025",
-  "title": "Indkøbskoordinator til strategisk indkøb",
-  "company": "BILA A/S",
-  "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144283&DepartmentId=18956&MediaId=4614"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-03-2025",
-  "title": "Sales Support Coordinator",
-  "company": "Selek Group",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1547341/sales-support-coordinator"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-03-2025",
-  "title": "Er du god til løn? Din næste mulighed som lønbogholder venter!",
-  "company": "Temp-Team A/S",
-  "location": "Jammerbugt",
-  "job_URL": "https://temp-team.dk/job-search/er-du-god-til-lon-din-naeste-mulighed-som-lonbogholder-venter-421809"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-03-2025",
-  "title": "Finance- & Payroll Consultant",
-  "company": "Visma Enterprise A/S",
-  "location": "Aalborg Øst og mulighed for hjemmearbejde",
-  "job_URL": "https://karriere.vismaenterprise.dk/jobs/5677777-finance-payroll-consultant"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-03-2025",
-  "title": "Salgskonsulent",
-  "company": "Norlys",
-  "location": "Brønderslev",
-  "job_URL": "https://www.job-karriere.dk/Norlys/job/Br%C3%B8nderslev-Salgskonsulent-9700/1169378701/"
- },
- {
-  "category": "kontor",
-  "pub_date": "13-03-2025",
-  "title": "Customer Care & Sales Consultant",
-  "company": "Norlys",
-  "location": "Aalborg",
-  "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Customer-Care-&-Sales-Consultant-9000/1169331101/"
  },
  {
   "category": "oevrige",
