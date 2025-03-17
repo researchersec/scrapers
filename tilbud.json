@@ -72,6 +72,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4xFJuHlH%2Fp-4.webp&w=100&x1r=0.0139&x2r=0.9682&y1r=0.5898&y2r=0.9702&s=5390d41b00cfecb46643acababb76f69"
  },
  {
+  "link": "/Fleggaard/tilbud/Tuborg-Nul-0-0-el.-Classic-0-0~o:awvlEdU3VKknWzzzCeCUi",
+  "price": "84.99",
+  "currency": "DKK",
+  "valid_from": "18-03-2025",
+  "valid_until": "01-04-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaS7x09j3%2Fp-31.webp&w=100&x1r=0.7243&x2r=0.9961&y1r=0.5249&y2r=0.7428&s=a5bdbbef78b39856287161a3077a48c0"
+ },
+ {
   "link": "/fotex/tilbud/Carlsberg-Gron-Tuborg-eller-Tuborg-Classic-flasker~o:zZYSNuGhbiqjL1DwM0KxO",
   "price": "135.00",
   "currency": "DKK",
@@ -110,13 +118,5 @@
   "valid_from": "13-03-2025",
   "valid_until": "20-03-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fz1xSD8ka%2Fp-28.webp&w=100&x1r=0.0113&x2r=0.4437&y1r=0.4236&y2r=0.6391&s=1370a53b7819335b04e4b42437d54a99"
- },
- {
-  "link": "/fotex/tilbud/Olmarked~o:FA65EtbZRffLCrNxuywD6",
-  "price": "112.00",
-  "currency": "DKK",
-  "valid_from": "13-03-2025",
-  "valid_until": "27-03-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0JfXxdMy%2Fp-23.webp&w=100&x1r=0.0285&x2r=0.584&y1r=0.0256&y2r=0.2275&s=ad25d92de4f631539625176d9973bfaa"
  }
 ]
