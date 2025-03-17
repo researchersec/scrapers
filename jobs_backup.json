@@ -1,6 +1,30 @@
 [
  {
   "category": "it",
+  "pub_date": "17-03-2025",
+  "title": "Cloud Administrator",
+  "company": "Continia Software A/S",
+  "location": "Copenhagen or Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143678&DepartmentId=18974&MediaId=5"
+ },
+ {
+  "category": "it",
+  "pub_date": "17-03-2025",
+  "title": "Senior Cloud Engineer",
+  "company": "Continia Software A/S",
+  "location": "Copenhagen or Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143679&DepartmentId=18974&MediaId=5"
+ },
+ {
+  "category": "it",
+  "pub_date": "17-03-2025",
+  "title": "Test Manager",
+  "company": "CGI Danmark A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-1799&BRID=1184276&lang=10"
+ },
+ {
+  "category": "it",
   "pub_date": "14-03-2025",
   "title": "Senior UI/Frontend Developer",
   "company": "XCI A/S",
@@ -104,44 +128,20 @@
   "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK"
  },
  {
-  "category": "it",
-  "pub_date": "07-03-2025",
-  "title": "Winther Studio søger en passioneret og innovativ marketingchef!",
-  "company": "Winther Studio ApS",
-  "location": "Aalborg SV",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1545762/winther-studio-soeger-en-passioneret-og-innovativ-marketingchef"
+  "category": "industri",
+  "pub_date": "17-03-2025",
+  "title": "Servicetekniker",
+  "company": "SKOV A/S",
+  "location": "Mulighed for hjemmearbejde",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1540314/servicetekniker"
  },
  {
-  "category": "it",
-  "pub_date": "07-03-2025",
-  "title": "Vi søger dygtig kollega til installationsteamet i Aalborg",
-  "company": "AV CENTER Aalborg ApS",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1537660/vi-soeger-dygtig-kollega-til-installationsteamet-i-aalborg"
- },
- {
-  "category": "it",
-  "pub_date": "07-03-2025",
-  "title": "IT/OT Specialist til Aalborg Portland A/S – Electrical Maintenance",
-  "company": "Aalborg Portland",
-  "location": "Aalborg",
-  "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3475383/130141/jobindex&iso=dk/"
- },
- {
-  "category": "it",
-  "pub_date": "07-03-2025",
-  "title": "Hardware-tekniker",
-  "company": "Nordic Computer A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1545662/hardware-tekniker"
- },
- {
-  "category": "it",
-  "pub_date": "06-03-2025",
-  "title": "Udviklingschef/CTO til Satlab A/S  - udvikling af radiosystemer til rumindustrien",
-  "company": "Hedevang - Ledelse & Hr ApS",
-  "location": "Aalborg Øst",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1544283/udviklingschef-cto-til-satlab-a-s-udvikling-af-radiosystemer-til-rumindustrien"
+  "category": "industri",
+  "pub_date": "17-03-2025",
+  "title": "Tekniker med ansvar for vedligeholdelsesafdelingen til Outrup",
+  "company": "Outrup Vinduer & Døre A/S",
+  "location": "Nykøbing Mors",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1532302/tekniker-med-ansvar-for-vedligeholdelsesafdelingen-til-outrup"
  },
  {
   "category": "industri",
@@ -254,14 +254,6 @@
   "company": "Keolis Danmark A/S",
   "location": "Tylstrup",
   "job_URL": "https://keolis.career.emply.com/ad/keolis-aalborg-soger-mekaniker/7t34dz/da"
- },
- {
-  "category": "industri",
-  "pub_date": "13-03-2025",
-  "title": "Overfladebehandler",
-  "company": "Carsoe",
-  "location": "Aalborg Øst",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2042&ProjectId=143761&DepartmentId=18956&MediaId=4617"
  },
  {
   "category": "handel",
@@ -377,6 +369,14 @@
  },
  {
   "category": "ledelse",
+  "pub_date": "17-03-2025",
+  "title": "Test Manager",
+  "company": "CGI Danmark A/S",
+  "location": "Nørresundby",
+  "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-1799&BRID=1184276&lang=10"
+ },
+ {
+  "category": "ledelse",
   "pub_date": "14-03-2025",
   "title": "Regional Director Sea - Nordics",
   "company": "Blue Water Shipping A/S",
@@ -472,20 +472,12 @@
   "job_URL": "https://www.fynbofoods.dk/om-fynbo/job-og-karriere/ledige-stillinger-og-karriere/?hr=show-job%2F242778%26locale%3Dda_DK"
  },
  {
-  "category": "ledelse",
-  "pub_date": "10-03-2025",
-  "title": "Afdelingsleder til Genbrugsinnovation",
-  "company": "Nordværk I/S",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143728&DepartmentId=18974&MediaId=4629"
- },
- {
-  "category": "ledelse",
-  "pub_date": "10-03-2025",
-  "title": "Vi søger to projektledere med flair for det gode samarbejde",
-  "company": "Vejdirektoratet",
-  "location": "Næstved, Middelfart, Aalborg Øst og mulighed for hjemmearbejde",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=187211&DepartmentId=9791&MediaId=5"
+  "category": "undervisning",
+  "pub_date": "28-02-2025",
+  "title": "Altiden Knivholtvej søger en faglig stærk og erfaren socialpædagog",
+  "company": "Altiden",
+  "location": "Frederikshavn",
+  "job_URL": "https://jobs.altiden.dk/jobs/5069262-altiden-knivholtvej-soeger-en-faglig-staerk-og-erfaren-socialpaedagog?promotion=1362362-jobindex"
  },
  {
   "category": "undervisning",
@@ -578,26 +570,10 @@
  {
   "category": "undervisning",
   "pub_date": "03-03-2025",
-  "title": "Vil du være med til at uddanne fremtidens kosmetikere?",
-  "company": "TECHCOLLEGE",
-  "location": "Aalborg",
-  "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1045"
- },
- {
-  "category": "undervisning",
-  "pub_date": "03-03-2025",
-  "title": "Pædagogmedhjælper til Sjørring børnehus",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135772"
- },
- {
-  "category": "undervisning",
-  "pub_date": "03-03-2025",
-  "title": "Pædagog til Sjørring børnehus",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=135770"
+  "title": "Forretningsudvikler til spændende forskerpark",
+  "company": "Curia",
+  "location": "Hirtshals",
+  "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22293&locale=da_DK"
  },
  {
   "category": "social",
@@ -729,6 +705,14 @@
  },
  {
   "category": "ingenioer",
+  "pub_date": "17-03-2025",
+  "title": "Servicetekniker",
+  "company": "SKOV A/S",
+  "location": "Mulighed for hjemmearbejde",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1540314/servicetekniker"
+ },
+ {
+  "category": "ingenioer",
   "pub_date": "14-03-2025",
   "title": "Maritim sagsbehandler med stærke kommunikationsevner og evne til at se nye løsninger",
   "company": "Geodatastyrelsen",
@@ -822,14 +806,6 @@
   "company": "FLSmidth",
   "location": "Mariager",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1529218/airloq-servicetekniker-flsmidth-cement"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "12-03-2025",
-  "title": "Vi søger en PTA/Produktionsteknisk assistent med opstart hurtigst muligt",
-  "company": "Nordturn Maskinfabrik ApS",
-  "location": "Dronninglund",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1546978/vi-soeger-en-pta-produktionsteknisk-assistent-med-opstart-hurtigst-muligt"
  },
  {
   "category": "salg",
@@ -1057,6 +1033,14 @@
  },
  {
   "category": "oevrige",
+  "pub_date": "17-03-2025",
+  "title": "GoTutor søger studiepraktikanter til HR",
+  "company": "GoTutor – en del af Egmont",
+  "location": "København K og mulighed for hjemmearbejde",
+  "job_URL": "https://gotutor.dk/stillinger/praktik/hr"
+ },
+ {
+  "category": "oevrige",
   "pub_date": "15-03-2025",
   "title": "Et vellønnet, meningsfyldt og fleksibelt job",
   "company": "European Sperm Bank",
@@ -1158,13 +1142,5 @@
   "company": "Ahlsell",
   "location": "Aalborg",
   "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16243"
- },
- {
-  "category": "oevrige",
-  "pub_date": "10-03-2025",
-  "title": "Mekanikerlærling",
-  "company": "Bayern AutoGroup",
-  "location": "Aalborg",
-  "job_URL": "https://app.jobmatchprofile.com/kwcqm2?client=jobindex"
  }
 ]
