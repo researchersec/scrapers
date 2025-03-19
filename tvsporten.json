@@ -142,21 +142,5 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
- },
- {
-  "match": "Los Angeles Lakers - Denver Nuggets",
-  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:00",
-  "date": "2025-03-19",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
  }
 ]
