@@ -1,21 +1,5 @@
 [
  {
-  "match": "Singapore Classic",
-  "category": "DP World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "06:00",
-  "date": "2025-03-20",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Miami P1",
   "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:00",
@@ -85,7 +69,7 @@
  },
  {
   "match": "Türkiye - Hungary",
-  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.81  |  3.40  |  4.80",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.79  |  3.45  |  4.90",
   "time": "18:00",
   "date": "2025-03-20",
   "channels": [
@@ -209,7 +193,7 @@
  },
  {
   "match": "Danmark - Portugal",
-  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.30  |  2.08",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.25  |  2.08",
   "time": "20:45",
   "date": "2025-03-20",
   "channels": [
@@ -249,7 +233,7 @@
  },
  {
   "match": "Austria - Serbia",
-  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.77  |  3.50  |  5.00",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.74  |  3.55  |  5.10",
   "time": "20:45",
   "date": "2025-03-20",
   "channels": [
@@ -273,7 +257,7 @@
  },
  {
   "match": "Netherlands - Spain",
-  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.30  |  3.25  |  2.28",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.35  |  3.15  |  2.28",
   "time": "20:45",
   "date": "2025-03-20",
   "channels": [
@@ -297,7 +281,7 @@
  },
  {
   "match": "Slovakia - Slovenia",
-  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.14  |  3.15  |  3.75",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.12  |  3.25  |  3.75",
   "time": "20:45",
   "date": "2025-03-20",
   "channels": [
@@ -309,7 +293,7 @@
  },
  {
   "match": "Croatia - France",
-  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.80  |  3.25  |  2.08",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.90  |  3.25  |  2.05",
   "time": "20:45",
   "date": "2025-03-20",
   "channels": [
@@ -333,7 +317,7 @@
  },
  {
   "match": "Italy - Germany",
-  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  3.00  |  2.80",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  3.20  |  2.65",
   "time": "20:45",
   "date": "2025-03-20",
   "channels": [
