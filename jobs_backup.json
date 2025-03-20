@@ -136,12 +136,12 @@
   "job_URL": "https://eurowindenergy.com/career?hr=show-job/245810&locale=en_US#hrskyen"
  },
  {
-  "category": "it",
-  "pub_date": "12-03-2025",
-  "title": "Business Intelligence Frontend Developer",
-  "company": "Eurowind Energy A/S",
-  "location": "Hobro",
-  "job_URL": "https://eurowindenergy.com/career?hr=show-job/245806&locale=en_US#hrskyen"
+  "category": "industri",
+  "pub_date": "20-03-2025",
+  "title": "Servicetekniker med eventyrlyst og teknisk snilde",
+  "company": "All4recycle ApS",
+  "location": "Hanstholm",
+  "job_URL": "https://www.jobindex.dk/img/pdf/all4recycle_servicetekniker_20250219_lost.pdf"
  },
  {
   "category": "industri",
@@ -248,14 +248,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1540314/servicetekniker"
  },
  {
-  "category": "industri",
-  "pub_date": "14-03-2025",
-  "title": "Arbejdsmand - weekend",
-  "company": "Nordmark",
-  "location": "Sæby",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2779&ProjectId=143581&DepartmentId=18966&MediaId=4629"
- },
- {
   "category": "handel",
   "pub_date": "19-03-2025",
   "title": "Barselsvikariat: Salgskonsulent søges til YouSee butik i Aalborg Storcenter (fuldtid)",
@@ -334,14 +326,6 @@
   "company": "NOVASOL part of Awaze",
   "location": "Thisted",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1547138/cleaning-supervisor-hourly-paid"
- },
- {
-  "category": "handel",
-  "pub_date": "11-03-2025",
-  "title": "Store Manager - med potentiale til at blive Store Manager Partner",
-  "company": "CHANGE of Scandinavia A/S",
-  "location": "Thisted",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1178&ProjectId=146466&DepartmentId=18982&MediaId=59"
  },
  {
   "category": "ledelse",
@@ -697,6 +681,14 @@
  },
  {
   "category": "ingenioer",
+  "pub_date": "20-03-2025",
+  "title": "Personal Assistant",
+  "company": "Danpo A/S",
+  "location": "Aars",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1541273/personal-assistant"
+ },
+ {
+  "category": "ingenioer",
   "pub_date": "19-03-2025",
   "title": "Geodatastyrelsen søger 3 GIS-medarbejdere til søkort i digital transformation",
   "company": "Geodatastyrelsen",
@@ -896,14 +888,6 @@
   "job_URL": "https://www.nybolig.dk/Jobopslag?hr=show-job/247144&linkref=283927&locale=da_DK"
  },
  {
-  "category": "salg",
-  "pub_date": "14-03-2025",
-  "title": "Salgskonsulent - XPENG",
-  "company": "Ejner Hessel A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1302&ProjectId=144767&DepartmentId=18975&MediaId=4614"
- },
- {
   "category": "kontor",
   "pub_date": "19-03-2025",
   "title": "Teknisk minded kontorassistent",
@@ -1033,6 +1017,22 @@
  },
  {
   "category": "oevrige",
+  "pub_date": "20-03-2025",
+  "title": "Tjenerelev søges til fantastisk hotel",
+  "company": "Hotel Bramslevgaard ApS",
+  "location": "Hobro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1533421/tjenerelev-soeges-til-fantastisk-hotel"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "20-03-2025",
+  "title": "Handelselev med speciale i salg til butik Aalborg",
+  "company": "Ahlsell",
+  "location": "Aalborg",
+  "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16224"
+ },
+ {
+  "category": "oevrige",
   "pub_date": "19-03-2025",
   "title": "Fleksibelt, vellønnet og udviklende studiejob",
   "company": "Akademikernes A-kasse",
@@ -1086,29 +1086,5 @@
   "company": "Magasin",
   "location": "Århus C, Kongens Lyngby, Odense, København, Rødovre, Aalborg",
   "job_URL": "https://karriere.magasin.dk/jobs/3093569-magasinelev-2025?promotion=1386539-jobindex"
- },
- {
-  "category": "oevrige",
-  "pub_date": "17-03-2025",
-  "title": "GoTutor søger studiepraktikanter til HR",
-  "company": "GoTutor – en del af Egmont",
-  "location": "København K og mulighed for hjemmearbejde",
-  "job_URL": "https://gotutor.dk/stillinger/praktik/hr"
- },
- {
-  "category": "oevrige",
-  "pub_date": "15-03-2025",
-  "title": "Et vellønnet, meningsfyldt og fleksibelt job",
-  "company": "European Sperm Bank",
-  "location": "Aarhus, Lyngby, Aalborg, København K og København N",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1494707/et-velloennet-meningsfyldt-og-fleksibelt-job"
- },
- {
-  "category": "oevrige",
-  "pub_date": "14-03-2025",
-  "title": "Studentermedhjælpere til sagsbehandling",
-  "company": "Motorstyrelsen",
-  "location": "Aalborg og mulighed for hjemmearbejde",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=187321&DepartmentId=9409&MediaId=3191"
  }
 ]
