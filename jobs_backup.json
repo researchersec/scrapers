@@ -1,6 +1,22 @@
 [
  {
   "category": "it",
+  "pub_date": "21-03-2025",
+  "title": "Ex­pe­ri­en­ced developer for SaaS products",
+  "company": "Unik System Design A/S",
+  "location": "Aalborg SV",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143763&DepartmentId=18968&MediaId=4617"
+ },
+ {
+  "category": "it",
+  "pub_date": "21-03-2025",
+  "title": "PLC Software Engineer til BILA Automation",
+  "company": "BILA A/S",
+  "location": "Nykøbing Mors",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144206&DepartmentId=18958&MediaId=4614"
+ },
+ {
+  "category": "it",
   "pub_date": "20-03-2025",
   "title": "Senior Backend Developer",
   "company": "Subaio ApS",
@@ -128,12 +144,12 @@
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143679&DepartmentId=18974&MediaId=5"
  },
  {
-  "category": "it",
-  "pub_date": "17-03-2025",
-  "title": "Test Manager",
-  "company": "CGI Danmark A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J1224-1799&BRID=1184276&lang=10"
+  "category": "industri",
+  "pub_date": "21-03-2025",
+  "title": "Lagermedarbejdere til sommersæsonen",
+  "company": "Color Line, Danmark A/S",
+  "location": "Hirtshals",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1327&ProjectId=144284&DepartmentId=18960&MediaId=5"
  },
  {
   "category": "industri",
@@ -222,22 +238,6 @@
   "company": "Fødevarestyrelsen",
   "location": "Herning eller Aalborg",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=187443&DepartmentId=8020&MediaId=5"
- },
- {
-  "category": "industri",
-  "pub_date": "19-03-2025",
-  "title": "Mekaniker – lær af gode kolleger og få ægte fleksibilitet",
-  "company": "TIP Group",
-  "location": "Tilst, Padborg, Taastrup, Taulov, Hirtshals, Vejle, Esbjerg eller Kolding",
-  "job_URL": "https://www.tip-group.com/en/all-careers/mekaniker-laer-af-gode-kolleger-og-fa-aegte-fleksibilitet-R0011356"
- },
- {
-  "category": "industri",
-  "pub_date": "19-03-2025",
-  "title": "Sælger med el-teknisk baggrund",
-  "company": "Lemvigh-Müller A/S",
-  "location": "Aalborg, Aarhus, Herlev, Kolding eller Slagelse",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1549019/saelger-med-el-teknisk-baggrund"
  },
  {
   "category": "handel",
@@ -769,6 +769,14 @@
  },
  {
   "category": "ingenioer",
+  "pub_date": "21-03-2025",
+  "title": "PLC Software Engineer til BILA Automation",
+  "company": "BILA A/S",
+  "location": "Nykøbing Mors",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144206&DepartmentId=18958&MediaId=4614"
+ },
+ {
+  "category": "ingenioer",
   "pub_date": "20-03-2025",
   "title": "Projektleder til byggeprojekter",
   "company": "Foodjob Nordic",
@@ -896,12 +904,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1549120/qhse-and-sustainability-manager"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "19-03-2025",
-  "title": "Production Planner - Bliv nøglespiller i spændende vækstvirksomhed!",
-  "company": "Beritech A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143688&DepartmentId=18956&MediaId=4620"
+  "category": "salg",
+  "pub_date": "21-03-2025",
+  "title": "Sales- and Shippingtrainees",
+  "company": "ESS-FOOD A/S",
+  "location": "Aalborg or København V",
+  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2281/sales-and-shipping-trainee"
  },
  {
   "category": "salg",
@@ -976,12 +984,20 @@
   "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/HRtalent/Jobs/TemplatePreview/16269"
  },
  {
-  "category": "salg",
-  "pub_date": "18-03-2025",
-  "title": "Senior Technical Sales Support Engineer",
-  "company": "DESMI Pumping Technology A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://job.desmi.com/REK/Joblist/Job.aspx?jobOfferInstanceId=4505&joblistId=1&lang=en"
+  "category": "kontor",
+  "pub_date": "21-03-2025",
+  "title": "Privatkunderådgiver til Hadsund",
+  "company": "Sparekassen Danmark",
+  "location": "Hadsund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1541906/privatkunderaadgiver-til-hadsund"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "21-03-2025",
+  "title": "Sales- and Shippingtrainees",
+  "company": "ESS-FOOD A/S",
+  "location": "Aalborg or København V",
+  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2281/sales-and-shipping-trainee"
  },
  {
   "category": "kontor",
@@ -1112,12 +1128,20 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1540823/erfaren-regnskabskonsulent"
  },
  {
-  "category": "kontor",
-  "pub_date": "18-03-2025",
-  "title": "Erfaren revisor til et af Danmarks førende revisions- og rådgivningshuse",
-  "company": "Grant Thornton",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1540683/erfaren-revisor-til-et-af-danmarks-foerende-revisions-og-raadgivningshuse"
+  "category": "oevrige",
+  "pub_date": "21-03-2025",
+  "title": "Lagermedarbejdere til sommersæsonen",
+  "company": "Color Line, Danmark A/S",
+  "location": "Hirtshals",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1327&ProjectId=144284&DepartmentId=18960&MediaId=5"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "21-03-2025",
+  "title": "Sales- and Shippingtrainees",
+  "company": "ESS-FOOD A/S",
+  "location": "Aalborg or København V",
+  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2281/sales-and-shipping-trainee"
  },
  {
   "category": "oevrige",
@@ -1190,13 +1214,5 @@
   "company": "Nordværk I/S",
   "location": "Aalborg Øst",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143731&DepartmentId=18973&MediaId=4629"
- },
- {
-  "category": "oevrige",
-  "pub_date": "17-03-2025",
-  "title": "MagasinElev 2025",
-  "company": "Magasin",
-  "location": "Århus C, Kongens Lyngby, Odense, København, Rødovre, Aalborg",
-  "job_URL": "https://karriere.magasin.dk/jobs/3093569-magasinelev-2025?promotion=1386539-jobindex"
  }
 ]
