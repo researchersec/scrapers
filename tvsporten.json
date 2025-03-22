@@ -1,77 +1,5 @@
 [
  {
-  "match": "Milano - San Remo",
-  "category": "Vuelta a España\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:00",
-  "date": "2025-03-22",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   }
-  ]
- },
- {
-  "match": "Atletik VM-Indendørs",
-  "category": "VM Indendørs\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:30",
-  "date": "2025-03-22",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   }
-  ]
- },
- {
-  "match": "Swiss Open",
-  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "12:00",
-  "date": "2025-03-22",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "German Darts Open",
-  "category": "PDC European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "13:00",
-  "date": "2025-03-22",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Notts County - Crewe Alexandra",
-  "category": "League Two\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.79  |  3.70  |  4.10",
-  "time": "13:30",
-  "date": "2025-03-22",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Bayern München - Hoffenheim",
   "category": "DFB Pokal Women\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:00",
@@ -125,7 +53,7 @@
  },
  {
   "match": "IFK Norrköping - Vittsjö",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.60  |  3.60  |  5.00",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.44  |  4.00  |  6.00",
   "time": "15:00",
   "date": "2025-03-22",
   "channels": [
@@ -137,7 +65,7 @@
  },
  {
   "match": "AIK - Linköping FC",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  3.40  |  2.32",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.50  |  3.55  |  2.30",
   "time": "15:00",
   "date": "2025-03-22",
   "channels": [
@@ -149,7 +77,7 @@
  },
  {
   "match": "Brommapojkarna - Alingsås",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.36  |  4.50  |  6.75",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  4.75  |  7.50",
   "time": "15:00",
   "date": "2025-03-22",
   "channels": [
@@ -265,7 +193,7 @@
  },
  {
   "match": "Moldova - Norge",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 12.50  |  5.40  |  1.25",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 14.00  |  5.60  |  1.23",
   "time": "18:00",
   "date": "2025-03-22",
   "channels": [
@@ -293,7 +221,7 @@
  },
  {
   "match": "New York Rangers - Vancouver Canucks",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.08  |  4.35  |  3.05",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.10  |  4.25  |  3.00",
   "time": "18:00",
   "date": "2025-03-22",
   "channels": [
@@ -305,7 +233,7 @@
  },
  {
   "match": "Luxembourg - Sweden",
-  "category": "Venskabskamp kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 7.50  |  5.50  |  1.34",
+  "category": "Venskabskamp kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 7.50  |  5.50  |  1.33",
   "time": "18:00",
   "date": "2025-03-22",
   "channels": [
@@ -425,7 +353,7 @@
  },
  {
   "match": "Dallas Stars - Philadelphia Flyers",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.64  |  4.75  |  4.50",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.61  |  4.90  |  4.70",
   "time": "19:00",
   "date": "2025-03-22",
   "channels": [
@@ -437,7 +365,7 @@
  },
  {
   "match": "Minnesota Wild - Buffalo Sabres",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.15  |  4.20  |  2.95",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.14  |  4.25  |  2.95",
   "time": "19:00",
   "date": "2025-03-22",
   "channels": [
@@ -489,7 +417,7 @@
  },
  {
   "match": "St. Louis Blues - Chicago Blackhawks",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.61  |  4.80  |  4.75",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.56  |  5.10  |  4.90",
   "time": "20:00",
   "date": "2025-03-22",
   "channels": [
@@ -553,7 +481,7 @@
  },
  {
   "match": "Wales - Kazakhstan",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.21  |  6.00  |  15.00",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.20  |  5.80  |  16.00",
   "time": "20:45",
   "date": "2025-03-22",
   "channels": [
