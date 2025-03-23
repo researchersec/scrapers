@@ -1,9 +1,73 @@
 [
  {
-  "match": "Jordan Vucenic - Chris Duncan",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "21:30",
-  "date": "2025-03-22",
+  "match": "Singapore Classic",
+  "category": "DP World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "06:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Kinas Grand Prix",
+  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "08:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV3 +",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Swiss Open",
+  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Atletik VM-Indendørs",
+  "category": "VM Indendørs\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "12:30",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "West Ham United - Tottenham Hotspur",
+  "category": "WSL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.40  |  4.00  |  2.45",
+  "time": "13:00",
+  "date": "2025-03-23",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -12,10 +76,90 @@
   ]
  },
  {
-  "match": "Indiana Pacers - Brooklyn Nets",
-  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "22:00",
-  "date": "2025-03-22",
+  "match": "German Darts Open",
+  "category": "PDC European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Rosengård - Piteå IF DFF",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.22  |  6.25  |  7.50",
+  "time": "14:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Ikast Handbold W - Dunarea Braila",
+  "category": "Women's EHF European League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Ludwigsburg - Krim",
+  "category": "EHF Champions League Kvinder\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hammarby IF - Växjö DFF",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.10  |  8.50  |  12.50",
+  "time": "15:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Djurgården - Kristianstad",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.85  |  1.72",
+  "time": "15:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Georgia - Armenia",
+  "category": "UEFA Nations League A \n\t\t\t\t\t\t\t\t\t(Playoff B/C)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.48  |  4.40  |  6.80",
+  "time": "15:00",
+  "date": "2025-03-23",
   "channels": [
    {
     "name": "TV2 Play",
@@ -24,10 +168,22 @@
   ]
  },
  {
-  "match": "Washington Capitals - Florida Panthers",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  4.25  |  2.40",
-  "time": "22:00",
-  "date": "2025-03-22",
+  "match": "Georgien – Armenien",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Häcken - Malmö FF",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.18  |  6.40  |  9.00",
+  "time": "15:15",
+  "date": "2025-03-23",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -36,10 +192,318 @@
   ]
  },
  {
-  "match": "Utah Hockey Club - Tampa Bay Lightning",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.63  |  4.25  |  2.35",
-  "time": "22:00",
-  "date": "2025-03-22",
+  "match": "Manchester City - Chelsea",
+  "category": "WSL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.30  |  2.25",
+  "time": "15:30",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hamburger SV - Werder Bremen",
+  "category": "DFB Pokal Women\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:30",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Dijon W - Bensheim-Auerbach",
+  "category": "Women's EHF European League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Storhamar - Odense Håndbold",
+  "category": "EHF Champions League Kvinder\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "DR 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "Miami Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "The Thermal Club INDYCAR Grand Prix",
+  "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Miami Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Miami P1",
+  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Miami Open",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Aston Villa - Manchester United",
+  "category": "WSL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.80  |  4.10  |  1.60",
+  "time": "17:30",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Island – Kosovo",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Ungarn – Tyrkiet",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Serbien – Østrig",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hungary - Türkiye",
+  "category": "UEFA Nations League A \n\t\t\t\t\t\t\t\t\t(Playoff A/B)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  3.40  |  2.70",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Serbia - Austria",
+  "category": "UEFA Nations League A \n\t\t\t\t\t\t\t\t\t(Playoff A/B)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.85  |  3.20  |  2.55",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Scotland - Greece",
+  "category": "UEFA Nations League A \n\t\t\t\t\t\t\t\t\t(Playoff A/B)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.48  |  3.25  |  2.95",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Iceland - Kosovo",
+  "category": "UEFA Nations League A \n\t\t\t\t\t\t\t\t\t(Playoff B/C)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.35  |  3.42  |  3.00",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Slovenia - Slovakia",
+  "category": "UEFA Nations League A \n\t\t\t\t\t\t\t\t\t(Playoff B/C)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.50  |  2.90  |  3.30",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Bera Bera W - Blomberg-Lippe",
+  "category": "Women's EHF European League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Valspar Championship",
+  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Skotland – Grækenland",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "German Darts Open",
+  "category": "PDC European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "NASCAR Cup Series Race at Homestead-Miami",
+  "category": "NASCAR Cup Series\n\t\t\t\t\t\t\t\t\t(Homestead, Florida- 267 laps / 400.5 miles)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Chicago Blackhawks - Philadelphia Flyers",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.88  |  4.30  |  2.17",
+  "time": "20:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Winnipeg Jets - Buffalo Sabres",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.58  |  4.90  |  4.80",
+  "time": "20:00",
+  "date": "2025-03-23",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -50,9 +514,13 @@
  {
   "match": "The Thermal Club INDYCAR Grand Prix",
   "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "22:00",
-  "date": "2025-03-22",
+  "time": "20:00",
+  "date": "2025-03-23",
   "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
@@ -60,34 +528,202 @@
   ]
  },
  {
-  "match": "Molly McCann - Alexia Thainara",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "22:00",
-  "date": "2025-03-22",
+  "match": "Holstebro - Kolding",
+  "category": "Herreligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:00",
+  "date": "2025-03-23",
   "channels": [
    {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
    }
   ]
  },
  {
-  "match": "Gunnar Nelson - Kevin Holland",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "22:30",
-  "date": "2025-03-22",
+  "match": "Utah Jazz - Cleveland Cavaliers",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:30",
+  "date": "2025-03-23",
   "channels": [
    {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
    }
   ]
  },
  {
-  "match": "Jan Blachowicz - Carlos Ulberg",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "match": "Frankrig – Kroatien",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Spanien – Holland",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Slovenien – Slovakiet",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Tyskland – Italien",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Irland – Bulgarien",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Portugal – Danmark",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Belgien – Ukraine",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Germany - Italy",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.73  |  3.90  |  4.60",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Belgium - Ukraine",
+  "category": "UEFA Nations League A \n\t\t\t\t\t\t\t\t\t(Playoff A/B)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.46  |  4.60  |  6.75",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Spain - Netherlands",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.68  |  3.80  |  5.20",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Portugal - Denmark",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.56  |  4.10  |  6.10",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "France - Croatia",
+  "category": "UEFA Nations League A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  4.75  |  8.50",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Republic of Ireland - Bulgaria",
+  "category": "UEFA Nations League A \n\t\t\t\t\t\t\t\t\t(Playoff B/C)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.57  |  3.95  |  6.10",
+  "time": "20:45",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Canada - United States",
+  "category": "CONCACAF Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "23:00",
-  "date": "2025-03-22",
+  "date": "2025-03-23",
   "channels": [
    {
     "name": "Viaplay.dk",
@@ -96,10 +732,42 @@
   ]
  },
  {
-  "match": "Leon Edwards - Sean Brady",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "23:30",
-  "date": "2025-03-22",
+  "match": "Atlanta Hawks - Philadelphia 76ers",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "23:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Florida Panthers - Pittsburgh Penguins",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.71  |  4.60  |  4.20",
+  "time": "23:00",
+  "date": "2025-03-23",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "St. Louis Blues - Nashville Predators",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.90  |  4.35  |  3.50",
+  "time": "23:00",
+  "date": "2025-03-23",
   "channels": [
    {
     "name": "Viaplay.dk",
