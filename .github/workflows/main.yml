@@ -6,7 +6,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */4 * * *'  # Run every 4 hours
+  - cron: '0 * * * *' 
+
 jobs:
   scrape_and_push:
     runs-on: ubuntu-latest
