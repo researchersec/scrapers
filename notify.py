@@ -2,6 +2,8 @@ import os
 import json
 import requests
 import shutil
+import yfinance as yf
+from datetime import datetime
 
 # Load Discord webhook URL from environment variable
 DISCORD_WEBHOOK_URL = os.getenv("WHURL")
@@ -11,6 +13,7 @@ if not DISCORD_WEBHOOK_URL:
 # File paths
 CURRENT_FILE = "jobs.json"
 BACKUP_FILE = "jobs_backup.json"
+NEWS_SENT_FILE = "news_sent.json"
 
 def load_json(file_path):
     """Load JSON data from a file."""
@@ -42,20 +45,54 @@ def send_discord_notification(job):
 
 def notify_new_jobs():
     """Check for new jobs and notify Discord."""
-    # Load current and backup data
     old_data = load_json(BACKUP_FILE)
     new_data = load_json(CURRENT_FILE)
-
-    # Identify new entries
     new_entries = get_new_entries(old_data, new_data)
 
-    # Send notifications for new entries
     for job in new_entries:
         send_discord_notification(job)
 
-    # Update the backup file
     save_backup(CURRENT_FILE, BACKUP_FILE)
 
-# Run the function
+def send_intc_news():
+    """Fetch and send new INTC news articles to Discord."""
+    ticker = yf.Ticker("INTC")
+    news = ticker.news
+
+    if not news:
+        print("No news found for INTC.")
+        return
+
+    try:
+        with open(NEWS_SENT_FILE, "r", encoding="utf-8") as f:
+            sent_ids = set(json.load(f))
+    except (FileNotFoundError, json.JSONDecodeError):
+        sent_ids = set()
+
+    new_articles = [article for article in news if article['uuid'] not in sent_ids]
+
+    for article in new_articles:
+        title = article.get("title", "No Title")
+        publisher = article.get("publisher", "Unknown Publisher")
+        link = article.get("link", "#")
+        summary = article.get("summary", "")
+
+        message = {
+            "content": f"📰 **INTC News Alert**\n**Title:** {title}\n**Source:** {publisher}\n{summary}\n[Read More]({link})"
+        }
+
+        response = requests.post(DISCORD_WEBHOOK_URL, json=message)
+        if response.status_code == 204:
+            print(f"Sent news: {title}")
+        else:
+            print(f"Failed to send news: {response.status_code}")
+
+    # Update the record of sent news
+    sent_ids.update(article["uuid"] for article in new_articles)
+    with open(NEWS_SENT_FILE, "w", encoding="utf-8") as f:
+        json.dump(list(sent_ids), f, indent=2)
+
+# Run the functions
 if __name__ == "__main__":
     notify_new_jobs()
+    send_intc_news()
