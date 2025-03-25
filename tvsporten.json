@@ -1,25 +1,5 @@
 [
  {
-  "match": "Volta a Catalunya",
-  "category": "Vuelta a España\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:15",
-  "date": "2025-03-25",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Miami Open",
   "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:00",
@@ -61,7 +41,7 @@
  },
  {
   "match": "Moldova - Estland",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.95  |  3.10  |  4.30",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.95  |  3.15  |  4.50",
   "time": "18:00",
   "date": "2025-03-25",
   "channels": [
@@ -169,7 +149,7 @@
  },
  {
   "match": "Israel - Norge",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.75  |  4.10  |  1.56",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.75  |  4.10  |  1.55",
   "time": "20:45",
   "date": "2025-03-25",
   "channels": [
@@ -185,7 +165,7 @@
  },
  {
   "match": "Liechtenstein - Kasakhstan",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 10.00  |  4.30  |  1.35",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 10.00  |  4.40  |  1.38",
   "time": "20:45",
   "date": "2025-03-25",
   "channels": [
@@ -197,7 +177,7 @@
  },
  {
   "match": "FYR Makedonien - Wales",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.25  |  3.10  |  2.30",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.20  |  3.10  |  2.30",
   "time": "20:45",
   "date": "2025-03-25",
   "channels": [
@@ -209,7 +189,7 @@
  },
  {
   "match": "Gibraltar - Czechia",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 51.00  |  17.00  |  1.02",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 36.00  |  16.00  |  1.02",
   "time": "20:45",
   "date": "2025-03-25",
   "channels": [
@@ -221,7 +201,7 @@
  },
  {
   "match": "Montenegro - Færøerne",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.45  |  4.00  |  7.50",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.50  |  4.00  |  7.00",
   "time": "20:45",
   "date": "2025-03-25",
   "channels": [
