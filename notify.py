@@ -69,13 +69,14 @@ def send_intc_news():
     except (FileNotFoundError, json.JSONDecodeError):
         sent_ids = set()
 
-    new_articles = [article for article in news if article['uuid'] not in sent_ids]
+    new_articles = [article for article in news if article.get("id") not in sent_ids]
 
     for article in new_articles:
-        title = article.get("title", "No Title")
-        publisher = article.get("publisher", "Unknown Publisher")
-        link = article.get("link", "#")
-        summary = article.get("summary", "")
+        content = article.get("content", {})
+        title = content.get("title", "No Title")
+        publisher = content.get("provider", {}).get("displayName", "Unknown Publisher")
+        link = content.get("clickThroughUrl", {}).get("url", "#")
+        summary = content.get("summary", "")
 
         message = {
             "content": f"📰 **INTC News Alert**\n**Title:** {title}\n**Source:** {publisher}\n{summary}\n[Read More]({link})"
@@ -88,7 +89,7 @@ def send_intc_news():
             print(f"Failed to send news: {response.status_code}")
 
     # Update the record of sent news
-    sent_ids.update(article["uuid"] for article in new_articles)
+    sent_ids.update(article["id"] for article in new_articles)
     with open(NEWS_SENT_FILE, "w", encoding="utf-8") as f:
         json.dump(list(sent_ids), f, indent=2)
 
