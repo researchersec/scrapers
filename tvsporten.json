@@ -1,17 +1,5 @@
 [
  {
-  "match": "Miami Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-03-25",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Moldova - Estland",
   "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.95  |  3.15  |  4.50",
   "time": "18:00",
@@ -121,7 +109,7 @@
  },
  {
   "match": "Israel - Norge",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.75  |  4.10  |  1.55",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.80  |  4.10  |  1.54",
   "time": "20:45",
   "date": "2025-03-25",
   "channels": [
