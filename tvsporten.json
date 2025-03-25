@@ -117,7 +117,7 @@
  },
  {
   "match": "Sverige - Nordirland",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.41  |  4.70  |  7.00",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  4.80  |  7.00",
   "time": "19:00",
   "date": "2025-03-25",
   "channels": [
@@ -300,18 +300,6 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Los Angeles Kings - New York Rangers",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  4.25  |  3.25",
-  "time": "03:30",
-  "date": "2025-03-25",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    }
   ]
  }
