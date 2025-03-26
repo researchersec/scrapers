@@ -196,7 +196,7 @@
   "category": "No category"
  },
  {
-  "title": "- Jeg frygter for mit liv",
+  "title": "- Vi står her med en mand, der bløder kraftigt fra hovedet, lød beskeden til alarmcentralen",
   "description": "<p>Onsdag fortsætter retssagen mod otte mænd, der er tiltalt for at have begået et voldeligt overfald mod en 32-årig mand 6. februar sidste år. </p>",
   "link": "https://www.tv2nord.dk/aalborg/retssag-mod-otte-maend-om-voldeligt-bagholdsangreb",
   "published": "Wed, 26 Mar 25 08:59:00 +0100",
@@ -245,7 +245,7 @@
  },
  {
   "title": "Hestetransport væltet på E45",
-  "description": "<p>Du skal være opmærksom, hvis du kører i nordgående retning på E45 mellem Støvring S og Støvring N.</p><p>Her fremgår det nemlig af <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\" target=\"_blank\">Vejdirektoratets Trafikkort,</a> at der er sket et uheld.</p> <p>TV2 Nords mand på stedet melder om, at der er tale om en væltet hestetransport fra Sverige, som havde kurs hjem mod Sverige. Der er umiddelbart ingen meldinger om tilskadekomne mennesker eller heste.</p><p>Alle spor er dog farbare, og der er både politi og redning på stedet.</p>",
+  "description": "<p>Du skal være opmærksom, hvis du kører i nordgående retning på E45 mellem Støvring S og Støvring N.</p><p>Her fremgår det nemlig af <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\" target=\"_blank\">Vejdirektoratets Trafikkort,</a> at der er sket et uheld.</p> <p>TV2 Nords mand på stedet melder om, at der er tale om en væltet hestetransport fra Sverige, som havde kurs mod Hirtshals. Der er umiddelbart ingen meldinger om tilskadekomne mennesker eller heste.</p><p>Alle spor er dog farbare, og der er både politi og redning på stedet.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/uheld-pa-e45",
   "published": "Wed, 26 Mar 25 06:52:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/uheld-pa-e45",
@@ -260,20 +260,20 @@
   "category": "No category"
  },
  {
-  "title": "Landets billigste postnummer er nordjysk",
-  "description": "Her får du 30 gange mere bolig end i København K",
-  "link": "https://nordjyske.dk/nyheder/vesthimmerland/landets-billigste-postnummer-er-nordjysk/5465495?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 26 Mar 2025 05:02:53 Z",
-  "guid": "8b7213fb-152e-4dcf-ab60-e4844fc90c92",
-  "category": "byudvikling"
- },
- {
   "title": "Kollegaerne spåede ham ikke en chance. Nu har han åbnet sin 10. butik",
   "description": "Joakim Skak og medejerne blev ikke spået mange chancer, da de fortalte, at de indenfor få år ville være en landsdækkende kæde. Kritikerne fik ret. Men forretningen har fundet vejen til målet",
   "link": "https://nordjyske.dk/nyheder/erhverv/kollegaerne-spaaede-ham-ikke-en-chance-nu-har-han-aabnet-sin-10-butik/5466988?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 26 Mar 2025 05:03:00 Z",
   "guid": "e920794e-3b41-43df-869c-e8b63bc7a8cb",
   "category": "Erhverv"
+ },
+ {
+  "title": "Landets billigste postnummer er nordjysk",
+  "description": "Her får du 30 gange mere bolig end i København K",
+  "link": "https://nordjyske.dk/nyheder/vesthimmerland/landets-billigste-postnummer-er-nordjysk/5465495?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 26 Mar 2025 05:02:53 Z",
+  "guid": "8b7213fb-152e-4dcf-ab60-e4844fc90c92",
+  "category": "byudvikling"
  },
  {
   "title": "Brand hos Helgstrand i nat: - Vi var lynhurtigt i staldene",
@@ -284,20 +284,12 @@
   "category": "Ildebrand"
  },
  {
-  "title": "Live: Uheld på motorvejen",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/mandagen-vil-foeles-mere-foraarsagtig-end-weekenden-gjorde/5473744?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 24 Mar 2025 06:03:14 Z",
-  "guid": "180c956e-fb1e-4253-bb4e-3909a3e32612",
-  "category": "Live fra Nordjylland"
- },
- {
-  "title": "Direktør: - Vi har klaget til rigsadvokaten",
-  "description": "Efter flere års efterforskning har National Enhed For Særlig Kriminalitet indstillet efterforskningen i sagen om udbygningsaftaler",
-  "link": "https://nordjyske.dk/nyheder/byudvikling/direktoer-vil-have-politiet-til-at-se-paa-sagen-igen/5474472?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 25 Mar 2025 19:13:22 Z",
-  "guid": "c876183f-5dc2-48f9-9df2-2db98d33fdd1",
-  "category": "byudvikling"
+  "title": "Hestetransporter væltede på motorvejen",
+  "description": "Hestene fik hurtigt noget beroligende og er nu flyttet til en stald i nærheden.",
+  "link": "https://nordjyske.dk/nyheder/rebild/hestetransporter-vaeltede-paa-motorvejen/5477608?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 26 Mar 2025 09:00:12 Z",
+  "guid": "d639fd32-4e45-4944-9452-00eee85934b8",
+  "category": "Færdselsuheld"
  },
  {
   "title": "Ejendomsmægler træder tilbage efter afsløringer",
@@ -316,12 +308,28 @@
   "category": "Butikker"
  },
  {
+  "title": "Direktør: - Vi har klaget til rigsadvokaten",
+  "description": "Efter flere års efterforskning har National Enhed For Særlig Kriminalitet indstillet efterforskningen i sagen om udbygningsaftaler",
+  "link": "https://nordjyske.dk/nyheder/byudvikling/direktoer-vil-have-politiet-til-at-se-paa-sagen-igen/5474472?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 25 Mar 2025 19:13:22 Z",
+  "guid": "c876183f-5dc2-48f9-9df2-2db98d33fdd1",
+  "category": "byudvikling"
+ },
+ {
   "title": "Tidligere direktør tilstår dokumentfalsk - og kommer med en forklaring på hvorfor",
   "description": "Den tidligere Aalborg Pirates-direktør Lars Laursen har været en tur i retten, hvor han har givet sin egen forklaring på, hvorfor det gik så galt, som det gjorde",
   "link": "https://nordjyske.dk/nyheder/sport/skandaliseret-direktoer-tilstaar-dokumentfalsk-derfor-gjorde-han-det/5476389?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Tue, 25 Mar 2025 13:07:40 Z",
   "guid": "3d31adb7-32e9-4298-b63a-25993eceee70",
   "category": "Kriminalitet"
+ },
+ {
+  "title": "Live: Uheld på motorvejen",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/mandagen-vil-foeles-mere-foraarsagtig-end-weekenden-gjorde/5473744?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 24 Mar 2025 06:03:14 Z",
+  "guid": "180c956e-fb1e-4253-bb4e-3909a3e32612",
+  "category": "Live fra Nordjylland"
  },
  {
   "title": "Arbejdstilsynet fandt et lille hul i gulvet. Så lukkede byggeplads",
@@ -340,20 +348,20 @@
   "category": "skole"
  },
  {
-  "title": "De største meldte sig som købere. De skulle bare have en demonstration - så skete det, der ikke måtte ske",
-  "description": "I videoen kan du se kæmpedronen styrte til jorden for øjnene af de potentielle købere",
-  "link": "https://nordjyske.dk/nyheder/erhverv/siemens-vestas-og-oersted-var-paa-banen-som-interesserede-koebere-saa-styrtede-kaempedronen/5468565?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 25 Mar 2025 05:03:37 Z",
-  "guid": "0910a616-c839-4a72-8f5b-74e22a0c3806",
-  "category": "iværksætteri"
- },
- {
   "title": "Én oplevelse med døden sidder stadig i Trine efter 12 år",
   "description": "12 år efter oplevelsen står den stadig i klar erindring for Trine Hansen. Nu opfordrer hun andre til at tage stilling til døden",
   "link": "https://nordjyske.dk/nyheder/vores-liv/trine-hjaelper-paaroerende-hver-dag-men-n-oplevelse-fik-hende-selv-til-at-tage-stilling/5470079?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 24 Mar 2025 19:16:07 Z",
   "guid": "26625522-c043-411e-9c7e-a80fc23e2eb7",
   "category": "samfund"
+ },
+ {
+  "title": "De største meldte sig som købere. De skulle bare have en demonstration - så skete det, der ikke måtte ske",
+  "description": "I videoen kan du se kæmpedronen styrte til jorden for øjnene af de potentielle købere",
+  "link": "https://nordjyske.dk/nyheder/erhverv/siemens-vestas-og-oersted-var-paa-banen-som-interesserede-koebere-saa-styrtede-kaempedronen/5468565?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 25 Mar 2025 05:03:37 Z",
+  "guid": "0910a616-c839-4a72-8f5b-74e22a0c3806",
+  "category": "iværksætteri"
  },
  {
   "title": "Kloaksag skal frem i lyset: Rådmand vil have åbenhed",
@@ -372,20 +380,20 @@
   "category": "Retssager"
  },
  {
-  "title": "Kommentar: Særligt på ét punkt er sportsdirektørs afsked en katastrofe",
-  "description": "Det er ikke nogen overraskelse, at det ender i en skilsmisse",
-  "link": "https://nordjyske.dk/nyheder/sport/kommentar-saerligt-paa-t-punkt-er-sportsdirektoers-afsked-en-katastrofe/5475492?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 25 Mar 2025 08:58:12 Z",
-  "guid": "562344c6-3fb7-4aaa-ae82-bb2badfc7108",
-  "category": "Karriere"
- },
- {
   "title": "Camilla måtte trække sin søn ind på skolen hver morgen - men det kom med en høj pris",
   "description": "På trods af diagnosen infantil autisme og tydelige tegn på mistrivsel har der ikke været meget hjælp at hente for Camillas søn, Villum",
   "link": "https://nordjyske.dk/nyheder/vores-liv/i-skolen-gik-det-saa-godt-imens-broed-camillas-soen-sammen-derhjemme/5454798?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sun, 23 Mar 2025 10:02:45 Z",
   "guid": "fb7594ac-cf79-48db-9912-cc534ca12804",
   "category": "Familieliv"
+ },
+ {
+  "title": "Kommentar: Særligt på ét punkt er sportsdirektørs afsked en katastrofe",
+  "description": "Det er ikke nogen overraskelse, at det ender i en skilsmisse",
+  "link": "https://nordjyske.dk/nyheder/sport/kommentar-saerligt-paa-t-punkt-er-sportsdirektoers-afsked-en-katastrofe/5475492?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 25 Mar 2025 08:58:12 Z",
+  "guid": "562344c6-3fb7-4aaa-ae82-bb2badfc7108",
+  "category": "Karriere"
  },
  {
   "title": "Landinspektør: Forsyningen er blevet gjort til skurken i kloaksagen, men det er ikke hele sandheden",
@@ -410,13 +418,5 @@
   "published": "Sun, 23 Mar 2025 15:18:37 Z",
   "guid": "67aad392-cbbb-43cf-8460-29ac6e66f81e",
   "category": "Parkeringsbøder"
- },
- {
-  "title": "Byggeplads blev lukket efter asbestfund. Nu er der dårligt nyt",
-  "description": "En del af byggepladsen er igen lukket efter nyt asbestfund",
-  "link": "https://nordjyske.dk/nyheder/aalborg/haandvaerkere-sendt-hjem-efter-faa-dage-det-er-amatoeragtigt-og-det-er-katastrofalt-siger-rasende-formand/5476567?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 25 Mar 2025 12:48:36 Z",
-  "guid": "18873aeb-504d-4a61-ae4b-29ec1fa6be95",
-  "category": "Arbejdsforhold"
  }
 ]
