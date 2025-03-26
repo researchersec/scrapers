@@ -1,14 +1,6 @@
 [
  {
   "category": "it",
-  "pub_date": "26-03-2025",
-  "title": "IT-systemspecialist - Applikationsdrift",
-  "company": "Kompetent",
-  "location": "Aalborg og mulighed for hjemmearbejde",
-  "job_URL": "https://karriere.kompetent.as/jobs/5699518-it-systemspecialist-applikationsdrift"
- },
- {
-  "category": "it",
   "pub_date": "25-03-2025",
   "title": "Digital servicetekniker med passion for kundekontakt og tech-løsninger (Tandlægebranchen)",
   "company": "Plandent A/S",
@@ -138,6 +130,14 @@
  {
   "category": "industri",
   "pub_date": "26-03-2025",
+  "title": "Lastbilsmekaniker",
+  "company": "Im. Stiholt A/S",
+  "location": "Aalborg Ø",
+  "job_URL": "https://imstiholtas.hr-on.com/show-job/249238?linkref=286866&locale=da_DK"
+ },
+ {
+  "category": "industri",
+  "pub_date": "26-03-2025",
   "title": "Erfaren produktionsleder som evner at balancere drift af produktion og trivsel for dine medarbejdere",
   "company": "Outline Vinduer A/S",
   "location": "Farsø",
@@ -214,14 +214,6 @@
   "company": "Tetra Pak Inventing A/S",
   "location": "Hjørring",
   "job_URL": "https://jobs.tetrapak.com/job-invite/92981/"
- },
- {
-  "category": "industri",
-  "pub_date": "24-03-2025",
-  "title": "Delikatessemedarbejder, Brugsen Kongerslev",
-  "company": "Brugsen",
-  "location": "Kongerslev",
-  "job_URL": "https://jobs.coop.dk/job/Delikatessemedarbejder%2C-Brugsen-Kongerslev/154889-da_DK"
  },
  {
   "category": "handel",
@@ -328,20 +320,12 @@
   "job_URL": "https://jobs.coop.dk/job/Mestersvend-slagter-Dagli-Brugsen-hou%28BRF%29/154846-da_DK"
  },
  {
-  "category": "handel",
-  "pub_date": "20-03-2025",
-  "title": "Peopleorienteret Butikschef til Telenor i Hjørring",
+  "category": "ledelse",
+  "pub_date": "26-03-2025",
+  "title": "Head of Customer Service",
   "company": "Telenor",
-  "location": "Hjørring",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145888&DepartmentId=18958&MediaId=5"
- },
- {
-  "category": "handel",
-  "pub_date": "20-03-2025",
-  "title": "Facility Manager hos BILA Group",
-  "company": "BILA A/S",
-  "location": "Nykøbing M",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144288&DepartmentId=18956&MediaId=4614"
+  "location": "Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145889&DepartmentId=18957&MediaId=5"
  },
  {
   "category": "ledelse",
@@ -478,14 +462,6 @@
   "company": "Fibertex Nonwovens A/S",
   "location": "Aalborg",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1751&ProjectId=144602&DepartmentId=18961&MediaId=5614"
- },
- {
-  "category": "ledelse",
-  "pub_date": "21-03-2025",
-  "title": "Erfaren Teknisk udvikler og teamleder til PALOMAT® – sæt retning for udviklingen",
-  "company": "PALOMAT",
-  "location": "Nykøbing M",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144285&DepartmentId=18961&MediaId=4614"
  },
  {
   "category": "undervisning",
@@ -833,6 +809,14 @@
  },
  {
   "category": "salg",
+  "pub_date": "26-03-2025",
+  "title": "Head of Customer Service",
+  "company": "Telenor",
+  "location": "Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145889&DepartmentId=18957&MediaId=5"
+ },
+ {
+  "category": "salg",
   "pub_date": "25-03-2025",
   "title": "Tele Sales Agent",
   "company": "Saphe A/S",
@@ -904,22 +888,6 @@
   "job_URL": "https://www.jobindex.dk/img/pdf/teejays_artdirector.pdf"
  },
  {
-  "category": "salg",
-  "pub_date": "19-03-2025",
-  "title": "Forpagter",
-  "company": "Carlsens Hotel",
-  "location": "Læsø",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1549143/forpagter"
- },
- {
-  "category": "salg",
-  "pub_date": "19-03-2025",
-  "title": "Salgs- og projektchef",
-  "company": "Orskov Yard A/S",
-  "location": "Frederikshavn",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1549134/salgs-og-projektchef"
- },
- {
   "category": "kontor",
   "pub_date": "26-03-2025",
   "title": "Financial Controller to Group Finance",
@@ -950,6 +918,14 @@
   "company": "Thy Forsyning",
   "location": "Thisted",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1532389/loenassistent-soeges-til-deltidsstilling"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "26-03-2025",
+  "title": "Salgsbackup med gode sprogkompetencer",
+  "company": "Nordlux",
+  "location": "Aalborg",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1550928/salgsbackup-med-gode-sprogkompetencer"
  },
  {
   "category": "kontor",
@@ -1046,14 +1022,6 @@
   "company": "BILA A/S",
   "location": "Nykøbing M",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144290&DepartmentId=18957&MediaId=4614"
- },
- {
-  "category": "kontor",
-  "pub_date": "24-03-2025",
-  "title": "ESG Policy Manager",
-  "company": "Eurowind Energy A/S",
-  "location": "Hobro",
-  "job_URL": "https://eurowindenergy.com/career?hr=show-job/236590&locale=en_US#hrskyen"
  },
  {
   "category": "oevrige",
@@ -1166,13 +1134,5 @@
   "company": "ESS-FOOD A/S",
   "location": "Aalborg or København V",
   "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2281/sales-and-shipping-trainee"
- },
- {
-  "category": "oevrige",
-  "pub_date": "20-03-2025",
-  "title": "Lager- og logistikelev (mulighed for Ny mesterlære aftale)",
-  "company": "Mekoprint A/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://app.elvium.com/da/positions/29851/job_posting?referer_host=www.mekoprint.dk"
  }
 ]
