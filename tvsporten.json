@@ -1,81 +1,9 @@
 [
  {
-  "match": "Volta a Catalunya",
-  "category": "Vuelta a España\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:15",
-  "date": "2025-03-26",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Santiago P1",
-  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-03-26",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Malta – Luxembourg",
-  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-03-26",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Gibraltar – Letland",
-  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-03-26",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Miami Open",
-  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-03-26",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Din. Bucuresti - SC Magdeburg",
-  "category": "EHF Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:45",
-  "date": "2025-03-26",
+  "match": "Japans Grand Prix",
+  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "08:00",
+  "date": "2025-04-04",
   "channels": [
    {
     "name": "TV3 Sport",
@@ -88,15 +16,11 @@
   ]
  },
  {
-  "match": "Viborg HK - Team Esbjerg",
-  "category": "Kvindeligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-03-26",
+  "match": "Tiriac Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "10:00",
+  "date": "2025-04-04",
   "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
@@ -104,22 +28,22 @@
   ]
  },
  {
-  "match": "KK Crvena Zvezda - Virtus Bologna",
-  "category": "Euroleague\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-03-26",
+  "match": "Grand Prix Hassan II",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-04-04",
   "channels": [
    {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
    }
   ]
  },
  {
-  "match": "Miami Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-03-26",
+  "match": "Charleston Open",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-04-04",
   "channels": [
    {
     "name": "TV2 Sport X",
@@ -132,22 +56,470 @@
   ]
  },
  {
-  "match": "Kielce - Füchse Berlin",
-  "category": "EHF Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:45",
-  "date": "2025-03-26",
+  "match": "Eintracht Braunschweig - Paderborn",
+  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.70  |  3.55  |  1.91",
+  "time": "18:30",
+  "date": "2025-04-04",
   "channels": [
    {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Karlsruher SC - Hannover 96",
+  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.95  |  3.45  |  2.20",
+  "time": "18:30",
+  "date": "2025-04-04",
+  "channels": [
    {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "HSG Wetzlar - Stuttgart",
+  "category": "Bundesliga Håndbold\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Hillerød - Hobro IK",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.83  |  3.55  |  3.80",
+  "time": "19:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Roskilde - B 93",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.95  |  3.60  |  3.30",
+  "time": "19:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "HB Køge - Vendsyssel FF",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.88  |  3.20  |  2.32",
+  "time": "19:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Copa Colsanitas",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "U.S. Men's Clay Court Championship",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Randers FC - FC Midtjylland",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.90  |  3.50  |  2.35",
+  "time": "19:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
    },
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Al Hilal - Al Nassr",
+  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.77  |  4.20  |  3.50",
+  "time": "20:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "KK Crvena Zvezda - Anadolu Efes",
+  "category": "Euroleague\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Holstebro - Nordsjaelland",
+  "category": "Herreligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Wales – Danmark",
+  "category": "UEFA Nations League D\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:15",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "DR 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   }
+  ]
+ },
+ {
+  "match": "FC Augsburg - Bayern München",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 7.50  |  4.75  |  1.38",
+  "time": "20:30",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Nice - Nantes",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.49  |  4.35  |  6.75",
+  "time": "20:45",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Genoa - Udinese",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.50  |  2.95  |  3.10",
+  "time": "20:45",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Blackburn Rovers - Middlesbrough",
+  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  3.35  |  2.50",
+  "time": "21:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Rayo Vallecano - Espanyol",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.73  |  3.55  |  5.50",
+  "time": "21:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Charleston Open",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "21:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Texas Open",
+  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "22:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   }
+  ]
+ },
+ {
+  "match": "T-Mobile Match Play",
+  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "00:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Kingston",
+  "category": "Grand Slam Track\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "00:30",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Charlotte Hornets - Sacramento Kings",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "01:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Indiana Pacers - Utah Jazz",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "01:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Detroit Red Wings - Carolina Hurricanes",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.50  |  4.40  |  1.89",
+  "time": "01:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Washington Capitals - Chicago Blackhawks",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.42  |  5.40  |  6.50",
+  "time": "01:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Boston Celtics - Phoenix Suns",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "01:30",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Toronto Raptors - Detroit Pistons",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "01:30",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   }
+  ]
+ },
+ {
+  "match": "New York Islanders - Minnesota Wild",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.35  |  4.35  |  2.60",
+  "time": "01:30",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Chicago Bulls - Portland Trail Blazers",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "02:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Houston Rockets - Oklahoma City Thunder",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "02:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   }
+  ]
+ },
+ {
+  "match": "San Antonio Spurs - Cleveland Cavaliers",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "02:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Golden State Warriors - Denver Nuggets",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "04:00",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Japans Grand Prix",
+  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "04:30",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   }
+  ]
+ },
+ {
+  "match": "Los Angeles Lakers - New Orleans Pelicans",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "04:30",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Los Angeles Clippers - Dallas Mavericks",
+  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "04:30",
+  "date": "2025-04-04",
+  "channels": [
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
    }
   ]
  }
