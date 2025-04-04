@@ -1,21 +1,5 @@
 [
  {
-  "match": "Japans Grand Prix",
-  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "08:00",
-  "date": "2025-04-04",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
   "match": "Tiriac Open",
   "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "10:00",
@@ -105,7 +89,7 @@
  },
  {
   "match": "Roskilde - B 93",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.95  |  3.60  |  3.30",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.18  |  3.55  |  2.88",
   "time": "19:00",
   "date": "2025-04-04",
   "channels": [
@@ -153,7 +137,7 @@
  },
  {
   "match": "Randers FC - FC Midtjylland",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.90  |  3.50  |  2.35",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-04-04",
   "channels": [
@@ -277,7 +261,7 @@
  },
  {
   "match": "Rayo Vallecano - Espanyol",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.87  |  3.30  |  4.90",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.83  |  3.35  |  5.10",
   "time": "21:00",
   "date": "2025-04-04",
   "channels": [
