@@ -154,6 +154,14 @@
  {
   "category": "industri",
   "pub_date": "07-04-2025",
+  "title": "Slagtersvend",
+  "company": "Meny",
+  "location": "Aabybro",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147592&DepartmentId=19150&MediaId=4623"
+ },
+ {
+  "category": "industri",
+  "pub_date": "07-04-2025",
   "title": "Områdechef Aalborg",
   "company": "Tide Bus Danmark A/S",
   "location": "Gistrup",
@@ -254,6 +262,14 @@
   "company": "EUC Nord",
   "location": "Hjørring & Frederikshavn",
   "job_URL": "https://eucnord.career.emply.com/ad/elektrikerunderviser-med-flair-for-at-undervise-unge-mennesker-til-elafdelingen-p/fv9wr9"
+ },
+ {
+  "category": "handel",
+  "pub_date": "07-04-2025",
+  "title": "Slagtersvend",
+  "company": "Meny",
+  "location": "Aabybro",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147592&DepartmentId=19150&MediaId=4623"
  },
  {
   "category": "handel",
@@ -366,30 +382,6 @@
   "company": "harald nyborg",
   "location": "Aabybro",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1453&ProjectId=145307&DepartmentId=20087&MediaId=4616"
- },
- {
-  "category": "handel",
-  "pub_date": "02-04-2025",
-  "title": "Handelstrainee med speciale i salg",
-  "company": "Carl Ras A/S",
-  "location": "Aalborg",
-  "job_URL": "https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg"
- },
- {
-  "category": "handel",
-  "pub_date": "02-04-2025",
-  "title": "1. assistent 20 timer/ugen- Hurup Thy",
-  "company": "Netto",
-  "location": "Hurup Thy",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/47fed6ea-18c6-46a6-87f5-3a4a5b508fef"
- },
- {
-  "category": "handel",
-  "pub_date": "02-04-2025",
-  "title": "1. assistent 37 timer/ugen - Hurup Thy",
-  "company": "Netto",
-  "location": "Hurup Thy",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/06ee2c86-d795-40fb-85b9-d9655dae11fc"
  },
  {
   "category": "ledelse",
@@ -766,6 +758,14 @@
   "company": "Louis Nielsen A/S",
   "location": "Aalborg",
   "job_URL": "https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-aalborg/"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "07-04-2025",
+  "title": "Maskinkonstruktør",
+  "company": "idoc A/S",
+  "location": "Vejle, Aalborg eller Albertslund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554947/maskinkonstruktoer"
  },
  {
   "category": "ingenioer",
@@ -1214,13 +1214,5 @@
   "company": "Carl Ras A/S",
   "location": "Aalborg",
   "job_URL": "https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg"
- },
- {
-  "category": "oevrige",
-  "pub_date": "02-04-2025",
-  "title": "1. assistent 20 timer/ugen- Hurup Thy",
-  "company": "Netto",
-  "location": "Hurup Thy",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/47fed6ea-18c6-46a6-87f5-3a4a5b508fef"
  }
 ]
