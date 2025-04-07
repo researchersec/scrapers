@@ -33,19 +33,19 @@
  },
  {
   "category": "it",
-  "pub_date": "28-03-2025",
-  "title": "Business intelligence specialist",
-  "company": "Kompetent",
-  "location": "Nørresundby",
-  "job_URL": "https://karriere.kompetent.as/jobs/5745347-business-intelligence-specialist"
+  "pub_date": "07-04-2025",
+  "title": "Konsulent til monitering, datahåndtering og analyse - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Nykøbing M",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/5018"
  },
  {
   "category": "it",
-  "pub_date": "28-03-2025",
-  "title": "Product Owner - vær med til at forbinde IT og forretningen",
-  "company": "Norlys",
-  "location": "Aalborg",
-  "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Product-Owner-v%C3%A6r-med-til-at-forbinde-IT-og-forretningen-9000/1186872101/"
+  "pub_date": "07-04-2025",
+  "title": "PhD scholarship in AI and Computer Vision for Automated Fisheries Monitoring - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Hirtshals",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/5017"
  },
  {
   "category": "it",
@@ -54,6 +54,14 @@
   "company": "Jobindex",
   "location": "Aalborg",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent"
+ },
+ {
+  "category": "it",
+  "pub_date": "04-04-2025",
+  "title": "Udviklingschef/CTO til Satlab A/S  - udvikling af radiosystemer til rumindustrien",
+  "company": "Hedevang - Ledelse & Hr ApS",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1544283/udviklingschef-cto-til-satlab-a-s-udvikling-af-radiosystemer-til-rumindustrien"
  },
  {
   "category": "it",
@@ -114,14 +122,6 @@
  {
   "category": "it",
   "pub_date": "01-04-2025",
-  "title": "Backend Developer",
-  "company": "MapsPeople A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://mapspeople.career.emply.com/ad/backend-developer/ehwsgt/en"
- },
- {
-  "category": "it",
-  "pub_date": "01-04-2025",
   "title": "Senior Platform Engineer",
   "company": "Continia Software A/S",
   "location": "Copenhagen Ø or Nørresundby",
@@ -150,6 +150,78 @@
   "company": "Trackunit ApS",
   "location": "Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position",
   "job_URL": "https://careers.trackunit.com/jobs/5751306-netsuite-administrator"
+ },
+ {
+  "category": "industri",
+  "pub_date": "07-04-2025",
+  "title": "Områdechef Aalborg",
+  "company": "Tide Bus Danmark A/S",
+  "location": "Gistrup",
+  "job_URL": "https://app.jobmatchprofile.com/etfuhy?client=jobindex"
+ },
+ {
+  "category": "industri",
+  "pub_date": "07-04-2025",
+  "title": "Sommerferieafløser i produktionen",
+  "company": "Danpo A/S",
+  "location": "Aars",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554810/sommerferieafloeser-i-produktionen"
+ },
+ {
+  "category": "industri",
+  "pub_date": "07-04-2025",
+  "title": "Dygtig selvstændig elektriker til udførelse af installationer i arkitekttegnede boliger",
+  "company": "Moderne El ApS",
+  "location": "Hobro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554692/dygtig-selvstaendig-elektriker-til-udfoerelse-af-installationer-i-arkitekttegnede-boliger"
+ },
+ {
+  "category": "industri",
+  "pub_date": "07-04-2025",
+  "title": "Sælger til Davidsens Grønlandsafdeling i Aalborg",
+  "company": "Davidsen",
+  "location": "Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1786&ProjectId=144343&DepartmentId=19050&MediaId=4627"
+ },
+ {
+  "category": "industri",
+  "pub_date": "07-04-2025",
+  "title": "Konsulent til monitering, datahåndtering og analyse - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Nykøbing M",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/5018"
+ },
+ {
+  "category": "industri",
+  "pub_date": "07-04-2025",
+  "title": "PhD scholarship in AI and Computer Vision for Automated Fisheries Monitoring - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Hirtshals",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/5017"
+ },
+ {
+  "category": "industri",
+  "pub_date": "04-04-2025",
+  "title": "Køkkenmedhjælper",
+  "company": "Meny",
+  "location": "Løkken",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147588&DepartmentId=19093&MediaId=4623"
+ },
+ {
+  "category": "industri",
+  "pub_date": "04-04-2025",
+  "title": "Naturforvalter til Naturstyrelsen Thy",
+  "company": "Naturstyrelsen",
+  "location": "Thisted",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=187828&DepartmentId=6163&MediaId=3638"
+ },
+ {
+  "category": "industri",
+  "pub_date": "04-04-2025",
+  "title": "Håndværker / Formand",
+  "company": "Jysk Betonrenovering",
+  "location": "Vadum",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1553846/haandvaerker-formand"
  },
  {
   "category": "industri",
@@ -184,52 +256,28 @@
   "job_URL": "https://eucnord.career.emply.com/ad/elektrikerunderviser-med-flair-for-at-undervise-unge-mennesker-til-elafdelingen-p/fv9wr9"
  },
  {
-  "category": "industri",
-  "pub_date": "03-04-2025",
-  "title": "Area Sales Manager",
-  "company": "Sintex a/s",
-  "location": "Hobro og mulighed for hjemmearbejde",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553645/area-sales-manager"
+  "category": "handel",
+  "pub_date": "07-04-2025",
+  "title": "Afdelingsleder til Genbrugsinnovation",
+  "company": "Nordværk I/S",
+  "location": "Hjørring",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143728&DepartmentId=18974&MediaId=4629"
  },
  {
-  "category": "industri",
-  "pub_date": "02-04-2025",
-  "title": "Tekniker med byggeerfaring",
-  "company": "Teater Nordkraft",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553265/tekniker-med-byggeerfaring"
+  "category": "handel",
+  "pub_date": "04-04-2025",
+  "title": "Medarbejder til køkkenet søges til Blå Kors Rold Skov",
+  "company": "Blå Kors Danmark",
+  "location": "Arden",
+  "job_URL": "https://blaakors.career.emply.com/ad/medarbejder-til-kokkenet-soges-til-bla-kors-rold-skov/zouspz/da"
  },
  {
-  "category": "industri",
-  "pub_date": "02-04-2025",
-  "title": "Er du vores nye Lagermedarbejder?",
-  "company": "Scandinavian Medical Solutions A/S",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553137/er-du-vores-nye-lagermedarbejder"
- },
- {
-  "category": "industri",
-  "pub_date": "02-04-2025",
-  "title": "Ejendomsservicetekniker med overblik",
-  "company": "Stella5",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1552943/ejendomsservicetekniker-med-overblik"
- },
- {
-  "category": "industri",
-  "pub_date": "02-04-2025",
-  "title": "Fiskeassistent",
-  "company": "Nordic Kingfish Hatchery A/S",
-  "location": "Bedsted Thy",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1552017/fiskeassistent"
- },
- {
-  "category": "industri",
-  "pub_date": "02-04-2025",
-  "title": "Bliv en del af vores team i Aalborg City – vi søger en dygtig mekaniker!",
-  "company": "Super Dæk Service",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/reportage/2258/bliv-en-del-af-vores-team-i-aalborg-city-vi-soeger-en-dygtig-mekaniker"
+  "category": "handel",
+  "pub_date": "04-04-2025",
+  "title": "Køkkenmedhjælper",
+  "company": "Meny",
+  "location": "Løkken",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2180&ProjectId=147588&DepartmentId=19093&MediaId=4623"
  },
  {
   "category": "handel",
@@ -344,28 +392,68 @@
   "job_URL": "https://sallinggroup.com/job/ledige-stillinger/06ee2c86-d795-40fb-85b9-d9655dae11fc"
  },
  {
-  "category": "handel",
-  "pub_date": "02-04-2025",
-  "title": "Souschef - Hurup Thy",
-  "company": "Netto",
-  "location": "Hurup Thy",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/1ea756d2-e157-4a79-83cc-c518b7f5ec59"
+  "category": "ledelse",
+  "pub_date": "07-04-2025",
+  "title": "Teknisk projektleder",
+  "company": "idoc A/S",
+  "location": "Vejle, Aalborg eller Albertslund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554918/teknisk-projektleder"
  },
  {
-  "category": "handel",
-  "pub_date": "02-04-2025",
-  "title": "Butikschef i Netto - Hurup Thy",
-  "company": "Netto",
-  "location": "Hurup Thy",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/b503b680-c1b3-4c75-8170-4484b8adef6a"
+  "category": "ledelse",
+  "pub_date": "07-04-2025",
+  "title": "Områdechef Aalborg",
+  "company": "Tide Bus Danmark A/S",
+  "location": "Gistrup",
+  "job_URL": "https://app.jobmatchprofile.com/etfuhy?client=jobindex"
  },
  {
-  "category": "handel",
-  "pub_date": "02-04-2025",
-  "title": "Souschef - Aalborg",
-  "company": "Netto",
+  "category": "ledelse",
+  "pub_date": "07-04-2025",
+  "title": "Skoleleder",
+  "company": "Sct. Mariæ Skole",
   "location": "Aalborg",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/51b6afb1-9f52-4f89-8f49-2331e3c345a8"
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554801/skoleleder"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "07-04-2025",
+  "title": "Afdelingsleder til Genbrugsinnovation",
+  "company": "Nordværk I/S",
+  "location": "Hjørring",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143728&DepartmentId=18974&MediaId=4629"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "07-04-2025",
+  "title": "Markedsorienteret geolog eller ingeniør til grundvandsopgaver",
+  "company": "EnviDan A/S",
+  "location": "Kastrup, Silkeborg, Aarhus m.fl.",
+  "job_URL": "https://envidandenmark.teamtailor.com/jobs/5123678-markedsorienteret-geolog-eller-ingenioer-til-grundvandsopgaver"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "04-04-2025",
+  "title": "Håndværker / Formand",
+  "company": "Jysk Betonrenovering",
+  "location": "Vadum",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1553846/haandvaerker-formand"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "04-04-2025",
+  "title": "Udviklingschef/CTO til Satlab A/S  - udvikling af radiosystemer til rumindustrien",
+  "company": "Hedevang - Ledelse & Hr ApS",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1544283/udviklingschef-cto-til-satlab-a-s-udvikling-af-radiosystemer-til-rumindustrien"
+ },
+ {
+  "category": "ledelse",
+  "pub_date": "04-04-2025",
+  "title": "Strategy and M&A Consultant",
+  "company": "Hansen Toft A/S",
+  "location": "Aalborg eller Aarhus",
+  "job_URL": "https://www.hansentoft.dk/job/8906"
  },
  {
   "category": "ledelse",
@@ -432,92 +520,52 @@
   "job_URL": "https://xci.teamtailor.com/jobs/5760498-devops-team-lead?promotion=1410017-jobindex"
  },
  {
-  "category": "ledelse",
-  "pub_date": "02-04-2025",
-  "title": "Souschef - Hurup Thy",
-  "company": "Netto",
-  "location": "Hurup Thy",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/1ea756d2-e157-4a79-83cc-c518b7f5ec59"
+  "category": "undervisning",
+  "pub_date": "07-04-2025",
+  "title": "DanskHåndbold Nord søger en fuldtids foreningskonsulent",
+  "company": "DanskHåndbold",
+  "location": "Hobro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554803/danskhaandbold-nord-soeger-en-fuldtids-foreningskonsulent"
  },
  {
-  "category": "ledelse",
-  "pub_date": "02-04-2025",
-  "title": "Butikschef i Netto - Hurup Thy",
-  "company": "Netto",
-  "location": "Hurup Thy",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/b503b680-c1b3-4c75-8170-4484b8adef6a"
- },
- {
-  "category": "ledelse",
-  "pub_date": "02-04-2025",
-  "title": "Erfaren regnskabschef – bliv en del af et ambitiøst fællesskab med fokus på iværksætteri og rådgivning",
-  "company": "EKKOfonden",
-  "location": "Hjørring",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553302/erfaren-regnskabschef-bliv-en-del-af-et-ambitioest-faellesskab-med-fokus-paa-ivaerksaetteri-og-raadgivning"
- },
- {
-  "category": "ledelse",
-  "pub_date": "02-04-2025",
-  "title": "Souschef - Aalborg",
-  "company": "Netto",
+  "category": "undervisning",
+  "pub_date": "07-04-2025",
+  "title": "Skoleleder",
+  "company": "Sct. Mariæ Skole",
   "location": "Aalborg",
-  "job_URL": "https://sallinggroup.com/job/ledige-stillinger/51b6afb1-9f52-4f89-8f49-2331e3c345a8"
- },
- {
-  "category": "ledelse",
-  "pub_date": "02-04-2025",
-  "title": "Teamleder til sygeplejen i Team Midtthy",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=137170"
- },
- {
-  "category": "ledelse",
-  "pub_date": "01-04-2025",
-  "title": "Ambitiøs AC-fuldmægtig til team ’Strategi, analyse og projekter’ i Statens Administration",
-  "company": "Statens Administration",
-  "location": "Hjørring og mulighed for hjemmearbejde",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=145513&DepartmentId=18981&MediaId=4646"
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554801/skoleleder"
  },
  {
   "category": "undervisning",
-  "pub_date": "28-03-2025",
-  "title": "Energisk pædagogmedhjælper til privat daginstitution i Aalborg med fokus på udeliv, mad og økologi søges….",
-  "company": "Daginstitutionen Troldehulen ApS",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1543382/energisk-paedagogmedhjaelper-til-privat-daginstitution-i-aalborg-med-fokus-paa-udeliv-mad-og-oekologi-soeges"
+  "pub_date": "07-04-2025",
+  "title": "Konsulent til monitering, datahåndtering og analyse - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Nykøbing M",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/5018"
  },
  {
   "category": "undervisning",
-  "pub_date": "27-03-2025",
-  "title": "VISO-specialist",
-  "company": "Hejmdal Privathospital A/S",
-  "location": "Aarhus eller Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1551563/viso-specialist"
+  "pub_date": "07-04-2025",
+  "title": "PhD scholarship in AI and Computer Vision for Automated Fisheries Monitoring - DTU Aqua",
+  "company": "DTU, Danmarks Tekniske Universitet",
+  "location": "Hirtshals",
+  "job_URL": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/5017"
  },
  {
   "category": "undervisning",
-  "pub_date": "27-03-2025",
-  "title": "Dygtig og engageret konsulent til vores afdeling i Nordjylland",
-  "company": "VRC Silkeborg",
-  "location": "Brønderslev",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1551435/dygtig-og-engageret-konsulent-til-vores-afdeling-i-nordjylland"
+  "pub_date": "04-04-2025",
+  "title": "Socialfaglig medarbejder §110 søges til Blå Kors Hjemmet i Hobro",
+  "company": "Blå Kors Danmark",
+  "location": "Hobro",
+  "job_URL": "https://blaakors.career.emply.com/ad/socialfaglig-medarbejder-110-soges-til-bla-kors-hjemmet-i-hobro/culbeu/da"
  },
  {
   "category": "undervisning",
-  "pub_date": "26-03-2025",
-  "title": "Engageret og  relationel stærk pædagog",
-  "company": "Fonden Føniks",
-  "location": "Dronninglund",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1551202/engageret-og-relationel-staerk-paedagog"
- },
- {
-  "category": "undervisning",
-  "pub_date": "26-03-2025",
-  "title": "Social- og sundhedsfaglig medarbejder til Bofælleskabet Søskrænten",
-  "company": "THISTED KOMMUNE",
-  "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=136549"
+  "pub_date": "04-04-2025",
+  "title": "Socialpædagog eller diakon til Blå Kors Minibo",
+  "company": "Blå Kors Danmark",
+  "location": "Hobro",
+  "job_URL": "https://blaakors.career.emply.com/ad/socialpaedagog-eller-diakon-til-bla-kors-minibo/ui56jj/da"
  },
  {
   "category": "undervisning",
@@ -592,14 +640,6 @@
   "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1047"
  },
  {
-  "category": "undervisning",
-  "pub_date": "01-04-2025",
-  "title": "Prodekan til Det Tekniske Fakultet for IT og Design",
-  "company": "MUUSMANN",
-  "location": "Aalborg Øst",
-  "job_URL": "https://muusmann.career.emply.com/ad/prodekan-til-det-tekniske-fakultet-for-it-og-design-aalborg-universitet/g2dprg/da"
- },
- {
   "category": "social",
   "pub_date": "31-03-2025",
   "title": "Psykolog med stærk socialfaglig formidlingsevne til nyoprettet stilling i Memox",
@@ -617,35 +657,35 @@
  },
  {
   "category": "social",
-  "pub_date": "28-03-2025",
-  "title": "Erfaren sygeplejerske til psykiatrisk speciallægepraksis",
-  "company": "Speciallægerne Stoustrup og Schou I/S",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1551809/erfaren-sygeplejerske-til-psykiatrisk-speciallaegepraksis"
+  "pub_date": "07-04-2025",
+  "title": "Administrative medarbejdere til Servicecentret",
+  "company": "Nordjyllands Politi",
+  "location": "Aalborg",
+  "job_URL": "https://job.politi.dk/job/Nordjyllands-Politi-s%C3%B8ger-flere-administrative-medarbejdere-til-Servicecentret/1724-da_DK"
  },
  {
   "category": "social",
-  "pub_date": "28-03-2025",
-  "title": "Teamkoordinator til Ejendomscenter Jammerbugts administrative team",
-  "company": "Jammerbugt Kommune",
-  "location": "Pandrup – mulighed for hjemmearbejde",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1475&WebAdId=136952"
- },
- {
-  "category": "social",
-  "pub_date": "28-03-2025",
-  "title": "Sagsbehandler til Borgerservice – Pension og Folkeregister",
-  "company": "Brønderslev Kommune",
-  "location": "Brønderslev",
-  "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/sagsbehandler-til-borgerservice-pension-og-folkeregister/cyl3d1/da"
- },
- {
-  "category": "social",
-  "pub_date": "28-03-2025",
-  "title": "Vi søger en ny vandløbssagsbehandler",
+  "pub_date": "07-04-2025",
+  "title": "Sommerferieafløsere til Team Midtthy",
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=136990"
+  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=137395"
+ },
+ {
+  "category": "social",
+  "pub_date": "04-04-2025",
+  "title": "Socialfaglig medarbejder §110 søges til Blå Kors Hjemmet i Hobro",
+  "company": "Blå Kors Danmark",
+  "location": "Hobro",
+  "job_URL": "https://blaakors.career.emply.com/ad/socialfaglig-medarbejder-110-soges-til-bla-kors-hjemmet-i-hobro/culbeu/da"
+ },
+ {
+  "category": "social",
+  "pub_date": "04-04-2025",
+  "title": "Socialpædagog eller diakon til Blå Kors Minibo",
+  "company": "Blå Kors Danmark",
+  "location": "Hobro",
+  "job_URL": "https://blaakors.career.emply.com/ad/socialpaedagog-eller-diakon-til-bla-kors-minibo/ui56jj/da"
  },
  {
   "category": "social",
@@ -729,11 +769,99 @@
  },
  {
   "category": "ingenioer",
+  "pub_date": "07-04-2025",
+  "title": "Teknisk projektleder",
+  "company": "idoc A/S",
+  "location": "Vejle, Aalborg eller Albertslund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554918/teknisk-projektleder"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "07-04-2025",
+  "title": "Teknisk Designer til mekanisk konstruktion af PALOMAT®",
+  "company": "PALOMAT",
+  "location": "Nykøbing M",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144293&DepartmentId=18956&MediaId=4614"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "07-04-2025",
+  "title": "Sælger til Davidsens Grønlandsafdeling i Aalborg",
+  "company": "Davidsen",
+  "location": "Aalborg Øst",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1786&ProjectId=144343&DepartmentId=19050&MediaId=4627"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "07-04-2025",
+  "title": "Produktudvikler",
+  "company": "Beauté Pacifique ApS",
+  "location": "Hadsund",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554209/produktudvikler"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "07-04-2025",
+  "title": "Markedsorienteret geolog eller ingeniør til grundvandsopgaver",
+  "company": "EnviDan A/S",
+  "location": "Kastrup, Silkeborg, Aarhus m.fl.",
+  "job_URL": "https://envidandenmark.teamtailor.com/jobs/5123678-markedsorienteret-geolog-eller-ingenioer-til-grundvandsopgaver"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "07-04-2025",
+  "title": "Engineering Documentation Coordinator",
+  "company": "Körber Supply Chain DK A/S",
+  "location": "Arden",
+  "job_URL": "https://jobs.koerber.com/job/Arden-Engineering-Documentation-Coordinator/1169446801/"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "04-04-2025",
+  "title": "Design Engineer med opfindergen til kundeprojekter inden for svejseautomatisering",
+  "company": "Migatronic A/S",
+  "location": "Aabybro",
+  "job_URL": "https://app.jobmatchprofile.com/hmmyd3/migatronic-as/44gt3t/design-engineer-med-opfindergen-til-kundeproj"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "04-04-2025",
+  "title": "Supply Chain Specialist til succesrig sengespecialist",
+  "company": "Hilding Anders Danmark A/S",
+  "location": "Hurup Thy",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554351/supply-chain-specialist-til-succesrig-sengespecialist"
+ },
+ {
+  "category": "ingenioer",
   "pub_date": "04-04-2025",
   "title": "Key Account Manager – teknisk salg og kundepleje",
   "company": "MAT Dania ApS",
   "location": "Aars",
   "job_URL": "https://matdania.career.emply.com/da/ad/key-account-manager-teknisk-salg-og-kundepleje/jogmtu"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "04-04-2025",
+  "title": "Håndværker / Formand",
+  "company": "Jysk Betonrenovering",
+  "location": "Vadum",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1553846/haandvaerker-formand"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "04-04-2025",
+  "title": "Udviklingschef/CTO til Satlab A/S  - udvikling af radiosystemer til rumindustrien",
+  "company": "Hedevang - Ledelse & Hr ApS",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1544283/udviklingschef-cto-til-satlab-a-s-udvikling-af-radiosystemer-til-rumindustrien"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "04-04-2025",
+  "title": "Project Assistant til Aalborg Portland",
+  "company": "MatchMind",
+  "location": "Aalborg Øst",
+  "job_URL": "https://matchmind.dk/ledige-jobs?hr=show-job/250456&linkref=290691&locale=da_DK"
  },
  {
   "category": "ingenioer",
@@ -768,76 +896,36 @@
   "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/byggesagsbehandler-genopslag/e8qnvl/da"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "03-04-2025",
-  "title": "PTD-PTU Chef - NØRAGER MEJERI",
-  "company": "NORDEX FOOD A/S",
-  "location": "Nørager",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143689&DepartmentId=18961&MediaId=5"
+  "category": "salg",
+  "pub_date": "07-04-2025",
+  "title": "DanskHåndbold Nord søger en fuldtids foreningskonsulent",
+  "company": "DanskHåndbold",
+  "location": "Hobro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554803/danskhaandbold-nord-soeger-en-fuldtids-foreningskonsulent"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "03-04-2025",
-  "title": "Area Sales Manager",
-  "company": "Sintex a/s",
-  "location": "Hobro og mulighed for hjemmearbejde",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553645/area-sales-manager"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "02-04-2025",
-  "title": "Teknisk Tegner til Electrical Maintenance hos Aalborg Portland A/S",
-  "company": "Aalborg Portland",
+  "category": "salg",
+  "pub_date": "07-04-2025",
+  "title": "Sælger til Davidsens Grønlandsafdeling i Aalborg",
+  "company": "Davidsen",
   "location": "Aalborg Øst",
-  "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3486467/130141/jobindex&iso=dk/"
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1786&ProjectId=144343&DepartmentId=19050&MediaId=4627"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "01-04-2025",
-  "title": "Controls Engineer",
-  "company": "Körber Supply Chain DK A/S",
-  "location": "Arden",
-  "job_URL": "https://jobs.koerber.com/supplychain/job/Arden-Controls-Engineer/1187868501/"
+  "category": "salg",
+  "pub_date": "05-04-2025",
+  "title": "Mødebooker",
+  "company": "Web-Koncept A/S",
+  "location": "Aalborg",
+  "job_URL": "https://forestpartners.teamtailor.com/jobs/5589057-moedebooker-web-koncept-a-s"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "01-04-2025",
-  "title": "Electrical Engineer",
-  "company": "QUPAQ",
-  "location": "Brønderslev",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1552391/electrical-engineer"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "01-04-2025",
-  "title": "Kalkulations- og tilbudsleder søges",
-  "company": "A-Consult Agro A/S",
-  "location": "Aalborg SØ",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1551991/kalkulations-og-tilbudsleder-soeges"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "01-04-2025",
-  "title": "Flymekaniker/flytekniker",
-  "company": "Jobindex",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1538979/flymekaniker-flytekniker"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "01-04-2025",
-  "title": "Hardware Engineer",
-  "company": "Trackunit ApS",
-  "location": "Aalborg, København K, Kolding, or Aarhus C, Hybrid position",
-  "job_URL": "https://careers.trackunit.com/jobs/5750601-hardware-engineer?promotion=1408675-jobindex"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "01-04-2025",
-  "title": "Miljøsagsbehandler til Plan og Miljø",
-  "company": "THISTED KOMMUNE",
-  "location": "Hurup",
-  "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=137099"
+  "category": "salg",
+  "pub_date": "04-04-2025",
+  "title": "Partner Account Manager",
+  "company": "Tasklet Factory ApS",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554222/partner-account-manager"
  },
  {
   "category": "salg",
@@ -888,36 +976,108 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1553443/fagansvarlig-til-bredde-dommeromraadet-i-danskhaandbold"
  },
  {
-  "category": "salg",
-  "pub_date": "02-04-2025",
-  "title": "Tekniker med byggeerfaring",
-  "company": "Teater Nordkraft",
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "Områdechef Aalborg",
+  "company": "Tide Bus Danmark A/S",
+  "location": "Gistrup",
+  "job_URL": "https://app.jobmatchprofile.com/etfuhy?client=jobindex"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "DanskHåndbold Nord søger en fuldtids foreningskonsulent",
+  "company": "DanskHåndbold",
+  "location": "Hobro",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554803/danskhaandbold-nord-soeger-en-fuldtids-foreningskonsulent"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "Bogholder søges",
+  "company": "Easy-AgriCare A/S",
+  "location": "Nykøbing M",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554782/bogholder-soeges"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "Logistikmedarbejder søges",
+  "company": "Easy-AgriCare A/S",
+  "location": "Nykøbing M",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554780/logistikmedarbejder-soeges"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "Kundesupporter",
+  "company": "Arctic Import A/S",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554630/kundesupporter"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "Handelselev med speciale i indkøb med unik mulighed for rotation mellem afdelinger",
+  "company": "Ahlsell",
   "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553265/tekniker-med-byggeerfaring"
+  "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16243"
  },
  {
-  "category": "salg",
-  "pub_date": "02-04-2025",
-  "title": "Digital Marketing Specialist",
-  "company": "AGITO Medical A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553180/digital-marketing-specialist"
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "Engineering Documentation Coordinator",
+  "company": "Körber Supply Chain DK A/S",
+  "location": "Arden",
+  "job_URL": "https://jobs.koerber.com/job/Arden-Engineering-Documentation-Coordinator/1169446801/"
  },
  {
-  "category": "salg",
-  "pub_date": "02-04-2025",
-  "title": "Sales Coordinator hos Bodylab (barselsvikariat) – Danmarks ledende Sport Nutrition & Fit Lifestyle brand",
-  "company": "Bodylab ApS",
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "Administrative medarbejdere til Servicecentret",
+  "company": "Nordjyllands Politi",
+  "location": "Aalborg",
+  "job_URL": "https://job.politi.dk/job/Nordjyllands-Politi-s%C3%B8ger-flere-administrative-medarbejdere-til-Servicecentret/1724-da_DK"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "Controller",
+  "company": "TNR",
   "location": "Hadsund",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553144/sales-coordinator-hos-bodylab-barselsvikariat-danmarks-ledende-sport-nutrition-fit-lifestyle-brand"
+  "job_URL": "https://app.jobmatchprofile.com/mep6wq"
  },
  {
-  "category": "salg",
-  "pub_date": "02-04-2025",
-  "title": "Handelstrainee med speciale i salg",
-  "company": "Carl Ras A/S",
-  "location": "Aalborg",
-  "job_URL": "https://app.jobmatchprofile.com/6ye57d/carl-ras-as/75chpd/handelstrainee-med-speciale-i-salg"
+  "category": "kontor",
+  "pub_date": "07-04-2025",
+  "title": "Revisortrainee hos Redmark 2026",
+  "company": "Redmark",
+  "location": "Frederiksberg, Aalborg eller Randers SØ",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1530444/revisortrainee-hos-redmark-2026"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "04-04-2025",
+  "title": "Supply Chain Specialist til succesrig sengespecialist",
+  "company": "Hilding Anders Danmark A/S",
+  "location": "Hurup Thy",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1554351/supply-chain-specialist-til-succesrig-sengespecialist"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "04-04-2025",
+  "title": "Naturforvalter til Naturstyrelsen Thy",
+  "company": "Naturstyrelsen",
+  "location": "Thisted",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=187828&DepartmentId=6163&MediaId=3638"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "04-04-2025",
+  "title": "Økonomimedarbejder",
+  "company": "Wrist Ship Supply",
+  "location": "Nørresundby",
+  "job_URL": "https://www.wrist.com/en/join-us/job_at_wrist/oekonomimedarbejder---noerresundby-in-danish.htm"
  },
  {
   "category": "kontor",
@@ -944,92 +1104,28 @@
   "job_URL": "https://www.jobindex.dk/img/pdf/tv2_nordkontorelev.pdf"
  },
  {
-  "category": "kontor",
-  "pub_date": "04-04-2025",
-  "title": "Bliv Consultant i vores graduateforløb",
-  "company": "Keepers",
-  "location": "København K eller Aalborg",
-  "job_URL": "https://keepers.dk/job/?hr=show-job%2F228977%26locale%3Dda_DK"
- },
- {
-  "category": "kontor",
-  "pub_date": "03-04-2025",
-  "title": "SGS Analytics Denmark A/S søger ny kollega til Kundeservice",
-  "company": "SGS Analytics Denmark A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553822/sgs-analytics-denmark-a-s-soeger-ny-kollega-til-kundeservice"
- },
- {
-  "category": "kontor",
-  "pub_date": "03-04-2025",
-  "title": "Disponent til liftafdelingen",
-  "company": "BMS A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://bms.hr-on.com/show-job/251399?linkref=289971&locale=da_DK"
- },
- {
-  "category": "kontor",
-  "pub_date": "03-04-2025",
-  "title": "Byggesagsbehandler - Genopslag",
-  "company": "Brønderslev Kommune",
-  "location": "Dronninglund og mulighed for hjemmearbejde",
-  "job_URL": "https://Bronderslev-v2-1.career.emply.com/ad/byggesagsbehandler-genopslag/e8qnvl/da"
- },
- {
-  "category": "kontor",
-  "pub_date": "03-04-2025",
-  "title": "Drifts- og fagansvarlig med flair for mennesker, vagtplanlægning og projektledelse",
-  "company": "Nordværk I/S",
+  "category": "oevrige",
+  "pub_date": "07-04-2025",
+  "title": "Praktikant til Group Marketing",
+  "company": "BILA A/S",
   "location": "Aalborg",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143735&DepartmentId=18974&MediaId=4629"
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144279&DepartmentId=18956&MediaId=46145"
  },
  {
-  "category": "kontor",
-  "pub_date": "03-04-2025",
-  "title": "Afdelingschef for Support Erhverv Himmerland",
-  "company": "Sparekassen Danmark",
-  "location": "Aars eller Viborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1545222/afdelingschef-for-support-erhverv-himmerland"
+  "category": "oevrige",
+  "pub_date": "07-04-2025",
+  "title": "Handelselev med speciale i indkøb med unik mulighed for rotation mellem afdelinger",
+  "company": "Ahlsell",
+  "location": "Aalborg",
+  "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16243"
  },
  {
-  "category": "kontor",
-  "pub_date": "03-04-2025",
-  "title": "Få den bedste start på din karriere – bliv HANDELSELEV i kundeservice",
-  "company": "Daarbak Redoffice",
-  "location": "Aalborg SØ",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1537645/faa-den-bedste-start-paa-din-karriere-bliv-handelselev-i-kundeservice"
- },
- {
-  "category": "kontor",
-  "pub_date": "03-04-2025",
-  "title": "Få den bedste start på din karriere - bliv HANDELSELEV i kundeservice",
-  "company": "Daarbak Design",
-  "location": "Aalborg SØ",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1537643/faa-den-bedste-start-paa-din-karriere-bliv-handelselev-i-kundeservice"
- },
- {
-  "category": "kontor",
-  "pub_date": "03-04-2025",
-  "title": "Administrativ koordinator til e-commerce teamet",
-  "company": "Kompetent",
-  "location": "Støvring",
-  "job_URL": "https://karriere.kompetent.as/jobs/5762907-administrativ-koordinator-til-e-commerce-teamet"
- },
- {
-  "category": "kontor",
-  "pub_date": "02-04-2025",
-  "title": "Fagansvarlig til bredde-dommerområdet i DanskHåndbold",
-  "company": "DanskHåndbold",
-  "location": "Hobro, Ikast, Middelfart eller Brøndby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553443/fagansvarlig-til-bredde-dommeromraadet-i-danskhaandbold"
- },
- {
-  "category": "kontor",
-  "pub_date": "02-04-2025",
-  "title": "Teamchef, der brænder for beskæftigelsesindsatsen",
-  "company": "Styrelsen for Arbejdsmarked og Rekruttering",
-  "location": "Brønderslev",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=145537&DepartmentId=19047&MediaId=4774"
+  "category": "oevrige",
+  "pub_date": "07-04-2025",
+  "title": "Revisortrainee hos Redmark 2026",
+  "company": "Redmark",
+  "location": "Frederiksberg, Aalborg eller Randers SØ",
+  "job_URL": "https://www.jobindex.dk/jobannonce/h1530444/revisortrainee-hos-redmark-2026"
  },
  {
   "category": "oevrige",
@@ -1082,14 +1178,6 @@
  {
   "category": "oevrige",
   "pub_date": "03-04-2025",
-  "title": "Få den bedste start på din karriere - bliv HANDELSELEV i kundeservice",
-  "company": "Daarbak Design",
-  "location": "Aalborg SØ",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1537643/faa-den-bedste-start-paa-din-karriere-bliv-handelselev-i-kundeservice"
- },
- {
-  "category": "oevrige",
-  "pub_date": "03-04-2025",
   "title": "Studentermedhjælper til Løn og Personale",
   "company": "Vesthimmerlands Kommune",
   "location": "Aars",
@@ -1134,45 +1222,5 @@
   "company": "Netto",
   "location": "Hurup Thy",
   "job_URL": "https://sallinggroup.com/job/ledige-stillinger/47fed6ea-18c6-46a6-87f5-3a4a5b508fef"
- },
- {
-  "category": "oevrige",
-  "pub_date": "02-04-2025",
-  "title": "Revisortrainees 2025",
-  "company": "Beierholm Godkendt Revisionspartnerselskab",
-  "location": "Hobro",
-  "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/beierholm-i-hobro-soeger-revisortrainees-2025"
- },
- {
-  "category": "oevrige",
-  "pub_date": "02-04-2025",
-  "title": "Outsourcingtrainee 2025",
-  "company": "Beierholm Godkendt Revisionspartnerselskab",
-  "location": "Hobro",
-  "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/beierholm-i-hobro-soeger-outsourcingtrainee-2025?_gl=1*1vjjqe3*_up*MQ..*_ga*MTU4NjA2Mjk3NC4xNzQzNTkyMjUz*_ga_7E5KLPWM85*MTc0MzU5MjI1My4xLjAuMTc0MzU5MjI1My4wLjAuMA.."
- },
- {
-  "category": "oevrige",
-  "pub_date": "02-04-2025",
-  "title": "Outsourcingtrainees 2025",
-  "company": "Beierholm Godkendt Revisionspartnerselskab",
-  "location": "Hadsund",
-  "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/beierholm-i-hadsund-soeger-outsourcingtrainees-2025?_gl=1*mz7sa0*_up*MQ..*_ga*MTI5MDQ1OTI3My4xNzQzNTgyNzYz*_ga_7E5KLPWM85*MTc0MzU4Mjc2Mi4xLjAuMTc0MzU4Mjc2Mi4wLjAuMA.."
- },
- {
-  "category": "oevrige",
-  "pub_date": "02-04-2025",
-  "title": "Revisortrainees 2025",
-  "company": "Beierholm Godkendt Revisionspartnerselskab",
-  "location": "Hadsund",
-  "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/beierholm-i-hadsund-soeger-revisortrainees-2025?_gl=1*ku6uzp*_up*MQ..*_ga*Njg3MjQ3MTg2LjE3NDM1ODI2MzY.*_ga_7E5KLPWM85*MTc0MzU4MjYzNi4xLjAuMTc0MzU4MjYzNi4wLjAuMA.."
- },
- {
-  "category": "oevrige",
-  "pub_date": "02-04-2025",
-  "title": "Salgselev ILVA Frederikshavn - vi har fokus på DIN udvikling",
-  "company": "ILVA",
-  "location": "Frederikshavn",
-  "job_URL": "https://ilva.youngcrm.com/jobportal/11021"
  }
 ]
