@@ -145,7 +145,7 @@
  },
  {
   "match": "Bayern München - Inter",
-  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.93  |  3.70  |  4.20",
+  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.94  |  3.65  |  4.20",
   "time": "21:00",
   "date": "2025-04-08",
   "channels": [
@@ -176,30 +176,6 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Phoenix Suns - Golden State Warriors",
-  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "04:00",
-  "date": "2025-04-08",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   }
-  ]
- },
- {
-  "match": "Los Angeles Clippers - San Antonio Spurs",
-  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "04:30",
-  "date": "2025-04-08",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
    }
   ]
  }
