@@ -17,19 +17,19 @@
  },
  {
   "category": "it",
-  "pub_date": "28-03-2025",
-  "title": "Sales Manager",
-  "company": "XCI A/S",
-  "location": "Aalborg Øst",
-  "job_URL": "https://xci.teamtailor.com/jobs/5468942-sales-manager?promotion=1404031-jobindex"
- },
- {
-  "category": "it",
   "pub_date": "08-04-2025",
   "title": "Senior Cyber Security Specialist",
   "company": "Itm8",
   "location": "Viby J, Aalborg SØ eller Herning",
   "job_URL": "https://dk.career.itm8.com/jobs/5665085-senior-cyber-security-specialist-viby-j-alborg-eller-herning-itm8?promotion=1377783-jobindex"
+ },
+ {
+  "category": "it",
+  "pub_date": "08-04-2025",
+  "title": "Digitaliseringskonsulent for forskning og innovation til Digitalisering og Transformation i IT-afdelingen",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst og mulighed for hjemmearbejde",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219564"
  },
  {
   "category": "it",
@@ -154,6 +154,14 @@
  {
   "category": "industri",
   "pub_date": "08-04-2025",
+  "title": "Kvalitetsinspektører",
+  "company": "MAN Energy Solutions",
+  "location": "Frederikshavn og mulighed for hjemmearbejde",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145618&DepartmentId=19149&MediaId=4619"
+ },
+ {
+  "category": "industri",
+  "pub_date": "08-04-2025",
   "title": "Mekanisk Montør",
   "company": "Körber Supply Chain DK A/S",
   "location": "Arden",
@@ -270,14 +278,6 @@
   "company": "Bygma",
   "location": "Aalborg SV",
   "job_URL": "https://jobs.bygma.dk/job/Aalborg-SV-S%C3%A6lger-til-Bygma-Aalborg-SV-9200/1153742555/"
- },
- {
-  "category": "industri",
-  "pub_date": "03-04-2025",
-  "title": "Er du klar til at tage styringen i felten på spændende anlægsopgaver? – Genopslag",
-  "company": "Jobindex",
-  "location": "Hobro",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553897/er-du-klar-til-at-tage-styringen-i-felten-paa-spaendende-anlaegsopgaver-genopslag"
  },
  {
   "category": "handel",
@@ -409,6 +409,14 @@
  },
  {
   "category": "ledelse",
+  "pub_date": "08-04-2025",
+  "title": "Digitaliseringskonsulent for forskning og innovation til Digitalisering og Transformation i IT-afdelingen",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst og mulighed for hjemmearbejde",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219564"
+ },
+ {
+  "category": "ledelse",
   "pub_date": "07-04-2025",
   "title": "Teknisk projektleder",
   "company": "idoc A/S",
@@ -512,20 +520,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1545222/afdelingschef-for-support-erhverv-himmerland"
  },
  {
-  "category": "ledelse",
-  "pub_date": "02-04-2025",
-  "title": "Teamchef, der brænder for beskæftigelsesindsatsen",
-  "company": "Styrelsen for Arbejdsmarked og Rekruttering",
-  "location": "Brønderslev",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=145537&DepartmentId=19047&MediaId=4774"
- },
- {
-  "category": "ledelse",
-  "pub_date": "02-04-2025",
-  "title": "Butikschef til Like ANNA",
-  "company": "BTX Group A/S",
-  "location": "Thisted",
-  "job_URL": "https://www.jobindex.dk/img/pdf/butikschef_thisted_2025-b.pdf"
+  "category": "undervisning",
+  "pub_date": "08-04-2025",
+  "title": "Digitaliseringskonsulent for forskning og innovation til Digitalisering og Transformation i IT-afdelingen",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst og mulighed for hjemmearbejde",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219564"
  },
  {
   "category": "undervisning",
@@ -638,14 +638,6 @@
   "company": "THISTED KOMMUNE",
   "location": "Thisted",
   "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=137170"
- },
- {
-  "category": "undervisning",
-  "pub_date": "01-04-2025",
-  "title": "Vil du være med til at uddanne fremtidens bedste datateknikere?",
-  "company": "TECHCOLLEGE",
-  "location": "Aalborg",
-  "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1047"
  },
  {
   "category": "social",
@@ -778,6 +770,14 @@
  {
   "category": "ingenioer",
   "pub_date": "08-04-2025",
+  "title": "Kvalitetsinspektører",
+  "company": "MAN Energy Solutions",
+  "location": "Frederikshavn og mulighed for hjemmearbejde",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145618&DepartmentId=19149&MediaId=4619"
+ },
+ {
+  "category": "ingenioer",
+  "pub_date": "08-04-2025",
   "title": "Commissioning Manager",
   "company": "Nature Energy",
   "location": "Odense SØ, Støvring, Aarhus N",
@@ -904,14 +904,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1553897/er-du-klar-til-at-tage-styringen-i-felten-paa-spaendende-anlaegsopgaver-genopslag"
  },
  {
-  "category": "ingenioer",
-  "pub_date": "03-04-2025",
-  "title": "SGS Analytics Denmark A/S søger ny kollega til Kundeservice",
-  "company": "SGS Analytics Denmark A/S",
-  "location": "Nørresundby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553822/sgs-analytics-denmark-a-s-soeger-ny-kollega-til-kundeservice"
- },
- {
   "category": "salg",
   "pub_date": "08-04-2025",
   "title": "Engageret Sales Supporter til vores Export team",
@@ -992,14 +984,6 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1553645/area-sales-manager"
  },
  {
-  "category": "salg",
-  "pub_date": "02-04-2025",
-  "title": "Fagansvarlig til bredde-dommerområdet i DanskHåndbold",
-  "company": "DanskHåndbold",
-  "location": "Hobro, Ikast, Middelfart eller Brøndby",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1553443/fagansvarlig-til-bredde-dommeromraadet-i-danskhaandbold"
- },
- {
   "category": "kontor",
   "pub_date": "08-04-2025",
   "title": "Lønassistent med solid bogholderierfaring",
@@ -1014,6 +998,14 @@
   "company": "Jobindex",
   "location": "Løgstør og mulighed for hjemmearbejde",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1546651/oekonomiansvarlig-staa-for-oekonomistyring-hos-foerende-foderproducent"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "08-04-2025",
+  "title": "Digitaliseringskonsulent for forskning og innovation til Digitalisering og Transformation i IT-afdelingen",
+  "company": "Aalborg Universitet",
+  "location": "Aalborg Øst og mulighed for hjemmearbejde",
+  "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219564"
  },
  {
   "category": "kontor",
@@ -1128,12 +1120,12 @@
   "job_URL": "https://www.jobindex.dk/jobannonce/h1554122/category-manager-klima-vedvarende-energi"
  },
  {
-  "category": "kontor",
-  "pub_date": "04-04-2025",
-  "title": "Bogholder",
-  "company": "Global Equestrian Group ApS",
-  "location": "Vodskov",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1554098/bogholder"
+  "category": "oevrige",
+  "pub_date": "08-04-2025",
+  "title": "Uddannelsespraktikant til Forretningsudvikling og Digitalisering",
+  "company": "Motorstyrelsen",
+  "location": "Aalborg",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=187929&DepartmentId=9409&MediaId=3191"
  },
  {
   "category": "oevrige",
@@ -1230,13 +1222,5 @@
   "company": "REMA 1000",
   "location": "Klarup",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72389&DepartmentId=9134&MediaId=5"
- },
- {
-  "category": "oevrige",
-  "pub_date": "02-04-2025",
-  "title": "Salgsassistentelev",
-  "company": "REMA 1000",
-  "location": "Nykøbing M",
-  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1030&ProjectId=72388&DepartmentId=8606&MediaId=5"
  }
 ]
