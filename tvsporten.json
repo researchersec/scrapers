@@ -3,11 +3,15 @@
   "match": "Baskerlandet Rundt",
   "category": "UCI World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:00",
-  "date": "2025-04-08",
+  "date": "2025-04-09",
   "channels": [
    {
     "name": "Eurosport 1",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
    }
   ]
  },
@@ -15,63 +19,39 @@
   "match": "On the Range",
   "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:00",
-  "date": "2025-04-08",
+  "date": "2025-04-09",
   "channels": [
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   }
-  ]
- },
- {
-  "match": "Monte-Carlo Masters",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-04-08",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
    },
    {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
    }
   ]
  },
  {
-  "match": "Liechtenstein - Luxembourg",
-  "category": "UEFA Women's Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:30",
-  "date": "2025-04-08",
+  "match": "Scheldeprijs",
+  "category": "UCI ProSeries\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:45",
+  "date": "2025-04-09",
   "channels": [
    {
-    "name": "FIFA+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/fifa.jpg"
-   }
-  ]
- },
- {
-  "match": "Danmark – Italien",
-  "category": "UEFA Women's Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-04-08",
-  "channels": [
-   {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
    },
    {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
    }
   ]
  },
  {
-  "match": "Nordsjaelland - Skjern",
+  "match": "Grindsted - KIF Kolding",
   "category": "Herreligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-04-08",
+  "time": "18:30",
+  "date": "2025-04-09",
   "channels": [
    {
     "name": "TV2 Sport",
@@ -80,26 +60,70 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
    }
   ]
  },
  {
-  "match": "Middlesbrough - Leeds United",
-  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.40  |  3.70  |  1.76",
-  "time": "21:00",
-  "date": "2025-04-08",
+  "match": "Masters Par 3 Contest",
+  "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:00",
+  "date": "2025-04-09",
   "channels": [
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
    }
   ]
  },
  {
-  "match": "Bayern München - Inter",
-  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.97  |  3.70  |  4.00",
+  "match": "Tyskland Håndbold – Danmark",
+  "category": "Venskabskampe Kvinder\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:30",
+  "date": "2025-04-09",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Coventry City - Portsmouth",
+  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.63  |  3.85  |  5.20",
   "time": "21:00",
-  "date": "2025-04-08",
+  "date": "2025-04-09",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "PSG - Aston Villa",
+  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.48  |  4.90  |  7.00",
+  "time": "21:00",
+  "date": "2025-04-09",
   "channels": [
    {
     "name": "TV3 Sport",
@@ -110,16 +134,16 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
-    "name": "Viasat Ultra HD",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasat_ultra_web.png"
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
    }
   ]
  },
  {
-  "match": "Arsenal FC - Real Madrid",
-  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.07  |  3.60  |  3.75",
+  "match": "FC Barcelona - Borussia Dortmund",
+  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  6.00  |  9.50",
   "time": "21:00",
-  "date": "2025-04-08",
+  "date": "2025-04-09",
   "channels": [
    {
     "name": "TV3 +",
@@ -128,6 +152,10 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
    }
   ]
  }
