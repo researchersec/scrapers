@@ -340,54 +340,6 @@
   ]
  },
  {
-  "match": "Colorado Avalanche - Vancouver Canucks",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.71  |  4.60  |  4.20",
-  "time": "03:00",
-  "date": "2025-04-10",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Utah Hockey Club - Nashville Predators",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.88  |  4.40  |  3.55",
-  "time": "03:00",
-  "date": "2025-04-10",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Memphis Grizzlies - Minnesota Timberwolves",
-  "category": "NBA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:30",
-  "date": "2025-04-10",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Vegas Golden Knights - Seattle Kraken",
   "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.63  |  5.25  |  4.25",
   "time": "04:00",
