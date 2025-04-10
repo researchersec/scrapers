@@ -1,85 +1,5 @@
 [
  {
-  "match": "Bakken Bears – Randers Cimbria",
-  "category": "Basketligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:30",
-  "date": "2025-04-10",
-  "channels": [
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Fredericia - AC Horsens",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  3.00  |  2.88",
-  "time": "18:30",
-  "date": "2025-04-10",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Rasmus Højgaard i The Masters",
-  "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:30",
-  "date": "2025-04-10",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Bodø / Glimt - Lazio",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.95  |  3.45  |  2.33",
-  "time": "18:45",
-  "date": "2025-04-10",
-  "channels": [
-   {
-    "name": "Disney Plus",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_100x60-1.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Legia Warszawa - Chelsea",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.30  |  4.20  |  1.57",
-  "time": "18:45",
-  "date": "2025-04-10",
-  "channels": [
-   {
-    "name": "Disney Plus",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_100x60-1.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "FC Bayern München Basket – Fenerbahce",
   "category": "Euroleague\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:00",
@@ -97,7 +17,7 @@
  },
  {
   "match": "Al Ittihad - Al-Orobah FC",
-  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.17  |  6.75  |  12.00",
+  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.22  |  5.80  |  9.50",
   "time": "20:00",
   "date": "2025-04-10",
   "channels": [
@@ -113,7 +33,7 @@
  },
  {
   "match": "Lyon - Manchester United",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.35  |  2.50",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.15  |  3.40  |  2.40",
   "time": "21:00",
   "date": "2025-04-10",
   "channels": [
@@ -129,7 +49,7 @@
  },
  {
   "match": "Real Betis - Jagiellonia Białystok",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.21  |  6.25  |  12.50",
+  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.17  |  7.00  |  14.00",
   "time": "21:00",
   "date": "2025-04-10",
   "channels": [
@@ -145,7 +65,7 @@
  },
  {
   "match": "Celje - Fiorentina",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.75  |  4.20  |  1.47",
+  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.10  |  4.10  |  1.52",
   "time": "21:00",
   "date": "2025-04-10",
   "channels": [
@@ -161,7 +81,7 @@
  },
  {
   "match": "Rangers F.C. - Athletic Club",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.00  |  3.50  |  2.02",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.20  |  3.65  |  1.92",
   "time": "21:00",
   "date": "2025-04-10",
   "channels": [
@@ -225,7 +145,7 @@
  },
  {
   "match": "Tottenham Hotspur - Eintracht Frankfurt",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.67  |  4.35  |  5.00",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.64  |  4.40  |  5.10",
   "time": "21:00",
   "date": "2025-04-10",
   "channels": [
