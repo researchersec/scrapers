@@ -282,14 +282,6 @@
  {
   "category": "handel",
   "pub_date": "09-04-2025",
-  "title": "Servicemedarbejder",
-  "company": "Bygma",
-  "location": "Sæby",
-  "job_URL": "https://jobs.bygma.dk/job/S%C3%A6by-Servicemedarbejder-til-Bygma-S%C3%A6by-9300/1154459755/"
- },
- {
-  "category": "handel",
-  "pub_date": "09-04-2025",
   "title": "Butiksassistent - Brønderslev",
   "company": "jem & fix A/S",
   "location": "Brønderslev",
@@ -366,6 +358,14 @@
   "company": "Bygma",
   "location": "Aalborg SV",
   "job_URL": "https://jobs.bygma.dk/job/Aalborg-SV-S%C3%A6lger-til-Bygma-Aalborg-SV-9200/1153742555/"
+ },
+ {
+  "category": "handel",
+  "pub_date": "04-04-2025",
+  "title": "Optometrist til Louis Nielsen Frederikshavn",
+  "company": "Louis Nielsen A/S",
+  "location": "Frederikshavn",
+  "job_URL": "https://join.specsavers.com/louis-nielsen/position/optometrist-til-louis-nielsen-frederikshavn/"
  },
  {
   "category": "ledelse",
@@ -1185,14 +1185,6 @@
  },
  {
   "category": "oevrige",
-  "pub_date": "09-04-2025",
-  "title": "Servicemedarbejder",
-  "company": "Bygma",
-  "location": "Sæby",
-  "job_URL": "https://jobs.bygma.dk/job/S%C3%A6by-Servicemedarbejder-til-Bygma-S%C3%A6by-9300/1154459755/"
- },
- {
-  "category": "oevrige",
   "pub_date": "08-04-2025",
   "title": "Salgsassistentelev",
   "company": "REMA 1000",
@@ -1262,5 +1254,13 @@
   "company": "BILA A/S",
   "location": "Aalborg",
   "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144279&DepartmentId=18956&MediaId=46145"
+ },
+ {
+  "category": "oevrige",
+  "pub_date": "07-04-2025",
+  "title": "Handelselev med speciale i indkøb med unik mulighed for rotation mellem afdelinger",
+  "company": "Ahlsell",
+  "location": "Aalborg",
+  "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16243"
  }
 ]
