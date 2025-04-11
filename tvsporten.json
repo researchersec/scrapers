@@ -1,61 +1,5 @@
 [
  {
-  "match": "Monte Carlo Masters",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Qatars Grand Prix",
-  "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "D. Jakobsen - O. Bayrak",
-  "category": "EM i Badminton\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "SGS Essen - Werder Bremen",
   "category": "Frauen-Bundesliga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:30",
@@ -73,7 +17,7 @@
  },
  {
   "match": "Hamburger SV - Eintracht Braunschweig",
-  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  5.40  |  7.50",
+  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.46  |  4.10  |  5.80",
   "time": "18:30",
   "date": "2025-04-11",
   "channels": [
@@ -89,7 +33,7 @@
  },
  {
   "match": "Greuther Fürth - 1. FC Köln",
-  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.50  |  3.50  |  1.98",
+  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.89  |  3.40  |  3.75",
   "time": "18:30",
   "date": "2025-04-11",
   "channels": [
@@ -105,7 +49,7 @@
  },
  {
   "match": "Hobro IK - B 93",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.54  |  4.25  |  4.90",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.81  |  3.35  |  4.25",
   "time": "18:30",
   "date": "2025-04-11",
   "channels": [
@@ -193,7 +137,7 @@
  },
  {
   "match": "Esbjerg fB - OB",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.20  |  3.80  |  1.68",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-04-11",
   "channels": [
@@ -445,7 +389,7 @@
  },
  {
   "match": "Burnley - Norwich City",
-  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.56  |  3.85  |  6.25",
+  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.54  |  3.90  |  6.40",
   "time": "21:00",
   "date": "2025-04-11",
   "channels": [
