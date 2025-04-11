@@ -234,6 +234,14 @@
   "date": "2025-04-11",
   "channels": [
    {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
@@ -244,9 +252,9 @@
   ]
  },
  {
-  "match": "Masters Golf Tournament",
+  "match": "Rasmus Højgaard i The Masters",
   "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:15",
+  "time": "15:25",
   "date": "2025-04-11",
   "channels": [
    {
@@ -300,6 +308,30 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Nicolai Højgaard i The Masters",
+  "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:59",
+  "date": "2025-04-11",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
@@ -457,7 +489,7 @@
  },
  {
   "match": "AaB - Lyngby BK",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.35  |  3.00  |  3.40",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.40  |  2.85  |  3.40",
   "time": "19:00",
   "date": "2025-04-11",
   "channels": [
@@ -593,7 +625,7 @@
  },
  {
   "match": "Wolfsburg - RB Leipzig",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  3.55  |  2.40",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  3.60  |  2.40",
   "time": "20:30",
   "date": "2025-04-11",
   "channels": [
@@ -645,7 +677,7 @@
  },
  {
   "match": "Lens - Reims",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.60  |  4.00  |  5.60",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.57  |  4.10  |  5.80",
   "time": "20:45",
   "date": "2025-04-11",
   "channels": [
@@ -661,7 +693,7 @@
  },
  {
   "match": "Valencia – Sevilla",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.30  |  3.05  |  3.60",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.05  |  3.75",
   "time": "21:00",
   "date": "2025-04-11",
   "channels": [
