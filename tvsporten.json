@@ -465,7 +465,7 @@
  },
  {
   "match": "Bayer Leverkusen - 1. FC Union Berlin",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.25  |  9.50",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.25  |  9.00",
   "time": "15:30",
   "date": "2025-04-12",
   "channels": [
@@ -481,7 +481,7 @@
  },
  {
   "match": "1899 Hoffenheim - FSV Mainz 05",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  3.50  |  2.60",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  3.45  |  2.60",
   "time": "15:30",
   "date": "2025-04-12",
   "channels": [
@@ -533,7 +533,7 @@
  },
  {
   "match": "Holstein Kiel - FC St Pauli",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.20  |  3.20  |  2.28",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.15  |  3.30  |  2.25",
   "time": "15:30",
   "date": "2025-04-12",
   "channels": [
@@ -689,7 +689,7 @@
  },
  {
   "match": "CF Getafe – Union Deportiva Las Palmas",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.76  |  3.50  |  5.30",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.76  |  3.50  |  5.25",
   "time": "16:15",
   "date": "2025-04-12",
   "channels": [
@@ -1391,22 +1391,6 @@
   "match": "Mobil1 12 Hours of Sebring",
   "category": "IMSA Sportscar Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "23:00",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Florida Panthers - Buffalo Sabres",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.70  |  4.50  |  4.35",
-  "time": "00:00",
   "date": "2025-04-12",
   "channels": [
    {
