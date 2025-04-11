@@ -1,137 +1,5 @@
 [
  {
-  "match": "Masters Golf Tournament",
-  "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:30",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Qatars Grand Prix",
-  "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:45",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Bahrains Grand Prix",
-  "category": "Formel 3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Baskerlandet Rundt",
-  "category": "UCI World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Billie Jean King Cup",
-  "category": "Federation Cup\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Monte-Carlo Masters",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Masters Golf Tournament",
-  "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:15",
-  "date": "2025-04-11",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Rasmus Højgaard i The Masters",
   "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:25",
@@ -321,7 +189,7 @@
  },
  {
   "match": "Greuther Fürth - 1. FC Köln",
-  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.25  |  3.45  |  2.08",
+  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.55  |  1.90",
   "time": "18:30",
   "date": "2025-04-11",
   "channels": [
@@ -505,7 +373,7 @@
  },
  {
   "match": "Wolfsburg - RB Leipzig",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.88  |  3.65  |  2.30",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.88  |  3.60  |  2.30",
   "time": "20:30",
   "date": "2025-04-11",
   "channels": [
@@ -525,7 +393,7 @@
  },
  {
   "match": "Udinese – AC Milan",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.90  |  3.55  |  1.90",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.00  |  3.55  |  1.87",
   "time": "20:45",
   "date": "2025-04-11",
   "channels": [
@@ -557,7 +425,7 @@
  },
  {
   "match": "Lens - Reims",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.56  |  4.10  |  6.00",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.55  |  4.10  |  6.10",
   "time": "20:45",
   "date": "2025-04-11",
   "channels": [
@@ -573,7 +441,7 @@
  },
  {
   "match": "Valencia – Sevilla",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.32  |  3.05  |  3.50",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.33  |  3.10  |  3.45",
   "time": "21:00",
   "date": "2025-04-11",
   "channels": [
@@ -617,7 +485,7 @@
  },
  {
   "match": "Burnley - Norwich City",
-  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.55  |  3.95  |  6.10",
+  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.56  |  3.85  |  6.10",
   "time": "21:00",
   "date": "2025-04-11",
   "channels": [
