@@ -105,7 +105,7 @@
  },
  {
   "match": "Djurgården - Piteå IF DFF",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.87  |  3.30  |  3.65",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.88  |  3.20  |  3.65",
   "time": "13:00",
   "date": "2025-04-12",
   "channels": [
@@ -137,7 +137,7 @@
  },
  {
   "match": "Plymouth Argyle - Sheffield United",
-  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.20  |  4.00  |  1.61",
+  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.75  |  4.25  |  1.53",
   "time": "13:30",
   "date": "2025-04-12",
   "channels": [
@@ -261,7 +261,7 @@
  },
  {
   "match": "Real Sociedad – Mallorca",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.82  |  3.25  |  5.30",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.86  |  3.20  |  5.20",
   "time": "14:00",
   "date": "2025-04-12",
   "channels": [
@@ -517,7 +517,7 @@
  },
  {
   "match": "VfL Bochum - FC Augsburg",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.45  |  3.20  |  2.90",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.20  |  3.20",
   "time": "15:30",
   "date": "2025-04-12",
   "channels": [
@@ -601,7 +601,7 @@
  },
  {
   "match": "Brighton & Hove Albion - Leicester City",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.80  |  11.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  6.00  |  11.50",
   "time": "16:00",
   "date": "2025-04-12",
   "channels": [
@@ -785,7 +785,7 @@
  },
  {
   "match": "AS Monaco - Olympique Marseille",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.05  |  3.80  |  3.30",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.04  |  3.85  |  3.35",
   "time": "17:00",
   "date": "2025-04-12",
   "channels": [
@@ -993,7 +993,7 @@
  },
  {
   "match": "Bayern München - Borussia Dortmund",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.45  |  4.90  |  6.00",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.46  |  4.80  |  5.80",
   "time": "18:30",
   "date": "2025-04-12",
   "channels": [
@@ -1240,6 +1240,22 @@
   ]
  },
  {
+  "match": "Rasmus Højgaard i The Masters",
+  "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:00",
+  "date": "2025-04-12",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Ferrari Challenge Coppa Shell AM",
   "category": "Ferrari Challenge Europe\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:15",
@@ -1341,7 +1357,7 @@
  },
  {
   "match": "Racing Strasbourg - Nice",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  3.45  |  2.70",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  3.45  |  2.65",
   "time": "21:00",
   "date": "2025-04-12",
   "channels": [
