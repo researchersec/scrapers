@@ -841,7 +841,7 @@
  },
  {
   "match": "Newcastle United - Manchester United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.67  |  4.20  |  5.30",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.70  |  4.20  |  5.10",
   "time": "17:30",
   "date": "2025-04-13",
   "channels": [
@@ -1125,7 +1125,7 @@
  },
  {
   "match": "New Jersey Devils - New York Islanders",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.98  |  4.30  |  3.25",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.90  |  4.35  |  3.50",
   "time": "19:00",
   "date": "2025-04-13",
   "channels": [
@@ -1261,10 +1261,6 @@
   "time": "21:30",
   "date": "2025-04-13",
   "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
    {
     "name": "Global NBA League Pass",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
@@ -1415,38 +1411,6 @@
   "match": "Carolina Hurricanes - Toronto Maple Leafs",
   "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.07  |  4.25  |  3.10",
   "time": "23:00",
-  "date": "2025-04-13",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Tampa Bay Lightning - Buffalo Sabres",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.63  |  4.75  |  4.60",
-  "time": "00:00",
-  "date": "2025-04-13",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Washington Capitals – Columbus Blue Jackets",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  4.30  |  3.20",
-  "time": "00:00",
   "date": "2025-04-13",
   "channels": [
    {
