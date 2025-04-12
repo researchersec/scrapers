@@ -1,167 +1,7 @@
 [
  {
-  "match": "Mountainbike World Cup",
-  "category": "Mountainbike-VM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:30",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Acura Grand Prix of Long Beach",
-  "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:30",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Ferrari Challenge Coppa Shell",
-  "category": "Ferrari Challenge Europe\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:30",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Qatars Grand Prix",
-  "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:45",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Masters Golf Tournament",
-  "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Bahrains Grand Prix",
-  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Qatars Grand Prix",
-  "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Mountainbike World Cup",
-  "category": "Mountainbike-VM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Inter – Cagliari",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.29  |  5.50  |  9.50",
-  "time": "18:00",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Arsenal FC - Brentford",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.68  |  4.10  |  5.30",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.68  |  3.85  |  4.90",
   "time": "18:30",
   "date": "2025-04-12",
   "channels": [
@@ -181,7 +21,7 @@
  },
  {
   "match": "Bayern München - Borussia Dortmund",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.52  |  4.70  |  5.25",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.43  |  5.00  |  6.00",
   "time": "18:30",
   "date": "2025-04-12",
   "channels": [
@@ -205,7 +45,7 @@
  },
  {
   "match": "Celta de Vigo – Espanyol",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.60  |  3.85  |  6.50",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.71  |  3.40  |  5.50",
   "time": "18:30",
   "date": "2025-04-12",
   "channels": [
@@ -221,7 +61,7 @@
  },
  {
   "match": "Philadelphia Flyers - New York Islanders",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.45  |  4.35  |  2.48",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.40  |  4.00  |  2.45",
   "time": "18:30",
   "date": "2025-04-12",
   "channels": [
@@ -237,7 +77,7 @@
  },
  {
   "match": "CF Cadiz – CF Elche",
-  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  2.95  |  2.80",
+  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 7.50  |  4.25  |  1.36",
   "time": "18:30",
   "date": "2025-04-12",
   "channels": [
@@ -253,7 +93,7 @@
  },
  {
   "match": "Columbus Blue Jackets - Washington Capitals",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.50  |  4.30  |  2.45",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.36  |  5.60  |  6.40",
   "time": "18:30",
   "date": "2025-04-12",
   "channels": [
@@ -297,7 +137,7 @@
  },
  {
   "match": "Toulouse - Lille",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.90  |  3.25  |  2.48",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.95  |  3.25  |  2.45",
   "time": "19:00",
   "date": "2025-04-12",
   "channels": [
@@ -493,7 +333,7 @@
  },
  {
   "match": "Juventus – Lecce",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.29  |  5.10  |  11.00",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.27  |  5.25  |  11.50",
   "time": "20:45",
   "date": "2025-04-12",
   "channels": [
@@ -509,7 +349,7 @@
  },
  {
   "match": "Leganes Cd – FC Barcelona",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 9.50  |  6.10  |  1.29",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 10.00  |  6.40  |  1.28",
   "time": "21:00",
   "date": "2025-04-12",
   "channels": [
