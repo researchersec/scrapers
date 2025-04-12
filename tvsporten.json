@@ -1,25 +1,5 @@
 [
  {
-  "match": "Investec South African Open",
-  "category": "Ladies European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "12:00",
-  "date": "2025-04-12",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Bahrains Grand Prix",
   "category": "Formel 3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "12:15",
@@ -73,7 +53,7 @@
  },
  {
   "match": "Hertha BSC Berlin - SV Darmstadt 98",
-  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.05  |  3.60  |  3.15",
+  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.95  |  3.65  |  3.40",
   "time": "13:00",
   "date": "2025-04-12",
   "channels": [
@@ -105,7 +85,7 @@
  },
  {
   "match": "Djurgården - Piteå IF DFF",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.88  |  3.20  |  3.65",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.33  |  2.95  |  2.90",
   "time": "13:00",
   "date": "2025-04-12",
   "channels": [
@@ -137,7 +117,7 @@
  },
  {
   "match": "Plymouth Argyle - Sheffield United",
-  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.75  |  4.25  |  1.52",
+  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.25  |  4.50  |  1.47",
   "time": "13:30",
   "date": "2025-04-12",
   "channels": [
@@ -157,7 +137,7 @@
  },
  {
   "match": "Manchester City - Crystal Palace",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.62  |  4.40  |  5.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.61  |  4.50  |  5.50",
   "time": "13:30",
   "date": "2025-04-12",
   "channels": [
@@ -173,7 +153,7 @@
  },
  {
   "match": "Celtic - Kilmarnock",
-  "category": "Scottish Premiership\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.17  |  7.50  |  12.00",
+  "category": "Scottish Premiership\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.18  |  7.00  |  12.00",
   "time": "13:30",
   "date": "2025-04-12",
   "channels": [
@@ -261,7 +241,7 @@
  },
  {
   "match": "Real Sociedad – Mallorca",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.96  |  3.10  |  4.75",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.95  |  3.10  |  4.80",
   "time": "14:00",
   "date": "2025-04-12",
   "channels": [
@@ -417,7 +397,7 @@
  },
  {
   "match": "Venezia - Monza",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.70  |  3.65  |  5.00",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.72  |  3.65  |  4.90",
   "time": "15:00",
   "date": "2025-04-12",
   "channels": [
@@ -501,7 +481,7 @@
  },
  {
   "match": "Borussia Mönchengladbach - SC Freiburg",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.60  |  2.95",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.18  |  3.60  |  3.05",
   "time": "15:30",
   "date": "2025-04-12",
   "channels": [
@@ -617,7 +597,7 @@
  },
  {
   "match": "Nottingham Forest - Everton",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.04  |  3.35  |  4.20",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.05  |  3.30  |  4.25",
   "time": "16:00",
   "date": "2025-04-12",
   "channels": [
@@ -961,7 +941,7 @@
  },
  {
   "match": "Inter – Cagliari",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.29  |  5.40  |  9.50",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.29  |  5.50  |  9.50",
   "time": "18:00",
   "date": "2025-04-12",
   "channels": [
@@ -1001,7 +981,7 @@
  },
  {
   "match": "Bayern München - Borussia Dortmund",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.48  |  4.75  |  5.60",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.48  |  4.80  |  5.50",
   "time": "18:30",
   "date": "2025-04-12",
   "channels": [
@@ -1073,7 +1053,7 @@
  },
  {
   "match": "Columbus Blue Jackets - Washington Capitals",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.85  |  4.25  |  2.20",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.65  |  4.35  |  2.30",
   "time": "18:30",
   "date": "2025-04-12",
   "channels": [
@@ -1349,7 +1329,7 @@
  },
  {
   "match": "Carolina Hurricanes - New York Rangers",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.85  |  4.40  |  3.65",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.89  |  4.40  |  3.45",
   "time": "21:00",
   "date": "2025-04-12",
   "channels": [
@@ -1381,7 +1361,7 @@
  },
  {
   "match": "Los Angeles Kings - Colorado Avalanche",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.86  |  4.40  |  3.60",
+  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.84  |  4.50  |  3.65",
   "time": "22:00",
   "date": "2025-04-12",
   "channels": [
