@@ -205,7 +205,7 @@
  },
  {
   "match": "Aberdeen FC - Rangers",
-  "category": "Scottish Premiership\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.15  |  3.80  |  2.04",
+  "category": "Scottish Premiership\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.75  |  2.12",
   "time": "13:00",
   "date": "2025-04-13",
   "channels": [
@@ -469,7 +469,7 @@
  },
  {
   "match": "Chelsea FC - Ipswich Town",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.27  |  6.75  |  10.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.26  |  7.00  |  11.00",
   "time": "15:00",
   "date": "2025-04-13",
   "channels": [
@@ -489,7 +489,7 @@
  },
  {
   "match": "Liverpool FC - West Ham United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.29  |  6.25  |  10.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  6.10  |  10.50",
   "time": "15:00",
   "date": "2025-04-13",
   "channels": [
@@ -509,7 +509,7 @@
  },
  {
   "match": "Wolverhampton Wanderers - Tottenham Hotspur",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.65  |  3.20",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.55  |  3.20",
   "time": "15:00",
   "date": "2025-04-13",
   "channels": [
@@ -965,7 +965,7 @@
  },
  {
   "match": "Real Betis – Villarreal",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.55  |  3.15",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.15  |  3.50  |  3.30",
   "time": "18:30",
   "date": "2025-04-13",
   "channels": [
@@ -1413,62 +1413,6 @@
   "time": "23:00",
   "date": "2025-04-13",
   "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Winnipeg Jets – Edmonton Oilers",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  4.40  |  2.70",
-  "time": "01:00",
-  "date": "2025-04-13",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Calgary Flames – San Jose Sharks",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.60  |  4.90  |  4.75",
-  "time": "02:00",
-  "date": "2025-04-13",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Anaheim Ducks – Colorado Avalanche",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  4.50  |  2.32",
-  "time": "04:00",
-  "date": "2025-04-13",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
