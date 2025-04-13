@@ -1,37 +1,5 @@
 [
  {
-  "match": "Yair Rodriguez - Patricio Freire",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "05:00",
-  "date": "2025-04-13",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Michael Chandler - Paddy Pimblett",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "05:30",
-  "date": "2025-04-13",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Mobil1 12 Hours of Sebring",
   "category": "IMSA Sportscar Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "06:00",
@@ -205,7 +173,7 @@
  },
  {
   "match": "Aberdeen FC - Rangers",
-  "category": "Scottish Premiership\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.75  |  2.12",
+  "category": "Scottish Premiership\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.95  |  3.70  |  2.15",
   "time": "13:00",
   "date": "2025-04-13",
   "channels": [
@@ -333,7 +301,7 @@
  },
  {
   "match": "Osasuna – Girona Cf",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.48  |  3.25  |  3.05",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.48  |  3.20  |  3.10",
   "time": "14:00",
   "date": "2025-04-13",
   "channels": [
@@ -721,7 +689,7 @@
  },
  {
   "match": "CD Alaves – Real Madrid",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.60  |  4.20  |  1.60",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.40  |  4.10  |  1.63",
   "time": "16:15",
   "date": "2025-04-13",
   "channels": [
