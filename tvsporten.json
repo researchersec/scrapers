@@ -93,7 +93,7 @@
  },
  {
   "match": "Atalanta – Bologna FC",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.10  |  3.30  |  3.55",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.12  |  3.25  |  3.45",
   "time": "12:30",
   "date": "2025-04-13",
   "channels": [
@@ -253,7 +253,7 @@
  },
  {
   "match": "Osasuna – Girona Cf",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.48  |  3.20  |  3.10",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  3.15  |  3.05",
   "time": "14:00",
   "date": "2025-04-13",
   "channels": [
@@ -409,7 +409,7 @@
  },
  {
   "match": "Liverpool FC - West Ham United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  6.10  |  10.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  6.00  |  10.50",
   "time": "15:00",
   "date": "2025-04-13",
   "channels": [
@@ -429,7 +429,7 @@
  },
  {
   "match": "Wolverhampton Wanderers - Tottenham Hotspur",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.55  |  3.20",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.35  |  3.45  |  3.15",
   "time": "15:00",
   "date": "2025-04-13",
   "channels": [
@@ -509,7 +509,7 @@
  },
  {
   "match": "Hellas Verona – Genoa",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.15  |  2.75  |  2.63",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  2.75  |  2.75",
   "time": "15:00",
   "date": "2025-04-13",
   "channels": [
@@ -641,7 +641,7 @@
  },
  {
   "match": "CD Alaves – Real Madrid",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.50  |  4.10  |  1.62",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.20  |  4.10  |  1.65",
   "time": "16:15",
   "date": "2025-04-13",
   "channels": [
@@ -657,7 +657,7 @@
  },
  {
   "match": "Willem II – Ajax",
-  "category": "Eredivisie\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 8.50  |  5.20  |  1.33",
+  "category": "Eredivisie\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 8.00  |  5.25  |  1.33",
   "time": "16:45",
   "date": "2025-04-13",
   "channels": [
@@ -761,7 +761,7 @@
  },
  {
   "match": "Newcastle United - Manchester United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.70  |  4.20  |  5.10",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.68  |  4.10  |  5.25",
   "time": "17:30",
   "date": "2025-04-13",
   "channels": [
@@ -876,6 +876,30 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rasmus Højgaard i The Masters",
+  "category": "The Masters\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:30",
+  "date": "2025-04-13",
+  "channels": [
+   {
+    "name": "TV3 Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
+   },
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
@@ -1129,7 +1153,7 @@
  },
  {
   "match": "Athletic Bilbao – Rayo Vallecano",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.82  |  3.35  |  5.10",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.92  |  3.25  |  4.70",
   "time": "21:00",
   "date": "2025-04-13",
   "channels": [
