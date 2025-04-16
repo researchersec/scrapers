@@ -1,117 +1,5 @@
 [
  {
-  "match": "Barcelona Open Banc Sabadell",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:15",
-  "date": "2025-04-16",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "SønderjyskE Kvinder - Team Esbjerg",
-  "category": "Kvindeligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:30",
-  "date": "2025-04-16",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Hvidovre IF – FC Fredericia",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.65  |  3.40  |  2.45",
-  "time": "18:30",
-  "date": "2025-04-16",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Hobro IK – Vendsyssel FF",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.93  |  3.45  |  3.50",
-  "time": "18:30",
-  "date": "2025-04-16",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "THW Kiel – Füchse Berlin",
-  "category": "Bundesliga Håndbold\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-04-16",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Silkeborg IF – AaB",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-04-16",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "København Håndbold - NFH",
   "category": "Kvindeligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:30",
@@ -133,7 +21,7 @@
  },
  {
   "match": "Real Madrid – Arsenal FC",
-  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.84  |  4.10  |  4.30",
+  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.82  |  4.00  |  4.35",
   "time": "21:00",
   "date": "2025-04-16",
   "channels": [
@@ -153,7 +41,7 @@
  },
  {
   "match": "Inter – FC Bayern München",
-  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  3.80  |  2.55",
+  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  3.85  |  2.50",
   "time": "21:00",
   "date": "2025-04-16",
   "channels": [
