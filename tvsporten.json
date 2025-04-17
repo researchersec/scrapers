@@ -1,21 +1,5 @@
 [
  {
-  "match": "Open de Rouen",
-  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:30",
-  "date": "2025-04-17",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Stuttgart Open",
   "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "12:30",
@@ -357,7 +341,7 @@
  },
  {
   "match": "SS Lazio – Bodø/Glimt",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.30  |  8.00",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.25  |  8.00",
   "time": "21:00",
   "date": "2025-04-17",
   "channels": [
@@ -373,7 +357,7 @@
  },
  {
   "match": "Sk Rapid Wien – Djurgårdens IF",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.68  |  3.75  |  4.90",
+  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.70  |  3.70  |  5.00",
   "time": "21:00",
   "date": "2025-04-17",
   "channels": [
@@ -405,7 +389,7 @@
  },
  {
   "match": "Manchester United – Lyon",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.75  |  4.00  |  4.75",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.72  |  4.00  |  4.90",
   "time": "21:00",
   "date": "2025-04-17",
   "channels": [
@@ -437,7 +421,7 @@
  },
  {
   "match": "Athletic Bilbao – Rangers",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.35  |  5.40  |  9.00",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2:2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.36  |  5.40  |  9.00",
   "time": "21:00",
   "date": "2025-04-17",
   "channels": [
