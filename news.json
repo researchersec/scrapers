@@ -180,6 +180,14 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2025%2F04%2F04%2F1743778981_nannaogsabrina.jpg&w=1200"
  },
  {
+  "title": "Lang kø ved Limfjordstunnelen efter uheld",
+  "description": "<p>Der har tirsdag morgen været et uheld i nordgående retning på motorvej E45 fra Aalborg mod Nørresundby i Limfjordstunnelen.</p><p>Det meddeler Vejdirektoratet på <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\" target=\"_blank\">trafikinfo. </a></p> <p>De skriver klokken 07.31, at der kun er et spor farbart.</p><p>Bilister kan forvente at sidde i kø i 10-30 minutter.</p><p>Opdateres...</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/lang-ko-ved-limfjordstunnelen-efter-uheld",
+  "published": "Tue, 22 Apr 25 07:31:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/lang-ko-ved-limfjordstunnelen-efter-uheld",
+  "category": "No category"
+ },
+ {
   "title": "Grå og tåget tirsdag",
   "description": "<p>Der er tåget fra morgenstunden flere steder i det nordjyske. Et lavtryk passerer regionen, og det betyder, at det bliver en skyet dag. Der kan ifølge Lone Seir, der er meteorolog på TV 2, også komme til at regne enkelte steder.</p><p>Temperaturen ventes at komme til at ligge på mellem 10 og 12 grader.  Se hele vejrudsigten herunder:</p> <p>Du kan også spørge vejrrobotten Solvej Vindblæs:</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/gra-og-taget-tirsdag",
@@ -252,12 +260,12 @@
   "category": "No category"
  },
  {
-  "title": "Nordjysk borgmester genopstiller ikke",
-  "description": "<p>Den nuværende borgmester på Læsø, Tobias Birch Johansen (V), genopstiller ikke ved dette års kommunalvalg. Det skriver han i et opslag på sin <a href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02GopbNQEzHfznLGQi9ENfAu3R85ngn5kCjfgxSAKWvSSGo1WwYk3tSr5ETzwg5ynNl&amp;id=100076314214731\">Facebook</a>. </p><p>&#039;Men alting har en ende, og det har min tid i politik også, derfor afleverer jeg et stærkt Læsø til et nyt hold efter valget i november,&#039; skriver han i opslaget.</p><p>Til nytår er det ifølge borgmesterren selv 12 år siden, at han blev valgt ind i kommunalbestyrelsen, mens han desuden har været borgmester i de otte af årene. </p><p>&#039;Det har været spændende, og jeg har ikke fortrudt et sekund af det, men jeg har ikke mere tilbage til &#039;alle&#039;, jeg har kun noget tilbage til &#039;nogen&#039;, tilføjer han.</p><p>&#039;Men der er jo stadig 8 måneder tilbage med fuld damp på inden jeg stempler ud,&#039; afslutter han opslaget. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/laesoe/nordjysk-borgmester-genopstiller-ikke",
-  "published": "Mon, 21 Apr 25 13:25:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/laesoe/nordjysk-borgmester-genopstiller-ikke",
-  "category": "No category"
+  "title": "Totalt spærret: Uheld i Limfjordstunnelen udløser lang kø",
+  "description": "Sker samme dag, hvor man også har spærret den første afkørsel efter tunnelen af helt andre årsager",
+  "link": "https://nordjyske.dk/nyheder/aalborg/total-spaerret-uheld-i-limfjordstunnelen-udloeser-lang-koe/5507322?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 22 Apr 2025 05:52:18 Z",
+  "guid": "a7301186-889d-4230-a511-449a6ab4b744",
+  "category": "Trafik"
  },
  {
   "title": "Nanna Glad er direktør i Nordjyllands største virksomhed: - Jeg er ikke kendt for at have bløde albuer",
@@ -268,20 +276,20 @@
   "category": "Erhverv"
  },
  {
-  "title": "I aftes: Kutter er sunket til bunds",
-  "description": "To fiskere ombord reddet af kolleger",
-  "link": "https://nordjyske.dk/nyheder/thisted/i-aftes-kutter-er-sunket-til-bunds/5507295?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 22 Apr 2025 04:48:14 Z",
-  "guid": "9fcc6281-05b1-4112-9868-662487643bbf",
-  "category": "Alarmcentralen"
- },
- {
   "title": "Den ene har fået humøret tilbage - den anden stirrer ind i en længere pause",
   "description": "Cheftræner Simon Dahl har rettet sigtekornet mod Mathias Gidsel, men alle profilerne er ikke med i flyet til Berlin",
   "link": "https://nordjyske.dk/nyheder/sport/en-daarlig-og-en-lovende-nyhed-for-aalborg-haandbold/5507093?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Tue, 22 Apr 2025 04:27:07 Z",
   "guid": "4189eb00-a9c9-4865-be48-d7b16ec796ed",
   "category": "Håndbold"
+ },
+ {
+  "title": "Kutter sank sent mandag aften: To fiskere ombord reddet",
+  "description": "To fiskere ombord reddet af kolleger",
+  "link": "https://nordjyske.dk/nyheder/thisted/i-aftes-kutter-er-sunket-til-bunds/5507295?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 22 Apr 2025 04:48:14 Z",
+  "guid": "9fcc6281-05b1-4112-9868-662487643bbf",
+  "category": "Alarmcentralen"
  },
  {
   "title": "Fra international succes til afvikling: Virksomhed lukker ned",
@@ -300,20 +308,28 @@
   "category": "Sundhed"
  },
  {
-  "title": "Politisk profil: - Jeg kan ikke holde ud at eje noget",
-  "description": "Imod alle odds er Runa Friis fra Skagen ved at skabe sig en politisk karriere",
-  "link": "https://nordjyske.dk/nyheder/broenderslev/politisk-profil-jeg-kan-ikke-holde-ud-at-eje-noget/5447748?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 09 Mar 2025 17:23:19 Z",
-  "guid": "6a383698-ce2e-4a8b-ac51-489583b190e6",
-  "category": "Politik"
- },
- {
   "title": "Kommentar: Der skal ske noget drastisk, ellers rykker AaB senest ned om et år",
   "description": "Fyringen af Menno van Dam giver anledning til nogle helt andre spørgsmålstegn, der skal besvares i de kommende 12-13 måneder",
   "link": "https://nordjyske.dk/nyheder/sport/kommentar-der-skal-ske-noget-drastisk-ellers-rykker-aab-senest-ned-om-et-aar/5506869?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 21 Apr 2025 06:25:18 Z",
   "guid": "55895bb0-e6a4-4e73-b198-d49c384ed092",
   "category": "AaB"
+ },
+ {
+  "title": "E45-afkørsel: Lukker ned i en måned lige efter påske",
+  "description": "Afkørsel tæt på Limfjordstunnelen spærres i en længere periode",
+  "link": "https://nordjyske.dk/nyheder/aalborg/flittigt-brugt-motorvejs-afkoersel-spaerres-i-en-hel-maaned/5500779?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 15 Apr 2025 07:57:29 Z",
+  "guid": "60f09a5a-b654-4056-b240-993c7b92a21f",
+  "category": "Trafik"
+ },
+ {
+  "title": "Politisk profil: - Jeg kan ikke holde ud at eje noget",
+  "description": "Imod alle odds er Runa Friis fra Skagen ved at skabe sig en politisk karriere",
+  "link": "https://nordjyske.dk/nyheder/broenderslev/politisk-profil-jeg-kan-ikke-holde-ud-at-eje-noget/5447748?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 09 Mar 2025 17:23:19 Z",
+  "guid": "6a383698-ce2e-4a8b-ac51-489583b190e6",
+  "category": "Politik"
  },
  {
   "title": "AaB-kaptajn: Ny træner skal have en klar retning",
@@ -402,21 +418,5 @@
   "published": "Mon, 21 Apr 2025 17:32:30 Z",
   "guid": "166f76b1-e17b-4cb6-b226-76d2a5cf41e2",
   "category": "Debat"
- },
- {
-  "title": "Jesper har forsket i motion i 30 år og har nogle enkle råd til os alle",
-  "description": "Der er mange motionsformer, der på skift udråbes til at være nærmest den eneste vej til en bedre form. Men det er faktisk ikke så svært.",
-  "link": "https://nordjyske.dk/nyheder/fritid-og-livsstil/jesper-har-forsket-i-motion-i-30-aar-og-har-nogle-enkle-raad-til-os-alle/5408395?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 30 Mar 2025 10:48:47 Z",
-  "guid": "879855a3-fbfb-49ac-ba04-da6fa8c593ae",
-  "category": "Sundhed"
- },
- {
-  "title": "I førerhuset på mejetærskeren traf Niels Jørgen en afgørende beslutning - senere blev han nødt til at omgøre den",
-  "description": "Det var egentlig ikke planen, at Niels Jørgen Pedersen (V) skulle genopstille til borgmesterposten",
-  "link": "https://nordjyske.dk/nyheder/politik/i-foererhuset-paa-mejetaerskeren-traf-niels-joergen-en-afgoerende-beslutning-senere-blev-han-noedt-til-at-omgoere-den/5498922?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 20 Apr 2025 14:38:20 Z",
-  "guid": "a1218476-e5b8-4d46-b2a7-6f7a3078d952",
-  "category": "Politik"
  }
 ]
