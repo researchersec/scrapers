@@ -440,54 +440,6 @@
   ]
  },
  {
-  "match": "Boston Celtics – Orlando Magic",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 2)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "01:00",
-  "date": "2025-04-23",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Washington Capitals – Montreal Canadiens",
-  "category": "NHL \n\t\t\t\t\t\t\t\t\t(Game 2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.86  |  4.25  |  3.70",
-  "time": "01:00",
-  "date": "2025-04-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Cleveland Cavaliers - Miami Heat",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 2)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "01:30",
-  "date": "2025-04-23",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Houston Rockets – Golden State Warriors",
   "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 2)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "03:30",
