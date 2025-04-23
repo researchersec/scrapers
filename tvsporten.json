@@ -421,7 +421,7 @@
  },
  {
   "match": "CF Getafe – Real Madrid",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.90  |  3.70  |  1.77",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.00  |  3.70  |  1.75",
   "time": "21:30",
   "date": "2025-04-23",
   "channels": [
@@ -432,62 +432,6 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Houston Rockets – Golden State Warriors",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 2)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:30",
-  "date": "2025-04-23",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Colorado Avalanche – Dallas Stars",
-  "category": "NHL \n\t\t\t\t\t\t\t\t\t(Game 3)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.97  |  4.40  |  3.25",
-  "time": "03:30",
-  "date": "2025-04-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Los Angeles Kings – Edmonton Oilers",
-  "category": "NHL \n\t\t\t\t\t\t\t\t\t(Game 2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.18  |  4.40  |  2.80",
-  "time": "04:00",
-  "date": "2025-04-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
