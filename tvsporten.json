@@ -1,79 +1,7 @@
 [
  {
-  "match": "World Snooker Championship",
-  "category": "World Snooker Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:30",
-  "date": "2025-05-01",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Viborg FF – FC København",
-  "category": "DBU Pokalen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:30",
-  "date": "2025-05-01",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "L. Musetti - G. Diallo",
-  "category": "ATP \n\t\t\t\t\t\t\t\t\t(Madrid Open)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-05-01",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Madrid Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-05-01",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Nottingham Forest – Brentford FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.32  |  3.60  |  3.20",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.60  |  3.25",
   "time": "20:30",
   "date": "2025-05-01",
   "channels": [
@@ -113,7 +41,7 @@
  },
  {
   "match": "Real Betis – Fiorentina",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.76  |  3.45  |  4.80",
+  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.76  |  3.45  |  4.90",
   "time": "21:00",
   "date": "2025-05-01",
   "channels": [
@@ -129,7 +57,7 @@
  },
  {
   "match": "Athletic Bilbao – Manchester United",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.10  |  3.80",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.30  |  3.15  |  3.65",
   "time": "21:00",
   "date": "2025-05-01",
   "channels": [
@@ -145,7 +73,7 @@
  },
  {
   "match": "Djurgårdens IF – Chelsea FC",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 9.50  |  5.40  |  1.29",
+  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 8.50  |  5.10  |  1.34",
   "time": "21:00",
   "date": "2025-05-01",
   "channels": [
@@ -161,7 +89,7 @@
  },
  {
   "match": "Tottenham Hotspur – Bodø/Glimt",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  6.40  |  10.00",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.28  |  6.50  |  10.00",
   "time": "21:00",
   "date": "2025-05-01",
   "channels": [
