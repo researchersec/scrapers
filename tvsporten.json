@@ -249,7 +249,7 @@
  },
  {
   "match": "Coventry City – Middlesbrough FC",
-  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.14  |  3.75  |  3.05",
+  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.14  |  3.80  |  3.05",
   "time": "13:30",
   "date": "2025-05-03",
   "channels": [
@@ -301,7 +301,7 @@
  },
  {
   "match": "Aston Villa – Fulham FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.83  |  3.80  |  4.60",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.81  |  3.85  |  4.70",
   "time": "13:30",
   "date": "2025-05-03",
   "channels": [
@@ -317,7 +317,7 @@
  },
  {
   "match": "CD Alaves – Atletico Madrid",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.95  |  3.15  |  2.10",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.00  |  3.15  |  2.10",
   "time": "14:00",
   "date": "2025-05-03",
   "channels": [
@@ -513,7 +513,7 @@
  },
  {
   "match": "Borussia Mönchengladbach – 1899 Hoffenheim",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  3.85  |  3.15",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.05  |  3.85  |  3.05",
   "time": "15:30",
   "date": "2025-05-03",
   "channels": [
@@ -529,7 +529,7 @@
  },
  {
   "match": "1. FC Union Berlin – Werder Bremen",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.63  |  3.50  |  2.50",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.63  |  3.55  |  2.50",
   "time": "15:30",
   "date": "2025-05-03",
   "channels": [
@@ -581,7 +581,7 @@
  },
  {
   "match": "Leicester City – Southampton FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.60  |  3.05",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.50  |  3.60  |  2.88",
   "time": "16:00",
   "date": "2025-05-03",
   "channels": [
@@ -853,7 +853,7 @@
  },
  {
   "match": "Arsenal FC – AFC Bournemouth",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.16  |  3.60  |  3.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.17  |  3.50  |  3.50",
   "time": "18:30",
   "date": "2025-05-03",
   "channels": [
@@ -917,7 +917,7 @@
  },
  {
   "match": "Union Deportiva Las Palmas – Valencia",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.63  |  3.40  |  2.70",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.63  |  3.35  |  2.75",
   "time": "18:30",
   "date": "2025-05-03",
   "channels": [
@@ -1156,26 +1156,6 @@
    {
     "name": "Eurosport 1",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Black Dessert Championship",
-  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "00:00",
-  "date": "2025-05-03",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
