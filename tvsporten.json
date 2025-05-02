@@ -1,37 +1,5 @@
 [
  {
-  "match": "Children's of Alabama Indy Grand Prix",
-  "category": "Indycar \n\t\t\t\t\t\t\t\t\t(1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "21:30",
-  "date": "2025-05-02",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "The CJ Cup",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "22:00",
-  "date": "2025-05-02",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Miami Grand Prix",
   "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "22:30",
