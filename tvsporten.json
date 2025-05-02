@@ -297,7 +297,7 @@
  },
  {
   "match": "B 93 København – Vendsyssel FF",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.55  |  2.12",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.80  |  3.55  |  2.23",
   "time": "19:00",
   "date": "2025-05-02",
   "channels": [
@@ -465,7 +465,7 @@
  },
  {
   "match": "1. FC Heidenheim – VfL Bochum",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.40  |  3.05",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.30  |  3.40  |  2.95",
   "time": "20:30",
   "date": "2025-05-02",
   "channels": [
@@ -532,8 +532,24 @@
   ]
  },
  {
+  "match": "Barcelona Lassa – Monaco Basket",
+  "category": "Euroleague\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:45",
+  "date": "2025-05-02",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Manchester City – Wolverhampton Wanderers",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  5.50  |  8.00",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.40  |  8.00",
   "time": "21:00",
   "date": "2025-05-02",
   "channels": [
@@ -648,38 +664,6 @@
    {
     "name": "Eurosport 1",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "St. Louis Blues – Winnipeg Jets",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.43  |  4.35  |  2.50",
-  "time": "02:00",
-  "date": "2025-05-02",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "SpeedyCash.com 250",
-  "category": "NASCAR Craftsman Truck Series\n\t\t\t\t\t\t\t\t\t(Fort Worth, Texas - 167 laps / 250.5 miles)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "02:00",
-  "date": "2025-05-02",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
