@@ -233,22 +233,6 @@
  },
  {
   "category": "industri",
-  "pub_date": "29-04-2025",
-  "title": "O&M Electrician",
-  "company": "Unity Power A/S",
-  "location": "Vandel",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1560067/o-m-electrician"
- },
- {
-  "category": "industri",
-  "pub_date": "29-04-2025",
-  "title": "Lagermedarbejder",
-  "company": "Uniformpartner DK A/S",
-  "location": "Pandrup",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1560445/lagermedarbejder"
- },
- {
-  "category": "industri",
   "pub_date": "02-05-2025",
   "title": "Kunderådgiver til en salgsafdeling med lidt mere af det hele",
   "company": "Outrup Vinduer & Døre A/S",
@@ -262,6 +246,14 @@
   "company": "AV CENTER Aalborg ApS",
   "location": "Nørresundby",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1561412/vi-soeger-dygtig-kollega-til-installationsteamet-i-aalborg"
+ },
+ {
+  "category": "industri",
+  "pub_date": "02-05-2025",
+  "title": "Kontraktansvarlig for træbeskæring og vicevært for Jylland og Fyn",
+  "company": "Energinet",
+  "location": "Fredericia, Vodskov eller Tjele og mulighed for hjemmearbejde",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=316&ProjectId=187894&DepartmentId=9824&MediaId=5"
  },
  {
   "category": "industri",
@@ -313,19 +305,19 @@
  },
  {
   "category": "handel",
-  "pub_date": "30-04-2025",
-  "title": "Opvasker",
-  "company": "Landal GreenParks ApS",
-  "location": "Ranum",
-  "job_URL": "https://jobs.landal.com/da/vacancy/opvasker-e1154463"
- },
- {
-  "category": "handel",
   "pub_date": "02-05-2025",
   "title": "Kantineleder",
   "company": "Danpo A/S",
   "location": "Aars",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1561319/kantineleder"
+ },
+ {
+  "category": "handel",
+  "pub_date": "02-05-2025",
+  "title": "Kontraktansvarlig for træbeskæring og vicevært for Jylland og Fyn",
+  "company": "Energinet",
+  "location": "Fredericia, Vodskov eller Tjele og mulighed for hjemmearbejde",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=316&ProjectId=187894&DepartmentId=9824&MediaId=5"
  },
  {
   "category": "handel",
@@ -752,6 +744,14 @@
   "job_URL": "https://bronderslev-v2.career.emply.com/ad/botilbud-nordstjernen-soger-faste-medarbejdere/mwooag/da"
  },
  {
+  "category": "social",
+  "pub_date": "02-05-2025",
+  "title": "Vi søger en social- og sundhedsassistent som gerne vil gøre en forskel på vores bosted",
+  "company": "Altiden",
+  "location": "Tylstrup",
+  "job_URL": "https://jobs.altiden.dk/jobs/5884435-vi-soeger-en-social-og-sundhedsassistent-som-gerne-vil-goere-en-forskel-paa-vores-bosted?promotion=1453190-jobindex"
+ },
+ {
   "category": "ingenioer",
   "pub_date": "30-04-2025",
   "title": "Project Manager Ship Propulsion Systems",
@@ -830,14 +830,6 @@
   "company": "A-Consult Agro A/S",
   "location": "Aalborg SØ",
   "job_URL": "https://www.jobindex.dk/jobannonce/h1551991/kalkulations-og-tilbudsleder-soeges"
- },
- {
-  "category": "ingenioer",
-  "pub_date": "29-04-2025",
-  "title": "Senior Business Development Manager – Digital Supply Chain Solutions",
-  "company": "Roima Denmark Holding",
-  "location": "Holte, Aarhus or Aalborg with the possibility to work from home",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1560259/senior-business-development-manager-digital-supply-chain-solutions"
  },
  {
   "category": "ingenioer",
@@ -921,22 +913,6 @@
  },
  {
   "category": "salg",
-  "pub_date": "30-04-2025",
-  "title": "Salgskonsulent",
-  "company": "Danish Agro Machinery Holding A/S",
-  "location": "Nykøbing M",
-  "job_URL": "https://danishagro.dk/karriere/job-detalje?jobId=145153"
- },
- {
-  "category": "salg",
-  "pub_date": "30-04-2025",
-  "title": "Lysdesigner og Belysningsmester",
-  "company": "Teater Nordkraft",
-  "location": "Aalborg",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1559277/lysdesigner-og-belysningsmester"
- },
- {
-  "category": "salg",
   "pub_date": "02-05-2025",
   "title": "Kunderådgiver til en salgsafdeling med lidt mere af det hele",
   "company": "Outrup Vinduer & Døre A/S",
@@ -958,6 +934,14 @@
   "company": "Storm Group",
   "location": "Herning, Aalborg, Aarhus, Viborg, Kolding, Esbjerg, Odense, Roskilde, Næstved, Hillerød, Holbæk eller København",
   "job_URL": "https://www.stormgroup.net/jobs/sales-consultant"
+ },
+ {
+  "category": "salg",
+  "pub_date": "02-05-2025",
+  "title": "Customer Experience Manager - Skab fremtidens bedste erhvervskundeoplevelser",
+  "company": "Norlys",
+  "location": "Aalborg, Tranbjerg J eller København S",
+  "job_URL": "https://www.job-karriere.dk/Norlys/job/Tranbjerg-Customer-Experience-Manager-Skab-fremtidens-bedste-erhvervskundeoplevelser-8310/1199149401/"
  },
  {
   "category": "salg",
@@ -1049,30 +1033,6 @@
  },
  {
   "category": "kontor",
-  "pub_date": "30-04-2025",
-  "title": "Erhvervsrådgiver til Erhverv Brønderslev",
-  "company": "Sparekassen Danmark",
-  "location": "Brønderslev",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1560682/erhvervsraadgiver-til-erhverv-broenderslev"
- },
- {
-  "category": "kontor",
-  "pub_date": "30-04-2025",
-  "title": "Risikoanalytiker",
-  "company": "Sparekassen Danmark",
-  "location": "Vrå og mulighed for hjemmearbejde",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1560680/risikoanalytiker"
- },
- {
-  "category": "kontor",
-  "pub_date": "30-04-2025",
-  "title": "ESG-konsulent til Aars",
-  "company": "Sparekassen Danmark",
-  "location": "Aars",
-  "job_URL": "https://www.jobindex.dk/jobannonce/h1560671/esg-konsulent-til-aars"
- },
- {
-  "category": "kontor",
   "pub_date": "02-05-2025",
   "title": "Økonomielev",
   "company": "Nordværk I/S",
@@ -1098,10 +1058,26 @@
  {
   "category": "kontor",
   "pub_date": "02-05-2025",
+  "title": "Kontraktansvarlig for træbeskæring og vicevært for Jylland og Fyn",
+  "company": "Energinet",
+  "location": "Fredericia, Vodskov eller Tjele og mulighed for hjemmearbejde",
+  "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=316&ProjectId=187894&DepartmentId=9824&MediaId=5"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "02-05-2025",
   "title": "Bliv Consultant i vores graduateforløb",
   "company": "Keepers",
   "location": "København K eller Aalborg",
   "job_URL": "https://keepers.dk/job/?hr=show-job%2F228977%26locale%3Dda_DK"
+ },
+ {
+  "category": "kontor",
+  "pub_date": "02-05-2025",
+  "title": "Become our new Procurement SOP Specialist at Aalborg Portland Nordic & Baltic",
+  "company": "Aalborg Portland",
+  "location": "Aalborg Øst",
+  "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3498689/130145/jobindex&iso=dk/"
  },
  {
   "category": "kontor",
