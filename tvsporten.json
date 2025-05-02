@@ -1,21 +1,5 @@
 [
  {
-  "match": "World Snooker Championship",
-  "category": "World Snooker Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:15",
-  "date": "2025-05-02",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Romandiet Rundt",
   "category": "UCI World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:30",
@@ -449,7 +433,7 @@
  },
  {
   "match": "Manchester City – Wolverhampton Wanderers",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.42  |  5.25  |  7.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.42  |  5.00  |  8.00",
   "time": "21:00",
   "date": "2025-05-02",
   "channels": [
