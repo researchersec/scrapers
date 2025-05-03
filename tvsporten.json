@@ -1,21 +1,5 @@
 [
  {
-  "match": "Miami Grand Prix",
-  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "22:00",
-  "date": "2025-05-03",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Miami",
   "category": "Grand Slam Track\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "23:30",
