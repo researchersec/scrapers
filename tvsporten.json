@@ -1,53 +1,5 @@
 [
  {
-  "match": "Miami Grand Prix",
-  "category": "F1 Academy\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-05-03",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Racing Strasbourg – Paris Saint Germain",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.43  |  3.90  |  2.60",
-  "time": "17:00",
-  "date": "2025-05-03",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Misano",
-  "category": "Formula 4 Italian Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:15",
-  "date": "2025-05-03",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Children's of Alabama Indy Grand Prix",
   "category": "Indycar \n\t\t\t\t\t\t\t\t\t(2)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
@@ -101,7 +53,7 @@
  },
  {
   "match": "Lecce – Napoli",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.50  |  4.00  |  1.52",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.75  |  4.10  |  1.49",
   "time": "18:00",
   "date": "2025-05-03",
   "channels": [
@@ -157,7 +109,7 @@
  },
  {
   "match": "Arsenal FC – AFC Bournemouth",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.90  |  3.85  |  4.20",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.77  |  4.00  |  4.75",
   "time": "18:30",
   "date": "2025-05-03",
   "channels": [
@@ -181,7 +133,7 @@
  },
  {
   "match": "Borussia Dortmund – VfL Wolfsburg",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.27  |  6.25  |  8.50",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.26  |  6.40  |  9.00",
   "time": "18:30",
   "date": "2025-05-03",
   "channels": [
@@ -221,7 +173,7 @@
  },
  {
   "match": "Union Deportiva Las Palmas – Valencia",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  3.20  |  2.85",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.65  |  3.20  |  2.85",
   "time": "18:30",
   "date": "2025-05-03",
   "channels": [
@@ -361,7 +313,7 @@
  },
  {
   "match": "Inter – Hellas Verona",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.34  |  4.90  |  9.00",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.34  |  4.90  |  8.50",
   "time": "20:45",
   "date": "2025-05-03",
   "channels": [
@@ -381,7 +333,7 @@
  },
  {
   "match": "Real Valladolid – FC Barcelona",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 11.50  |  7.50  |  1.22",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 12.00  |  7.50  |  1.21",
   "time": "21:00",
   "date": "2025-05-03",
   "channels": [
