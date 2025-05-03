@@ -341,7 +341,7 @@
  },
  {
   "match": "Real Madrid – Celta de Vigo",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.37  |  5.50  |  7.50",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  5.40  |  7.50",
   "time": "14:00",
   "date": "2025-05-04",
   "channels": [
@@ -645,7 +645,7 @@
  },
  {
   "match": "Lyon – RC Lens",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.53  |  4.60  |  5.40",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.52  |  4.70  |  5.60",
   "time": "17:15",
   "date": "2025-05-04",
   "channels": [
@@ -717,7 +717,7 @@
  },
  {
   "match": "SC Freiburg – Bayer Leverkusen",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.05  |  3.60  |  2.18",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.15  |  3.50  |  2.16",
   "time": "17:30",
   "date": "2025-05-04",
   "channels": [
@@ -769,7 +769,7 @@
  },
  {
   "match": "AS Roma – Fiorentina",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.60  |  3.85  |  5.60",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.60  |  3.75  |  5.60",
   "time": "18:00",
   "date": "2025-05-04",
   "channels": [
@@ -1017,7 +1017,7 @@
  },
  {
   "match": "Real Sociedad – Athletic Bilbao",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.05  |  3.30",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.10  |  3.30",
   "time": "21:00",
   "date": "2025-05-04",
   "channels": [
@@ -1088,50 +1088,6 @@
    {
     "name": "Viasat Ultra HD",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasat_ultra_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Cleveland Cavaliers – Indiana Pacers",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "00:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Black Desert Championship",
-  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "00:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
