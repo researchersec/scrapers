@@ -1,21 +1,5 @@
 [
  {
-  "match": "Cory Sandhagen - Deiveson Figueiredo",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "06:30",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "BWF Sudirman Cup",
   "category": "Sudirman Cup\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "08:00",
@@ -89,7 +73,7 @@
  },
  {
   "match": "Empoli FC – SS Lazio",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.40  |  3.70  |  1.76",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.35  |  3.65  |  1.79",
   "time": "12:30",
   "date": "2025-05-04",
   "channels": [
@@ -105,7 +89,7 @@
  },
  {
   "match": "Rangers – Celtic FC",
-  "category": "Scottish Premiership\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.45  |  3.75  |  1.92",
+  "category": "Scottish Premiership\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.15  |  3.65  |  2.04",
   "time": "13:00",
   "date": "2025-05-04",
   "channels": [
@@ -245,7 +229,7 @@
  },
  {
   "match": "Real Madrid – Celta de Vigo",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  5.50  |  7.50",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  5.60  |  7.50",
   "time": "14:00",
   "date": "2025-05-04",
   "channels": [
@@ -297,7 +281,7 @@
  },
  {
   "match": "West Ham United – Tottenham Hotspur",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.10  |  3.75  |  3.40",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  3.75  |  3.60",
   "time": "15:00",
   "date": "2025-05-04",
   "channels": [
@@ -316,8 +300,24 @@
   ]
  },
  {
+  "match": "Blomberg-Lippe - Dijon W",
+  "category": "Women's EHF European League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:00",
+  "date": "2025-05-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Brighton & Hove Albion – Newcastle United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.80  |  2.30",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.95  |  3.80  |  2.33",
   "time": "15:00",
   "date": "2025-05-04",
   "channels": [
@@ -401,7 +401,7 @@
  },
  {
   "match": "Nantes – SCO Angers",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.93  |  3.30  |  4.25",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.94  |  3.30  |  4.20",
   "time": "15:00",
   "date": "2025-05-04",
   "channels": [
@@ -533,7 +533,7 @@
  },
  {
   "match": "Sevilla – Leganes Cd",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.80  |  3.40  |  5.25",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.73  |  3.50  |  5.60",
   "time": "16:15",
   "date": "2025-05-04",
   "channels": [
@@ -597,7 +597,7 @@
  },
  {
   "match": "Chelsea FC – Liverpool FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.45  |  3.45",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.45  |  3.45",
   "time": "17:30",
   "date": "2025-05-04",
   "channels": [
@@ -659,6 +659,22 @@
   "match": "Grand Prix of Alabama",
   "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
+  "date": "2025-05-04",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Ikast Handbold W - Thuringer",
+  "category": "Women's EHF European League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
   "date": "2025-05-04",
   "channels": [
    {
@@ -801,7 +817,7 @@
  },
  {
   "match": "FSV Mainz 05 – Eintracht Frankfurt",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.60  |  2.75",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.30  |  3.55  |  2.85",
   "time": "19:30",
   "date": "2025-05-04",
   "channels": [
@@ -889,7 +905,7 @@
  },
  {
   "match": "Bologna FC – Juventus",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.40  |  3.00  |  3.15",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.17  |  3.10  |  3.55",
   "time": "20:45",
   "date": "2025-05-04",
   "channels": [
@@ -905,7 +921,7 @@
  },
  {
   "match": "Lille – Olympique Marseille",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.50  |  3.05",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.55  |  3.05",
   "time": "20:45",
   "date": "2025-05-04",
   "channels": [
