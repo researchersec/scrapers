@@ -185,7 +185,7 @@
  },
  {
   "match": "Empoli FC – SS Lazio",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.35  |  3.65  |  1.79",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.40  |  3.70  |  1.77",
   "time": "12:30",
   "date": "2025-05-04",
   "channels": [
@@ -341,7 +341,7 @@
  },
  {
   "match": "Real Madrid – Celta de Vigo",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  5.40  |  7.50",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.40  |  7.00",
   "time": "14:00",
   "date": "2025-05-04",
   "channels": [
@@ -373,7 +373,7 @@
  },
  {
   "match": "Brentford FC – Manchester United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.72  |  4.25  |  4.75",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.75  |  4.20  |  4.60",
   "time": "15:00",
   "date": "2025-05-04",
   "channels": [
@@ -393,7 +393,7 @@
  },
  {
   "match": "West Ham United – Tottenham Hotspur",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.08  |  3.80  |  3.45",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.08  |  3.75  |  3.45",
   "time": "15:00",
   "date": "2025-05-04",
   "channels": [
@@ -677,7 +677,7 @@
  },
  {
   "match": "Auxerre – Ac Le Havre",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.08  |  3.50  |  3.50",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.12  |  3.50  |  3.40",
   "time": "17:15",
   "date": "2025-05-04",
   "channels": [
@@ -693,7 +693,7 @@
  },
  {
   "match": "Chelsea FC – Liverpool FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.50  |  3.30",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.30  |  3.40  |  3.30",
   "time": "17:30",
   "date": "2025-05-04",
   "channels": [
@@ -769,7 +769,7 @@
  },
  {
   "match": "AS Roma – Fiorentina",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.60  |  3.75  |  5.60",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.61  |  3.75  |  5.75",
   "time": "18:00",
   "date": "2025-05-04",
   "channels": [
@@ -1017,7 +1017,7 @@
  },
  {
   "match": "Real Sociedad – Athletic Bilbao",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.10  |  3.30",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.40  |  3.00  |  3.35",
   "time": "21:00",
   "date": "2025-05-04",
   "channels": [
@@ -1088,46 +1088,6 @@
    {
     "name": "Viasat Ultra HD",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasat_ultra_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Winnipeg Jets – St. Louis Blues",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "02:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Houston Rockets – Golden State Warriors",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 7)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "02:30",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
    },
    {
     "name": "Norlys",
