@@ -1,107 +1,7 @@
 [
  {
-  "match": "Tottenham – Chelsea FC Women",
-  "category": "WSL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.75  |  6.00  |  1.27",
-  "time": "15:15",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "FC Augsburg - Holstein Kiel",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.76  |  3.90  |  4.10",
-  "time": "15:30",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Brøndby IF – FC København",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.48  |  3.35  |  2.80",
-  "time": "16:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "HB Køge – FC Roskilde",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Children's of Alabama Indy Grand Prix",
-  "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Sevilla – Leganes Cd",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.74  |  3.55  |  5.50",
-  "time": "16:15",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Lyon – RC Lens",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.45  |  5.00  |  6.10",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.44  |  5.10  |  6.10",
   "time": "17:15",
   "date": "2025-05-04",
   "channels": [
@@ -117,7 +17,7 @@
  },
  {
   "match": "Stade Brest – HSC Montpellier",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.34  |  5.40  |  8.50",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  5.50  |  8.50",
   "time": "17:15",
   "date": "2025-05-04",
   "channels": [
@@ -133,7 +33,7 @@
  },
  {
   "match": "Auxerre – Ac Le Havre",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.30  |  3.45  |  3.05",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.35  |  3.45  |  3.00",
   "time": "17:15",
   "date": "2025-05-04",
   "channels": [
@@ -149,7 +49,7 @@
  },
  {
   "match": "Chelsea FC – Liverpool FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.90  |  3.10",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.15  |  3.95  |  3.25",
   "time": "17:30",
   "date": "2025-05-04",
   "channels": [
@@ -173,7 +73,7 @@
  },
  {
   "match": "SC Freiburg – Bayer Leverkusen",
-  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.80  |  3.50  |  2.38",
+  "category": "Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.95  |  3.50  |  2.28",
   "time": "17:30",
   "date": "2025-05-04",
   "channels": [
@@ -241,7 +141,7 @@
  },
  {
   "match": "AS Roma – Fiorentina",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.68  |  3.60  |  5.25",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.72  |  3.55  |  4.90",
   "time": "18:00",
   "date": "2025-05-04",
   "channels": [
@@ -297,7 +197,7 @@
  },
  {
   "match": "Espanyol – Real Betis",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.50  |  3.25  |  2.23",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.60  |  3.25  |  2.20",
   "time": "18:30",
   "date": "2025-05-04",
   "channels": [
@@ -457,7 +357,7 @@
  },
  {
   "match": "Bologna FC – Juventus",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.17  |  3.00  |  3.70",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.20  |  3.00  |  3.55",
   "time": "20:45",
   "date": "2025-05-04",
   "channels": [
@@ -473,7 +373,7 @@
  },
  {
   "match": "Lille – Olympique Marseille",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.50  |  3.10",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.45  |  3.10",
   "time": "20:45",
   "date": "2025-05-04",
   "channels": [
