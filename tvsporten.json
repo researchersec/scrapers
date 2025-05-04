@@ -1,85 +1,5 @@
 [
  {
-  "match": "Santiago Ponzinibbio - Daniel Rodriguez",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "05:30",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Cleveland Cavaliers – Miami Heat",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 7)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "06:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Indiana Pacers – Milwaukee Bucks",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 7)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "06:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Los Angeles Lakers – Minnesota Timberwolves",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 7)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "06:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Reinier de Ridder - Bo Nickal",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "06:00",
-  "date": "2025-05-04",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Cory Sandhagen - Deiveson Figueiredo",
   "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "06:30",
@@ -221,7 +141,7 @@
  },
  {
   "match": "1. FC Nürnberg - Elversberg",
-  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.65  |  3.80  |  1.84",
+  "category": "2. Bundesliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.50  |  3.90  |  1.84",
   "time": "13:30",
   "date": "2025-05-04",
   "channels": [
@@ -325,7 +245,7 @@
  },
  {
   "match": "Real Madrid – Celta de Vigo",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.40  |  7.00",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  5.50  |  7.50",
   "time": "14:00",
   "date": "2025-05-04",
   "channels": [
@@ -357,7 +277,7 @@
  },
  {
   "match": "Brentford FC – Manchester United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.75  |  4.20  |  4.60",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.78  |  4.10  |  4.50",
   "time": "15:00",
   "date": "2025-05-04",
   "channels": [
@@ -397,7 +317,7 @@
  },
  {
   "match": "Brighton & Hove Albion – Newcastle United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.90  |  3.80  |  2.35",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.80  |  2.30",
   "time": "15:00",
   "date": "2025-05-04",
   "channels": [
@@ -645,7 +565,7 @@
  },
  {
   "match": "Stade Brest – HSC Montpellier",
-  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.34  |  5.40  |  8.00",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  5.50  |  8.50",
   "time": "17:15",
   "date": "2025-05-04",
   "channels": [
@@ -677,7 +597,7 @@
  },
  {
   "match": "Chelsea FC – Liverpool FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.30  |  3.45  |  3.35",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.45  |  3.45",
   "time": "17:30",
   "date": "2025-05-04",
   "channels": [
@@ -969,7 +889,7 @@
  },
  {
   "match": "Bologna FC – Juventus",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.05  |  3.15",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.40  |  3.00  |  3.15",
   "time": "20:45",
   "date": "2025-05-04",
   "channels": [
