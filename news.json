@@ -274,14 +274,6 @@
   "category": "AaB"
  },
  {
-  "title": "AaB leverede comeback: Stem på bedste AaB'er her",
-  "description": "Her kan du stemme på den AaB-spiller, du mener er kampens bedste",
-  "link": "https://nordjyske.dk/nyheder/sport/live-helenius-faar-chancen-fra-start/5523559?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 05 May 2025 16:12:34 Z",
-  "guid": "f085aab6-bbb3-4298-ba9c-cc3a538c3d24",
-  "category": "AaB"
- },
- {
   "title": "- Det er helt usandt. De nærmest pressede pengene i hånden på mig",
   "description": "Erik Høgh-Sørensen fra Vendelbo-Listen kalder betaling fra borgere \"en valgdonation\"",
   "link": "https://nordjyske.dk/nyheder/nordjylland/tog-imod-penge-fra-borgere-de-naermest-pressede-pengene-i-haanden-paa-mig/5522964?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -290,20 +282,12 @@
   "category": "Politik"
  },
  {
-  "title": "Børn og unge venter i næsten fire år: Nu skal privat firma træde til",
-  "description": "Region Nordjylland kan ikke på egen hånd at holde trit med efterspørgslen på en diagnose i psykiatrien",
-  "link": "https://nordjyske.dk/nyheder/sundhed/privathospital-skal-barbere-toppen-af-ventelisterne/5523053?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 05 May 2025 18:07:01 Z",
-  "guid": "c926a811-bb4f-4d01-b58d-21c8c995df19",
-  "category": "Lang vej til diagnosen"
- },
- {
-  "title": "Kvinder slider sig op for andres skyld. Line nægtede at være en af dem",
-  "description": "Line Hjerrild sagde sit job op og fandt noget, hun ikke anede, hun manglede. Blandt andet et helt nyt netværk",
-  "link": "https://nordjyske.dk/nyheder/vores-liv/line-valgte-den-store-loen-og-titlerne-fra/5506707?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 04 May 2025 03:59:05 Z",
-  "guid": "29ac8ab0-b58f-4bb2-871c-5824be063cc1",
-  "category": "Familieliv"
+  "title": "Direktør forsøgte at påvirke udfaldet af sin personalesag ved at lække fortrolige oplysninger",
+  "description": "Martin Rostgaard-Knudsen forsøgte at påvirke udfaldet af sin personalesag ved at lække fortrolige oplysninger",
+  "link": "https://nordjyske.dk/nyheder/aalborg/direktoer-laekkede-fortrolige-oplysninger-for-at-nuancere-billedet-efter-han-slikkede-paa-en-ansat-til-en-julefrokost/5497599?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 05 May 2025 03:45:59 Z",
+  "guid": "34edbf9e-0e3e-414b-baaa-9545f432e767",
+  "category": "Akut krise"
  },
  {
   "title": "Kravene mod konkursramt byggeselskab er vokset til langt over en milliard kroner",
@@ -314,12 +298,28 @@
   "category": "Erhverv"
  },
  {
-  "title": "Direktør forsøgte at påvirke udfaldet af sin personalesag ved at lække fortrolige oplysninger",
-  "description": "Martin Rostgaard-Knudsen forsøgte at påvirke udfaldet af sin personalesag ved at lække fortrolige oplysninger",
-  "link": "https://nordjyske.dk/nyheder/aalborg/direktoer-laekkede-fortrolige-oplysninger-for-at-nuancere-billedet-efter-han-slikkede-paa-en-ansat-til-en-julefrokost/5497599?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 05 May 2025 03:45:59 Z",
-  "guid": "34edbf9e-0e3e-414b-baaa-9545f432e767",
-  "category": "Akut krise"
+  "title": "Kvinder slider sig op for andres skyld. Line nægtede at være en af dem",
+  "description": "Line Hjerrild sagde sit job op og fandt noget, hun ikke anede, hun manglede. Blandt andet et helt nyt netværk",
+  "link": "https://nordjyske.dk/nyheder/vores-liv/line-valgte-den-store-loen-og-titlerne-fra/5506707?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 04 May 2025 03:59:05 Z",
+  "guid": "29ac8ab0-b58f-4bb2-871c-5824be063cc1",
+  "category": "Familieliv"
+ },
+ {
+  "title": "AaB leverede comeback: Stem på bedste AaB'er her",
+  "description": "Her kan du stemme på den AaB-spiller, du mener er kampens bedste",
+  "link": "https://nordjyske.dk/nyheder/sport/live-helenius-faar-chancen-fra-start/5523559?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 05 May 2025 16:12:34 Z",
+  "guid": "f085aab6-bbb3-4298-ba9c-cc3a538c3d24",
+  "category": "AaB"
+ },
+ {
+  "title": "Børn og unge venter i næsten fire år: Nu skal privat firma træde til",
+  "description": "Region Nordjylland kan ikke på egen hånd at holde trit med efterspørgslen på en diagnose i psykiatrien",
+  "link": "https://nordjyske.dk/nyheder/sundhed/privathospital-skal-barbere-toppen-af-ventelisterne/5523053?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 05 May 2025 18:07:01 Z",
+  "guid": "c926a811-bb4f-4d01-b58d-21c8c995df19",
+  "category": "Lang vej til diagnosen"
  },
  {
   "title": "Overskud halveres for andet år i træk i dansk storlandbrug",
