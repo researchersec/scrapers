@@ -1,21 +1,5 @@
 [
  {
-  "match": "Brighton & Hove Albion WFC - Arsenal",
-  "category": "WSL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 7.50  |  5.60  |  1.29",
-  "time": "17:00",
-  "date": "2025-05-05",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Carl Zeiss Jena - FC Bayern München",
   "category": "Frauen-Bundesliga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
@@ -33,7 +17,7 @@
  },
  {
   "match": "SønderjyskE – AaB",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.33  |  3.40  |  2.95",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.40  |  3.10",
   "time": "19:00",
   "date": "2025-05-05",
   "channels": [
@@ -65,7 +49,7 @@
  },
  {
   "match": "Hammarby IF – Kopparbergs/Göteborg",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.94  |  3.40  |  3.30",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.92  |  3.30  |  3.45",
   "time": "19:00",
   "date": "2025-05-05",
   "channels": [
@@ -113,7 +97,7 @@
  },
  {
   "match": "Genoa – AC Milan",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.70  |  3.75  |  1.72",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.90  |  3.80  |  1.67",
   "time": "20:45",
   "date": "2025-05-05",
   "channels": [
@@ -133,7 +117,7 @@
  },
  {
   "match": "Girona Cf – Mallorca",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.95  |  3.40  |  4.30",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  3.30  |  4.10",
   "time": "21:00",
   "date": "2025-05-05",
   "channels": [
@@ -149,7 +133,7 @@
  },
  {
   "match": "Crystal Palace – Nottingham Forest",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.20  |  3.45  |  3.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.20  |  3.40  |  3.50",
   "time": "21:00",
   "date": "2025-05-05",
   "channels": [
