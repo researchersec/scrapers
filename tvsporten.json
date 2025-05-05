@@ -1,23 +1,7 @@
 [
  {
-  "match": "World Snooker Championship",
-  "category": "World Snooker Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:30",
-  "date": "2025-05-05",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Genoa – AC Milan",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.00  |  3.75  |  1.68",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.90  |  3.70  |  1.70",
   "time": "20:45",
   "date": "2025-05-05",
   "channels": [
@@ -37,7 +21,7 @@
  },
  {
   "match": "Girona Cf – Mallorca",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.04  |  3.30  |  4.00",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.00  |  3.30  |  4.10",
   "time": "21:00",
   "date": "2025-05-05",
   "channels": [
@@ -53,7 +37,7 @@
  },
  {
   "match": "Crystal Palace – Nottingham Forest",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.45  |  3.40",
   "time": "21:00",
   "date": "2025-05-05",
   "channels": [
