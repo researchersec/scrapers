@@ -201,7 +201,7 @@
  },
  {
   "match": "Crystal Palace – Nottingham Forest",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.40  |  3.35",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.40  |  3.45",
   "time": "21:00",
   "date": "2025-05-05",
   "channels": [
@@ -212,22 +212,6 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Boston Celtics - TBD",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "01:00",
-  "date": "2025-05-05",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
    },
    {
     "name": "Norlys",
