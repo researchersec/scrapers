@@ -1,21 +1,5 @@
 [
  {
-  "match": "La Vuelta Femenina",
-  "category": "UCI Women's World Tour \n\t\t\t\t\t\t\t\t\t(| 132,4 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:30",
-  "date": "2025-05-06",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "DM for hold",
   "category": "Danmarksmesterskab\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
@@ -85,7 +69,7 @@
  },
  {
   "match": "Inter – FC Barcelona",
-  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  3.80  |  2.50",
+  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  3.80  |  2.50",
   "time": "21:00",
   "date": "2025-05-06",
   "channels": [
