@@ -1,63 +1,7 @@
 [
  {
-  "match": "Al Raed - Al Hilal",
-  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 10.50  |  6.75  |  1.18",
-  "time": "18:15",
-  "date": "2025-05-07",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Norge – Danmark",
-  "category": "EHF Euro Cup\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:15",
-  "date": "2025-05-07",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Silkeborg IF – Brøndby IF",
-  "category": "DBU Pokalen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:30",
-  "date": "2025-05-07",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Al Nassr - Al Ittihad",
-  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.66  |  4.30  |  3.90",
+  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.73  |  4.10  |  3.65",
   "time": "20:00",
   "date": "2025-05-07",
   "channels": [
@@ -93,7 +37,7 @@
  },
  {
   "match": "Paris Saint Germain – Arsenal FC",
-  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.65  |  3.25",
+  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.65  |  3.30",
   "time": "21:00",
   "date": "2025-05-07",
   "channels": [
