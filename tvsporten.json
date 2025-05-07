@@ -1,21 +1,5 @@
 [
  {
-  "match": "La Vuelta Femenina",
-  "category": "UCI Women's World Tour \n\t\t\t\t\t\t\t\t\t(- 111,6 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:30",
-  "date": "2025-05-07",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Al Raed - Al Hilal",
   "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 12.00  |  7.00  |  1.16",
   "time": "18:15",
@@ -73,7 +57,7 @@
  },
  {
   "match": "Al Nassr - Al Ittihad",
-  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.74  |  4.10  |  3.60",
+  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.66  |  4.30  |  3.90",
   "time": "20:00",
   "date": "2025-05-07",
   "channels": [
@@ -109,7 +93,7 @@
  },
  {
   "match": "Paris Saint Germain – Arsenal FC",
-  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.65  |  3.20",
+  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.65  |  3.25",
   "time": "21:00",
   "date": "2025-05-07",
   "channels": [
