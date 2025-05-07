@@ -161,49 +161,13 @@
  },
  {
   "match": "Paris Saint Germain – Arsenal FC",
-  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.15  |  3.70  |  3.45",
+  "category": "Champions League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.15  |  3.65  |  3.45",
   "time": "21:00",
   "date": "2025-05-07",
   "channels": [
    {
     "name": "TV3 +",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Oklahoma City Thunder – Denver Nuggets",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 2)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:30",
-  "date": "2025-05-07",
-  "channels": [
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Winnipeg Jets – Dallas Stars",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  4.20  |  2.33",
-  "time": "03:30",
-  "date": "2025-05-07",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
    },
    {
     "name": "Viaplay.dk",
