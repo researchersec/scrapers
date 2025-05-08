@@ -1,21 +1,5 @@
 [
  {
-  "match": "La Vuelta Femenina",
-  "category": "UCI Women's World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:30",
-  "date": "2025-05-08",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Mizuho Americas Open",
   "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:00",
@@ -89,7 +73,7 @@
  },
  {
   "match": "FC København – Viborg FF",
-  "category": "DBU Pokalen\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.65  |  3.85  |  5.00",
+  "category": "DBU Pokalen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-05-08",
   "channels": [
@@ -161,7 +145,7 @@
  },
  {
   "match": "Bristol City – Sheffield United",
-  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.10  |  3.00  |  2.48",
+  "category": "Championship \n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.10  |  3.00  |  2.48",
   "time": "21:00",
   "date": "2025-05-08",
   "channels": [
@@ -213,7 +197,7 @@
  },
  {
   "match": "Chelsea FC – Djurgårdens IF",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.16  |  7.50  |  15.00",
+  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.17  |  7.00  |  14.00",
   "time": "21:00",
   "date": "2025-05-08",
   "channels": [
@@ -229,7 +213,7 @@
  },
  {
   "match": "Bodø/Glimt – Tottenham Hotspur",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  3.95  |  2.55",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  3.90  |  2.60",
   "time": "21:00",
   "date": "2025-05-08",
   "channels": [
