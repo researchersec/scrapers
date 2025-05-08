@@ -1,61 +1,5 @@
 [
  {
-  "match": "SønderjyskE Kvinder - Ikast Handbold W",
-  "category": "Kvindeligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:30",
-  "date": "2025-05-08",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "FC København – Viborg FF",
-  "category": "DBU Pokalen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-05-08",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Hillerød – B 93 København",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.42  |  4.60  |  6.00",
-  "time": "19:00",
-  "date": "2025-05-08",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Truist Championship",
   "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:00",
@@ -93,7 +37,7 @@
  },
  {
   "match": "Bristol City – Sheffield United",
-  "category": "Championship \n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.15  |  3.00  |  2.43",
+  "category": "Championship \n\t\t\t\t\t\t\t\t\t(1/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.10  |  3.00  |  2.45",
   "time": "21:00",
   "date": "2025-05-08",
   "channels": [
@@ -113,7 +57,7 @@
  },
  {
   "match": "Fiorentina – Real Betis",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.45  |  3.10",
+  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.50  |  3.00",
   "time": "21:00",
   "date": "2025-05-08",
   "channels": [
@@ -129,7 +73,7 @@
  },
  {
   "match": "Manchester United – Athletic Bilbao",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.00  |  3.60  |  3.95",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-05-08",
   "channels": [
@@ -145,7 +89,7 @@
  },
  {
   "match": "Chelsea FC – Djurgårdens IF",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.18  |  7.00  |  13.00",
+  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.22  |  6.50  |  11.00",
   "time": "21:00",
   "date": "2025-05-08",
   "channels": [
@@ -161,7 +105,7 @@
  },
  {
   "match": "Bodø/Glimt – Tottenham Hotspur",
-  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  3.95  |  2.60",
+  "category": "Europa League \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  3.95  |  2.55",
   "time": "21:00",
   "date": "2025-05-08",
   "channels": [
