@@ -1,41 +1,5 @@
 [
  {
-  "match": "PGA Championship",
-  "category": "PGA Championship\n\t\t\t\t\t\t\t\t\t(Featured Groups)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:00",
-  "date": "2025-05-16",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Rasmus Neergaard-Petersen i PGA Championship",
-  "category": "PGA Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:15",
-  "date": "2025-05-16",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Imola",
   "category": "Formel 3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:00",
@@ -117,7 +81,7 @@
  },
  {
   "match": "Østrig – Frankrig",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.05  |  4.20  |  3.00",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.12  |  4.20  |  2.85",
   "time": "16:20",
   "date": "2025-05-16",
   "channels": [
@@ -425,7 +389,7 @@
  },
  {
   "match": "Schweiz – Norge",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.23  |  7.00  |  9.50",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.22  |  7.00  |  9.50",
   "time": "20:20",
   "date": "2025-05-16",
   "channels": [
@@ -461,7 +425,7 @@
  },
  {
   "match": "Livingston FC – Partick Thistle",
-  "category": "Scottish Premiership \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.85  |  3.45  |  3.85",
+  "category": "Scottish Premiership \n\t\t\t\t\t\t\t\t\t(2/2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.76  |  3.55  |  4.20",
   "time": "20:45",
   "date": "2025-05-16",
   "channels": [
