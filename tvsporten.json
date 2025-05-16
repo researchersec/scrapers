@@ -1,25 +1,5 @@
 [
  {
-  "match": "Imola",
-  "category": "Formel 3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-05-16",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Carlos Alcaraz - Lorenzo Musetti",
   "category": "ATP \n\t\t\t\t\t\t\t\t\t(- Italian Open)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:30",
@@ -61,7 +41,7 @@
  },
  {
   "match": "Ungarn – Danmark",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.75  |  5.50  |  1.42",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:20",
   "date": "2025-05-16",
   "channels": [
@@ -405,7 +385,7 @@
  },
  {
   "match": "Aston Villa – Tottenham Hotspur",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.35  |  6.00  |  8.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.34  |  6.00  |  9.00",
   "time": "20:30",
   "date": "2025-05-16",
   "channels": [
@@ -493,7 +473,7 @@
  },
  {
   "match": "Chelsea FC – Manchester United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.47  |  5.20  |  6.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.53  |  4.90  |  5.80",
   "time": "21:15",
   "date": "2025-05-16",
   "channels": [
