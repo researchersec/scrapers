@@ -1,21 +1,5 @@
 [
  {
-  "match": "French Open",
-  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:00",
-  "date": "2025-05-20",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Internationaux de Strasbourg",
   "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "11:00",
@@ -101,7 +85,7 @@
  },
  {
   "match": "Schweiz – Kasakhstan",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.03  |  16.00  |  35.00",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.03  |  16.00  |  34.00",
   "time": "12:20",
   "date": "2025-05-20",
   "channels": [
@@ -229,7 +213,7 @@
  },
  {
   "match": "Djurgårdens IF - AIK",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.62  |  3.90  |  4.20",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.64  |  3.80  |  4.20",
   "time": "19:00",
   "date": "2025-05-20",
   "channels": [
@@ -297,7 +281,7 @@
  },
  {
   "match": "Tyskland – Danmark",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.90  |  4.50  |  3.20",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  4.50  |  2.90",
   "time": "20:20",
   "date": "2025-05-20",
   "channels": [
@@ -337,7 +321,7 @@
  },
  {
   "match": "Crystal Palace – Wolverhampton Wanderers",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  3.35  |  2.88",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.63  |  3.40  |  2.85",
   "time": "21:00",
   "date": "2025-05-20",
   "channels": [
@@ -357,7 +341,7 @@
  },
  {
   "match": "Manchester City – AFC Bournemouth",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.44  |  5.25  |  7.00",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.60  |  7.50",
   "time": "21:00",
   "date": "2025-05-20",
   "channels": [
