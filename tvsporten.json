@@ -1,39 +1,7 @@
 [
  {
-  "match": "Geneva Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:30",
-  "date": "2025-05-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Hamburg Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "12:00",
-  "date": "2025-05-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Letland – Østrig",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.73  |  5.25  |  3.40",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.79  |  5.00  |  3.15",
   "time": "12:20",
   "date": "2025-05-20",
   "channels": [
@@ -49,7 +17,7 @@
  },
  {
   "match": "Schweiz – Kasakhstan",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.03  |  16.00  |  34.00",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.04  |  12.50  |  23.00",
   "time": "12:20",
   "date": "2025-05-20",
   "channels": [
@@ -105,7 +73,7 @@
  },
  {
   "match": "Slovakiet – Finland",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.25  |  5.20  |  1.41",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.50  |  5.40  |  1.38",
   "time": "16:20",
   "date": "2025-05-20",
   "channels": [
@@ -121,7 +89,7 @@
  },
  {
   "match": "Tjekkiet – USA",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  4.50  |  2.20",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.40  |  4.60  |  2.32",
   "time": "16:20",
   "date": "2025-05-20",
   "channels": [
@@ -225,7 +193,7 @@
  },
  {
   "match": "Sverige – Canada",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  4.30  |  2.20",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  4.30  |  2.17",
   "time": "20:20",
   "date": "2025-05-20",
   "channels": [
@@ -245,7 +213,7 @@
  },
  {
   "match": "Tyskland – Danmark",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  4.50  |  2.90",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  4.35  |  2.95",
   "time": "20:20",
   "date": "2025-05-20",
   "channels": [
@@ -285,7 +253,7 @@
  },
  {
   "match": "Crystal Palace – Wolverhampton Wanderers",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.63  |  3.40  |  2.85",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.60  |  3.45  |  2.85",
   "time": "21:00",
   "date": "2025-05-20",
   "channels": [
@@ -305,7 +273,7 @@
  },
  {
   "match": "Manchester City – AFC Bournemouth",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.60  |  7.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.41  |  5.30  |  8.00",
   "time": "21:00",
   "date": "2025-05-20",
   "channels": [
