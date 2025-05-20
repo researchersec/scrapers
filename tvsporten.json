@@ -1,1 +1,394 @@
-[]
+[
+ {
+  "match": "French Open",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "10:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hamburg Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Internationaux de Strasbourg",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Geneva Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:30",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rabat Open",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "12:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hamburg Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "12:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Viareggio - Castelnovo ne' Monti",
+  "category": "Giro d'Italia\n\t\t\t\t\t\t\t\t\t(- 185 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "12:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Kanal 5",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/kanal5dk_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "French Open",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:30",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hamburg Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Asuncion P2",
+  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Lodtrækning til Gruppespillet",
+  "category": "Champions Hockey League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "French Open",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Al Nassr - Al Khaleej",
+  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.24  |  6.00  |  8.50",
+  "time": "18:15",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rhein Neckar Löwen – Vfl Gummersbach",
+  "category": "Bundesliga Håndbold\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Al Wehda - Al Hilal",
+  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 10.50  |  7.00  |  1.18",
+  "time": "20:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "FC Metz – Stade Reims",
+  "category": "Ligue 1\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.10  |  3.30  |  3.30",
+  "time": "20:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Tottenham Hotspur – Manchester United",
+  "category": "Europa League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.05  |  3.35  |  2.48",
+  "time": "21:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Disney Plus",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/disney_100x60-1.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Asuncion P2",
+  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "22:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Dallas Stars – Edmonton Oilers",
+  "category": "NHL \n\t\t\t\t\t\t\t\t\t(Game 1)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  4.25  |  2.75",
+  "time": "02:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "New York Knicks – Indiana Pacers",
+  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "02:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Malaysia Masters",
+  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "04:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Malaysia Masters",
+  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "04:00",
+  "date": "2025-05-21",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ }
+]
