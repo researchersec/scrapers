@@ -1,21 +1,5 @@
 [
  {
-  "match": "French Open",
-  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-05-20",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Team Esbjerg – København Håndbold",
   "category": "Kvindeligaen\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:30",
@@ -37,7 +21,7 @@
  },
  {
   "match": "Djurgårdens IF - AIK",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.64  |  3.80  |  4.20",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.76  |  3.65  |  3.70",
   "time": "19:00",
   "date": "2025-05-20",
   "channels": [
@@ -145,7 +129,7 @@
  },
  {
   "match": "Crystal Palace – Wolverhampton Wanderers",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.65  |  3.40  |  2.80",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.65  |  3.35  |  2.85",
   "time": "21:00",
   "date": "2025-05-20",
   "channels": [
@@ -165,7 +149,7 @@
  },
  {
   "match": "Manchester City – AFC Bournemouth",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  5.50  |  8.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.37  |  5.60  |  8.50",
   "time": "21:00",
   "date": "2025-05-20",
   "channels": [
