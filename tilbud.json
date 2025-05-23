@@ -96,14 +96,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnWdi7NtK%2Fp-32.webp&w=300&x1r=0.0176&x2r=0.4132&y1r=0.7284&y2r=0.9815&s=128a17217e798eb74196398337228dbc"
  },
  {
-  "link": "/Wolt-Market?publication=QdPLsv1t&offer=ng4I9-OtHYhiqHoLRFizs",
-  "price": "115",
-  "currency": "DKK",
-  "valid_from": "19-05-2025",
-  "valid_until": "26-05-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fab89c3942cdb1eaa53392af3104f0aaa%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F01d80b250b3d9608954ba9b28034caad%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F7b78dd6561bc33d5ff547056a18f1214&w=300&s=521483012721cee99bc19e330b7dd891"
- },
- {
   "link": "/Min-Kobmand?publication=dd_cZ8yz&offer=tKR6VSg_YzWJ4wFG0YOXA",
   "price": "135",
   "currency": "DKK",
@@ -112,20 +104,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fdd_cZ8yz%2Fp-14.webp&w=300&x1r=0.5032&x2r=0.9776&y1r=0.6367&y2r=0.9727&s=89961797261ee0c32b5f0db958fba4fd"
  },
  {
-  "link": "/Fleggaard?publication=eSmm47Be&offer=qNbTkWPdnTdP_GzCEYpPc",
-  "price": "78.99",
-  "currency": "DKK",
-  "valid_from": "13-05-2025",
-  "valid_until": "03-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
- },
- {
   "link": "/SPAR?publication=hX6T4Tf2&offer=_vutiuz_oFeZA2GBbWXau",
   "price": "135",
   "currency": "DKK",
   "valid_from": "22-05-2025",
   "valid_until": "29-05-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX6T4Tf2%2Fp-19.webp&w=300&x1r=0.3342&x2r=0.6505&y1r=0.5434&y2r=0.9608&s=4c504100eecbad824472df7d11652e9b"
+ },
+ {
+  "link": "/Fleggaard?publication=eSmm47Be&offer=qNbTkWPdnTdP_GzCEYpPc",
+  "price": "78.99",
+  "currency": "DKK",
+  "valid_from": "13-05-2025",
+  "valid_until": "03-06-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
  {
   "link": "/Calle?publication=5TzSQUN-&offer=xpp-mF7cSKyzZWHq3-qI-",
