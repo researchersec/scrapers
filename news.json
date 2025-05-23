@@ -1,5 +1,41 @@
 [
  {
+  "title": "Naturmødet har vokset sig større end nogensinde før",
+  "description": "Der har aldrig tidligere været så mange stande på Naturmødet, der gik i gang i Hirtshals i dag.",
+  "link": "https://www.dr.dk/nyheder/indland/naturmoedet-har-vokset-sig-stoerre-end-nogensinde-foer",
+  "published": "Thu, 22 May 2025 16:47:00 GMT",
+  "guid": "urn:dr:drupal:article:31607bea-7504-4164-b873-1fa0e6c8e9f8",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2025%2F05%2F22%2F1747930770_naturmoede.jpeg&w=1200"
+ },
+ {
+  "title": "Voldsom blæst udsætter nordjysk folkemøde",
+  "description": "Naturmødet i Hirtshals må bøje sig for naturens kræfter.",
+  "link": "https://www.dr.dk/nyheder/indland/voldsom-blaest-udsaetter-nordjysk-folkemoede",
+  "published": "Thu, 22 May 2025 10:05:00 GMT",
+  "guid": "urn:dr:drupal:article:3f570adc-7f38-4d8c-ab18-38e32504cb83",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2025%2F05%2F22%2F1747908284_naturmoede_.jpeg&w=1200"
+ },
+ {
+  "title": "Mere svindel med miljøprøver: 'Uhyggeligt'",
+  "description": "Miljølaboratorium oplever, at prøvesvar forfalskes. Flere sager er meldt til politiet.",
+  "link": "https://www.dr.dk/nyheder/indland/mere-svindel-med-miljoeproever-uhyggeligt",
+  "published": "Thu, 22 May 2025 06:48:00 GMT",
+  "guid": "urn:dr:drupal:article:0ed512aa-6720-4045-ac89-ba22722266e0",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F05%2F21%2Fasbestproeve_billede.jpg&w=1200"
+ },
+ {
+  "title": "Udskældt varmestue i Aalborg flytter ud af midtbyen",
+  "description": "Aalborg Kommune og Kirkens Korshær har fundet en ny lokation med færre naboer.",
+  "link": "https://www.dr.dk/nyheder/indland/udskaeldt-varmestue-i-aalborg-flytter-ud-af-midtbyen",
+  "published": "Wed, 21 May 2025 13:20:00 GMT",
+  "guid": "urn:dr:drupal:article:f27323e4-cad6-4810-af0e-8a9c67ab8fde",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F05%2F21%2Fvarmestue.jpg&w=1200"
+ },
+ {
   "title": "Kommune vender på en tallerken: Vil ikke tvinge medarbejdere til aften- og nattearbejde alligevel",
   "description": "Hjemmehjælperne i Rebild Kommune slipper for tvungne blandede vagter.",
   "link": "https://www.dr.dk/nyheder/indland/kommune-vender-paa-en-tallerken-vil-ikke-tvinge-medarbejdere-til-aften-og",
@@ -142,120 +178,132 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F05%2F10%2Fscanpix-20240606-134541-3.jpg&w=1200"
  },
  {
-  "title": "Længere til tandlægen: 'Urimeligt', lyder det fra mor, der mener kommune bør være kreative for at fylde hul",
-  "description": "Den kommunale tandpleje mangler tandlæger i nordjysk kommune.",
-  "link": "https://www.dr.dk/nyheder/indland/laengere-til-tandlaegen-urimeligt-lyder-det-fra-mor-der-mener-kommune-boer-vaere",
-  "published": "Sat, 10 May 2025 08:00:00 GMT",
-  "guid": "urn:dr:drupal:article:d963ead0-0bae-49d2-8bf4-411da588fe05",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F05%2F10%2Fscanpix-20200420-101817-l.jpg&w=1200"
- },
- {
-  "title": "Konfirmander strømmer til døbefonten",
-  "description": "Antallet af konfirmander, der døbes kort før konfirmationen, er steget markant – fællesskab spiller en stor rolle.",
-  "link": "https://www.dr.dk/nyheder/indland/konfirmander-stroemmer-til-doebefonten",
-  "published": "Fri, 09 May 2025 08:15:00 GMT",
-  "guid": "urn:dr:drupal:article:223efa39-811f-4500-89f3-e8f16164d5ad",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2025%2F05%2F08%2F1746727153_fem_konfirmander.jpg&w=1200"
- },
- {
-  "title": "Regionsformand om forkerte ventelistetal: Vi har fortalt det rene vrøvl",
-  "description": "Nordjyske forældre til børn, der venter på en psykiatrisk udredning, har fået oplyst alt for lange ventetider. \"Vi må have en alvorlig snak om, hvorfor vi har ramt så meget forbi skiven\", siger regionsrådsformand Mads Duedahl",
-  "link": "https://www.dr.dk/nyheder/indland/regionsformand-om-forkerte-ventelistetal-vi-har-fortalt-det-rene-vroevl",
-  "published": "Thu, 08 May 2025 17:40:00 GMT",
-  "guid": "urn:dr:drupal:article:12a08ec4-99c9-4145-acab-fc5dd9e52c57",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2025%2F05%2F08%2F1746698667_scanpix-20240806-162607-a.jpg&w=1200"
- },
- {
-  "title": "Håndværkere udsat for asbest: Nu hiver de bygherre og arbejdsgivere i retten",
-  "description": "Håndværkerne vil lægge sag an mod både bygherren, byggeledelsen og de enkelte entreprenørfirmaer",
-  "link": "https://www.dr.dk/nyheder/indland/haandvaerkere-udsat-asbest-nu-hiver-de-bygherre-og-arbejdsgivere-i-retten",
-  "published": "Thu, 08 May 2025 13:00:00 GMT",
-  "guid": "urn:dr:drupal:article:fdd619fe-5c7d-459f-b457-e5904dc01cbb",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F05%2F08%2Fhaandvaerkere.jpg&w=1200"
- },
- {
-  "title": "Rådyr på E39",
-  "description": "<p>Bilister på E39 ved Vrå skal i øjeblikket passe på.</p><p>Der løber nemlig levende rådyr i nødsporet på motorvejen i nordgående retning, mens der i sydgående retning er rådyr tæt ved motorvejen.</p><p>Du kan følge med i advarslen på Vejdirektoratets trafikkort <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">her</a>.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/radyr-pa-e45",
-  "published": "Tue, 20 May 25 21:35:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/radyr-pa-e45",
+  "title": "Nordjyder afgør VM-kvartfinale og sikrer dansk ishockey-historie",
+  "description": "<p>Aalborgensiske Nikolaj Ehlers og Nick Olesen fra Frederikshavn scorede begge i den netop afsluttede kvartfinale mellem Danmark og mægtige Canada til Ishockey-VM, som danskerne vandt 2-1 efter drama. </p><p>Danmark har aldrig været længere end en kvartfinale til VM, og de var ikke spået mange chancer før opgøret mod Canada, men på hjemmebanen i Boxen i Herning leverede danskerne en sand drømmekamp. </p><p>Danskerne havde mange gode muligheder mod canadierne, men det var Canada, der kom foran godt og vel fem minutter inde i tredje og sidste periode. </p><p>Mod slutningen satsede Danmark ved at tage målmanden ud og dermed spille i overtal.</p><p>Og det gav pote. </p><p>Først scorede Nikolaj Ehlers det udlignende mål med næsten tre minutter igen, før Nick Olesen skabte den helt store overraskelse med scoringen til 2-1 med 48 sekunder igen af kampen.</p><p>I semifinalen skal Danmark møde Schweiz i den svenske hovedstad Stockholm. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/nordjyder-afgor-vm-kvartfinale-og-sikrer-dansk-ishockey-historie",
+  "published": "Thu, 22 May 25 22:50:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/nordjyder-afgor-vm-kvartfinale-og-sikrer-dansk-ishockey-historie",
   "category": "No category"
  },
  {
-  "title": "Nordjyder overraskede over deres pensionsalder",
-  "description": "<p>Det er ikke nogen hemmelighed, at der i Nordjylland er utilfredshed mod den kommende stigning i pensionsalderen, som fra 2040, med stor sandsynlighed, ryger op på 70 år.</p><p>Tirsdag drog 45 personer fra 3F Aalborg og FH Nordjylland mod Christiansborg for at protestere over den kommende stigning, som blev andenbehandlet af Folketinget. En af dem er Benny Vinther, der formand for 3F i Aalborg og tidligere ansat i stålindustrien.</p><p>- Nu sidder jeg på kontoret og er blevet formand for 3F Aalborg, så det er lidt noget andet. Men jeg ville ikke kunne holde til at arbejde i stålindustrien, indtil jeg er 68 eller 69 år. Jeg ville være slidt op inden, fortalte han tidligere tirsdag til TV2 Nord.</p> <p>Også i Aalborgs gader var man noget uforstående overfor den kommende stigning.</p><p>- Jeg har svært ved at forestille mig, at min krop kan holde til det. Jeg har arbejdet siden jeg var 13, så hvis jeg skal arbejde til jeg bliver 70, så tror jeg min krop bliver ret nedslidt, lyder det fra Louise Bartholin, der til dagligt arbejder som office manager.</p><p>Og hun er ikke den eneste.</p><p>- Det er nogle levebrødpolitikere vi har, så de kan godt sige det. Jeg tror ikke, de kender manden på gulvet, så de skulle prøve at komme lidt ud, siger Thomas Nesgaard, der til daglig arbejder som chauffør.</p><h2>- Det lyder en smule grotesk</h2><p>På DR&#039;s hjemmeside kan du se, <a href=\"https://www.dr.dk/nyheder/politik/s-borgmestre-med-klar-besked-til-mette-frederiksen-stop-pensionsalderen-ved-70-aar\" target=\"_blank\">hvornår du kan gå på pension</a>, ved at indtaste din fødselsmåned og -år. </p><p>De aalborgensere, som TV2 Nord lavede testen sammen med, var mildest talt noget overraskede over deres resterende tid på arbejdsmarkedet.</p><p>- Det er jo helt gak-gak, mand. Du kommer jo til at dø der. Jeg ved ikke, om jeg kan holde til mit arbejde, til jeg fylder 70. Man skal jo passe på sig selv, fortæller Thomas Nesgaard, der kan gå på pension i 2044.</p> <p>- Det takker jeg nej tak til. Det er lidt vildt, synes jeg. Jeg har ikke det mest fysisk krævende job, men i længden kan det godt blive mentalt belastende, forklarer Rasmus Hoppe der arbejder som færgereceptionist. </p><p>Han har 52 år tilbage på arbejdsmarkedet ifølge testen.</p><p>- Det lyder en lille smule grotesk, det må jeg godt nok sige. Det er jeg rimelig overrasket over, må jeg ærligt erkende, lyder det fra Alexander Stegelmann Behnke, der har 46 år tilbage på arbejdsmarkedet.</p><p>Og Louise Bartholin kan se frem til at arbejde i 32 år endnu, indtil hun fylder 72 år.</p><p>- Det bliver spændende. Gad vide om jeg bliver 72 år. Det ved jeg sgu ikke. Mon ikke jeg gør det, lyder det med et grin.</p><p><strong>Du kan se reaktionerne i videoen øverst i artiklen.</strong></p>",
-  "link": "https://www.tv2nord.dk/aalborg/nordjyder-overraskede-over-deres-pensionsalder",
-  "published": "Tue, 20 May 25 19:32:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/nordjyder-overraskede-over-deres-pensionsalder",
+  "title": "Det gør borgmestrene",
+  "description": "<p>Mange kan se frem til et svært valg, når vi rammer 18. november. Og det har ikke noget at gøre med Kommunalvalget - eller, måske lidt.</p><p>For 18. november skal vi til stemmeurnerne, mens det danske herrelandshold i fodbold spiller på udebane mod Skotland i UEFA Nations League. Og hvad vælger man så? Det har TV2 Nord spurgt tre nordjyske borgmestre, der alle bijobber som fodboldtosser.</p><p>- Det er da ærgerligt, for jeg vil meget gerne se vores landskampe. Jeg har tidligere været til valgarrangementer, hvor der har været vigtige kamp samtidigt, men lige her bliver jeg nødt til at springe over, fortæller borgmester i Aalborg Kommune, Lasse Frimand Jensen (S).</p><p>Men han indrømmer dog, at han nok kommer til at følge lidt med i kampen på sin telefon.</p><p>- I begge tilfælde håber jeg da, at det er de røde, der vinder over de blå, lyder det med et grin fra borgmesteren.</p><p>Også borgmester i Hjørring Kommune, Søren Smalbro (V), vælger at springe landskampen over.</p><p>- Jeg tænker, at jeg har rigeligt at gøre med kommunalvalget, så jeg vil kunne glemme, der var landskamp. Men jeg kan ligeså godt indrømme, at dengang holdet hed Elkjær, Lerby og Laudrup, sad man jo klistret til skærmen. Dengang kunne jeg holdopstillingen udenad.</p><p><em>Så hvis Søren Smalbro havde fået samme spørgsmål for en del år siden, så er det ikke sikkert, du havde valgt kommunalvalget?</em></p><p>- Der var Søren Smalbro heller ikke borgmester.</p><p>Tredje mand i den varme stol er Rebild Kommunes borgmester Jesper Greth (V), der meget vel kommer til at følge Mæhle og Co., når der skal kæmpes for den rød-hvide fane i Glasgow - selvom han får en smule travlt.</p><p>- Det er ikke noget, jeg ikke kan leve uden. Vi har tradition for at samles på tværs af partier, hvor familie og venner er med, hvis det er en vigtig kamp, så tænker jeg da, vi får sat storskærm op.</p><p><em>Kan det ligefrem give en ekstra dimension til en valgaften, at der er landskamp?</em></p><p><em>- </em>Det tror jeg da. Det er et ekstra supplement til den – personligt vælger jeg kommunalvalg. I den position jeg er i, tænker jeg ikke, jeg får meget tid til at se landsholdsfodbold.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/det-gor-borgmestrene",
+  "published": "Thu, 22 May 25 22:17:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/det-gor-borgmestrene",
   "category": "No category"
  },
  {
-  "title": "Muslingefiskere bestyrtede over udmelding fra styrelse",
-  "description": "<p>En udmelding fra minister bliver mødt af frustration på Mors.</p><p>Fiskeristyrelsen lægger nemlig op til at begrænse eller forbyde muslingefiskeri i de beskyttede Natura 2000-omårder.</p><p>Derudover vil styrelsen forbyde at omplante muslingeyngel fra Natura 2000-områderne til andre dele af Limfjorden, hvor de senere kan høstes.</p><p>Og det er en regulært katastrofe - både for fiskerne, men også for vandmiljøet.</p><p>- Det vil skabe en masse iltsvind og forrådnelse på bunden med alle de muslinger, der ligger og dør i stedet for at blive fisket op, siger fisker Mathias Møller til <a href=\"https://www.tvmidtvest.dk/morsoe/muslingefiskere-i-opror-5fa76?utm_source=tvmidtvest.dk&amp;utm_medium=article&amp;utm_campaign=ReadAlsoTextLink\">TV Midtvest</a>.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/morsoe/muslingefiskere-bestyrtede-over-udmelding-fra-styrelse",
-  "published": "Tue, 20 May 25 19:30:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/morsoe/muslingefiskere-bestyrtede-over-udmelding-fra-styrelse",
+  "title": "- Der er ikke noget så skidt, at det ikke er godt for noget",
+  "description": "<p>Klubben rykker ned i 2. division efter sommerferien for første gang i 15 år.</p><p>Og på administrationsgangen er arbejdet allerede gået i gang.</p><p>Direktør Lars Glinvad fortæller, at spillerbudgetterne skal nedjusteres, da man alligevel ikke vil smide store summer efter 2. divisionen, og det kræver ændringer i spillertruppen.</p><p>- Der vil være nogle spillere, hvor selvforståelsen medfører, at de ikke vil være med til at spille 2. division, fortæller han.</p><p>Indtægtsmæssigt kommer klubben til at mangle penge fra Tv-dækningen, hvor direktøren antager, at klubben vil mangle mellem 4-5 millioner, og det gør selvfølgelig ondt, lyder det.</p><h2>Trækker i arbejdstøjet</h2><p>Første punkt på dagsordenen for Lars Glinvad bliver et kig på spillertruppen. Alle vil blive spurgt, om de har lyst til at fortsætte.</p><p>- Vi har ikke lyst til at tage kvælertag på spillere, som ikke vil være med. Vi har behov for nogle med ild i øjnene, siger han.</p><p><em>Hvordan gør man det attraktivt at være spiller i Vendsyssel, når man både spiller 2. division og nedjusterer budgetterne?</em></p><p>- Det er klart, at det bliver en anden hylde, vi skal tage fra. Der er rigtige mange gode unge spillere fra elitemiljøer, der kan få chancen i en professionel klub. </p><p><em>Men hvordan forsvarer man så at have en ambition om at rykke op igen, når man hiver uøvede ind?</em></p><p>- Det skal forhåbentligt komme til udtryk, når vi begynder at vinde, fordi hold da kæft, hvor har vi været dårlige til at være værter. Fans er kommet i godt humør, og så har vi sendt dem hjem i dårligt humør, siger Lars Glinvad.</p> <p>Ilden og selvdisciplinen skal ifølge direktøren komme fra spillerne selv. De skal have lyst til at arbejde mere end 90 minutter om ugen, lyder det.</p><p>- Men der er intet, der er så skidt, at det ikke er godt for noget, for nu kan vi få renset ud i noget tung ballast. Nu sørger vi for at få købt nogle nye tennissko og få tjekket deres syn, og så må vi håbe på, at det er nok, fortæller han med et glimt i øjet.</p><p>Vendsyssel FF fik i december et nyt ejerskab, men det har ifølge direktøren ikke haft indflydelse på nedrykningen.</p><p>Ambitionen blev meldt ud allerede ved overtagelsen. Klubben skal tilbage til Superligaen. En ambition, der for en stund er sat på pause.</p><p>- I stedet skal vi ud og have blod på ærmerne, og så skal vi ikke være bange for at få græs på benene, fortæller Lars Glinvad.</p>",
+  "link": "https://www.tv2nord.dk/hjoerring/det-er-ikke-noget-sa-skidt-at-det-ikke-er-godt-for-noget",
+  "published": "Thu, 22 May 25 21:49:00 +0200",
+  "guid": "https://www.tv2nord.dk/hjoerring/det-er-ikke-noget-sa-skidt-at-det-ikke-er-godt-for-noget",
   "category": "No category"
  },
  {
-  "title": "Muslingefiskere i oprør",
-  "description": "<p>Fiskere og muslingeindustri ved Limfjorden er i oprør over et nyt udspil fra Fiskeristyrelsen.</p><p>Muslingefisker Mathias Møller fra Sundstrup har sit fiskerfartøj liggende i Nykøbing. Han har svært ved at stå model til udspillet.</p><p>-Jeg synes jo, det er helt horribelt at komme med sådan et forslag. Det vil jo betyde at jeg mister mit arbejde. Det er sådan det er, siger han.</p><p>Samme toner lyder fra industrien, der tager imod og forarbejder blåmuslingerne.</p><p>- Det er et slag, der kan rykke tæppet væk under virksomheden, og det vi har skabt de sidste 40 år, siger direktionschef Jan Christensen fra muslingefabrikken Vilsund Blue.</p> <p>Virksomheden har planlagt sin produktion i tillid til den politisk vedtagne havplan fra 2023.</p><p>- Der står højt og tydeligt, at muslingefiskeriet ikke vil blive berørt i Natura 2000-områder. Det har vi investeret og truffet strategiske beslutninger efter, konstaterer Jan Christensen.</p><p>Alligevel lægger Fiskeristyrelsen nu op til at ændre i bekendtgørelsen, så muslingefiskeri i de beskyttede Natura 2000 områder bliver forbudt eller stærkt begrænset. Det bliver også forbudt at omplante muslingeyngel fra de beskyttede området til andre dele af fjorden, hvor muslingerne kan leve og senere fiskes.</p> <p>Fisker Mathias Møller kalder ændringer en regulær katastrofe – ikke bare for fiskeriet, men også for vandmiljøet.</p><p>- Det vil skabe en masse iltsvind og forrådnelse på bunden med alle de muslinger, der ligger og dør i stedet for at blive fisket op, siger han.</p><p>Minister for fødevarer, landbrug og fiskeri Jacob Jensen (V), siger i en skriftlig kommentar til kritikken:</p><p><em>”I Danmark har vi forpligtet os til at beskytte vores havmiljø, som flere steder er under pres. Bekendtgørelsen om at regulere fiskeriet i en række Natura 2000-områder er netop sendt i høring for at få relevante indspark. Det er afgørende, at vi sikrer et balanceret fiskeri, hvor der både tages ansvar for et sundt havmiljø og bæredygtige fiskebestande, og hvor fiskeriet får gode betingelser for at kunne udvikle og tilpasse sig den grønne omstilling. Forhandlingerne om fremtidens fiskeri er i fuld gang, og her drøfter vi netop, hvordan vi finder en bæredygtig balance mellem havmiljø og fiskeriets fremtid.”</em></p><p>Muslingeerhvervet ved Limfjorden planlægger et større fremstød den 27. maj ved Christiansborg i håb om at råbe folketingets politikere op.</p>",
-  "link": "https://www.tv2nord.dk/morsoe/muslingefiskere-i-opror",
-  "published": "Tue, 20 May 25 19:23:00 +0200",
-  "guid": "https://www.tv2nord.dk/morsoe/muslingefiskere-i-opror",
+  "title": "Toiletkaos i Blokhus: Hvor skal man lade vandet?",
+  "description": "<p>Når man skal, så skal man.</p><p>Men det kan være svært at finde et offentligt toilet, når man besøger feriebyen Blokhus.</p><p>Enten skal man søge mod busstationen eller ned på stranden. Er du midt i byen, kan der dog være langt, når det presser på.</p><p>Men nu har Jammerbugt Kommune lagt bud ind på en nye toiletfaciliteter til besøgende.</p><p>- Der har været meget snak om, at toiletkapaciteten i Blokhus har været for lille og utilstrækkelig, så derfor lavede vi en mellemløsning, fortæller borgmester Mogens Gade.</p> <h2>Et rigtig lorteproblem</h2><p>De seneste to år har gæster i Blokhus været nødsaget til at søge mod restaurant Nordstjernen, hvis man skulle besøge toilettet.</p><p>- Problemet med Nordstjernen var jo også, at det ikke lå ligeså centralt, siger Mogens Gade.</p><p>Siden 2017 var det Kalstrup Livsstilshus, der stod for toilettjansen, indtil Nordstjernen overtog i maj 2023.</p><p>Men der blev lukket for offentligt adgang, da Jammerbugt Kommune og Kalstrup Livsstilshus ikke kunne nå til enighed om prisen på rengøring af de offentlige toiletter. </p><p>- Men nu får vi løst det problem, der har været efterspurgt i Blokhus i et stykke tid, siger Mogens Gade.</p><p>Det handler om fire toiletter centralt på torvet ved bygningen Blokhuset.</p><p>Jammerbugt Kommune har lagt et bud ind på toiletterne til 2035, men det skal først stemmes igennem i Byrådet tirsdag i næste uge.</p><p>- Vi får en bedre og mere holdbar løsning, set fra vores synspunkt, siger Mogens Gade.</p>",
+  "link": "https://www.tv2nord.dk/jammerbugt/toiletkaos-i-blokhus-hvor-skal-man-lade-vandet",
+  "published": "Thu, 22 May 25 21:23:00 +0200",
+  "guid": "https://www.tv2nord.dk/jammerbugt/toiletkaos-i-blokhus-hvor-skal-man-lade-vandet",
   "category": "No category"
  },
  {
-  "title": "Toldere fandt smuglersmøger og hash på grønlandsk skib",
-  "description": "<p>Der var gevinst, da to toldere fra Toldstyrelsen i starten af marts gik ombord på et grønlandsk skib, der lå på værft i Skagen. </p><p>Da toldernes hunde blev sluppet løs ombord, var der nemlig flere steder på skibet, der fattede deres interesse. </p><p>Derfor fandt tolderne frem til to fund af hash på henholdsvis 12 og 15 gram, men de fandt også 5200 smulgersmøger.</p><p>- Toldstyrelsen forsøger hele tiden at lave en så effektiv toldkontrol som overhovedet muligt. Det betyder, at vi løbende reagerer på efterretninger, risikoprofiler og analyser, så vi kan forhindre ulovlige varer i at komme ind i Danmark. Vi har fortsat rettet vores fokus på trafik til og fra Grønland, og trafik via vandvejen er ikke en undtagelse, siger Jeppe Kjærgaard, der er kontroldirektør i styrelsen. </p><p>Fundet resulterede i en bøde på 45.000 kroner, mens de to fund af hash er overdraget til Nordjyllands Politi, der står for den videre efterforskning af sagen.</p><p>Sidste år tilbageholdte Toldstyrelsen knap et ton hash, hvilket var en halvering i forhold til året før. Årsagen er, at styrelsen i 2023 fandt 900 kilo hash på en gang i en lastbil i Rødhavn. Siden da har der ikke været tilsvarende store fund.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/toldere-fandt-smuglersmoger-og-hash-pa-gronlandsk-skib",
-  "published": "Tue, 20 May 25 18:37:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/toldere-fandt-smuglersmoger-og-hash-pa-gronlandsk-skib",
+  "title": "Vendsyssel siger farvel til 1. division med endnu et nederlag",
+  "description": "<p>NordicBet Liga-mandskabet Vendsyssel FF må næste år tage til takke med at kalde sig selv 2. divisionshold. </p><p>Torsdag spillede det nordjyske fodboldhold sin sidste kamp i landets næstbedste række for denne gang, og det blev heller ikke til en succesoplevelse for de hårdtprøvede vendelboer. </p><p>Nordjyderne skulle hele vejen til Sjælland og Hillerød i den ret ligegyldige kamp for begge mandskaber, og det endte med, at Vendsyssel igen måtte gå slukøret fra en fodboldkamp. </p><p>Andreas Rise bragte ellers gæsterne i front i første halvleg, men i anden halvleg scorede Hillerød tre gange, og slutresultatet blev dermed 3-1. </p><p>Andetsteds i NordicBet Ligaen spillede Hobro IK på hjemmebane, og her var nordjyderne stærkest på hjemmebane mod HB Køge. </p><p>Hobro IK havde for længst sikret sig endnu en sæson i den næstbedste fodboldrække for herrer, hvor AaB tilslutter dem i næste sæson efter nedrykningen fra 3F Superligaen. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/vendsyssel-siger-farvel-til-1-division-med-endnu-et-nederlag",
+  "published": "Thu, 22 May 25 21:12:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/vendsyssel-siger-farvel-til-1-division-med-endnu-et-nederlag",
   "category": "No category"
  },
  {
-  "title": "Beredskab kørt til naturbrand nær Sæbygårdskolen",
-  "description": "<p>Nordjyllands Beredskab er onsdag eftermiddag i aktion i Sæby, hvor der er naturbrand.</p><p>Det skriver beredskabet på X.</p><p>Der er nemlig melding om ild i noget skov eller bevoksning nær Sæbygårdskolen.</p><p>Beredskabet skriver videre på X, at de er landet med en autosprøjte og tankvogn.</p><p>Godt 30 minutter efter de indledende meldinger, kan beredskabet melde ud, at branden er under kontrol, og at brandvæsenet snart forlader adressen.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/beredskab-kort-til-naturbrand-naer-saebygardskolen",
-  "published": "Tue, 20 May 25 17:46:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/beredskab-kort-til-naturbrand-naer-saebygardskolen",
+  "title": "Politiet dropper sag om mystisk lydfil",
+  "description": "<p>Aalborg-politikeren Maja Torp (V) skulle have orkestreret en større konspiration for at få den socialdemokratiske byrådskollega Nuuradiin Husseins søn dømt for vold.</p><p>Det er essensen af indholdet på en mystisk lydfil, der efterhånden har kastet skygger over det politiske landskab i byen i årevis. Derfor valgte en af hovedpersonerne i april at indgive en anmeldelse af lydfilen til Nordjyllands Politi.</p><p>- Jeg vil gerne vide, hvor den lydfil kommer fra, hvem der har sendt den, og hvorfor rådmanden blev ved med at bruge den, efter en af gerningsmændene havde tilstået. Derfor anmeldte jeg sagen til politiet i håbet om, at de ville finde frem til de svar, forklarer Maja Torp (V).</p><p>Men det håb er nu brast. Nordjyllands Politi går nemlig ikke videre med sagen.</p> <p>- Anmeldelsen har nu været til juridisk vurdering hos anklagemyndigheden ved Nordjyllands Politi. Og på det grundlag har anklagemyndigheden truffet beslutning om ikke at indlede en efterforskning. Beslutningen herom skyldes, at en efterforskning ikke kan forventes at føre til, at der vil blive rejst sigtelse mod nogen. Derfor er der ikke grundlag for, at Nordjyllands Politi iværksætter en efterforskning. Politiet har ingen yderligere kommentarer, oplyser de i et skriftligt svar.</p><h2>Undrer sig stadig</h2><p>Maja Torp fik beskeden fra politiet tirsdag.</p><p>- Jeg kan godt forstå, at politiet skal prioritere deres ressourcer. Men bare fordi de ikke går videre med sagen, betyder det ikke, at der ikke er noget i den, og jeg opfordrer på det kraftigste rådmanden selv til at svare på spørgsmålene. Det synes jeg, han skylder offentligheden, siger Maja Torp og fortsætter:</p><p>- For mig giver det en utryghed, at manden, som har ansvaret for trygheden i kommunen agerer på den her måde. Det synes jeg ikke, vi kan være tjent med.</p><p>Hun undrer sig stadig den dag i dag over, hvem der havde motivationen til at skabe og dele lydfilen, der indikerer, at Maja Torp skulle have betalt et offer for at melde et overfald, der ikke var sket. En påstand, som Maja Torp benægter, og som dommeren heller ikke tillagde vægt, da sagen om overfaldet kørte ved først by- og sidenhen landsretten. </p><p>På baggrund af beviserne blev Nuuradiin Husseins søn dømt.</p><p>- Påstanden gavner jo kun den, der er anklaget for vold, lyder det fra Maja Torp.</p><h2>Har sagt alt</h2><p>Sagens anden hovedperson, Nuuradiin Hussein, nægter at have haft noget med skabelsen af lydfilen at gøre.</p><p>- Det har jeg absolut ikke. Det er et vidne, som har afleveret den her lydfil, og som har givet forklaring under vidneansvar. Det har ikke noget med mig at gøre, siger Nuuradiin Hussein.</p> <p>Han mener samtidig, at han ved flere lejligheder har givet Maja Torp alle de oplysninger, han har om sagen, og skulle hun have yderligere spørgsmål, vil han svare, såfremt han kan, forklarer han til TV2 Nord.</p><p>- Jeg har sagt alt, jeg ved. Jeg har gjort det flere gange og gør det gerne igen, siger han og fortsætter:</p><p>- Men den her sag bliver ved med at køre rundt, og jeg ved efterhånden ikke, hvad formålet er mere. Jeg prøver at bruge mine kræfter på politik, og jeg vil opfordrer Maja Torp til at gøre det samme.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/politiet-dropper-sag-om-mystisk-lydfil",
+  "published": "Thu, 22 May 25 20:54:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/politiet-dropper-sag-om-mystisk-lydfil",
   "category": "No category"
  },
  {
-  "title": "Tre mænd tiltalt for røveri, trusler og besiddelse af kniv",
-  "description": "<p>En 22-årig og to 24-årige mænd er ved Retten i Hjørring tiltalt for at have begået et røveri på busterminalen i Brovst 8. november sidste år. </p><p>Det er anklagemyndighedens opfattelse, at de tre unge mænd opsøgte en person på busterminalen, som de skubbede hårdt op ad en væg. </p><p>Herefter forsøgte de at få den forurettede til at overføre penge til dem via mobilepay ved at true ham med en hammer og med en foldekniv. </p> <p>Af anklageskriftet mod de tre mænd fremgår det desuden, at de tvang den forurettede ind på et toilet, hvor de slog ham i hovedet med knyttede næver og tvang ham til at overføre 2000 kroner via mobilepay, hvilket dog mislykkedes, idet pengene ikke kunne overføres. </p><p>Det fik de tiltalte til at tage den forurettedes Iphone. </p><h2>&#039;Hvis du sladrer, er du død&#039;</h2><p>Foruden tiltalen for røveri, er to af de tre unge mænd også tiltalt for at have fremsagt vidnetrusler. </p><p>I umiddelbar forlængelse af røveriet skulle to af de tiltalte have forulempet den forurettede yderligere i et forsøg på at påvirke vedkommendes forklaring til politiet og retten. </p><p>I den forbindelse skulle de tiltalte have udtalt: &#039;Hvis du sladrer til politiet, er du død&#039; og “Hvis det her kommer ud, så er du gone”, ledsaget af et pegefingerstrøg over halsen.</p><p>Endeligt er to af de tiltalte også tiltalt for at have været i besiddelse af ulovlig kniv. </p><p>Det fremgår ikke forud for retssagen, hvordan de tre forholder sig til tiltalen mod dem. Retssagen starter onsdag.</p>",
-  "link": "https://www.tv2nord.dk/hjoerring/tre-maend-tiltalt-for-roveri-trusler-og-besiddelse-af-kniv",
-  "published": "Tue, 20 May 25 17:02:00 +0200",
-  "guid": "https://www.tv2nord.dk/hjoerring/tre-maend-tiltalt-for-roveri-trusler-og-besiddelse-af-kniv",
+  "title": "Haglbyger skyld i flere færdselsuheld",
+  "description": "<p><em>Opdatering: En vognbane er genåbnet op strækningen mellem afkørsel 35 og afkørsel 34 Hobro N. Vagtchefen fra Nordjyllands Politi Jesper Sørensen fortæller til TV2 Nord 20.45, at der var tale om tre færdselsuheld, men der er ikke sket alvorlig personskade. En person blev dog kørt til tjek på sygehuset. </em></p><p>Nordjyllands Politi melder lige nu om flere færdselsuheld på E45 Nordjyske Motorvej mellem Hobro og Støvring. </p><p>Uheldene skyldes formentlig glat føre efter hagl, melder Nordjyllands Politi på X. </p><p>Klokken 19.07 skete der blandt andet et uheld i nordgående retning lige syd for afkørsel 34 Hobro N, hvor politi og redning er på vej til stedet. </p><p>Nordgående spor er spærret i begge vognbaner fra afkørsel 35 til afkørsel 34 Hobro N. Vagtchefen opfordrer folk til at køre forsigtigt. </p><p>Ifølge TV2 Nords oplysninger er der en redningshelikopter til stede, der er landet lige ved motorvejen, hvilket vagtchefen også bekræfter. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/haglbyger-skyld-i-flere-faerdselsuheld",
+  "published": "Thu, 22 May 25 19:40:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/haglbyger-skyld-i-flere-faerdselsuheld",
   "category": "No category"
  },
  {
-  "title": "Kommunen fandt en regnefejl: - Det er alvorligt",
-  "description": "<p>Det var helt tilbage i februar, at Hjørring Kommune gav Agri Energi Vrå et påbud om, at få et eksternt rådgivningsfirma til at lave en undersøgelsesrapport af lugtgenerne ved biogasanlægget Agri Energy Vrå og pyrolyseanlægget Stiesdal SkyClean. </p><p>Nu har kommunen nærlæst rapporten, og de har fundet en metodefejl, som de mener er en alvorlig fejl.</p><p>- Det er alvorligt, fordi det er en forkert måde at opgøre resultaterne på. Det vil sige, at det ikke er et retvisende resultat, vi står med, og så kan vi ikke vurdere efterfølgende, hvordan vi skal reagere som myndighed på området, siger Bettina Hedeby Madsen, der er direktør for Teknik og Miljø i Hjørring Kommune.</p> <p>Konsekvensen er, at Agri Energy Vrå både skal lave nye målinger og beregninger. Denne gang vil kommunen have undersøgt hvor meget lugt, der kommer fra biogasanlægget alene – uden pyrolyseanlægget.</p><p>- Det er lugten på biogasdelen, der for alvor er i spil her. Det har fyldt i den her sag, så vi skal være sikker på, at det materiale vi står med, også er ordentligt, siger Bettina Hedeby Madsen.</p><p><strong><em>Se hele indslaget her:</em></strong></p> <h2>Ubehageligt, men ikke farligt</h2><p>Direktøren understreger, at der ikke er noget, der tyder på, at lugten fra biogasanlægget er sundhedsskadelig, men:</p><p>- Den er møghammerende ubehagelig. Det er lugt, vi er særligt bekymrede for lige nu. Lugt kan jo også blive så intens, at det virkelig er ubehageligt, og det er vi sådan set godt med på, siger Bettina Hedeby Madsen.</p><p>Naboer har i månedsvis klaget over lugtgener fra biogasanlægget hos Agri Energy Vrå, <a href=\"https://www.tv2nord.dk/hjoerring/fejlberegninger-kommer-ikke-bag-pa-vinni-men-de-giver-hab\">men nu giver regnefejlen dem nyt håb</a>. <a href=\"https://www.tv2nord.dk/hjoerring/borgere-i-hobetal-klager-over-lugt-nu-er-der-fundet-fejl-i-beregninger\">Direktøren for Agri Energy Vrå har beklaget regnefejlen</a> i de såkaldte OML-beregninger, som er lavet af et eksternt rådgivningsfirma.</p><p>Det var planen at politikerne i byrådet skulle præsenteres for den endelige rapport om blandt andet lugtgenerne i næste måned, men den blev er nu udskudt til efter sommer.</p><p>- Vi har brug for at bliver klogere på lugten og at det er lugt der er i spil og ikke andet, siger Bettina Hedeby Madsen.</p>",
-  "link": "https://www.tv2nord.dk/hjoerring/kommunen-fandt-en-regnefejl-det-er-alvorligt",
-  "published": "Tue, 20 May 25 15:37:00 +0200",
-  "guid": "https://www.tv2nord.dk/hjoerring/kommunen-fandt-en-regnefejl-det-er-alvorligt",
+  "title": "Sådan vil minister skærpe lovgivningen",
+  "description": "<p>TV2 Nord har tidligere dækket, hvordan 200 håndværkere er blevet udsat for asbest på en byggeplads på Badehusvej i Aalborg. </p><p>Det fik Enhedslisten til at indkalde beskæftigelsesminister Ane Halsboe-Jørgensen (S) til samråd. </p><p>- Der har været utroligt mange udsatte i den her sag, som bevidst er blevet snydt af den arbejdsmiljøansvarlige, som med forsæt har udsat dem for asbestfare, udtalte arbejdsmiljøordfører for Enhedslisten Victoria Velasquez tilbage i marts med henvisning til <a href=\"https://www.tv2nord.dk/aalborg/medarbejder-har-forfalsket-asbestprover-i-handvaerkersag\"><em>den forfalskede asbestprøve.</em></a></p> <p>Nu har beskæftigelsesministeren været i samråd, hvor hun blandt andet er blevet forholdt, om der skal ske skærpelser i forhold til asbestlovgivningen. </p><p>- Jeg mener, at det at være udsat for asbest er så alvorligt, at vi også politisk skal sørge for, at reglerne er stramme, lyder det fra Ane Halsboe-Jørgensen og tilføjer om, hvilke skærpelser hun ser for sig. </p><p>- Højere bøder, større konsekvenser, og at man kun arbejder med asbest, hvis man er autoriseret til det. Og hvis der er en byggeplads, hvor vi gentagende gange ser, at der er alvorlige overtrædelser, skal vi kunne lukke det hele ned, indtil der er styr på det. </p> <p>Bygherren, C.W. Obel Ejendomme, er blevet politianmeldt og fået flere strakspåbud i forbindelse med byggepladsen på Badehusvej.</p><p>- Det er en fuldstændig forrykt sag, og jeg kan godt forstå, at medarbejderne er både vrede og bange. Jeg mener, at det er helt grotesk, hvis man udsætter medarbejdere for asbeststøv, som vi ved er livsfarligt. Der er en grund til, at det har været forbudt siden 1980&#039;erne. Hvis man gør det og ved, at man gør det, er det så langt ude, at jeg næsten ikke har ord for det. </p><p>- Hvis man går på arbejde i Danmark - også i Aalborg - skal man være sikker på også at komme rask hjem. Og det er ikke tilfældet i den her sag, slutter Ane Halsboe-Jørgensen om asbestskandalen fra Badehusvej i Aalborg. </p>",
+  "link": "https://www.tv2nord.dk/aalborg/sadan-vil-minister-skaerpe-lovgivningen",
+  "published": "Thu, 22 May 25 18:43:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/sadan-vil-minister-skaerpe-lovgivningen",
   "category": "No category"
  },
  {
-  "title": "Snart må 17-årige køre alene",
-  "description": "<p>Siden 2017 har 17-årige kunnet tage kørekort, hvor de har skullet køre med en ledsager, som har kørekort, frem til de blev 18 år.</p><p>Men fra den 1. juli må 17-årige køre i bil helt uden ledsager fra klokken fem om morgenen og til klokken 20 om aftenen, har Folketinget i dag vedtaget.</p><p>Lovforslaget kommer på baggrund af, at de unge skal have bedre muligheder for at komme rundt, når de eksempelvis skal i skole, på arbejde og til fritidsaktiviteter. Det gælder især for de unge, der bor uden for de større byer, hvor den offentlige transport er begrænset. </p><p>Og den nye lovgivning vækker begejstring blandt de unge, der netop er ved at erhverve sig et kørekort.</p><p>- De havde armene i vejret, og nu ser de bare frem til den 1. juli, fortæller kørelærer Kai Kristensen fra Kais Køreskole i Hjørring.</p> <p>Men nyheden kommer ikke uden konsekvenser.</p><p>- Jeg forstår godt, at de unge mennesker synes, det er fantastisk, men jeg synes, det er bekymrende, at tallene peger på, at der kommer flere ulykker, hvor de unge er involveret, fortsætter han.</p><p>Unge mellem 17 og 24 år er involveret i hver fjerde alvorlige færdselsulykke med dræbte og tilskadekomne. <a href=\"https://sikkertrafik.dk/presse/pressemeddelelser/unge-bag-rattet-har-fire-gange-sa-stor-risiko-for-at-ende-i-en-ulykke-som-deres-foraeldre/\">Det viser statistik fra Rådet for Sikker Trafik.</a></p>",
-  "link": "https://www.tv2nord.dk/region-nordjylland/snart-ma-17-arige-kore-alene",
-  "published": "Tue, 20 May 25 15:10:00 +0200",
-  "guid": "https://www.tv2nord.dk/region-nordjylland/snart-ma-17-arige-kore-alene",
+  "title": "- Det værste vanvid, jeg nogensinde har været med til",
+  "description": "<p>- Derfra og så over til modsatte side er det vores tilbygning, som er ulovlig og skal rives ned, forklarer og peger Christian Søndergaard, der er bestyrelsesformand hos FDF i Øster Hassing.</p><p>Spejderhytten er bygget i såkaldt fredskov, og det er ulovligt.</p><p>- Vi var på ingen måde klar over, at der var tale om fredskov. Fredskovspligten var ikke tinglyst på ejendommen, og kommunen har udstedt en byggetilladelse til os.</p><p>Loven giver mulighed for at søge dispensation, hvilket der også er blevet gjort, men det har ikke fået styrelsen til at ændre mening.</p><p>Den over 20 år gamle tilbygning skal fjernes.</p><p>- Jeg synes, det er meget underligt, at man ikke kan få en lovliggørende dispensation, siger Christian Søndergaard.</p><p>Hos Aalborg Kommune undrer afgørelsen også.</p><p>- Vi har en fredskovlov, og det er rigtig godt, vi har. Det er godt at bevare vores skove, men man skal også bruge fornuften, og når det er en spejderhytte, som ikke generer nogen, så synes jeg godt, at man kan dispensere, lyder det fra Jes Lunde (RV), der er rådmand hos Sundhed og Kultur i Aalborg Kommune.</p> <h2>Folketingspolitiker raser</h2><p>Kommunen har derfor sendt en klage over afgørelsen til Miljø- og Fødeklagenævnet.</p><p>- Vores opgave i kommunen er jo at give vores foreningsliv nogle gode rammer for at lave rigtig mange gode aktiviteter. Alt lige fra sport til spejder til alt muligt, og det gør vi meget gerne.</p><p>- Og så forsvarer vi dem også, hvis der er nogen, der kommer og vil ødelægge det, siger Jes Lunde.</p><p>Inde på Christiansborg er utilfredsheden med styrelsens afgørelse også nået frem.</p><p>- Meget har jeg oplevet her på Christiansborg, men det her er dog det værste vanvid, jeg nogensinde har været med til, lyder det fra oprevet Preben Bang Henriksen, der er folketingspolitiker for Venstre.</p><p>- Vi har nogle frivillige ledere, vi har nogle spejdere, som benytter en hytte ude i en skov. I en skov er der ikke en sjæl, der klager over den, og den har ovenikøbet fået byggetilladelse for 20 år siden, og så sidder der en embedsmand her i København og forlang den hytte nedrevet.</p><p>- Jeg har aldrig hørt magen til nonsens og bureaukrati.</p><p>I et skriftligt svar til TV2 Nord skriver Jeppe Bruus (S), der er minister for Grøn Trepart, som den pågældende styrelse går ind under følgende:</p><p>’Jeg kan sagtens forstå frustrationen i den konkrete sag om spejderhytten. Jeg vil også være ærlig og sige, at jeg ikke synes, at reglerne er tidssvarende, når en tilbygning til en spejderhytte, der har ligget der i over 20 år, skal rives ned’.</p><p>’Jeg kan forstå, at sagen nu er påklaget til Miljø- og Fødevareklagenævnet, hvilket betyder, at spejderne indtil videre kan fortsætte med at benytte hytten som hidtil. Sideløbende går vi i gang med at revidere skovloven, så der også bliver plads til friluftsliv og spejderhytter i skovene’.</p><p>FDF Øster Hassing har også selv sendt en klage til Miljø- og Fødevareklagenævnet.</p><p>- Nu mangler vi bare at få styrelsen med på, at vi skal have en lovliggørende dispensation, slutter bestyrelsesformanden Christian Søndergaard.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/det-vaerste-vanvid-jeg-nogensinde-har-vaeret-med-til",
+  "published": "Thu, 22 May 25 17:40:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/det-vaerste-vanvid-jeg-nogensinde-har-vaeret-med-til",
   "category": "No category"
  },
  {
-  "title": "Sag om død kajakroer lukket af politiet",
-  "description": "<p>Der var ikke tale om en forbrydelse, da en 84-årig kajakroer lørdag eftermiddag druknede i Limfjorden vest for Oddesundbroen. </p><p>Mandag blev der lavet retsligt ligsyn, hvorefter politiet har lukket sagen. Det oplyser fungerende politikommissær Matthias Sørensen til <a href=\"https://www.tvmidtvest.dk/struer/politiet-lukker-sag-om-dod-kajakroer-6ca69\" target=\"_blank\">TV MIDTVEST.</a></p><p>- Vi har nu undersøgt det nærmere, og der er ikke noget mistænkeligt i det, og det gør, at vi har lukket sagen, siger han til TV MIDTVEST.</p><p>Efter ulykken udtalte politiets vagtchef, at det formodes, at den 84-årige mistede kontrollen over kajakken på grund af ændringer i vindforholdene.</p><p>Manden, der kommer fra Thyholm, blev meldt savnet af pårørende, hvorefter en redningsaktion blev igangsat. </p><p>Under redningsaktionen blev en tom kajak fundet i nærheden af Remmer Strand ved den sydlige side af Nissum Bredning. Manden blev fløjet med lægehelikopter til Aalborg Universitetshospital.</p><p>Dødsårsagen ønsker politikommissær Matthias Sørensen ikke at udtale sig om.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/sag-om-dod-kajakroer-lukket-af-politiet",
-  "published": "Tue, 20 May 25 13:56:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/sag-om-dod-kajakroer-lukket-af-politiet",
+  "title": "Kvinde afgået ved døden efter solouheld",
+  "description": "<p>Klokken 15.00 fik Nordjyllands Politi en anmeldelse om et færdselsuheld på Klim Strandvej ved Fjerritslev. </p><p>Der var tale om et solouheld, hvor bilen var kørt ind i et vejtræ. </p><p>- Bilen brød i brand, og da beredskabet nåede frem, fik vi en melding fra dem om, at der er en person i bilen. Og den person er afgået ved døden, fortæller vagtchef ved Nordjyllands Politi Jesper Sørensen. </p><p>Nordjyllands Politi har underrettet de pårørende, da politiet har en formodning om, hvem den afdøde person er, men det skal først fuldstændig afklares ved en endelig identifikation. </p><p>Der skulle være tale om en 58-årig kvinde. </p><p>Vagtchefen oplyser, at politiet har patruljer, indsatsleder, bilinspektører og en politihund på stedet for at sikre, at der ikke var yderligere personer involveret i ulykken. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/person-afgaet-ved-doden-efter-solouheld",
+  "published": "Thu, 22 May 25 16:57:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/person-afgaet-ved-doden-efter-solouheld",
   "category": "No category"
+ },
+ {
+  "title": "Vores kroppe er giftigere, end vi tror: Sofie har truffet afgørende valg for sig selv og sin familie",
+  "description": "Køb mindre, men bedre - og undersøg virksomheden. Det er kort sagt Sofie Wulffs opskrift på at undgå de mange giftstoffer, vi mennesker bliver udsat for hver dag",
+  "link": "https://nordjyske.dk/nyheder/vores-liv/vores-kroppe-er-giftigere-end-vi-tror-sofie-har-truffet-afgoerende-valg-for-sig-selv-og-sin-familie/5528618?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 19:16:01 Z",
+  "guid": "92ce8426-20af-4093-95d1-a8d13e19bd26",
+  "category": "Familieliv"
+ },
+ {
+  "title": "Aalborg Forsyning trækker stævning tilbage: - Jeg kommer ikke til at fremstå glad og festlig",
+  "description": "Den konstituerede direktør hos Aalborg Forsyning fortæller, at man har kigget på sagen med friske øjne og vurderet, at forsyningsselskabet ville tabe sagen i retten",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/aalborg-forsyning-dropper-staevning-i-kloakstrid/5594978?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 17:28:23 Z",
+  "guid": "cccf04b2-b73f-401e-ad78-0e404fe354c9",
+  "category": "Politik"
+ },
+ {
+  "title": "Mens botilbud gik konkurs, var topchef i gang med nye selskaber. Det er han ikke længere",
+  "description": "Fonden SEMAI’s kollaps udløste en bølge af kritik. Nu trækker en af hovedaktørerne, formand Thomas Kudahl, sig fra flere selskaber",
+  "link": "https://nordjyske.dk/nyheder/erhverv/mens-botilbud-gik-konkurs-var-topchef-i-gang-med-nye-selskaber-det-er-han-ikke-laengere/5590220?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 14:48:32 Z",
+  "guid": "2a0888c2-4007-45d6-9683-13da9ae051d7",
+  "category": "Erhverv"
+ },
+ {
+  "title": "Nordjysk naturperle kan genvinde storhed: Sådan skal den reddes",
+  "description": "Engang rummede Nordjylland en af Europas største højmoser med sjældne planter og dyr. Nu vender det hele måske tilbage",
+  "link": "https://nordjyske.dk/nyheder/aalborg/nordjysk-naturperle-kan-genvinde-storhed-saadan-skal-den-reddes/5533315?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 18:12:26 Z",
+  "guid": "90efa9c0-0986-4658-a246-a6d6cec6a143",
+  "category": "Et grønnere Nordjylland"
+ },
+ {
+  "title": "Forlader firmaet han selv stiftede: - Ikke nogen svær beslutning",
+  "description": "Richardt Thomsen har solgt sine aktier og endegyldigt forladt den entreprenørvirksomhed, han opkaldte efter sig selv. Men han har andre planer - og fremhæver det, han er mest stolt af",
+  "link": "https://nordjyske.dk/nyheder/erhverv/forlader-firmaet-han-selv-stiftede-ikke-nogen-svaer-beslutning/5592062?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 13:48:02 Z",
+  "guid": "8b86ac87-a687-407a-a710-17c23cacec9d",
+  "category": "Erhverv"
+ },
+ {
+  "title": "Kvinde har mistet livet i trafikulykke",
+  "description": "Ulykken fandt sted torsdag eftermiddag",
+  "link": "https://nordjyske.dk/nyheder/aalborg/kvinde-har-mistet-livet-i-trafikulykke/5594744?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 15:13:04 Z",
+  "guid": "ba243ef9-e044-4d2b-97ab-4fed31a4a947",
+  "category": "Ulykke"
  },
  {
   "title": "Landstræner står i spidsen for gruppe, der gerne vil købe AaB",
@@ -266,52 +314,12 @@
   "category": "AaB"
  },
  {
-  "title": "Spar Nord er blevet solgt: Her er konsekvenserne for kunderne, de ansatte og direktionen",
-  "description": "Konkurrence- og Forbrugerstyrelsen har nu godkendt Nykredits køb af Spar Nord. Vi dykker ned i konsekvenserne, der rummer både store besparelser, potentielle fyringer og gevinster i millionklassen",
-  "link": "https://nordjyske.dk/nyheder/erhverv/spar-nord-er-blevet-solgt-her-er-konsekvenserne-for-kunderne-de-ansatte-og-direktionen/5490318?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 20 May 2025 13:30:34 Z",
-  "guid": "c3843ff1-635b-4383-983f-9397e65e5e95",
+  "title": "Byge af kritik mod nordjysk sparekasse",
+  "description": "Sparekassen har i strid med loven enkelte gange ydet kreditter til medlemmer af ledelsen, som bestyrelsen først efterfølgende har bevilget. - Bare noget skidt, siger bankekspert",
+  "link": "https://nordjyske.dk/nyheder/erhverv/finanstilsynet-sender-byge-af-kritik-mod-nordjysk-sparekasse/5590676?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 10:23:17 Z",
+  "guid": "e05f17fc-5ea0-4b88-9f1f-7fa6cd8a3893",
   "category": "Erhverv"
- },
- {
-  "title": "Børnelægens råd til tre sygdomme, der virker skræmmende - men sjældent er farlige",
-  "description": "Strubehoste, feberkramper og høj feber kan virke voldsomt - men kræver sjældent behandling. Her er tegnene, du skal kende, og hvad du selv kan gøre",
-  "link": "https://nordjyske.dk/nyheder/vores-liv/boernelaegens-raad-til-tre-sygdomme-der-virker-skraemmende-men-sjaeldent-er-farlige/5529417?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 20 May 2025 17:47:35 Z",
-  "guid": "e5f0c7c0-619e-42a3-9824-5c247511c6ce",
-  "category": "Familieliv"
- },
- {
-  "title": "Butiksliv udenfor midtbyen har taget overhånd",
-  "description": "Nu skal der strammes op på udbredelsen af butikker langs indfaldsvejene",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/salg-af-toej-og-sko-skal-foregaa-i-midtbyen-nu-griber-politikere-ind/5526177?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 20 May 2025 17:09:17 Z",
-  "guid": "450ef688-5652-46b4-8f0e-0b9d4d989b00",
-  "category": "Bymidterne dør"
- },
- {
-  "title": "Hvem skal med ned, og hvem skal videre? Her får du overblikket over AaB-truppen",
-  "description": "Særligt tre spillere er aktuelle i forhold til at blive solgt i den nuværende AaB-trup",
-  "link": "https://nordjyske.dk/nyheder/sport/her-er-status-paa-aab-truppen-tre-navne-er-paa-affyringsrampen/5547968?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 20 May 2025 03:49:18 Z",
-  "guid": "298c496f-8bfb-45a1-8377-f42d3a013a4d",
-  "category": "AaB"
- },
- {
-  "title": "Skarp kritik af læge - det er ikke første gang, han er i søgelyset",
-  "description": "Læge bag klinik, regionen vil overtage, er også kendt fra andre sager. Selv siger han, det er fordi, han ikke er bange for at være upopulær",
-  "link": "https://nordjyske.dk/nyheder/sundhed/skarp-kritik-af-laege-det-er-ikke-foerste-gang-han-er-i-soegelyset/5446577?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 20 May 2025 07:35:24 Z",
-  "guid": "852acf4f-7ffc-4db6-9b30-aecb8311e66a",
-  "category": "Er der en læge til stede?"
- },
- {
-  "title": "Toldere slog til mod skib i Skagen Havn - det udløste bøde",
-  "description": "Kontrol af grønlandsk skib gav flere fund",
-  "link": "https://nordjyske.dk/nyheder/frederikshavn/toldere-slog-til-mod-skib-i-skagen-havn-det-udloeste-boede/5590120?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 20 May 2025 14:31:33 Z",
-  "guid": "760c5a04-7f25-48d8-b20e-b656181326c4",
-  "category": "Kriminalitet"
  },
  {
   "title": "Kommentar: Nye ejere har ført AaB ud over afgrunden",
@@ -322,99 +330,91 @@
   "category": "AaB"
  },
  {
-  "title": "Aftalen var klar. Så sprang køber af konkursramt byggekoncern fra i sidste øjeblik",
-  "description": "Ny orientering afslører, at flere potentielle købere havde kig på byggefirmaet Scandi Byg i et højst intenst forløb umiddelbart efter konkursen i januar",
-  "link": "https://nordjyske.dk/nyheder/erhverv/de-skulle-koebe-konkursramt-byggekoncern-aftenen-inden-sprang-de-pludselig-fra/5538577?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 20 May 2025 05:20:52 Z",
-  "guid": "e0053868-f832-4f5c-b319-0cb970434418",
-  "category": "Erhverv"
+  "title": "Fortroligt notat: Toppen advaret om inkompetence",
+  "description": "Et hemmeligholdt dokument afslører, at regionen blev advaret om, at man ikke havde kompetencerne til at bygge et supersygehus",
+  "link": "https://nordjyske.dk/nyheder/aalborg/fortroligt-notat-toppen-advaret-om-inkompetence/5522556?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 03:58:19 Z",
+  "guid": "6ba94a69-353a-4a26-b928-f53ad4301703",
+  "category": "Supersygehus"
  },
  {
-  "title": "Grønt lys og ekstra guld til Spar Nord-aktionærer",
-  "description": "Konkurrencemyndighederne har godkendt fusion - vejen er banet for ny storbank",
-  "link": "https://nordjyske.dk/nyheder/erhverv/nykredit-faar-sidste-godkendelse-for-koeb-af-spar-nord/5590245?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 20 May 2025 10:14:11 Z",
-  "guid": "8c22b00e-90b5-4e24-8a3b-6ada7a69a35b",
-  "category": "Erhverv"
+  "title": "Han begik en række indbrud. Nu skal han i fængsel",
+  "description": "36-årig mand har fået straksdom efter en række indbrud",
+  "link": "https://nordjyske.dk/nyheder/aalborg/han-begik-fire-indbrud-i-nat-nu-skal-han-i-faengsel/5594629?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 13:38:50 Z",
+  "guid": "e896d1e7-a814-40b5-9b24-a6dc8db13e7d",
+  "category": "Politi"
  },
  {
-  "title": "Tre fede biler til børnefamilien – på trods af prisen",
-  "description": "Når barnevognen fylder mere end dine drømme: Her er bilerne, der faktisk kombinerer det praktiske med lækker køreglæde",
-  "link": "https://nordjyske.dk/nyheder/fritid-og-livsstil/tre-fede-biler-til-boernefamilien-paa-trods-af-prisen/5529306?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 17 May 2025 04:18:34 Z",
-  "guid": "1a2ef7c7-75fe-41c5-b1e7-058de5c5b339",
-  "category": "Livsstil"
- },
- {
-  "title": "Var det samme røvere? Ældre mand væltet omkuld",
-  "description": "Anmeldelse om endnu et røveri i Aabybro",
-  "link": "https://nordjyske.dk/nyheder/jammerbugt/politiet-mistaenker-to-unge-for-endnu-et-roeveri/5590030?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 20 May 2025 08:51:24 Z",
-  "guid": "4e72ff98-3492-446e-86aa-89bda38bfd21",
-  "category": "Røverier"
- },
- {
-  "title": "Lars lavede mad til syg konfirmand: Nu har han givet en speciel gave",
-  "description": "Festen blev en kedelig oplevelse for en syg konfirmand, som holdt sin fest i Thy. Men sådan skal dagen ikke huskes, mener forpagteren - med hjertet på rette sted.",
-  "link": "https://nordjyske.dk/nyheder/thisted/syg-konfirmand-spiste-to-pomfritter-til-sin-fest-nu-har-lars-givet-hende-en-saerlig-gave/5582231?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 19 May 2025 19:25:39 Z",
-  "guid": "f7f3e55c-546d-4e6c-adfe-116dcb2f2d1f",
+  "title": "Julies barn var fanget i varm bil: Fandt redningsmand på Facebook",
+  "description": "Forløbet var så kaotisk, at Julie ikke fik spurgt efter heltens navn. Men så fandt hun ham med hjælp fra Facebook",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/julies-barn-sad-fast-i-varm-bil-men-saa-kom-en-helt-til-undsaetning/5592403?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 21 May 2025 18:44:17 Z",
+  "guid": "7ced8b34-9964-4fae-bb90-7e22a568413a",
   "category": "samfund"
  },
  {
-  "title": "Ny havneåbning må lukkes igen – i hvert fald om vinteren",
-  "description": "Uventet sandfygning skal stoppes. Men kun i vinterhalvåret",
-  "link": "https://nordjyske.dk/nyheder/frederikshavn/betonpropper-skal-lukke-havns-nye-indsejling/5536884?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 19 May 2025 18:05:15 Z",
-  "guid": "5dafa670-7649-4529-aecf-99165b1402df",
-  "category": "Havne"
- },
- {
-  "title": "Overskuddet brager i vejret, men søndag blev virksomheden raseret af en brand",
-  "description": "Mandag morgen kunne medarbejderne møde ind til kaotiske scener på deres arbejdsplads - stemningen er dog ikke helt i kulkælderen, og det er der en særlig årsag til",
-  "link": "https://nordjyske.dk/nyheder/aalborg/der-var-ingen-tvivl-om-hvad-de-ville-have-reddet-fra-flammerne-da-indsatslederen-spurgte/5562836?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 19 May 2025 14:02:35 Z",
-  "guid": "fe627f2d-6615-40b1-82ea-0276e2d53f92",
-  "category": "Erhverv"
- },
- {
-  "title": "Læge arbejdede i strid med loven - konsekvens får indvirkning på 1200 patienter",
-  "description": "Patienterne fra klinikken i Sindal får fra 1. juli praksis i Frederikshavn",
-  "link": "https://nordjyske.dk/nyheder/sundhed/laege-arbejdede-i-strid-med-loven-faar-indvirkning-paa-1200-patienter/5568704?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 19 May 2025 10:20:33 Z",
-  "guid": "18ae4668-1526-4780-a913-96d58b689765",
-  "category": "Læger"
- },
- {
-  "title": "Henrik Fjordbak arbejdede sig næsten ihjel. Det tvang ham til at omlægge sit liv og sin forretning",
-  "description": "Det kostede ham næsten livet, men nu har direktør Henrik Fjordbak lært at lytte. Han har aldrig haft større overskud - hverken mentalt eller i sit byggefirma",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/henrik-fjordbaks-hjerte-stod-naesten-af-nu-har-han-omlagt-sit-liv-og-sin-forretning/5534816?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 19 May 2025 04:00:49 Z",
-  "guid": "7f6275bd-5089-4432-944c-3754b25d89eb",
-  "category": "Erhverv"
- },
- {
-  "title": "Fem gode råd, hvis du leder efter en brugt ID.4",
+  "title": "Læser: Hvorfor vil politikerne flytte trusler, narkohandler og afføring til vores grønne fristed?",
   "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/brugt-id-4-faa-fem-gode-raad-her/5531501?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 19 May 2025 16:53:22 Z",
-  "guid": "8c1fa32a-565a-47e8-9f68-2f23fbe13ebd",
-  "category": "Biler"
+  "link": "https://nordjyske.dk/nyheder/nordjylland/laeser-hvorfor-vil-politikerne-flytte-trusler-narkohandler-og-affoering-til-vores-groenne-fristed/5593717?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 14:31:47 Z",
+  "guid": "f85f67de-f184-41c8-b27e-99edf74e0df9",
+  "category": "Debat"
  },
  {
-  "title": "Syvårig kaster op af træthed: Hans mor håber, at han ikke skal vente flere år på hjælp",
-  "description": "Camilla Havshøj Larsen ved af erfaring, hvor afgørende en diagnose er, for at hendes barn kan få den rette støtte",
-  "link": "https://nordjyske.dk/nyheder/thisted/camillas-soen-skal-vente-2-5-aar-paa-en-tid-i-psykiatrien-nu-ved-hun-ikke-helt-hvad-hun-skal-tro/5534270?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 19 May 2025 09:55:48 Z",
-  "guid": "df1f3fca-9a27-496f-87de-815fbbc16d34",
-  "category": "Lang vej til diagnosen"
+  "title": "Han gav statsministeren en grufuld liste: Nu vil regeringen straffe hårdere",
+  "description": "Regeringen præsenterer en ny og hårdere strafreform. Nordjyske kan her fremlægge flere voldssager, som har medvirket til stramningerne",
+  "link": "https://nordjyske.dk/nyheder/politik/han-viste-statsministeren-en-grufuld-liste-nu-vil-regeringen-straffe-voldsforbrydere-haardere/5537070?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 07:43:50 Z",
+  "guid": "54e11c63-ada9-458a-8f6a-a12812e04d72",
+  "category": "Politik"
  },
  {
-  "title": "Brand i stort vognlæs med høballer - vej spærret i flere timer",
-  "description": "Resterne af en brændt vogn og rester af hø ligger stadig på kørebanen",
-  "link": "https://nordjyske.dk/nyheder/thisted/brand-i-halmballer-spaerrer-vej-for-alt-trafik/5580621?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 19 May 2025 17:24:29 Z",
-  "guid": "0610a7d9-95d5-442b-bf57-ce02fab9a28a",
-  "category": "Ildebrand"
+  "title": "Aalborg Håndbold er store guldfavoritter, men én ting bekymrer",
+  "description": "Intet andet end guldet tæller for Aalborg Håndbold, der nu for alvor skal vise værdien af landets med afstand stærkeste trup",
+  "link": "https://nordjyske.dk/nyheder/sport/aalborg-haandbold-er-store-guldfavoritter-men-n-ting-bekymrer/5592583?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 22 May 2025 04:49:39 Z",
+  "guid": "2ac71be7-d1bf-4b62-9a6b-805ab8a6f0b5",
+  "category": "Håndbold"
+ },
+ {
+  "title": "Solcenter i flammer: Det fik konsekvenser for de unge drenge, der stod bag",
+  "description": "Hvad der anses som drengestreger fik onsdag eftermiddag store konsekvenser for to nu 17-årige drenge",
+  "link": "https://nordjyske.dk/nyheder/krimi/solcenter-i-flammer-det-fik-konsekvenser-for-de-unge-drenge-der-stod-bag/5560912?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 21 May 2025 16:07:58 Z",
+  "guid": "13cc5949-30a6-41ce-b09e-de16cc600335",
+  "category": "Retssager"
+ },
+ {
+  "title": "Frederikshavn spiller hovedrolle i ny grøn motor til kæmpeskibe",
+  "description": "Ny klimavenlig kæmpemotor til skibe bringer nordjysk viden helt frem i frontlinjen",
+  "link": "https://nordjyske.dk/nyheder/erhverv/frederikshavn-spiller-hovedrolle-i-ny-groen-motor-til-kaempeskibe/5590140?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 21 May 2025 20:03:38 Z",
+  "guid": "4836a943-e117-4b66-915a-08ce0890e96a",
+  "category": "Klima"
+ },
+ {
+  "title": "Aalborg løb Mors-Thy over ende",
+  "description": "Aalborg Håndbold vandt sæsonens sidste nordjyske lokalopgør mod Mors-Thy",
+  "link": "https://nordjyske.dk/nyheder/sport/live-profiler-er-ude-af-lokalopgoer/5590490?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 21 May 2025 17:30:07 Z",
+  "guid": "70c4d7b7-24f0-451a-8986-462c9c82920c",
+  "category": "Håndbold"
+ },
+ {
+  "title": "Lynge tager bladet fra munden: AaB risikerer at brænde fast i 1.division",
+  "description": "AaB's tidligere frontmand Lynge Jakobsen skyder med skarpt mod klubbens tyske ejere efter nedrykning",
+  "link": "https://nordjyske.dk/nyheder/sport/lynge-er-bekymret-for-aab-og-isaer-n-ting-kan-han-ikke-holde-ud/5590652?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 21 May 2025 12:56:44 Z",
+  "guid": "9afaba4a-53b9-4fc1-81c1-2301bd9530c5",
+  "category": "AaB"
+ },
+ {
+  "title": "Slut med madpakken? Se om dine børns skole er i spil til at få skolemad",
+  "description": "32 nordjyske skoler er nu med i en særlig pulje, som er i spil til at få skolemad. Se om dit barns skole er på listen",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/slut-med-madpakken-se-om-dine-boerns-skole-i-spil-til-at-faa-skolemad/5535450?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 21 May 2025 09:54:58 Z",
+  "guid": "5a76b1b7-d585-4fef-9ff3-b360d4e98788",
+  "category": "skole"
  }
 ]
