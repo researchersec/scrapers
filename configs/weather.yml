@@ -1,4 +1,4 @@
 urls:
-  - https://vejr.eu/api.php?location=nordjylland&degree=C
+  - https://vejr.eu/api.php?location=aalborg&degree=C
 data_type: weather
 output_file: weather.json
