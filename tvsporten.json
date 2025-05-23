@@ -1,109 +1,5 @@
 [
  {
-  "match": "Internationaux de Strasbourg",
-  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:30",
-  "date": "2025-05-23",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "French Open",
-  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-05-23",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Hamburg Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-05-23",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Asunción P2",
-  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-05-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Monacos Grand Prix",
-  "category": "Formel 2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:15",
-  "date": "2025-05-23",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Storbritanniens Grand Prix",
-  "category": "Moto3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:15",
-  "date": "2025-05-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Hamburg Open",
   "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:30",
@@ -325,7 +221,7 @@
  },
  {
   "match": "OB – Esbjerg fB",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.41  |  4.75  |  6.00",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.37  |  5.00  |  6.50",
   "time": "19:00",
   "date": "2025-05-23",
   "channels": [
@@ -393,10 +289,14 @@
  },
  {
   "match": "Como - Inter",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.00  |  4.10  |  1.61",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.00  |  4.00  |  1.63",
   "time": "20:45",
   "date": "2025-05-23",
   "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
@@ -429,7 +329,7 @@
  },
  {
   "match": "Real Betis – Valencia",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.00  |  3.75  |  3.65",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.98  |  3.80  |  3.65",
   "time": "21:00",
   "date": "2025-05-23",
   "channels": [
