@@ -1,57 +1,5 @@
 [
  {
-  "match": "Hamburg Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:30",
-  "date": "2025-05-23",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Novak Djokovic - Cam Norrie",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-05-23",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Storbritanniens Grand Prix",
-  "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-05-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Monacos Grand Prix",
   "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:00",
@@ -221,7 +169,7 @@
  },
  {
   "match": "OB – Esbjerg fB",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.37  |  5.00  |  6.50",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.34  |  5.10  |  6.75",
   "time": "19:00",
   "date": "2025-05-23",
   "channels": [
@@ -289,7 +237,7 @@
  },
  {
   "match": "Como - Inter",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.00  |  4.00  |  1.63",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.60  |  4.30  |  1.63",
   "time": "20:45",
   "date": "2025-05-23",
   "channels": [
@@ -309,7 +257,7 @@
  },
  {
   "match": "Napoli – Cagliari",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.17  |  6.75  |  16.00",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.17  |  6.75  |  17.00",
   "time": "20:45",
   "date": "2025-05-23",
   "channels": [
@@ -329,7 +277,7 @@
  },
  {
   "match": "Real Betis – Valencia",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.98  |  3.80  |  3.65",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.00  |  3.75  |  3.60",
   "time": "21:00",
   "date": "2025-05-23",
   "channels": [
