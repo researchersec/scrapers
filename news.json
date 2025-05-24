@@ -1,7 +1,7 @@
 [
  {
-  "title": "Kommune giver sig i bizar sag om kloakledning",
-  "description": "Aalborg Kommune dropper at føre retssag mod de tidligere ejere af en ejendom i Nibe, der med  kommunens tilladelse opførte en garage for tæt på en kloakledning",
+  "title": "Forsyningsselskab giver sig i bizar sag om kloakledning",
+  "description": "Aalborg Forsyning dropper at føre retssag mod de tidligere ejere af en ejendom i Nibe, der med  kommunens tilladelse opførte en garage for tæt på en kloakledning",
   "link": "https://www.dr.dk/nyheder/indland/kommune-giver-sig-i-bizar-sag-om-kloakledning",
   "published": "Fri, 23 May 2025 15:00:00 GMT",
   "guid": "urn:dr:drupal:article:a611e26a-1e18-4cc4-a1f3-1e3c901bc4e9",
@@ -258,6 +258,22 @@
   "category": "No category"
  },
  {
+  "title": "Karneval: Sådan bliver trafikken påvirket",
+  "description": "Lørdagens folkefest kommer til at sætte sit præg på trafikken",
+  "link": "https://nordjyske.dk/nyheder/aalborg/karneval-saadan-bliver-trafikken-paavirket/5592169?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 23 May 2025 11:01:40 Z",
+  "guid": "90b26784-822b-4e3c-aa15-dbb72c3abef7",
+  "category": "Aalborg karneval"
+ },
+ {
+  "title": "Vi synes selv, vi drikker for meget. Men alkoholkulturen er en stor del af os",
+  "description": "Der er ofte alkohol på bordet - i fredagsbaren, til middagen lørdag aften eller i løbet af ugen",
+  "link": "https://nordjyske.dk/nyheder/sundhed/vi-synes-selv-vi-drikker-for-meget-men-alkoholkulturen-er-en-stor-del-af-os/5525639?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 24 May 2025 03:49:11 Z",
+  "guid": "b1edacad-44c6-46c3-bb7f-f8f07256f4fc",
+  "category": "Tomme flasker"
+ },
+ {
   "title": "Spejderhytte skal rives ned efter kommunal fejl: Nu reagerer politikere på Christiansborg",
   "description": "Foreningen FDF Øster Hassing skal rive deres kredshytte ned, da styrelse har fundet ud af, den ligger i fredskov. Minister går ind i sagen",
   "link": "https://nordjyske.dk/nyheder/politik/spejderhytte-skal-rives-ned-efter-kommunal-fejl-nu-reagerer-politikere-paa-christiansborg/5590189?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -306,28 +322,20 @@
   "category": "Ulykke"
  },
  {
-  "title": "Thomas Arnoldsen er igen sygemeldt på ubestemt tid. Nu uddyber han sit sygdomsforløb",
-  "description": "Landsholdsprofilen har de seneste to sæsoner været forhindret i at spille håndbold i det omfang, som han gerne vil",
-  "link": "https://nordjyske.dk/nyheder/aalborg/thomas-arnoldsen-er-igen-sygemeldt-paa-ubestemt-tid/5595843?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 23 May 2025 11:19:09 Z",
-  "guid": "16efad34-2d9b-4849-b584-b3c3b5560322",
-  "category": "Aalborg Håndbold"
- },
- {
-  "title": "Karneval: Sådan bliver trafikken påvirket",
-  "description": "Lørdagens folkefest kommer til at sætte sit præg på trafikken",
-  "link": "https://nordjyske.dk/nyheder/aalborg/karneval-saadan-bliver-trafikken-paavirket/5592169?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 23 May 2025 11:01:40 Z",
-  "guid": "90b26784-822b-4e3c-aa15-dbb72c3abef7",
-  "category": "Aalborg karneval"
- },
- {
   "title": "Kommentar: Nye ejere har ført AaB ud over afgrunden",
   "description": "SSE22 har spillet fallit i AaB, og det er bestemt ikke kun på grund af den sportslige virkelighed, der nu tegner sig et værre billede end længe set",
   "link": "https://nordjyske.dk/nyheder/sport/kommentar-sse22-har-foert-aab-ud-over-afgrunden-med-forfejlet-spareplan/5539590?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sun, 18 May 2025 14:59:59 Z",
   "guid": "39d7e923-f898-46a2-bcf0-3262f1031d34",
   "category": "AaB"
+ },
+ {
+  "title": "Thomas Arnoldsen er igen sygemeldt på ubestemt tid. Nu uddyber han sit sygdomsforløb",
+  "description": "Landsholdsprofilen har de seneste to sæsoner været forhindret i at spille håndbold i det omfang, som han gerne vil",
+  "link": "https://nordjyske.dk/nyheder/aalborg/thomas-arnoldsen-er-igen-sygemeldt-paa-ubestemt-tid/5595843?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 23 May 2025 11:19:09 Z",
+  "guid": "16efad34-2d9b-4849-b584-b3c3b5560322",
+  "category": "Aalborg Håndbold"
  },
  {
   "title": "Butiksdetektiven oplever en ny type tyve på nærmeste hold",
@@ -408,13 +416,5 @@
   "published": "Thu, 22 May 2025 13:48:02 Z",
   "guid": "8b86ac87-a687-407a-a710-17c23cacec9d",
   "category": "Erhverv"
- },
- {
-  "title": "Kvinde har mistet livet i trafikulykke",
-  "description": "Ulykken fandt sted torsdag eftermiddag",
-  "link": "https://nordjyske.dk/nyheder/aalborg/kvinde-har-mistet-livet-i-trafikulykke/5594744?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 22 May 2025 15:13:04 Z",
-  "guid": "ba243ef9-e044-4d2b-97ab-4fed31a4a947",
-  "category": "Ulykke"
  }
 ]
