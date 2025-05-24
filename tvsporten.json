@@ -1,21 +1,5 @@
 [
  {
-  "match": "Grand Prix of Great Britain",
-  "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-05-24",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Vallelunga",
   "category": "Formula 4 Italian Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
@@ -53,7 +37,7 @@
  },
  {
   "match": "Bologna FC – Genoa",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.62  |  3.85  |  5.30",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.52  |  4.10  |  6.50",
   "time": "18:00",
   "date": "2025-05-24",
   "channels": [
@@ -69,7 +53,7 @@
  },
  {
   "match": "Schweiz – Danmark",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.28  |  5.80  |  10.00",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.34  |  5.40  |  7.00",
   "time": "18:20",
   "date": "2025-05-24",
   "channels": [
@@ -89,7 +73,7 @@
  },
  {
   "match": "Leganes Cd – Real Valladolid",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.33  |  5.50  |  9.00",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  5.80  |  9.50",
   "time": "18:30",
   "date": "2025-05-24",
   "channels": [
@@ -105,7 +89,7 @@
  },
  {
   "match": "Espanyol – Union Deportiva Las Palmas",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.33  |  5.60  |  9.00",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.35  |  5.50  |  8.50",
   "time": "18:30",
   "date": "2025-05-24",
   "channels": [
@@ -173,7 +157,7 @@
  },
  {
   "match": "CF Getafe – Celta de Vigo",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.20  |  3.65  |  1.88",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.20  |  3.60  |  1.90",
   "time": "21:00",
   "date": "2025-05-24",
   "channels": [
@@ -237,7 +221,7 @@
  },
  {
   "match": "CD Alaves – Osasuna",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.30  |  3.20  |  2.35",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.40  |  3.20  |  2.30",
   "time": "21:00",
   "date": "2025-05-24",
   "channels": [
