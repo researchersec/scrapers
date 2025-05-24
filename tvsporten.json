@@ -449,7 +449,7 @@
  },
  {
   "match": "Ldb FC Malmø – Kopparbergs/Göteborg",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.70  |  4.10  |  1.53",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.10  |  4.60  |  1.37",
   "time": "15:00",
   "date": "2025-05-24",
   "channels": [
@@ -813,7 +813,7 @@
  },
  {
   "match": "Bologna FC – Genoa",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.45  |  4.50  |  6.75",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.45  |  4.50  |  6.50",
   "time": "18:00",
   "date": "2025-05-24",
   "channels": [
@@ -829,7 +829,7 @@
  },
  {
   "match": "Schweiz – Danmark",
-  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.29  |  5.80  |  9.50",
+  "category": "Ishockey-VM\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  5.80  |  8.50",
   "time": "18:15",
   "date": "2025-05-24",
   "channels": [
@@ -865,7 +865,7 @@
  },
  {
   "match": "Espanyol – Union Deportiva Las Palmas",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  5.75  |  9.00",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  5.60  |  9.00",
   "time": "18:30",
   "date": "2025-05-24",
   "channels": [
@@ -933,7 +933,7 @@
  },
  {
   "match": "CF Getafe – Celta de Vigo",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.40  |  3.65  |  1.84",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.50  |  3.70  |  1.84",
   "time": "21:00",
   "date": "2025-05-24",
   "channels": [
@@ -949,7 +949,7 @@
  },
  {
   "match": "Rayo Vallecano – Mallorca",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.54  |  4.30  |  6.10",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.56  |  4.25  |  5.80",
   "time": "21:00",
   "date": "2025-05-24",
   "channels": [
@@ -1020,50 +1020,6 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Florida Panthers – Carolina Hurricanes",
-  "category": "NHL \n\t\t\t\t\t\t\t\t\t(Game 3)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.14  |  4.20  |  3.00",
-  "time": "02:00",
-  "date": "2025-05-24",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Minnesota Timberwolves – Oklahoma City Thunder",
-  "category": "NBA \n\t\t\t\t\t\t\t\t\t(Game 3)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "02:30",
-  "date": "2025-05-24",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Global NBA League Pass",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
    },
    {
     "name": "Norlys",
