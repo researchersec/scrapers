@@ -1,22 +1,6 @@
 [
  {
   "match": "Lausitzring",
-  "category": "DTM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:00",
-  "date": "2025-05-24",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Lausitzring",
   "category": "European Truck Racing Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "10:30",
   "date": "2025-05-24",
@@ -661,7 +645,7 @@
  },
  {
   "match": "Sheffield United – Sunderland",
-  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.30  |  3.00  |  3.40",
+  "category": "Championship\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.30  |  2.95  |  3.40",
   "time": "16:00",
   "date": "2025-05-24",
   "channels": [
@@ -825,7 +809,7 @@
  },
  {
   "match": "Bologna FC – Genoa",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.55  |  4.20  |  5.50",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.53  |  4.25  |  5.75",
   "time": "18:00",
   "date": "2025-05-24",
   "channels": [
@@ -929,7 +913,7 @@
  },
  {
   "match": "AC Milan - Monza",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.22  |  6.50  |  10.50",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.23  |  6.40  |  10.00",
   "time": "20:45",
   "date": "2025-05-24",
   "channels": [
