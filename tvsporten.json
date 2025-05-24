@@ -261,7 +261,7 @@
  },
  {
   "match": "Girona Cf – Atletico Madrid",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.60  |  3.70  |  2.02",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.45  |  3.65  |  2.08",
   "time": "14:00",
   "date": "2025-05-25",
   "channels": [
@@ -573,7 +573,7 @@
  },
  {
   "match": "Ipswich Town – West Ham United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.20  |  3.85  |  2.25",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.40  |  3.70  |  2.17",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -613,7 +613,7 @@
  },
  {
   "match": "AGF – Brøndby IF",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.35  |  3.70  |  2.04",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.35  |  3.60  |  2.05",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -665,7 +665,7 @@
  },
  {
   "match": "Nottingham Forest – Chelsea FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.20  |  3.75  |  2.20",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.35  |  3.75  |  2.14",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -681,7 +681,7 @@
  },
  {
   "match": "Southampton FC – Arsenal FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 12.00  |  6.50  |  1.27",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 12.50  |  6.75  |  1.26",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -733,7 +733,7 @@
  },
  {
   "match": "Tottenham Hotspur – Brighton & Hove Albion",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.80  |  4.70  |  1.64",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.70  |  4.60  |  1.67",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -749,7 +749,7 @@
  },
  {
   "match": "AFC Bournemouth – Leicester City",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.36  |  5.40  |  9.50",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.35  |  5.75  |  9.50",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -913,7 +913,7 @@
  },
  {
   "match": "Venezia - Juventus",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.80  |  4.40  |  1.50",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.80  |  4.20  |  1.52",
   "time": "20:45",
   "date": "2025-05-25",
   "channels": [
@@ -1077,7 +1077,7 @@
  },
  {
   "match": "Athletic Bilbao – FC Barcelona",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.30  |  3.80  |  2.10",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.15  |  3.80  |  2.17",
   "time": "21:00",
   "date": "2025-05-25",
   "channels": [
@@ -1088,26 +1088,6 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Coca-Cola 600",
-  "category": "NASCAR Cup Series\n\t\t\t\t\t\t\t\t\t(400 laps / 600 miles)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "00:00",
-  "date": "2025-05-25",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
