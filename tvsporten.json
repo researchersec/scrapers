@@ -1,73 +1,5 @@
 [
  {
-  "match": "Mayakoba Open",
-  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-05-25",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Indy 500",
-  "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-05-25",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Montpellier Hb – SG Flensburg-Handewitt",
-  "category": "EHF European League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-05-25",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Roland-Garros",
-  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-05-25",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Lausitzring",
   "category": "European Truck Racing Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:15",
@@ -85,7 +17,7 @@
  },
  {
   "match": "Burgos - Levante",
-  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.25  |  3.05  |  1.91",
+  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.70  |  2.65  |  2.04",
   "time": "18:30",
   "date": "2025-05-25",
   "channels": [
@@ -117,7 +49,7 @@
  },
  {
   "match": "Schweiz – USA",
-  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.65  |  4.20  |  2.28",
+  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  4.10  |  2.25",
   "time": "20:20",
   "date": "2025-05-25",
   "channels": [
@@ -153,7 +85,7 @@
  },
  {
   "match": "Venezia - Juventus",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.50  |  4.20  |  1.56",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.40  |  4.10  |  1.57",
   "time": "20:45",
   "date": "2025-05-25",
   "channels": [
@@ -173,7 +105,7 @@
  },
  {
   "match": "Atalanta – Parma",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.60  |  4.00  |  5.30",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.61  |  4.00  |  5.20",
   "time": "20:45",
   "date": "2025-05-25",
   "channels": [
@@ -189,7 +121,7 @@
  },
  {
   "match": "Empoli FC – Hellas Verona",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  2.95  |  4.40",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.98  |  2.95  |  4.50",
   "time": "20:45",
   "date": "2025-05-25",
   "channels": [
@@ -221,7 +153,7 @@
  },
  {
   "match": "Torino – AS Roma",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.80  |  4.40  |  1.49",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.75  |  4.40  |  1.50",
   "time": "20:45",
   "date": "2025-05-25",
   "channels": [
@@ -317,7 +249,7 @@
  },
  {
   "match": "Athletic Bilbao – FC Barcelona",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.90  |  3.75  |  2.30",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-05-25",
   "channels": [
