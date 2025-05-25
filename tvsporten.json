@@ -376,6 +376,22 @@
   ]
  },
  {
+  "match": "THW Kiel – Msg Melsungen/böddiger",
+  "category": "EHF European League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:00",
+  "date": "2025-05-25",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Monacos Grand Prix",
   "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:00",
@@ -417,7 +433,7 @@
  },
  {
   "match": "Sverige – Danmark",
-  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Bronzekamp)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.12  |  10.00  |  16.00",
+  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Bronzekamp)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.13  |  10.00  |  15.00",
   "time": "15:20",
   "date": "2025-05-25",
   "channels": [
@@ -521,7 +537,7 @@
  },
  {
   "match": "Villarreal – Sevilla",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.48  |  5.00  |  6.10",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.50  |  4.90  |  6.00",
   "time": "16:15",
   "date": "2025-05-25",
   "channels": [
@@ -589,7 +605,7 @@
  },
  {
   "match": "Liverpool FC – Crystal Palace",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.42  |  6.25  |  6.25",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.41  |  6.25  |  6.25",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -765,7 +781,7 @@
  },
  {
   "match": "Fulham FC – Manchester City",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.30  |  4.50  |  1.62",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.40  |  4.40  |  1.62",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -798,6 +814,22 @@
  {
   "match": "Indy 500",
   "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-05-25",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Montpellier Hb – SG Flensburg-Handewitt",
+  "category": "EHF European League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
   "date": "2025-05-25",
   "channels": [
@@ -881,7 +913,7 @@
  },
  {
   "match": "Schweiz – USA",
-  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  4.20  |  2.25",
+  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.65  |  4.20  |  2.28",
   "time": "20:20",
   "date": "2025-05-25",
   "channels": [
@@ -1017,7 +1049,7 @@
  },
  {
   "match": "Edmonton Oilers – Dallas Stars",
-  "category": "NHL \n\t\t\t\t\t\t\t\t\t(Game 3)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.04  |  4.20  |  3.20",
+  "category": "NHL \n\t\t\t\t\t\t\t\t\t(Game 3)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.06  |  4.20  |  3.15",
   "time": "21:00",
   "date": "2025-05-25",
   "channels": [
