@@ -1,25 +1,5 @@
 [
  {
-  "match": "Monacos Grand Prix",
-  "category": "Formel 3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "08:00",
-  "date": "2025-05-25",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Vallelunga",
   "category": "Formula 4 Italian Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "09:00",
@@ -112,6 +92,22 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Tommy Paul - Elmer Møller",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:10",
+  "date": "2025-05-25",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
@@ -241,7 +237,7 @@
  },
  {
   "match": "Girona Cf – Atletico Madrid",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.30  |  3.50  |  2.20",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.30  |  3.45  |  2.20",
   "time": "14:00",
   "date": "2025-05-25",
   "channels": [
@@ -413,7 +409,7 @@
  },
  {
   "match": "Sverige – Danmark",
-  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Bronzekamp)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.13  |  10.00  |  15.00",
+  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Bronzekamp)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:20",
   "date": "2025-05-25",
   "channels": [
@@ -517,7 +513,7 @@
  },
  {
   "match": "Villarreal – Sevilla",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.49  |  4.90  |  6.10",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.52  |  4.75  |  5.80",
   "time": "16:15",
   "date": "2025-05-25",
   "channels": [
@@ -549,7 +545,7 @@
  },
  {
   "match": "FC Midtjylland – Randers FC",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.57  |  4.60  |  5.00",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -569,7 +565,7 @@
  },
  {
   "match": "Ipswich Town – West Ham United",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.35  |  3.95  |  2.15",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.30  |  3.95  |  2.16",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -609,7 +605,7 @@
  },
  {
   "match": "AGF – Brøndby IF",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.35  |  3.60  |  2.05",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -661,7 +657,7 @@
  },
  {
   "match": "Nottingham Forest – Chelsea FC",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.20  |  3.75  |  2.20",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.40  |  3.80  |  2.10",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -729,7 +725,7 @@
  },
  {
   "match": "Tottenham Hotspur – Brighton & Hove Albion",
-  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.70  |  4.60  |  1.68",
+  "category": "Premier League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.80  |  4.75  |  1.65",
   "time": "17:00",
   "date": "2025-05-25",
   "channels": [
@@ -893,7 +889,7 @@
  },
  {
   "match": "Schweiz – USA",
-  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  4.20  |  2.25",
+  "category": "Ishockey-VM \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  4.20  |  2.35",
   "time": "20:20",
   "date": "2025-05-25",
   "channels": [
@@ -929,7 +925,7 @@
  },
  {
   "match": "Venezia - Juventus",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.00  |  4.40  |  1.49",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.50  |  4.25  |  1.54",
   "time": "20:45",
   "date": "2025-05-25",
   "channels": [
@@ -949,7 +945,7 @@
  },
  {
   "match": "Atalanta – Parma",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.72  |  3.60  |  4.90",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.68  |  3.60  |  5.20",
   "time": "20:45",
   "date": "2025-05-25",
   "channels": [
@@ -965,7 +961,7 @@
  },
  {
   "match": "Empoli FC – Hellas Verona",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.05  |  2.95  |  4.20",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.06  |  2.95  |  4.20",
   "time": "20:45",
   "date": "2025-05-25",
   "channels": [
@@ -997,7 +993,7 @@
  },
  {
   "match": "Torino – AS Roma",
-  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.80  |  4.20  |  1.53",
+  "category": "Serie A\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.60  |  4.10  |  1.56",
   "time": "20:45",
   "date": "2025-05-25",
   "channels": [
@@ -1093,7 +1089,7 @@
  },
  {
   "match": "Athletic Bilbao – FC Barcelona",
-  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.85  |  2.23",
+  "category": "La Liga\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.90  |  3.85  |  2.30",
   "time": "21:00",
   "date": "2025-05-25",
   "channels": [
