@@ -178,11 +178,35 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2025%2F05%2F13%2F1747156466_scanpix-20211210-124915-l.jpg&w=1200"
  },
  {
+  "title": "Spor spærret på E45 på grund af tabt gods",
+  "description": "<p>Der er i øjeblikket et spor spærret mellem Jyske Ås og Hjallerup i sydgående retning.</p><p>Det fremgår af Vejdirektoratets <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">trafikkort</a>. </p><p>Det er en slidbane, der i øjeblikket driller trafikken, og der er ikke umiddelbart en melding om, hvornår slidbanen er fjernet.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/spor-spaerret-pa-e45-pa-grund-af-tabt-gods",
+  "published": "Mon, 26 May 25 08:23:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/broenderslev/spor-spaerret-pa-e45-pa-grund-af-tabt-gods",
+  "category": "No category"
+ },
+ {
+  "title": "Første danske spiller på VM All Star-hold i syv år",
+  "description": "<p>Selvom Danmarks eventyr ved VM i ishockey ikke kastede medaljer af sig, har frederikshavneren Nick Olesen modtaget en stor hæder.</p><p>Han er nemlig blevet udpeget til VM&#039;s All Star Hold.</p><p>Det skiver Den Internationale Ishockeyunion på <a href=\"https://www.iihf.com/en/events/2025/wm/news/68296/mvp\" rel=\"noopener noreferrer\" target=\"_blank\">sin hjemmeside.</a></p> <p>Det er dermed første gang siden 2018, at en dansk ishockeyspiller er blevet udpeget til VM&#039;s All Star Hold.</p><p>Ishockeyspilleren har i løbet af turneringen scoret fem mål og i øvrigt også lavet syv målgivende afleveringer. Derudover blev han dansk topscorer, og han har dermed haft en afgørende rolle i, at Danmark nåede hele vejen til bronxekampen mod Sverige.</p><p>Danmark endte på fjerdeplads, efter et nederlag til Sverige søndag eftermiddag i bronzekampen. Det er USA, der kan kalde sig verdensmestre, efter de slog Schweiz.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/forste-danske-spiller-pa-vm-all-star-hold-i-syv-ar",
+  "published": "Mon, 26 May 25 07:05:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/forste-danske-spiller-pa-vm-all-star-hold-i-syv-ar",
+  "category": "No category"
+ },
+ {
   "title": "Skal opdage folkesygdom i de tidlige stadier",
   "description": "<p>Omkring 400.000 danskere har Kronisk Obstruktiv Lungesygdom - bedre kendt som KOL. Men mange af dem ved det ikke. </p><p>Derfor har tre studerende fra Institut for Datalogi på Aalborg Universitet startet et forskningsprojekt som en del af deres speciale. Projektet har til formål at gøre det nemmere at opdage KOL i de tidlige stadier. </p><p>- Vi har kunne se, at det har været meget stigmatiseret omkring KOL. Mange tror, det er selvforskyldt, fordi de fleste, der får KOL, ryger, fortæller Cuno Sankey-Olsen, som er en af de tre studerende. </p><p>Sammen med Tobias Oliver Eberhard og Rasmus Hvass Olesen står han bag forskningsprojektet, hvor de har udviklet et AI-program, der kan høre på patienters stemme, om de har KOL i et tidligt stadie. </p><p>- Det er mest det med stigmatiseringen, vi tænkte på i starten af projektet, så vi kunne lave en app til folk, der kunne hjælpe dem med at diagnosticere sig selv, før de tager til lægen, siger Cuno Sankey-Olsen.</p> <p>Efter en snak med flere forskellige læger, som fortalte, at et af de store problemer ved KOL, er, at det først bliver opdaget efter 10-20 år, fordi folk tror, det er en del af at blive ældre, stod det klart for de tre studerende, at det var det, de ville forsøge at finde en løsning på. </p><p>KOL kan ikke helbredes, kun bremses, men jo før man opdager det og starter behandling, jo bedre livskvalitet og længere levetid, kan man få. </p><p>- Vi håber, at vi selv eller nogle andre kan bruge vores data til at bygge en applikation, hvor man kan sidde derhjemme i stuen og måske kan give den til dine forældre, hvis du er bekymret som pårørende, lyder det fra Tobias Oliver Eberhard.</p><h2>Testpersoner skal læse op</h2><p>Indtil videre har de studerende fået stemmeprøver fra 48 personer med KOL og 48 stemmeprøver fra personer, der ikke har fået stillet en KOL-diagnose. </p><p>Det er hovedsageligt den ældre målgruppe, de har arbejdet med. </p><p>For at få prøverne af patienter med KOL har de været taget ud til forskellige arrangementer arrangeret af Lungefonden. For at få prøver fra patienter uden KOL, har de været på aktivitetscentre. </p><p>De har derfor fra starten haft et udgangspunkt om patientens tilstand for at kunne vurdere, om programmet virker. </p> <p>Hver stemmeprøve består af lydoptagelser på omkring halvandet minut, hvor testpersonerne oplæser vokaler, en lille historie og hoster tre gange. </p><p>Der kan dog være usikkerheder, fortæller de tre studerende. Blandt andet kan tidspunktet på dagen, om man har slim i halsen eller baggrundsstøj påvirke resultatet. </p><p>- Vi arbejder jo med et proof of concept. Altså om man overhovedet kan kende forskel på at analysere stemmen på en med KOL og en uden KOL. Det er det, vi indtil videre kan se, at det kan lade sig gøre, siger Tobias Oliver Eberhard. </p><h2>Kan bidrage til videre forskning</h2><p>På forskningsprojektet har de en vejleder tilkoblet. </p><p>Ilhan Aslan arbejder tæt med drengene i deres projekt. Han er positivt overrasket over projektet og drengenes motivation. </p><p>- Udsigten til at have fjern-sundhedspleje, der kan bruge den simple ting – en persons stemme til at screene og overvåge tegn på KOL og mere - synes jeg, er meget vigtig. Det ville hjælpe med at reducere belastningen af den sundhedspleje, vi har for KOL-patienter, påpeger han. </p><p>Indtil videre arbejder de ikke selv med at producere et færdigt produkt, som kan komme på markedet. Håbet er i stedet, at forskningsprojektet kan bidrage til videre forskning. </p><p>- Der er forhåbentlig nogle, der gerne vil gribe den, når vi er færdige. Ellers er det at få det ud og lave en eller anden applikation om vores modeller. Og få det ud til nogle læger eller ud i folks husstande, hvor de selv kan optage og se, lyder det fra Rasmus Hvass Olesen. </p><p>De studerende skal først aflevere deres speciale til juni. Derfor er det også først her projektet bliver afsluttet. </p>",
   "link": "https://www.tv2nord.dk/aalborg/skal-opdage-folkesygdom-i-de-tidlige-stadier",
   "published": "Mon, 26 May 25 07:00:00 +0200",
   "guid": "https://www.tv2nord.dk/aalborg/skal-opdage-folkesygdom-i-de-tidlige-stadier",
+  "category": "No category"
+ },
+ {
+  "title": "Solrig dag men i øst driller byger og torden",
+  "description": "<p>Selvom termometrene i Nordjylland viser omkring 10 grader mandag morgen, gør den friske vind det til en lidt kølig affære at komme ud af døren.</p><p>Det holder tørt de fleste steder, men i løbet af formiddagen kan der drive nogle byger ind over den østlige del af  landsdelen, og de kan endda være med et ordentligt tordenskrald eller hagl. </p><p>I løbet af dagen når temperaturen op på 14-15 grader, og det vil overvejende blive en tør eftermiddag med rigeligt solskin.</p> <h2>Få en ultra lokal vejrudsigt med Solvej Vindblæs</h2>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/solrig-dag-men-i-ost-driller-byger-og-torden",
+  "published": "Mon, 26 May 25 06:56:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/solrig-dag-men-i-ost-driller-byger-og-torden",
   "category": "No category"
  },
  {
@@ -234,44 +258,20 @@
   "category": "No category"
  },
  {
-  "title": "Først langede borgmester ud efter AaB's ledelse, nu retter klubmand skarp kritik",
-  "description": "<p>Han har spillet mere end 150 førsteholdskampe i den røde og hvide AaB-trøje. Han har været træner og talentkoordinator i klubben.</p> <p>I dag sidder Søren Kusk i byrådet i Aalborg Kommune i samme gruppe som borgmester Lasse Frimand Jensen (S). Og akkurat som sin politiske chef har han en klar holdning til den krise, som AaB befinder sig i efter anden nedrykning fra Superligaen på tre sæsoner.</p><p>- Det bliver svært at komme tilbage (til landets bedste fodboldrække, red.). Sidste gang var der lidt en større opbakning og måske også en stærkere trup, end der er på nuværende tidspunkt, så det bliver en svær proces, indleder han over for TV2 Nord.</p><p><strong>Se hele interviewet med Søren Kusk her.</strong></p> <h2>Her har tyskerne fejlet</h2><p>Den tidligere AaB-spiller fik sin debut for mere end 40 år siden. Dengang var klubben et helt andet sted, end den har været under den tyske ejerkreds SSE22.</p><p>- Der er nogle ting, som man ikke har gjort rigtig godt i den nuværende ejerstruktur. Vi var selvfølgelig økonomisk udfordret, da tyskerne kom. Og set ud fra det kan man sige, at det måske var nødvendigt, at der kom nogle nye ejere på et eller andet tidspunkt, siger han og uddyber:</p><p>- Men jeg synes, at de har gjort forkert i, at de har overtaget den sportslige ledelse totalt uden at kigge på, hvad det er for en klub, de er kommet til, hvad er det for nogle traditioner, hvad er det for en kultur, de er kommet til.</p><p>Derfor hilser han også debatten om potentielle nye ejere AaB velkommen. </p><p>Hvis de tyske ejere fortsat vil drive klubben i næste sæson, har Søren Kusk et godt råd:</p><p>- Så kan man se til klubber som FC Nordsjælland og FC Midtjylland. De har haft udenlandske ejere, men de har bibeholdt den sportslige ledelse på danske hænder, og det, tror jeg, er en væsentlig forskel. </p><p><strong>TV2 Nord har også talt med Aalborg-borgmester Lasse Frimand Jensen om, hvorfor han ønsker nye ejere i AaB.</strong></p>",
-  "link": "https://www.tv2nord.dk/aalborg/forst-langede-borgmester-ud-efter-aabs-ledelse-nu-retter-klubmand-skarp-kritik",
-  "published": "Sun, 25 May 25 19:13:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/forst-langede-borgmester-ud-efter-aabs-ledelse-nu-retter-klubmand-skarp-kritik",
-  "category": "No category"
- },
- {
-  "title": "Aalborg Håndbold vinder første semifinalekamp",
-  "description": "<p>Aalborg Håndbold vandt søndag aften den første semifinalekamp mod TTH Holstebro med 28-23. </p><p>Gennem det meste af kampen førte aalborgenserne stort, dog formåede gæsterne at få reduceret i kampens anden periode, inden hjemmeholdet igen dominerede og udbyggede sin føring. </p><p>Du kan læse mere om kampen <a href=\"https://www.tv2nord.dk/aalborg/storspillede-landin-sikrer-forste-semifinalesejr\">her</a>. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-handbold-vinder-forste-semifinalekamp",
-  "published": "Sun, 25 May 25 17:45:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-handbold-vinder-forste-semifinalekamp",
-  "category": "No category"
- },
- {
-  "title": "11-årige Jens bag vild indsamling til ukrainske børn",
-  "description": "",
-  "link": "https://www.tv2nord.dk/jammerbugt/11-arige-jens-samler-ind-til-ukrainske-born-i-morgen-sender-han-rorende-gaver-afsted",
-  "published": "Sun, 25 May 25 17:08:00 +0200",
-  "guid": "https://www.tv2nord.dk/jammerbugt/11-arige-jens-samler-ind-til-ukrainske-born-i-morgen-sender-han-rorende-gaver-afsted",
-  "category": "No category"
- },
- {
-  "title": "Langer hårdt ud efter miljøminister: Det handler om at forstå den virkelighed, der er uden for Christiansborg",
-  "description": "Det handler ikke om at være humorforladt, men om at forstå, at for mange er fiskeri ikke en punchline – det er deres virkelighed, skriver socialdemokratisk gruppeformand i åbent brev til miljøminister",
-  "link": "https://nordjyske.dk/nyheder/byudvikling/langer-haardt-ud-efter-miljoeminister-det-handler-om-at-forstaa-den-virkelighed-der-er-uden-for-christiansborg/5597213?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 26 May 2025 03:51:12 Z",
-  "guid": "4d64b554-2d2c-416d-8281-5f4badce635b",
-  "category": "samfund"
- },
- {
   "title": "Derfor kan Eigild Christensen endnu ikke lægge konkursen af sit flyselskab bag sig",
   "description": "Det er længe siden, at Great Dane Airlines gik konkurs. Men Eigild Christensen har stadig penge på spil - og en retssag venter",
   "link": "https://nordjyske.dk/nyheder/erhverv/derfor-kan-eigild-christensen-endnu-ikke-laegge-konkursen-af-sit-flyselskab-bag-sig/5591390?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 26 May 2025 03:57:46 Z",
   "guid": "34b83408-fe31-4f9e-bdef-37e9823af838",
   "category": "Erhverv"
+ },
+ {
+  "title": "Stor vrede over minister-rap: \"Det skaber arbejdspladser, holder skoler og butikker åbne og sikrer liv i områder truet af affolkning\"",
+  "description": "Det handler ikke om at være humorforladt, men om at forstå, at for mange er fiskeri ikke en punchline – det er deres virkelighed, skriver socialdemokratisk gruppeformand i åbent brev til miljøminister",
+  "link": "https://nordjyske.dk/nyheder/byudvikling/langer-haardt-ud-efter-miljoeminister-det-handler-om-at-forstaa-den-virkelighed-der-er-uden-for-christiansborg/5597213?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 26 May 2025 03:51:12 Z",
+  "guid": "4d64b554-2d2c-416d-8281-5f4badce635b",
+  "category": "samfund"
  },
  {
   "title": "Hun tog stoffer med sin far – nu tager hun ansvar bag rattet",
