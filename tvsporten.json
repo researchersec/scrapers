@@ -1,25 +1,5 @@
 [
  {
-  "match": "French Open",
-  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "12:00",
-  "date": "2025-05-26",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Holger Rune - Roberto Bautista Agut",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:00",
@@ -37,7 +17,7 @@
  },
  {
   "match": "Walsall FC – Afc Wimbledon",
-  "category": "League Two \n\t\t\t\t\t\t\t\t\t(Playoff - Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.80  |  2.88  |  2.75",
+  "category": "League Two \n\t\t\t\t\t\t\t\t\t(Playoff - Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.80  |  2.85  |  2.75",
   "time": "16:00",
   "date": "2025-05-26",
   "channels": [
@@ -125,7 +105,7 @@
  },
  {
   "match": "Al Hilal - Al Quadisiya",
-  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.61  |  4.30  |  4.20",
+  "category": "Pro League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.85  |  4.00  |  3.35",
   "time": "20:00",
   "date": "2025-05-26",
   "channels": [
