@@ -2,7 +2,7 @@
  {
   "match": "French Open",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:30",
+  "time": "11:00",
   "date": "2025-05-27",
   "channels": [
    {
@@ -209,6 +209,22 @@
  },
  {
   "match": "Hubert Hurkacz - Joao Fonseca",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-05-27",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Noskova/Tauson - Mihalikova/Nicholls",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
   "date": "2025-05-27",
