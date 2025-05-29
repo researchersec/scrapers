@@ -112,20 +112,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhX6T4Tf2%2Fp-19.webp&w=300&x1r=0.3342&x2r=0.6505&y1r=0.5434&y2r=0.9608&s=4c504100eecbad824472df7d11652e9b"
  },
  {
-  "link": "/SPAR?publication=bv5S9xrb&offer=dMTH-Bw2qtSm6DsddpBOX",
-  "price": "72",
-  "currency": "DKK",
-  "valid_from": "31-05-2025",
-  "valid_until": "30-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbv5S9xrb%2Fp-2.webp&w=300&x1r=0.4896&x2r=0.9577&y1r=0.6895&y2r=0.9586&s=463812ae2d7feb76c0ff705deb9df9dc"
- },
- {
   "link": "/Min-Kobmand?publication=dd_cZ8yz&offer=tKR6VSg_YzWJ4wFG0YOXA",
   "price": "135",
   "currency": "DKK",
   "valid_from": "22-05-2025",
   "valid_until": "29-05-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fdd_cZ8yz%2Fp-14.webp&w=300&x1r=0.5032&x2r=0.9776&y1r=0.6367&y2r=0.9727&s=89961797261ee0c32b5f0db958fba4fd"
+ },
+ {
+  "link": "/SPAR?publication=bv5S9xrb&offer=dMTH-Bw2qtSm6DsddpBOX",
+  "price": "72",
+  "currency": "DKK",
+  "valid_from": "31-05-2025",
+  "valid_until": "30-06-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbv5S9xrb%2Fp-2.webp&w=300&x1r=0.4896&x2r=0.9577&y1r=0.6895&y2r=0.9586&s=463812ae2d7feb76c0ff705deb9df9dc"
  },
  {
   "link": "/Fleggaard?publication=eSmm47Be&offer=qNbTkWPdnTdP_GzCEYpPc",
@@ -192,20 +192,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FV9PAdjeq%2Fp-42.webp&w=300&x1r=0.0138&x2r=1&y1r=0.0027&y2r=0.4976&s=d88e1faa1c6a6aa385bf16021d87440b"
  },
  {
-  "link": "/Poetzsch-Padborg?publication=mhYsJY8W&offer=C0lxii_eqE-oC8UQ2ba2V",
-  "price": "79.99",
-  "currency": "DKK",
-  "valid_from": "27-05-2025",
-  "valid_until": "25-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmhYsJY8W%2Fp-34.webp&w=300&x1r=0.0248&x2r=0.969&y1r=0.0713&y2r=0.3586&s=52f351624842afe022f960601c114521"
- },
- {
   "link": "/Otto-Duborg?publication=hxjfBJpR&offer=xAviFIcql-LtX--Ymvhgb",
   "price": "79.99",
   "currency": "DKK",
   "valid_from": "27-05-2025",
   "valid_until": "25-06-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhxjfBJpR%2Fp-32.webp&w=300&x1r=0.0277&x2r=0.9711&y1r=0.0651&y2r=0.3785&s=39ae13206554c3398f92218a81ca77a3"
+ },
+ {
+  "link": "/Poetzsch-Padborg?publication=mhYsJY8W&offer=C0lxii_eqE-oC8UQ2ba2V",
+  "price": "79.99",
+  "currency": "DKK",
+  "valid_from": "27-05-2025",
+  "valid_until": "25-06-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmhYsJY8W%2Fp-34.webp&w=300&x1r=0.0248&x2r=0.969&y1r=0.0713&y2r=0.3586&s=52f351624842afe022f960601c114521"
  },
  {
   "link": "/BorderShop?publication=Rz-yPiH7&offer=kLDveksFziV5ATJl2dMO4",
