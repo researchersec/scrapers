@@ -297,7 +297,7 @@
  },
  {
   "match": "Hong Kong - Manchester United",
-  "category": "Klub Venskabskamp\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Klub Venskabskamp\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 9.50  |  6.40  |  1.22",
   "time": "14:00",
   "date": "2025-05-30",
   "channels": [
@@ -480,6 +480,10 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "V Sport Live 3",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/v-sport-live-3100x60-1.jpg"
    },
    {
     "name": "Norlys",
