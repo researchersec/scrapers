@@ -1,25 +1,5 @@
 [
  {
-  "match": "Singapore Open",
-  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:00",
-  "date": "2025-05-30",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "French Open",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "10:30",
@@ -59,6 +39,54 @@
   "match": "Clara Tauson - Amanda Anisimova",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "11:10",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Lorenzo Musetti - Mariano Navone",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:10",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Qinwen Zheng - Victoria Mboko",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:10",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Aryna Sabalenka - Olga Danilovic",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "12:10",
   "date": "2025-05-30",
   "channels": [
    {
@@ -120,6 +148,70 @@
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Iga Swiatek - Jaqueline Cristian",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Tommy Paul - Karen Khachanov",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Alexei Popyrin - Nuno Borges",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Liudmila Samsonova - Dayana Yastremska",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
@@ -236,7 +328,7 @@
   ]
  },
  {
-  "match": "Holger Rune Quentin Halys",
+  "match": "Holger Rune - Quentin Halys",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:00",
   "date": "2025-05-30",
@@ -288,6 +380,22 @@
   ]
  },
  {
+  "match": "Elena Rybakina - Jelena Ostapenko",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Spaniens Grand Prix",
   "category": "Formel 2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:00",
@@ -328,6 +436,38 @@
   ]
  },
  {
+  "match": "Ben Shelton - Matteo Gigante",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hamad Medjedovic - Daniel Altmaier",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Spaniens Grand Prix",
   "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:00",
@@ -340,6 +480,22 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Jasmine Paolini - Yuliia Starodubtseva",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
@@ -361,6 +517,22 @@
     "name": "Eurosport 2",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
    },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Frances Tiafoe - Sebastian Korda",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-05-30",
+  "channels": [
    {
     "name": "Max",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
@@ -404,6 +576,22 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Elina Svitolina - Bernarda Pera",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
@@ -468,6 +656,22 @@
   ]
  },
  {
+  "match": "Carlos Alcaraz - Damir Dzumhur",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:15",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Tyskland – Holland",
   "category": "UEFA Women's Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.62  |  3.70  |  4.30",
   "time": "20:30",
@@ -485,7 +689,7 @@
  },
  {
   "match": "England - Portugal",
-  "category": "UEFA Women's Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "UEFA Women's Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.20  |  6.50  |  10.50",
   "time": "20:45",
   "date": "2025-05-30",
   "channels": [
