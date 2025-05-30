@@ -56,6 +56,22 @@
   ]
  },
  {
+  "match": "Clara Tauson - Amanda Anisimova",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:10",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Biella - Champoluc",
   "category": "Giro d'Italia\n\t\t\t\t\t\t\t\t\t(- 166 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "12:15",
@@ -212,6 +228,22 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Holger Rune Quentin Halys",
+  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-05-30",
+  "channels": [
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
@@ -453,7 +485,7 @@
  },
  {
   "match": "England - Portugal",
-  "category": "UEFA Women's Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.20  |  6.50  |  10.50",
+  "category": "UEFA Women's Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:45",
   "date": "2025-05-30",
   "channels": [
