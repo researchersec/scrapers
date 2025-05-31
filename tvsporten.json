@@ -200,6 +200,26 @@
   ]
  },
  {
+  "match": "Astrup/Skaarup - Kim/Seo",
+  "category": "BWF World Tour \n\t\t\t\t\t\t\t\t\t(Singapore Open)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-05-31",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Detroit Grand Prix",
   "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:00",
@@ -219,6 +239,22 @@
   "match": "Spaniens Grand Prix",
   "category": "Formel 2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:15",
+  "date": "2025-05-31",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "World RX of Portugal",
+  "category": "World RX\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:30",
   "date": "2025-05-31",
   "channels": [
    {
@@ -565,7 +601,7 @@
  },
  {
   "match": "Paris Saint Germain – Inter",
-  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.40  |  3.50",
+  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.25  |  3.30  |  3.55",
   "time": "21:00",
   "date": "2025-05-31",
   "channels": [
@@ -611,54 +647,6 @@
   "match": "Detroit Grand Prix",
   "category": "IMSA Sportscar Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:45",
-  "date": "2025-05-31",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Zachary Reese - Dusko Todorovic",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:00",
-  "date": "2025-05-31",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Ketlen Vieira - Macy Chiasson",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "03:30",
-  "date": "2025-05-31",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Dustin Jacoby - Bruno Lopes",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "04:00",
   "date": "2025-05-31",
   "channels": [
    {
