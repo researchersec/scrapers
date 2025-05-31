@@ -1,51 +1,11 @@
 [
  {
-  "link": "/Lidl?publication=gAy3O3eZ&offer=V6d0N0ETI5_FGRHyXOZoH",
-  "price": "6",
-  "currency": "DKK",
-  "valid_from": "24-05-2025",
-  "valid_until": "31-05-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgAy3O3eZ%2Fp-1.webp&w=300&x1r=0.0116&x2r=0.501&y1r=0.4218&y2r=0.714&s=1f47feefff8cef4516eac6c943651513"
- },
- {
-  "link": "/REMA-1000?publication=Fz_9iOIG&offer=dIj0Cp_8-ZLbSbGn-ep_4",
-  "price": "12",
-  "currency": "DKK",
-  "valid_from": "24-05-2025",
-  "valid_until": "31-05-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFz_9iOIG%2Fp-3.webp&w=300&x1r=0.0088&x2r=1&y1r=0.0651&y2r=0.4699&s=5ad9cd30083958307ed15b10970b5c1b"
- },
- {
   "link": "/Netto?publication=B8rfvwIT&offer=MDkkiB4eOChivTpn1y0mT",
   "price": "12",
   "currency": "DKK",
   "valid_from": "30-05-2025",
   "valid_until": "06-06-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FB8rfvwIT%2Fp-1.webp&w=300&x1r=0.5061&x2r=0.9902&y1r=0.1983&y2r=0.5432&s=9f4ec3ddd06e4a4373cc7a961a28d5ee"
- },
- {
-  "link": "/REMA-1000?publication=Fz_9iOIG&offer=Wm5cZRuf78UCgjOz8yTPt",
-  "price": "6",
-  "currency": "DKK",
-  "valid_from": "29-05-2025",
-  "valid_until": "31-05-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFz_9iOIG%2Fp-27.webp&w=300&x1r=0.0078&x2r=0.9026&y1r=0&y2r=0.4838&s=0870bd315d0166b5f330f96a5afda33f"
- },
- {
-  "link": "/REMA-1000?publication=ta8vwoVu&offer=3fvAwAHL2dFvNnCa12IYj",
-  "price": "6",
-  "currency": "DKK",
-  "valid_from": "29-05-2025",
-  "valid_until": "31-05-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fta8vwoVu%2Fp-3.webp&w=300&x1r=0.0025&x2r=0.8885&y1r=0.0015&y2r=0.4814&s=3ba680f06e29164ec2bf0ff6ac5d6810"
- },
- {
-  "link": "/REMA-1000?publication=Fz_9iOIG&offer=RvYq5AL_CfnRmJAJhjBP1",
-  "price": "4.5",
-  "currency": "DKK",
-  "valid_from": "24-05-2025",
-  "valid_until": "31-05-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFz_9iOIG%2Fp-14.webp&w=300&x1r=0.5866&x2r=0.9939&y1r=0.3887&y2r=0.669&s=6cae7790f29f6b44bef59d247210dddb"
  },
  {
   "link": "/REMA-1000?publication=JoLt38Oy&offer=pCIEVb5XwqXHKv-zRcOAQ",
