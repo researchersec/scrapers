@@ -1,81 +1,5 @@
 [
  {
-  "match": "Austrian Open",
-  "category": "DP World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "12:30",
-  "date": "2025-06-01",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "European Darts Open",
-  "category": "PDC European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "13:00",
-  "date": "2025-06-01",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "French Open",
-  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "13:00",
-  "date": "2025-06-01",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "World RX of Portugal",
-  "category": "World RX\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "13:30",
-  "date": "2025-06-01",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Iga Swiatek - Elena Rubakina",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:00",
@@ -169,6 +93,10 @@
   "time": "15:00",
   "date": "2025-06-01",
   "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
