@@ -1,41 +1,5 @@
 [
  {
-  "match": "U.S. Women's Open",
-  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-06-01",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "European Darts Open",
-  "category": "PDC European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-06-01",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Lorenzo Musetti - Holger Rune",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:15",
