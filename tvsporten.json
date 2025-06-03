@@ -86,5 +86,21 @@
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
    }
   ]
+ },
+ {
+  "match": "Østrig – Tyskland",
+  "category": "UEFA Women's Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:30",
+  "date": "2025-06-03",
+  "channels": [
+   {
+    "name": "FIFA+",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/fifa.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
  }
 ]
