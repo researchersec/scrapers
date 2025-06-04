@@ -1,37 +1,5 @@
 [
  {
-  "match": "B.93 - KB",
-  "category": "Andet\n\t\t\t\t\t\t\t\t\t(Elitedivisionen)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:45",
-  "date": "2025-06-04",
-  "channels": [
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Jannik Sinner - Alexander Bublik",
-  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-06-04",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Mexico U20 - Denmark U20",
   "category": "Maurice Revello Tournament\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
@@ -165,7 +133,7 @@
  },
  {
   "match": "Tyskland – Portugal",
-  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.88  |  3.90  |  3.80",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-06-04",
   "channels": [
