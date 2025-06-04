@@ -1,41 +1,5 @@
 [
  {
-  "match": "SC Magdeburg – SG Flensburg-Handewitt",
-  "category": "Bundesliga Håndbold\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-06-04",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Lodtrækning",
-  "category": "U17-VM Kvinder\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-06-04",
-  "channels": [
-   {
-    "name": "FIFA+",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/fifa.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Alexander Zverev - Novak Djokovic",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:15",
