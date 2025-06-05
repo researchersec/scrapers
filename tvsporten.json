@@ -1,45 +1,5 @@
 [
  {
-  "match": "L. Boisson - C. Gauff",
-  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:30",
-  "date": "2025-06-05",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Georgien – Færøerne",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.01  |  20.00  |  67.00",
-  "time": "18:00",
-  "date": "2025-06-05",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Rasmus Højgaard i Canadian Open",
   "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:15",
@@ -129,7 +89,7 @@
  },
  {
   "match": "Spanien – Frankrig",
-  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.30  |  3.05",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.35  |  3.00",
   "time": "21:00",
   "date": "2025-06-05",
   "channels": [
