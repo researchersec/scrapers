@@ -208,20 +208,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmhYsJY8W%2Fp-34.webp&w=300&x1r=0.0248&x2r=0.969&y1r=0.0713&y2r=0.3586&s=52f351624842afe022f960601c114521"
  },
  {
-  "link": "/SPAR?publication=aWO1FLtX&offer=V9EOl3mJIlACvM8eo3T8m",
-  "price": "112",
-  "currency": "DKK",
-  "valid_from": "05-06-2025",
-  "valid_until": "12-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaWO1FLtX%2Fp-13.webp&w=300&x1r=0.5316&x2r=0.963&y1r=0.463&y2r=0.7928&s=94634bc5ec923ad8d9e55e250683191e"
- },
- {
   "link": "/Otto-Duborg?publication=hxjfBJpR&offer=xAviFIcql-LtX--Ymvhgb",
   "price": "79.99",
   "currency": "DKK",
   "valid_from": "27-05-2025",
   "valid_until": "25-06-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhxjfBJpR%2Fp-32.webp&w=300&x1r=0.0277&x2r=0.9711&y1r=0.0651&y2r=0.3785&s=39ae13206554c3398f92218a81ca77a3"
+ },
+ {
+  "link": "/SPAR?publication=aWO1FLtX&offer=V9EOl3mJIlACvM8eo3T8m",
+  "price": "112",
+  "currency": "DKK",
+  "valid_from": "05-06-2025",
+  "valid_until": "12-06-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaWO1FLtX%2Fp-13.webp&w=300&x1r=0.5316&x2r=0.963&y1r=0.463&y2r=0.7928&s=94634bc5ec923ad8d9e55e250683191e"
  },
  {
   "link": "/BorderShop?publication=SWflRsnV&offer=bbI3DK1MYSkRHuZPj7ZSl",
