@@ -96,20 +96,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbkzrm1Hq%2Fp-35.webp&w=300&x1r=0.598&x2r=0.9926&y1r=0.6864&y2r=0.9881&s=594eafa8507550f8bfcc01aabaff782b"
  },
  {
-  "link": "/LET-KOB?publication=MLW8OTP-&offer=BRaubvcUfphfyxHBMYCdc",
-  "price": "135",
-  "currency": "DKK",
-  "valid_from": "01-06-2025",
-  "valid_until": "15-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMLW8OTP-%2Fp-4.webp&w=300&x1r=0.5037&x2r=0.9791&y1r=0.6664&y2r=0.9824&s=3080ac26b5085cd109ee4d16ad8d8109"
- },
- {
   "link": "/MENY?publication=bkzrm1Hq&offer=aeNDT48Wjhr5mKlBE2cPh",
   "price": "30",
   "currency": "DKK",
   "valid_from": "05-06-2025",
   "valid_until": "12-06-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbkzrm1Hq%2Fp-38.webp&w=300&x1r=0.0249&x2r=0.5117&y1r=0.1981&y2r=0.5206&s=b168d80138fa827fc79e9ff109bffc46"
+ },
+ {
+  "link": "/LET-KOB?publication=MLW8OTP-&offer=BRaubvcUfphfyxHBMYCdc",
+  "price": "135",
+  "currency": "DKK",
+  "valid_from": "01-06-2025",
+  "valid_until": "15-06-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMLW8OTP-%2Fp-4.webp&w=300&x1r=0.5037&x2r=0.9791&y1r=0.6664&y2r=0.9824&s=3080ac26b5085cd109ee4d16ad8d8109"
  },
  {
   "link": "/Min-Kobmand?publication=5vvXpK45&offer=Zl-eZm8j14wNfIRZ-_YxN",
@@ -190,6 +190,14 @@
   "valid_from": "27-05-2025",
   "valid_until": "24-06-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkaF4caI8%2Fp-11.webp&w=300&x1r=0.6298&x2r=0.9876&y1r=0.0118&y2r=0.1597&s=1548dd0fb64fcf233090c9463037984e"
+ },
+ {
+  "link": "/Min-Kobmand?publication=ckjXFFik&offer=kZnL-1tWjVfhCQdfPxEGU",
+  "price": "135",
+  "currency": "DKK",
+  "valid_from": "09-06-2025",
+  "valid_until": "12-06-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FckjXFFik%2Fp-6.webp&w=300&x1r=0.0141&x2r=0.5106&y1r=0.5001&y2r=0.9732&s=2735b299eb2aa3533a6edfb3ef092b81"
  },
  {
   "link": "/Netto?publication=_BHyPhGp&offer=pNokRFQvoqvajOb42REi7",
