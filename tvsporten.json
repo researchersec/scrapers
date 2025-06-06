@@ -1,41 +1,5 @@
 [
  {
-  "match": "Ungarn – Sverige",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.35  |  3.45  |  2.95",
-  "time": "19:30",
-  "date": "2025-06-06",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Niklas Norgaard i Canadian Open",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:45",
-  "date": "2025-06-06",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Gibraltar – Kroatien",
   "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 111.00  |  30.00  |  1.01",
   "time": "20:45",
