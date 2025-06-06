@@ -1,57 +1,5 @@
 [
  {
-  "match": "Bulgarien – Cypern",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.62  |  3.35  |  4.90",
-  "time": "18:00",
-  "date": "2025-06-06",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Nicolai Højgaard i Canadian Open",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-06-06",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Shoprite LPGA Classic",
-  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-06-06",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "French Open",
   "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
@@ -89,7 +37,7 @@
  },
  {
   "match": "Luxembourg – Slovenien",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.80  |  2.88  |  1.96",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.80  |  3.10  |  2.70",
   "time": "19:00",
   "date": "2025-06-06",
   "channels": [
@@ -141,7 +89,7 @@
  },
  {
   "match": "Ungarn – Sverige",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.40  |  3.15",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:30",
   "date": "2025-06-06",
   "channels": [
@@ -177,7 +125,7 @@
  },
  {
   "match": "Gibraltar – Kroatien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 126.00  |  35.00  |  1.01",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 121.00  |  36.00  |  1.01",
   "time": "20:45",
   "date": "2025-06-06",
   "channels": [
@@ -209,7 +157,7 @@
  },
  {
   "match": "Estland – Israel",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.10  |  3.85  |  1.43",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.50  |  4.10  |  1.53",
   "time": "20:45",
   "date": "2025-06-06",
   "channels": [
@@ -225,7 +173,7 @@
  },
  {
   "match": "Nord Makedonien – Belgien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 8.50  |  4.40  |  1.40",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 9.00  |  4.50  |  1.37",
   "time": "20:45",
   "date": "2025-06-06",
   "channels": [
@@ -305,7 +253,7 @@
  },
  {
   "match": "Norge – Italien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  3.20  |  2.60",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  3.05  |  2.65",
   "time": "20:45",
   "date": "2025-06-06",
   "channels": [
