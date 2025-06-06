@@ -1,22 +1,6 @@
 [
  {
   "match": "Aragon Grand Prix",
-  "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:45",
-  "date": "2025-06-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Aragon Grand Prix",
   "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "10:45",
   "date": "2025-06-06",
@@ -493,7 +477,7 @@
  },
  {
   "match": "Gibraltar – Kroatien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 111.00  |  29.00  |  1.01",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 91.00  |  26.00  |  1.01",
   "time": "20:45",
   "date": "2025-06-06",
   "channels": [
@@ -557,7 +541,7 @@
  },
  {
   "match": "Tjekkiet – Montenegro",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.29  |  5.00  |  10.50",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.00  |  10.50",
   "time": "20:45",
   "date": "2025-06-06",
   "channels": [
