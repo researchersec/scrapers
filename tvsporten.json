@@ -461,7 +461,7 @@
  },
  {
   "match": "Ungarn – Sverige",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.95  |  3.60  |  3.65",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.96  |  3.60  |  3.65",
   "time": "19:30",
   "date": "2025-06-06",
   "channels": [
@@ -545,7 +545,7 @@
  },
  {
   "match": "Nord Makedonien – Belgien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 9.00  |  4.40  |  1.37",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 9.50  |  4.50  |  1.36",
   "time": "20:45",
   "date": "2025-06-06",
   "channels": [
@@ -656,26 +656,6 @@
    {
     "name": "Max",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Edmonton Oilers – Florida Panthers",
-  "category": "NHL \n\t\t\t\t\t\t\t\t\t(Stanley Cup Final - Game 2)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.32  |  4.20  |  2.70",
-  "time": "02:00",
-  "date": "2025-06-06",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
