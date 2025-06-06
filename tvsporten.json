@@ -1,41 +1,5 @@
 [
  {
-  "match": "Zandvoort",
-  "category": "DTM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-06-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Verdenscup i Mountainbike",
-  "category": "Mountainbike\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:15",
-  "date": "2025-06-06",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Bulgarien – Cypern",
   "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.62  |  3.35  |  4.90",
   "time": "18:00",
@@ -125,7 +89,7 @@
  },
  {
   "match": "Luxembourg – Slovenien",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.00  |  3.05  |  2.10",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.80  |  2.88  |  1.96",
   "time": "19:00",
   "date": "2025-06-06",
   "channels": [
@@ -261,7 +225,7 @@
  },
  {
   "match": "Nord Makedonien – Belgien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 9.00  |  4.50  |  1.38",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 8.50  |  4.40  |  1.40",
   "time": "20:45",
   "date": "2025-06-06",
   "channels": [
@@ -341,7 +305,7 @@
  },
  {
   "match": "Norge – Italien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  3.20  |  2.60",
   "time": "20:45",
   "date": "2025-06-06",
   "channels": [
