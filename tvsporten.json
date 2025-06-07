@@ -1,25 +1,5 @@
 [
  {
-  "match": "Indonesia Open",
-  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "07:00",
-  "date": "2025-06-07",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Aragon Grand Prix",
   "category": "Moto3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "08:45",
@@ -229,7 +209,7 @@
  },
  {
   "match": "AIK - FC Rosengård",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.00  |  3.70  |  1.70",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.65  |  3.55  |  1.82",
   "time": "13:00",
   "date": "2025-06-07",
   "channels": [
@@ -673,7 +653,7 @@
  },
  {
   "match": "Andorra – England",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 111.00  |  31.00  |  1.02",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 111.00  |  29.00  |  1.02",
   "time": "18:00",
   "date": "2025-06-07",
   "channels": [
@@ -749,7 +729,7 @@
  },
  {
   "match": "Danmark – Nordirland",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.25  |  9.50",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.42  |  4.50  |  7.50",
   "time": "19:00",
   "date": "2025-06-07",
   "channels": [
@@ -769,7 +749,7 @@
  },
  {
   "match": "Østrig – Rumænien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.33  |  4.90  |  9.50",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.29  |  5.25  |  10.50",
   "time": "20:45",
   "date": "2025-06-07",
   "channels": [
@@ -805,7 +785,7 @@
  },
  {
   "match": "Finland – Holland",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 11.50  |  5.50  |  1.26",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 11.00  |  5.25  |  1.28",
   "time": "20:45",
   "date": "2025-06-07",
   "channels": [
@@ -861,7 +841,7 @@
  },
  {
   "match": "Almeria - Real Oviedo",
-  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.98  |  3.15  |  3.75",
+  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.08  |  3.10  |  3.50",
   "time": "21:00",
   "date": "2025-06-07",
   "channels": [
