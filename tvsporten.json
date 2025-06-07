@@ -1,25 +1,5 @@
 [
  {
-  "match": "8 Hours of Spa Motos",
-  "category": "FIM Endurance World Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-06-07",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Danmark U20 - Congo U20",
   "category": "Maurice Revello Tournament\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
@@ -53,7 +33,7 @@
  },
  {
   "match": "Malta – Litauen",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  2.80  |  3.00",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.75  |  2.75  |  3.10",
   "time": "18:00",
   "date": "2025-06-07",
   "channels": [
@@ -69,7 +49,7 @@
  },
  {
   "match": "Andorra – England",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 111.00  |  35.00  |  1.02",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 151.00  |  36.00  |  1.02",
   "time": "18:00",
   "date": "2025-06-07",
   "channels": [
@@ -161,7 +141,7 @@
  },
  {
   "match": "Danmark – Nordirland",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.45  |  4.30  |  7.00",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.47  |  4.20  |  7.00",
   "time": "19:00",
   "date": "2025-06-07",
   "channels": [
@@ -197,7 +177,7 @@
  },
  {
   "match": "Østrig – Rumænien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  5.10  |  9.50",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.32  |  5.00  |  9.50",
   "time": "20:45",
   "date": "2025-06-07",
   "channels": [
@@ -233,7 +213,7 @@
  },
  {
   "match": "Finland – Holland",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 11.00  |  5.40  |  1.26",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 11.50  |  5.50  |  1.26",
   "time": "20:45",
   "date": "2025-06-07",
   "channels": [
