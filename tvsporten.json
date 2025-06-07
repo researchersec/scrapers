@@ -397,7 +397,7 @@
  },
  {
   "match": "Letland – Azerbaijan",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.20  |  3.30  |  2.30",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.80  |  3.40  |  2.50",
   "time": "15:00",
   "date": "2025-06-07",
   "channels": [
@@ -861,7 +861,7 @@
  },
  {
   "match": "Almeria - Real Oviedo",
-  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.90  |  3.25  |  3.95",
+  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.98  |  3.15  |  3.75",
   "time": "21:00",
   "date": "2025-06-07",
   "channels": [
@@ -904,22 +904,6 @@
    {
     "name": "FIFA+",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/fifa.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Mario Bautista - Patchy Mix",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "04:30",
-  "date": "2025-06-07",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
