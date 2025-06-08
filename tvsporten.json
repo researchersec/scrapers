@@ -1,61 +1,5 @@
 [
  {
-  "match": "Aragon Grand Prix",
-  "category": "Moto3\n\t\t\t\t\t\t\t\t\t(17 Laps)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:00",
-  "date": "2025-06-08",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "French Open",
-  "category": "French Open\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:00",
-  "date": "2025-06-08",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Slovenien Rundt",
-  "category": "UCI ProSeries\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:15",
-  "date": "2025-06-08",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Zandvoort",
   "category": "Porsche Carrera Cup Germany\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "11:30",
@@ -317,7 +261,7 @@
  },
  {
   "match": "Tyskland – Frankrig",
-  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.55  |  3.45  |  2.70",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.48  |  3.60  |  2.70",
   "time": "15:00",
   "date": "2025-06-08",
   "channels": [
@@ -589,7 +533,7 @@
  },
  {
   "match": "Spanien – Portugal",
-  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.40  |  2.02",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.60  |  3.65  |  2.00",
   "time": "21:00",
   "date": "2025-06-08",
   "channels": [
