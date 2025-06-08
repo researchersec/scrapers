@@ -1,39 +1,7 @@
 [
  {
-  "match": "Zandvoort",
-  "category": "DTM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-06-08",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Thorbjørn Olesen i Canadian Open",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:45",
-  "date": "2025-06-08",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Georgien - Kap Verde",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.70  |  3.55  |  5.20",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.97  |  3.20  |  4.10",
   "time": "18:00",
   "date": "2025-06-08",
   "channels": [
@@ -65,7 +33,7 @@
  },
  {
   "match": "Racing De Santander - Mirandés",
-  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.15  |  3.15",
+  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.10  |  3.15",
   "time": "18:30",
   "date": "2025-06-08",
   "channels": [
@@ -161,7 +129,7 @@
  },
  {
   "match": "Spanien – Portugal",
-  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.80  |  3.40  |  2.02",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.10  |  3.40  |  1.94",
   "time": "21:00",
   "date": "2025-06-08",
   "channels": [
