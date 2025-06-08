@@ -1,17 +1,13 @@
 [
  {
-  "match": "Indonesia Open",
-  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "07:00",
+  "match": "Aragon Grand Prix",
+  "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "09:45",
   "date": "2025-06-08",
   "channels": [
    {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
@@ -20,9 +16,9 @@
   ]
  },
  {
-  "match": "Aragon Grand Prix",
-  "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:45",
+  "match": "KLM Open",
+  "category": "DP World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "10:00",
   "date": "2025-06-08",
   "channels": [
    {
@@ -285,7 +281,7 @@
  },
  {
   "match": "IFK Norrköping - Piteå IF DFF",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.12  |  3.05  |  3.20",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.84  |  3.20  |  3.90",
   "time": "15:00",
   "date": "2025-06-08",
   "channels": [
@@ -529,7 +525,7 @@
  },
  {
   "match": "Racing De Santander - Mirandés",
-  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.20  |  3.10  |  3.15",
+  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.10  |  3.15",
   "time": "18:30",
   "date": "2025-06-08",
   "channels": [
@@ -625,7 +621,7 @@
  },
  {
   "match": "Spanien – Portugal",
-  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.70  |  3.60  |  1.98",
+  "category": "UEFA Nations League\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.50  |  2.00",
   "time": "21:00",
   "date": "2025-06-08",
   "channels": [
