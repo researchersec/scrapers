@@ -1,37 +1,5 @@
 [
  {
-  "match": "Roman Safiullin - Giovanni Mpetshi Perricard",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-06-09",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Jordan Thompson - Aleksandar Kovacevic",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-06-09",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Nordic Darts Masters",
   "category": "World Series of Darts\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
@@ -53,7 +21,7 @@
  },
  {
   "match": "Liechtenstein – Skotland",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 25.00  |  12.00  |  1.07",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 201.00  |  36.00  |  1.05",
   "time": "18:00",
   "date": "2025-06-09",
   "channels": [
@@ -89,7 +57,7 @@
  },
  {
   "match": "Kosovo - Comorerne",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.45  |  4.40  |  6.00",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.57  |  4.00  |  5.00",
   "time": "19:00",
   "date": "2025-06-09",
   "channels": [
@@ -105,7 +73,7 @@
  },
  {
   "match": "Montenegro – Armenien",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.85  |  3.45  |  4.50",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.75  |  3.55  |  4.90",
   "time": "20:00",
   "date": "2025-06-09",
   "channels": [
@@ -141,7 +109,7 @@
  },
  {
   "match": "Belgien – Wales",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.44  |  4.50  |  6.75",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.47  |  4.40  |  6.50",
   "time": "20:45",
   "date": "2025-06-09",
   "channels": [
@@ -193,7 +161,7 @@
  },
  {
   "match": "Kroatien – Tjekkiet",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.00  |  3.20  |  3.90",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  3.15  |  3.95",
   "time": "20:45",
   "date": "2025-06-09",
   "channels": [
