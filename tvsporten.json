@@ -1,1 +1,402 @@
-[]
+[
+ {
+  "match": "Italy Major",
+  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "10:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Stuttgart Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Libema Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "The HSBC Championships",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Danmark U20 - Japan U20",
+  "category": "Maurice Revello Tournament\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Critérium du Dauphiné",
+  "category": "UCI World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:30",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Italy Major",
+  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Slovenien – Bosnien-Hercegovina",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Azerbaijan – Ungarn",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.60  |  3.60  |  1.80",
+  "time": "18:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Sverige – Algeriet",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.76  |  3.80  |  4.25",
+  "time": "19:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Danmark – Litauen",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.09  |  10.00  |  23.00",
+  "time": "19:00",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Nordic Darts Masters",
+  "category": "World Series of Darts\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:30",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "San Marino – Østrig",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 46.00  |  17.00  |  1.01",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Finland – Polen",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.75  |  3.20  |  1.84",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rumænien – Cypern",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.26  |  5.50  |  11.50",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Letland – Albanien",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.20  |  3.50  |  1.64",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Serbien – Andorra",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.01  |  19.00  |  76.00",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Nordirland – Island",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.15  |  3.30  |  3.50",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "England – Senegal",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.41  |  4.60  |  7.50",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Luxembourg – Irland",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.05  |  3.15  |  2.05",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Holland – Malta",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.02  |  25.00  |  91.00",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Slovakiet – Israel",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.70  |  3.15  |  2.75",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Grækenland – Bulgarien",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.42  |  4.30  |  8.00",
+  "time": "20:45",
+  "date": "2025-06-10",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ }
+]
