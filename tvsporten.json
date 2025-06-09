@@ -161,7 +161,7 @@
  },
  {
   "match": "Estland – Norge",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 29.00  |  11.00  |  1.07",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 29.00  |  11.50  |  1.07",
   "time": "20:45",
   "date": "2025-06-09",
   "channels": [
@@ -181,7 +181,7 @@
  },
  {
   "match": "Belgien – Wales",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  4.70  |  7.50",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  4.70  |  7.50",
   "time": "20:45",
   "date": "2025-06-09",
   "channels": [
@@ -213,7 +213,7 @@
  },
  {
   "match": "Italien – Moldova",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.04  |  13.00  |  36.00",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.05  |  12.50  |  34.00",
   "time": "20:45",
   "date": "2025-06-09",
   "channels": [
@@ -233,33 +233,13 @@
  },
  {
   "match": "Kroatien – Tjekkiet",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.73  |  3.75  |  4.60",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.71  |  3.80  |  4.70",
   "time": "20:45",
   "date": "2025-06-09",
   "channels": [
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Florida Panthers – Edmonton Oilers",
-  "category": "NHL \n\t\t\t\t\t\t\t\t\t(Stanley Cup Final - Game 3)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.20  |  4.10  |  2.90",
-  "time": "02:00",
-  "date": "2025-06-09",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
