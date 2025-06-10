@@ -1,39 +1,7 @@
 [
  {
-  "match": "Slovenien – Bosnien-Hercegovina",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.90  |  3.30  |  4.50",
-  "time": "18:00",
-  "date": "2025-06-10",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Azerbaijan – Ungarn",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.90  |  3.55  |  1.75",
-  "time": "18:00",
-  "date": "2025-06-10",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Sverige – Algeriet",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.81  |  3.75  |  4.10",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.88  |  3.75  |  3.80",
   "time": "19:00",
   "date": "2025-06-10",
   "channels": [
@@ -49,7 +17,7 @@
  },
  {
   "match": "Danmark – Litauen",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.09  |  9.50  |  21.00",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-06-10",
   "channels": [
@@ -105,7 +73,7 @@
  },
  {
   "match": "Finland – Polen",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.65  |  3.25  |  2.08",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.25  |  2.05",
   "time": "20:45",
   "date": "2025-06-10",
   "channels": [
@@ -121,7 +89,7 @@
  },
  {
   "match": "Rumænien – Cypern",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.33  |  5.10  |  8.50",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.30  |  9.00",
   "time": "20:45",
   "date": "2025-06-10",
   "channels": [
@@ -137,7 +105,7 @@
  },
  {
   "match": "Letland – Albanien",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.80  |  3.25  |  1.76",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.20  |  3.45  |  1.65",
   "time": "20:45",
   "date": "2025-06-10",
   "channels": [
@@ -169,7 +137,7 @@
  },
  {
   "match": "Nordirland – Island",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.15  |  3.30  |  3.50",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.10  |  3.20  |  3.80",
   "time": "20:45",
   "date": "2025-06-10",
   "channels": [
@@ -185,7 +153,7 @@
  },
  {
   "match": "England – Senegal",
-  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.44  |  4.30  |  7.50",
+  "category": "Venskabskamp - Herrer\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.44  |  4.35  |  7.00",
   "time": "20:45",
   "date": "2025-06-10",
   "channels": [
@@ -221,7 +189,7 @@
  },
  {
   "match": "Holland – Malta",
-  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.02  |  23.00  |  76.00",
+  "category": "VM-kvalifikation\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.02  |  23.00  |  81.00",
   "time": "20:45",
   "date": "2025-06-10",
   "channels": [
