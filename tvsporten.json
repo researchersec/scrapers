@@ -1,25 +1,5 @@
 [
  {
-  "match": "PDC World Cup of Darts",
-  "category": "World Cup of Darts\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-06-13",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Canadas Grand Prix",
   "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:30",
