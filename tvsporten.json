@@ -1,21 +1,13 @@
 [
  {
-  "match": "Canadas Grand Prix",
-  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:30",
+  "match": "Speedway Grand Prix",
+  "category": "Speedway\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:45",
   "date": "2025-06-14",
   "channels": [
    {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "V Sport Live 3",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/v-sport-live-3100x60-1.jpg"
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
@@ -24,9 +16,9 @@
   ]
  },
  {
-  "match": "Rasmus Højgaard i U.S. Open",
-  "category": "U.S. Open Championship\n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:40",
+  "match": "Rasmus Neergaard-Petersen i U.S. Open",
+  "category": "U.S. Open Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:45",
   "date": "2025-06-14",
   "channels": [
    {
@@ -36,66 +28,6 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Primetime Fight Night",
-  "category": "Boksning\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:45",
-  "date": "2025-06-14",
-  "channels": [
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "INDY NXT by Firestone at World Wide Technology Raceway",
-  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-06-14",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "PDC World Cup of Darts",
-  "category": "PDC Darts\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-06-14",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Speedway Grand Prix",
-  "category": "Speedway\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:45",
-  "date": "2025-06-14",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
