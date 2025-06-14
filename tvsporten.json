@@ -1,33 +1,13 @@
 [
  {
-  "match": "Canadas Grand Prix",
-  "category": "F1 Academy\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:15",
+  "match": "Niklas Nørgaard i U.S. Open",
+  "category": "U.S. Open Championship\n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:18",
   "date": "2025-06-14",
   "channels": [
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "24-timers Le Mans",
-  "category": "FIA World Endurance Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-06-14",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
@@ -117,7 +97,7 @@
  },
  {
   "match": "U.S. Open Golf",
-  "category": "U.S. Open Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "U.S. Open Championship\n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
   "date": "2025-06-14",
   "channels": [
@@ -152,6 +132,26 @@
    {
     "name": "V Sport Live 3",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/v-sport-live-3100x60-1.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rasmus Højgaard i U.S. Open",
+  "category": "U.S. Open Championship\n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:40",
+  "date": "2025-06-14",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
@@ -313,6 +313,26 @@
   "time": "21:00",
   "date": "2025-06-14",
   "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rasmus Neergaard-Petersen i U.S. Open",
+  "category": "U.S. Open Championship\n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "21:51",
+  "date": "2025-06-14",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
