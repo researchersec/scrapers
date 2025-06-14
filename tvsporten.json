@@ -1,25 +1,5 @@
 [
  {
-  "match": "WorldSBK",
-  "category": "VM i Superbike\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:00",
-  "date": "2025-06-14",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Critérium du Dauphiné",
   "category": "UCI World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:30",
@@ -93,7 +73,7 @@
  },
  {
   "match": "Kristianstads - Brommapojkarna",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.38  |  4.35  |  6.50",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.37  |  4.35  |  6.50",
   "time": "15:00",
   "date": "2025-06-14",
   "channels": [
