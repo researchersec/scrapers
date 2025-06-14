@@ -1,41 +1,5 @@
 [
  {
-  "match": "Speedway Grand Prix",
-  "category": "Speedway\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:45",
-  "date": "2025-06-14",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Rasmus Neergaard-Petersen i U.S. Open",
-  "category": "U.S. Open Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:45",
-  "date": "2025-06-14",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Canadas Grand Prix",
   "category": "F1 Academy\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:45",
