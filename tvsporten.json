@@ -450,6 +450,10 @@
   "date": "2025-06-14",
   "channels": [
    {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
@@ -648,7 +652,7 @@
   ]
  },
  {
-  "match": "Canadas Grand Prix",
+  "match": "Canadas Grand Prix - Kvalifikation",
   "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "22:00",
   "date": "2025-06-14",
