@@ -1,95 +1,7 @@
 [
  {
-  "match": "The HSBC Championships",
-  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:30",
-  "date": "2025-06-15",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Denmark U20 - Mexico U20",
-  "category": "Maurice Revello Tournament\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:30",
-  "date": "2025-06-15",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "The Women's Amateur Championship",
-  "category": "Women's Amateur Golf\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:30",
-  "date": "2025-06-15",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Zizou Bergs - Gabriel Diallo",
-  "category": "ATP \n\t\t\t\t\t\t\t\t\t(Finale - Hertogenbosch)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:40",
-  "date": "2025-06-15",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Hbc Nantes – FC Barcelona",
-  "category": "EHF Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-06-15",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Critérium du Dauphiné",
-  "category": "UCI World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "UCI World Tour \n\t\t\t\t\t\t\t\t\t(8. Etape)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:15",
   "date": "2025-06-15",
   "channels": [
@@ -109,7 +21,7 @@
  },
  {
   "match": "Schweiz Rundt",
-  "category": "UCI World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "UCI World Tour \n\t\t\t\t\t\t\t\t\t(1. Etape)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:15",
   "date": "2025-06-15",
   "channels": [
@@ -253,7 +165,7 @@
  },
  {
   "match": "FC Bayern München - Auckland City",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.02  |  76.00  |  226.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.02  |  71.00  |  251.00",
   "time": "18:00",
   "date": "2025-06-15",
   "channels": [
@@ -457,7 +369,7 @@
  },
  {
   "match": "Paris Saint Germain – Atletico Madrid",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.00  |  3.60  |  3.70",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.02  |  3.50  |  3.90",
   "time": "21:00",
   "date": "2025-06-15",
   "channels": [
