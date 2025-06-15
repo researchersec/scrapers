@@ -1,53 +1,5 @@
 [
  {
-  "match": "Piteå IF DFF - Malmö FF",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.60  |  3.25  |  2.00",
-  "time": "14:00",
-  "date": "2025-06-15",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "The HSBC Championships",
-  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:00",
-  "date": "2025-06-15",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Stuttgart Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:00",
-  "date": "2025-06-15",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "The HSBC Championships",
   "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:30",
