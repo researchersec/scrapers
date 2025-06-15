@@ -1,13 +1,157 @@
 [
  {
-  "match": "INDY NXT by Firestone at World Wide Technology Raceway",
-  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "22:30",
-  "date": "2025-06-15",
+  "match": "Halle Open",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:30",
+  "date": "2025-06-16",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Cinch Championships",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-06-16",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Schweiz Rundt",
+  "category": "UCI World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:45",
+  "date": "2025-06-16",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "German Open",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:00",
+  "date": "2025-06-16",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hammarby IF – Djurgårdens IF",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-06-16",
   "channels": [
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Chelsea FC - León",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "21:00",
+  "date": "2025-06-16",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Boca Juniors – Benfica",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.90  |  3.80  |  1.73",
+  "time": "00:00",
+  "date": "2025-06-16",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Oklahoma City Thunder – Indiana Pacers",
+  "category": "NBA \n\t\t\t\t\t\t\t\t\t(NBA Finals - Game 5)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "02:30",
+  "date": "2025-06-16",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Global NBA League Pass",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/global-nba-league-pass.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Flamengo Rj – ES Tunis",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.35  |  5.20  |  9.00",
+  "time": "03:00",
+  "date": "2025-06-16",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
    },
    {
     "name": "Norlys",
