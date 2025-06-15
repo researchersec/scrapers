@@ -509,7 +509,7 @@
  },
  {
   "match": "Mirandés - Real Oviedo",
-  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.04  |  3.10  |  3.60",
+  "category": "Segunda Divison\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.04  |  3.20  |  3.60",
   "time": "19:00",
   "date": "2025-06-15",
   "channels": [
@@ -648,22 +648,6 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Botafogo Rj – Seattle Sounders",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.98  |  3.60  |  3.80",
-  "time": "04:00",
-  "date": "2025-06-15",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
    },
    {
     "name": "Norlys",
