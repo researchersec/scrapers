@@ -13,7 +13,7 @@
   "currency": "DKK",
   "valid_from": "16-06-2025",
   "valid_until": "23-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fb8af9a0c461be5e42d08857a3d827737&w=300&s=912406b89b2ae1f77c8cf9e1e63e23c5"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fb8af9a0c461be5e42d08857a3d827737%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F26f76f579b851d0990c8bac6c762f637&w=300&s=6f9b89865ee726d8a09d5e2f15d4090a"
  },
  {
   "link": "/Lidl?publication=GC2FQVl7&offer=Q_E-DA_aqAnQRcWQmqp0X",
@@ -64,20 +64,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7IuMGh8z%2Fp-4.webp&w=300&x1r=0.6555&x2r=0.9894&y1r=0.2844&y2r=0.4972&s=7552a0e6b3d2b557bf1af4ea79c260aa"
  },
  {
-  "link": "/REMA-1000?publication=FDobrOEx&offer=YsRrh10gd2hKI5FM71z8E",
-  "price": "5",
-  "currency": "DKK",
-  "valid_from": "14-06-2025",
-  "valid_until": "21-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFDobrOEx%2Fp-14.webp&w=300&x1r=0.0105&x2r=0.5831&y1r=0.0918&y2r=0.7106&s=e4b454e514f26ca605dff62caaea6a6e"
- },
- {
   "link": "/fotex?publication=75odYKFh&offer=8KfGIHIc5RuQr2w-OjQ1r",
   "price": "130",
   "currency": "DKK",
   "valid_from": "12-06-2025",
   "valid_until": "26-06-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F75odYKFh%2Fp-38.webp&w=300&x1r=0.0204&x2r=0.3315&y1r=0.0103&y2r=0.2586&s=0fb919597fd11b22b0ded9c7f7a69150"
+ },
+ {
+  "link": "/REMA-1000?publication=FDobrOEx&offer=YsRrh10gd2hKI5FM71z8E",
+  "price": "5",
+  "currency": "DKK",
+  "valid_from": "14-06-2025",
+  "valid_until": "21-06-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFDobrOEx%2Fp-14.webp&w=300&x1r=0.0105&x2r=0.5831&y1r=0.0918&y2r=0.7106&s=e4b454e514f26ca605dff62caaea6a6e"
  },
  {
   "link": "/Min-Kobmand?publication=AlreqfcD&offer=E2ZwP0Z21hDOFbb9C0cIV",
