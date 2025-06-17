@@ -1,21 +1,5 @@
 [
  {
-  "match": "Carlos Alcaraz - Alejandro Davidovich Fokina",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-06-17",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Lorenzo Sonego - Jan-Lennard Struff",
   "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
@@ -69,7 +53,7 @@
  },
  {
   "match": "Fluminense FC – Borussia Dortmund",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.60  |  3.90  |  1.65",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.30  |  3.95  |  1.66",
   "time": "18:00",
   "date": "2025-06-17",
   "channels": [
@@ -153,7 +137,7 @@
  },
  {
   "match": "River Plate - Urawa Reds",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.48  |  4.40  |  7.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.50  |  4.35  |  6.75",
   "time": "21:00",
   "date": "2025-06-17",
   "channels": [
