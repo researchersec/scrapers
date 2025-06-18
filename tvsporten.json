@@ -1,41 +1,5 @@
 [
  {
-  "match": "The HSBC Championships",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-06-18",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Holger Rune - Mackenzie McDonald",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-06-18",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Grækenland - Schweiz",
   "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:30",
@@ -69,7 +33,7 @@
  },
  {
   "match": "Slovenien U21 - Tjekkiet U21",
-  "category": "UEFA U21 Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "U21-EM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-06-18",
   "channels": [
@@ -89,7 +53,7 @@
  },
  {
   "match": "Real Madrid - Al Hilal",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.34  |  5.80  |  8.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.37  |  5.75  |  7.50",
   "time": "21:00",
   "date": "2025-06-18",
   "channels": [
@@ -105,7 +69,7 @@
  },
  {
   "match": "England U21 – Tyskland U21",
-  "category": "UEFA U21 Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "U21-EM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-06-18",
   "channels": [
