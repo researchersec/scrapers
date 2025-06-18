@@ -32,6 +32,22 @@
   ]
  },
  {
+  "match": "Karen Khachanov - Zizou Bergs",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:40",
+  "date": "2025-06-18",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "The HSBC Championships",
   "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "13:00",
@@ -41,6 +57,38 @@
     "name": "TV2 Sport X",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
    },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Roberto Bautista Agut - Jakub Mensik",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:10",
+  "date": "2025-06-18",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Alexander Zverev - Marcos Giron",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:30",
+  "date": "2025-06-18",
+  "channels": [
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
@@ -81,6 +129,38 @@
     "name": "TV2 Sport",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
    },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Jack Draper - Alexei Popyrin",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:00",
+  "date": "2025-06-18",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Daniil Medvedev - Quentin Halys",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:30",
+  "date": "2025-06-18",
+  "channels": [
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
@@ -156,6 +236,22 @@
   ]
  },
  {
+  "match": "Brandon Nakashima - Daniel Evans",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-06-18",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Slovenia - Lithuania",
   "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
@@ -164,6 +260,22 @@
    {
     "name": "DAZN",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Alex Michelsen - Stefanos Tsitsipas",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:30",
+  "date": "2025-06-18",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
    },
    {
     "name": "Norlys",
@@ -213,7 +325,7 @@
  },
  {
   "match": "Manchester City - Wydad Casablanca",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.02  |  21.00  |  81.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.02  |  20.00  |  67.00",
   "time": "18:00",
   "date": "2025-06-18",
   "channels": [
@@ -248,7 +360,23 @@
   ]
  },
  {
-  "match": "Grækenland - Switzerland",
+  "match": "Holger Rune - Mackenzie McDonald",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-06-18",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Grækenland - Schweiz",
   "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:30",
   "date": "2025-06-18",
@@ -301,7 +429,7 @@
  },
  {
   "match": "Real Madrid - Al Hilal",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.33  |  5.75  |  8.50",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.30  |  7.50",
   "time": "21:00",
   "date": "2025-06-18",
   "channels": [
