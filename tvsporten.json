@@ -1,21 +1,5 @@
 [
  {
-  "match": "Tomas Machac - Fabian Marozsan",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:00",
-  "date": "2025-06-19",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Schweiz Rundt",
   "category": "UCI World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:45",
@@ -237,7 +221,7 @@
  },
  {
   "match": "Ldb FC Malmø – Vittsjö",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.53  |  3.90  |  5.00",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.46  |  4.10  |  5.50",
   "time": "18:00",
   "date": "2025-06-19",
   "channels": [
@@ -253,7 +237,7 @@
  },
  {
   "match": "Kristianstads – Linköpings FC",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.22  |  5.20  |  10.50",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.24  |  5.10  |  9.00",
   "time": "18:00",
   "date": "2025-06-19",
   "channels": [
@@ -269,7 +253,7 @@
  },
  {
   "match": "Palmeiras Sp - Al Ahly",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.50  |  4.10  |  7.50",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.52  |  4.20  |  7.00",
   "time": "18:00",
   "date": "2025-06-19",
   "channels": [
@@ -285,7 +269,7 @@
  },
  {
   "match": "Piteå IF DFF - Kopparbergs/Göteborg",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 8.50  |  5.40  |  1.23",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 7.50  |  4.90  |  1.29",
   "time": "19:00",
   "date": "2025-06-19",
   "channels": [
@@ -413,7 +397,7 @@
  },
  {
   "match": "Inter Miami – FC Porto",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.00  |  4.00  |  1.85",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.10  |  4.00  |  1.82",
   "time": "21:00",
   "date": "2025-06-19",
   "channels": [
