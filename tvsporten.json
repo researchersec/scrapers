@@ -1,37 +1,5 @@
 [
  {
-  "match": "Alexander Zverev - Lorenzo Sonego",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:30",
-  "date": "2025-06-19",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Mexico U21 - Danmark U21",
-  "category": "VM U21\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:15",
-  "date": "2025-06-19",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Switzerland - Tyrkiet",
   "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:30",
@@ -181,7 +149,7 @@
  },
  {
   "match": "Kristianstads – Linköpings FC",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.24  |  5.10  |  9.00",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.22  |  5.30  |  9.50",
   "time": "18:00",
   "date": "2025-06-19",
   "channels": [
@@ -213,7 +181,7 @@
  },
  {
   "match": "Piteå IF DFF - Kopparbergs/Göteborg",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 7.50  |  4.90  |  1.29",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 8.50  |  5.25  |  1.24",
   "time": "19:00",
   "date": "2025-06-19",
   "channels": [
@@ -341,7 +309,7 @@
  },
  {
   "match": "Inter Miami – FC Porto",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.10  |  4.00  |  1.82",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.90  |  3.85  |  1.90",
   "time": "21:00",
   "date": "2025-06-19",
   "channels": [
