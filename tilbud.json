@@ -29,7 +29,7 @@
   "currency": "DKK",
   "valid_from": "16-06-2025",
   "valid_until": "23-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fb8af9a0c461be5e42d08857a3d827737%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F26f76f579b851d0990c8bac6c762f637&w=300&s=6f9b89865ee726d8a09d5e2f15d4090a"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fb8af9a0c461be5e42d08857a3d827737&w=300&s=912406b89b2ae1f77c8cf9e1e63e23c5"
  },
  {
   "link": "/Lidl?publication=GC2FQVl7&offer=Q_E-DA_aqAnQRcWQmqp0X",
@@ -128,20 +128,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3sfHB269%2Fp-31.webp&w=300&x1r=0.6147&x2r=0.9928&y1r=0.6185&y2r=0.9159&s=9202ec2cc99d3fefe173d75b956186da"
  },
  {
-  "link": "/SPAR?publication=BahV5qV8&offer=F08TKmLBFtkWp73elR1vM",
-  "price": "135",
-  "currency": "DKK",
-  "valid_from": "19-06-2025",
-  "valid_until": "26-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBahV5qV8%2Fp-13.webp&w=300&x1r=0.5728&x2r=0.9738&y1r=0.6009&y2r=0.9582&s=d8d7d521e02b0cac6c41c1576f4f9deb"
- },
- {
   "link": "/Calle?publication=ER6SMj5Y&offer=zPrY9CCfJm12dC2IA21e7",
   "price": "75",
   "currency": "DKK",
   "valid_from": "17-06-2025",
   "valid_until": "08-07-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
+ },
+ {
+  "link": "/SPAR?publication=BahV5qV8&offer=F08TKmLBFtkWp73elR1vM",
+  "price": "135",
+  "currency": "DKK",
+  "valid_from": "19-06-2025",
+  "valid_until": "26-06-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBahV5qV8%2Fp-13.webp&w=300&x1r=0.5728&x2r=0.9738&y1r=0.6009&y2r=0.9582&s=d8d7d521e02b0cac6c41c1576f4f9deb"
  },
  {
   "link": "/Wolt-Market?publication=PIOKoBJz&offer=IDNpM5_x-eLfIghH7hMm7",
