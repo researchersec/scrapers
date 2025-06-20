@@ -1,22 +1,6 @@
 [
  {
   "match": "Italiens Grand Prix",
-  "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:45",
-  "date": "2025-06-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Italiens Grand Prix",
   "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "10:45",
   "date": "2025-06-20",
@@ -465,7 +449,7 @@
  },
  {
   "match": "Flamengo Rj – Chelsea FC",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.40  |  2.07",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.70  |  3.30  |  2.12",
   "time": "20:00",
   "date": "2025-06-20",
   "channels": [
