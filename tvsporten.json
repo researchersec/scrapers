@@ -1,73 +1,5 @@
 [
  {
-  "match": "Frankrig - Switzerland",
-  "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-06-21",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "XPEL Grand Prix at Road America",
-  "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-06-21",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Karen Khachanov - Alexander Bublik",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-06-21",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Women's PGA Championship",
-  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-06-21",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Slovenia - Serbien",
   "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
@@ -117,7 +49,7 @@
  },
  {
   "match": "Mamelodi Sundowns – Borussia Dortmund",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 7.50  |  5.00  |  1.42",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 6.10  |  3.75  |  1.56",
   "time": "18:00",
   "date": "2025-06-21",
   "channels": [
@@ -385,7 +317,7 @@
  },
  {
   "match": "Inter - Urawa Reds",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.35  |  5.30  |  9.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.33  |  5.30  |  9.00",
   "time": "21:00",
   "date": "2025-06-21",
   "channels": [
