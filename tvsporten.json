@@ -1,21 +1,5 @@
 [
  {
-  "match": "Glory Kickboxing",
-  "category": "Kickboxing\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "07:00",
-  "date": "2025-06-21",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Ferrari Challenge Japan",
   "category": "Ferrari Challenge\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "08:30",
@@ -545,7 +529,7 @@
  },
  {
   "match": "Mamelodi Sundowns – Borussia Dortmund",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 8.00  |  5.20  |  1.38",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
   "date": "2025-06-21",
   "channels": [
@@ -813,7 +797,7 @@
  },
  {
   "match": "Inter - Urawa Reds",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.22  |  6.75  |  14.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.50  |  10.00",
   "time": "21:00",
   "date": "2025-06-21",
   "channels": [
