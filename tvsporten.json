@@ -1,25 +1,5 @@
 [
  {
-  "match": "German Open",
-  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "12:00",
-  "date": "2025-06-22",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Italiens Grand Prix",
   "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "12:15",
@@ -333,7 +313,7 @@
  },
  {
   "match": "Malmö FF - Brommapojkarna",
-  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Damallsvenskan\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.41  |  4.20  |  5.75",
   "time": "16:00",
   "date": "2025-06-22",
   "channels": [
@@ -505,7 +485,7 @@
  },
  {
   "match": "Juventus - Wydad Casablanca",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.20  |  10.50",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.25  |  10.50",
   "time": "18:00",
   "date": "2025-06-22",
   "channels": [
@@ -669,7 +649,7 @@
  },
  {
   "match": "Real Madrid - Pachuca",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.30  |  5.80  |  8.50",
   "time": "21:00",
   "date": "2025-06-22",
   "channels": [
