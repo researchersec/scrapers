@@ -1,21 +1,5 @@
 [
  {
-  "match": "Mallorca Championship",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "13:00",
-  "date": "2025-06-24",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Danmark U21 - Færøerne U21",
   "category": "VM U21\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:15",
@@ -117,7 +101,7 @@
  },
  {
   "match": "Benfica – FC Bayern München",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.00  |  3.35  |  1.98",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.00  |  3.40  |  1.97",
   "time": "21:00",
   "date": "2025-06-24",
   "channels": [
