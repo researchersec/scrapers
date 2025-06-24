@@ -8,20 +8,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3sfHB269%2Fp-36.webp&w=300&x1r=0.027&x2r=0.4943&y1r=0.0181&y2r=0.3172&s=0c8522914d9be6f340a96bba967379fc"
  },
  {
-  "link": "/Min-Kobmand?publication=y7Nob-dS&offer=sL0E2EZTKor1WkAwJqZQZ",
-  "price": "12",
-  "currency": "DKK",
-  "valid_from": "19-06-2025",
-  "valid_until": "26-06-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fy7Nob-dS%2Fp-12.webp&w=300&x1r=0.0219&x2r=0.5001&y1r=0.0159&y2r=0.4778&s=cbbbb5d21a5c57c2cdd141007a4b3cdf"
- },
- {
   "link": "/fotex?publication=_xSMlfED&offer=wXaidO1t3WG187j50ZDP2",
   "price": "16",
   "currency": "DKK",
   "valid_from": "26-06-2025",
   "valid_until": "31-07-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_xSMlfED%2Fp-34.webp&w=300&x1r=0.0095&x2r=0.2741&y1r=0.011&y2r=0.3586&s=115bd11c10d9a4e0d6c27289073cf40d"
+ },
+ {
+  "link": "/Min-Kobmand?publication=y7Nob-dS&offer=sL0E2EZTKor1WkAwJqZQZ",
+  "price": "12",
+  "currency": "DKK",
+  "valid_from": "19-06-2025",
+  "valid_until": "26-06-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fy7Nob-dS%2Fp-12.webp&w=300&x1r=0.0219&x2r=0.5001&y1r=0.0159&y2r=0.4778&s=cbbbb5d21a5c57c2cdd141007a4b3cdf"
  },
  {
   "link": "/Wolt-Market?publication=22eSatuX&offer=DQJ-DpArVEHgGcQwqgvSI",
@@ -214,6 +214,14 @@
   "valid_from": "21-05-2025",
   "valid_until": "25-06-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F23OVqbXM%2Fp-21.webp&w=300&x1r=0.6571&x2r=0.9791&y1r=0.4986&y2r=0.9811&s=1d2c242b4d14dd8e27e18ca4e02871d3"
+ },
+ {
+  "link": "/Kobmandsgarden?publication=IVsF__38&offer=UGDuvTFsw5IwUOgftkqHN",
+  "price": "79",
+  "currency": "DKK",
+  "valid_from": "24-06-2025",
+  "valid_until": "12-08-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIVsF__38%2Fp-11.webp&w=300&x1r=0.0016&x2r=0.9835&y1r=0.0464&y2r=0.9771&s=40606fc8f4927b89af9d2e1c3a500eb5"
  },
  {
   "link": "/fotex?publication=75odYKFh&offer=gH4NEraGWSQV8OvwKa-pJ",
