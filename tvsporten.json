@@ -148,6 +148,26 @@
   ]
  },
  {
+  "match": "Bad Homburg Open",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:30",
+  "date": "2025-06-24",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Italien - Tyrkiet",
   "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:30",
@@ -165,7 +185,7 @@
  },
  {
   "match": "Benfica – FC Bayern München",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.60  |  3.10  |  1.97",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.50  |  3.10  |  2.00",
   "time": "21:00",
   "date": "2025-06-24",
   "channels": [
