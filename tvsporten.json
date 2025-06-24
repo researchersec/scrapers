@@ -1,1 +1,262 @@
-[]
+[
+ {
+  "match": "Valladolid P2",
+  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "09:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Bad Homburg Open",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:30",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rothesay International Eastbourne",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "12:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Mallorca Championship",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Spanien - Tjekkiet",
+  "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:30",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Valladolid P2",
+  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Italian Open",
+  "category": "DP World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "England U21 – Holland U21",
+  "category": "U21-EM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "TV3",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3dk_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Speedway Grand Prix",
+  "category": "Speedway\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "DR 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Belgien - Tyskland",
+  "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:30",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Mamelodi Sundowns – Fluminense FC",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.25  |  3.65  |  1.84",
+  "time": "21:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Tyskland U21 – Frankrig U21",
+  "category": "U21-EM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "21:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "TV3",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3dk_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Borussia Dortmund - Ulsan",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.22  |  6.75  |  12.50",
+  "time": "21:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Inter – River Plate",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.16  |  2.95  |  4.00",
+  "time": "03:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Urawa Reds - Monterrey",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.25  |  3.75  |  1.80",
+  "time": "03:00",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ }
+]
