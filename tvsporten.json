@@ -120,6 +120,26 @@
   ]
  },
  {
+  "match": "Bad Homburg Open",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:30",
+  "date": "2025-06-25",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "England U21 – Holland U21",
   "category": "U21-EM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
@@ -177,7 +197,7 @@
  },
  {
   "match": "Mamelodi Sundowns – Fluminense FC",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.25  |  3.65  |  1.84",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.10  |  3.65  |  1.87",
   "time": "21:00",
   "date": "2025-06-25",
   "channels": [
