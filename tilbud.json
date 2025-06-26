@@ -173,7 +173,7 @@
   "currency": "DKK",
   "valid_from": "02-07-2025",
   "valid_until": "05-07-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgcQbi7YZ%2Fp-38.webp&w=300&x1r=0.5026&x2r=0.9966&y1r=0.0081&y2r=0.4136&s=4cc167abb94e1bbc407c3eb3e231a5c0"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FtkMxFDZ8%2Fp-40.webp&w=300&x1r=0.5026&x2r=0.9966&y1r=0.0081&y2r=0.4136&s=faf9008782c15b58da51e137420457ec"
  },
  {
   "link": "/Kobmandsgarden?publication=IVsF__38&offer=UGDuvTFsw5IwUOgftkqHN",
@@ -198,6 +198,14 @@
   "valid_from": "10-06-2025",
   "valid_until": "12-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnF9_sQHK%2Fp-4.webp&w=300&x1r=0.0707&x2r=0.9519&y1r=0.4408&y2r=0.9998&s=0ae92bdace3dc366260b432e7f78f7e1"
+ },
+ {
+  "link": "/Nielsen-Scan-Shop?publication=RhpV1OkJ&offer=mKHNx0GD7HsNQ1lYZpJV7",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "25-06-2025",
+  "valid_until": "30-07-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRhpV1OkJ%2Fp-1.webp&w=300&x1r=0.5129&x2r=1&y1r=0.5647&y2r=0.91&s=4c994aebe93a191e2da49e9ba22f9616"
  },
  {
   "link": "/Poetzsch-Padborg?publication=A7mhjF0z&offer=4QLl1B5UbxM71YNmULTRr",
