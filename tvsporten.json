@@ -1,41 +1,5 @@
 [
  {
-  "match": "5 km løb, længdespring og kuglestød",
-  "category": "DM i Atletik\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:00",
-  "date": "2025-06-26",
-  "channels": [
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Alex Michelsen - Robert Bautista-Agut",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "18:10",
-  "date": "2025-06-26",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Dow Championship",
   "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:30",
@@ -141,7 +105,7 @@
  },
  {
   "match": "Juventus – Manchester City",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.80  |  3.65  |  1.77",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.80  |  3.60  |  1.77",
   "time": "21:00",
   "date": "2025-06-26",
   "channels": [
@@ -173,7 +137,7 @@
  },
  {
   "match": "Wydad Casablanca - Al-Ain",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.35  |  3.45  |  3.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.45  |  2.95",
   "time": "21:00",
   "date": "2025-06-26",
   "channels": [
