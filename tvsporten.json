@@ -696,58 +696,6 @@
   ]
  },
  {
-  "match": "US Masters",
-  "category": "World Series of Darts\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "01:00",
-  "date": "2025-06-27",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "NHL Draft",
-  "category": "NHL\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "01:00",
-  "date": "2025-06-27",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Tennessee Lottery 250",
-  "category": "Nascar \n\t\t\t\t\t\t\t\t\t(163 laps / 251.02 miles)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "01:30",
-  "date": "2025-06-27",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Team Combat League",
   "category": "Boksning\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "03:00",
