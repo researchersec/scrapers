@@ -1,9 +1,917 @@
 [
  {
-  "match": "Colombia - Puerto Rico",
+  "match": "Brandon Royval - Joshua Van",
+  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "05:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Jake Paul – Julio Cesar Chavez Jr - Fight",
+  "category": "Boksning\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "05:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Alexandre Pantoja - Kai Kara-France",
+  "category": "UFC \n\t\t\t\t\t\t\t\t\t(Title Fight)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "05:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Ilia Topuria - Charles Oliveira",
+  "category": "UFC \n\t\t\t\t\t\t\t\t\t(Title Fight)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "06:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "WRC Acropolis Race Greece",
+  "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "07:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "WRC Acropolis Race Greece",
+  "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "08:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Østrigs Grand Prix",
+  "category": "Formel 3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "08:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hollands Grand Prix",
+  "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "09:45",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Finaler",
+  "category": "DM i Padel\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "09:45",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Valladolid P2",
+  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "10:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Østrigs Grand Prix",
+  "category": "Formel 2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "10:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Lithuania - Tyrkiet",
+  "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "10:45",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Granada - Granada",
+  "category": "Spanske Mesterskaber\n\t\t\t\t\t\t\t\t\t(191.4 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "10:45",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hollands Grand Prix",
+  "category": "Moto3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "WRC Acropolis Race Greece",
+  "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Kvindernes linjeløb",
+  "category": "DM i Landevejscykling\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:45",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Østrigs Grand Prix",
+  "category": "Porsche Supercup\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:45",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Italian Open",
+  "category": "DP World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "12:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hollands Grand Prix",
+  "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "12:15",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Granada - Granada",
+  "category": "Spanske Mesterskaber\n\t\t\t\t\t\t\t\t\t(121.2 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "12:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Berlin Thunder - Rhein Fire",
+  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Frankfurt Galaxy - Prague Lions",
+  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "WRC Acropolis Race Greece",
+  "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Tjekkiet - Tyskland",
+  "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Ferrari Challenge Coppa Shell",
+  "category": "Ferrari Challenge\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Hollands Grand Prix",
+  "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Amundi German Masters",
+  "category": "Ladies European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Les Herbiers",
+  "category": "Nationale Landevejs-Mesterskaber\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:15",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "WRC Acropolis Race Greece",
+  "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Østrigs Grand Prix",
+  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "TV3 +",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Viasat Ultra HD",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasat_ultra_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Herrernes linjeløb",
+  "category": "DM i Landevejscykling\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "TV2 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Ferrari Challenge Trofeo Pirelli",
+  "category": "Ferrari Challenge\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "15:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Cliftonville - Glentoran",
+  "category": "Women's Premiership\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Ferrari Challenge Coppa Shell",
+  "category": "Ferrari Challenge\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:15",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Cologne Centurions - Paris Musketeers",
+  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Munich Ravens - Stuttgart Surge",
+  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Raiders Tirol - Vikings Vienna",
+  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Frankrig - Italien",
+  "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Faroe Islands U21 - Sverige U21",
+  "category": "VM U21\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Granada",
+  "category": "Nationale Landevejs-Mesterskaber\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:15",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Dominican Republic - El Salvador",
+  "category": "FIBA AmeriCup Women\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:45",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "England – Jamaica",
+  "category": "Venskabskamp kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.02  |  16.00  |  31.00",
+  "time": "18:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Paris Saint Germain – Inter Miami",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.21  |  7.00  |  12.00",
+  "time": "18:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "LIV Golf Dallas",
+  "category": "LIV Golf\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rocket Classic",
+  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Eurosport 2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
+   },
+   {
+    "name": "Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "US Open",
+  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Spanien - Belgien",
+  "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Portugal U21 - Danmark U21",
+  "category": "VM U21\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "19:30",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "TV3 Sport",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "U.S. Senior Open",
+  "category": "PGA TOUR Champions\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Canada - Argentina",
+  "category": "FIBA AmeriCup Women\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:15",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Dow Championship",
+  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "21:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "V Sport Golf",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
+   },
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Flamengo Rj – FC Bayern München",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.00  |  3.85  |  1.70",
+  "time": "22:00",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Mexico - Chile",
   "category": "FIBA AmeriCup Women\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "23:45",
-  "date": "2025-06-28",
+  "date": "2025-06-29",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "USA - Colombia",
+  "category": "FIBA AmeriCup Women\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "02:15",
+  "date": "2025-06-29",
   "channels": [
    {
     "name": "DAZN",
