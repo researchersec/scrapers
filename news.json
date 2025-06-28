@@ -180,10 +180,10 @@
  },
  {
   "title": "Politi og brandbiler massivt til stede",
-  "description": "<p>Både politi og beredskab er lørdag aften massivt tilstede på Øster Allé i Aalborg i nærheden af Eternitten.</p> <p>Beredskabet bekræfter, at de er rykket ud til en bygningsbrand, men har ikke tid til at kommentere yderligere.</p><p>Ifølge TV2 Nords oplysninger er der tale om en påsat brand i en tom bygning. </p><p><em>Opdateres...</em></p>",
-  "link": "https://www.tv2nord.dk/aalborg/politi-og-brandbiler-massivt-til-stede-de6e0",
+  "description": "<p>Både politi og beredskab er lørdag aften massivt tilstede på Øster Allé i Aalborg i nærheden af Eternitten.</p> <p>Beredskabet bekræfter, at de er rykket ud til en bygningsbrand, men har ikke tid til at kommentere yderligere.</p><p>Ifølge TV2 Nords oplysninger er der tale om en påsat brand i en tom bygning.</p> <p><em>Opdateres...</em></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/politi-og-brandbiler-massivt-til-stede-de6e0",
   "published": "Sat, 28 Jun 25 18:13:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/politi-og-brandbiler-massivt-til-stede-de6e0",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/politi-og-brandbiler-massivt-til-stede-de6e0",
   "category": "No category"
  },
  {
@@ -259,6 +259,14 @@
   "category": "No category"
  },
  {
+  "title": "Brand i forladt Aalborg-skole",
+  "description": "Brandvæsnet er i gang med at bekæmpe en brand i den gamle skolebygning",
+  "link": "https://nordjyske.dk/nyheder/aalborg/brand-i-forladt-aalborg-skole/5642039?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 28 Jun 2025 16:38:59 Z",
+  "guid": "1fd87d00-997f-48eb-8338-10b7d84eac73",
+  "category": "Ildebrand"
+ },
+ {
   "title": "Campingkrig er slut - nu begraves stridsøksen",
   "description": "Rækker hånden ud til campingpladser: Vil I have gratis konsulenthjælp?",
   "link": "https://nordjyske.dk/nyheder/nordjylland/campingkrig-er-slut-nu-begraves-stridsoeksen/5601987?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -307,20 +315,20 @@
   "category": "Trafik"
  },
  {
-  "title": "Driver seks restauranter i Nordjylland - nu med røde tal: - Vi har en sund forretning",
-  "description": "Bryghuset Vendia Aps, der er repræsenteret i både Aalborg, Sæby og flere steder i Hjørring holder fast i strategien trods underskud",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/driver-seks-restauranter-i-nordjylland-nu-med-roede-tal-vi-har-en-sund-forretning/5633944?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 27 Jun 2025 18:54:33 Z",
-  "guid": "caa088c6-5620-41bd-9080-d7f10ee69308",
-  "category": "Restauranter"
- },
- {
   "title": "Mægler-par lavede egen strand. Nu skal den fjernes",
   "description": "Indehaverne af Aalborg Kommunes mest sælgende mægler smed en bunke sand ovenpå et område og lavede deres egen strand. Men det var ulovligt",
   "link": "https://nordjyske.dk/nyheder/erhverv/derfor-maatte-topmaeglere-ikke-lave-deres-egen-strand/5531824?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 23 Jun 2025 04:03:49 Z",
   "guid": "a1c53a42-cb66-4054-8726-06edf5e75a12",
   "category": "Erhverv"
+ },
+ {
+  "title": "Driver seks restauranter i Nordjylland - nu med røde tal: - Vi har en sund forretning",
+  "description": "Bryghuset Vendia Aps, der er repræsenteret i både Aalborg, Sæby og flere steder i Hjørring holder fast i strategien trods underskud",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/driver-seks-restauranter-i-nordjylland-nu-med-roede-tal-vi-har-en-sund-forretning/5633944?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 27 Jun 2025 18:54:33 Z",
+  "guid": "caa088c6-5620-41bd-9080-d7f10ee69308",
+  "category": "Restauranter"
  },
  {
   "title": "Mika er en af landets bedste. Men hun takker nej, når vennerne vil bowle",
@@ -409,13 +417,5 @@
   "published": "Fri, 27 Jun 2025 09:08:55 Z",
   "guid": "00ea3514-4b78-4250-be08-4ea499e23ddc",
   "category": "Turisme"
- },
- {
-  "title": "Byggede for mange ungdomsboliger: Nu skal de tænkes helt om",
-  "description": "Aalborg Kommune står med et positivt problem, der alligevel kræver handling",
-  "link": "https://nordjyske.dk/nyheder/byudvikling/kom-til-aalborg-her-er-der-boliger-nok-til-alle-studerende/5633606?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 27 Jun 2025 03:55:21 Z",
-  "guid": "aca2a93d-adb3-439d-9779-b05c6bd6110a",
-  "category": "Byudvikling i Aalborg"
  }
 ]
