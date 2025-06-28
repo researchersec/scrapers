@@ -53,7 +53,7 @@
   "currency": "DKK",
   "valid_from": "17-06-2025",
   "valid_until": "08-07-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F24daebfb864bf48c8166bab4212796c9%2Cs3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff%2Cs3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F37c579a6b66be04be8a13a169db2cf5b%2Cs3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Ff80f03571f60eadb7b67b3e506cd0c21%2Cs3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F7ea8acb5fb42fe73bd3c851633036ba5&w=300&s=86a224a08131ebdd0bbebbf6e5d686fb"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
  },
  {
   "link": "/Wolt-Market?publication=22eSatuX&offer=lVgKKUB3nSp2hxQ1mYfjX",
@@ -104,20 +104,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIVsF__38%2Fp-11.webp&w=300&x1r=0.0016&x2r=0.9835&y1r=0.0464&y2r=0.9771&s=40606fc8f4927b89af9d2e1c3a500eb5"
  },
  {
-  "link": "/Nielsen-Scan-Shop?publication=RhpV1OkJ&offer=BUR9JCsfGWDVaUh7IP7tA",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "25-06-2025",
-  "valid_until": "30-07-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRhpV1OkJ%2Fp-38.webp&w=300&x1r=0.0048&x2r=0.9958&y1r=0.0005&y2r=0.4984&s=ec14f62b98e437fc6b0897276ba7ccc8"
- },
- {
   "link": "/Fleggaard?publication=jlSmQ-gL&offer=lxrNTHP0XL4IPlCaDVRD9",
   "price": "79.99",
   "currency": "DKK",
   "valid_from": "17-06-2025",
   "valid_until": "08-07-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjlSmQ-gL%2Fp-35.webp&w=300&x1r=0.6618&x2r=0.981&y1r=0.2418&y2r=0.5542&s=b3ccd079b197c225bfd06b1730e6e3c8"
+ },
+ {
+  "link": "/Nielsen-Scan-Shop?publication=RhpV1OkJ&offer=mKHNx0GD7HsNQ1lYZpJV7",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "25-06-2025",
+  "valid_until": "30-07-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRhpV1OkJ%2Fp-1.webp&w=300&x1r=0.5129&x2r=1&y1r=0.5647&y2r=0.91&s=4c994aebe93a191e2da49e9ba22f9616"
  },
  {
   "link": "/BorderShop?publication=SWflRsnV&offer=iQuUFDhc5Y2P9nR3sql7b",
