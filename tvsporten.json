@@ -1,21 +1,5 @@
 [
  {
-  "match": "WRC Acropolis Race Greece",
-  "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "08:00",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Østrigs Grand Prix",
   "category": "Formel 3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "08:30",
@@ -797,7 +781,7 @@
  },
  {
   "match": "Flamengo Rj – FC Bayern München",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.90  |  3.70  |  1.73",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.90  |  3.70  |  1.75",
   "time": "22:00",
   "date": "2025-06-29",
   "channels": [
