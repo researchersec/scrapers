@@ -1,81 +1,5 @@
 [
  {
-  "match": "WRC Acropolis Race Greece",
-  "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:30",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Østrigs Grand Prix",
-  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Viasat Ultra HD",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasat_ultra_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Herrernes linjeløb",
-  "category": "DM i Landevejscykling\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Ferrari Challenge Trofeo Pirelli",
-  "category": "Ferrari Challenge\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Cliftonville - Glentoran",
   "category": "Women's Premiership\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:00",
@@ -257,7 +181,7 @@
  },
  {
   "match": "Paris Saint Germain – Inter Miami",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.15  |  8.50  |  16.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.14  |  8.50  |  18.00",
   "time": "18:00",
   "date": "2025-06-29",
   "channels": [
