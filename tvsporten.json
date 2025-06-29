@@ -1,57 +1,5 @@
 [
  {
-  "match": "Spanien - Belgien",
-  "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:30",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Portugal U21 - Danmark U21",
-  "category": "VM U21\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:30",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "U.S. Senior Open",
-  "category": "PGA TOUR Champions\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:00",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Canada - Argentina",
   "category": "FIBA AmeriCup Women\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:15",
@@ -89,7 +37,7 @@
  },
  {
   "match": "Flamengo Rj – FC Bayern München",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.80  |  3.75  |  1.74",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.80  |  3.95  |  1.61",
   "time": "22:00",
   "date": "2025-06-29",
   "channels": [
