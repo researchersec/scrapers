@@ -1,53 +1,5 @@
 [
  {
-  "match": "Brandon Royval - Joshua Van",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "05:00",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Jake Paul – Julio Cesar Chavez Jr - Fight",
-  "category": "Boksning\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "05:00",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Alexandre Pantoja - Kai Kara-France",
-  "category": "UFC \n\t\t\t\t\t\t\t\t\t(Title Fight)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "05:30",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Ilia Topuria - Charles Oliveira",
   "category": "UFC \n\t\t\t\t\t\t\t\t\t(Title Fight)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "06:00",
@@ -721,7 +673,7 @@
  },
  {
   "match": "Paris Saint Germain – Inter Miami",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.21  |  7.00  |  12.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.18  |  8.00  |  13.00",
   "time": "18:00",
   "date": "2025-06-29",
   "channels": [
@@ -877,7 +829,7 @@
  },
  {
   "match": "Flamengo Rj – FC Bayern München",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.20  |  3.85  |  1.68",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.00  |  3.85  |  1.70",
   "time": "22:00",
   "date": "2025-06-29",
   "channels": [
