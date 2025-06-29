@@ -1,25 +1,5 @@
 [
  {
-  "match": "Østrigs Grand Prix",
-  "category": "Formel 3\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "08:30",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Hollands Grand Prix",
   "category": "MotoGP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "09:45",
@@ -625,7 +605,7 @@
  },
  {
   "match": "Paris Saint Germain – Inter Miami",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.21  |  7.50  |  12.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.20  |  7.50  |  12.50",
   "time": "18:00",
   "date": "2025-06-29",
   "channels": [
