@@ -1,121 +1,5 @@
 [
  {
-  "match": "Cologne Centurions - Paris Musketeers",
-  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Munich Ravens - Stuttgart Surge",
-  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Raiders Tirol - Vikings Vienna",
-  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Frankrig - Italien",
-  "category": "FIBA Women's EuroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Thorbjørn Olesen i Rocket Classic",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:55",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Faroe Islands U21 - Sverige U21",
-  "category": "VM U21\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Granada",
-  "category": "Nationale Landevejs-Mesterskaber\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:15",
-  "date": "2025-06-29",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Dominican Republic - El Salvador",
   "category": "FIBA AmeriCup Women\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:45",
@@ -149,7 +33,7 @@
  },
  {
   "match": "Paris Saint Germain – Inter Miami",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.15  |  8.50  |  16.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.02  |  21.00  |  56.00",
   "time": "18:00",
   "date": "2025-06-29",
   "channels": [
@@ -321,7 +205,7 @@
  },
  {
   "match": "Flamengo Rj – FC Bayern München",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.70  |  3.80  |  1.75",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 4.80  |  3.80  |  1.73",
   "time": "22:00",
   "date": "2025-06-29",
   "channels": [
