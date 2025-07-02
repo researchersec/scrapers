@@ -1,61 +1,5 @@
 [
  {
-  "match": "Wimbledon",
-  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-07-02",
-  "channels": [
-   {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
-   },
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Albert Batyrgaziev - Jazza Dickens",
-  "category": "Boksning\n\t\t\t\t\t\t\t\t\t(Interim WBA World Super Featherweight Title)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-07-02",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Katie Boulter – Solana Sierra",
-  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-07-02",
-  "channels": [
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Carlos Alcaraz – Oliver Tarvet",
   "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:30",
@@ -153,7 +97,7 @@
  },
  {
   "match": "Island – Finland",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.23  |  3.20  |  3.30",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.15  |  3.25",
   "time": "18:00",
   "date": "2025-07-02",
   "channels": [
@@ -253,7 +197,7 @@
  },
  {
   "match": "Schweiz – Norge",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.40  |  3.30  |  2.14",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.40  |  3.30  |  2.15",
   "time": "21:00",
   "date": "2025-07-02",
   "channels": [
