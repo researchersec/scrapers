@@ -1,41 +1,5 @@
 [
  {
-  "match": "Thorbjørn Olesen i John Deere Classic",
-  "category": "PGA \n\t\t\t\t\t\t\t\t\t(1. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:30",
-  "date": "2025-07-03",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Spanien - Portugal",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.07  |  12.50  |  31.00",
-  "time": "21:00",
-  "date": "2025-07-03",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "John Deere Classic",
   "category": "PGA \n\t\t\t\t\t\t\t\t\t(1. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "22:00",
