@@ -1,25 +1,5 @@
 [
  {
-  "match": "John Deere Classic",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "22:00",
-  "date": "2025-07-04",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Honda Indy 200",
   "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "22:30",
