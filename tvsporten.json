@@ -1,41 +1,5 @@
 [
  {
-  "match": "John Deere Classic",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "13:45",
-  "date": "2025-07-04",
-  "channels": [
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Wimbledon",
-  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:00",
-  "date": "2025-07-04",
-  "channels": [
-   {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Germany U19 - Australia U19",
   "category": "World Championship U19\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:30",
@@ -301,7 +265,7 @@
  },
  {
   "match": "Danmark – Sverige",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.25  |  3.70  |  1.72",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.25  |  3.70  |  1.71",
   "time": "18:00",
   "date": "2025-07-04",
   "channels": [
@@ -409,7 +373,7 @@
  },
  {
   "match": "Tyskland - Polen",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.03  |  17.00  |  46.00",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.05  |  15.00  |  41.00",
   "time": "21:00",
   "date": "2025-07-04",
   "channels": [
@@ -445,7 +409,7 @@
  },
  {
   "match": "Fluminense FC – Al Hilal",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.05  |  3.25  |  2.48",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.10  |  3.20  |  2.50",
   "time": "21:00",
   "date": "2025-07-04",
   "channels": [
