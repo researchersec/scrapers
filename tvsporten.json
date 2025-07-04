@@ -1,45 +1,5 @@
 [
  {
-  "match": "Speedway Grand Prix U21",
-  "category": "Speedway\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-07-04",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Poland Darts Masters",
-  "category": "World Series of Darts\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "19:00",
-  "date": "2025-07-04",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "New Zealand U19 - Switzerland U19",
   "category": "World Championship U19\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:00",
@@ -89,7 +49,7 @@
  },
  {
   "match": "Tyskland - Polen",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.06  |  14.00  |  34.00",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.05  |  14.00  |  34.00",
   "time": "21:00",
   "date": "2025-07-04",
   "channels": [
@@ -125,7 +85,7 @@
  },
  {
   "match": "Fluminense FC – Al Hilal",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.10  |  3.10  |  2.55",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.20  |  3.10  |  2.48",
   "time": "21:00",
   "date": "2025-07-04",
   "channels": [
