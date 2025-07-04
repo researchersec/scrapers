@@ -16,6 +16,22 @@
   ]
  },
  {
+  "match": "Slovenia U19 - Israel U19",
+  "category": "World Championship U19\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:45",
+  "date": "2025-07-04",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Wimbledon",
   "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "12:00",
@@ -100,6 +116,22 @@
    {
     "name": "DR TV",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Germany U19 - Australia U19",
+  "category": "World Championship U19\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:30",
+  "date": "2025-07-04",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
    },
    {
     "name": "Norlys",
@@ -244,6 +276,22 @@
   ]
  },
  {
+  "match": "Canada U19 - USA U19",
+  "category": "World Championship U19\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:15",
+  "date": "2025-07-04",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "USA - Dominican Republic",
   "category": "FIBA Women's AmeriCup\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:45",
@@ -360,6 +408,22 @@
   ]
  },
  {
+  "match": "New Zealand U19 - Switzerland U19",
+  "category": "World Championship U19\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "20:00",
+  "date": "2025-07-04",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "ERC Rally di Roma Capitale",
   "category": "Europamesterskab i rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:00",
@@ -393,7 +457,7 @@
  },
  {
   "match": "Tyskland - Polen",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.04  |  16.00  |  46.00",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.03  |  17.00  |  51.00",
   "time": "21:00",
   "date": "2025-07-04",
   "channels": [
@@ -483,22 +547,6 @@
   "match": "Brasilien - Mexico",
   "category": "FIBA Women's AmeriCup\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "23:45",
-  "date": "2025-07-04",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Puerto Rico - Argentina",
-  "category": "FIBA Women's AmeriCup\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "02:15",
   "date": "2025-07-04",
   "channels": [
    {
