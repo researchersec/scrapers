@@ -1,37 +1,5 @@
 [
  {
-  "match": "Norisring",
-  "category": "Porsche Carrera Cup Germany\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:15",
-  "date": "2025-07-05",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "ERC Rally di Roma Capitale",
-  "category": "Europamesterskab i rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:15",
-  "date": "2025-07-05",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Bordeaux P2",
   "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "12:00",
@@ -85,7 +53,7 @@
  },
  {
   "match": "BMW International Open",
-  "category": "DP World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "DP World Tour \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "12:30",
   "date": "2025-07-05",
   "channels": [
@@ -105,7 +73,7 @@
  },
  {
   "match": "Storbritanniens Grand Prix",
-  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Formel 1 \n\t\t\t\t\t\t\t\t\t(Træning 3)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "12:30",
   "date": "2025-07-05",
   "channels": [
@@ -145,7 +113,7 @@
  },
  {
   "match": "Norisring",
-  "category": "DTM\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "DTM \n\t\t\t\t\t\t\t\t\t(Løb 1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "13:15",
   "date": "2025-07-05",
   "channels": [
@@ -161,7 +129,7 @@
  },
  {
   "match": "Lille Métropole - Lille Métropole",
-  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(-184.9 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(1. Etape - 184.9 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "13:15",
   "date": "2025-07-05",
   "channels": [
@@ -181,7 +149,7 @@
  },
  {
   "match": "Ungarn",
-  "category": "Formula Regional Championship\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Formula Regional Championship\n\t\t\t\t\t\t\t\t\t(Løb 1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "13:30",
   "date": "2025-07-05",
   "channels": [
@@ -197,7 +165,7 @@
  },
  {
   "match": "World RX of Sweden",
-  "category": "World RX\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "World RX\n\t\t\t\t\t\t\t\t\t(Kvalifikation)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:00",
   "date": "2025-07-05",
   "channels": [
@@ -265,7 +233,7 @@
  },
  {
   "match": "Storbritanniens Grand Prix",
-  "category": "Formel 2\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Formel 2 \n\t\t\t\t\t\t\t\t\t(Sprintløb)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:15",
   "date": "2025-07-05",
   "channels": [
@@ -281,7 +249,7 @@
  },
  {
   "match": "Grand Prix at Mid-Ohio",
-  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t(Træning 2)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:30",
   "date": "2025-07-05",
   "channels": [
@@ -313,7 +281,7 @@
  },
  {
   "match": "ERC Rally di Roma Capitale",
-  "category": "Europamesterskab i rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Europamesterskab i rally\n\t\t\t\t\t\t\t\t\t(5. Etape)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:45",
   "date": "2025-07-05",
   "channels": [
@@ -329,7 +297,7 @@
  },
  {
   "match": "KPMG Women's Irish Open",
-  "category": "Ladies European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Ladies European Tour \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:00",
   "date": "2025-07-05",
   "channels": [
@@ -345,7 +313,7 @@
  },
  {
   "match": "Storbritanniens Grand Prix",
-  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Formel 1 \n\t\t\t\t\t\t\t\t\t(Kvalifikation)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:00",
   "date": "2025-07-05",
   "channels": [
@@ -393,7 +361,7 @@
  },
  {
   "match": "ERC Rally di Roma Capitale",
-  "category": "Europamesterskab i rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Europamesterskab i rally\n\t\t\t\t\t\t\t\t\t(6. Etape)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:00",
   "date": "2025-07-05",
   "channels": [
@@ -409,7 +377,7 @@
  },
  {
   "match": "World RX of Sweden",
-  "category": "World RX\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "World RX\n\t\t\t\t\t\t\t\t\t(Kvalifikation)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:00",
   "date": "2025-07-05",
   "channels": [
@@ -425,7 +393,7 @@
  },
  {
   "match": "Honda Indy 200",
-  "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Indycar \n\t\t\t\t\t\t\t\t\t(Fri Øvelse)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:30",
   "date": "2025-07-05",
   "channels": [
@@ -461,7 +429,7 @@
  },
  {
   "match": "KPMG Women's Irish Open",
-  "category": "Ladies European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Ladies European Tour \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
   "date": "2025-07-05",
   "channels": [
@@ -481,7 +449,7 @@
  },
  {
   "match": "ERC Rally di Roma Capitale",
-  "category": "Europamesterskab i rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Europamesterskab i rally\n\t\t\t\t\t\t\t\t\t(7. Etape)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
   "date": "2025-07-05",
   "channels": [
@@ -497,7 +465,7 @@
  },
  {
   "match": "Norisring",
-  "category": "ADAC GT4 Germany\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "ADAC GT4 Germany\n\t\t\t\t\t\t\t\t\t(Løb 1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:45",
   "date": "2025-07-05",
   "channels": [
@@ -565,7 +533,7 @@
  },
  {
   "match": "Wales - Holland",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 10.00  |  5.10  |  1.33",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 11.00  |  5.60  |  1.29",
   "time": "18:00",
   "date": "2025-07-05",
   "channels": [
@@ -601,7 +569,7 @@
  },
  {
   "match": "Paris Saint Germain – FC Bayern München",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.60  |  3.00",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.50  |  3.00",
   "time": "18:00",
   "date": "2025-07-05",
   "channels": [
@@ -633,7 +601,7 @@
  },
  {
   "match": "John Deere Classic",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "PGA \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:00",
   "date": "2025-07-05",
   "channels": [
@@ -689,7 +657,7 @@
  },
  {
   "match": "Grand Prix at Mid-Ohio",
-  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t(Kvalifikation)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "19:30",
   "date": "2025-07-05",
   "channels": [
@@ -737,7 +705,7 @@
  },
  {
   "match": "Honda Indy 200",
-  "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Indycar \n\t\t\t\t\t\t\t\t\t(Kvalifikation)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "20:30",
   "date": "2025-07-05",
   "channels": [
@@ -753,7 +721,7 @@
  },
  {
   "match": "Frankrig – England",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.25  |  3.15  |  2.38",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.20  |  3.15  |  2.40",
   "time": "21:00",
   "date": "2025-07-05",
   "channels": [
@@ -773,7 +741,7 @@
  },
  {
   "match": "Real Madrid – Borussia Dortmund",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.63  |  4.35  |  5.25",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.64  |  4.30  |  5.20",
   "time": "22:00",
   "date": "2025-07-05",
   "channels": [
