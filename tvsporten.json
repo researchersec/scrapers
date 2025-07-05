@@ -1,43 +1,7 @@
 [
  {
-  "match": "Honda Indy 200",
-  "category": "Indycar \n\t\t\t\t\t\t\t\t\t(Kvalifikation)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "20:30",
-  "date": "2025-07-05",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Frankrig – England",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.20  |  2.45",
-  "time": "21:00",
-  "date": "2025-07-05",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Real Madrid – Borussia Dortmund",
-  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.67  |  4.20  |  5.10",
+  "category": "VM for klubhold\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.24  |  5.60  |  11.50",
   "time": "22:00",
   "date": "2025-07-05",
   "channels": [
