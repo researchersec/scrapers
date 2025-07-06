@@ -1,105 +1,5 @@
 [
  {
-  "match": "Aryna Sabalenka - Elise Mertens",
-  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-07-06",
-  "channels": [
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Grand Prix at Mid-Ohio",
-  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-07-06",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Hamburg Sea Devils - Nordic Storm",
-  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:30",
-  "date": "2025-07-06",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "ERC Rally di Roma Capitale",
-  "category": "Europamesterskab i rally\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-07-06",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Canada Open",
-  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-07-06",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "New Zealand U19 - Slovenia U19",
-  "category": "World Championship U19\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:00",
-  "date": "2025-07-06",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "KPMG Women's Irish Open",
   "category": "Ladies European Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:30",
@@ -301,7 +201,7 @@
  },
  {
   "match": "Schweiz – Island",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.25  |  3.30",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.25  |  3.35",
   "time": "21:00",
   "date": "2025-07-06",
   "channels": [
