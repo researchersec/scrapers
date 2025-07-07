@@ -1,45 +1,5 @@
 [
  {
-  "match": "Wimbledon",
-  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:00",
-  "date": "2025-07-07",
-  "channels": [
-   {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
-   },
-   {
-    "name": "DR 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr2_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Ekaterina Alexandrova – Belinda Bencic",
-  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:10",
-  "date": "2025-07-07",
-  "channels": [
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Novak Djokovic - Alex de Minaur",
   "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:40",
@@ -105,7 +65,7 @@
  },
  {
   "match": "Spanien – Belgien",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.04  |  17.00  |  41.00",
   "time": "18:00",
   "date": "2025-07-07",
   "channels": [
@@ -161,7 +121,7 @@
  },
  {
   "match": "Portugal - Italien",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.50  |  3.80  |  1.66",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.60  |  3.85  |  1.64",
   "time": "21:00",
   "date": "2025-07-07",
   "channels": [
