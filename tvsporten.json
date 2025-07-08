@@ -64,6 +64,38 @@
   ]
  },
  {
+  "match": "Taylor Fritz - Karen Khachanov",
+  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:10",
+  "date": "2025-07-08",
+  "channels": [
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Aryna Sabalenka - Laura Siegemund",
+  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "14:40",
+  "date": "2025-07-08",
+  "channels": [
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Wimbledon",
   "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:00",
@@ -88,8 +120,40 @@
   ]
  },
  {
+  "match": "Carlos Alcaraz - Cameron Norrie",
+  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "16:30",
+  "date": "2025-07-08",
+  "channels": [
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Amanda Anisimova vs Anastasia Pavlyuchenkova",
+  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-07-08",
+  "channels": [
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Tyskland – Danmark",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.40  |  7.00",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.40  |  5.40  |  6.75",
   "time": "18:00",
   "date": "2025-07-08",
   "channels": [
@@ -169,7 +233,7 @@
  },
  {
   "match": "Fluminense FC – Chelsea FC",
-  "category": "VM for klubhold \n\t\t\t\t\t\t\t\t\t(Semifinale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.40  |  3.60  |  1.74",
+  "category": "VM for klubhold \n\t\t\t\t\t\t\t\t\t(Semifinale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.60  |  3.70  |  1.70",
   "time": "21:00",
   "date": "2025-07-08",
   "channels": [
