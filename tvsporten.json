@@ -1,5 +1,21 @@
 [
  {
+  "match": "Champions League Snooker",
+  "category": "Championship League Snooker\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-07-08",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Amiens Métropole - Rouen",
   "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(4. Etape - 174.2 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "13:15",
@@ -92,6 +108,22 @@
   ]
  },
  {
+  "match": "Champions League Snooker",
+  "category": "Championship League Snooker\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-07-08",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Wimbledon",
   "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:00",
@@ -137,7 +169,7 @@
  },
  {
   "match": "Fluminense FC – Chelsea FC",
-  "category": "VM for klubhold \n\t\t\t\t\t\t\t\t\t(Semifinale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.40  |  3.75  |  1.72",
+  "category": "VM for klubhold \n\t\t\t\t\t\t\t\t\t(Semifinale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.40  |  3.65  |  1.73",
   "time": "21:00",
   "date": "2025-07-08",
   "channels": [
