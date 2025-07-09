@@ -64,20 +64,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkxXqGnOl%2Fp-5.webp&w=300&x1r=0.5019&x2r=1&y1r=0.2674&y2r=0.9542&s=5f75783fdb16aa337f54e3d097f7cdec"
  },
  {
-  "link": "/Bilka?publication=wK24-b0k&offer=6xtYQb77dzAKGwD2RcVpY",
-  "price": "99",
-  "currency": "DKK",
-  "valid_from": "10-07-2025",
-  "valid_until": "17-07-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwK24-b0k%2Fp-1.webp&w=300&x1r=0.4836&x2r=0.9907&y1r=0.6385&y2r=0.9614&s=6812d57bb1ba681fe9f7958e0e688718"
- },
- {
   "link": "/Min-Kobmand?publication=y5H419UK&offer=4G1PhVE9H1BgT7B-qPape",
   "price": "110",
   "currency": "DKK",
   "valid_from": "03-07-2025",
   "valid_until": "10-07-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fy5H419UK%2Fp-1.webp&w=300&x1r=0.5025&x2r=0.9863&y1r=0.5028&y2r=0.8643&s=e4d60b07088bc5f6ebe9e4f65245d209"
+ },
+ {
+  "link": "/Bilka?publication=wK24-b0k&offer=6xtYQb77dzAKGwD2RcVpY",
+  "price": "99",
+  "currency": "DKK",
+  "valid_from": "10-07-2025",
+  "valid_until": "17-07-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwK24-b0k%2Fp-1.webp&w=300&x1r=0.4836&x2r=0.9907&y1r=0.6385&y2r=0.9614&s=6812d57bb1ba681fe9f7958e0e688718"
  },
  {
   "link": "/Bilka?publication=wK24-b0k&offer=SXO3wrqpmgxpOmcj-mXsT",
@@ -144,19 +144,19 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxdcD0gzh%2Fp-17.webp&w=300&x1r=0.4564&x2r=0.9617&y1r=0.6701&y2r=0.9563&s=1a494949d90fb4853b713cca39f66482"
  },
  {
-  "link": "/Fleggaard?publication=_rk4LcSu&offer=Yvdh1QZblsLJpt90dEVwo",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "19-05-2025",
-  "valid_until": "02-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
- },
- {
   "link": "/Fleggaard?publication=vwAHxmdo&offer=5m8eRwxUCBlbQrNqLgsln",
   "price": "75",
   "currency": "DKK",
   "valid_from": "08-07-2025",
   "valid_until": "05-08-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
+ },
+ {
+  "link": "/Fleggaard?publication=_rk4LcSu&offer=Yvdh1QZblsLJpt90dEVwo",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "19-05-2025",
+  "valid_until": "02-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
  {
