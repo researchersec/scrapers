@@ -8,6 +8,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvI0YMM0w%2Fp-39.webp&w=300&x1r=0.0095&x2r=0.2741&y1r=0.011&y2r=0.3586&s=36d9341cf3ebfb74a18657ce8134c6a7"
  },
  {
+  "link": "/Lidl?publication=MuaDheFu&offer=dpjZW9z_zZXkQ2AiC3Oye",
+  "price": "8",
+  "currency": "DKK",
+  "valid_from": "12-07-2025",
+  "valid_until": "19-07-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMuaDheFu%2Fp-7.webp&w=300&x1r=0.0076&x2r=0.5092&y1r=0.0181&y2r=0.3901&s=9e3fd7e884c3a92d19cbafe2737d4ca7"
+ },
+ {
   "link": "/REMA-1000?publication=sQmSRS7F&offer=2jx12jcj7OUMe0GtTzOP0",
   "price": "4",
   "currency": "DKK",
@@ -152,20 +160,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRhpV1OkJ%2Fp-1.webp&w=300&x1r=0.5129&x2r=1&y1r=0.5647&y2r=0.91&s=4c994aebe93a191e2da49e9ba22f9616"
  },
  {
-  "link": "/Calle?publication=zo5znwQR&offer=7MAgiLoMnTWiB_WVeIcPy",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "08-07-2025",
-  "valid_until": "05-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fzo5znwQR%2Fp-21.webp&w=300&x1r=0.3357&x2r=0.6591&y1r=0.5072&y2r=0.7418&s=296e85ce12733832ba9b380841723d53"
- },
- {
   "link": "/BorderShop?publication=SWflRsnV&offer=iQuUFDhc5Y2P9nR3sql7b",
   "price": "75",
   "currency": "DKK",
   "valid_from": "10-06-2025",
   "valid_until": "12-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnF9_sQHK%2Fp-4.webp&w=300&x1r=0.0707&x2r=0.9519&y1r=0.4408&y2r=0.9998&s=0ae92bdace3dc366260b432e7f78f7e1"
+ },
+ {
+  "link": "/Calle?publication=zo5znwQR&offer=7MAgiLoMnTWiB_WVeIcPy",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "08-07-2025",
+  "valid_until": "05-08-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fzo5znwQR%2Fp-21.webp&w=300&x1r=0.3357&x2r=0.6591&y1r=0.5072&y2r=0.7418&s=296e85ce12733832ba9b380841723d53"
  },
  {
   "link": "/Poetzsch-Padborg?publication=A7mhjF0z&offer=4QLl1B5UbxM71YNmULTRr",
