@@ -1,45 +1,5 @@
 [
  {
-  "match": "Bayeux - Vire Normandie",
-  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(- 201,5 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "12:30",
-  "date": "2025-07-10",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "TV2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Championship League Snooker",
-  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "13:00",
-  "date": "2025-07-10",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Scottish Open",
   "category": "DP World Tour \n\t\t\t\t\t\t\t\t\t(1. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "14:00",
@@ -137,7 +97,7 @@
  },
  {
   "match": "Finland – Schweiz",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.70  |  3.40  |  2.08",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.20  |  2.14",
   "time": "21:00",
   "date": "2025-07-10",
   "channels": [
@@ -157,7 +117,7 @@
  },
  {
   "match": "Norge – Island",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.10  |  3.60  |  3.40",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.12  |  3.50  |  3.40",
   "time": "21:00",
   "date": "2025-07-10",
   "channels": [
