@@ -32,6 +32,26 @@
   ]
  },
  {
+  "match": "Verdenscup i Mountainbike",
+  "category": "Mountainbike\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "09:30",
+  "date": "2025-07-11",
+  "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "HBO Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Scottish Open",
   "category": "DP World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "09:30",
@@ -401,7 +421,7 @@
  },
  {
   "match": "Italien – Spanien",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 11.50  |  6.50  |  1.24",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 12.00  |  6.75  |  1.23",
   "time": "21:00",
   "date": "2025-07-11",
   "channels": [
@@ -421,7 +441,7 @@
  },
  {
   "match": "Portugal - Belgien",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.82  |  3.95  |  4.10",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.79  |  4.00  |  4.20",
   "time": "21:00",
   "date": "2025-07-11",
   "channels": [
@@ -452,38 +472,6 @@
    {
     "name": "HBO Max",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Indy NXT by Firestone at Iowa Speedway",
-  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "00:30",
-  "date": "2025-07-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Team Combat League",
-  "category": "Boksning\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "01:30",
-  "date": "2025-07-11",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
    },
    {
     "name": "Norlys",
