@@ -1,61 +1,5 @@
 [
  {
-  "match": "Verdenscup i Mountainbike",
-  "category": "Mountainbike\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:30",
-  "date": "2025-07-11",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "HBO Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Scottish Open",
-  "category": "DP World Tour \n\t\t\t\t\t\t\t\t\t(2. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:30",
-  "date": "2025-07-11",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Tysklands Grand Prix",
-  "category": "Moto2\n\t\t\t\t\t\t\t\t\t(Fri Øvelse)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:45",
-  "date": "2025-07-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Grand Prix of Germany",
   "category": "MotoGP \n\t\t\t\t\t\t\t\t\t(Fri Øvelse)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "10:45",
@@ -255,6 +199,26 @@
   "match": "Jannik Sinner - Novak Djokovic",
   "category": "Wimbledon \n\t\t\t\t\t\t\t\t\t(Semifinal)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "16:30",
+  "date": "2025-07-11",
+  "channels": [
+   {
+    "name": "DR 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
+   },
+   {
+    "name": "DR TV",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Wimbledon",
+  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:30",
   "date": "2025-07-11",
   "channels": [
    {
