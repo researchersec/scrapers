@@ -1,21 +1,5 @@
 [
  {
-  "match": "Grand Prix of Germany",
-  "category": "MotoGP \n\t\t\t\t\t\t\t\t\t(Fri Øvelse)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:45",
-  "date": "2025-07-11",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Melbourne Victory FC – Wrexham FC",
   "category": "Klub Venskabskamp\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "11:30",
@@ -313,7 +297,7 @@
  },
  {
   "match": "Italien – Spanien",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 10.00  |  6.75  |  1.25",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "21:00",
   "date": "2025-07-11",
   "channels": [
