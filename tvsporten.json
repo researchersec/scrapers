@@ -2,46 +2,6 @@
  {
   "match": "Wimbledon",
   "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:30",
-  "date": "2025-07-11",
-  "channels": [
-   {
-    "name": "DR 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr1_web.png"
-   },
-   {
-    "name": "DR TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dr32x-desktop.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Verdenscup i Mountainbike",
-  "category": "Mountainbike\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "17:30",
-  "date": "2025-07-11",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "HBO Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Wimbledon",
-  "category": "Wimbledon\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "18:30",
   "date": "2025-07-11",
   "channels": [
@@ -117,7 +77,7 @@
  },
  {
   "match": "Italien – Spanien",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 10.00  |  6.00  |  1.29",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 10.00  |  6.00  |  1.28",
   "time": "21:00",
   "date": "2025-07-11",
   "channels": [
@@ -137,7 +97,7 @@
  },
  {
   "match": "Portugal - Belgien",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.81  |  3.90  |  4.20",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.82  |  4.10  |  4.00",
   "time": "21:00",
   "date": "2025-07-11",
   "channels": [
