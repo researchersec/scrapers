@@ -1,37 +1,5 @@
 [
  {
-  "match": "Nürburgring",
-  "category": "European Truck Racing Championship\n\t\t\t\t\t\t\t\t\t(Løb 2)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "14:30",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Grand Prix of Germany",
-  "category": "MotoGP \n\t\t\t\t\t\t\t\t\t(Sprintløb)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:00",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Scottish Open",
   "category": "DP World Tour \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "15:30",
@@ -265,7 +233,7 @@
  },
  {
   "match": "Sverige – Tyskland",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.95  |  3.55  |  2.33",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.95  |  3.50  |  2.33",
   "time": "21:00",
   "date": "2025-07-12",
   "channels": [
