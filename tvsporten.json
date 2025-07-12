@@ -1,45 +1,5 @@
 [
  {
-  "match": "Sverige – Tyskland",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.70  |  2.25",
-  "time": "21:00",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Polen - Danmark",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "21:00",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "TV3",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3dk_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "ISCO Championship",
   "category": "PGA \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "22:00",
