@@ -1,38 +1,6 @@
 [
  {
   "match": "Grand Prix of Germany",
-  "category": "Moto2\n\t\t\t\t\t\t\t\t\t(Fri Øvelse)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:30",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Amundi Evian Championship",
-  "category": "LPGA \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:00",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Grand Prix of Germany",
   "category": "MotoGP \n\t\t\t\t\t\t\t\t\t(Kvalifikation)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "10:45",
   "date": "2025-07-12",
