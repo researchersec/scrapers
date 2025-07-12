@@ -1,53 +1,5 @@
 [
  {
-  "match": "Grand Prix of Germany",
-  "category": "MotoGP \n\t\t\t\t\t\t\t\t\t(Kvalifikation)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:45",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Nürburgring",
-  "category": "European Truck Racing Championship\n\t\t\t\t\t\t\t\t\t(Løb 1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:00",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Mugello",
-  "category": "Formula 4 Italian Championship\n\t\t\t\t\t\t\t\t\t(Løb 1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:15",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "British & Irish Lions - Invitational AU & NZ",
   "category": "Rugby Union International Friendly\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "12:00",
