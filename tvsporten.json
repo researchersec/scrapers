@@ -1,81 +1,5 @@
 [
  {
-  "match": "Scottish Open",
-  "category": "DP World Tour \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "15:30",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Nürburgring",
-  "category": "GT Masters\n\t\t\t\t\t\t\t\t\t(Løb 1)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Scottish Open",
-  "category": "DP World Tour \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Berlin E-Prix",
-  "category": "Formel E \n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "16:00",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "HBO Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Amanda Anisimova – Iga Świątek",
   "category": "Wimbledon \n\t\t\t\t\t\t\t\t\t(Final)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:00",
@@ -233,7 +157,7 @@
  },
  {
   "match": "Sverige – Tyskland",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 2.95  |  3.50  |  2.33",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.55  |  2.32",
   "time": "21:00",
   "date": "2025-07-12",
   "channels": [
@@ -253,7 +177,7 @@
  },
  {
   "match": "Polen - Danmark",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.50  |  4.80  |  1.52",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.60  |  4.90  |  1.50",
   "time": "21:00",
   "date": "2025-07-12",
   "channels": [
