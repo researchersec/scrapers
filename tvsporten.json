@@ -1,25 +1,5 @@
 [
  {
-  "match": "ISCO Championship",
-  "category": "PGA \n\t\t\t\t\t\t\t\t\t(3. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "22:00",
-  "date": "2025-07-12",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "HBO Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Pit Boss/FoodMaxx 250",
   "category": "Nascar \n\t\t\t\t\t\t\t\t\t(79 laps / 156.95 miles)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "22:30",
