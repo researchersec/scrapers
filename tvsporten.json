@@ -1,37 +1,5 @@
 [
  {
-  "match": "Stephen Thompson - Gabriel Bonfim",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "05:00",
-  "date": "2025-07-13",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Derrick Lewis - Tallison Teixeira",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "05:30",
-  "date": "2025-07-13",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Goodwood Festival of Speed",
   "category": "Andet\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "09:15",
@@ -677,7 +645,7 @@
  },
  {
   "match": "Holland – Frankrig",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.00  |  4.20  |  1.64",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.10  |  4.20  |  1.63",
   "time": "21:00",
   "date": "2025-07-13",
   "channels": [
@@ -697,7 +665,7 @@
  },
  {
   "match": "England - Wales",
-  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.04  |  16.00  |  41.00",
+  "category": "EM for kvinder\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 1.07  |  13.00  |  29.00",
   "time": "21:00",
   "date": "2025-07-13",
   "channels": [
@@ -717,7 +685,7 @@
  },
  {
   "match": "Chelsea FC – Paris Saint Germain",
-  "category": "VM for klubhold \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.30  |  4.20  |  1.64",
+  "category": "VM for klubhold \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 5.30  |  4.10  |  1.65",
   "time": "21:00",
   "date": "2025-07-13",
   "channels": [
