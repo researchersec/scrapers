@@ -1,89 +1,5 @@
 [
  {
-  "match": "Japan - Australien",
-  "category": "FIBA Asia Women's Cup\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:30",
-  "date": "2025-07-15",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Swiss Open Gstaad",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:30",
-  "date": "2025-07-15",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Juan Manuel Cerundolo - Jan-Lennard Struff",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:40",
-  "date": "2025-07-15",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Swedish Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:00",
-  "date": "2025-07-15",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Damir Dzumhur - Sebastian Ofner",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "11:10",
-  "date": "2025-07-15",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Sydney FC – Wrexham FC",
   "category": "Klub Venskabskamp\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "11:30",
@@ -216,6 +132,22 @@
   ]
  },
  {
+  "match": "Filip Misolic - Elmer Møller",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:00",
+  "date": "2025-07-15",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Swedish Open",
   "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "17:00",
@@ -225,6 +157,22 @@
     "name": "TV2 Sport X",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
    },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Alexander Shevchenko - Stan Wawrinka",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "17:40",
+  "date": "2025-07-15",
+  "channels": [
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
