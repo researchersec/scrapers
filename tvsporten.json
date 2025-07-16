@@ -1,21 +1,5 @@
 [
  {
-  "match": "Filippinerne - Lebanon",
-  "category": "FIBA Asia Women's Cup\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "07:30",
-  "date": "2025-07-16",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Malaga P1",
   "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "09:00",
@@ -84,6 +68,38 @@
   ]
  },
  {
+  "match": "Filip Misolic - Elmer Møller",
+  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "11:10",
+  "date": "2025-07-16",
+  "channels": [
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Champions League Snooker",
+  "category": "Championship League Snooker\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "13:00",
+  "date": "2025-07-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Toulouse - Toulouse",
   "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(11. Etape - 156.8 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
   "time": "13:15",
@@ -116,6 +132,38 @@
    {
     "name": "DAZN",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Champions League Snooker",
+  "category": "Championship League Snooker\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:00",
+  "date": "2025-07-16",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Belgien Rundt",
+  "category": "UCI Women's World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "time": "18:45",
+  "date": "2025-07-16",
+  "channels": [
+   {
+    "name": "HBO Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
