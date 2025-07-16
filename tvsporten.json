@@ -305,7 +305,7 @@
  },
  {
   "match": "Sverige – England",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.60  |  3.20  |  2.18",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.65  |  3.15  |  2.18",
   "time": "21:00",
   "date": "2025-07-17",
   "channels": [
@@ -316,26 +316,6 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Barracuda Championship",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "00:00",
-  "date": "2025-07-17",
-  "channels": [
-   {
-    "name": "Eurosport 2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
-   },
-   {
-    "name": "HBO Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
    },
    {
     "name": "Norlys",
