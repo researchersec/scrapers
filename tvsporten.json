@@ -1,21 +1,5 @@
 [
  {
-  "match": "Championship League Snooker",
-  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "18:00",
-  "date": "2025-07-17",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "WRC Delfi Rally Estonia",
   "category": "Rally \n\t\t\t\t\t\t\t\t\t(1. Etape)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "19:00",
@@ -33,7 +17,7 @@
  },
  {
   "match": "Sverige – England",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.45  |  3.10  |  2.30",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.45  |  3.05  |  2.33",
   "time": "21:00",
   "date": "2025-07-17",
   "channels": [
