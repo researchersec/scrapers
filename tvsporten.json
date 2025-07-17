@@ -1,55 +1,7 @@
 [
  {
-  "match": "UniCredit Iasi Open",
-  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:30",
-  "date": "2025-07-17",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Thorbjørn Olesen i The Open Championship",
-  "category": "The Open\n\t\t\t\t\t\t\t\t\t(1. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "09:30",
-  "date": "2025-07-17",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "WRC Delfi Rally Estonia",
-  "category": "Rally \n\t\t\t\t\t\t\t\t\t(Shakedown)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
-  "time": "10:00",
-  "date": "2025-07-17",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Swiss Open Gstaad",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "ATP",
   "time": "10:30",
   "date": "2025-07-17",
   "channels": [
@@ -65,7 +17,7 @@
  },
  {
   "match": "Hamburg Open",
-  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "WTA",
   "time": "11:00",
   "date": "2025-07-17",
   "channels": [
@@ -81,7 +33,7 @@
  },
  {
   "match": "Swedish Open",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "ATP",
   "time": "11:00",
   "date": "2025-07-17",
   "channels": [
@@ -101,7 +53,7 @@
  },
  {
   "match": "John Axelsen i The Open Championship",
-  "category": "The Open\n\t\t\t\t\t\t\t\t\t(1. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "The Open\n\t\t\t\t\t\t\t\t\t(1. Runde)",
   "time": "12:00",
   "date": "2025-07-17",
   "channels": [
@@ -117,7 +69,7 @@
  },
  {
   "match": "Championship League Snooker",
-  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Champions League",
   "time": "13:00",
   "date": "2025-07-17",
   "channels": [
@@ -133,7 +85,7 @@
  },
  {
   "match": "Auch - Hautacam",
-  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(12. Etape - 180.6 km)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(12. Etape - 180.6 km)",
   "time": "13:15",
   "date": "2025-07-17",
   "channels": [
@@ -157,7 +109,7 @@
  },
  {
   "match": "The Open Championship",
-  "category": "The Open\n\t\t\t\t\t\t\t\t\t(1. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "The Open\n\t\t\t\t\t\t\t\t\t(1. Runde)",
   "time": "14:30",
   "date": "2025-07-17",
   "channels": [
@@ -173,7 +125,7 @@
  },
  {
   "match": "Rasmus Højgaard i The Open Championship",
-  "category": "The Open\n\t\t\t\t\t\t\t\t\t(1. Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "The Open\n\t\t\t\t\t\t\t\t\t(1. Runde)",
   "time": "14:30",
   "date": "2025-07-17",
   "channels": [
@@ -189,7 +141,7 @@
  },
  {
   "match": "Championship League Snooker",
-  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Champions League",
   "time": "18:00",
   "date": "2025-07-17",
   "channels": [
@@ -205,7 +157,7 @@
  },
  {
   "match": "WRC Delfi Rally Estonia",
-  "category": "Rally \n\t\t\t\t\t\t\t\t\t(1. Etape)\n\t\t\t\t\t\t\t\t\t\t\t\tVBet Live odds",
+  "category": "Rally \n\t\t\t\t\t\t\t\t\t(1. Etape)",
   "time": "19:00",
   "date": "2025-07-17",
   "channels": [
@@ -221,7 +173,7 @@
  },
  {
   "match": "Sverige – England",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tVBet\t\t\t\t\t\t\t\t\t\t\t 3.65  |  3.05  |  2.20",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)",
   "time": "21:00",
   "date": "2025-07-17",
   "channels": [
