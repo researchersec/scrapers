@@ -1,25 +1,5 @@
 [
  {
-  "match": "Viborg FF – FC København",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 5.75  |  4.20  |  1.54",
-  "time": "19:00",
-  "date": "2025-07-18",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Como - Lille",
   "category": "Klub Venskabskamp\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.50  |  3.30  |  2.43",
   "time": "19:30",
@@ -37,7 +17,7 @@
  },
  {
   "match": "Spanien – Schweiz",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.08  |  12.00  |  26.00",
   "time": "21:00",
   "date": "2025-07-18",
   "channels": [
