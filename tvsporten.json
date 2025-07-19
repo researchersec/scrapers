@@ -1,21 +1,5 @@
 [
  {
-  "match": "Wellington Phoenix - Wrexham FC",
-  "category": "Klub Venskabskamp\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 26.00  |  6.10  |  1.11",
-  "time": "07:00",
-  "date": "2025-07-19",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Rally Estonia",
   "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "07:30",
@@ -688,22 +672,6 @@
   ]
  },
  {
-  "match": "Oleksandr Usyk - Daniel Dubois",
-  "category": "Boksning\n\t\t\t\t\t\t\t\t\t(Title Fight)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "18:30",
-  "date": "2025-07-19",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "World Matchplay",
   "category": "PDC Darts\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "20:00",
@@ -753,7 +721,7 @@
  },
  {
   "match": "Frankrig – Tyskland",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.02  |  3.55  |  3.70",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.04  |  3.50  |  3.70",
   "time": "21:00",
   "date": "2025-07-19",
   "channels": [
@@ -764,6 +732,22 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Oleksandr Usyk - Daniel Dubois",
+  "category": "Boksning\n\t\t\t\t\t\t\t\t\t(Title Fight)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "22:00",
+  "date": "2025-07-19",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
    },
    {
     "name": "Norlys",
