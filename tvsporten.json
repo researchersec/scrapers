@@ -148,6 +148,22 @@
   ]
  },
  {
+  "match": "Jacob Skov Olesen i The Open Championship",
+  "category": "The Open\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "11:15",
+  "date": "2025-07-19",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Pau - Luchon-Superbagnères",
   "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(14. Etape - 182.6 km)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "12:00",
@@ -496,6 +512,22 @@
   ]
  },
  {
+  "match": "Nicolai Højgaard i The Open Championship",
+  "category": "The Open\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "15:45",
+  "date": "2025-07-19",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "UniCredit Iasi Open",
   "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "16:00",
@@ -553,6 +585,22 @@
   "time": "16:00",
   "date": "2025-07-19",
   "channels": [
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Rasmus Højgaard i The Open Championship",
+  "category": "The Open\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "16:15",
+  "date": "2025-07-19",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
    {
     "name": "Norlys",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
@@ -721,7 +769,7 @@
  },
  {
   "match": "Frankrig – Tyskland",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.04  |  3.45  |  3.75",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.02  |  3.55  |  3.70",
   "time": "21:00",
   "date": "2025-07-19",
   "channels": [
@@ -761,74 +809,6 @@
   "time": "23:00",
   "date": "2025-07-19",
   "channels": [
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Los Cabos",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "04:00",
-  "date": "2025-07-19",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Japan Open",
-  "category": "BWF World Tour\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "04:00",
-  "date": "2025-07-19",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Michael Johnson - Daniel Zellhuber",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "04:00",
-  "date": "2025-07-19",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Dan Ige - Patricio Freire",
-  "category": "UFC\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "04:30",
-  "date": "2025-07-19",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
    {
     "name": "Norlys",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
