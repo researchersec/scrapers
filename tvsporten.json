@@ -1,22 +1,6 @@
 [
  {
   "match": "Grand Prix of Czechia",
-  "category": "Moto3\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "08:45",
-  "date": "2025-07-19",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Grand Prix of Czechia",
   "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "09:30",
   "date": "2025-07-19",
@@ -417,7 +401,7 @@
  },
  {
   "match": "Manchester United – Leeds United",
-  "category": "Klub Venskabskamp\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.83  |  3.85  |  3.70",
+  "category": "Klub Venskabskamp\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "15:00",
   "date": "2025-07-19",
   "channels": [
@@ -705,7 +689,7 @@
  },
  {
   "match": "Frankrig – Tyskland",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.15  |  3.35  |  3.55",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.45  |  3.30  |  3.00",
   "time": "21:00",
   "date": "2025-07-19",
   "channels": [
