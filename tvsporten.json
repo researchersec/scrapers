@@ -1,37 +1,5 @@
 [
  {
-  "match": "Raiders Tirol - Munich Ravens",
-  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "18:00",
-  "date": "2025-07-19",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Championship League Snooker",
-  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "18:00",
-  "date": "2025-07-19",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "World Matchplay",
   "category": "PDC Darts\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "20:00",
@@ -81,7 +49,7 @@
  },
  {
   "match": "Frankrig – Tyskland",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.50  |  3.15  |  3.05",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Kvartfinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.48  |  3.25  |  3.00",
   "time": "21:00",
   "date": "2025-07-19",
   "channels": [
