@@ -1,37 +1,5 @@
 [
  {
-  "match": "World RX of Hungary",
-  "category": "World RX\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "11:30",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Swiss Open Gstaad",
-  "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "11:30",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Rally Estonia",
   "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "12:15",
