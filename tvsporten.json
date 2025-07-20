@@ -1,57 +1,5 @@
 [
  {
-  "match": "SønderjyskE – AGF",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.60  |  3.40  |  2.05",
-  "time": "16:00",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "TV2 Sport X",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Malaga P1",
-  "category": "Premier Padel Tour\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "16:00",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Ferrari Challenge Coppa Shell AM",
-  "category": "Ferrari Challenge\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "16:15",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Hamburg Sea Devils - Rhein Fire",
   "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "16:30",
@@ -103,6 +51,22 @@
   "match": "Stuttgart Surge - Paris Musketeers",
   "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "16:30",
+  "date": "2025-07-20",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Spain U19 - Canada U19",
+  "category": "FIBA Women's U19 World Cup\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "17:00",
   "date": "2025-07-20",
   "channels": [
    {
@@ -189,7 +153,7 @@
  },
  {
   "match": "Union Saint-gilloise – Club Brugge",
-  "category": "Super Cup\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.38  |  3.25  |  2.75",
+  "category": "Super Cup\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.33  |  3.25  |  2.80",
   "time": "18:30",
   "date": "2025-07-20",
   "channels": [
@@ -232,6 +196,22 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "USA U19 - Australia U19",
+  "category": "FIBA Women's U19 World Cup\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "20:00",
+  "date": "2025-07-20",
+  "channels": [
+   {
+    "name": "DAZN",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
    },
    {
     "name": "Norlys",
