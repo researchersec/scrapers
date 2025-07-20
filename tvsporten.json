@@ -1,109 +1,5 @@
 [
  {
-  "match": "Rally Estonia",
-  "category": "Rally\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "12:15",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Grand Prix of Czechia",
-  "category": "Moto2\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "12:15",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Le Castellet",
-  "category": "Formula Regional Championship\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "12:30",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Berlin Thunder - Nordic Storm",
-  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "13:00",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Helvetic Mercenaries - Madrid Bravos",
-  "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "13:00",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Muret - Carcassonne",
-  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(15. Etape - 169.3 km)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "13:15",
-  "date": "2025-07-20",
-  "channels": [
-   {
-    "name": "TV2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "HBO Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Ferrari Challenge Coppa Shell",
   "category": "Ferrari Challenge\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "13:45",
@@ -217,7 +113,7 @@
  },
  {
   "match": "FC Fredericia – FC Nordsjælland",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 4.70  |  4.10  |  1.64",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.85  |  3.50  |  1.92",
   "time": "14:00",
   "date": "2025-07-20",
   "channels": [
@@ -237,7 +133,7 @@
  },
  {
   "match": "Vejle BK – Randers FC",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.45  |  3.60  |  2.04",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.05  |  3.05  |  2.45",
   "time": "14:00",
   "date": "2025-07-20",
   "channels": [
@@ -272,6 +168,38 @@
   ]
  },
  {
+  "match": "Rasmus Højgaard i The Open Championship",
+  "category": "The Open\n\t\t\t\t\t\t\t\t\t(Siste runde)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "14:40",
+  "date": "2025-07-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Nicolai Højgaard i The Open Championship",
+  "category": "The Open\n\t\t\t\t\t\t\t\t\t(Siste runde)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "14:50",
+  "date": "2025-07-20",
+  "channels": [
+   {
+    "name": "Viaplay.dk",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "Ferrari Challenge Trofeo Pirelli",
   "category": "Ferrari Challenge\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "15:00",
@@ -289,7 +217,7 @@
  },
  {
   "match": "Esbjerg fB – Lyngby BK",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.25  |  3.90  |  1.87",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.50  |  2.10",
   "time": "15:00",
   "date": "2025-07-20",
   "channels": [
@@ -321,7 +249,7 @@
  },
  {
   "match": "SønderjyskE – AGF",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.75  |  3.65  |  1.92",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.40  |  3.60  |  2.04",
   "time": "16:00",
   "date": "2025-07-20",
   "channels": [
