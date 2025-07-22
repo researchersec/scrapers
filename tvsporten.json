@@ -1,21 +1,5 @@
 [
  {
-  "match": "Championship League Snooker",
-  "category": "Champions League\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "13:00",
-  "date": "2025-07-22",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Croatia Open",
   "category": "ATP\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "16:30",
@@ -137,7 +121,7 @@
  },
  {
   "match": "England – Italien",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Semifinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.58  |  3.95  |  6.10",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Semifinale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.58  |  3.95  |  6.25",
   "time": "21:00",
   "date": "2025-07-22",
   "channels": [
