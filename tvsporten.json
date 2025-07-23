@@ -1,41 +1,5 @@
 [
  {
-  "match": "World Pool Championship",
-  "category": "World Pool Championship\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "18:30",
-  "date": "2025-07-23",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Silkeborg IF - KA",
-  "category": "UEFA Conference League\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.09  |  9.50  |  25.00",
-  "time": "19:00",
-  "date": "2025-07-23",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "World Matchplay",
   "category": "PDC Darts\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "20:00",
@@ -64,6 +28,26 @@
    {
     "name": "Viaplay.dk",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Mubadala Citi DC Open",
+  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "21:00",
+  "date": "2025-07-23",
+  "channels": [
+   {
+    "name": "TV2 Sport X",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport-x_100x60.jpg"
+   },
+   {
+    "name": "TV2 Play",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
    },
    {
     "name": "Norlys",
