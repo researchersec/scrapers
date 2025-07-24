@@ -144,12 +144,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fzo5znwQR%2Fp-21.webp&w=300&x1r=0.3357&x2r=0.6591&y1r=0.5072&y2r=0.7418&s=296e85ce12733832ba9b380841723d53"
  },
  {
-  "link": "/Nielsen-Scan-Shop?publication=RhpV1OkJ&offer=BUR9JCsfGWDVaUh7IP7tA",
+  "link": "/Nielsen-Scan-Shop?publication=RhpV1OkJ&offer=mKHNx0GD7HsNQ1lYZpJV7",
   "price": "75",
   "currency": "DKK",
   "valid_from": "25-06-2025",
   "valid_until": "30-07-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRhpV1OkJ%2Fp-38.webp&w=300&x1r=0.0048&x2r=0.9958&y1r=0.0005&y2r=0.4984&s=ec14f62b98e437fc6b0897276ba7ccc8"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRhpV1OkJ%2Fp-1.webp&w=300&x1r=0.5129&x2r=1&y1r=0.5647&y2r=0.91&s=4c994aebe93a191e2da49e9ba22f9616"
  },
  {
   "link": "/BorderShop?publication=SWflRsnV&offer=iQuUFDhc5Y2P9nR3sql7b",
@@ -176,20 +176,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDbavSAdy%2Fp-10.webp&w=300&x1r=0.005&x2r=0.2886&y1r=0.5577&y2r=0.9489&s=6b5bc33ba5b0cf29a7041ff2bb5a73c1"
  },
  {
-  "link": "/Bilka?publication=lco_B5Ni&offer=EnLJ5sc07H0yi9g3Hd2uM",
-  "price": "89",
-  "currency": "DKK",
-  "valid_from": "17-07-2025",
-  "valid_until": "24-07-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Flco_B5Ni%2Fp-8.webp&w=300&x1r=0.0287&x2r=0.6742&y1r=0.1844&y2r=0.5612&s=771d912ca160ebb5b270dfecbe508f88"
- },
- {
   "link": "/fotex?publication=i45cKqYz&offer=xexGFMl6UgngWp_u5hKqF",
   "price": "95",
   "currency": "DKK",
   "valid_from": "24-07-2025",
   "valid_until": "31-07-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fi45cKqYz%2Fp-4.webp&w=300&x1r=0.016&x2r=0.5547&y1r=0.4943&y2r=0.743&s=3a89efde4964080406c763ac31b9a539"
+ },
+ {
+  "link": "/Bilka?publication=lco_B5Ni&offer=EnLJ5sc07H0yi9g3Hd2uM",
+  "price": "89",
+  "currency": "DKK",
+  "valid_from": "17-07-2025",
+  "valid_until": "24-07-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Flco_B5Ni%2Fp-8.webp&w=300&x1r=0.0287&x2r=0.6742&y1r=0.1844&y2r=0.5612&s=771d912ca160ebb5b270dfecbe508f88"
  },
  {
   "link": "/Bilka?publication=lco_B5Ni&offer=2KzB5WFozVeLicnydOiyp",
