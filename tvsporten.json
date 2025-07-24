@@ -1,37 +1,5 @@
 [
  {
-  "match": "World Pool Championship",
-  "category": "World Pool Championship\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "12:00",
-  "date": "2025-07-24",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Vif - Courchevel Col de la Loze",
-  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(-171.5 km)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "12:15",
-  "date": "2025-07-24",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "The Senior Open",
   "category": "PGA TOUR Champions\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "14:30",
