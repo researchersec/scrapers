@@ -1,25 +1,5 @@
 [
  {
-  "match": "Women's Scottish Open",
-  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "10:30",
-  "date": "2025-07-25",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Belgiens Grand Prix",
   "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "12:00",
@@ -401,7 +381,7 @@
  },
  {
   "match": "Royal Antwerp FC – Union Saint-gilloise",
-  "category": "Jupiler Pro League\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.90  |  3.55  |  1.88",
+  "category": "Jupiler Pro League\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.95  |  3.50  |  1.90",
   "time": "20:45",
   "date": "2025-07-25",
   "channels": [
