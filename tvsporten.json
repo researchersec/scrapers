@@ -1,23 +1,7 @@
 [
  {
-  "match": "Mubadala Citi DC Open",
-  "category": "WTA\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "18:00",
-  "date": "2025-07-25",
-  "channels": [
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "HB Køge – Aarhus Fremad",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.40  |  3.55  |  2.55",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.71  |  3.80  |  4.10",
   "time": "18:30",
   "date": "2025-07-25",
   "channels": [
@@ -49,7 +33,7 @@
  },
  {
   "match": "AGF – Randers FC",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.91  |  3.80  |  3.75",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.33  |  4.80  |  8.50",
   "time": "19:00",
   "date": "2025-07-25",
   "channels": [
@@ -69,7 +53,7 @@
  },
  {
   "match": "Lyngby BK – B 93 København",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.47  |  4.50  |  5.30",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.61  |  3.70  |  5.10",
   "time": "19:00",
   "date": "2025-07-25",
   "channels": [
@@ -85,7 +69,7 @@
  },
  {
   "match": "AC Horsens – Kolding IF",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.17  |  3.15  |  3.20",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.60  |  2.90  |  2.85",
   "time": "19:00",
   "date": "2025-07-25",
   "channels": [
@@ -153,7 +137,7 @@
  },
  {
   "match": "Royal Antwerp FC – Union Saint-gilloise",
-  "category": "Jupiler Pro League\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 4.00  |  3.50  |  1.88",
+  "category": "Jupiler Pro League\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 4.10  |  3.50  |  1.88",
   "time": "20:45",
   "date": "2025-07-25",
   "channels": [
