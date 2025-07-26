@@ -1,45 +1,5 @@
 [
  {
-  "match": "Liverpool FC – AC Milan",
-  "category": "Klub Venskabskamp\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.40  |  4.60  |  5.75",
-  "time": "13:30",
-  "date": "2025-07-26",
-  "channels": [
-   {
-    "name": "TV3 Max",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_maxweb.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "LFC TV",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/lfc-tv.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Senegal - Guinea",
-  "category": "FIBA Women's AfroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "13:30",
-  "date": "2025-07-26",
-  "channels": [
-   {
-    "name": "DAZN",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Spa-Francorchamps",
   "category": "Formel 2\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "13:45",
@@ -57,7 +17,7 @@
  },
  {
   "match": "Hillerød – AaB",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.35  |  3.60  |  2.60",
   "time": "14:00",
   "date": "2025-07-26",
   "channels": [
@@ -153,7 +113,7 @@
  },
  {
   "match": "Esbjerg fB – Hvidovre IF",
-  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.20  |  3.50  |  2.85",
+  "category": "1. Division\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.28  |  3.50  |  2.75",
   "time": "14:00",
   "date": "2025-07-26",
   "channels": [
@@ -224,7 +184,7 @@
   ]
  },
  {
-  "match": "Belgiens Grand Prix",
+  "match": "Belgiens Grand Prix - Kvalifikation",
   "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "16:00",
   "date": "2025-07-26",
