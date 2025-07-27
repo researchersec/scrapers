@@ -21,7 +21,7 @@
  },
  {
   "match": "Spa-Francorchamps",
-  "category": "Formel 3\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "Formel 3 \n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "08:30",
   "date": "2025-07-27",
   "channels": [
@@ -41,7 +41,7 @@
  },
  {
   "match": "Spa-Francorchamps",
-  "category": "Formel 2\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "Formel 2 \n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "10:00",
   "date": "2025-07-27",
   "channels": [
@@ -61,7 +61,7 @@
  },
  {
   "match": "Spa-Francorchamps",
-  "category": "Porsche Supercup\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "Porsche Supercup\n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "11:45",
   "date": "2025-07-27",
   "channels": [
@@ -97,7 +97,7 @@
  },
  {
   "match": "Women's Scottish Open",
-  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "LPGA \n\t\t\t\t\t\t\t\t\t(Siste Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "13:00",
   "date": "2025-07-27",
   "channels": [
@@ -152,22 +152,6 @@
    {
     "name": "DAZN",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/dazn-new-100x60-1.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Women's Scottish Open",
-  "category": "LPGA\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "13:00",
-  "date": "2025-07-27",
-  "channels": [
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
    },
    {
     "name": "Norlys",
@@ -241,7 +225,7 @@
  },
  {
   "match": "LIV Golf UK",
-  "category": "LIV Golf\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "LIV Golf \n\t\t\t\t\t\t\t\t\t(Sidste Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "14:00",
   "date": "2025-07-27",
   "channels": [
@@ -276,7 +260,7 @@
   ]
  },
  {
-  "match": "Guinea - Uganda W",
+  "match": "Guinea - Uganda",
   "category": "FIBA Women's AfroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "14:00",
   "date": "2025-07-27",
@@ -312,8 +296,24 @@
   ]
  },
  {
+  "match": "Niklas Norgaard i 3M Open",
+  "category": "PGA \n\t\t\t\t\t\t\t\t\t(Siste Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "14:01",
+  "date": "2025-07-27",
+  "channels": [
+   {
+    "name": "HBO Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
   "match": "The Senior Open",
-  "category": "PGA TOUR Champions\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "PGA TOUR Champions \n\t\t\t\t\t\t\t\t\t(Sidste Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "14:30",
   "date": "2025-07-27",
   "channels": [
@@ -333,7 +333,7 @@
  },
  {
   "match": "Belgiens Grand Prix",
-  "category": "Formel 1\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "Formel 1 \n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "15:00",
   "date": "2025-07-27",
   "channels": [
@@ -377,10 +377,18 @@
  },
  {
   "match": "Mantes-la-Ville - Paris Champs-Élysées",
-  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(-132.3 km)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(21. Etape - 132.3 km)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "16:15",
   "date": "2025-07-27",
   "channels": [
+   {
+    "name": "Eurosport 1",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
+   },
+   {
+    "name": "TV2",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2_100x60.jpg"
+   },
    {
     "name": "TV2 Play",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
@@ -477,7 +485,7 @@
  },
  {
   "match": "Grand Prix of Monterey",
-  "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "Indycar \n\t\t\t\t\t\t\t\t\t(Opvarmning)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "18:00",
   "date": "2025-07-27",
   "channels": [
@@ -493,7 +501,7 @@
  },
  {
   "match": "London E-Prix",
-  "category": "Formel E\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "Formel E \n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "18:00",
   "date": "2025-07-27",
   "channels": [
@@ -513,7 +521,7 @@
  },
  {
   "match": "England – Spanien",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 4.80  |  3.55  |  1.79",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "18:00",
   "date": "2025-07-27",
   "channels": [
@@ -533,7 +541,7 @@
  },
  {
   "match": "Grand Prix of Monterey",
-  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "Indy NXT Series\n\t\t\t\t\t\t\t\t\t(Løb 2)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "19:00",
   "date": "2025-07-27",
   "channels": [
@@ -549,7 +557,7 @@
  },
  {
   "match": "3M Open",
-  "category": "PGA\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "PGA \n\t\t\t\t\t\t\t\t\t(Sidste Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "19:00",
   "date": "2025-07-27",
   "channels": [
@@ -561,6 +569,22 @@
     "name": "Eurosport 2",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport2_web.png"
    },
+   {
+    "name": "HBO Max",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
+   },
+   {
+    "name": "Norlys",
+    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
+   }
+  ]
+ },
+ {
+  "match": "Thorbjørn Olesen i 3M Open",
+  "category": "PGA \n\t\t\t\t\t\t\t\t\t(Siste Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "time": "19:35",
+  "date": "2025-07-27",
+  "channels": [
    {
     "name": "HBO Max",
     "logo_url": "https://www.tvsporten.dk/media/tvchannels/max-mobile.png"
@@ -588,7 +612,7 @@
   ]
  },
  {
-  "match": "Rwanda W - Mozambique",
+  "match": "Rwanda - Mozambique",
   "category": "FIBA Women's AfroBasket\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "20:00",
   "date": "2025-07-27",
@@ -641,7 +665,7 @@
  },
  {
   "match": "Grand Prix of Monterey",
-  "category": "Indycar\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
+  "category": "Indycar \n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "21:00",
   "date": "2025-07-27",
   "channels": [
