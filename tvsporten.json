@@ -1,49 +1,5 @@
 [
  {
-  "match": "Silkeborg IF – FC Fredericia",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.71  |  3.85  |  4.70",
-  "time": "16:00",
-  "date": "2025-07-27",
-  "channels": [
-   {
-    "name": "TV2 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-sport_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Mantes-la-Ville - Paris Champs-Élysées",
-  "category": "Tour de France \n\t\t\t\t\t\t\t\t\t(21. Etape - 132.3 km)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "16:15",
-  "date": "2025-07-27",
-  "channels": [
-   {
-    "name": "Eurosport 1",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/eurosport_web.png"
-   },
-   {
-    "name": "TV2",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2_100x60.jpg"
-   },
-   {
-    "name": "TV2 Play",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv2-play_100x60.jpg"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Stuttgart Surge - Hamburg Sea Devils",
   "category": "European League of Football\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "16:30",
@@ -109,7 +65,7 @@
  },
  {
   "match": "FC Nordsjælland – Brøndby IF",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.90  |  3.85  |  2.18",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 3.00  |  3.85  |  2.14",
   "time": "18:00",
   "date": "2025-07-27",
   "channels": [
@@ -165,7 +121,7 @@
  },
  {
   "match": "England – Spanien",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 5.20  |  3.30  |  1.81",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 4.80  |  3.80  |  1.74",
   "time": "18:00",
   "date": "2025-07-27",
   "channels": [
