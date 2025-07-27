@@ -1,26 +1,6 @@
 [
  {
   "match": "Spa-Francorchamps",
-  "category": "Formel 3 \n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "08:30",
-  "date": "2025-07-27",
-  "channels": [
-   {
-    "name": "TV3 Sport",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3_sport_2web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Spa-Francorchamps",
   "category": "Formel 2 \n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
   "time": "10:00",
   "date": "2025-07-27",
@@ -257,7 +237,7 @@
  },
  {
   "match": "OB – Viborg FF",
-  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.02  |  3.65  |  3.40",
+  "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 2.00  |  3.70  |  3.40",
   "time": "14:00",
   "date": "2025-07-27",
   "channels": [
@@ -501,7 +481,7 @@
  },
  {
   "match": "England – Spanien",
-  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 4.80  |  3.55  |  1.80",
+  "category": "EM for kvinder \n\t\t\t\t\t\t\t\t\t(Finale)\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 4.80  |  3.55  |  1.79",
   "time": "18:00",
   "date": "2025-07-27",
   "channels": [
