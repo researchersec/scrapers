@@ -1,49 +1,5 @@
 [
  {
-  "match": "The Senior Open",
-  "category": "PGA TOUR Champions \n\t\t\t\t\t\t\t\t\t(Sidste Runde)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "14:30",
-  "date": "2025-07-27",
-  "channels": [
-   {
-    "name": "V Sport Golf",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasatgolf_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
-  "match": "Belgiens Grand Prix",
-  "category": "Formel 1 \n\t\t\t\t\t\t\t\t\t(Løb)\n\t\t\t\t\t\t\t\t\t\t\t\tDanskeSpil Live odds",
-  "time": "15:00",
-  "date": "2025-07-27",
-  "channels": [
-   {
-    "name": "TV3 +",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/tv3plus_web.png"
-   },
-   {
-    "name": "Viaplay.dk",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viaplay_dk_web.png"
-   },
-   {
-    "name": "Viasat Ultra HD",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/viasat_ultra_web.png"
-   },
-   {
-    "name": "Norlys",
-    "logo_url": "https://www.tvsporten.dk/media/tvchannels/norlys_100x60.jpg"
-   }
-  ]
- },
- {
   "match": "Silkeborg IF – FC Fredericia",
   "category": "Superliga\n\t\t\t\t\t\t\t\t\t\t\tDanskeSpil\t\t\t\t\t\t\t\t\t\t\t 1.71  |  3.85  |  4.70",
   "time": "16:00",
