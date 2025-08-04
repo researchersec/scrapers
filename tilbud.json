@@ -80,6 +80,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fb8-xujnU%2Fp-1.webp&w=300&x1r=0.6472&x2r=0.9613&y1r=0.5788&y2r=0.9488&s=4526d61e9b2a83ed1c0791c4785cbe3c"
  },
  {
+  "link": "/Calle?publication=EY5quOor&offer=oT3ECmtevKbIP6_IqVGjc",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "05-08-2025",
+  "valid_until": "19-08-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
+ },
+ {
   "link": "/Min-Kobmand?publication=xW6y5pwS&offer=_6G20lJD5GiIAyf3aYln1",
   "price": "69",
   "currency": "DKK",
@@ -168,14 +176,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBgLTYuNt%2Fp-59.webp&w=300&x1r=0.0017&x2r=0.9298&y1r=0.0565&y2r=0.3149&s=a526c2d7196edc45ab24142403e0c4a4"
  },
  {
-  "link": "/Calle?publication=EY5quOor&offer=oT3ECmtevKbIP6_IqVGjc",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "05-08-2025",
-  "valid_until": "19-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
- },
- {
   "link": "/Wolt-Market?publication=H0_ZWfRI&offer=dATT5b1XKdphP0kxs0BHO",
   "price": "78",
   "currency": "DKK",
@@ -254,6 +254,14 @@
   "valid_from": "30-07-2025",
   "valid_until": "27-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWQa_p1mH%2Fp-36.webp&w=300&x1r=0.0273&x2r=0.9721&y1r=0.0698&y2r=0.3588&s=ad539da971f3a8f9996091e69f409618"
+ },
+ {
+  "link": "/Fleggaard?publication=DKD3HNjw&offer=8PsaD9ZlomHDq4qd_avlZ",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "05-08-2025",
+  "valid_until": "19-08-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDKD3HNjw%2Fp-14.webp&w=300&x1r=0.0141&x2r=0.4806&y1r=0.0109&y2r=0.4999&s=15447fff92e5a29cf8a7d317574ac400"
  },
  {
   "link": "/Bilka?publication=ZCKeil5B&offer=0ZssVgRV49-M3bSvaL09h",
