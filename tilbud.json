@@ -32,14 +32,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fff97f1e858aad5b6836265a25a4834b1%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F7c72b74ffa9eb6323ccdd1844d880433&w=300&s=c0fb4facab90b25e3c0c7f22a64fd20a"
  },
  {
-  "link": "/LET-KOB?publication=87RqyMto&offer=MjQYhMwbGobdsV5otX9SX",
-  "price": "32",
-  "currency": "DKK",
-  "valid_from": "27-07-2025",
-  "valid_until": "10-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F87RqyMto%2Fp-5.webp&w=300&x1r=0.505&x2r=0.9755&y1r=0.3559&y2r=0.6559&s=899b1df373077010828140b98c9e816c"
- },
- {
   "link": "/Min-Kobmand?publication=wLxIzEoI&offer=997zoVG2_JxF7gSDe5T_0",
   "price": "32",
   "currency": "DKK",
@@ -56,20 +48,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpBaSHaLb%2Fp-8.webp&w=300&x1r=0.5014&x2r=0.987&y1r=0.5755&y2r=0.9638&s=1d5244735eb3dd1697da5d91db658d11"
  },
  {
-  "link": "/LET-KOB?publication=z9hXs2zP&offer=xi-_9vnw0ppr0NLJ1-7Z6",
-  "price": "135",
-  "currency": "DKK",
-  "valid_from": "10-08-2025",
-  "valid_until": "24-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fz9hXs2zP%2Fp-4.webp&w=300&x1r=0.5032&x2r=0.9827&y1r=0.6617&y2r=0.9829&s=54acda272e094ff0d33fb4eee996c274"
- },
- {
   "link": "/fotex?publication=YtKh6i92&offer=LjqvEdJRk1JO2r2NbBI87",
   "price": "135",
   "currency": "DKK",
   "valid_from": "31-07-2025",
   "valid_until": "14-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYtKh6i92%2Fp-56.webp&w=300&x1r=0.045&x2r=0.738&y1r=0.0133&y2r=0.2863&s=8a1a6856fe4a10e995a617e0596125d0"
+ },
+ {
+  "link": "/LET-KOB?publication=z9hXs2zP&offer=xi-_9vnw0ppr0NLJ1-7Z6",
+  "price": "135",
+  "currency": "DKK",
+  "valid_from": "10-08-2025",
+  "valid_until": "24-08-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fz9hXs2zP%2Fp-4.webp&w=300&x1r=0.5032&x2r=0.9827&y1r=0.6617&y2r=0.9829&s=54acda272e094ff0d33fb4eee996c274"
  },
  {
   "link": "/Calle?publication=EY5quOor&offer=oT3ECmtevKbIP6_IqVGjc",
