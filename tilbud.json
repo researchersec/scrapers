@@ -216,20 +216,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fq2yDk3gX%2Fp-9.webp&w=300&x1r=0.3385&x2r=0.6541&y1r=0.4108&y2r=0.7832&s=865a7551c44cf43ff442b1b559d4a4d6"
  },
  {
-  "link": "/Lidl?publication=6jqYIaqS&offer=N--3Jlo1ezIep0oFTIswF",
-  "price": "55",
-  "currency": "DKK",
-  "valid_from": "13-08-2025",
-  "valid_until": "16-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbdkHHQ1o%2Fp-32.webp&w=300&x1r=0.4896&x2r=0.9861&y1r=0&y2r=0.3926&s=8770f16a35c87fa43be90188ff479379"
- },
- {
   "link": "/Lidl?publication=2kcjRS4H&offer=x2aq7SIYTY9YdB-5ptDwP",
   "price": "55",
   "currency": "DKK",
   "valid_from": "13-08-2025",
   "valid_until": "16-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2kcjRS4H%2Fp-1.webp&w=300&x1r=0.4896&x2r=0.9861&y1r=0&y2r=0.3926&s=8b2fa32f4595608296443196b91435a5"
+ },
+ {
+  "link": "/Lidl?publication=6jqYIaqS&offer=N--3Jlo1ezIep0oFTIswF",
+  "price": "55",
+  "currency": "DKK",
+  "valid_from": "13-08-2025",
+  "valid_until": "16-08-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbdkHHQ1o%2Fp-32.webp&w=300&x1r=0.4896&x2r=0.9861&y1r=0&y2r=0.3926&s=8770f16a35c87fa43be90188ff479379"
  },
  {
   "link": "/Fleggaard?publication=DKD3HNjw&offer=8PsaD9ZlomHDq4qd_avlZ",
