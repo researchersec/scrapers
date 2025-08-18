@@ -80,20 +80,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvzDVmwCC%2Fp-17.webp&w=300&x1r=0.0173&x2r=0.9987&y1r=0.4698&y2r=0.7163&s=3088704c5874e93b5dd9285a567dce4e"
  },
  {
-  "link": "/Calle?publication=gg_zok-d&offer=haj_HfTd18k1zsVqfmwsd",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "19-08-2025",
-  "valid_until": "02-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
- },
- {
   "link": "/LET-KOB?publication=z9hXs2zP&offer=xi-_9vnw0ppr0NLJ1-7Z6",
   "price": "135",
   "currency": "DKK",
   "valid_from": "10-08-2025",
   "valid_until": "24-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fz9hXs2zP%2Fp-4.webp&w=300&x1r=0.5032&x2r=0.9827&y1r=0.6617&y2r=0.9829&s=54acda272e094ff0d33fb4eee996c274"
+ },
+ {
+  "link": "/Calle?publication=gg_zok-d&offer=haj_HfTd18k1zsVqfmwsd",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "19-08-2025",
+  "valid_until": "02-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
  },
  {
   "link": "/MENY?publication=rJ3F3dli&offer=nsADUScCbwWujGroV_Q46",
@@ -150,14 +150,6 @@
   "valid_from": "19-05-2025",
   "valid_until": "02-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
- },
- {
-  "link": "/Wolt-Market?publication=kPyoPBzG&offer=_alSI8oZWi40VOGH5bb-o",
-  "price": "120",
-  "currency": "DKK",
-  "valid_from": "11-08-2025",
-  "valid_until": "18-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F8aa85c015751a4e242b332aca4fbac98%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F42756fa907328c592853ce1a10f32a7c%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F0e918ff242f5771dd4ff798ec3bd883b&w=300&s=b9ddd81cb28f2561bf942ee4310f77bf"
  },
  {
   "link": "/Scandlines-Travel-Shop?publication=BgLTYuNt&offer=6y_0alUqLQAXUSAAdB438",
