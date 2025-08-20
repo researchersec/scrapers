@@ -45,7 +45,7 @@
   "currency": "DKK",
   "valid_from": "21-08-2025",
   "valid_until": "28-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiYKgU8Ri%2Fp-26.webp&w=300&x1r=0.0417&x2r=0.3423&y1r=0.2674&y2r=0.4886&s=4c65bbc0dc50812a677dee4f7d0ad73a"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWnBc_vJT%2Fp-36.webp&w=300&x1r=0.0417&x2r=0.3423&y1r=0.2674&y2r=0.4886&s=550f9317a7f2c191ee46fb9d1938873a"
  },
  {
   "link": "/Netto?publication=zTPFuvn0&offer=VekG5AGxUeV29SgJNzw3-",
@@ -78,6 +78,14 @@
   "valid_from": "14-08-2025",
   "valid_until": "28-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvzDVmwCC%2Fp-33.webp&w=300&x1r=0.2835&x2r=0.9981&y1r=0.0178&y2r=0.5202&s=d9f2ecb54798c8ef43f1efc7e86ce4cc"
+ },
+ {
+  "link": "/Bilka?publication=iYKgU8Ri&offer=Nq8-Ez2XwIGI9Yj-KvB6z",
+  "price": "195",
+  "currency": "DKK",
+  "valid_from": "21-08-2025",
+  "valid_until": "28-08-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiYKgU8Ri%2Fp-8.webp&w=300&x1r=0.4963&x2r=0.9715&y1r=0.2422&y2r=0.5869&s=b03d4623ddacc07972bd30ece168a3d4"
  },
  {
   "link": "/MENY?publication=rJ3F3dli&offer=7HdmcdjLxXGSljhK_6e48",
@@ -174,14 +182,6 @@
   "valid_from": "12-08-2025",
   "valid_until": "09-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnjQ4nUq-%2Fp-11.webp&w=300&x1r=0.0286&x2r=0.4827&y1r=0.6321&y2r=0.8182&s=84ec860c7cfcfcd4f8eca8783ae516bd"
- },
- {
-  "link": "/Bilka?publication=iYKgU8Ri&offer=Nq8-Ez2XwIGI9Yj-KvB6z",
-  "price": "195",
-  "currency": "DKK",
-  "valid_from": "21-08-2025",
-  "valid_until": "28-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiYKgU8Ri%2Fp-8.webp&w=300&x1r=0.4963&x2r=0.9715&y1r=0.2422&y2r=0.5869&s=b03d4623ddacc07972bd30ece168a3d4"
  },
  {
   "link": "/Kobmandsgarden?publication=i9QuqfP4&offer=u8HpyYUCY-gJt7Lwtqp5s",
