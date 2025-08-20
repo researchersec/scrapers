@@ -178,7 +178,7 @@
  },
  {
   "title": "Gasledning gravet over - beredskab er på stedet",
-  "description": "<p>Der er onsdag ved middagstid sket brud på en gasledning på Gravsholtvej ved Vodskov. Det skriver Nordjyllands Beredskab på X.</p><p>&#039;Melding om overgravet stikledning med gas på en større virksomhed,&#039; skriver beredskabet.</p><p>Gassen er ikke antændt, oplyser Nordjyllands Beredskab, som er ankommet til stedet.</p><p>Beredskabet fik meldingen om den overgravede gasledning klokken 11.47.</p>",
+  "description": "<p>Der er onsdag ved middagstid sket brud på en gasledning på Gravsholtvej ved Vodskov. Det skriver Nordjyllands Beredskab på X.</p><p>&#039;Melding om overgravet stikledning med gas på en større virksomhed,&#039; skriver beredskabet.</p><p>Gassen er ikke antændt, oplyser Nordjyllands Beredskab, som er ankommet til stedet.</p><p>Gravsholtvej er spærret for trafik på grund af udslippet.</p><p>Beredskabet fik meldingen om den overgravede gasledning klokken 11.47.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/gasledning-gravet-over-beredskab-er-pa-stedet-3be62",
   "published": "Wed, 20 Aug 25 12:05:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/gasledning-gravet-over-beredskab-er-pa-stedet-3be62",
@@ -257,20 +257,28 @@
   "category": "No category"
  },
  {
-  "title": "”Jeg er træt og slidt” - men der er ingen vej udenom spareplanen i Aalborg",
-  "description": "Flere børn end budgetteret henvises til specialskolerne i Aalborg Kommune og det udløser en stor spareplan. Til gengæld slipper de almene skoler denne gang.",
-  "link": "https://nordjyske.dk/nyheder/politik/far-til-autistisk-datter-vi-er-allerede-slidt-ned-og-nu-skal-der-spares-endnu-mere/5688244?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 20 Aug 2025 03:59:09 Z",
-  "guid": "71709e64-5c51-473a-911b-321b05ac1af8",
-  "category": "skoler"
- },
- {
   "title": "Nu bliver skibsværftet i Hirtshals likvideret. Den sidste rest er solgt og slæbt væk",
   "description": "Det startede med en ulykke og slutter med en lukning. Her er fortællingen om et forlist, men beundringsværdigt forsøg på at bevare en af Hirtshals' store, stolte arbejdspladser",
   "link": "https://nordjyske.dk/nyheder/erhverv/den-sidste-rest-er-solgt-og-slaebt-vaek-nu-bliver-skibsvaerftet-i-hirtshals-likvideret/5695982?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 20 Aug 2025 03:38:12 Z",
   "guid": "2e9781ff-bd01-4a82-81e0-85d612bee0c9",
   "category": "Erhverv"
+ },
+ {
+  "title": "Aalborg Håndbold har skabt en millionforretning på noget usædvanligt i dansk håndbold",
+  "description": "Håndboldtrøjer er traditionelt udelukkende noget, man spiller håndbold i. Det er ikke tøj eller merchandise i almindelig forstand. Men det er Aalborg Håndbold ved at lave om på",
+  "link": "https://nordjyske.dk/nyheder/sport/fra-uniform-til-millionforretning-aalborg-haandbold-har-gjort-haandboldtroejen-salgbar/5695193?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 20 Aug 2025 09:21:00 Z",
+  "guid": "154e642b-9ce9-47fa-8c7b-e903b653365e",
+  "category": "Aalborg Håndbold"
+ },
+ {
+  "title": "”Jeg er træt og slidt” - men der er ingen vej uden om spareplanen i Aalborg",
+  "description": "Flere børn end budgetteret henvises til specialskolerne i Aalborg Kommune og det udløser en stor spareplan. Til gengæld slipper de almene skoler denne gang.",
+  "link": "https://nordjyske.dk/nyheder/politik/far-til-autistisk-datter-vi-er-allerede-slidt-ned-og-nu-skal-der-spares-endnu-mere/5688244?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 20 Aug 2025 03:59:09 Z",
+  "guid": "71709e64-5c51-473a-911b-321b05ac1af8",
+  "category": "skoler"
  },
  {
   "title": "Ny AaB-nedtur: To spillere viste vejen, mens en kørte i grøften",
@@ -407,13 +415,5 @@
   "published": "Sun, 17 Aug 2025 19:05:55 Z",
   "guid": "b377f7f4-bf7e-4cd6-a87e-4c37dbc8ecaf",
   "category": "Sport"
- },
- {
-  "title": "De spinker og sparer: Alligevel mangler nordjyske kommuner millioner",
-  "description": "Ni kommuner i Nordjylland er blandt de 37, der har søgt om tilskud fra en særlig pulje",
-  "link": "https://nordjyske.dk/nyheder/vesthimmerland/vi-er-ikke-rige-nok-nordjyske-kommuner-beder-om-ekstra-millioner/5691639?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 17 Aug 2025 13:30:46 Z",
-  "guid": "738b2165-6eb5-48dc-8017-d638c5a0bfa0",
-  "category": "kommuner"
  }
 ]
