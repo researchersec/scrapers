@@ -56,20 +56,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvzDVmwCC%2Fp-33.webp&w=300&x1r=0.2835&x2r=0.9981&y1r=0.0178&y2r=0.5202&s=d9f2ecb54798c8ef43f1efc7e86ce4cc"
  },
  {
-  "link": "/SPAR?publication=Jb5EGwS2&offer=DhQ1RN64fAT6-mJGtfFJt",
-  "price": "15",
-  "currency": "DKK",
-  "valid_from": "21-08-2025",
-  "valid_until": "28-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJb5EGwS2%2Fp-13.webp&w=300&x1r=0.036&x2r=0.4941&y1r=0.0127&y2r=0.5019&s=e17dcfd29540cfe2d6f7cbbcab6d0218"
- },
- {
   "link": "/fotex?publication=vzDVmwCC&offer=6PpIhh7WYfxrtATmO4ihp",
   "price": "112",
   "currency": "DKK",
   "valid_from": "14-08-2025",
   "valid_until": "28-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvzDVmwCC%2Fp-17.webp&w=300&x1r=0.0173&x2r=0.9987&y1r=0.4698&y2r=0.7163&s=3088704c5874e93b5dd9285a567dce4e"
+ },
+ {
+  "link": "/SPAR?publication=Jb5EGwS2&offer=DhQ1RN64fAT6-mJGtfFJt",
+  "price": "15",
+  "currency": "DKK",
+  "valid_from": "21-08-2025",
+  "valid_until": "28-08-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJb5EGwS2%2Fp-13.webp&w=300&x1r=0.036&x2r=0.4941&y1r=0.0127&y2r=0.5019&s=e17dcfd29540cfe2d6f7cbbcab6d0218"
  },
  {
   "link": "/LET-KOB?publication=z9hXs2zP&offer=xi-_9vnw0ppr0NLJ1-7Z6",
@@ -120,12 +120,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fi9QuqfP4%2Fp-27.webp&w=300&x1r=0&x2r=1&y1r=0.0378&y2r=0.9695&s=6020a692e5a28712571a91c0e305aef8"
  },
  {
-  "link": "/Nielsen-Scan-Shop?publication=AmOpWl-C&offer=qJLbfTp_RVx-RiblyT60v",
+  "link": "/Nielsen-Scan-Shop?publication=AmOpWl-C&offer=4wuM5-HhKdrDTFG2gUT-t",
   "price": "75",
   "currency": "DKK",
   "valid_from": "30-07-2025",
   "valid_until": "27-08-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAmOpWl-C%2Fp-40.webp&w=300&x1r=0.0059&x2r=0.9957&y1r=0.001&y2r=0.4976&s=b20a6d467cafe072456cb2332cea71a8"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAmOpWl-C%2Fp-1.webp&w=300&x1r=0.5364&x2r=0.9964&y1r=0.5626&y2r=0.9222&s=3d0d033740abb5bd99c4a721a6eac6e2"
  },
  {
   "link": "/BorderShop?publication=APFFJOKk&offer=vig0O_UQE8zzgKboeGKP_",
