@@ -24,20 +24,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FNBizgBC_%2Fp-18.webp&w=300&x1r=0.3304&x2r=0.6581&y1r=0.6142&y2r=0.983&s=964e27cb8317f2a7dc56a1ba8c17c9a6"
  },
  {
-  "link": "/LET-KOB?publication=xGKSwRhv&offer=p8QfGwVpHpngN3HRg3-S3",
-  "price": "8",
-  "currency": "DKK",
-  "valid_from": "24-08-2025",
-  "valid_until": "07-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxGKSwRhv%2Fp-5.webp&w=300&x1r=0.0223&x2r=0.5041&y1r=0.3558&y2r=0.6571&s=d7992c383f081cc173482861ce63330d"
- },
- {
   "link": "/Min-Kobmand?publication=0kRV1UYs&offer=_5i0QIa3SzigErGI-_C6z",
   "price": "16",
   "currency": "DKK",
   "valid_from": "21-08-2025",
   "valid_until": "28-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0kRV1UYs%2Fp-7.webp&w=300&x1r=0.6632&x2r=0.978&y1r=0.7385&y2r=0.9799&s=f5d96edb2c7d273d8aec34e96f8c62a0"
+ },
+ {
+  "link": "/LET-KOB?publication=xGKSwRhv&offer=p8QfGwVpHpngN3HRg3-S3",
+  "price": "8",
+  "currency": "DKK",
+  "valid_from": "24-08-2025",
+  "valid_until": "07-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxGKSwRhv%2Fp-5.webp&w=300&x1r=0.0223&x2r=0.5041&y1r=0.3558&y2r=0.6571&s=d7992c383f081cc173482861ce63330d"
  },
  {
   "link": "/Lidl?publication=bbLROF9s&offer=z3SrknL1p0mIXuNkKm1hk",
@@ -136,20 +136,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJb5EGwS2%2Fp-13.webp&w=300&x1r=0.036&x2r=0.4941&y1r=0.0127&y2r=0.5019&s=e17dcfd29540cfe2d6f7cbbcab6d0218"
  },
  {
-  "link": "/Calle?publication=gg_zok-d&offer=haj_HfTd18k1zsVqfmwsd",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "19-08-2025",
-  "valid_until": "02-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
- },
- {
   "link": "/Bilka?publication=1DZMLW-0&offer=-h2LJ9SVDJ3kg6fDQbQ0z",
   "price": "125",
   "currency": "DKK",
   "valid_from": "28-08-2025",
   "valid_until": "04-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyqTJ9V_E%2Fp-42.webp&w=300&x1r=0.006&x2r=0.3505&y1r=0.6433&y2r=0.9777&s=ffe459651386e19733b6f0b0d5a5beb3"
+ },
+ {
+  "link": "/Calle?publication=gg_zok-d&offer=haj_HfTd18k1zsVqfmwsd",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "19-08-2025",
+  "valid_until": "02-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
  },
  {
   "link": "/Fleggaard?publication=_rk4LcSu&offer=Yvdh1QZblsLJpt90dEVwo",
@@ -200,14 +200,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fi9QuqfP4%2Fp-27.webp&w=300&x1r=0&x2r=1&y1r=0.0378&y2r=0.9695&s=6020a692e5a28712571a91c0e305aef8"
  },
  {
-  "link": "/BorderShop?publication=APFFJOKk&offer=vig0O_UQE8zzgKboeGKP_",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "12-08-2025",
-  "valid_until": "30-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8JIg0-5_%2Fp-11.webp&w=300&x1r=0.07&x2r=0.5106&y1r=0.4753&y2r=0.8957&s=a95ab73723a36cb2893526ccbafc0201"
- },
- {
   "link": "/Nielsen-Scan-Shop?publication=ZNNh0OJs&offer=AcZML3BDdOsh6sjqnnuhl",
   "price": "75",
   "currency": "DKK",
@@ -222,6 +214,14 @@
   "valid_from": "27-08-2025",
   "valid_until": "24-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZNNh0OJs%2Fp-43.webp&w=300&x1r=0.0047&x2r=0.3386&y1r=0.5024&y2r=0.7526&s=ba30f5980b3b2f520f38c73f3f13a6af"
+ },
+ {
+  "link": "/BorderShop?publication=APFFJOKk&offer=vig0O_UQE8zzgKboeGKP_",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "12-08-2025",
+  "valid_until": "30-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8JIg0-5_%2Fp-11.webp&w=300&x1r=0.07&x2r=0.5106&y1r=0.4753&y2r=0.8957&s=a95ab73723a36cb2893526ccbafc0201"
  },
  {
   "link": "/Nielsen-Scan-Shop?publication=ZNNh0OJs&offer=EB3uEyjwjjaa000ER3p09",
