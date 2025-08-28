@@ -24,20 +24,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxGKSwRhv%2Fp-5.webp&w=300&x1r=0.0223&x2r=0.5041&y1r=0.3558&y2r=0.6571&s=d7992c383f081cc173482861ce63330d"
  },
  {
-  "link": "/MENY?publication=NBizgBC_&offer=M7cb9wBpFVPHd2KG1EFO5",
-  "price": "16",
-  "currency": "DKK",
-  "valid_from": "28-08-2025",
-  "valid_until": "04-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FNBizgBC_%2Fp-18.webp&w=300&x1r=0.3304&x2r=0.6581&y1r=0.6142&y2r=0.983&s=964e27cb8317f2a7dc56a1ba8c17c9a6"
- },
- {
   "link": "/Min-Kobmand?publication=0kRV1UYs&offer=_5i0QIa3SzigErGI-_C6z",
   "price": "16",
   "currency": "DKK",
   "valid_from": "21-08-2025",
   "valid_until": "28-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0kRV1UYs%2Fp-7.webp&w=300&x1r=0.6632&x2r=0.978&y1r=0.7385&y2r=0.9799&s=f5d96edb2c7d273d8aec34e96f8c62a0"
+ },
+ {
+  "link": "/MENY?publication=NBizgBC_&offer=M7cb9wBpFVPHd2KG1EFO5",
+  "price": "16",
+  "currency": "DKK",
+  "valid_from": "28-08-2025",
+  "valid_until": "04-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FNBizgBC_%2Fp-18.webp&w=300&x1r=0.3304&x2r=0.6581&y1r=0.6142&y2r=0.983&s=964e27cb8317f2a7dc56a1ba8c17c9a6"
  },
  {
   "link": "/Lidl?publication=bbLROF9s&offer=z3SrknL1p0mIXuNkKm1hk",
@@ -96,20 +96,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3W2o6tSM%2Fp-19.webp&w=300&x1r=0.6463&x2r=0.9763&y1r=0.5783&y2r=0.9815&s=7e8b7dd4af6abb1cc2b2198c25ac2bfb"
  },
  {
-  "link": "/SPAR?publication=nNI64TJb&offer=x9UNfdpXvHa7-7_W-yVHZ",
-  "price": "112",
-  "currency": "DKK",
-  "valid_from": "28-08-2025",
-  "valid_until": "04-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnNI64TJb%2Fp-19.webp&w=300&x1r=0.0457&x2r=0.5121&y1r=0.6996&y2r=0.9571&s=6a0fc430e8f8d9d30bc4ed5079283325"
- },
- {
   "link": "/fotex?publication=vzDVmwCC&offer=6PpIhh7WYfxrtATmO4ihp",
   "price": "112",
   "currency": "DKK",
   "valid_from": "14-08-2025",
   "valid_until": "28-08-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvzDVmwCC%2Fp-17.webp&w=300&x1r=0.0173&x2r=0.9987&y1r=0.4698&y2r=0.7163&s=3088704c5874e93b5dd9285a567dce4e"
+ },
+ {
+  "link": "/SPAR?publication=nNI64TJb&offer=x9UNfdpXvHa7-7_W-yVHZ",
+  "price": "112",
+  "currency": "DKK",
+  "valid_from": "28-08-2025",
+  "valid_until": "04-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnNI64TJb%2Fp-19.webp&w=300&x1r=0.0457&x2r=0.5121&y1r=0.6996&y2r=0.9571&s=6a0fc430e8f8d9d30bc4ed5079283325"
  },
  {
   "link": "/fotex?publication=95sTsAPM&offer=FYDhqvsN7DfaWlw25WnSw",
@@ -206,6 +206,22 @@
   "valid_from": "12-08-2025",
   "valid_until": "30-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8JIg0-5_%2Fp-11.webp&w=300&x1r=0.07&x2r=0.5106&y1r=0.4753&y2r=0.8957&s=a95ab73723a36cb2893526ccbafc0201"
+ },
+ {
+  "link": "/Nielsen-Scan-Shop?publication=ZNNh0OJs&offer=XM-XO-9jWMBFxUZw7rMYf",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "27-08-2025",
+  "valid_until": "24-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZNNh0OJs%2Fp-43.webp&w=300&x1r=0.0047&x2r=0.3386&y1r=0.5024&y2r=0.7526&s=ba30f5980b3b2f520f38c73f3f13a6af"
+ },
+ {
+  "link": "/Nielsen-Scan-Shop?publication=ZNNh0OJs&offer=EB3uEyjwjjaa000ER3p09",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "27-08-2025",
+  "valid_until": "24-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZNNh0OJs%2Fp-43.webp&w=300&x1r=0.3357&x2r=0.6628&y1r=0.5073&y2r=0.7541&s=4584e0dd178b865d025b89373ea04d2b"
  },
  {
   "link": "/Otto-Duborg?publication=WuHQOek9&offer=ijZtUFxI50BasHtVM2gCp",
