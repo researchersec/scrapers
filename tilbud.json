@@ -64,20 +64,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3W2o6tSM%2Fp-24.webp&w=300&x1r=0.5007&x2r=0.9646&y1r=0.46&y2r=0.8627&s=a57c2f4511095d2ff8f2ef78a22c9b0c"
  },
  {
-  "link": "/Bilka?publication=1DZMLW-0&offer=-h2LJ9SVDJ3kg6fDQbQ0z",
-  "price": "125",
-  "currency": "DKK",
-  "valid_from": "28-08-2025",
-  "valid_until": "04-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyqTJ9V_E%2Fp-42.webp&w=300&x1r=0.006&x2r=0.3505&y1r=0.6433&y2r=0.9777&s=ffe459651386e19733b6f0b0d5a5beb3"
- },
- {
   "link": "/SPAR?publication=nNI64TJb&offer=x9UNfdpXvHa7-7_W-yVHZ",
   "price": "112",
   "currency": "DKK",
   "valid_from": "28-08-2025",
   "valid_until": "04-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnNI64TJb%2Fp-19.webp&w=300&x1r=0.0457&x2r=0.5121&y1r=0.6996&y2r=0.9571&s=6a0fc430e8f8d9d30bc4ed5079283325"
+ },
+ {
+  "link": "/Bilka?publication=1DZMLW-0&offer=-h2LJ9SVDJ3kg6fDQbQ0z",
+  "price": "125",
+  "currency": "DKK",
+  "valid_from": "28-08-2025",
+  "valid_until": "04-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyqTJ9V_E%2Fp-42.webp&w=300&x1r=0.006&x2r=0.3505&y1r=0.6433&y2r=0.9777&s=ffe459651386e19733b6f0b0d5a5beb3"
  },
  {
   "link": "/fotex?publication=95sTsAPM&offer=FYDhqvsN7DfaWlw25WnSw",
@@ -104,10 +104,10 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnNI64TJb%2Fp-19.webp&w=300&x1r=0.5234&x2r=0.9726&y1r=0.6995&y2r=0.9541&s=8c54fe81f3239bdf59f56ef399544d3e"
  },
  {
-  "link": "/Fleggaard?publication=_rk4LcSu&offer=Yvdh1QZblsLJpt90dEVwo",
+  "link": "/Fleggaard?publication=uoCBFgK8&offer=obGQ6aqN1YMG6JH85it5c",
   "price": "75",
   "currency": "DKK",
-  "valid_from": "19-05-2025",
+  "valid_from": "19-08-2025",
   "valid_until": "02-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
