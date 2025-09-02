@@ -104,10 +104,10 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnNI64TJb%2Fp-19.webp&w=300&x1r=0.5234&x2r=0.9726&y1r=0.6995&y2r=0.9541&s=8c54fe81f3239bdf59f56ef399544d3e"
  },
  {
-  "link": "/Fleggaard?publication=_rk4LcSu&offer=Yvdh1QZblsLJpt90dEVwo",
+  "link": "/Fleggaard?publication=uoCBFgK8&offer=obGQ6aqN1YMG6JH85it5c",
   "price": "75",
   "currency": "DKK",
-  "valid_from": "19-05-2025",
+  "valid_from": "19-08-2025",
   "valid_until": "02-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
@@ -160,20 +160,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZNNh0OJs%2Fp-43.webp&w=300&x1r=0.0047&x2r=0.3386&y1r=0.5024&y2r=0.7526&s=ba30f5980b3b2f520f38c73f3f13a6af"
  },
  {
-  "link": "/Otto-Duborg?publication=WuHQOek9&offer=ijZtUFxI50BasHtVM2gCp",
-  "price": "79.99",
-  "currency": "DKK",
-  "valid_from": "27-08-2025",
-  "valid_until": "17-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWuHQOek9%2Fp-25.webp&w=300&x1r=0.0456&x2r=0.3454&y1r=0.0792&y2r=0.3636&s=6cf8e1d86c4a83e4a70b305ae6d44596"
- },
- {
   "link": "/Fleggaard?publication=fXMPiu_6&offer=FD_EjvesaPA-F6F6yarRM",
   "price": "75",
   "currency": "DKK",
   "valid_from": "02-09-2025",
   "valid_until": "23-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfXMPiu_6%2Fp-48.webp&w=300&x1r=0.0076&x2r=0.372&y1r=0.5003&y2r=0.7539&s=794c0cab6ffdf32e5d8226a46e052b54"
+ },
+ {
+  "link": "/Otto-Duborg?publication=WuHQOek9&offer=ijZtUFxI50BasHtVM2gCp",
+  "price": "79.99",
+  "currency": "DKK",
+  "valid_from": "27-08-2025",
+  "valid_until": "17-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWuHQOek9%2Fp-25.webp&w=300&x1r=0.0456&x2r=0.3454&y1r=0.0792&y2r=0.3636&s=6cf8e1d86c4a83e4a70b305ae6d44596"
  },
  {
   "link": "/Nielsen-Scan-Shop?publication=ZNNh0OJs&offer=AcZML3BDdOsh6sjqnnuhl",
