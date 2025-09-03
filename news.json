@@ -175,6 +175,22 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F08%2F15%2F20211005-085303-l-1920x1239web.jpg&w=1200"
  },
  {
+  "title": "- Han var meget forslået, og han var meget bange",
+  "description": "<p>Efter volden lagde den 48-årige sig til at sove på en sofa, men han vågnede aldrig igen. Han døde som følge af de skader, volden havde forårsaget på hans indre organer. </p>",
+  "link": "https://www.tv2nord.dk/mariagerfjord/nu-skal-flere-vidner-afgive-forklaring-9ed72",
+  "published": "Wed, 03 Sep 25 08:44:00 +0200",
+  "guid": "https://www.tv2nord.dk/mariagerfjord/nu-skal-flere-vidner-afgive-forklaring-9ed72",
+  "category": "No category"
+ },
+ {
+  "title": "Vejarbejde frustrerer - nu reagerer kommune",
+  "description": "<p>Vejarbejde på Under Broen og Møldrupvej i Skørping har i de seneste dage resulteret i kø i myldretiden. Nu forsøger Rebild Kommune at mindske nogle af de gener, der frustrerer bilisterne.</p><p>&#039;Entreprenøren har netop forsøgt at optimere signal-anlægget på baggrund af de første erfaringer. Vi håber derfor, at det bliver en smule bedre. Vi følger løbende trafikafviklingen, så der kan ske yderligere justeringer, hvor det er muligt,&#039; skriver kommunen i et <a href=\"https://www.facebook.com/rebildkommune/posts/pfbid02Re6HJJXi78ivo5rPcVkCw3NFovBRKRnuxcJ7ipHVZNVEBqoG3CfootoXzGcUfmQ8l\" target=\"_blank\">opslag på Facebook</a>.</p><p>Arbejdet forventes afsluttet inden udgangen af uge 41.</p><p>&#039;Vi gør, hvad vi kan for at få arbejdet afsluttet hurtigst muligt og begrænse generne mest muligt,&#039; skriver Rebild Kommune.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/rebild/vejarbejde-frustrerer-nu-reagerer-kommune-e4584",
+  "published": "Wed, 03 Sep 25 08:05:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/rebild/vejarbejde-frustrerer-nu-reagerer-kommune-e4584",
+  "category": "No category"
+ },
+ {
   "title": "Onsdagen begynder tørt - regn lurer forude",
   "description": "<p>Ugens første dage har vejrmæssigt budt på både kraftige regn- og tordenbyger og perioder med tørvejr og solskin i Nordjylland, og sådan ser det ud til at fortsætte onsdag.</p><p>Det fortæller Lone Seir fra TV 2 Vejr.</p> <p><strong><em>Vil du vide mere om, hvordan vejret bliver der, hvor du bor? Så spørg TV2 Nords digitale vejrvært Solvej Vindblæs her:</em></strong></p>",
   "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/onsdagen-begynder-tort-men-regn-lurer-forude-d40c3",
@@ -239,22 +255,6 @@
   "category": "No category"
  },
  {
-  "title": "AaB vinder med tenniscifre og er videre i pokalen",
-  "description": "<p>Tirsdag aften vandt AaB med hele 6-1 over Marstal I.F, og dermed er aalborgenserne videre i Oddset Pokalen. </p><p>Sejren i pokalturneringen kommer, efter den nordjyske fodboldklub tabte med hele 5-1 mod Aarhus Fremad fredag. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/aab-vinder-med-tenniscifre-og-er-videre-i-pokalen-486a3",
-  "published": "Tue, 02 Sep 25 18:49:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/aab-vinder-med-tenniscifre-og-er-videre-i-pokalen-486a3",
-  "category": "No category"
- },
- {
-  "title": "Voldsomt vejr ramte Nordvestjylland",
-  "description": "<p>Tirsdag har flere dele af landet været ramt af et voldsomt regnskyl, lyn og tordenvejr. </p><p><a href=\"https://www.tv2nord.dk/nordjylland/skal-lobe-1000-kilometer-pa-en-uge-45869\">I Aabybro betød det voldsomme vejr</a> blandt andet, at man måtte stoppe &#039;Nordjylland gør en forskel&#039;-løbet, og både Stine Rex, David Stoltenborg og de mange andre løbere på ruten måtte søge læ i omkring 20 minutter, før løbet igen blev startet. </p><p>I Agger ved Vesterhavshytten Agger ramte vejret dog noget mere voldsomt. Her var der nemlig både store hagl, vind og voldsomt regn vejr. </p><p>Vesterhavshytten Agger formåede at fange en video af det voldsomme skyl. Hytten står dog stadig på trods af det voldsomme vejr. </p><p><strong><em>Se videoen her: </em></strong></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/thisted/voldsomt-vejr-ramte-nordvestjylland-f55e1",
-  "published": "Tue, 02 Sep 25 18:34:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/voldsomt-vejr-ramte-nordvestjylland-f55e1",
-  "category": "No category"
- },
- {
   "title": "Spillere fra høj hylde skal få AaB væk fra bunden",
   "description": "AaB's direktør Michael Tuxen Boll holder stadig døren åben for blandt andre en af klubbens tidligere profiler",
   "link": "https://nordjyske.dk/nyheder/sport/aab-s-transfervindue-er-gaaet-i-forlaenget-spilletid/5717001?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -263,7 +263,15 @@
   "category": "fodboldtransfer"
  },
  {
-  "title": "De varsler billigere pasning til vores børn. Så meget vil du spare i Aalborg",
+  "title": "Så er der ryddet op efter E45-uheld: Stadig lidt kø",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/uheld-paa-e45-ved-noerresundby-glasskaar-paa-vejen/cd67cdce-ca76-4e38-a76a-631532048bc0?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 03 Sep 2025 06:37:53 Z",
+  "guid": "cd67cdce-ca76-4e38-a76a-631532048bc0",
+  "category": "Nyheder"
+ },
+ {
+  "title": "Vil sænke priser på daginstitution: Så meget vil en familie i Aalborg spare",
   "description": "Institutionspladserne bliver billigere, hvis vi kigger i udspillet til finansloven 2026. Derfor har vi har regnet ud, hvor meget du kan spare på en plads i dagpleje, vuggestue og børnehave i Aalborg",
   "link": "https://nordjyske.dk/nyheder/aalborg/de-varsler-billigere-pasning-til-vores-boern-saa-meget-vil-du-spare-i-aalborg/5711407?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 03 Sep 2025 05:59:51 Z",
@@ -405,13 +413,5 @@
   "published": "Sun, 31 Aug 2025 16:28:33 Z",
   "guid": "6b8e7d38-6d0b-4444-9d52-87017f33ca55",
   "category": "Erhverv"
- },
- {
-  "title": "Bestialsk drabssag skabte frygt i Vendsyssel: - Ingen ved, om det i nat er jeres børn, der bliver hans offer",
-  "description": "Rejseholdets opklaring af et usædvanligt mord er omdrejningspunktet for ny dansk storfilm. I 1940 kom virkelighedens Rejsehold, ledet af Otto Himmelstrup, til Nordjylland for at opklare en uhyggelig forbrydelse",
-  "link": "https://nordjyske.dk/nyheder/krimi/bestialsk-drabssag-skabte-frygt-i-vendsyssel-ingen-ved-om-det-i-nat-er-jeres-boern-der-bliver-hans-offer/5699895?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 31 Aug 2025 17:07:09 Z",
-  "guid": "b22934d0-3058-4e62-ab32-566a802732a9",
-  "category": "Bag om forbrydelsen"
  }
 ]
