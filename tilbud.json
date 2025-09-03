@@ -56,6 +56,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3W2o6tSM%2Fp-19.webp&w=300&x1r=0.6463&x2r=0.9763&y1r=0.5783&y2r=0.9815&s=7e8b7dd4af6abb1cc2b2198c25ac2bfb"
  },
  {
+  "link": "/Netto?publication=te_3-ws4&offer=P27GGyRzZL30Y9fyZqOtG",
+  "price": "65",
+  "currency": "DKK",
+  "valid_from": "05-09-2025",
+  "valid_until": "12-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fte_3-ws4%2Fp-27.webp&w=300&x1r=0.0043&x2r=0.4977&y1r=0.0949&y2r=0.3986&s=e102f6243161019f790c8a767a5f2665"
+ },
+ {
   "link": "/Min-Kobmand?publication=3W2o6tSM&offer=yLRqvV4o2KWE1iE55MN-Y",
   "price": "110",
   "currency": "DKK",
@@ -110,14 +118,6 @@
   "valid_from": "18-05-2025",
   "valid_until": "21-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBgLTYuNt%2Fp-59.webp&w=300&x1r=0.0017&x2r=0.9298&y1r=0.0565&y2r=0.3149&s=a526c2d7196edc45ab24142403e0c4a4"
- },
- {
-  "link": "/Netto?publication=te_3-ws4&offer=P27GGyRzZL30Y9fyZqOtG",
-  "price": "65",
-  "currency": "DKK",
-  "valid_from": "05-09-2025",
-  "valid_until": "12-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fte_3-ws4%2Fp-27.webp&w=300&x1r=0.0043&x2r=0.4977&y1r=0.0949&y2r=0.3986&s=e102f6243161019f790c8a767a5f2665"
  },
  {
   "link": "/Calle?publication=JJliRNOL&offer=Vydal0Ni7ZIJuuFxrZBEt",
@@ -206,5 +206,13 @@
   "valid_from": "28-08-2025",
   "valid_until": "11-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F95sTsAPM%2Fp-39.webp&w=300&x1r=0.0112&x2r=0.4293&y1r=0.2615&y2r=0.4804&s=976ae07a8c825832f4e2164d957957f6"
+ },
+ {
+  "link": "/Bilka?publication=5AIFNUTK&offer=UKb_cW2tFz6Pn5KlvM_2X",
+  "price": "108",
+  "currency": "DKK",
+  "valid_from": "04-09-2025",
+  "valid_until": "11-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5AIFNUTK%2Fp-19.webp&w=300&x1r=0.6539&x2r=0.9694&y1r=0.325&y2r=0.6046&s=8a08154d02a93c79e5a222943b54c7bf"
  }
 ]

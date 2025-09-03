@@ -175,7 +175,7 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F08%2F15%2F20211005-085303-l-1920x1239web.jpg&w=1200"
  },
  {
-  "title": "Onsdagen begynder tørt, men regn lurer forude",
+  "title": "Onsdagen begynder tørt - regn lurer forude",
   "description": "<p>Ugens første dage har vejrmæssigt budt på både kraftige regn- og tordenbyger og perioder med tørvejr og solskin i Nordjylland, og sådan ser det ud til at fortsætte onsdag.</p><p>Det fortæller Lone Seir fra TV 2 Vejr.</p> <p><strong><em>Vil du vide mere om, hvordan vejret bliver der, hvor du bor? Så spørg TV2 Nords digitale vejrvært Solvej Vindblæs her:</em></strong></p>",
   "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/onsdagen-begynder-tort-men-regn-lurer-forude-d40c3",
   "published": "Wed, 03 Sep 25 07:09:00 +0200",
@@ -255,20 +255,28 @@
   "category": "No category"
  },
  {
+  "title": "Spillere fra høj hylde skal få AaB væk fra bunden",
+  "description": "AaB's direktør Michael Tuxen Boll holder stadig døren åben for blandt andre en af klubbens tidligere profiler",
+  "link": "https://nordjyske.dk/nyheder/sport/aab-s-transfervindue-er-gaaet-i-forlaenget-spilletid/5717001?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 03 Sep 2025 04:41:19 Z",
+  "guid": "8803d233-2ec4-4366-92e6-de5acc249b4e",
+  "category": "fodboldtransfer"
+ },
+ {
+  "title": "De varsler billigere pasning til vores børn. Så meget vil du spare i Aalborg",
+  "description": "Institutionspladserne bliver billigere, hvis vi kigger i udspillet til finansloven 2026. Derfor har vi har regnet ud, hvor meget du kan spare på en plads i dagpleje, vuggestue og børnehave i Aalborg",
+  "link": "https://nordjyske.dk/nyheder/aalborg/de-varsler-billigere-pasning-til-vores-boern-saa-meget-vil-du-spare-i-aalborg/5711407?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 03 Sep 2025 05:59:51 Z",
+  "guid": "93491f18-1e76-4c1a-b806-d6d9e0b74248",
+  "category": "samfund"
+ },
+ {
   "title": "Lisa Dalsgaard var med, da få ansatte blev til 800. Nu vil hun med en simpel strategi styrke Nordjylland",
   "description": "Hun har oplevet vild vækst og lært at springe ud på dybt vand. I dag kæmper Lisa Dalsgaard for, at Nordjylland skal stå skulder ved skulder, hvis iværksætterne ikke skal flytte sydpå. Hendes løsning er enkel. Og den bygger på et særligt princip",
   "link": "https://nordjyske.dk/nyheder/erhverv/lisa-dalsgaard-var-med-da-faa-ansatte-blev-til-800-nu-vil-hun-med-en-simpel-strategi-styrke-nordjylland/5715072?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 03 Sep 2025 03:52:49 Z",
   "guid": "fb90eb7a-a036-4946-a3de-370e78ffa19f",
   "category": "Erhverv"
- },
- {
-  "title": "AaB's transfervindue er gået i forlænget spilletid",
-  "description": "AaB's direktør Michael Tuxen Boll holder stadig døren åben for blandt andre en af klubbens tidligere profiler",
-  "link": "https://nordjyske.dk/nyheder/sport/aab-s-transfervindue-er-gaaet-i-forlaenget-spilletid/5717001?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 03 Sep 2025 04:41:19 Z",
-  "guid": "8803d233-2ec4-4366-92e6-de5acc249b4e",
-  "category": "fodboldtransfer"
  },
  {
   "title": "Tordis og andre læger har råbt op: Nu trækker ministeren i land med kritiseret forslag",
@@ -405,13 +413,5 @@
   "published": "Sun, 31 Aug 2025 17:07:09 Z",
   "guid": "b22934d0-3058-4e62-ab32-566a802732a9",
   "category": "Bag om forbrydelsen"
- },
- {
-  "title": "Populær restauratør vender tilbage i helt specielle omgivelser: - Jeg har været ved at give op mange gange",
-  "description": "Man skal helst have en oplevelse, der er større end man forventede, lyder det fra Marian Hjermitslev, der nu styrer målrettet mod at slå dørene op på banegården",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/hun-kan-endelig-snart-aabne-sit-droemmested-paa-hjoerring-banegaard-jeg-har-vaeret-ved-at-give-op-mange-gange-men-nu-koerer-toget/5704780?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 31 Aug 2025 03:58:37 Z",
-  "guid": "16156305-0c2b-4552-a51c-0ec6afd756e4",
-  "category": "Restaurationsbranchen"
  }
 ]
