@@ -1,8 +1,8 @@
 [
  {
-  "temperature": 20,
-  "sky_text": "Overskyet",
+  "temperature": null,
+  "sky_text": "Ukendt vejr",
   "humidity": "",
-  "wind_text": "12.6 m/s"
+  "wind_text": " m/s"
  }
 ]
