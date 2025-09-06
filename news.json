@@ -1,5 +1,13 @@
 [
  {
+  "title": "Bred aftale giver flere penge til skoler i Jammerbugt Kommune",
+  "description": "No description",
+  "link": "https://www.dr.dk/nyheder/seneste/bred-aftale-giver-flere-penge-til-skoler-i-jammerbugt-kommune",
+  "published": "Sat, 06 Sep 2025 09:07:00 GMT",
+  "guid": "urn:dr:drupal:article:1afd1876-9dc2-43ae-adc1-3fd76c9d9fdc",
+  "category": "No category"
+ },
+ {
   "title": "Veteraner i opråb: 'Særlig hjælp i kommunerne gør en stor forskel'",
   "description": "Hver femte kommune har ikke en veterankoordinator, og det møder kritik fra veteraner.",
   "link": "https://www.dr.dk/nyheder/indland/veteraner-i-opraab-saerlig-hjaelp-i-kommunerne-goer-en-stor-forskel",
@@ -170,11 +178,11 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2025%2F08%2F23%2F1755953276_20250823-143108-5_ma.jpg&w=1200"
  },
  {
-  "title": "Person sigtet for brand på efterskole",
-  "description": "No description",
-  "link": "https://www.dr.dk/nyheder/seneste/person-sigtet-brand-paa-efterskole",
-  "published": "Thu, 21 Aug 2025 15:08:00 GMT",
-  "guid": "urn:dr:drupal:article:e00979fd-0700-4fe6-ab91-29e5cd08e238",
+  "title": "Færdselsuheld ved Fårup Sommerland: Melding om fastklemte",
+  "description": "<p>Der er lørdag formiddag sket et færdselsuheld ved indkørslen til Fårup Sommerland på Pirupvejen.</p><p>Både politi og beredskab er til stede, og der er i følge TV2 Nords oplysninger også en lægehelikopter på stedet.</p><p>Beredskabet skriver på X, at man skal være opmærksom på, at der kan opstå trafikale problemer i forbindelse med uheldet.</p> <p><em>Opdateres...</em></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/jammerbugt/faerdselsuheld-ved-farup-sommerland-melding-om-fastklemte-838ab",
+  "published": "Sat, 06 Sep 25 10:25:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/jammerbugt/faerdselsuheld-ved-farup-sommerland-melding-om-fastklemte-838ab",
   "category": "No category"
  },
  {
@@ -250,12 +258,12 @@
   "category": "No category"
  },
  {
-  "title": "Mand henvendte sig til larmende nabo: Så blev problemet endnu 'højere'",
-  "description": "<p>Onsdag aften ved midnatstid havde en beboer i Frederikshavn problemer med sin nabo, der spillede meget høj musik.</p><p>Han tog sagen i egen hånd og gik hen til vedkommendes dør for at bede personen skrue ned.</p><p>Henvendelsen resulterede i, at naboen skruede endnu højere op for musikken til stor frustration. Herefter måtte manden have hjælp udefra til at håndtere situationen.</p><p>Han ringede til politiet, der rykkede ud for at tale med naboen. Det førte endeligt til, at musikken blev slukket, og manden kunne få nattero.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/mand-henvendte-sig-til-larmende-nabo-sa-blev-problemet-endnu-hojere-a1f94",
-  "published": "Fri, 05 Sep 25 19:17:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/mand-henvendte-sig-til-larmende-nabo-sa-blev-problemet-endnu-hojere-a1f94",
-  "category": "No category"
+  "title": "Da personalet bad kunde om ikke at spise af varerne, gik han amok",
+  "description": "Købmand Christian Dam føler sig magtesløs overfor stadigt mere aggressive og voldsomme kunder",
+  "link": "https://nordjyske.dk/nyheder/krimi/kunde-spiste-af-smoerrebroedet-i-delikatessen-og-smadrede-inventar-for-35-000-kr/5720474?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 06 Sep 2025 09:05:28 Z",
+  "guid": "2453fb35-17e3-4339-816c-ff254291207c",
+  "category": "Tyverier"
  },
  {
   "title": "Sidste år forlod han Musikkens Hus - nu er han tilbage på den nordjyske scene",
@@ -322,20 +330,20 @@
   "category": "skole"
  },
  {
-  "title": "Ole Madsen sælger robotter for 200 millioner kroner. En hemmelig kunde har lige lagt den største ordre",
-  "description": "Nørresundby-firma bringer teknologi fra Amazon og Temu til Nordjylland. Den sikrer nordjyske job og giver store besparelser",
-  "link": "https://nordjyske.dk/nyheder/erhverv/branchen-toevede-men-pludselig-solgte-noerresundby-firma-robotter-for-200-millioner/5687277?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 05 Sep 2025 03:58:05 Z",
-  "guid": "10088a46-6149-4979-be5f-aad73afcbed4",
-  "category": "Erhverv"
- },
- {
   "title": "Hestehandler havde ikke betalt sine regninger. Så fik han besøg",
   "description": "Politiet bekræfter voldsepisode på adresse, hvor John Byrialsen og hans kone bor",
   "link": "https://nordjyske.dk/nyheder/samfund/hestehandler-havde-ikke-betalt-sine-regninger-saa-fik-han-besoeg/5717063?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Thu, 04 Sep 2025 05:11:38 Z",
   "guid": "6e077cc6-d5f5-484a-bb5a-d4919859b885",
   "category": "Hestene fra Viegård"
+ },
+ {
+  "title": "Ole Madsen sælger robotter for 200 millioner kroner. En hemmelig kunde har lige lagt den største ordre",
+  "description": "Nørresundby-firma bringer teknologi fra Amazon og Temu til Nordjylland. Den sikrer nordjyske job og giver store besparelser",
+  "link": "https://nordjyske.dk/nyheder/erhverv/branchen-toevede-men-pludselig-solgte-noerresundby-firma-robotter-for-200-millioner/5687277?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 05 Sep 2025 03:58:05 Z",
+  "guid": "10088a46-6149-4979-be5f-aad73afcbed4",
+  "category": "Erhverv"
  },
  {
   "title": "Får Juri Knorr endelig debut? Her er tre ting, du skal vide om Aalborg Håndbolds første udebanekamp",
@@ -408,13 +416,5 @@
   "published": "Wed, 03 Sep 2025 10:13:54 Z",
   "guid": "0484af72-d2ae-4b92-b8b9-96324045eadf",
   "category": "samfund"
- },
- {
-  "title": "Lokales drøm om friskole et skridt tættere på at gå i opfyldelse - nu venter næste etape",
-  "description": "Min personlige holdning er, at det kan man i Asaa. Det er dygtige mennesker, siger borgmesteren til de lokales ønske om at købe skolen",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/asaa-skole-lukker-nu-skal-byen-vise-at-den-kan/5719339?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 03 Sep 2025 20:17:48 Z",
-  "guid": "0bb21fda-4877-415b-bbdc-0a83956d6a4f",
-  "category": "Skolevæsen"
  }
 ]
