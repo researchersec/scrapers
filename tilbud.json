@@ -8,12 +8,28 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxGKSwRhv%2Fp-5.webp&w=300&x1r=0.0223&x2r=0.5041&y1r=0.3558&y2r=0.6571&s=d7992c383f081cc173482861ce63330d"
  },
  {
+  "link": "/LET-KOB?publication=TOM_MkEm&offer=nwaafZeCfP0eORumeko_f",
+  "price": "15",
+  "currency": "DKK",
+  "valid_from": "07-09-2025",
+  "valid_until": "21-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTOM_MkEm%2Fp-1.webp&w=300&x1r=0.5415&x2r=0.9974&y1r=0.1952&y2r=0.9331&s=c0b673b97fc376079df1ce113a55cafb"
+ },
+ {
   "link": "/Wolt-Market?publication=IbaPjbRb&offer=OYO5SOO_7NX5gWBMeJg_R",
   "price": "8",
   "currency": "DKK",
   "valid_from": "08-09-2025",
   "valid_until": "15-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fb8af9a0c461be5e42d08857a3d827737%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F7f1e6063afdab875946d13aa1266400e&w=300&s=eb837349566ccbad22b503cef9be4c80"
+ },
+ {
+  "link": "/LET-KOB?publication=TOM_MkEm&offer=r3MFktOad-EhgIyfVJJRW",
+  "price": "32",
+  "currency": "DKK",
+  "valid_from": "07-09-2025",
+  "valid_until": "21-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTOM_MkEm%2Fp-7.webp&w=300&x1r=0.5019&x2r=0.9822&y1r=0.3567&y2r=0.6561&s=ebfea031f0bf6ef3556139fc72d6433c"
  },
  {
   "link": "/Netto?publication=te_3-ws4&offer=P27GGyRzZL30Y9fyZqOtG",
@@ -56,14 +72,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fd6b8b1c651dc89a95a67e7928f5e9741%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F1084f13cb6085d94c78a478b053d092a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F0e98852d81c4a2097603c18f7761657f&w=300&s=ba8ae1cc1c60b350d2eeb3d7af485ac6"
  },
  {
-  "link": "/CITTI?publication=3nVs0hh3&offer=jQKdvNyLM3H0aRnQeUL8L",
-  "price": "79.99",
-  "currency": "DKK",
-  "valid_from": "09-09-2025",
-  "valid_until": "07-10-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3nVs0hh3%2Fp-13.webp&w=300&x1r=0.5103&x2r=0.9832&y1r=0.572&y2r=0.818&s=38d17c18a02006566b435611920be56d"
- },
- {
   "link": "/Calle?publication=JJliRNOL&offer=Vydal0Ni7ZIJuuFxrZBEt",
   "price": "75",
   "currency": "DKK",
@@ -72,12 +80,36 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
  },
  {
+  "link": "/CITTI?publication=3nVs0hh3&offer=jQKdvNyLM3H0aRnQeUL8L",
+  "price": "79.99",
+  "currency": "DKK",
+  "valid_from": "09-09-2025",
+  "valid_until": "07-10-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3nVs0hh3%2Fp-13.webp&w=300&x1r=0.5103&x2r=0.9832&y1r=0.572&y2r=0.818&s=38d17c18a02006566b435611920be56d"
+ },
+ {
   "link": "/Scandlines-Travel-Shop?publication=BgLTYuNt&offer=6y_0alUqLQAXUSAAdB438",
   "price": "89.95",
   "currency": "DKK",
   "valid_from": "18-05-2025",
   "valid_until": "21-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBgLTYuNt%2Fp-59.webp&w=300&x1r=0.0017&x2r=0.9298&y1r=0.0565&y2r=0.3149&s=a526c2d7196edc45ab24142403e0c4a4"
+ },
+ {
+  "link": "/LET-KOB?publication=TOM_MkEm&offer=yYmCCNP1Qif5Y-OooY4-5",
+  "price": "65",
+  "currency": "DKK",
+  "valid_from": "07-09-2025",
+  "valid_until": "21-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTOM_MkEm%2Fp-4.webp&w=300&x1r=0.0407&x2r=0.9923&y1r=0.006&y2r=0.3409&s=f7592f22726970c1789749f4bb8f4a30"
+ },
+ {
+  "link": "/LET-KOB?publication=TOM_MkEm&offer=4mrdnplwuyK6eLgA0edUM",
+  "price": "135",
+  "currency": "DKK",
+  "valid_from": "07-09-2025",
+  "valid_until": "21-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTOM_MkEm%2Fp-4.webp&w=300&x1r=0.4968&x2r=0.983&y1r=0.6609&y2r=0.9836&s=85cc7193337f109e2f90de086658fb33"
  },
  {
   "link": "/Kobmandsgarden?publication=i9QuqfP4&offer=u8HpyYUCY-gJt7Lwtqp5s",
