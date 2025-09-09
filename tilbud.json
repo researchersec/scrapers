@@ -152,20 +152,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZNNh0OJs%2Fp-43.webp&w=300&x1r=0&x2r=1&y1r=0.002&y2r=0.499&s=0552b8bab9ea418b2b20e3fcfc5250f5"
  },
  {
-  "link": "/Scandinavian-Park?publication=fixTL20k&offer=UToNRiHqL2JyRPhGQ08I0",
-  "price": "79.99",
-  "currency": "DKK",
-  "valid_from": "03-09-2025",
-  "valid_until": "24-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfixTL20k%2Fp-2.webp&w=300&x1r=0.0132&x2r=0.6788&y1r=0.0256&y2r=0.5061&s=f604177a1e664dcda70ce2c41d72bd38"
- },
- {
   "link": "/Nielsen-Scan-Shop?publication=ZNNh0OJs&offer=EB3uEyjwjjaa000ER3p09",
   "price": "75",
   "currency": "DKK",
   "valid_from": "27-08-2025",
   "valid_until": "24-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZNNh0OJs%2Fp-43.webp&w=300&x1r=0.3357&x2r=0.6628&y1r=0.5073&y2r=0.7541&s=4584e0dd178b865d025b89373ea04d2b"
+ },
+ {
+  "link": "/Scandinavian-Park?publication=fixTL20k&offer=UToNRiHqL2JyRPhGQ08I0",
+  "price": "79.99",
+  "currency": "DKK",
+  "valid_from": "03-09-2025",
+  "valid_until": "24-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfixTL20k%2Fp-2.webp&w=300&x1r=0.0132&x2r=0.6788&y1r=0.0256&y2r=0.5061&s=f604177a1e664dcda70ce2c41d72bd38"
  },
  {
   "link": "/fotex?publication=95sTsAPM&offer=2TC7uanf0Nvalz2wGAijK",
