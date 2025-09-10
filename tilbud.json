@@ -56,6 +56,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMFX0bDHL%2Fp-11.webp&w=300&x1r=0.0098&x2r=0.4425&y1r=0.3857&y2r=0.6761&s=c12719cb0cb83e484d60d0d614b5a73c"
  },
  {
+  "link": "/fotex?publication=bnhB3aUC&offer=Bhqc8SMdr4YzWbsBtMP-g",
+  "price": "135",
+  "currency": "DKK",
+  "valid_from": "11-09-2025",
+  "valid_until": "18-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbnhB3aUC%2Fp-31.webp&w=300&x1r=0.0222&x2r=0.659&y1r=0.1552&y2r=0.4883&s=501382bbad65c71057b981aee33b540b"
+ },
+ {
   "link": "/fotex?publication=95sTsAPM&offer=FYDhqvsN7DfaWlw25WnSw",
   "price": "135",
   "currency": "DKK",
@@ -120,12 +128,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbnhB3aUC%2Fp-15.webp&w=300&x1r=0.0247&x2r=0.9985&y1r=0.5615&y2r=0.9877&s=0ff345d64632978620e14dc75cc2a26c"
  },
  {
-  "link": "/fotex?publication=bnhB3aUC&offer=Bhqc8SMdr4YzWbsBtMP-g",
-  "price": "135",
+  "link": "/Bilka?publication=CqvEUeDQ&offer=nl9fhST5DkoBsGsS6I_BY",
+  "price": "65",
   "currency": "DKK",
   "valid_from": "11-09-2025",
   "valid_until": "18-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbnhB3aUC%2Fp-31.webp&w=300&x1r=0.0222&x2r=0.659&y1r=0.1552&y2r=0.4883&s=501382bbad65c71057b981aee33b540b"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FCqvEUeDQ%2Fp-13.webp&w=300&x1r=0.0063&x2r=0.348&y1r=0.634&y2r=0.9453&s=91c7a89c647770cbc72e47039fd0365a"
  },
  {
   "link": "/Kobmandsgarden?publication=i9QuqfP4&offer=u8HpyYUCY-gJt7Lwtqp5s",
@@ -190,14 +198,6 @@
   "valid_from": "03-09-2025",
   "valid_until": "24-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfixTL20k%2Fp-2.webp&w=300&x1r=0.0132&x2r=0.6788&y1r=0.0256&y2r=0.5061&s=f604177a1e664dcda70ce2c41d72bd38"
- },
- {
-  "link": "/Bilka?publication=CqvEUeDQ&offer=nl9fhST5DkoBsGsS6I_BY",
-  "price": "65",
-  "currency": "DKK",
-  "valid_from": "11-09-2025",
-  "valid_until": "18-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FCqvEUeDQ%2Fp-13.webp&w=300&x1r=0.0063&x2r=0.348&y1r=0.634&y2r=0.9453&s=91c7a89c647770cbc72e47039fd0365a"
  },
  {
   "link": "/Lovbjerg?publication=cwdLr30a&offer=tnzXRaqdKBD0OknR3U-t8",
