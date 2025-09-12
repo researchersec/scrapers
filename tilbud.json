@@ -48,14 +48,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6m2msd1m%2Fp-15.webp&w=300&x1r=0.0371&x2r=0.9577&y1r=0.6366&y2r=0.9215&s=71f013ece5de0f7fd92136f9908d4662"
  },
  {
-  "link": "/Netto?publication=te_3-ws4&offer=P27GGyRzZL30Y9fyZqOtG",
-  "price": "65",
-  "currency": "DKK",
-  "valid_from": "05-09-2025",
-  "valid_until": "12-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQu-HinMT%2Fp-28.webp&w=300&x1r=0.0043&x2r=0.4977&y1r=0.0949&y2r=0.3986&s=ea66b08dec74fb24792f811c3544a15e"
- },
- {
   "link": "/SPAR?publication=6m2msd1m&offer=YK5gMO3Pp13Pbqf-FNvza",
   "price": "99",
   "currency": "DKK",
@@ -112,20 +104,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6vWV62x3%2Fp-9.webp&w=300&x1r=0.6096&x2r=0.9748&y1r=0.2744&y2r=0.5117&s=5b97c0d9b1dc84e5d21d73ce976cecf5"
  },
  {
-  "link": "/MENY?publication=uRAkEZ8I&offer=oGE1q83VI6qN-B34iCsEG",
-  "price": "135",
-  "currency": "DKK",
-  "valid_from": "11-09-2025",
-  "valid_until": "18-09-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuRAkEZ8I%2Fp-30.webp&w=300&x1r=0.6545&x2r=0.9925&y1r=0.5387&y2r=0.903&s=d872636ec7f9de65491ab9fe0f650b8d"
- },
- {
   "link": "/fotex?publication=bnhB3aUC&offer=eDEMIZGrroCjaUxxzuolx",
   "price": "112",
   "currency": "DKK",
   "valid_from": "11-09-2025",
   "valid_until": "18-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbnhB3aUC%2Fp-15.webp&w=300&x1r=0.0247&x2r=0.9985&y1r=0.5615&y2r=0.9877&s=0ff345d64632978620e14dc75cc2a26c"
+ },
+ {
+  "link": "/MENY?publication=uRAkEZ8I&offer=oGE1q83VI6qN-B34iCsEG",
+  "price": "135",
+  "currency": "DKK",
+  "valid_from": "11-09-2025",
+  "valid_until": "18-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuRAkEZ8I%2Fp-30.webp&w=300&x1r=0.6545&x2r=0.9925&y1r=0.5387&y2r=0.903&s=d872636ec7f9de65491ab9fe0f650b8d"
  },
  {
   "link": "/Min-Kobmand?publication=6vWV62x3&offer=vau_EdGUum-Sz9dmzunLs",
