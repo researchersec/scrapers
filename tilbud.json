@@ -262,5 +262,13 @@
   "valid_from": "03-09-2025",
   "valid_until": "24-09-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfixTL20k%2Fp-2.webp&w=300&x1r=0.0132&x2r=0.6788&y1r=0.0256&y2r=0.5061&s=f604177a1e664dcda70ce2c41d72bd38"
+ },
+ {
+  "link": "/Bilka?publication=1cMoj92l&offer=bBM7S1Ww23pyP4TPJE2B3",
+  "price": "108",
+  "currency": "DKK",
+  "valid_from": "18-09-2025",
+  "valid_until": "25-09-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1cMoj92l%2Fp-23.webp&w=300&x1r=0.0045&x2r=0.4198&y1r=0.6376&y2r=0.8282&s=f5c6991e9bef27c7193daf1930468bfb"
  }
 ]
