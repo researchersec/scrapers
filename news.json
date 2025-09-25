@@ -1,5 +1,13 @@
 [
  {
+  "title": "Lokale blev hørt - Nordjysk by får sikret farligt kryds efter dødsulykke",
+  "description": "No description",
+  "link": "https://www.dr.dk/nyheder/indland/lokale-blev-hoert-nordjysk-faar-sikret-farligt-kryds-efter-doedsulykke",
+  "published": "Thu, 25 Sep 2025 05:20:00 GMT",
+  "guid": "urn:dr:umbraco:article:cf9ad1f6-9440-40b9-97b7-483053501f6d",
+  "category": "No category"
+ },
+ {
   "title": "Mågejæger vender tilbage",
   "description": "No description",
   "link": "https://www.dr.dk/nyheder/seneste/maagejaeger-vender-tilbage",
@@ -167,16 +175,40 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F09%2F08%2Ffoerste_patient_nau_.jpeg&w=1200"
  },
  {
-  "title": "Protestaktion mod lov, der fjerner klagemuligheder ved forsvarsbyggerier",
-  "description": "No description",
-  "link": "https://www.dr.dk/nyheder/seneste/protestaktion-mod-lov-der-fjerner-klagemuligheder-ved-forsvarsbyggerier",
-  "published": "Sun, 07 Sep 2025 08:32:00 GMT",
-  "guid": "urn:dr:drupal:article:4c4f81ce-dcfd-4679-9d2e-ae78aca883f0",
+  "title": "Droner over Aalborg Lufthavn - følg med live",
+  "description": "<p>Droner fløj onsdag aften og torsdag nat ved og over Aalborg Lufthavn, hvorfor lufthavnen lukkede i flere timer. </p><p>TV2 Nord følger situationen i en liveblog - følg med her. </p>",
+  "link": "https://www.tv2nord.dk/aalborg/droner-over-aalborg-lufthavn-folg-med-live",
+  "published": "Thu, 25 Sep 25 07:02:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/droner-over-aalborg-lufthavn-folg-med-live",
+  "category": "No category"
+ },
+ {
+  "title": "Sådan er lufthavnstrafikken påvirket torsdag morgen",
+  "description": "<p>Natten til torsdag har der været tvivl om, hvordan rejseaktiviteten ville se ud torsdag morgen i Aalborg Lufthavn, efter droner er blevet set i luftrummet herover og efterfølgende lukkede lufthavnen. </p><p>Torsdag morgen er rejseaktiviteten dog nogenlunde normal i Aalborg Lufthavn, melder TV2 Nords reporter Malthe Birger Jensen, der har befundet sig i lufthavnen det meste af natten og morgenen. </p> <p>Kun få aflysninger har der været til morgen. Et SAS-fly mod København og et KLM-fly mod Amsterdam er blevet aflyst, mens et Norwegian-fly mod København er blevet forsinket med 50 minutter. </p><p><strong><em>Billeder herunder er fra torsdag morgen: </em></strong></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/sadan-er-lufthavnstrafikken-pavirket-torsdag-morgen-91a57",
+  "published": "Thu, 25 Sep 25 06:49:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/sadan-er-lufthavnstrafikken-pavirket-torsdag-morgen-91a57",
+  "category": "No category"
+ },
+ {
+  "title": "Nyhed om droner går verden rundt",
+  "description": "<p>Der er stor international interesse for de droner, der onsdag aften og natten til torsdag har forstyrret luftrummet ved og over Aalborg Lufthavn.</p><p><a href=\"https://nyheder.tv2.dk/live/krimi/2025-09-22-droner-forstyrrer-luftrummet-over-danske-lufthavne\">Det skriver TV 2.</a> </p><p>Både amerikanske <a href=\"https://edition.cnn.com/2025/09/24/europe/denmark-aalborg-airport-closed-drones-latam-intl\">CNN</a>, <a href=\"https://www.reuters.com/business/aerospace-defense/denmarks-aalborg-airport-closed-due-drones-airspace-2025-09-24/\">Reuters</a>, britiske <a href=\"https://www.bbc.com/news/articles/c7401vk4lgzo\">BBC</a>, <a href=\"https://news.sky.com/story/aalborg-airport-in-denmark-forced-to-close-after-drones-spotted-police-say-13437595\">Sky News</a> og <a href=\"https://www.theguardian.com/world/2025/sep/25/drones-aalborg-airport-denmark-closed-days-after-copenhagen-oslo\">The Guardian</a> er blandt de medier, som skriver om det. </p><p>Nyheden har også ramt ukrainske <a href=\"https://kyivindependent.com/denmark-shuts-down-airport-over-suspicious-drone-sightings-for-2nd-time-this-week/\">Kyiv Independent</a>, franske <a href=\"https://www.france24.com/en/europe/20250925-drones-denmark-airports\">France24</a> samt tyske <a href=\"https://www.welt.de/politik/ausland/article68d4722b6199625f8c0fc340/daenemark-erneuter-drohnenalarm-ueber-mehreren-flughaefen-luftwaffenstuetzpunkt-betroffen.html\">Welt</a>, ligesom det russiske medie <a href=\"https://www.rt.com/news/625226-denmark-mystery-drones-airports/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Russia Today</a> skriver om dronerne.</p><p>- Danmark lukkede kortvarigt ned for luftrummet i Aalborg Lufthavn efter uidentificerbare <em>&quot;droner&quot; </em>blev spottet nær landingsbanen, står der. </p>",
+  "link": "https://www.tv2nord.dk/aalborg/nyhed-om-droner-gar-verden-rundt-eaec2",
+  "published": "Thu, 25 Sep 25 06:39:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/nyhed-om-droner-gar-verden-rundt-eaec2",
+  "category": "No category"
+ },
+ {
+  "title": "Dronerne over Aalborg Lufthavn er forsvundet",
+  "description": "<p>De uidentificerede droner, der blev observeret over Aalborg Lufthavn onsdag aften, er ikke længere i luften over lufthavnen.</p><p>Politiet har påbegyndt en intens efterforskning angående de droner, der onsdag aften befandt sig i luftrummet ved og over Aalborg Lufthavn.</p><p>Det melder Nordjyllands Politi i en pressemeddelelse.</p><p>Man oplyser samtidig, at det er politiet klare vurdering, at de uidentificerede droner ikke længere er at finde i området.</p><p>Læs mere i artiklen herunder: </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/dronerne-over-aalborg-lufthavn-er-forsvundet-e35e2",
+  "published": "Thu, 25 Sep 25 06:32:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/dronerne-over-aalborg-lufthavn-er-forsvundet-e35e2",
   "category": "No category"
  },
  {
   "title": "Dronerne er væk - men intens efterforskning påbegynder",
-  "description": "<p>Politiet har påbegyndt en intens efterforskning angående de droner, der onsdag aften befandt sig i luftrummet ved og over Aalborg Lufthavn. </p><p>Det melder Nordjyllands Politi i en pressemeddelelse. </p><p>Man oplyser samtidig, at det er politiet klare vurdering, at de uidentificerede droner ikke længere er at finde i området.</p><p>- Det er ikke lykkedes at nedtage dronerne, som over et par timer har fløjet over et meget stort areal. På nuværende tidspunkt har vi heller ikke pågrebet droneoperatørerne, men det er klart, at næste skridt er at dykke ned i alle de spor og observationer, vi har indsamlet. Har man som borger informationer, man mener kan være relevante for politiets arbejde i denne sag, så opfordrer vi til, at man henvender sig på telefon 114, lyder det fra Jesper Bøjgaard, der er chefpolitiinspektør. </p><p>Chefpolitiinspektøren er fuldt forstående for, hvis aftenen og nattens indsats har givet anledning til bekymringer hos de nordjyske borgere.</p><p>- Vi har fuld forståelse for, at sådan en hændelse - med alt hvad det indebærer af uniformeret politi og aktivitet i pressen og på de sociale medier kan bekymre borgerne. Det er vigtigt for mig at understrege, at vi deler al den relevante viden, vi kan, med borgerne. Samtidig er vi hele tiden opmærksomme på at vurdere sikkerhedsrisikoen, og det er ikke vores vurdering, at borgere på noget tidspunkt har været i fare. </p><p>- Nu går vi i gang med arbejdet med at kigge nærmere på det indsamlede materiale, som både indeholder fysiske og elektroniske spor. Det er vores klare vurdering, at borgerne kan være trygge ved at færdes i og omkring lufthavnens område. Fra et politimæssigt synspunkt er der ikke noget, der hindrer flytrafikken i at blive genoptaget. Dog er det fortsat opfordringen, at passagerer altid holder sig løbende orienteret på det relevante flyselskabs hjemmeside og kommunikationskanaler, siger Jesper Bøjgaard. </p>",
+  "description": "<p>Politiet har påbegyndt en intens efterforskning angående de droner, der onsdag aften befandt sig i luftrummet ved og over Aalborg Lufthavn. </p><p>Det melder Nordjyllands Politi i en pressemeddelelse. </p> <p>Man oplyser samtidig, at det er politiet klare vurdering, at de uidentificerede droner ikke længere er at finde i området.</p><p>- Det er ikke lykkedes at nedtage dronerne, som over et par timer har fløjet over et meget stort areal. På nuværende tidspunkt har vi heller ikke pågrebet droneoperatørerne, men det er klart, at næste skridt er at dykke ned i alle de spor og observationer, vi har indsamlet. Har man som borger informationer, man mener kan være relevante for politiets arbejde i denne sag, så opfordrer vi til, at man henvender sig på telefon 114, lyder det fra Jesper Bøjgaard, der er chefpolitiinspektør. </p> <p>Chefpolitiinspektøren er fuldt forstående for, hvis aftenen og nattens indsats har givet anledning til bekymringer hos de nordjyske borgere.</p><p>- Vi har fuld forståelse for, at sådan en hændelse - med alt hvad det indebærer af uniformeret politi og aktivitet i pressen og på de sociale medier kan bekymre borgerne. Det er vigtigt for mig at understrege, at vi deler al den relevante viden, vi kan, med borgerne. Samtidig er vi hele tiden opmærksomme på at vurdere sikkerhedsrisikoen, og det er ikke vores vurdering, at borgere på noget tidspunkt har været i fare. </p><p>- Nu går vi i gang med arbejdet med at kigge nærmere på det indsamlede materiale, som både indeholder fysiske og elektroniske spor. Det er vores klare vurdering, at borgerne kan være trygge ved at færdes i og omkring lufthavnens område. Fra et politimæssigt synspunkt er der ikke noget, der hindrer flytrafikken i at blive genoptaget. Dog er det fortsat opfordringen, at passagerer altid holder sig løbende orienteret på det relevante flyselskabs hjemmeside og kommunikationskanaler, siger Jesper Bøjgaard. </p>",
   "link": "https://www.tv2nord.dk/aalborg/dronerne-er-vaek-men-intens-efterforskning-pabegynder-9a736",
   "published": "Thu, 25 Sep 25 06:15:00 +0200",
   "guid": "https://www.tv2nord.dk/aalborg/dronerne-er-vaek-men-intens-efterforskning-pabegynder-9a736",
@@ -223,38 +255,6 @@
   "category": "No category"
  },
  {
-  "title": "Forsvaret bekræfter dronehændelse i Aalborg Lufthavn: Fly kan ikke lande",
-  "description": "<p>Det er i øjeblikket ikke muligt for fly at lette og lande fra Aalborg Lufthavn på grund af droner.</p><p>Det sker kort tid efter en droneoverflyvning ved Københavns Lufthavn, hvor politiet <a href=\"https://nyheder.tv2.dk/live/krimi/2025-09-22-droner-forstyrrer-luftrummet-over-koebenhavns-lufthavn/det-kom-frem-paa-pressemoedet?entry=3763c091-5fde-4ba5-a6fe-5698b08feefe\"><em>mistænker</em></a> en &#039;kapabel aktør&#039; for at stå bag.</p><p>Ifølge Aalborg Lufthavns hjemmeside, er to fly blevet omdirigeret. Det gælder SAS-flyet SK1221 fra København, der skulle være landet 22.06 og Norwegian-flyet KL1289, der skulle være landet 22.25.</p><p>Ifølge Flyvestation Aalborg er Lufthavnen lukket på grund af en dronehændelse.</p><p>&#039;Dronehændelse! Luftrummet over Flyvestation Aalborg er i øjeblikket lukket grundet uautoriseret droneflyvning. Vi fokuserer for nu på en sikker afvikling af flytrafikken og samarbejder med Politiet om håndteringen af situationen. Vi har for nuværende ikke yderligere information&#039;, skriver Flyvestationen på <a href=\"https://www.facebook.com/search/top?q=flyvestation%20aalborg\"><em>Facebook</em></a>.</p><p>Ifølge Flightradar er de to fly blevet omdirigeret til København. De er fortsat to fly, der er sat til at skulle lande i lufthavnen, men de er ifølge TV2 Nords oplysninger også blevet omdirigeret. Det ene var et KLM-fly fra Amsterdam, der er omdirigeret til Billund, og det andet var et SAS-fly, der er omdirigeret fra København.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/forsvaret-bekraefter-dronehaendelse-i-aalborg-lufthavn-fly-kan-ikke-lande-220ff",
-  "published": "Wed, 24 Sep 25 23:06:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/forsvaret-bekraefter-dronehaendelse-i-aalborg-lufthavn-fly-kan-ikke-lande-220ff",
-  "category": "No category"
- },
- {
-  "title": "Nordjyllands Politi afholder pressemøde efter droner lukker luftrummet over Aalborg",
-  "description": "<p>Det er i øjeblikket ikke muligt for fly at lette og lande fra Aalborg Lufthavn på grund af droner.</p><p>Det sker kort tid efter en droneoverflyvning ved Københavns Lufthavn, hvor politiet <a href=\"https://nyheder.tv2.dk/live/krimi/2025-09-22-droner-forstyrrer-luftrummet-over-koebenhavns-lufthavn/det-kom-frem-paa-pressemoedet?entry=3763c091-5fde-4ba5-a6fe-5698b08feefe\">mistænker</a> en &#039;kapabel aktør&#039; for at stå bag.</p> <p>Ifølge Aalborg Lufthavns hjemmeside, er to fly blevet omdirigeret. Det gælder SAS-flyet SK1221 fra København, der skulle være landet 22.06 og Norwegian-flyet KL1289, der skulle være landet 22.25. </p><p><strong><em>TV2 Nord har modtaget flere videoer fra seere, der har optaget en video i umiddelbar nærhed af lufthavnen:</em></strong></p> <p>Ifølge Flyvestation Aalborg er Lufthavnen lukket på grund af en dronehændelse.</p><p>&#039;Dronehændelse! Luftrummet over Flyvestation Aalborg er i øjeblikket lukket grundet uautoriseret droneflyvning. Vi fokuserer for nu på en sikker afvikling af flytrafikken og samarbejder med politiet om håndteringen af situationen. Vi har for nuværende ikke yderligere information&#039;, skriver Flyvestationen på <a href=\"https://www.facebook.com/search/top?q=flyvestation%20aalborg\">Facebook</a>.</p><p>- Det er korrekt, at luftrummet er lukket, fordi der er observeret droner. Jeg kan bekræfte, at politiet er til stede, lyder det fra Martin Svendsen, der er salgs- og marketingdirektør i lufthavnen til Ritzau.</p> <h2>Nordjyllands Politi og Rigspolitiet afholder pressemøde</h2><p>Ifølge Flightradar er de to fly blevet omdirigeret til København. De er fortsat to fly, der er sat til at skulle lande i lufthavnen, men de er ifølge TV2 Nords oplysninger også blevet omdirigeret. Det ene var et KLM-fly fra Amsterdam, der er omdirigeret til Billund, og det andet var et SAS-fly, der er omdirigeret fra København. </p><p>Passagerne på Amsterdam-flyet skal nu med bussen til Aalborg, hvor de skulle have landet. De skal nu fragtes med bus til Aalborg, har det lige lydt i højttaleren i lufthavnen.</p><p>TV2 Nord arbejder på at få en kommentar Nordjyllands Politi.</p> <p>Nordjyllands Politi inviterer pressen til doorstep – eller pressemøde – i forhallen på Aalborg Politigård klokken 00.00, lyder det på <a href=\"https://x.com/NjylPoliti/status/1970964862219264464\">det sociale medie X</a>.</p><p>Her vil chefpolitiinspektør Jesper Bøjgaard give en kort status på situationen ved Aalborg Lufthavn, lyder det. Også Rigspolitiet afholder pressemøde, hvor Thiorkild Fogede vil give en kort status på de seneste dages hændelser om mistænkelig droneaktivitet. Det sker klokken 00.30.</p><p>Der er også anmeldelser om droner i Syd- og Sønderjylland. Her har politiet modtaget flere anmeldelser om droner i luften.</p><p>- Man skal forholde sig fuldstændigt, ligesom man plejer. Vil gøre alt for at håndtere eventuelt kommende hændelser, siger vagtchef i politikredsen Jacob Matthiesen til TV 2.</p><p>Ifølge TV2 Nords mand på stedet, er der netop ankommet mere politi til lufthavnen, ligesom en helikopter cirkler over lufthavnen.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/droner-i-aalborg-lufthavn-fly-kan-ikke-lande-291b2",
-  "published": "Wed, 24 Sep 25 22:19:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/droner-i-aalborg-lufthavn-fly-kan-ikke-lande-291b2",
-  "category": "No category"
- },
- {
-  "title": "Råd anbefaler stop for al torskefiskeri: - Det er selvfølgelig en træls situation",
-  "description": "<p>- Det er selvfølgelig en meget træls situation, vi står i.</p><p>Sådan siger formanden for Hirtshals Fiskeriforening, Niels Christian Nielsen.</p><p>Onsdag lød meldingen fra Det Internationale Havforskningsråd, ICES, at der bør blive fanget lige præcis nul torsk i Skagerrak og Nørdsøen i 2026. Det er i forvejen forbudt at fiske efter torsk i Østersøen, og i Kattegat er det tilladt som bifangst.</p> <p>Rådet siger nemlig, at bestanden i de to farvande, er på et kritisk et niveau.</p><p>- Det er selvfølgelig nogle forfærdelige tal for vores fiskere, fordi de kan næsten ikke fiske uden at have torsk med som bifangst. Så hvis der skal være en nulkote eller en halvering, så er det jo et stort nedgang i fiskeriet for vores fiskere, siger formanden.</p><h2>Totalforbud i syd giver totalforbud i nord</h2><p>Anbefalingen for rådet er egentligt todelt. For mens de anbefaler totalforbud i den sydlige del af Nordsøen, gælder det ikke for den nordlige del. Men fordi bestandene blander sig, anbefaler rådet ud fra et forsigtighedsprincip et totalforbud, der gælder hele Nordsøen.</p> <p>Og det vækker bekymring i Hirtshals på havnen i Hirtshals.</p><p>- Jeg synes begge dele er meget, meget drastiske. Og det vil gøre ondt på mine fiskere, at vi får en reduktion bare på 50 procent. Det vil gøre meget, meget ondt. Og jeg vil sige, at selvfølgelig skal vi regulere det, men ikke så drastisk.</p><p><em>Er det ikke et grundvilkår inde på fiskeriet, at man skal passe på bestandene, og at kvoterne dermed bliver justeret fra tid til anden?</em></p><p><em>- </em>Det er et grundvilkår, og det er vi helt med på. Men vi skal også sørge for, at biogydemassen den er, som den skal være, så bestanden kan rekvalificere sig selv hele tiden. Så derfor er vi med på, at kvoterne de sommetider går ned, og sommetider går op, og sådan har det altid været. Og sådan skal det også være, siger Niels Christian Nielsen.</p> <p><em>Verdensnaturfonden kalder torskebestanden i Østersøen for kollapset, og peger så på, at det samme nu er på nippet til at ske i Skagerrak og Nordsøen. Hvad siger du til den påstand?</em></p><p>- Det er bestemt ikke det, vi ser som fiskere. Og det er ikke det, fiskerne, som lander her fra Skagerrak, ser. Når de kommer lidt til havs, så ser de rigtig mange torsk. Men her ved kysten, er der lidt færre torsk. Så den er bestemt ikke ved at kollapse her i Nordsøen og i Skagerrak.</p><p>Meldingen fra rådet er ikke ensbetydende med, at der rent faktisk kommer et totalforbud. Nu er det op til politikerne, om de vil følge anbefalingen. </p><p>I et skriftligt svar til <a href=\"https://www.dr.dk/nyheder/indland/havforskningsraad-anbefaler-stop-af-torske-fiskeri-i-nordsoeen-og-skagerrak-en-meget-trist-milepael\">DR</a> siger Fiskeriminister Jacob Jensen, at rådgivningen er vigtig.</p><p>- Jeg har noteret mig ICES’s nye anbefaling angående torsk i Nordsøen og Skagerrak, og vi vil læse ned i detaljerne i den.</p><p>- Den videnskabelige rådgivning og EU’s fælles fiskeripolitik er udgangspunktet for de årlige forhandlinger om fiskekvoter, hvor vi arbejder på at finde bæredygtige løsninger.</p>",
-  "link": "https://www.tv2nord.dk/hjoerring/rad-anbefaler-stop-for-al-torskefiskeri-det-er-selvfolgelig-en-traels-situation-ec432",
-  "published": "Wed, 24 Sep 25 21:15:00 +0200",
-  "guid": "https://www.tv2nord.dk/hjoerring/rad-anbefaler-stop-for-al-torskefiskeri-det-er-selvfolgelig-en-traels-situation-ec432",
-  "category": "No category"
- },
- {
-  "title": "- Så længe de gør det, kommer jeg aldrig til at være utilfreds, siger Aalborg-cheftræner",
-  "description": "<p>Onsdag var der gang i Sparekassen Danmark Arena, da Aalborg Håndbold tog imod Sporting Portugal hjemme i Champions League. Her vandt aalborgenserne nemlig med 35-30 i en intens <a href=\"https://www.tv2nord.dk/aalborg/aalborg-handbold-storsejrede-men-mistede-to-af-sine-vigtigste-spillere-i-opgoret-a2df1\">kamp</a>. </p><p>- En sjov kamp, en fed kamp med masser af intensitet og infight. Ikke noget vildt eller over grænsen, men præcis som det skal være i Champions League. Der er mange gode hold, lyder det fra Aalborg Håndbolds cheftræner Simon Dahl efter kampen. </p> <p>Mod slutningen af anden halvleg måtte cheftræneren dog se to af sine store profiler gå fra banen og ømme sig. Mads Hoxer og Thomas Arnoldsen fandt nemlig plads på spillerbænken iført sin træningstrøje og kom altså ikke i aktion igen i kampen. </p><p>- Vi har snakket om, og vi står på mål for, at vi har en bred trup med mange kvalitetsspillere, der kan en masse ting, og det var der mange, som fik lov til at bevise i dag, og det hviler vi i, påpeger Simon Dahl og tilføjer: </p><p>- Vi vil gerne have alle mand med, men vi bruger dem, der er klar, og dem der er friske. Jeg synes, igen i dag, at vi har bevist, at vi løser de mange opgaver både isoleret set i en kamp, men også over en lang periode, og selvom der hele tiden sker ting, der ændrer det, vi gerne vil, så er det er også en del af det, at kan begå sig på topniveau, at man er omstillingsparate. </p> <h2>En meget tilfreds træner </h2><p>De to profilers forsvinden resulterede også i, at cheftræneren fik taget flere spillere i brug, og det var altså en tilfreds Simon Dahl, der stod tilbage efter kampen. </p><p>- Jeg synes, at folk kæmpede eksemplarisk og gav alt, hvad de havde - også i nogle konstellationer vi ikke har trænet, så det brød selvfølgelig noget rytme, men jeg synes, alle gjorde, hvad de kunne. Det ville være underligt, hvis vi fandt samme flow, som vi har indledningsvist, for de tre (Thomas Arnoldsen, Mads Hoxer og Lukas Nilsson, red.) har fået mange gentagelser sammen, så helt naturligt sniger der sig færre fejl ind, men jeg synes, at alle i dag gjorde alt, hvad der stod i deres magt, og så længe de gør det, kommer jeg aldrig til at være utilfreds med noget, understreger han.</p><p>Cheftræneren sender desuden også rosende ord afsted mod de 5315 fremmødte tilskuere, der fik sat gang i Gigantium. </p><p>- Europæiske aftner i Aalborg er magiske. </p><p>- Det er det, vi lever og ånder for, selvom vi også har meget respekt for, hvad der foregår i den danske liga, så er det aftener som i aften, hvor vi mærker, at vi lever, og det er derfor, vi dedikerer hele vores liv for at se, hvor dygtige vi kan blive, det er for at få sådan nogle aftner her, afslutter han. </p>",
-  "link": "https://www.tv2nord.dk/aalborg/sa-laenge-de-gor-det-kommer-jeg-aldrig-til-at-vaere-utilfreds-siger-aalborg-cheftraener-bb7e7",
-  "published": "Wed, 24 Sep 25 20:57:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/sa-laenge-de-gor-det-kommer-jeg-aldrig-til-at-vaere-utilfreds-siger-aalborg-cheftraener-bb7e7",
-  "category": "No category"
- },
- {
   "title": "Droner over lufthavnen: Det ved vi - og det mangler vi svar på",
   "description": "Dronerne forlod luftrummet over Aalborg Lufthavn kort efter midnat og er ikke identificeret",
   "link": "https://nordjyske.dk/nyheder/aalborg/droner-over-lufthavnen-det-ved-vi-og-det-mangler-vi-svar-paa/5748612?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -263,12 +263,12 @@
   "category": "Politi"
  },
  {
-  "title": "Er dit barn tynget af perfektionisme? Pædagog arbejder anderledes for at fjerne presset",
-  "description": "Det nye fokus gør flere af børnene trygge ved at være med",
-  "link": "https://nordjyske.dk/nyheder/er-dit-barn-tynget-af-perfektionisme-paedagog-arbejder-anderledes-for-at-fjerne-presset/5720583?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 24 Sep 2025 17:36:00 Z",
-  "guid": "5aa8f6ac-e104-4f96-8c8b-ce8dd46f64e4",
-  "category": "Familieliv"
+  "title": "Solcelleplaner nedenfor Blomsterbakken ryster byen. Nu foreslår de alternativ placering",
+  "description": "Rådmand lover, at der vil blive lyttet og kigget på alternativer",
+  "link": "https://nordjyske.dk/nyheder/aalborg/solcelleplaner-nedenfor-blomsterbakken-ryster-byen-nu-foreslaar-de-alternativ-placering/5743948?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 25 Sep 2025 03:27:45 Z",
+  "guid": "277094d3-8238-4801-a129-4a97deb42fec",
+  "category": "Energiparkerne kommer"
  },
  {
   "title": "Aalborg Håndbold bestod en test, som de helst havde været foruden",
@@ -293,6 +293,14 @@
   "published": "Wed, 24 Sep 2025 03:37:02 Z",
   "guid": "09479d71-ec80-4210-b452-581dc4d4f018",
   "category": "Erhvervskvinderne"
+ },
+ {
+  "title": "Er dit barn tynget af perfektionisme? Pædagog arbejder anderledes for at fjerne presset",
+  "description": "Det nye fokus gør flere af børnene trygge ved at være med",
+  "link": "https://nordjyske.dk/nyheder/er-dit-barn-tynget-af-perfektionisme-paedagog-arbejder-anderledes-for-at-fjerne-presset/5720583?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 24 Sep 2025 17:36:00 Z",
+  "guid": "5aa8f6ac-e104-4f96-8c8b-ce8dd46f64e4",
+  "category": "Familieliv"
  },
  {
   "title": "Nye gebyrer rammer Mads Jensen om få dage: Minister kalder det en overfortolkning af regler",
@@ -405,13 +413,5 @@
   "published": "Wed, 24 Sep 2025 14:26:39 Z",
   "guid": "e8fa433c-0be5-4292-9a83-34d64d997e26",
   "category": "Nyheder"
- },
- {
-  "title": "Ehlers-ejerskab hang i en tynd tråd, indtil lokale investorer trådte til med et klart budskab",
-  "description": "At Nikolaj Ehlers skulle være ejer, var planen fra dag ét. Men undervejs så det flere gange ud til, at projektet skulle mislykkedes",
-  "link": "https://nordjyske.dk/nyheder/sport/ehlers-ejerskab-hang-i-en-tynd-traad-indtil-lokale-investorer-traadte-til-med-et-klart-budskab/5724671?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 20 Sep 2025 03:53:50 Z",
-  "guid": "5b7bb6b0-9b9a-4250-8328-74776b6b9040",
-  "category": "Aalborg Pirates"
  }
 ]
