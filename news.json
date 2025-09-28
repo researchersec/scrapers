@@ -176,6 +176,14 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2025%2F09%2F12%2F1757688159_vildmosekartofler.jpg&w=1200"
  },
  {
+  "title": "To siloer gik i flammer på Nordjyllandsværket",
+  "description": "<p>Nordjyllands Beredskab rykkede søndag aften ud til en brand på kraftvarmeværket Nordjyllandsværket, som ligger på Norbis Park nær Stae syd for Vodskov.</p><p>Anmeldelsen kom ind klokken 18.43. Da beredskabet kom ud på stedet, kunne de konstatere, at der var gået ild i to siloer.</p><p>- Branden opstod i et filter ude på adressen og spredte sig via nogle rør fra den ene silo til den anden. Branden er slukket nu, og vi er lige nu ved at få lavet noget røgudluftning, lød det fra indsatsleder ved Nordjyllands Beredskab Nicolai Kanstrup, da TV2 Nord talte med ham klokken 19.45.</p><p>Ingen kom til skade i branden.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/brand-pa-nordjyllandsvaerket-3ad55",
+  "published": "Sun, 28 Sep 25 19:22:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/brand-pa-nordjyllandsvaerket-3ad55",
+  "category": "No category"
+ },
+ {
   "title": "Mød din borgmester - på engelsk",
   "description": "<p>Lokalpolitik er for alle.</p><p>Derfor mødtes Aalborg Kommunes borgmester Lasse Frimand Jensen (S) søndag med nogle af Aalborgs internationale borgere til en snak om det kommende kommunalvalg. Initiativet til dialogmødet og den efterfølgende debat var taget af World! Aalborg, der er en kvindeforening for internationale og danske kvinder og Aalborg Bibliotekerne.</p><p>Både det indledende oplæg og den efterfølgende debat blev gennemført på engelsk, og der var stor interesse fra de fremmødte, der for en stor dels vedkommende ikke normalt følger med i lokalpolitik, selvom de faktisk har stemmeret til kommunalvalget.</p><p>Hør hvad Lasse Frimand Jensen og Markus Löchtefeld, der er viceinstitutleder og studieleder på Aalborg Universitet, havde at sige om søndagens arrangement herunder:</p> <p>Kommunalvalget foregår 18. november.</p>",
   "link": "https://www.tv2nord.dk/kv25/mod-din-borgmester-pa-engelsk-88b31",
@@ -248,14 +256,6 @@
   "category": "No category"
  },
  {
-  "title": "Forsvaret fik øje på droner i nat",
-  "description": "<p>Så har Forsvaret atter nyt, og det omhandler igen droner. I en pressemeddelelse bekræfter Forsvaret, at der er blevet observeret droner ved flere af Forsvarets lokaliteter i nat.</p><p>&#039;Flere kapaciteter var indsat,&#039; fremgår det af pressemeddelelsen, hvori Forsvaret også skriver, at de ikke har yderligere kommentarer.</p><p>Beskeden kommer ovenpå en uge, hvor ukendte droner adskillige gange er set svæve rundt over danske lufthavne og flyvestationer.</p><p>Luftrummet over Flyvestation Aalborg var onsdag aften og natten til torsdag lukket grundet uautoriseret droneflyvning. Det er uvist, om Nordjylland i denne omgang har været ramt.</p><p>- Aktionen har formentlig til formål at trække bukserne af dansk forsvar og afsløre, at vi ikke er i stand til at modstå truslen, lyder det fra forsvarskorrespondent, Anders Lomholt, til TV 2 om de seneste dages dronehændelser over militære områder.</p><p>Fredag aften fløj der uidentificerede droner ind over den militære lufthavn Flyvestation Karup. Det oplyste politiet lørdag.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/forsvaret-fik-oje-pa-droner-i-nat-241b5",
-  "published": "Sun, 28 Sep 25 13:06:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/forsvaret-fik-oje-pa-droner-i-nat-241b5",
-  "category": "No category"
- },
- {
   "title": "Fejl på signalerne: Ingen tog mellem Aalborg og Langå resten af døgnet",
   "description": "",
   "link": "https://nordjyske.dk/nu/fejl-paa-signalerne-ingen-tog-mellem-aalborg-og-langaa-resten-af-doegnet/deeabc22-6619-4595-a107-26498062155c?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -272,12 +272,36 @@
   "category": "Penge i familien"
  },
  {
+  "title": "- Det sværeste er ikke min ADHD, men stigmatiseringen der følger med",
+  "description": "For journalist Deanna Grønning Young har ADHD-diagnosen været livsvigtig. Men når den kommer til at fylde for meget i forældreskabet, kan den blive til en kasse af skyld og skam",
+  "link": "https://nordjyske.dk/nyheder/vores-liv/det-svaereste-er-ikke-min-adhd-men-stigmatiseringen-der-foelger-med/5739535?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 23 Sep 2025 18:31:34 Z",
+  "guid": "6c0161b2-72af-42f5-ad1d-fddf88e8464c",
+  "category": "ADHD"
+ },
+ {
+  "title": "Big Dollar åbner med succes i Nordjylland. Nu har de fået stor dansk dagligvarekæde på nakken",
+  "description": "Klage-afgørelse om butikskæden Big Dollar kan føre til retssag, men den største hovedpine ligger måske hos kommunen, der gav forretningen grønt lys",
+  "link": "https://nordjyske.dk/nyheder/broenderslev/butikskaeden-big-dollar-aabner-med-succes-i-nordjylland-nu-kan-de-ende-i-en-retssag/5747884?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 27 Sep 2025 03:58:19 Z",
+  "guid": "2f25c3eb-1a1e-4d15-99a6-aa447a685d98",
+  "category": "Bymidterne dør"
+ },
+ {
   "title": "Insider-tips fra tandlægen: Sådan undgår du store regninger",
   "description": "Guldkarameller, lakridser og flæskesvær er nogle af de ting, Christian Roliggaard oftest hører, at folk har knækket en tand på",
   "link": "https://nordjyske.dk/nyheder/broenderslev/her-er-tandlaegens-bedste-tips-til-at-passe-paa-taenderne-og-undgaa-huller/5399031?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sun, 02 Feb 2025 10:37:12 Z",
   "guid": "78779860-01ef-4c32-84d7-9dcb9ecc5267",
   "category": "Sundhed"
+ },
+ {
+  "title": "Vandskade lukker Aalborg-restaurant i travl uge",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/vandskade-lukker-aalborg-restaurant-i-travl-uge/9b08d3d2-eaef-4302-949b-e14bb09484cb?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 28 Sep 2025 14:31:28 Z",
+  "guid": "9b08d3d2-eaef-4302-949b-e14bb09484cb",
+  "category": "Nyheder"
  },
  {
   "title": "Ejere skyder millioner ind for at redde byggefirma. To sager blev dyre",
@@ -294,14 +318,6 @@
   "published": "Wed, 24 Sep 2025 03:37:02 Z",
   "guid": "09479d71-ec80-4210-b452-581dc4d4f018",
   "category": "Erhvervskvinderne"
- },
- {
-  "title": "Vandskade lukker Aalborg-restaurant i travl uge",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/vandskade-lukker-aalborg-restaurant-i-travl-uge/9b08d3d2-eaef-4302-949b-e14bb09484cb?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 28 Sep 2025 14:31:28 Z",
-  "guid": "9b08d3d2-eaef-4302-949b-e14bb09484cb",
-  "category": "Nyheder"
  },
  {
   "title": "Ny restaurant er stuvende fyldt - men misser også på enkelte punkter",
@@ -336,6 +352,14 @@
   "category": "Nyheder"
  },
  {
+  "title": "Hvad betyder det forhøjede beredskab?",
+  "description": "Advarselslamperne blinker hos myndighederne. Men hvad betyder det forhøjede beredskab?",
+  "link": "https://nordjyske.dk/nyheder/aalborg/tidligere-politiinspektoer-droneangreb-er-et-wake-up-call/5749531?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 25 Sep 2025 12:36:05 Z",
+  "guid": "4406ba20-35f7-4989-bf76-880e5e769682",
+  "category": "Droner over Aalborg"
+ },
+ {
   "title": "I bedste fald har vi et luftmelde-system, der minder om dem, der blev brugt under Anden Verdenskrig",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/nordjylland/i-bedste-fald-har-vi-et-luftmelde-system-der-minder-om-dem-der-blev-brugt-under-anden-verdenskrig/5751327?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -344,28 +368,12 @@
   "category": "Debat"
  },
  {
-  "title": "Big Dollar åbner med succes i Nordjylland. Nu har de fået stor dansk dagligvarekæde på nakken",
-  "description": "Klage-afgørelse om butikskæden Big Dollar kan føre til retssag, men den største hovedpine ligger måske hos kommunen, der gav forretningen grønt lys",
-  "link": "https://nordjyske.dk/nyheder/broenderslev/butikskaeden-big-dollar-aabner-med-succes-i-nordjylland-nu-kan-de-ende-i-en-retssag/5747884?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 27 Sep 2025 03:58:19 Z",
-  "guid": "2f25c3eb-1a1e-4d15-99a6-aa447a685d98",
-  "category": "Bymidterne dør"
- },
- {
   "title": "Jasson: Når to ting forbedres, bliver AaB en svær modstander",
   "description": "Andres Jasson var en af de opløftende historier på en træls lørdag for AaB efter 1-2-nederlaget i Lyngby",
   "link": "https://nordjyske.dk/nyheder/sport/jasson-naar-to-ting-forbedres-bliver-aab-en-svaer-modstander/5752284?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sat, 27 Sep 2025 19:01:18 Z",
   "guid": "c7e1c227-84ff-4cc2-a4b5-2249f2ebdaf7",
   "category": "Sport"
- },
- {
-  "title": "Hvad betyder det forhøjede beredskab?",
-  "description": "Advarselslamperne blinker hos myndighederne. Men hvad betyder det forhøjede beredskab?",
-  "link": "https://nordjyske.dk/nyheder/aalborg/tidligere-politiinspektoer-droneangreb-er-et-wake-up-call/5749531?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 25 Sep 2025 12:36:05 Z",
-  "guid": "4406ba20-35f7-4989-bf76-880e5e769682",
-  "category": "Droner over Aalborg"
  },
  {
   "title": "Karakterbogen: To spillere dumpede, da AaB først mødte op efter pausen",
@@ -406,13 +414,5 @@
   "published": "Sat, 27 Sep 2025 09:10:21 Z",
   "guid": "c11fcfc2-074e-46a9-87a2-361714da744f",
   "category": "Nyheder"
- },
- {
-  "title": "I udkanten af Thisted har NetIP aldrig tjent flere penge. Hemmeligheden bag er en særlig kultur",
-  "description": "En vild turnaround kulminerer med det største overskud i it-virksomheden NetIP's historie. Her er ingen bonusser og intet hovedkontor. Og en særlig tilgang til, hvordan vækst skabes - og hvad det ikke må opnås på bekostning af",
-  "link": "https://nordjyske.dk/nyheder/erhverv/i-udkanten-af-thisted-har-netip-aldrig-tjent-flere-penge-hemmeligheden-bag-er-en-saerlig-kultur/5750642?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 27 Sep 2025 08:47:26 Z",
-  "guid": "dac71b33-8181-4e37-b5e7-09c3d251e1fa",
-  "category": "Erhverv"
  }
 ]
