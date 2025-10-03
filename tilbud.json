@@ -1,19 +1,19 @@
 [
  {
-  "link": "/Lidl?publication=Q5zWIokr&offer=yv-2nbOZry7J5Z3dTqye8",
-  "price": "10",
-  "currency": "DKK",
-  "valid_from": "04-10-2025",
-  "valid_until": "11-10-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ5zWIokr%2Fp-1.webp&w=300&x1r=0.7245&x2r=0.9969&y1r=0.1144&y2r=0.6575&s=aaab04c24eee6e06ccc962a6fd0fcf2f"
- },
- {
   "link": "/Bilka?publication=YXtJ9BCX&offer=owqs3h8-rpsKtwU0g04C_",
   "price": "8",
   "currency": "DKK",
   "valid_from": "02-10-2025",
   "valid_until": "09-10-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYXtJ9BCX%2Fp-27.webp&w=300&x1r=0.0402&x2r=0.3432&y1r=0.721&y2r=0.9442&s=c952e5d4fe2728715462e9ae10fc5362"
+ },
+ {
+  "link": "/Lidl?publication=Q5zWIokr&offer=yv-2nbOZry7J5Z3dTqye8",
+  "price": "10",
+  "currency": "DKK",
+  "valid_from": "04-10-2025",
+  "valid_until": "11-10-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ5zWIokr%2Fp-1.webp&w=300&x1r=0.7245&x2r=0.9969&y1r=0.1144&y2r=0.6575&s=aaab04c24eee6e06ccc962a6fd0fcf2f"
  },
  {
   "link": "/REMA-1000?publication=COoa9IZt&offer=UdMa04neYyAow_IoTuhlr",
