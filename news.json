@@ -1,5 +1,14 @@
 [
  {
+  "title": "Er du bekymret over droner og ubesvarede spørgsmål? Her er eksperternes råd til dig",
+  "description": "Flere danskere fortæller til os i DR, at droneangrebene kan give en følelse af utryghed.",
+  "link": "https://www.dr.dk/nyheder/indland/er-du-bekymret-over-droner-og-ubesvarede-spoergsmaal-her-er-eksperternes-raad-til-dig",
+  "published": "Sun, 05 Oct 2025 08:30:00 GMT",
+  "guid": "urn:dr:umbraco:article:77dc149a-6ba2-4147-b0fb-ec23c04cba65",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F3mxjd1wx%2F20250922-212016-l.jpg&w=1200"
+ },
+ {
   "title": "Eksperter: Ubesvarede spørgsmål om droner giver utryghed og konspirationsteorier",
   "description": "Myndighederne skal være tydelige omkring, hvad de ved og ikke ved, siger ekspert.",
   "link": "https://www.dr.dk/nyheder/indland/eksperter-ubesvarede-spoergsmaal-om-droner-giver-utryghed-og-konspirationsteorier",
@@ -166,15 +175,6 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F09%2F17%2Fphoto_collage.jpg&w=1200"
  },
  {
-  "title": "Borgere: Nej tak til energipark. Politikere: nej tak til folkeafstemning",
-  "description": "Lokale modstandere af en syv kilometer lang energipark ved naturområdet Store Vildmose ønsker en folkeafstemning, men et flertal med borgmesteren sagde nej.",
-  "link": "https://www.dr.dk/nyheder/indland/borgere-nej-tak-til-energipark-politikere-nej-tak-til-folkeafstemning",
-  "published": "Fri, 19 Sep 2025 16:30:00 GMT",
-  "guid": "urn:dr:drupal:article:0cb3ed53-3c29-4b20-8908-6352e661d5a3",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fcrop%2F2025%2F09%2F19%2F1758275756_demonstration.jpg&w=1200"
- },
- {
   "title": "Blæsende dag i vente – op til kuling flere steder",
   "description": "<p>Det bliver en blæsende dag, og flere steder ved kysterne kan vinden nå op omkring kulingstyrke, fortæller Jens Ringgaard fra TV 2 Vejret.</p><p>Det betyder, at der kommer kraftige vindstød i forbindelse med bygerne, men der vil også være perioder med ophold indimellem.</p><p>Der driver byger ind over landet i løbet af dagen og organiserer sig i linjer, hvilket kan give mere sammenhængende regn. Temperaturen holder sig omkring 12 til 13 grader.</p><p>I løbet af eftermiddagen bevæger en ny bygelinje sig ind over landet, og vinden drejer over i nordlig retning, men forbliver frisk til hård. Hen mod aftenen ventes det dog at blive overvejende tørt med temperaturer omkring 12 grader.</p> <p>Spørg Solvej Vindblæs om vejret lige præcis, hvor du er henne.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/blaesende-dag-i-vente-op-til-kuling-flere-steder-84fbb",
@@ -279,6 +279,14 @@
   "category": "Nyheder"
  },
  {
+  "title": "Jeg opdagede det selv ved køledisken. Derfor har dagligvarebutikkerne fået travlt med at hæve priserne",
+  "description": "En ny, omdiskuteret afgift gør nu sit indtog i dagligvarehandlen. Og det, der skulle opveje højere priser på alt fra pastasauce til æg, bliver måske ikke billigere alligevel",
+  "link": "https://nordjyske.dk/nyheder/erhverv/derfor-har-dagligvarebutikkerne-travlt-med-at-udskifte-prisskilte/5759283?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 02 Oct 2025 14:31:20 Z",
+  "guid": "b28033a3-5031-4a6f-86e6-ff07ea107a67",
+  "category": "Privatøkonomi"
+ },
+ {
   "title": "De forvandlede eventyr til en levevej. Jeg tog aldrig af sted",
   "description": "Jonas Paluch og Kasper Momme gør det, jeg aldrig fik gjort – og derfor måtte jeg møde dem",
   "link": "https://nordjyske.dk/nyheder/vores-liv/jonas-og-kasper-udlever-journalistens-gamle-droem-med-kamera-og-214-000-foelgere/5728756?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -373,14 +381,6 @@
   "published": "Fri, 03 Oct 2025 03:53:25 Z",
   "guid": "33f05276-8bd8-4866-8f3b-d4810e590a67",
   "category": "Erhvervskvinderne"
- },
- {
-  "title": "Jeg opdagede det selv ved køledisken. Derfor har dagligvarebutikkerne fået travlt med at hæve priserne",
-  "description": "En ny, omdiskuteret afgift gør nu sit indtog i dagligvarehandlen. Og det, der skulle opveje højere priser på alt fra pastasauce til æg, bliver måske ikke billigere alligevel",
-  "link": "https://nordjyske.dk/nyheder/erhverv/derfor-har-dagligvarebutikkerne-travlt-med-at-udskifte-prisskilte/5759283?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 02 Oct 2025 14:31:20 Z",
-  "guid": "b28033a3-5031-4a6f-86e6-ff07ea107a67",
-  "category": "Privatøkonomi"
  },
  {
   "title": "Lægerne har givet Sander Sagosen grønt lys",
