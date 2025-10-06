@@ -175,6 +175,14 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F09%2F17%2Fphoto_collage.jpg&w=1200"
  },
  {
+  "title": "- Vi skal sætte en stopper for Putins krigsmaskine",
+  "description": "<p>I 1930&#039;erne lykkedes det myndighederne at få gangsterbossen Al Capone dømt for skattesvig. På den måde fik man fældet ham, selvom man ikke kunne finde beviser for drab, smugling eller anden grov kriminalitet.</p><p>Det lagde navn til Al Capone-metoden, som senere er blevet brugt for at bekæmpe bandekriminalitet, og måske er det denne fremgangsmåde, den danske regering har ladet sig inspirere af i forhold til at komme den russiske skyggeflåde til livs.</p><p>I en pressemeddelelse fortæller regeringen mandag, at man vil øge miljøkontrollen med tankskibe, der ligger for anker ved Skagen Red, som er et knudepunkt for skibstrafik i Østersøen.</p><p>- Vi ved, at der er en del trafik bestående af ældre skibe, der sejler igennem dansk farvand, og de udgør en særlig risiko for vores havmiljø. Derfor strammer vi nu kontrollen med helt grundlæggende miljøregler, så vi kan sætte mere effektivt og konsekvent ind over for tankskibe og den russiske skyggeflåde, siger miljøminister Magnus Heunicke (S).</p> <h2>Kæmper mod Putin</h2><p>Indsatsen sker, fordi der ifølge regeringen er øget aktivitet af ældre skibe, der blandt andet transporterer sanktionsbelagt olie gennem de danske farvande.</p><p>- Vi skal sætte en stopper for Putins krigsmaskine. Det gælder også den russiske skyggeflåde. Vi tager alle værktøjer i brug. Vi ved fra vores sikkerhedskontroller på Skagen Red, at der blandt disse skibe er gamle og slidte skibe, der sejler rundt. Derfor intensiverer vores myndigheder nu kontrollen, så vi passer på Danmark og dansk farvand, siger erhvervsminister Morten Bødskov (S).</p><p>Fremover vil Søfartsstyrelsen i samarbejde med Miljøstyrelsen gennemføre flere miljøtilsyn med skibene for at sikre, at de lever op til miljøreglerne om blandt andet håndtering af affald, ophugningscertifikater og krav til brændstof.</p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/oger-kontrollen-ved-skagen-vi-skal-saette-en-stopper-for-putins-krigsmaskine-69a9c",
+  "published": "Mon, 06 Oct 25 06:40:00 +0200",
+  "guid": "https://www.tv2nord.dk/frederikshavn/oger-kontrollen-ved-skagen-vi-skal-saette-en-stopper-for-putins-krigsmaskine-69a9c",
+  "category": "No category"
+ },
+ {
   "title": "Mand død efter ulykke",
   "description": "<p>En 55-årig mand har mistet livet efter en ulykke søndag aften ved havnen i Hanstholm.</p><p>Det oplyser Rasmus Poulsen, som er vagtchef ved Midt- og Vestjyllands Politi, til TV MIDTVEST.</p><p>- Manden blev erklæret død kort efter redningsaktionen. Der er tale om en lokal mand fra Hanstholm, og de pårørende er orienteret, oplyser vagtchefen.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/thisted/mand-dod-efter-ulykke-f7d24",
@@ -247,14 +255,6 @@
   "category": "No category"
  },
  {
-  "title": "Varsler om kraftige vindstød og oversvømmelser",
-  "description": "<p>Amy har ikke lagt sig helt fladt ned endnu.</p><p>Stormen ruskede godt og grundigt gang i Nordjylland, og var skyld i, at flere arrangementer blev aflyst.</p><p>Men det voldsomme vejr er ikke ovre. Lavtrykket bevæger sig ind over Danmark og ventes at ramme især Thisted, Morsø og Vesthimmerlands Kommune med kraftige vindstød og store mængder regn. </p><p>DMI har udsendt varsler om både kraftig regn, stormende kuling og vindstød af stormstyrke langs den jyske vestkyst. Der er risiko for op til 30-50 mm regn i løbet af søndagen, og vinden kan skabe problemer for både trafikken og kystnære områder.</p><p>TV 2 Vejret har også udsendt varsel for vindstød af stormstyrke gældende fra klokken 16 til 23 søndag aften. Bygerne ventes at aftage i løbet af natten, men indtil da kan der være lokale oversvømmelser og kraftige vindstød.</p><p>Samtidig varsler DMI forhøjet vandstand i Vadehavet, langs Vestkysten og i Limfjorden. I den vestlige del af Limfjorden kan vandstanden nå op mellem 1,3 og 1,5 meter omkring middagstid.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/varsler-om-kraftige-vindstod-og-oversvommelser-72503",
-  "published": "Sun, 05 Oct 25 18:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/varsler-om-kraftige-vindstod-og-oversvommelser-72503",
-  "category": "No category"
- },
- {
   "title": "55-årig afgået ved døden efter dramatisk rednings-aktion i Hanstholm",
   "description": "",
   "link": "https://nordjyske.dk/nu/redningsaktion-fire-maend-i-havsnoed-ved-hanstholm/ed2509c2-2b31-49c7-a949-904c9476e319?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -263,7 +263,7 @@
   "category": "Nyheder"
  },
  {
-  "title": "Dyre vandhaner på NAU kan ikke give koldt vand - og det kan være et stort problem",
+  "title": "Du kan ikke tage et glas vand fra vandhanen på stuen på supersygehuset",
   "description": "Ny træls sag på Nyt Aalborg Universitetshospital få måneder før indflytning",
   "link": "https://nordjyske.dk/nyheder/sundhed/dyre-vandhaner-paa-supersygehus-kan-ikke-give-koldt-vand/5754023?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 06 Oct 2025 03:59:21 Z",
@@ -287,12 +287,12 @@
   "category": "Militær"
  },
  {
-  "title": "10-årig ramt af bil bagfra på mørk landevej",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/10-aarig-ramt-af-bil-bagfra-paa-moerk-landevej/edd752d1-63ee-4393-8a40-9d99f597de42?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 05 Oct 2025 19:00:25 Z",
-  "guid": "edd752d1-63ee-4393-8a40-9d99f597de42",
-  "category": "Nyheder"
+  "title": "“Pengene forsvandt bare” – så ændrede Ann én ting og kunne sætte 11.000 kroner ind på opsparingen",
+  "description": "En måneds købestop afslørede ikke bare familien Hvarregaards forbrugsmønstre, men brød dem også - og gevinsten var overvældende",
+  "link": "https://nordjyske.dk/nyheder/vores-liv/pengene-forsvandt-bare-saa-aendrede-ann-n-ting-og-kunne-saette-11-000-kroner-ind-paa-opsparingen/5739997?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 03 Oct 2025 08:11:24 Z",
+  "guid": "86ba5b37-ae36-4625-aab9-f0960fa8bc1d",
+  "category": "Penge i familien"
  },
  {
   "title": "Jeg overlod pottetræningen til børnehavens pædagoger - var det genialt eller bare dovent?",
@@ -301,6 +301,14 @@
   "published": "Sun, 05 Oct 2025 17:29:49 Z",
   "guid": "d7791939-7524-45d0-aeaf-5e15ad91f0cd",
   "category": "Familieliv"
+ },
+ {
+  "title": "10-årig ramt af bil bagfra på mørk landevej",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/10-aarig-ramt-af-bil-bagfra-paa-moerk-landevej/edd752d1-63ee-4393-8a40-9d99f597de42?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 05 Oct 2025 19:00:25 Z",
+  "guid": "edd752d1-63ee-4393-8a40-9d99f597de42",
+  "category": "Nyheder"
  },
  {
   "title": "Sådan føles det at sælge sin virksomhed for millioner efter at have overlevet en dødsdom",
@@ -333,14 +341,6 @@
   "published": "Sun, 05 Oct 2025 04:58:52 Z",
   "guid": "fbf1f66a-d92e-4d55-a947-ca864d07134e",
   "category": "Privatøkonomi"
- },
- {
-  "title": "Politiet kommer med opsang efter fund af afskudte nødblus ved Hals",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/politiet-kommer-med-opsang-efter-fund-af-afskudte-noedblus-ved-hals/2a2dd98c-eed2-45f1-869e-cfbb2f41eae2?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 05 Oct 2025 11:21:07 Z",
-  "guid": "2a2dd98c-eed2-45f1-869e-cfbb2f41eae2",
-  "category": "Nyheder"
  },
  {
   "title": "Jeg opdagede det selv ved køledisken. Derfor har dagligvarebutikkerne fået travlt med at hæve priserne",
@@ -391,27 +391,27 @@
   "category": "Uddannelse"
  },
  {
-  "title": "“Pengene forsvandt bare” – så ændrede Ann én ting og kunne sætte 11.000 kroner ind på opsparingen",
-  "description": "En måneds købestop afslørede ikke bare familien Hvarregaards forbrugsmønstre, men brød dem også - og gevinsten var overvældende",
-  "link": "https://nordjyske.dk/nyheder/vores-liv/pengene-forsvandt-bare-saa-aendrede-ann-n-ting-og-kunne-saette-11-000-kroner-ind-paa-opsparingen/5739997?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 03 Oct 2025 08:11:24 Z",
-  "guid": "86ba5b37-ae36-4625-aab9-f0960fa8bc1d",
-  "category": "Penge i familien"
+  "title": "Til daglig er han lektor, men i fritiden er Jakob Zinck Thellufsen træner for et af landets bedste hold i en lille sportsgren",
+  "description": "Jakob Zinck Thellufsen tjener ikke en rød reje på amerikansk fodbold, men alligevel har interessen i perioder krævet næsten dobbelt så mange timer som hans dagjob",
+  "link": "https://nordjyske.dk/nyheder/sport/til-daglig-er-han-lektor-men-i-fritiden-er-jakob-zinck-thellufsen-traener-for-et-af-landets-bedste-hold-i-en-lille-sportsgren/5756485?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 04 Oct 2025 05:25:10 Z",
+  "guid": "505a5b74-8ad4-473f-b452-01c8ab7e6223",
+  "category": "Sport"
  },
  {
-  "title": "Redningsaktion ved Hals afblæst efter en times eftersøgning",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/stoerre-redningsaktion-ved-hals-noedblus-set-over-havet/5de84e88-fda6-4ad7-b85a-af840f423459?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 04 Oct 2025 18:47:20 Z",
-  "guid": "5de84e88-fda6-4ad7-b85a-af840f423459",
-  "category": "Nyheder"
+  "title": "Havnen i Aalborg har mistet næsten al containertrafik. Det er helt bevidst",
+  "description": "Selvom containertrafikken i Aalborg er styrtdykket, viser regnskab millionoverskud og stigende vækst. For en ny strategi er i gang med at manifestere sig",
+  "link": "https://nordjyske.dk/nyheder/erhverv/paa-havnen-i-aalborg-er-naesten-al-containertrafik-forsvundet-det-er-helt-bevidst/5760933?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 04 Oct 2025 03:41:51 Z",
+  "guid": "b7f5f772-1613-4c75-9c9e-1677d7c3d999",
+  "category": "Erhverv"
  },
  {
-  "title": "Amy har forladt Nordjylland",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/amy-har-forladt-nordjylland/20b32d8a-6255-471c-aee9-cd714cefa526?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 04 Oct 2025 09:55:47 Z",
-  "guid": "20b32d8a-6255-471c-aee9-cd714cefa526",
-  "category": "Nyheder"
+  "title": "Hun har solgt alt, sat sig på et fly til Mauritius og vender nu hele sit arbejdsliv på hovedet",
+  "description": "Ann Rosenskjold har i hele sin karriere udfordret status quo. Men nu tager hun sit hidtil største spring for at udleve den drøm, der har eksisteret i 10 år",
+  "link": "https://nordjyske.dk/nyheder/erhverv/hun-har-solgt-alt-sat-sig-paa-et-fly-til-mauritius-og-vender-nu-hele-sit-arbejdsliv-paa-hovedet/5737767?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 03 Oct 2025 03:53:25 Z",
+  "guid": "33f05276-8bd8-4866-8f3b-d4810e590a67",
+  "category": "Erhvervskvinderne"
  }
 ]
