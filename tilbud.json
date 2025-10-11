@@ -72,20 +72,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfxriwTdR%2Fp-5.webp&w=300&x1r=0.33&x2r=0.7588&y1r=0.3492&y2r=0.5126&s=d1759b5191751110c03ba953fd7ebd4d"
  },
  {
-  "link": "/fotex?publication=PB1unlsL&offer=No7_1dAf97GEnWAGnw3Jb",
-  "price": "135",
-  "currency": "DKK",
-  "valid_from": "09-10-2025",
-  "valid_until": "16-10-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPB1unlsL%2Fp-52.webp&w=300&x1r=0.0068&x2r=0.6754&y1r=0.0124&y2r=0.3627&s=8dd06bcc842b3be809c11722c6ffd764"
- },
- {
   "link": "/MENY?publication=fxriwTdR&offer=anSUM936Lh7WMH93gnyuw",
   "price": "112",
   "currency": "DKK",
   "valid_from": "09-10-2025",
   "valid_until": "16-10-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfxriwTdR%2Fp-33.webp&w=300&x1r=0.0224&x2r=0.4922&y1r=0.7532&y2r=0.9805&s=b21022cd49e2419ed925beee4e2e57c3"
+ },
+ {
+  "link": "/fotex?publication=PB1unlsL&offer=No7_1dAf97GEnWAGnw3Jb",
+  "price": "135",
+  "currency": "DKK",
+  "valid_from": "09-10-2025",
+  "valid_until": "16-10-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPB1unlsL%2Fp-52.webp&w=300&x1r=0.0068&x2r=0.6754&y1r=0.0124&y2r=0.3627&s=8dd06bcc842b3be809c11722c6ffd764"
  },
  {
   "link": "/SPAR?publication=cN6z2-1a&offer=iFXruyxAr1y9_oFK5u-jL",
@@ -166,6 +166,14 @@
   "valid_from": "07-10-2025",
   "valid_until": "28-10-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fkt7y6vsg%2Fp-15.webp&w=300&x1r=0.5029&x2r=0.9938&y1r=0.5685&y2r=0.8202&s=4bb4f594764632cc616d128379949ee2"
+ },
+ {
+  "link": "/Wolt-Market?publication=O-ZmRvw0&offer=pmHhs7JSQ4XdEJMt4JskK",
+  "price": "36",
+  "currency": "DKK",
+  "valid_from": "13-10-2025",
+  "valid_until": "20-10-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fff44bbae91bebe77278a448a6f5307de%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F10f0353402806f7088e173f4b87f3c50%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F1cd260cfce3442921637c0ed7e973a92&w=300&s=8f2efec66c5689d4464bc6440df3f586"
  },
  {
   "link": "/Kobmandsgarden?publication=fS85DxOQ&offer=i5He4j-UxRkwbg5zJsOFB",
