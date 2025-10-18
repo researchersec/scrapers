@@ -8,20 +8,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZ0DyLY6o%2Fp-1.webp&w=300&x1r=0.0162&x2r=0.3434&y1r=0.5149&y2r=0.782&s=5c50dc51ef25a7dfffe6045a9848c8cc"
  },
  {
-  "link": "/REMA-1000?publication=PQH5rLKD&offer=U0MNOVm-ctFL6_9PjM9tS",
-  "price": "15",
-  "currency": "DKK",
-  "valid_from": "11-10-2025",
-  "valid_until": "18-10-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPQH5rLKD%2Fp-6.webp&w=300&x1r=0.0081&x2r=0.5059&y1r=0.7296&y2r=0.9955&s=820db02cd13d86e67f20cec5cf993af0"
- },
- {
   "link": "/REMA-1000?publication=Rcx4Iv7s&offer=sAJpiHAMNeigbfEDxf0mX",
   "price": "5",
   "currency": "DKK",
   "valid_from": "18-10-2025",
   "valid_until": "25-10-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRcx4Iv7s%2Fp-1.webp&w=300&x1r=0.4991&x2r=0.9881&y1r=0.6938&y2r=0.9364&s=44a67783a62004194978a9fa760149c8"
+ },
+ {
+  "link": "/REMA-1000?publication=PQH5rLKD&offer=U0MNOVm-ctFL6_9PjM9tS",
+  "price": "15",
+  "currency": "DKK",
+  "valid_from": "11-10-2025",
+  "valid_until": "18-10-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPQH5rLKD%2Fp-6.webp&w=300&x1r=0.0081&x2r=0.5059&y1r=0.7296&y2r=0.9955&s=820db02cd13d86e67f20cec5cf993af0"
  },
  {
   "link": "/MENY?publication=Z0DyLY6o&offer=zaUg9TBVjK4-Xtyv2ls2u",
@@ -54,6 +54,14 @@
   "valid_from": "16-10-2025",
   "valid_until": "23-10-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FEM95Ka3V%2Fp-38.webp&w=300&x1r=0.4981&x2r=0.732&y1r=0.0349&y2r=0.9308&s=7708bc40a5fc30d73f7322abdfcb6f95"
+ },
+ {
+  "link": "/Wolt-Market?publication=x2PZbj4x&offer=ykENZdDiZkklNSqlrZQ7D",
+  "price": "8",
+  "currency": "DKK",
+  "valid_from": "20-10-2025",
+  "valid_until": "27-10-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fb8af9a0c461be5e42d08857a3d827737%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fa4b6e0496b92d528c483d031336047d8&w=300&s=5eb7787188c2ff491c81368681836ab5"
  },
  {
   "link": "/SPAR?publication=-ocKZNaB&offer=iCNBn4chJAwe-meBjnECg",
