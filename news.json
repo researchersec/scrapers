@@ -1,5 +1,14 @@
 [
  {
+  "title": "Veltrænet og næsten afklædt - Anders er single, og nu ved hele Aalborg det",
+  "description": "'Single? Skriv til mig'. Pludselig kunne Anders se sig selv hænge rundt omkring i lygtepælene i Aalborg.",
+  "link": "https://www.dr.dk/nyheder/indland/veltraenet-og-naesten-afklaedt-anders-er-single-og-nu-ved-hele-aalborg-det",
+  "published": "Sat, 18 Oct 2025 12:45:00 GMT",
+  "guid": "urn:dr:umbraco:article:2ac6bb85-20f0-4969-96a7-ecdde6722548",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fu55dcwcj%2Ftop-single_crop001.jpg&w=1200"
+ },
+ {
   "title": "Formand for Somalisk Forening: Ikke i orden at true nogen, som stiller op til et demokratisk valg",
   "description": "I Aalborg har byrådskandidat Kifaax Malin meldt en episode til politiet, hvor hun er blevet truet til at trække sig.",
   "link": "https://www.dr.dk/nyheder/indland/formand-somalisk-forening-ikke-i-orden-true-nogen-som-stiller-op-til-et-demokratisk-valg",
@@ -167,15 +176,6 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F3mxjd1wx%2F20250922-212016-l.jpg&w=1200"
  },
  {
-  "title": "Eksperter: Ubesvarede spørgsmål om droner giver utryghed og konspirationsteorier",
-  "description": "Myndighederne skal være tydelige omkring, hvad de ved og ikke ved, siger ekspert.",
-  "link": "https://www.dr.dk/nyheder/indland/eksperter-ubesvarede-spoergsmaal-om-droner-giver-utryghed-og-konspirationsteorier",
-  "published": "Sun, 05 Oct 2025 06:04:00 GMT",
-  "guid": "urn:dr:umbraco:article:c3272e8a-9061-48c6-a2e0-149438ef138a",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Ftr2fc4rk%2Fkpkr_a_indland_dronebekymring_voxer-00000003.jpg&w=1200"
- },
- {
   "title": "Vej spærret efter uheld",
   "description": "<p>Der skete lørdag eftermiddag et uheld på motorvej E45 fra Sæby mod Nørresundby mellem Hjallerup Enge og afkørsel 17 Lyngdrup.</p><p>Det oplyste Vejdirektoratet på trafikinfo klokken 13.49.</p><p>Vejen var kortvarigt spærret og blev genåbnet 14.05.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/vej-spaerret-efter-uheld-a3446",
@@ -256,14 +256,6 @@
   "category": "No category"
  },
  {
-  "title": "Uheld på E45 mellem Hjallerup Enge og Lyngdrup",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/uheld-paa-e45-mellem-hjallerup-enge-og-lyngdrup/a4f0e4aa-4aa7-458c-b405-437eb2b5c975?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 18 Oct 2025 12:04:05 Z",
-  "guid": "a4f0e4aa-4aa7-458c-b405-437eb2b5c975",
-  "category": "Nyheder"
- },
- {
   "title": "En kærlighedshistorie: Fodbold bragte dem sammen, men det har også skilt dem ad",
   "description": "Samantha og John forfølger deres drømme indenfor professionel fodbold - derfor lever ægteparret lige nu meget langt fra hinanden i Nordjylland og i Sydkorea. Men de har en plan",
   "link": "https://nordjyske.dk/nyheder/vores-liv/samantha-og-john-jagter-karrieredroemme-ogsaa-selvom-det-betyder-at-de-maa-bo-paa-hvert-sit-kontinent-lige-nu/5735508?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -302,6 +294,14 @@
   "published": "Fri, 17 Oct 2025 03:46:45 Z",
   "guid": "4145c758-5f8e-4c6f-8fa2-7f02b512ee11",
   "category": "byudvikling"
+ },
+ {
+  "title": "Uheld på E45 mellem Hjallerup Enge og Lyngdrup",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/uheld-paa-e45-mellem-hjallerup-enge-og-lyngdrup/a4f0e4aa-4aa7-458c-b405-437eb2b5c975?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 18 Oct 2025 12:04:05 Z",
+  "guid": "a4f0e4aa-4aa7-458c-b405-437eb2b5c975",
+  "category": "Nyheder"
  },
  {
   "title": "Puff barer findes nemt på snapchat, men de har store konsekvenser for unges hjerner",
