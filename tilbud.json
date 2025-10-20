@@ -144,6 +144,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMh6d9h2h%2Fp-23.webp&w=300&x1r=0.6509&x2r=0.9943&y1r=0.6752&y2r=0.9754&s=83f40b13573c8a913ffaf3a0eeb5b7c9"
  },
  {
+  "link": "/Fleggaard?publication=kxBS5TI6&offer=yVLxijr0jL0fiD772BK5v",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "21-10-2025",
+  "valid_until": "04-11-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkxBS5TI6%2Fp-1.webp&w=300&x1r=0.0214&x2r=0.6378&y1r=0.1167&y2r=0.4544&s=5aa815273b9e156ced229ac675fd66b9"
+ },
+ {
   "link": "/Scandinavian-Park?publication=uZr2BI_b&offer=1Eon0wv-RO7iTL3n6cA7a",
   "price": "74.99",
   "currency": "DKK",
@@ -198,14 +206,6 @@
   "valid_from": "24-09-2025",
   "valid_until": "29-10-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3QYrBWqF%2Fp-45.webp&w=300&x1r=0.3359&x2r=0.6615&y1r=0.5078&y2r=0.7542&s=de398b7bbd5d6aa0de52476170857c20"
- },
- {
-  "link": "/Fleggaard?publication=kxBS5TI6&offer=yVLxijr0jL0fiD772BK5v",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "21-10-2025",
-  "valid_until": "04-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkxBS5TI6%2Fp-1.webp&w=300&x1r=0.0214&x2r=0.6378&y1r=0.1167&y2r=0.4544&s=5aa815273b9e156ced229ac675fd66b9"
  },
  {
   "link": "/fotex?publication=EeLUQycV&offer=9WvZNrmplXgdHDWQ8hhKY",
