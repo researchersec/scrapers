@@ -184,6 +184,22 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5bGqU_Wd%2Fp-29.webp&w=300&x1r=0.0242&x2r=0.4804&y1r=0.7538&y2r=0.9823&s=94796753e39fc723fc918b2906e11f79"
  },
  {
+  "link": "/SPAR?publication=1Axx_y0N&offer=_rbKUtnYSw6V0lAkutK8p",
+  "price": "15",
+  "currency": "DKK",
+  "valid_from": "23-10-2025",
+  "valid_until": "30-10-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1Axx_y0N%2Fp-11.webp&w=300&x1r=0.0414&x2r=0.295&y1r=0.4831&y2r=0.81&s=31ee92f4ec141e0caca9d468d4d26db5"
+ },
+ {
+  "link": "/MENY?publication=5bGqU_Wd&offer=dOO2Gt3cfo1fIM-g-hU2M",
+  "price": "135",
+  "currency": "DKK",
+  "valid_from": "23-10-2025",
+  "valid_until": "30-10-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5bGqU_Wd%2Fp-29.webp&w=300&x1r=0.5089&x2r=0.9677&y1r=0.7643&y2r=0.9843&s=c7b9b0b448b10b0ba8e03632c9649cf6"
+ },
+ {
   "link": "/Min-Kobmand?publication=EIia6IoN&offer=ndiQ8nQx1xp-asjhT2Ngq",
   "price": "135",
   "currency": "DKK",
@@ -206,22 +222,6 @@
   "valid_from": "21-10-2025",
   "valid_until": "04-11-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
- },
- {
-  "link": "/SPAR?publication=1Axx_y0N&offer=_rbKUtnYSw6V0lAkutK8p",
-  "price": "15",
-  "currency": "DKK",
-  "valid_from": "23-10-2025",
-  "valid_until": "30-10-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1Axx_y0N%2Fp-11.webp&w=300&x1r=0.0414&x2r=0.295&y1r=0.4831&y2r=0.81&s=31ee92f4ec141e0caca9d468d4d26db5"
- },
- {
-  "link": "/MENY?publication=5bGqU_Wd&offer=dOO2Gt3cfo1fIM-g-hU2M",
-  "price": "135",
-  "currency": "DKK",
-  "valid_from": "23-10-2025",
-  "valid_until": "30-10-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5bGqU_Wd%2Fp-29.webp&w=300&x1r=0.5089&x2r=0.9677&y1r=0.7643&y2r=0.9843&s=c7b9b0b448b10b0ba8e03632c9649cf6"
  },
  {
   "link": "/SPAR?publication=1Axx_y0N&offer=_GDVG-NyEeaOOqTKOgPkV",
