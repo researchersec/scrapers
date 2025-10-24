@@ -24,20 +24,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRcx4Iv7s%2Fp-1.webp&w=300&x1r=0.4991&x2r=0.9881&y1r=0.6938&y2r=0.9364&s=44a67783a62004194978a9fa760149c8"
  },
  {
-  "link": "/SPAR?publication=1Axx_y0N&offer=ck3M2m3wpVMEfHIJg9JNk",
-  "price": "16",
-  "currency": "DKK",
-  "valid_from": "23-10-2025",
-  "valid_until": "30-10-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1Axx_y0N%2Fp-5.webp&w=300&x1r=0.4949&x2r=0.9435&y1r=0.5365&y2r=0.7347&s=32db7b987c0b6211baca98cfd25f5ae0"
- },
- {
   "link": "/SPAR?publication=1Axx_y0N&offer=tgtJkT3NH_qIuhxYm_2v8",
   "price": "8",
   "currency": "DKK",
   "valid_from": "23-10-2025",
   "valid_until": "30-10-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1Axx_y0N%2Fp-10.webp&w=300&x1r=0.0372&x2r=0.4744&y1r=0.4959&y2r=0.8068&s=99cc957b384efc22494e245ef5b5ce6f"
+ },
+ {
+  "link": "/SPAR?publication=1Axx_y0N&offer=ck3M2m3wpVMEfHIJg9JNk",
+  "price": "16",
+  "currency": "DKK",
+  "valid_from": "23-10-2025",
+  "valid_until": "30-10-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1Axx_y0N%2Fp-5.webp&w=300&x1r=0.4949&x2r=0.9435&y1r=0.5365&y2r=0.7347&s=32db7b987c0b6211baca98cfd25f5ae0"
  },
  {
   "link": "/Wolt-Market?publication=x2PZbj4x&offer=ykENZdDiZkklNSqlrZQ7D",
@@ -174,14 +174,6 @@
   "valid_from": "28-10-2025",
   "valid_until": "25-11-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9ha8BHjb%2Fp-17.webp&w=300&x1r=0.5137&x2r=0.9991&y1r=0.5352&y2r=0.8079&s=d118574954c5635a49e10b47b8429443"
- },
- {
-  "link": "/Netto?publication=Mh6d9h2h&offer=_rGiM3RZQyic0EBnOGGGX",
-  "price": "79",
-  "currency": "DKK",
-  "valid_from": "17-10-2025",
-  "valid_until": "24-10-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMh6d9h2h%2Fp-23.webp&w=300&x1r=0.6509&x2r=0.9943&y1r=0.6752&y2r=0.9754&s=83f40b13573c8a913ffaf3a0eeb5b7c9"
  },
  {
   "link": "/Kobmandsgarden?publication=fS85DxOQ&offer=i5He4j-UxRkwbg5zJsOFB",
