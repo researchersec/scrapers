@@ -120,20 +120,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1Axx_y0N%2Fp-11.webp&w=300&x1r=0.0414&x2r=0.295&y1r=0.4831&y2r=0.81&s=31ee92f4ec141e0caca9d468d4d26db5"
  },
  {
-  "link": "/Fleggaard?publication=rrZ4j0gW&offer=k5jlTgpOAGzTVRoIB_Boo",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "21-10-2025",
-  "valid_until": "04-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
- },
- {
   "link": "/MENY?publication=5bGqU_Wd&offer=bwzHpWw9NdQThnf2ygLIK",
   "price": "112",
   "currency": "DKK",
   "valid_from": "23-10-2025",
   "valid_until": "30-10-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5bGqU_Wd%2Fp-29.webp&w=300&x1r=0.0242&x2r=0.4804&y1r=0.7538&y2r=0.9823&s=94796753e39fc723fc918b2906e11f79"
+ },
+ {
+  "link": "/Fleggaard?publication=rrZ4j0gW&offer=k5jlTgpOAGzTVRoIB_Boo",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "21-10-2025",
+  "valid_until": "04-11-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
  {
   "link": "/MENY?publication=5bGqU_Wd&offer=dOO2Gt3cfo1fIM-g-hU2M",
@@ -200,12 +200,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfS85DxOQ%2Fp-25.webp&w=300&x1r=0.0015&x2r=1&y1r=0.0512&y2r=0.972&s=33fcde8463364cc9328286e8a66b8fd1"
  },
  {
-  "link": "/Nielsen-Scan-Shop?publication=3QYrBWqF&offer=6LNvtPGCmauCwRtFF59qp",
+  "link": "/Nielsen-Scan-Shop?publication=3QYrBWqF&offer=ipvs9kz080TcqlF0PGJln",
   "price": "75",
   "currency": "DKK",
   "valid_from": "24-09-2025",
   "valid_until": "29-10-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVzWy6ZVP%2Fp-1.webp&w=300&x1r=0.5138&x2r=0.9979&y1r=0.519&y2r=0.9087&s=4b9651ededbb8b52b860fa87efd33b07"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3QYrBWqF%2Fp-45.webp&w=300&x1r=0&x2r=0.9838&y1r=0.0057&y2r=0.4931&s=33200d4fb460f3ae5d42fc7650056aac"
  },
  {
   "link": "/Nielsen-Scan-Shop?publication=3QYrBWqF&offer=GiYyxB-yf2J22TcIMQraC",
