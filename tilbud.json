@@ -104,20 +104,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1Axx_y0N%2Fp-11.webp&w=300&x1r=0.0414&x2r=0.295&y1r=0.4831&y2r=0.81&s=31ee92f4ec141e0caca9d468d4d26db5"
  },
  {
-  "link": "/Fleggaard?publication=rrZ4j0gW&offer=k5jlTgpOAGzTVRoIB_Boo",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "21-10-2025",
-  "valid_until": "04-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
- },
- {
   "link": "/MENY?publication=5bGqU_Wd&offer=dOO2Gt3cfo1fIM-g-hU2M",
   "price": "135",
   "currency": "DKK",
   "valid_from": "23-10-2025",
   "valid_until": "30-10-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5bGqU_Wd%2Fp-29.webp&w=300&x1r=0.5089&x2r=0.9677&y1r=0.7643&y2r=0.9843&s=c7b9b0b448b10b0ba8e03632c9649cf6"
+ },
+ {
+  "link": "/Fleggaard?publication=rrZ4j0gW&offer=k5jlTgpOAGzTVRoIB_Boo",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "21-10-2025",
+  "valid_until": "04-11-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
  {
   "link": "/Wolt-Market?publication=1qTXiWGp&offer=muHwuwBVyBUnbrWxMYvyj",
@@ -192,12 +192,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3QYrBWqF%2Fp-45.webp&w=300&x1r=0.004&x2r=0.3386&y1r=0.5031&y2r=0.7525&s=0975c786635245e2bbf8b8cc535326ae"
  },
  {
-  "link": "/Scandinavian-Park?publication=ZRG2wnAa&offer=irtOtAdT8QYsQIwQYnpXx",
+  "link": "/Scandinavian-Park?publication=uZr2BI_b&offer=1Eon0wv-RO7iTL3n6cA7a",
   "price": "74.99",
   "currency": "DKK",
-  "valid_from": "29-10-2025",
+  "valid_from": "22-10-2025",
   "valid_until": "26-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZRG2wnAa%2Fp-2.webp&w=300&x1r=0.0056&x2r=0.6499&y1r=0.0158&y2r=0.5043&s=5efe3d5a75a583130c6024da743f813f"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuZr2BI_b%2Fp-20.webp&w=300&x1r=0.0057&x2r=0.6505&y1r=0.0155&y2r=0.5043&s=a282675ee220d86b8fb6d2906e59a388"
  },
  {
   "link": "/BorderShop?publication=DPaC0b18&offer=faVhGJBhoKyltIq2Th3NU",
