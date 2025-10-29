@@ -48,6 +48,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7jSMNGCa%2Fp-13.webp&w=300&x1r=0.1206&x2r=0.9927&y1r=0.0105&y2r=0.5178&s=6721090819bd0610418dbce90119b5a1"
  },
  {
+  "link": "/REMA-1000?publication=35SOIn4e&offer=65Tu0rdjH_-15v0PPCStq",
+  "price": "25",
+  "currency": "DKK",
+  "valid_from": "29-10-2025",
+  "valid_until": "01-11-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F35SOIn4e%2Fp-8.webp&w=300&x1r=0.1206&x2r=0.9927&y1r=0.0105&y2r=0.5178&s=786c15b5e6a65cc35a15892e5e80b8b4"
+ },
+ {
   "link": "/MENY?publication=5bGqU_Wd&offer=ZWjLx_nrtWlpi6QtuCjrt",
   "price": "32",
   "currency": "DKK",
@@ -160,6 +168,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9ha8BHjb%2Fp-17.webp&w=300&x1r=0.5137&x2r=0.9991&y1r=0.5352&y2r=0.8079&s=d118574954c5635a49e10b47b8429443"
  },
  {
+  "link": "/Netto?publication=6ipz8DrQ&offer=uvEViUjwjLO0R10VNkajv",
+  "price": "72",
+  "currency": "DKK",
+  "valid_from": "31-10-2025",
+  "valid_until": "07-11-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6ipz8DrQ%2Fp-29.webp&w=300&x1r=0.0055&x2r=0.3482&y1r=0.7108&y2r=0.9778&s=a0065a4e33cdeed332b7bbe3f286bd45"
+ },
+ {
   "link": "/Nielsen-Scan-Shop?publication=3QYrBWqF&offer=6LNvtPGCmauCwRtFF59qp",
   "price": "75",
   "currency": "DKK",
@@ -184,12 +200,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDPaC0b18%2Fp-11.webp&w=300&x1r=0.3438&x2r=0.6742&y1r=0.6076&y2r=0.9696&s=e5d531526b6bf9566090ef7ef9e29213"
  },
  {
-  "link": "/Scandinavian-Park?publication=ZRG2wnAa&offer=irtOtAdT8QYsQIwQYnpXx",
+  "link": "/Scandinavian-Park?publication=uZr2BI_b&offer=1Eon0wv-RO7iTL3n6cA7a",
   "price": "74.99",
   "currency": "DKK",
-  "valid_from": "29-10-2025",
+  "valid_from": "22-10-2025",
   "valid_until": "26-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZRG2wnAa%2Fp-2.webp&w=300&x1r=0.0056&x2r=0.6499&y1r=0.0158&y2r=0.5043&s=5efe3d5a75a583130c6024da743f813f"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuZr2BI_b%2Fp-20.webp&w=300&x1r=0.0057&x2r=0.6505&y1r=0.0155&y2r=0.5043&s=a282675ee220d86b8fb6d2906e59a388"
  },
  {
   "link": "/Kobmandsgarden?publication=VngZhrfx&offer=RKjqMGVJovbciIhSOn1pT",
