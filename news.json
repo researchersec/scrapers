@@ -179,8 +179,16 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fnhmdo002%2Ffaarup-1.jpg&w=1200"
  },
  {
+  "title": "Lastbil i brand - motorvej er spærret",
+  "description": "<p>En lastbil er fredag formiddag brudt i brand på motorvej E45 syd for Aalborg ved 9.30-tiden.</p><p>Det skriver Nordjyllands Beredskab på X.</p><p>Klokken 9.52 er motorvejen spærret efter afkørsel 30 Støvring N, og den forventes ifølge Vejdirektoratet først genåbnet til middag. Af den grund er der lang kø på motorvejen.</p><p>&#039;Der arbejdes på at åbne et spor i løbet af formiddagen, og oprydningsarbejdet forventes afsluttet omkring middag&#039;, lyder meldingen 10.05.</p><p>Station Støvring er kørt ud til branden, der indtraf i det sydgående spor af motorvejen før afkørsel 31.</p><p>Meldigen går på, at det er en overtændt asfaltslastbil, skriver beredskabet. Slukningen er i gang.</p><p>Opdateres...</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/rebild/lastbil-i-brand-pa-motorvej-97249",
+  "published": "Fri, 31 Oct 25 09:38:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/rebild/lastbil-i-brand-pa-motorvej-97249",
+  "category": "No category"
+ },
+ {
   "title": "Aalborg Håndbold henter Wiesmach-erstatning",
-  "description": "<p>Aalborg Håndbold handler hurtigt.</p><p>De danske mestre har hentet den hollandske fløjspiller Alec Smit for resten af sæsonen. Det oplyser lubben i en pressemeddelelsen.</p> <p>Heri lyder det videre, at man har sikret sig den rutinerede hollænder som erstatning for langstidsskadede Patrick Wiesmach.</p><p> - Det var som udgangspunkt planen at vi skulle vente og se i forhold til at hente en erstatning for Patrick, men kort efter fik vi mulighed for at se Alec nærmere an, hvorfor han har trænet med hos os i denne uge, siger teammanager Martin Larsen, og det fik dem altså til at slå til med det samme.</p><p>Alec Smit kan få debut 6. november, når Aalborg Håndbold hjemme tager imod Ribe-Esbjerg.</p>",
+  "description": "<p>Aalborg Håndbold handler hurtigt.</p><p>De danske mestre har hentet den hollandske fløjspiller Alec Smit for resten af sæsonen. Det oplyser lubben i en pressemeddelelse.</p> <p>Heri lyder det videre, at man har sikret sig den rutinerede hollænder som erstatning for langstidsskadede Patrick Wiesmach.</p><p> - Det var som udgangspunkt planen at vi skulle vente og se i forhold til at hente en erstatning for Patrick, men kort efter fik vi mulighed for at se Alec nærmere an, hvorfor han har trænet med hos os i denne uge, siger teammanager Martin Larsen, og det fik dem altså til at slå til med det samme.</p><p>Alec Smit kan få debut 6. november, når Aalborg Håndbold hjemme tager imod Ribe-Esbjerg.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-handbold-henter-wiesmach-erstatning-c6a76",
   "published": "Fri, 31 Oct 25 08:51:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-handbold-henter-wiesmach-erstatning-c6a76",
@@ -251,20 +259,20 @@
   "category": "No category"
  },
  {
-  "title": "Veteran kan ikke finde fleksjob - ikke engang kommunen vil ansætte ham",
-  "description": "<p>Torsdag er valgbussen nået til Hjørring, og denne gang taler vi med Jørn Stougaard Pedersen, der er 56 år gammel og bor i en lejlighed i det centrale Hjørring. </p><p>I to år har han forsøgt at få et fleksjob, men uden held.</p><p>Ja, ikke engang kommunen vil ansætte ham.</p><p>Jørns problem er, at han på grund af sit helbred ikke kan holde til et rengøringsjob, at arbejde som tjener eller havemand. Til gengæld har han 30 års erfaring i administrativt arbejde.</p><p>Det kan du læse mere om herunder.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/kv25/veteran-kan-ikke-finde-fleksjob-ikke-engang-kommunen-vil-ansaette-ham-13b44",
-  "published": "Thu, 30 Oct 25 21:02:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/kv25/veteran-kan-ikke-finde-fleksjob-ikke-engang-kommunen-vil-ansaette-ham-13b44",
-  "category": "No category"
- },
- {
   "title": "To medejere trækker sig fra direktionen i Autotorvet",
   "description": "En 25-årig tidligere afdelingsleder bliver nu kørt helt i front hos en af Nordjyllands største bilforhandlere",
   "link": "https://nordjyske.dk/nyheder/erhverv/to-medejere-traekker-sig-fra-direktionen-i-autotorvet/5795960?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Fri, 31 Oct 2025 04:40:53 Z",
   "guid": "cfe150cc-9362-4428-9762-5088917d5476",
   "category": "Erhverv"
+ },
+ {
+  "title": "Lastbil i brand på E45 ved Støvring: Et spor genåbnet",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/advarsel-lastbil-i-brand-paa-motorvej/905cc713-3002-43c6-91d8-16cff4b0cd4c?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 31 Oct 2025 08:33:03 Z",
+  "guid": "905cc713-3002-43c6-91d8-16cff4b0cd4c",
+  "category": "Nyheder"
  },
  {
   "title": "Nordjysk byggefirma med 26 ansatte konkurs",
@@ -409,13 +417,5 @@
   "published": "Wed, 29 Oct 2025 15:58:55 Z",
   "guid": "a52e272c-a104-4b36-b5b9-53c7e595bbb2",
   "category": "Nyheder"
- },
- {
-  "title": "Ingen ligasejr i to måneder og under nedrykningsstregen. Men Hobros cheftræner afviser krise",
-  "description": "Det er ikke krisetider i Hobro, selvom fodboldholdet har svært ved at vinde fodboldkampe og lige nu ligger til nedrykning.",
-  "link": "https://nordjyske.dk/nyheder/sport/ingen-ligasejr-i-to-maaneder-og-under-nedrykningsstregen-men-hobros-cheftraener-afviser-krise/5793766?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 29 Oct 2025 19:20:35 Z",
-  "guid": "31e94d36-5a65-42f5-82d2-f097d216479a",
-  "category": "Sport"
  }
 ]
