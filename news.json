@@ -179,8 +179,8 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fh0ihecpj%2Ftorp-i-top.jpeg&w=1200"
  },
  {
-  "title": "Derfor stemmer vi den 18. november?",
-  "description": "<p>Derfor stemmer vi den 18. november?</p>",
+  "title": "Derfor stemmer vi den 18. november",
+  "description": "<p>Derfor stemmer vi den 18. november</p>",
   "link": "https://www.tv2nord.dk/nordjylland/derfor-stemmer-vi-den-18-november-97b88",
   "published": "Sat, 01 Nov 25 09:00:00 +0100",
   "guid": "https://www.tv2nord.dk/nordjylland/derfor-stemmer-vi-den-18-november-97b88",
@@ -267,11 +267,11 @@
   "category": "Familieliv"
  },
  {
-  "title": "Redningsbåd kom til undsætning i buldermørke og hård sø",
+  "title": "Fedmealarm: Nordjyske kommuner i toppen af listen",
   "description": "",
-  "link": "https://nordjyske.dk/nu/redningsbaad-kom-til-undsaetning-i-buldermoerke-og-haard-soe/f231d700-dfeb-4ae9-863a-2cf45cad4e81?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 01 Nov 2025 06:39:42 Z",
-  "guid": "f231d700-dfeb-4ae9-863a-2cf45cad4e81",
+  "link": "https://nordjyske.dk/nu/fedmealarm-nordjyske-kommuner-i-toppen-af-listen/2c4d8765-67cb-4992-b0a7-eed9a5ecfdf8?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 01 Nov 2025 08:06:32 Z",
+  "guid": "2c4d8765-67cb-4992-b0a7-eed9a5ecfdf8",
   "category": "Nyheder"
  },
  {
@@ -291,14 +291,6 @@
   "category": "Nyheder"
  },
  {
-  "title": "Uligheden i adgangen til hospice er markant og uacceptabel",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/thisted/uligheden-i-adgangen-til-hospice-er-markant-og-uacceptabel/5797650?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 01 Nov 2025 08:05:35 Z",
-  "guid": "dd04d119-cc96-4b17-85b3-8922943c3c88",
-  "category": "Debat"
- },
- {
   "title": "Jeg bad mine børn vælge mellem halloween og sommerferie - og lærte en hård lektie om børnelogik",
   "description": "\"Hvordan lærer man bedst sine børn gode pengevaner?\" - det spørgsmål tog jeg livtag med, da halloween nærmede sig, og svaret blev lidt... uklart",
   "link": "https://nordjyske.dk/nyheder/vores-liv/jeg-ville-laere-mine-boern-noget-om-penge-det-endte-med-tre-kostumer-og-mudret-samvittighed/5797730?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -307,12 +299,28 @@
   "category": "Penge i familien"
  },
  {
+  "title": "Redningsbåd kom til undsætning i buldermørke og hård sø",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/redningsbaad-kom-til-undsaetning-i-buldermoerke-og-haard-soe/f231d700-dfeb-4ae9-863a-2cf45cad4e81?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 01 Nov 2025 06:39:42 Z",
+  "guid": "f231d700-dfeb-4ae9-863a-2cf45cad4e81",
+  "category": "Nyheder"
+ },
+ {
   "title": "To medejere trækker sig fra direktionen i Autotorvet",
   "description": "En 25-årig tidligere afdelingsleder bliver nu kørt helt i front hos en af Nordjyllands største bilforhandlere",
   "link": "https://nordjyske.dk/nyheder/erhverv/to-medejere-traekker-sig-fra-direktionen-i-autotorvet/5795960?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Fri, 31 Oct 2025 04:40:53 Z",
   "guid": "cfe150cc-9362-4428-9762-5088917d5476",
   "category": "Erhverv"
+ },
+ {
+  "title": "Uligheden i adgangen til hospice er markant og uacceptabel",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/thisted/uligheden-i-adgangen-til-hospice-er-markant-og-uacceptabel/5797650?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 01 Nov 2025 08:05:35 Z",
+  "guid": "dd04d119-cc96-4b17-85b3-8922943c3c88",
+  "category": "Debat"
  },
  {
   "title": "Cheftræner har flere valgmuligheder og tjekker vejrudsigten inden møde med bundprop",
@@ -409,13 +417,5 @@
   "published": "Thu, 30 Oct 2025 19:03:52 Z",
   "guid": "ba0029ea-48d4-4663-b261-a6e38aed26f6",
   "category": "Nyheder"
- },
- {
-  "title": "Enig bestyrelse stopper pludseligt samarbejdet med direktør",
-  "description": "Efter to år med markant fremgang stopper Dataproces’ administrerende direktør, Michael Binderup. Det har en enig bestyrelse besluttet",
-  "link": "https://nordjyske.dk/nyheder/erhverv/han-fordoblede-omsaetningen-og-skabte-millionoverskud-nu-er-direktoer-opsagt/5796075?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 30 Oct 2025 15:00:22 Z",
-  "guid": "5e710197-8c18-408d-bb63-ae00ef4a40c3",
-  "category": "Erhverv"
  }
 ]
