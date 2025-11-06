@@ -40,20 +40,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYUNPcZUx%2Fp-1.webp&w=300&x1r=0.0182&x2r=0.4852&y1r=0.2168&y2r=0.7924&s=15c7f88cf92ecabb10e9d5afddf2ad53"
  },
  {
-  "link": "/Min-Kobmand?publication=8lSyFzI8&offer=XJ2B8LQmaTfDl_WShZXGg",
-  "price": "99",
-  "currency": "DKK",
-  "valid_from": "06-11-2025",
-  "valid_until": "13-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8lSyFzI8%2Fp-1.webp&w=300&x1r=0.0348&x2r=0.9839&y1r=0.6057&y2r=0.868&s=84f65b04dc4e3048d7741bb4853784b0"
- },
- {
   "link": "/REMA-1000?publication=J7cR0wdT&offer=AdXcisNiIuxJaN8smUrAn",
   "price": "4.5",
   "currency": "DKK",
   "valid_from": "01-11-2025",
   "valid_until": "08-11-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJ7cR0wdT%2Fp-5.webp&w=300&x1r=0.0087&x2r=0.9776&y1r=0.5083&y2r=0.9888&s=8e6c9d0e439a4b40342bd8722fe3dcf3"
+ },
+ {
+  "link": "/Min-Kobmand?publication=8lSyFzI8&offer=XJ2B8LQmaTfDl_WShZXGg",
+  "price": "99",
+  "currency": "DKK",
+  "valid_from": "06-11-2025",
+  "valid_until": "13-11-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8lSyFzI8%2Fp-1.webp&w=300&x1r=0.0348&x2r=0.9839&y1r=0.6057&y2r=0.868&s=84f65b04dc4e3048d7741bb4853784b0"
  },
  {
   "link": "/MENY?publication=-nFsLrSY&offer=vfEtVEDMU5RL4cZltTkqJ",
@@ -176,12 +176,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5l23V3Tt%2Fp-1.webp&w=300&x1r=0.5836&x2r=0.9736&y1r=0.3643&y2r=0.619&s=7d3fe64f94d0090c106e333fd1340113"
  },
  {
-  "link": "/Scandinavian-Park?publication=uZr2BI_b&offer=1Eon0wv-RO7iTL3n6cA7a",
+  "link": "/Scandinavian-Park?publication=ZRG2wnAa&offer=irtOtAdT8QYsQIwQYnpXx",
   "price": "74.99",
   "currency": "DKK",
-  "valid_from": "22-10-2025",
+  "valid_from": "29-10-2025",
   "valid_until": "26-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuZr2BI_b%2Fp-20.webp&w=300&x1r=0.0057&x2r=0.6505&y1r=0.0155&y2r=0.5043&s=a282675ee220d86b8fb6d2906e59a388"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZRG2wnAa%2Fp-2.webp&w=300&x1r=0.0056&x2r=0.6499&y1r=0.0158&y2r=0.5043&s=5efe3d5a75a583130c6024da743f813f"
  },
  {
   "link": "/Scandlines-Travel-Shop?publication=of9didoH&offer=uIPhKz7K1vfZdnB9YVJDN",
