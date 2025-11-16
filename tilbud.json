@@ -104,20 +104,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9ha8BHjb%2Fp-17.webp&w=300&x1r=0.5137&x2r=0.9991&y1r=0.5352&y2r=0.8079&s=d118574954c5635a49e10b47b8429443"
  },
  {
-  "link": "/Otto-Duborg?publication=FmukgUKg&offer=DjrmoaUiFfu9J_KIH5GAF",
-  "price": "79.99",
-  "currency": "DKK",
-  "valid_from": "29-10-2025",
-  "valid_until": "26-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFmukgUKg%2Fp-19.webp&w=300&x1r=0.6033&x2r=0.9549&y1r=0.0859&y2r=0.3584&s=7c37d252734bdde5dad5ef341225bb6a"
- },
- {
   "link": "/Kobmandsgarden?publication=VngZhrfx&offer=RKjqMGVJovbciIhSOn1pT",
   "price": "79",
   "currency": "DKK",
   "valid_from": "28-10-2025",
   "valid_until": "25-11-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVngZhrfx%2Fp-19.webp&w=300&x1r=0&x2r=1&y1r=0.0642&y2r=0.9913&s=f0284493e3facea89f8cba21ac5b45cc"
+ },
+ {
+  "link": "/Otto-Duborg?publication=FmukgUKg&offer=DjrmoaUiFfu9J_KIH5GAF",
+  "price": "79.99",
+  "currency": "DKK",
+  "valid_from": "29-10-2025",
+  "valid_until": "26-11-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFmukgUKg%2Fp-19.webp&w=300&x1r=0.6033&x2r=0.9549&y1r=0.0859&y2r=0.3584&s=7c37d252734bdde5dad5ef341225bb6a"
  },
  {
   "link": "/Nielsen-Scan-Shop?publication=5l23V3Tt&offer=QzIeg-aasU8dQNW-KdbuI",
