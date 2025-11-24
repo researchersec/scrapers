@@ -291,27 +291,19 @@
   "category": "Debat"
  },
  {
-  "title": "På Erik Christensens topsikrede fabrik stikker indtjeningen af",
-  "description": "Manden bag Scanfiber Composites har fået sit gennembrud. Hans kunder tæller militær og de helt store forsvarsvirksomheder. Og det sjove er først lige begyndt",
-  "link": "https://nordjyske.dk/nyheder/erhverv/paa-erik-christensens-topsikrede-fabrik-stikker-indtjeningen-af/5824390?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 24 Nov 2025 14:52:56 Z",
-  "guid": "878f186f-827d-4d08-bc61-07eb3e53c435",
-  "category": "Erhverv"
- },
- {
-  "title": "Analyse: Alt kan stadig ske i Aalborg",
-  "description": "Kampen om posterne vil fortsætte helt frem til 3. december",
-  "link": "https://nordjyske.dk/nyheder/aalborg/analyse-alt-kan-stadig-ske-i-aalborg/5830267?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 24 Nov 2025 12:48:05 Z",
-  "guid": "87be4600-5a97-4215-a816-d37293f79247",
-  "category": "Kommunalvalg"
- },
- {
   "title": "Chef er færdig efter budget-chok i Frederikshavn",
   "description": "For få dage siden viste interne notater, at der var blevet flyttet rundt på udgifter. Nu er chef i Frederikshavn Kommune fortid",
   "link": "https://nordjyske.dk/nyheder/politik/efter-massivt-overforbrug-chef-er-faerdig/5830027?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 24 Nov 2025 10:56:26 Z",
   "guid": "0d2776fc-b3be-43c3-8bc3-9729a19c3590",
+  "category": "Erhverv"
+ },
+ {
+  "title": "På Erik Christensens topsikrede fabrik stikker indtjeningen af",
+  "description": "Manden bag Scanfiber Composites har fået sit gennembrud. Hans kunder tæller militær og de helt store forsvarsvirksomheder. Og det sjove er først lige begyndt",
+  "link": "https://nordjyske.dk/nyheder/erhverv/paa-erik-christensens-topsikrede-fabrik-stikker-indtjeningen-af/5824390?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 24 Nov 2025 14:52:56 Z",
+  "guid": "878f186f-827d-4d08-bc61-07eb3e53c435",
   "category": "Erhverv"
  },
  {
@@ -345,14 +337,6 @@
   "published": "Sun, 23 Nov 2025 18:22:53 Z",
   "guid": "c84b4bdf-d503-4af7-a7fd-d7aa95da36c9",
   "category": "Kommunalvalg"
- },
- {
-  "title": "Efter borgmester-drama søndag: Nu vil De Konservative af med Gamst",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/efter-borgmester-drama-soendag-nu-vil-de-konservative-af-med-gamst/93e01dd7-4f78-493b-9b9a-61b8931192b5?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 24 Nov 2025 11:05:44 Z",
-  "guid": "93e01dd7-4f78-493b-9b9a-61b8931192b5",
-  "category": "Nyheder"
  },
  {
   "title": "EH Aalborgs topscorer havde egentlig vinket farvel til håndbolddrømmen",
@@ -411,11 +395,27 @@
   "category": "Byudvikling i Aalborg"
  },
  {
+  "title": "Analyse: Alt kan stadig ske i Aalborg",
+  "description": "Kampen om posterne vil fortsætte helt frem til 3. december",
+  "link": "https://nordjyske.dk/nyheder/aalborg/analyse-alt-kan-stadig-ske-i-aalborg/5830267?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 24 Nov 2025 12:48:05 Z",
+  "guid": "87be4600-5a97-4215-a816-d37293f79247",
+  "category": "Kommunalvalg"
+ },
+ {
   "title": "Fortællingen er skrupforkert - børnefamilier er ikke mere stressede end lønmodtagere uden børn",
   "description": "Rapport fra Beskæftigelsesministeriet prikker hul på myten om de stressede børnefamilier",
   "link": "https://nordjyske.dk/nyheder/fortaellingen-er-skrupforkert-boernefamilier-er-ikke-mere-stressede-end-loenmodtagere-uden-boern/5804502?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sat, 22 Nov 2025 18:04:39 Z",
   "guid": "87615955-c74e-4c74-8f2a-bbc3a87fdbca",
   "category": "Familieliv"
+ },
+ {
+  "title": "Flertal pegede på Jes Lunde som borgmester i Aalborg - det troede han i hvert fald selv",
+  "description": "For første gang i hundrede år så det kortvarigt ud til, at borgmesteren i Aalborg blev Radikal",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/flertal-peger-paa-ny-borgmester-i-aalborg/5829062?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 23 Nov 2025 14:38:06 Z",
+  "guid": "ba5c7938-e64e-431b-a839-2966b70ecb05",
+  "category": "Kommunalvalg"
  }
 ]
