@@ -88,12 +88,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F137UTpn7%2Fp-30.webp&w=300&x1r=0.0111&x2r=0.9858&y1r=0.1827&y2r=0.6585&s=fc9d2457f4f91c71fd89fa53a328f6d7"
  },
  {
-  "link": "/fotex?publication=SA9Uh-ZU&offer=Qso8Kq29CCZXSDZr4BWVt",
+  "link": "/fotex?publication=XYhhL8c1&offer=V7UU6_pxKSLytjlJvVrWl",
   "price": "105",
   "currency": "DKK",
   "valid_from": "20-11-2025",
   "valid_until": "27-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSA9Uh-ZU%2Fp-25.webp&w=300&x1r=0.0035&x2r=0.5123&y1r=0.4843&y2r=0.9648&s=84136f1cd26cfe55dc293b22dcfcebf4"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7U_sFq32%2Fp-8.webp&w=300&x1r=0.0035&x2r=0.5123&y1r=0.4843&y2r=0.9648&s=835aedef06be1f9512527f2f254c2eb5"
  },
  {
   "link": "/REMA-1000?publication=JVCZOqH9&offer=TdDPwkGVB3gaLGoxHC8ig",
@@ -224,6 +224,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFmukgUKg%2Fp-19.webp&w=300&x1r=0.6033&x2r=0.9549&y1r=0.0859&y2r=0.3584&s=7c37d252734bdde5dad5ef341225bb6a"
  },
  {
+  "link": "/Fleggaard?publication=Ob2d2Kdd&offer=In5oO0i0yQkjqraaqSLJs",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "25-11-2025",
+  "valid_until": "09-12-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FOb2d2Kdd%2Fp-1.webp&w=300&x1r=0.6539&x2r=0.9845&y1r=0.5062&y2r=0.7432&s=d50d87af02ffb009ee406aa72044b1e3"
+ },
+ {
   "link": "/Nielsen-Scan-Shop?publication=5l23V3Tt&offer=QzIeg-aasU8dQNW-KdbuI",
   "price": "75",
   "currency": "DKK",
@@ -262,14 +270,6 @@
   "valid_from": "25-11-2025",
   "valid_until": "09-12-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fcq8HqC9K%2Fp-22.webp&w=300&x1r=0.3971&x2r=0.9997&y1r=0.5489&y2r=1&s=0a41c41c3f2e77e456de22ae17c72a8e"
- },
- {
-  "link": "/Fleggaard?publication=Ob2d2Kdd&offer=In5oO0i0yQkjqraaqSLJs",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "25-11-2025",
-  "valid_until": "09-12-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FOb2d2Kdd%2Fp-1.webp&w=300&x1r=0.6539&x2r=0.9845&y1r=0.5062&y2r=0.7432&s=d50d87af02ffb009ee406aa72044b1e3"
  },
  {
   "link": "/Kobmandsgarden?publication=G4vpktgO&offer=YHqWScW32WmjaSUIq-Bup",
