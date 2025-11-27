@@ -88,20 +88,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F137UTpn7%2Fp-19.webp&w=300&x1r=0.4969&x2r=0.9887&y1r=0.0138&y2r=0.4886&s=e1c0010cfc9927f233d74e3dd1eeebf2"
  },
  {
-  "link": "/SPAR?publication=nNr3puAL&offer=7Qp9UFyMaTpsOeepSxBs4",
-  "price": "99",
-  "currency": "DKK",
-  "valid_from": "20-11-2025",
-  "valid_until": "27-11-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnNr3puAL%2Fp-1.webp&w=300&x1r=0.0202&x2r=0.985&y1r=0.1435&y2r=0.5159&s=9048eeb2d3c4f67dcdde0e455779e2ae"
- },
- {
   "link": "/REMA-1000?publication=lwy0QGb4&offer=HjBw4QlmWbkRFFR_H4svS",
   "price": "4",
   "currency": "DKK",
   "valid_from": "29-11-2025",
   "valid_until": "06-12-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Flwy0QGb4%2Fp-7.webp&w=300&x1r=0.0124&x2r=0.5055&y1r=0.7305&y2r=0.995&s=ae67a1248309a85d2cb5129b4eb1df9e"
+ },
+ {
+  "link": "/SPAR?publication=nNr3puAL&offer=7Qp9UFyMaTpsOeepSxBs4",
+  "price": "99",
+  "currency": "DKK",
+  "valid_from": "20-11-2025",
+  "valid_until": "27-11-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnNr3puAL%2Fp-1.webp&w=300&x1r=0.0202&x2r=0.985&y1r=0.1435&y2r=0.5159&s=9048eeb2d3c4f67dcdde0e455779e2ae"
  },
  {
   "link": "/MENY?publication=137UTpn7&offer=jk_WPdpyxWSABBeHGeT-Q",
@@ -213,7 +213,7 @@
   "currency": "DKK",
   "valid_from": "27-11-2025",
   "valid_until": "04-12-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fs2zHTJcZ%2Fp-8.webp&w=300&x1r=0.4788&x2r=0.9926&y1r=0.5193&y2r=0.9734&s=5accf013acf02d5e1be64225e4ad8a89"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6_FLfKnv%2Fp-9.webp&w=300&x1r=0.4788&x2r=0.9926&y1r=0.5193&y2r=0.9734&s=b0a835243771b12309efa686ef2bd75b"
  },
  {
   "link": "/BorderShop?publication=AuF9FQjK&offer=EA8yN2W1bptmM0DoMPKVf",
@@ -222,6 +222,14 @@
   "valid_from": "04-11-2025",
   "valid_until": "30-12-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAuF9FQjK%2Fp-13.webp&w=300&x1r=0.2891&x2r=0.6913&y1r=0.5833&y2r=0.875&s=80cc044b2892c0c5aaedfc88f4bcf2ee"
+ },
+ {
+  "link": "/Min-Kobmand?publication=wqcGhh14&offer=6-AR4WNEIr6I8qzjZ8q4p",
+  "price": "38",
+  "currency": "DKK",
+  "valid_from": "27-11-2025",
+  "valid_until": "04-12-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwqcGhh14%2Fp-21.webp&w=300&x1r=0.0281&x2r=0.3498&y1r=0.6553&y2r=0.9817&s=5d0764935cc81a82069f00c6e0221c2f"
  },
  {
   "link": "/Bilka?publication=WXiPIK8d&offer=cDYUGK3t0WNN00bU5GSl5",
@@ -238,14 +246,6 @@
   "valid_from": "25-11-2025",
   "valid_until": "16-12-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6sSfZf-u%2Fp-1.webp&w=300&x1r=0.4964&x2r=0.9707&y1r=0.698&y2r=0.9316&s=f74b833b9d41311760d554277d282171"
- },
- {
-  "link": "/Min-Kobmand?publication=wqcGhh14&offer=6-AR4WNEIr6I8qzjZ8q4p",
-  "price": "38",
-  "currency": "DKK",
-  "valid_from": "27-11-2025",
-  "valid_until": "04-12-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwqcGhh14%2Fp-21.webp&w=300&x1r=0.0281&x2r=0.3498&y1r=0.6553&y2r=0.9817&s=5d0764935cc81a82069f00c6e0221c2f"
  },
  {
   "link": "/Calle?publication=tjW6uOp9&offer=pqJFOlEpqcwDMAV9ozxsR",
@@ -269,7 +269,7 @@
   "currency": "DKK",
   "valid_from": "27-11-2025",
   "valid_until": "04-12-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fs2zHTJcZ%2Fp-8.webp&w=300&x1r=0.0135&x2r=0.4989&y1r=0.5578&y2r=0.9677&s=a93ef55e085d189bef923f69b61947a5"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6_FLfKnv%2Fp-9.webp&w=300&x1r=0.0135&x2r=0.4989&y1r=0.5578&y2r=0.9677&s=380eb8948091145c976eb3539edab1b3"
  },
  {
   "link": "/Kobmandsgarden?publication=G4vpktgO&offer=YHqWScW32WmjaSUIq-Bup",
