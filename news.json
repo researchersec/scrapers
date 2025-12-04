@@ -252,28 +252,12 @@
   "category": "No category"
  },
  {
-  "title": "Få timer før endelig beslutning, vil partier have borgmestervalg udskudt",
+  "title": "Drama afblæst: Borgmester undgår udskydelse",
   "description": "<p>Torsdag aften er der byrådsmøde i Hjørring Kommune, hvor den nuværende borgmester Søren Smalbro (V) indtil videre har stået til at fortsætte på borgmesterposten. </p><p>Men timer før, kan der være usikkerhed om valget. </p><p>Vendelbolisten og Socialdemokratiet vil nemlig have valget udskudt på grund af mistanke om lovbrud begået af Søren Smalbro. </p>",
   "link": "https://www.tv2nord.dk/hjoerring/fa-timer-for-endelig-beslutning-vil-partier-have-borgmestervalg-udskudt-83136",
   "published": "Thu, 04 Dec 25 10:19:00 +0100",
   "guid": "https://www.tv2nord.dk/hjoerring/fa-timer-for-endelig-beslutning-vil-partier-have-borgmestervalg-udskudt-83136",
   "category": "No category"
- },
- {
-  "title": "Møde i aften: Sag om dødsulykke på plejehjem i Hjørring presser nu borgmesteren",
-  "description": "Oppositionen vil udskyde dagens konstituering: Begik borgmesteren lovbrud?",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/tvivl-i-sidste-oejeblik-vakler-stolen-under-smalbro/5844122?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 04 Dec 2025 09:09:29 Z",
-  "guid": "15704e66-f2fa-4195-b8c2-de2be7cfe92b",
-  "category": "Kommunalvalg"
- },
- {
-  "title": "Stor narko-aktion på tre nordjyske adresser: Tre personer fængslet",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/stor-narko-aktion-paa-tre-nordjyske-adresser-tre-personer-faengslet/4e3835c7-dec8-4998-9694-6023eb0d4f0a?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 04 Dec 2025 14:37:43 Z",
-  "guid": "4e3835c7-dec8-4998-9694-6023eb0d4f0a",
-  "category": "Nyheder"
  },
  {
   "title": "Mads Peter Veiby havde egentlig droslet ned. Så kom der et tilbud, han ikke kunne sige nej til",
@@ -282,6 +266,14 @@
   "published": "Thu, 04 Dec 2025 04:33:17 Z",
   "guid": "952a6c27-c0e5-42a6-ab6e-d6aa7e36e201",
   "category": "Erhverv"
+ },
+ {
+  "title": "Smalbro valgt som borgmester trods sag om tavshedspligt",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/smalbro-valgt-som-borgmester-trods-sag-om-tavshedspligt/b8609365-1d71-4472-b94e-45dcd4195815?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 04 Dec 2025 17:24:08 Z",
+  "guid": "b8609365-1d71-4472-b94e-45dcd4195815",
+  "category": "Nyheder"
  },
  {
   "title": "Mangeårig direktør stopper i milliardvirksomheden Nowaco",
@@ -300,12 +292,28 @@
   "category": "Vandmiljø"
  },
  {
+  "title": "Sag om dødsulykke på plejehjem i Hjørring presser nu borgmesteren",
+  "description": "Oppositionen vil udskyde dagens konstituering: Begik borgmesteren lovbrud?",
+  "link": "https://nordjyske.dk/nyheder/hjoerring/tvivl-i-sidste-oejeblik-vakler-stolen-under-smalbro/5844122?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 04 Dec 2025 09:09:29 Z",
+  "guid": "15704e66-f2fa-4195-b8c2-de2be7cfe92b",
+  "category": "Kommunalvalg"
+ },
+ {
   "title": "Regionens arbejde ændres markant. Sådan er de magtfulde poster fordelt",
   "description": "Regionsrådets størrelse og opgaver ændres fra 1. januar – nu er rollefordelingen endeligt på plads",
   "link": "https://nordjyske.dk/nyheder/politik/mads-duedahl-var-naesten-sikret-posten-paa-forhaand-nu-har-han-ogsaa-faaet-den-formelt/5843120?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Thu, 04 Dec 2025 11:01:27 Z",
   "guid": "eb7e382b-44f8-4ce5-aa2d-b1c0b68958a8",
   "category": "Kommunalvalg"
+ },
+ {
+  "title": "Stor narko-aktion på tre nordjyske adresser: Tre personer fængslet",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/stor-narko-aktion-paa-tre-nordjyske-adresser-tre-personer-faengslet/4e3835c7-dec8-4998-9694-6023eb0d4f0a?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 04 Dec 2025 14:37:43 Z",
+  "guid": "4e3835c7-dec8-4998-9694-6023eb0d4f0a",
+  "category": "Nyheder"
  },
  {
   "title": "Dødfunden mand i Vodskov er identificeret",
@@ -410,13 +418,5 @@
   "published": "Tue, 02 Dec 2025 12:12:20 Z",
   "guid": "f91145a8-5e75-45db-9372-1a6188e03f0a",
   "category": "Erhverv"
- },
- {
-  "title": "Mens Jens Hukiær kæmpede for livet, kæmpede hans pårørende også: - De er totalt magtesløse",
-  "description": "I denne artikelserie fortæller journalist Jens Hukiær om, hvordan hans møde med det nordjyske akutberedskab reddede hans liv. Dette er fjerde og sidste artikel i serien",
-  "link": "https://nordjyske.dk/nyheder/sundhed/mens-jens-hukiaer-kaempede-for-livet-kaempede-hans-paaroerende-ogsaa-de-er-totalt-magtesloese/5697533?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 29 Nov 2025 05:38:14 Z",
-  "guid": "1cfc90b9-5e85-4fe1-816d-48bc2deae82e",
-  "category": "Sekunder fra at dø"
  }
 ]
