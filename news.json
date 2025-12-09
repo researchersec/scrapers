@@ -1,5 +1,14 @@
 [
  {
+  "title": "Helene og Andreas har kæmpet i seks år: Nu håber de på dansk rugemor",
+  "description": "Et borgerforlag vil gøre det lovligt for rugemødre at blive befrugtet i Danmark. I dag skal det førstebehandles i folketinget.",
+  "link": "https://www.dr.dk/nyheder/indland/helene-og-andreas-har-kaempet-i-seks-aar-nu-haaber-de-paa-dansk-rugemor",
+  "published": "Tue, 09 Dec 2025 11:20:00 GMT",
+  "guid": "urn:dr:umbraco:article:3028e964-a0a5-4184-b895-79eaf129601e",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fwkepr14g%2Fhelene-og-andreas.jpg&w=1200"
+ },
+ {
   "title": "Småkager og julekort giver håb: 'Jeg kan læse det, hvis jeg bliver december-deprimeret'",
   "description": "Over 300 borgere og institutioner bakker op om traditionen, der spreder juleglæde til hjemløse og socialt udsatte – med personlige julekort, småkager og engle.",
   "link": "https://www.dr.dk/nyheder/indland/smaakager-og-julekort-giver-haab-jeg-kan-laese-det-hvis-jeg-bliver-december-deprimeret",
@@ -15,7 +24,7 @@
   "published": "Mon, 08 Dec 2025 11:48:00 GMT",
   "guid": "urn:dr:umbraco:article:4090b0f6-608a-4f4e-9c0e-b75ab393bcde",
   "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F25ajn0jo%2Fromkugle.jpg&w=1200"
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fd10cnbmo%2Fkim-groen.jpg&w=1200"
  },
  {
   "title": "Ni landsbyer tester el-cykler: Mest til fritid, ikke til job",
@@ -171,13 +180,20 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fij0fwrfi%2Fbenefit-top-proever-igen.png&w=1200"
  },
  {
-  "title": "Jagtformand advarer: Ulovlig jagt i Nordjylland kan koste liv",
-  "description": "Flere lokale har hørt skud i aften- og nattetimerne ved Hals Mose i Aalborg Kommune.",
-  "link": "https://www.dr.dk/nyheder/indland/jagtformand-advarer-ulovlig-jagt-i-nordjylland-kan-koste-liv",
-  "published": "Mon, 17 Nov 2025 20:35:00 GMT",
-  "guid": "urn:dr:umbraco:article:6688ab9d-cd55-439e-96c4-78aa5498e08e",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fmgwds0aj%2Fmorten_bruun_hals_jagtforeningjpg_crop001.jpeg&w=1200"
+  "title": "Vej åben igen efter uheld",
+  "description": "<p>Egensevej mellem Klarup og Storvorde var kortvarigt spærret tirsdag middag. </p><p>Det oplyste Nordjyllands Politi på X klokken 12.09. </p><p>Vejen var spærret i begge retninger som følge af et færdselsuheld.</p><p>&#039;Der er nu igen farbart på Egensevej og begge vognbaner er åbnet,&#039; skrev politiet cirka 10 minutter senere.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/benyt-anden-vej-vej-spaerres-efter-uheld-143b9",
+  "published": "Tue, 09 Dec 25 12:10:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/benyt-anden-vej-vej-spaerres-efter-uheld-143b9",
+  "category": "No category"
+ },
+ {
+  "title": "Ældre par stjal taxfree-varer for 61.000 kroner",
+  "description": "<p>En 75-årig tysk mand og en 71-årig norsk kvinde straffes med 50 dages ubetinget fængsel efter at have stjålet varer for flere tusinde kroner i taxfree-shoppen på Fjord Line-færgen mellem Hirtshals og Bergen. </p><p>Parret, som er bosat i Tyskland, har ad to omgange været forbi taxfree-shoppen og smuttet med især cremer og parfumer i hænderne uden at betale, fortæller Maiken Saaby, som er politikommissær hos Nordjyllands Politi i Hjørring.</p><p>Varerne har en samlet værdi på omkring 61.000 kroner.</p><p>Mandag formiddag blev de anholdt, og tirsdag morgen skulle de så stå for Retten i Hjørring. Her blev de idømt 50 dages fængsel. En dom, de valgte at modtage.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/aeldre-par-stjal-taxfree-varer-for-flere-tusinde-kroner-4d109",
+  "published": "Tue, 09 Dec 25 11:56:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/aeldre-par-stjal-taxfree-varer-for-flere-tusinde-kroner-4d109",
+  "category": "No category"
  },
  {
   "title": "'The Julekalender' kommer til Aalborg",
@@ -189,7 +205,7 @@
  },
  {
   "title": "- Der bliver rigtig stille, siger landmand",
-  "description": "<p>Det er knap en uge siden, at Lars Bredahl, økologisk ægproducent, bemærkede de første tegn på, at noget var galt.</p><p>- På en af mine runder gennem stalden i torsdags kunne jeg se, at flere af hønsene var døde. Fredag var det endnu endnu flere, og det tog bare til, fortæller Lars Bredahl.</p><p>Lørdag rekvirerede han dyrlægen, som med en quicktest konstaterede, at hønsene var ramt af fugleinfluenza. Herfra gik det stærkt. </p><p>- Dyrlægen kontaktede myndighederne, som vi skal ved mistanke om fugleinfluenza. Mandag kom der svar på deres prøver, og i det her øjeblik er de ved at planlægge aflivningen, siger ægproducenten til TV2 Nord tirsdag formiddag.</p><p>Senere på dagen ankommer en bil til gården med CO2, som skal fylde stalden og på den måde få de mange tusinde høns til at sove stille ind. </p><p>- Det er det bedste, der kan gøres nu, for det er ubehageligt at se mine dyr lide, forklarer Lars Bredahl og understreger, at sygdommen rammer hønsene hårdt.</p> <h2>Utryghed på vejen</h2><p>Risikoen for, at mennesker bliver smittet med fugleinfluenza, er lille. Derfor har Lars Bredahl heller ikke frygtet for sin eller sin kones sundhed. </p><p>- Personligt er vi jo mest blevet ramt på vores følelser, fordi det er voldsomt at stå i, men ikke med frygt. Men jeg kan godt forstå, at det skaber noget utryghed hos lokalbefolkningen, når en sygdom som den her kommer tæt på, siger Lars Bredahl.</p><p>Derfor har han også gjort, hvad han kan, for at være åben om situationen. Han har blandt andet skrevet ud på vejens Facebook-gruppe og stillet sig til rådighed for alle tænkelige spørgsmål.</p><p>- Der er jo nogen, der har henvendt sig, og det forstår jeg godt, for selvfølgelig giver det anledning til bekymring, når man hører &#039;fugleinfluenza&#039;.</p><p>Ifølge Statens Serum Institut er smitte til mennesker sjælden og sker typisk kun, hvis man har haft nærkontakt med syge fugle. Typisk vil det kun give lette symptomer, men der er dog varianter af virussen, som kan give alvorlig sygdom hos mennesker. </p><h2>Håber på høns til foråret</h2><p>Når hønsene er aflivet, bliver de hentet af myndighederne og kørt til destruktion på en forsvarlig måde. Lars Bredahl forventer, at det vil ske onsdag.</p><p>- Jeg er spændt på, hvordan det bliver følelsesmæssigt at se de her mennesker i rumdragter bære alle hønsene ud i en container. Jeg tror, at det vil give et gib, fortæller økologen. </p><p>Når fuglene er kørt væk, bliver der sat gang i en større rengøring, og så skal stalden testes for spor af fugleinfluenza, inden Lars Bredahl får grønt lys til at holde høns igen. Han håber selv, at de kan være klar til marts.</p><p><em>Der er jo nogle måneder til. Hvad skal du bruge tiden på frem til da?</em></p><p>- Det er et godt spørgsmål. Jeg tænker rigtig meget på, hvordan det bliver efter i morgen, når hønsene er kørt væk. Vi går jo fra en hverdag omkring dyr til, at der ikke er noget, og der kommer til at blive rigtig stille, siger Lars Bredahl og fortsætter:</p><p>- Jeg er sikker på, at min kone nok skal sætte mig i gang og pege på projekter, jeg kan kaste mig over. Og så skal vi gøre alt, vi kan, for at kunne få fugle tilbage i stalden så hurtigt som muligt.</p><p>Den næste tid vil myndighederne også gøre, hvad de kan for at lave smitteopsporing og finde mulige smittekilder, som forhåbentlig vil give Lars Bredahl noget viden, han kan bruge fremadrettet. På nuværende tidspunkt er det nemlig ikke fastslået, hvordan smitten ramte hans høns, omend han selv har en teori.</p><p>- Nogle hundrede meter væk ligger Gandrup Sø, som har været fyldt med svaner, og det er nærliggende at tro, at det kommer fra dem. </p>",
+  "description": "<p>Det er knap en uge siden, at Lars Bredahl, økologisk ægproducent, bemærkede de første tegn på, at noget var galt.</p><p>- På en af mine runder gennem stalden i torsdags kunne jeg se, at flere af hønsene var døde. Fredag var det endnu endnu flere, og det tog bare til, fortæller Lars Bredahl.</p><p>Lørdag rekvirerede han dyrlægen, som med en quicktest konstaterede, at hønsene var ramt af fugleinfluenza. Herfra gik det stærkt. </p><p>- Dyrlægen kontaktede myndighederne, som vi skal ved mistanke om fugleinfluenza. Mandag kom der svar på deres prøver, og i det her øjeblik er de ved at planlægge aflivningen, siger ægproducenten til TV2 Nord tirsdag formiddag.</p><p>Senere på dagen ankommer en bil til gården med CO2, som skal fylde stalden og på den måde få de mange tusinde høns til at sove stille ind. </p><p>- Det er det bedste, der kan gøres nu, for det er ubehageligt at se mine dyr lide, forklarer Lars Bredahl og understreger, at sygdommen rammer hønsene hårdt.</p> <h2>Utryghed på vejen</h2><p>Risikoen for, at mennesker bliver smittet med fugleinfluenza, er lille. Derfor har Lars Bredahl heller ikke frygtet for sin eller sin kones sundhed. </p><p>- Personligt er vi jo mest blevet ramt på vores følelser, fordi det er voldsomt at stå i, men ikke med frygt. Men jeg kan godt forstå, at det skaber noget utryghed hos lokalbefolkningen, når en sygdom som den her kommer tæt på, siger Lars Bredahl.</p><p>Derfor har han også gjort, hvad han kan, for at være åben om situationen. Han har blandt andet skrevet ud på vejens Facebook-gruppe og stillet sig til rådighed for alle tænkelige spørgsmål.</p><p>- Der er jo nogen, der har henvendt sig, og det forstår jeg godt, for selvfølgelig giver det anledning til bekymring, når man hører &#039;fugleinfluenza&#039;.</p><p>Ifølge Statens Serum Institut er smitte til mennesker sjælden og sker typisk kun, hvis man har haft nærkontakt med syge fugle. Typisk vil det kun give lette symptomer, men der er dog varianter af virussen, som kan give alvorlig sygdom hos mennesker.</p> <h2>Håber på høns til foråret</h2><p>Når hønsene er aflivet, bliver de hentet af myndighederne og kørt til destruktion på en forsvarlig måde. Lars Bredahl forventer, at det vil ske onsdag.</p><p>- Jeg er spændt på, hvordan det bliver følelsesmæssigt at se de her mennesker i rumdragter bære alle hønsene ud i en container. Jeg tror, at det vil give et gib, fortæller økologen. </p><p>Når fuglene er kørt væk, bliver der sat gang i en større rengøring, og så skal stalden testes for spor af fugleinfluenza, inden Lars Bredahl får grønt lys til at holde høns igen. Han håber selv, at de kan være klar til marts.</p><p><em>Der er jo nogle måneder til. Hvad skal du bruge tiden på frem til da?</em></p><p>- Det er et godt spørgsmål. Jeg tænker rigtig meget på, hvordan det bliver efter i morgen, når hønsene er kørt væk. Vi går jo fra en hverdag omkring dyr til, at der ikke er noget, og der kommer til at blive rigtig stille, siger Lars Bredahl og fortsætter:</p><p>- Jeg er sikker på, at min kone nok skal sætte mig i gang og pege på projekter, jeg kan kaste mig over. Og så skal vi gøre alt, vi kan, for at kunne få fugle tilbage i stalden så hurtigt som muligt.</p><p>Den næste tid vil myndighederne også gøre, hvad de kan for at lave smitteopsporing og finde mulige smittekilder, som forhåbentlig vil give Lars Bredahl noget viden, han kan bruge fremadrettet. På nuværende tidspunkt er det nemlig ikke fastslået, hvordan smitten ramte hans høns, omend han selv har en teori.</p><p>- Nogle hundrede meter væk ligger Gandrup Sø, som har været fyldt med svaner, og det er nærliggende at tro, at det kommer fra dem. </p>",
   "link": "https://www.tv2nord.dk/mariagerfjord/der-bliver-rigtig-stille-siger-landmand-0cd45",
   "published": "Tue, 09 Dec 25 10:11:00 +0100",
   "guid": "https://www.tv2nord.dk/mariagerfjord/der-bliver-rigtig-stille-siger-landmand-0cd45",
@@ -241,22 +257,6 @@
   "link": "https://www.tv2nord.dk/broenderslev/julestress-giver-kort-lunte-kobmand-opfordrer-til-ordentlig-tone-e7b25",
   "published": "Tue, 09 Dec 25 07:29:00 +0100",
   "guid": "https://www.tv2nord.dk/broenderslev/julestress-giver-kort-lunte-kobmand-opfordrer-til-ordentlig-tone-e7b25",
-  "category": "No category"
- },
- {
-  "title": "Lyse udsigter: Tirsdag kan solen skinne igen",
-  "description": "<p>Der har været gråt i det nordjyske det sidste stykke tid, men frygt ej, tirsdag er der atter mulighed for at få et glimt af solen. </p><p>Desværre er det en begrænset mulighed, da skyer dukker op i løbet af middagen. Nogle af skyerne er dog tynde, og giver mulighed for at solen kan skinne igennem.</p><p>Det fortæller TV 2 Vejrs Lone Seir. </p> <p>Knap så lyst ser det dog ud hen ad eftermiddagen og ud på aftentimerne, hvor der kommer regn og blæst. </p><p>- Til gengæld er det altså varme, det kommer sammen med, så temperaturerne er faktisk stigende helt op til de her 9-10 grader i aftentimerne, siger Lone Seir.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/lyse-udsigter-tirsdag-kan-solen-skinne-igen-ed49d",
-  "published": "Tue, 09 Dec 25 07:12:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/lyse-udsigter-tirsdag-kan-solen-skinne-igen-ed49d",
-  "category": "No category"
- },
- {
-  "title": "- Det er ikke så tit, man får sådan noget",
-  "description": "<p>Humøret var højt mandag klokken 11 på Bones i Hjørring. Der var nemlig inivteret til den årlige julefrokost. </p><p>Det var dog ikke hvem som helst, der var inviteret. Festen er nemlig forbeholdt for byens udsatte borgere. </p><p>- Vi gør det fordi, vi synes, dem vi har inviteret i dag, er en lidt overset gruppe, fortæller Ulla Søndergaard, der ejer Bones i Hjørring, og som er med-initiativtager til julefrokosterne. </p><p>Udover frokosten får de fremmødte også småkager med sig, gaver i form af tøj, personlige skrevet breve, og så mad som de kan nyde, når de forlader restauranten. </p><p>- Det er sådan helt hjerteskærende at møde dem og se den glæde, vi bringer dem, ved noget så simpelt som en julefrokost, lidt julegaver og lidt småkager.</p> <h2>Dét, at nogen tænker på en</h2><p>John Allan Jensen fortæller selv, at han godt kunne lide at drikke før i tiden. Men det gør han ikke længere. Til gengæld har han nu for tolvte gang deltaget i julefrokosten på bones. </p><p>- Det er fællesskabet, fortæller han. </p><p>Gaverne er han også glad for, og ikke mindst brevene. </p><p>- Det er dejligt, at der er nogen, der tænker på en, fortæller han om det brev, som en Lisa har skrevet. </p><p>Det er ikke det eneste kort, som John Allan Jensen får, men da han er ordblind, får han læst kortet højt, og reaktionen siger mere end ord. </p><p>John Allan Jensen, en stor mand af bygning, bryder sammen i gråd, da han hører ordene om, at han får ønsket sig en glædelig jul af en af efterskoleeleverne, en Valdemar, fra Halvorsminde Efterskole og Friskole. </p><p>- Det er ikke så tit, man får sådan noget, siger en tårevæddet John Allan jensen. </p> <h2>- Det kan være trist i længden</h2><p>John Allan Jensen er en blandt mere end 40, der er mødt op til julefrokosten, og det sociale tæller meget. </p><p>- Jeg kommer her og snakker med andre mennesker, så det er dejligt, fortæller han. </p> <p>John Allan Jensen er den yngste i en søskendeflok, og det er ikke så meget kontakt, han har til sine brødre. Hvis ikke han var på Bones, så ville han sidde derhjemme foran sofaen og se TV. </p><p>- Så er livet ikke så trist. Det kan være trist i længden. Man møder det ene nederlag efter det andet, så det her, det er kernen, fortæller John Allan Jensen om, hvad turen til julefrokosten betyder for ham. </p><p>Op til julefrokosten har over 300 frivillige hjulpet til på forskellige måder. Blandt andet med at bage småkager, virksomheder har doneret tøj og madvarer, og efterskoleeleverne har lavet skytsengle, som kommer med deres brev. </p>",
-  "link": "https://www.tv2nord.dk/hjoerring/det-er-ikke-sa-tit-man-far-sadan-noget-899b7",
-  "published": "Tue, 09 Dec 25 07:00:00 +0100",
-  "guid": "https://www.tv2nord.dk/hjoerring/det-er-ikke-sa-tit-man-far-sadan-noget-899b7",
   "category": "No category"
  },
  {
