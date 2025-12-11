@@ -128,6 +128,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1MaXS6Kc%2Fp-47.webp&w=300&x1r=0.4756&x2r=0.9793&y1r=0.8125&y2r=0.9509&s=28da9540dba177d605fcf793b9719f71"
  },
  {
+  "link": "/SPAR?publication=-fH6ueaK&offer=-7cUW05XuVEIVXT12StgI",
+  "price": "89",
+  "currency": "DKK",
+  "valid_from": "11-12-2025",
+  "valid_until": "18-12-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-fH6ueaK%2Fp-27.webp&w=300&x1r=0.0539&x2r=0.9671&y1r=0.021&y2r=0.3809&s=7645baaf09655e68080215f2d8c1770f"
+ },
+ {
   "link": "/fotex?publication=MwsdufTT&offer=D0gvy6fpBmx6xg85RaEMn",
   "price": "102",
   "currency": "DKK",
@@ -136,12 +144,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMwsdufTT%2Fp-44.webp&w=300&x1r=0.0829&x2r=0.9959&y1r=0.6232&y2r=0.9815&s=a6d369aeb4b918d3ada2a036092d35d3"
  },
  {
-  "link": "/SPAR?publication=-fH6ueaK&offer=-7cUW05XuVEIVXT12StgI",
-  "price": "89",
+  "link": "/Fleggaard?publication=oWqu0nIQ&offer=2sRqE9wiLYdBBszer_UmK",
+  "price": "75",
   "currency": "DKK",
-  "valid_from": "11-12-2025",
-  "valid_until": "18-12-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-fH6ueaK%2Fp-27.webp&w=300&x1r=0.0539&x2r=0.9671&y1r=0.021&y2r=0.3809&s=7645baaf09655e68080215f2d8c1770f"
+  "valid_from": "09-12-2025",
+  "valid_until": "01-01-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
  {
   "link": "/BorderShop?publication=AuF9FQjK&offer=EA8yN2W1bptmM0DoMPKVf",
@@ -158,14 +166,6 @@
   "valid_from": "30-11-2025",
   "valid_until": "14-12-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FdBv_1sNB%2Fp-4.webp&w=300&x1r=0.5024&x2r=0.9846&y1r=0.6601&y2r=0.9823&s=992b8655d1d2ffb70ba67c730c447fcf"
- },
- {
-  "link": "/Fleggaard?publication=oWqu0nIQ&offer=2sRqE9wiLYdBBszer_UmK",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "09-12-2025",
-  "valid_until": "01-01-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
  {
   "link": "/Poetzsch-Padborg?publication=hs59Dpzm&offer=8yRFxH-yKUbpdEEjU2LHQ",
