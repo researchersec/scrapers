@@ -16,14 +16,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F318bf6a305c9e09792015cb929e8dcd2&w=300&s=099b4f277ce1616d30d68fbd0fa5f354"
  },
  {
-  "link": "/Wolt-Market?publication=gbR0x1CT&offer=LQCpKmMI75eH8vA_x6XJw",
-  "price": "19",
-  "currency": "DKK",
-  "valid_from": "08-12-2025",
-  "valid_until": "15-12-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F852f2b7fe8ca3a380a61ae9b911124cd%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F1d36578601c6586f051e2ec3db00ae53&w=300&s=fee4e33483539548a90f509f0765e798"
- },
- {
   "link": "/Wolt-Market?publication=FAcFhzqz&offer=1TGV738MnSfI6mBPt_17S",
   "price": "39",
   "currency": "DKK",
@@ -136,28 +128,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-fH6ueaK%2Fp-27.webp&w=300&x1r=0.037&x2r=0.3163&y1r=0.4069&y2r=0.7929&s=9cf12ddbb80d2f4026d9a2e6241159d5"
  },
  {
-  "link": "/Calle?publication=X7BOYPP_&offer=t4SZpHONd20WllctUV95o",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "09-12-2025",
-  "valid_until": "01-01-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
- },
- {
-  "link": "/Wolt-Market?publication=gbR0x1CT&offer=uxasV4M9gXOfd-nzTbUrN",
-  "price": "76",
-  "currency": "DKK",
-  "valid_from": "08-12-2025",
-  "valid_until": "15-12-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F40e7bfad301e63716e285786953a2f8a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Ffdef860926f4e1e43e1ba6ce3fd7cdec%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F993e7fd4ebe94f325c6127a786d2fcbf&w=300&s=ffdf528ea7209654c296d2519873f17e"
- },
- {
   "link": "/Poetzsch-Padborg?publication=hs59Dpzm&offer=8yRFxH-yKUbpdEEjU2LHQ",
   "price": "73.99",
   "currency": "DKK",
   "valid_from": "10-12-2025",
   "valid_until": "07-01-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fhs59Dpzm%2Fp-1.webp&w=300&x1r=0.3961&x2r=0.6549&y1r=0.1466&y2r=0.3853&s=5a34fe53d60573800ec56f70b3577900"
+ },
+ {
+  "link": "/Calle?publication=X7BOYPP_&offer=t4SZpHONd20WllctUV95o",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "09-12-2025",
+  "valid_until": "01-01-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F43110999e6485119ef547f2dde21a1ff&w=300&s=4808e3accb95bd83dd8c2bfd131c8f82"
  },
  {
   "link": "/Wolt-Market?publication=FAcFhzqz&offer=BBCTK8Qn8zcW53lAs3k7z",
