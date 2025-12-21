@@ -48,20 +48,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFn165ED7%2Fp-25.webp&w=300&x1r=0.0331&x2r=0.9751&y1r=0.0098&y2r=0.3349&s=adf1ee8f5903d486ddb29bfd38331b34"
  },
  {
-  "link": "/Bilka?publication=kT0CxAMj&offer=oSNSzMnlxV-SOLeGagTLX",
-  "price": "98",
-  "currency": "DKK",
-  "valid_from": "18-12-2025",
-  "valid_until": "24-12-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkT0CxAMj%2Fp-5.webp&w=300&x1r=0.0086&x2r=0.4994&y1r=0.2119&y2r=0.9666&s=392762a608f3ab2563d15f775f7db520"
- },
- {
   "link": "/Bilka?publication=kT0CxAMj&offer=fUzlTRH_riqqQR5nKqmXt",
   "price": "125",
   "currency": "DKK",
   "valid_from": "18-12-2025",
   "valid_until": "24-12-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkT0CxAMj%2Fp-13.webp&w=300&x1r=0.442&x2r=0.9961&y1r=0.5747&y2r=0.9518&s=114fa507531e963be1b6448186d08210"
+ },
+ {
+  "link": "/Bilka?publication=kT0CxAMj&offer=oSNSzMnlxV-SOLeGagTLX",
+  "price": "98",
+  "currency": "DKK",
+  "valid_from": "18-12-2025",
+  "valid_until": "24-12-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkT0CxAMj%2Fp-5.webp&w=300&x1r=0.0086&x2r=0.4994&y1r=0.2119&y2r=0.9666&s=392762a608f3ab2563d15f775f7db520"
  },
  {
   "link": "/MENY?publication=_gBL_3P1&offer=C6zWfeJkGtJeBzKqP8-Gf",
@@ -96,14 +96,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4GzYnS-N%2Fp-26.webp&w=300&x1r=0.3533&x2r=0.9865&y1r=0.4983&y2r=0.7459&s=8f7105c2067add2d455cb5702a4df7c8"
  },
  {
-  "link": "/Fleggaard?publication=oWqu0nIQ&offer=2sRqE9wiLYdBBszer_UmK",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "09-12-2025",
-  "valid_until": "01-01-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
- },
- {
   "link": "/Min-Kobmand?publication=9rGrETOf&offer=Rc4GBBUfCfFxjzfcj6TK0",
   "price": "69",
   "currency": "DKK",
@@ -118,6 +110,14 @@
   "valid_from": "04-11-2025",
   "valid_until": "30-12-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAuF9FQjK%2Fp-13.webp&w=300&x1r=0.2891&x2r=0.6913&y1r=0.5833&y2r=0.875&s=80cc044b2892c0c5aaedfc88f4bcf2ee"
+ },
+ {
+  "link": "/Fleggaard?publication=oWqu0nIQ&offer=2sRqE9wiLYdBBszer_UmK",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "09-12-2025",
+  "valid_until": "01-01-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
  {
   "link": "/LET-KOB?publication=eyEal50J&offer=x8UOa64NLcHOe_u7BXt08",
