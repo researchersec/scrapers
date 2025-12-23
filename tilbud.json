@@ -144,20 +144,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9rGrETOf%2Fp-18.webp&w=300&x1r=0.0261&x2r=0.4391&y1r=0.4929&y2r=0.7468&s=0dcd54cef8cef438c35d6877bdf7ed94"
  },
  {
-  "link": "/Fleggaard?publication=oWqu0nIQ&offer=2sRqE9wiLYdBBszer_UmK",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "09-12-2025",
-  "valid_until": "01-01-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
- },
- {
   "link": "/BorderShop?publication=AuF9FQjK&offer=EA8yN2W1bptmM0DoMPKVf",
   "price": "75",
   "currency": "DKK",
   "valid_from": "04-11-2025",
   "valid_until": "30-12-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAuF9FQjK%2Fp-13.webp&w=300&x1r=0.2891&x2r=0.6913&y1r=0.5833&y2r=0.875&s=80cc044b2892c0c5aaedfc88f4bcf2ee"
+ },
+ {
+  "link": "/Fleggaard?publication=oWqu0nIQ&offer=2sRqE9wiLYdBBszer_UmK",
+  "price": "75",
+  "currency": "DKK",
+  "valid_from": "09-12-2025",
+  "valid_until": "01-01-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2Fc61b3e4240a41fc49ba9eaa9c8753899&w=300&s=82a77e0ef10e0129d8c8ee44d8214a89"
  },
  {
   "link": "/LET-KOB?publication=eyEal50J&offer=x8UOa64NLcHOe_u7BXt08",
@@ -240,12 +240,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYbvOgvmC%2Fp-16.webp&w=300&x1r=0.474&x2r=0.9683&y1r=0.5282&y2r=0.9582&s=af77958c1bec7abe01c80067637135d2"
  },
  {
-  "link": "/Lidl?publication=yOU-F7xA&offer=bUue_ZSC-YCVnOeiObBxE",
+  "link": "/Lidl?publication=N19-3_It&offer=BKX3C9Haes3tnaUAvz6bW",
   "price": "69",
   "currency": "DKK",
   "valid_from": "13-12-2025",
   "valid_until": "23-12-2025",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyOU-F7xA%2Fp-1.webp&w=300&x1r=0.3247&x2r=0.9998&y1r=0.1866&y2r=0.6596&s=e180f9e269406371b7511c359c3c40e7"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FN19-3_It%2Fp-14.webp&w=300&x1r=0.3247&x2r=0.9998&y1r=0.1866&y2r=0.6596&s=bb792a58d258de19c0e0436623a10141"
  },
  {
   "link": "/fotex?publication=4GzYnS-N&offer=0q61jH8VVeg2JnsrwJjuE",
