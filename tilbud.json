@@ -176,6 +176,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3Qj6LcLF%2Fp-35.webp&w=300&x1r=0.486&x2r=0.9877&y1r=0.0271&y2r=0.4567&s=3bfbde061d9a2308a1bc8bd6468f7658"
  },
  {
+  "link": "/Bilka?publication=vsz60nk1&offer=IOEVHRZeyIe27Vz187at3",
+  "price": "98",
+  "currency": "DKK",
+  "valid_from": "24-12-2025",
+  "valid_until": "31-12-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fvsz60nk1%2Fp-8.webp&w=300&x1r=0.0097&x2r=0.4941&y1r=0.5537&y2r=0.9779&s=0a0d9f107919f1a9388ccb34af72dff9"
+ },
+ {
   "link": "/BorderShop?publication=PtHmnPlE&offer=EJp-BVcps31wCz0R9zyIm",
   "price": "240",
   "currency": "DKK",
@@ -206,5 +214,13 @@
   "valid_from": "21-09-2025",
   "valid_until": "31-12-2025",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fof9didoH%2Fp-61.webp&w=300&x1r=0.0154&x2r=0.4892&y1r=0.034&y2r=0.477&s=342ed7bae7810d04b5d3adecb18a7ea4"
+ },
+ {
+  "link": "/Bilka?publication=vsz60nk1&offer=oLevo1GqGgxlmAxH2MsJR",
+  "price": "69",
+  "currency": "DKK",
+  "valid_from": "24-12-2025",
+  "valid_until": "31-12-2025",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fvsz60nk1%2Fp-8.webp&w=300&x1r=0.5019&x2r=0.9914&y1r=0.5587&y2r=0.97&s=dae5b9308286230b5839eaa1dc2d961c"
  }
 ]
