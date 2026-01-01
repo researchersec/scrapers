@@ -176,6 +176,14 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F522bxfe1%2F20220302-161913-l-6000x4000ma_crop001.jpg&w=1200"
  },
  {
+  "title": "Ikke set siden nytårsnat - Nordjyllands Politi efterlyser 33-årig",
+  "description": "<p>Torsdag aften har Nordjyllands Politi udsendt en efterlysning efter 33-årige Thorbjørn, der ikke er set siden nytårsnat.</p> <p>Den 33-årige mand er sidst set på Vesterå i Aalborg klokken 03 natten til torsdag.</p><p>Han beskrives som 180-190 centimeter høj, og han er almindelig af bygning. Han har kort, lyst hår og skægstubbe: Han var iført en sort vinterjakke, en lyseblå denimskjorte, en mør t-shirt og mørke cowboybukser, da han forsvandt.</p><p>Hvis du har oplysninger om den 33-årige, kan du kontakte Nordjyllands Politi på 114.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/ikke-set-siden-nytarsnat-nordjyllands-politi-efterlyser-33-arig-4961d",
+  "published": "Thu, 01 Jan 26 22:02:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/ikke-set-siden-nytarsnat-nordjyllands-politi-efterlyser-33-arig-4961d",
+  "category": "No category"
+ },
+ {
   "title": "Glatføreuheld flere steder - politi advarer om glatte veje i hele kredsen",
   "description": "<p>Kulden er ved at have godt fat i Nordjylland, og det betyder, at der er pletvis isglatte veje flere steder i Nordjylland.</p><p>Det har to bilister måtte sande, efter de er enddt i glatføreuheld to steder i nærheden af Hjørring. Det ene uheld er sket tidligere i aften på Snedstrupvej, mens det andet er sket på E39, fortæller vagtchef Christian Tilsted.</p><p>- Der er to personer i personbilen, der har været fastklemt forstået på den måde, at de ikke selv har kunnet komme ud af bilen. Men det er de nu, fortæller han. </p><p>Det andet uheld er sket på E39 i sydgående retning mellem Hjørring S og Vrå. I begge tilfælde er bilerne skredet ud på grund af de glatte veje, og det får vagtchefen til at komme med en advarsel til de nordjyske bilister.</p><p>- Man skal passe på og køre pænt derude. Jeg har hørt fra patruljer andre steder i kredsen, at der er meget glat derude. Kør forsigtigt, lyder det fra Christian Tilsted.</p><p>Uheldene har ikke været forbundet med tilskadekomst, og derfor har det ikke været nødvendigt at sende ambulancer til de to steder.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/glatforeuheld-flere-steder-politi-advarer-om-glatte-veje-i-hele-kredsen-c392c",
@@ -248,14 +256,6 @@
   "category": "No category"
  },
  {
-  "title": "Fyrværkerishow over Aalborg",
-  "description": "<p>Fyrværkerishow over Aalborg</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/fyrvaerkerishow-over-aalborg-c1c3a",
-  "published": "Thu, 01 Jan 26 12:18:00 +0100",
-  "guid": "https://www.tv2nord.dk/nordjylland/fyrvaerkerishow-over-aalborg-c1c3a",
-  "category": "No category"
- },
- {
   "title": "Er du helt ærlig, når du indtaster kørselsfradraget? Én blev bedt om at dokumentere sit fremmøde",
   "description": "Skattestyrelsen finder fejl i hvert tredje befordringsfradrag. Kontrollen er skærpet. Og det er især hjemmearbejdsdagene, der glipper",
   "link": "https://nordjyske.dk/nyheder/erhverv/er-du-helt-aerlig-naar-du-indtaster-koerselsfradraget-n-blev-bedt-om-at-dokumentere-sit-fremmoede/5866777?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -264,20 +264,20 @@
   "category": "Privatøkonomi"
  },
  {
+  "title": "Nordjyllands Politi efterlyser 33-årige Thorbjørn",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/nordjyllands-politi-efterlyser-33-aarige-thorbjoern/fc7655b0-bd98-44df-896b-889edb77e2d8?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 01 Jan 2026 20:43:46 Z",
+  "guid": "fc7655b0-bd98-44df-896b-889edb77e2d8",
+  "category": "Nyheder"
+ },
+ {
   "title": "Pas på, når du bortskaffer resterne efter det store brag",
   "description": "Ryd sikkert op efter nytårsfesten - her er fire gode råd",
   "link": "https://nordjyske.dk/nyheder/nordjylland/naar-braget-er-overstaaet-saadan-kommer-du-af-med-dit-fyrvaerkeriaffald/5870321?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Thu, 01 Jan 2026 06:27:21 Z",
   "guid": "5f847a09-6f87-4852-a66a-2359d651b5dc",
   "category": "Affald"
- },
- {
-  "title": "Svensk bil med to passagerer kørt galt på E39 ved Hjørring",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/bil-paa-svenske-plader-koert-galt-paa-e39-ved-hjoerring/9dec7f71-7834-48ea-8d33-417dd1af6d70?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 01 Jan 2026 19:36:36 Z",
-  "guid": "9dec7f71-7834-48ea-8d33-417dd1af6d70",
-  "category": "Nyheder"
  },
  {
   "title": "Han sidder stadig i fængsel – men fik lønforhøjelse for sin indsats på lageret",
@@ -294,6 +294,14 @@
   "published": "Thu, 01 Jan 2026 15:47:23 Z",
   "guid": "ec8caa83-7323-4528-80b6-b75cd82e5355",
   "category": "Vendsyssel FF"
+ },
+ {
+  "title": "Svensk bil med to passagerer kørt galt på E39 ved Hjørring",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/bil-paa-svenske-plader-koert-galt-paa-e39-ved-hjoerring/9dec7f71-7834-48ea-8d33-417dd1af6d70?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 01 Jan 2026 19:36:36 Z",
+  "guid": "9dec7f71-7834-48ea-8d33-417dd1af6d70",
+  "category": "Nyheder"
  },
  {
   "title": "Transferblog: AaB har kun to klare mål for januars transfervindue, men særligt et kan blive svært at indfri",
@@ -406,13 +414,5 @@
   "published": "Mon, 29 Dec 2025 04:58:33 Z",
   "guid": "1c2593c4-f50a-42d7-b491-19ee4b22d484",
   "category": "Erhverv"
- },
- {
-  "title": "Genfejl og nerveceller skal måske afsløre, hvorfor ADHD og autisme rammer så mange",
-  "description": "Helene Halkjær fra Aalborg Universitet forsker i, hvordan genfejl og signaler i hjernen kan forklare udviklingen af diagnoser som autisme, ADHD og skizofreni. Hun vil gerne være med til at bane vejen for en bedre behandling",
-  "link": "https://nordjyske.dk/nyheder/vores-liv/aalborg-forsker-vil-forstaa-hvorfor-saa-mange-boern-lider-af-autisme-og-adhd/5685817?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 15 Aug 2025 19:54:57 Z",
-  "guid": "b4667ec8-42b5-4b22-b56f-01e05c41a35e",
-  "category": "Familieliv"
  }
 ]
