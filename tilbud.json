@@ -64,6 +64,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3Rq11oCf%2Fp-44.webp&w=300&x1r=0.282&x2r=0.9894&y1r=0.4249&y2r=0.7204&s=627b3b62c3a9838f1cc1bdc573b8284c"
  },
  {
+  "link": "/Calle?publication=XQ4s8-EO&offer=elB9D9ak4MgACfoQdNKIF",
+  "price": "82.82",
+  "currency": "DKK",
+  "valid_from": "01-01-2026",
+  "valid_until": "27-01-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F24daebfb864bf48c8166bab4212796c9&w=300&s=a667c3bd134b0cf0886067aca6e824a2"
+ },
+ {
   "link": "/Poetzsch-Padborg?publication=hs59Dpzm&offer=8yRFxH-yKUbpdEEjU2LHQ",
   "price": "73.99",
   "currency": "DKK",
@@ -102,14 +110,6 @@
   "valid_from": "01-01-2026",
   "valid_until": "05-01-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fe0ebb8fb1956237806e62a2a178fbe1b%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F001a26e43cf358712658531ff0e16dea%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F16e311c0f195535fa7cd34673db9d8a4%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2F5ca9e1af9443fc29941d70e7d4da82cd&w=300&s=000b0b8b2d0e50b2a672be9cd237df0c"
- },
- {
-  "link": "/Calle?publication=XQ4s8-EO&offer=elB9D9ak4MgACfoQdNKIF",
-  "price": "82.82",
-  "currency": "DKK",
-  "valid_from": "01-01-2026",
-  "valid_until": "27-01-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F24daebfb864bf48c8166bab4212796c9&w=300&s=a667c3bd134b0cf0886067aca6e824a2"
  },
  {
   "link": "/Kobmandsgarden?publication=G4vpktgO&offer=YHqWScW32WmjaSUIq-Bup",
