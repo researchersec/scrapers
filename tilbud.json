@@ -64,20 +64,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FeYDr1aPX%2Fp-28.webp&w=300&x1r=0.6551&x2r=0.9771&y1r=0.5212&y2r=0.7494&s=3084ecea77d53eae3ae170fce148cd35"
  },
  {
-  "link": "/CITTI?publication=AvTWQ02E&offer=aQQeEDKGwgUoIqXMfxAfd",
-  "price": "80",
-  "currency": "DKK",
-  "valid_from": "06-01-2026",
-  "valid_until": "03-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAvTWQ02E%2Fp-9.webp&w=300&x1r=0.5157&x2r=0.9841&y1r=0.3326&y2r=0.5125&s=c23a289b9dc92a3bae246634050574f2"
- },
- {
   "link": "/Poetzsch-Padborg?publication=hs59Dpzm&offer=8yRFxH-yKUbpdEEjU2LHQ",
   "price": "73.99",
   "currency": "DKK",
   "valid_from": "10-12-2025",
   "valid_until": "07-01-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fhs59Dpzm%2Fp-1.webp&w=300&x1r=0.3961&x2r=0.6549&y1r=0.1466&y2r=0.3853&s=5a34fe53d60573800ec56f70b3577900"
+ },
+ {
+  "link": "/CITTI?publication=AvTWQ02E&offer=aQQeEDKGwgUoIqXMfxAfd",
+  "price": "80",
+  "currency": "DKK",
+  "valid_from": "06-01-2026",
+  "valid_until": "03-02-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAvTWQ02E%2Fp-9.webp&w=300&x1r=0.5157&x2r=0.9841&y1r=0.3326&y2r=0.5125&s=c23a289b9dc92a3bae246634050574f2"
  },
  {
   "link": "/Calle?publication=WIlEdJVR&offer=wzWmxC-q31gtu7wXFQ4f3",
