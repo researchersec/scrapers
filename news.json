@@ -1,5 +1,14 @@
 [
  {
+  "title": "Borgmester møder kongen i lejet tøj",
+  "description": "For første gang har kongehuset inviteret alle landets borgmestre til nytårskur.",
+  "link": "https://www.dr.dk/nyheder/indland/borgmester-moeder-kongen-i-lejet-toej",
+  "published": "Mon, 05 Jan 2026 07:23:00 GMT",
+  "guid": "urn:dr:umbraco:article:fde59119-45f9-46b6-9177-b37be8d676f1",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Faecnaegn%2Fniels-odgaard.jpg&w=1200"
+ },
+ {
   "title": "Ikke kun midaldrende mænd i lycra: 27-årige Casper og mange andre unge dyrker triatlon",
   "description": "Triatlonklubberne har haft et rigtig godt 2025, hvor mange unge har fået interesse for sporten.",
   "link": "https://www.dr.dk/nyheder/indland/ikke-kun-midaldrende-maend-i-lycra-27-aarige-casper-og-mange-andre-unge-dyrker-triatlon",
@@ -167,15 +176,6 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Frpdk0ohn%2Fjulemarked_crop001.jpeg&w=1200"
  },
  {
-  "title": "Børn trodsede regnvejr og samlede skrald ind i naturen - fandt poser med hundelort og slikpapir",
-  "description": "Projektet Ren Natur har på landsplan samlet over 12 tons affald.",
-  "link": "https://www.dr.dk/nyheder/indland/boern-trodsede-regnvejr-og-samlede-skrald-ind-i-naturen-fandt-poser-med-hundelort-og-slikpapir",
-  "published": "Sun, 14 Dec 2025 14:40:00 GMT",
-  "guid": "urn:dr:umbraco:article:034027c5-1bef-4ff2-94e2-a543ee7bcb16",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F5g0nkygd%2Foriginal-88b17a54-d591-434d-b70d-b80fb58c2321.jpeg&w=1200"
- },
- {
   "title": "Iskoldt og spredte snebyger",
   "description": "<p>Det er bidende koldt i Nordjylland fra morgenstunden, og du kan meget vel få snevejr hos dig igen i dag.</p><p>Det fortæller TV2&#039;s vejrvært Jacob Mouritzen. Få vejrudsigten herunder:</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/iskoldt-og-spredte-snebyger-8f97e",
@@ -256,20 +256,20 @@
   "category": "No category"
  },
  {
-  "title": "Forlod erhvervskarriere og vendte tilbage til naturen. Nu vil hun lave luksus i trætoppene",
-  "description": "Janne Terp elsker skoven og naturen. Nu vil hun lave unikke overnatninger for gæster, der vil helt tæt på",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/vi-laenges-efter-unikke-oplevelser-i-naturen-janne-vil-bygge-hytter-og-huler-paa-sin-naturgrund/5863099?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 05 Jan 2026 04:34:52 Z",
-  "guid": "164a1959-13ff-4407-ab3f-6ef40d701dfb",
-  "category": "Natur"
- },
- {
   "title": "Nordjyde solgte skibrillefirma for milliardbeløb - nu har han fået 300 mio. kr. til at gøre det hele forfra",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/nordjyde-solgte-skibrillefirma-for-milliardbeloeb-nu-har-han-faaet-300-mio-kr-til-at-goere-det-hele-forfra/5870272?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 05 Jan 2026 04:50:44 Z",
   "guid": "a3c8122c-076a-464b-ab9f-a8501a1a41e7",
   "category": "Erhverv"
+ },
+ {
+  "title": "Forlod erhvervskarriere og vendte tilbage til naturen. Nu vil hun lave luksus i trætoppene",
+  "description": "Janne Terp elsker skoven og naturen. Nu vil hun lave unikke overnatninger for gæster, der vil helt tæt på",
+  "link": "https://nordjyske.dk/nyheder/hjoerring/vi-laenges-efter-unikke-oplevelser-i-naturen-janne-vil-bygge-hytter-og-huler-paa-sin-naturgrund/5863099?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 05 Jan 2026 04:34:52 Z",
+  "guid": "164a1959-13ff-4407-ab3f-6ef40d701dfb",
+  "category": "Natur"
  },
  {
   "title": "Restless Legs stjæler Karinas nætter. Og hun er langt fra alene",
@@ -304,20 +304,28 @@
   "category": "Erhverv"
  },
  {
-  "title": "Fødevarer er vel ikke steget mere end lønniveauet",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/laeserbrev/foedevarer-er-vel-ikke-steget-mere-end-loenniveauet/5872842?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 05 Jan 2026 04:47:33 Z",
-  "guid": "9826b056-0671-409d-a959-c7b2551b3d1f",
-  "category": "Debat"
- },
- {
   "title": "31-årig tog halsgreb på ung dreng i Frederikshavn",
   "description": "",
   "link": "https://nordjyske.dk/nu/31-aarig-tog-halsgreb-paa-ung-dreng-i-frederikshavn/9f4933a8-96e9-4339-ab2e-9e5ed0ddfd7d?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 05 Jan 2026 05:13:03 Z",
   "guid": "9f4933a8-96e9-4339-ab2e-9e5ed0ddfd7d",
   "category": "Nyheder"
+ },
+ {
+  "title": "- Jeg siger til mig selv, at min mor har fået den bedste udsigt til at følge mig på banen",
+  "description": "Nordjyske Cornelia Kramer vil normalt fokusere al sin energi på at score mål for sin tyske klub, men landsholdsangriberen har haft meget andet at tænke over de seneste måneder",
+  "link": "https://nordjyske.dk/nyheder/sport/jeg-siger-til-mig-selv-at-min-mor-har-faaet-den-bedste-udsigt-til-at-foelge-mig-paa-banen/5868976?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 03 Jan 2026 05:02:44 Z",
+  "guid": "764d78d6-d57f-4bcc-8904-a062df896cbc",
+  "category": "Fodbold"
+ },
+ {
+  "title": "Fødevarer er vel ikke steget mere end lønniveauet",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/laeserbrev/foedevarer-er-vel-ikke-steget-mere-end-loenniveauet/5872842?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 05 Jan 2026 04:47:33 Z",
+  "guid": "9826b056-0671-409d-a959-c7b2551b3d1f",
+  "category": "Debat"
  },
  {
   "title": "Jens vil gerne være landsbyens nye familielæge: Der er dog flere store udfordringer",
@@ -334,14 +342,6 @@
   "published": "Sun, 04 Jan 2026 09:27:28 Z",
   "guid": "a8c8fce9-2e9b-4a4a-b5b7-91002856f5dd",
   "category": "Nyheder"
- },
- {
-  "title": "- Jeg siger til mig selv, at min mor har fået den bedste udsigt til at følge mig på banen",
-  "description": "Nordjyske Cornelia Kramer vil normalt fokusere al sin energi på at score mål for sin tyske klub, men landsholdsangriberen har haft meget andet at tænke over de seneste måneder",
-  "link": "https://nordjyske.dk/nyheder/sport/jeg-siger-til-mig-selv-at-min-mor-har-faaet-den-bedste-udsigt-til-at-foelge-mig-paa-banen/5868976?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 03 Jan 2026 05:02:44 Z",
-  "guid": "764d78d6-d57f-4bcc-8904-a062df896cbc",
-  "category": "Fodbold"
  },
  {
   "title": "27 centimeter dyb sne målt i Nordjylland",
