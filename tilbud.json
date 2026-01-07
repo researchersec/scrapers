@@ -88,14 +88,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3Rq11oCf%2Fp-44.webp&w=300&x1r=0.282&x2r=0.9894&y1r=0.4249&y2r=0.7204&s=627b3b62c3a9838f1cc1bdc573b8284c"
  },
  {
-  "link": "/MENY?publication=Rmmzgpwc&offer=k6tdd1PxhhU6YhaSWZfoN",
-  "price": "139.95",
-  "currency": "DKK",
-  "valid_from": "08-01-2026",
-  "valid_until": "15-01-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRmmzgpwc%2Fp-28.webp&w=300&x1r=0.5259&x2r=0.9911&y1r=0.6561&y2r=0.9827&s=57b3781aabcc930ba9fc789bdaab1b8e"
- },
- {
   "link": "/Fleggaard?publication=eYDr1aPX&offer=de33pYhuI1E7rCJOzNpAy",
   "price": "82",
   "currency": "DKK",
@@ -104,12 +96,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FeYDr1aPX%2Fp-28.webp&w=300&x1r=0.6551&x2r=0.9771&y1r=0.5212&y2r=0.7494&s=3084ecea77d53eae3ae170fce148cd35"
  },
  {
-  "link": "/Calle?publication=XQ4s8-EO&offer=elB9D9ak4MgACfoQdNKIF",
+  "link": "/MENY?publication=Rmmzgpwc&offer=k6tdd1PxhhU6YhaSWZfoN",
+  "price": "139.95",
+  "currency": "DKK",
+  "valid_from": "08-01-2026",
+  "valid_until": "15-01-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRmmzgpwc%2Fp-28.webp&w=300&x1r=0.5259&x2r=0.9911&y1r=0.6561&y2r=0.9827&s=57b3781aabcc930ba9fc789bdaab1b8e"
+ },
+ {
+  "link": "/Calle?publication=WIlEdJVR&offer=wzWmxC-q31gtu7wXFQ4f3",
   "price": "82.82",
   "currency": "DKK",
   "valid_from": "01-01-2026",
   "valid_until": "27-01-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F24daebfb864bf48c8166bab4212796c9&w=300&s=a667c3bd134b0cf0886067aca6e824a2"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWIlEdJVR%2Fp-22.webp&w=300&x1r=0.4029&x2r=0.9912&y1r=0.5157&y2r=0.9954&s=d759025ee84ac986b36b06285584ed08"
  },
  {
   "link": "/Poetzsch-Padborg?publication=hs59Dpzm&offer=8yRFxH-yKUbpdEEjU2LHQ",
