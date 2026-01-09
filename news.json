@@ -1,5 +1,14 @@
 [
  {
+  "title": "USA skal ikke fejres: Politikere kræver Rebildfesten aflyst",
+  "description": "Amerikanerne skal lægges på is, så længe Trump truer med at overtage Grønland, lyder holdningen.",
+  "link": "https://www.dr.dk/nyheder/indland/usa-skal-ikke-fejres-politikere-kraever-rebildfesten-aflyst",
+  "published": "Fri, 09 Jan 2026 13:19:00 GMT",
+  "guid": "urn:dr:umbraco:article:74b18dd6-cf07-4d48-888c-af13b01d38fa",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F5p0lygql%2F20250704-171005-l.jpg&w=1200"
+ },
+ {
   "title": "Præsident vil i dialog med borgmester: 'Vi skal nok få en god fest'",
   "description": "Aalborg Kommune kræver, at Rebildfesten udelukker officielle amerikanske repræsentanter.",
   "link": "https://www.dr.dk/nyheder/indland/praesident-vil-i-dialog-med-borgmester-vi-skal-nok-faa-en-god-fest",
@@ -168,13 +177,20 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fpjblbw04%2F20230530-113145-l-1920x1190web.jpg&w=1200"
  },
  {
-  "title": "Ingen farlig asbest fundet i luften i Danmarks fire største byer",
-  "description": "I særligt én by overrasker det forsker, at der ikke er asbestfibre i luften.",
-  "link": "https://www.dr.dk/nyheder/indland/ingen-farlig-asbest-fundet-i-luften-i-danmarks-fire-stoerste-byer",
-  "published": "Wed, 17 Dec 2025 07:00:00 GMT",
-  "guid": "urn:dr:umbraco:article:b0a5d292-92b5-4a3e-9983-6d973152e0fa",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F1bzju0ey%2F20250218-152918-l_crop001.jpg&w=1200"
+  "title": "Nordjyllands politi beder bilister tage deres forholdsregler på grund af fygning",
+  "description": "<p>Nordjyllands Politi har netop udsendt en advarsel om snefygning, efter vinden er begyndt at tage til og fyge mindre veje til.</p><p>Det er især et problem A 13, Skagensvej samt Hadsund Landevej, men det kan også ske andre steder i kredsen og kan opstå meget hurtigt.</p><p>Derfor opfordrer vagtchefen til, at man som bilist udviser almindelig omtanke, og at man træffer sine forholdsregler, hvis man skal ud i trafikken.</p><p>Både politiet og beredskabet følger situationen tæt, og kommer med gode råd til dig, hvis du skal ud i trafikken. Det kan du læse mere om her:</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/nordjyllands-politi-beder-bilister-tage-deres-forholdsregler-pa-grund-af-fygning-a44e9",
+  "published": "Fri, 09 Jan 26 13:58:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/nordjyllands-politi-beder-bilister-tage-deres-forholdsregler-pa-grund-af-fygning-a44e9",
+  "category": "No category"
+ },
+ {
+  "title": "Politi advarer: Pas på snefygning",
+  "description": "<p>Nordjyllands Politi har netop udsendt en advarsel om snefygning, efter vinden er begyndt at tage til og fyge mindre veje til.</p><p>Det er især et problem A 13, Skagensvej samt Hadsund Landevej, men det kan også ske andre steder i kredsen og kan opstå meget hurtigt.</p><p>Derfor opfordrer vagtchefen til, at man som bilist udviser almindelig omtanke, og at man træffer sine forholdsregler, hvis man skal ud i trafikken.</p><p>Både politiet og beredskabet følger situationen tæt, og kommer med gode råd til dig, hvis du skal ud i trafikken:</p> <p>På netop Hadsund Landevej er en lastbil kørt fast, hvilket giver en del kødannelse.</p>",
+  "link": "https://www.tv2nord.dk/nordjylland/politi-advarer-pas-pa-snefygning-2f639",
+  "published": "Fri, 09 Jan 26 13:50:00 +0100",
+  "guid": "https://www.tv2nord.dk/nordjylland/politi-advarer-pas-pa-snefygning-2f639",
+  "category": "No category"
  },
  {
   "title": "Havareret bil spærrer spor ved Limfjordstunellen",
@@ -185,8 +201,8 @@
   "category": "No category"
  },
  {
-  "title": "Snefygning skaber kø på landevej: Lastbil kørt fast",
-  "description": "<p>Politiet er lige nu til stede med udrykning på Hadsund Landevej. </p><p>Det skaber stor kø i den tidlige eftermiddagstrafik.</p><p>- Det er generelt snefygning, der skaber nogle problemer, siger vagtchef ved Nordjyllands Politi Torben Arndrup. </p><p>Der skulle ifølge ham være tale om en lastbil, der er kørt fast. Men han kan på nuværende tidspunkt ikke komme med yderligere oplysninger.</p>",
+  "title": "Snefygning skaber kø på landevej: Lastbil var kørt fast",
+  "description": "<p>Politiet var fredag eftermiddag til stede med udrykning på Hadsund Landevej. </p><p>Det skabte stor kø i den tidlige eftermiddagstrafik.</p><p>- Det er generelt snefygning, der skaber nogle problemer, siger vagtchef ved Nordjyllands Politi Torben Arendrup. </p><p>Ifølge vagtchefen var det en lastbil, der sad fast op ad bakken, der var årsagen til køen.</p><p>- Lastbilen gik i stå i sneen og kunne simpelthen ikke komme i gang igen. Det var ellers de rigtige dæk, den havde på, forsikrer vagtchefen klokken 14.12.</p><p>Der er ryddet op nu, så lastbilen spærrer ikke længere for trafikken.</p>",
   "link": "https://www.tv2nord.dk/aalborg/udrykning-skaber-ko-pa-landevej-93b95",
   "published": "Fri, 09 Jan 26 13:05:00 +0100",
   "guid": "https://www.tv2nord.dk/aalborg/udrykning-skaber-ko-pa-landevej-93b95",
@@ -194,7 +210,7 @@
  },
  {
   "title": "Bil kørt i autoværnet",
-  "description": "<p>En bil er fredag ved middagstid kørt i autoværnet på E39-Motorvejen  nord for Brønderslev ved Hjelmsted.</p><p>Bilen spærrer venstre spor, men politi er ankommet til stedet.</p><p>Det oplyser Vejdirektoratet på sin<a href=\"https://trafikkort.vejdirektoratet.dk/index.html\"> hjemmeside.</a></p><p>Her lyder det videre, at oprydningsarbejdet efter uheldet forventes overstået i løbet af eftermiddagen.</p>",
+  "description": "<p>En bil kørte fredag ved middagstid i autoværnet på E39-Motorvejen nord for Brønderslev ved Hjelmsted.</p><p>Bilen spærrede venstre spor, og politiet arbejdede en times tid på stedet. 13.25 kunne trafikken igen fortsætte som normalt, oplyser Nordjyllands Politi.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/bil-kort-i-autovaernet-pa-motorvej-dcede",
   "published": "Fri, 09 Jan 26 12:29:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/broenderslev/bil-kort-i-autovaernet-pa-motorvej-dcede",
@@ -238,22 +254,6 @@
   "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/30-arig-korte-med-amfetamin-i-blodet-i-en-bil-der-ikke-var-hans-e47c0",
   "published": "Fri, 09 Jan 26 09:09:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/30-arig-korte-med-amfetamin-i-blodet-i-en-bil-der-ikke-var-hans-e47c0",
-  "category": "No category"
- },
- {
-  "title": "Plastikpose lignede brand",
-  "description": "<p>Fredag rykkede Nordjyllands Beredskabud med ni mand og fire køretøjer til en en anmeldelse om brand på et tag på en byggeplads npå på Carl Rothes Vej i Aalborg.</p><p>Det viste sig dog at være noget helt andet.</p><p>- Vores mandskab har nu undersøgt forholdet. Der var tale om en stor halogenlampe på taget, som var pakket ind i en plastikpose, skriver beredskabet på X og fortsætter:</p><p>- På grund af blæst og snefygning gav det indtryk af brand og røgudvikling. Der er ikke brand. Vi er ved at pakke sammen, hvorefter udrykningen returnerer.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/plastikpose-lignede-brand-dc90a",
-  "published": "Fri, 09 Jan 26 08:10:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/plastikpose-lignede-brand-dc90a",
-  "category": "No category"
- },
- {
-  "title": "Nordjylland i uheldig stigning: 25 procent flere konkurser i 2025",
-  "description": "<p>Det lader til, at de små forretningsdrivende i Nordjylland, er mere trængte end før.</p><p>I 2024 var der 332 konkurser i landsdelen, mens det tal steg til 414 i 2025 - en stigning på hele 25 procent.</p><p>Det viser tal fra kreditoplysningsbureauet Creditsafe.</p><p>- Vi har set en stabil stigning i konkurser gennem hele året, særligt mod slutningen. Det vidner om et fortsat pres på virksomhederne – også selvom nogle makroøkonomiske indikatorer peger i en mere positiv retning, siger Morten Kofoed-Larsen, der er Country Manager hos Creditsafe Danmark.</p> <p>Det er særligt i december, at udviklingen har taget fat, lyder det. På landsplan er der en stigning på 29 procent, hvis man sammenligner december 2025 med december 2024.</p><h2>Udvikling breder sig</h2><p>Det er fortsat hovedstaden, der tegner sig for næsten halvdelen af alle konkurser. Men nu breder udviklingen sig, og den største relative stigning er netop sket i Nordjylland og Sjælland.</p><p>- Den regionale udvikling viser, at presset ikke længere kun er centreret omkring København. Flere regioner oplever nu tydelige stigninger i konkurstallene, siger Country Manageren.</p><p>Når det kommer til konkurser, ser det også anderledes ud i Danmark end både Norge og Sverige, hvor udviklingen er mere stabil. Norge har således oplevet et fald i konkurser på fire procent i 2025, og tallet i Sverige er uændret.</p> <p>- Danmark skiller sig ud i det skandinaviske billede. Vores virksomheder ser ud til at være mere pressede end i nabolandene, og vi bør være varsomme med at tro på en snarlig vending, siger Kofoed-Larsen, inden han fortsætter: </p><p>- Hvis konkurserne fortsætter med at stige i starten af 2026, kan det få betydning for både beskæftigelsen og investeringerne.</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/nordjylland-i-uheldig-stigning-25-procent-flere-konkurser-i-2025-75370",
-  "published": "Fri, 09 Jan 26 08:00:00 +0100",
-  "guid": "https://www.tv2nord.dk/nordjylland/nordjylland-i-uheldig-stigning-25-procent-flere-konkurser-i-2025-75370",
   "category": "No category"
  },
  {
