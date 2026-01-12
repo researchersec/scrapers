@@ -1,5 +1,14 @@
 [
  {
+  "title": "Fire byer mister deres DSB-stop: Fremover skal rejsende skifte tog for at komme til Aarhus og København",
+  "description": "Ændringerne skal give flere tog til tiden og kortere rejsetid mellem Aalborg og Aarhus med DSB's Intercitytog.",
+  "link": "https://www.dr.dk/nyheder/indland/fire-byer-mister-deres-dsb-stop-fremover-skal-rejsende-skifte-tog-komme-til-aarhus-og-koebenhavn",
+  "published": "Mon, 12 Jan 2026 08:55:00 GMT",
+  "guid": "urn:dr:umbraco:article:4d32618d-71e9-4035-9c54-4c760a3c7a34",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F404bfnww%2F20201106-103431-l_crop001.jpg&w=1200"
+ },
+ {
   "title": "Sådan sikrer du din bolig i den bidende frost",
   "description": "No description",
   "link": "https://www.dr.dk/nyheder/indland/saadan-sikrer-du-din-bolig-i-den-bidende-frost",
@@ -169,15 +178,6 @@
   "category": "No category"
  },
  {
-  "title": "Bilforsikringer stiger: Flere skader er skyld i højere priser",
-  "description": "Prisen for at forsikre en bil er steget usædvanligt meget de seneste år.",
-  "link": "https://www.dr.dk/nyheder/indland/bilforsikringer-stiger-flere-skader-er-skyld-i-hoejere-priser",
-  "published": "Fri, 19 Dec 2025 08:17:00 GMT",
-  "guid": "urn:dr:umbraco:article:69458ea1-ed02-49d4-9f8d-5d2e200701ae",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Frshfrmrv%2F20250423-004434-6.jpg&w=1200"
- },
- {
   "title": "Millionbeløb til tryghed i Nordjylland",
   "description": "<p>Tryghedsgruppen i Region Nordjylland har uddelt 3,5 millioner kroner til tryghedsskabende aktiviteter i Nordjylland.</p><p>Pengene uddeles ud fra fire overordnede mål, herunder børn og unge, ældreliv og tryghed i hverdagen.</p><p>Blandt andet har har Red Barnet i Brønderslev modtaget en kvart million kroner, og Steno Diabetes Center i Nordjylland har sammen med Himmerland Boligforening fået det største beløb på 1,9 millioner kroner.</p><p>Cykelhjelme, rednings- og andet sikkerhedsudstyr er blevet doneret til flere foreninger i Nordjylland, blandt andet hos Løgstør Roklub og Baptistspejderne i Vrå.</p><p>I alt har 33 modtaget et beløb fra Tryghedsgruppen. Du kan se listen herunder.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/millionbelob-til-tryghed-i-nordjylland-fea65",
@@ -282,12 +282,12 @@
   "category": "fodboldtransfer"
  },
  {
-  "title": "Mandag morgen: Vintervejret fortsætter med sne og fygning",
+  "title": "Vejret tester trafikanterne: Politiet opfordrer os til opmærksomhed - især i den vestlige del af kredsen",
   "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/foelg-med-live-mulig-snestorm-i-nordjylland/5874883?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 06 Jan 2026 09:53:23 Z",
-  "guid": "b5116989-62b1-49f7-a847-abd04b48f5e6",
-  "category": "Vejret"
+  "link": "https://nordjyske.dk/nu/vejret-tester-trafikanterne-politiet-opfordrer-os-til-opmaerksomhed-isaer-i-den-vestlige-del-af-kredsen/a0a6ea12-0c11-4153-b17e-60c62866b582?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 12 Jan 2026 08:38:30 Z",
+  "guid": "a0a6ea12-0c11-4153-b17e-60c62866b582",
+  "category": "Nyheder"
  },
  {
   "title": "Lars Glinvad indtager direktørstolen hos Seamar Scandinavia: Her er ugens ledelsesnyt",
@@ -312,6 +312,14 @@
   "published": "Sun, 11 Jan 2026 05:01:03 Z",
   "guid": "6c4e45f9-6cfa-42b1-ab37-9caafc1f9fdb",
   "category": "byudvikling"
+ },
+ {
+  "title": "Mandag morgen: Vintervejret fortsætter med sne og fygning",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/foelg-med-live-mulig-snestorm-i-nordjylland/5874883?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 06 Jan 2026 09:53:23 Z",
+  "guid": "b5116989-62b1-49f7-a847-abd04b48f5e6",
+  "category": "Vejret"
  },
  {
   "title": "Jeg vejer mere, end jeg troede. Men heldigvis - for mig - betyder det ingenting",
@@ -384,14 +392,6 @@
   "published": "Fri, 09 Jan 2026 22:03:00 Z",
   "guid": "de972901-fd89-4c05-bb17-f755501f2c39",
   "category": "Ishockey"
- },
- {
-  "title": "Nordjyder får færrest lyse timer om vinteren: Ekspert peger på tre råd, der gør en forskel",
-  "description": "Mindre dagslys giver udfordringer for både krop og sind. Her er ekspertens tre bedste bud på, hvordan du håndterer det.",
-  "link": "https://nordjyske.dk/nyheder/nordjyder-faar-faerrest-lyse-timer-om-vinteren-ekspert-peger-paa-tre-raad-der-goer-en-forskel/5870394?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 10 Jan 2026 05:03:52 Z",
-  "guid": "b5d6c0ff-394b-4bb9-92c6-7532946086e4",
-  "category": "Sundhed"
  },
  {
   "title": "Er livet på landet virkelig så stille? Frisøren i Siem gav os svar, vi ikke så komme",
