@@ -1,5 +1,14 @@
 [
  {
+  "title": "Farlige istapper: Michael slap med skrækken og advarede hele byen",
+  "description": "Med de kommende dages tøvejr er der risiko for at istapper river sig løs til fare for forbipasserende.",
+  "link": "https://www.dr.dk/nyheder/indland/farlige-istapper-michael-slap-med-skraekken-og-advarede-hele-byen",
+  "published": "Tue, 13 Jan 2026 07:20:00 GMT",
+  "guid": "urn:dr:umbraco:article:cbd9dd77-a197-4bcc-a716-d7bfd519d263",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fyxrge2wc%2Fistapper2_crop001_crop001.jpg&w=1200"
+ },
+ {
   "title": "Fire byer mister deres DSB-stop: Fremover skal rejsende skifte tog for at komme til Aarhus og København",
   "description": "Ændringerne skal give flere tog til tiden og kortere rejsetid mellem Aalborg og Aarhus med DSB's Intercitytog.",
   "link": "https://www.dr.dk/nyheder/indland/fire-byer-mister-deres-dsb-stop-fremover-skal-rejsende-skifte-tog-komme-til-aarhus-og-koebenhavn",
@@ -170,16 +179,24 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fqzbnxwfh%2Fanne-grethe-eriksen_crop001.jpg&w=1200"
  },
  {
-  "title": "Efter angreb: Landmænd bekymret for ulvezone",
-  "description": "No description",
-  "link": "https://www.dr.dk/nyheder/seneste/efter-angreb-landmaend-bekymret-ulvezone",
-  "published": "Fri, 19 Dec 2025 16:39:00 GMT",
-  "guid": "urn:dr:umbraco:article:924b6966-a9be-4539-a35b-53202b59d779",
+  "title": "Plusgrader, regn og tåge - sådan bliver vejret",
+  "description": "<p>Få dagens vejrudsigt herunder af TV2&#039;s vejrvært Lone Seir:</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/plusgrader-regn-og-tage-sadan-bliver-vejret-3a195",
+  "published": "Tue, 13 Jan 26 08:07:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/plusgrader-regn-og-tage-sadan-bliver-vejret-3a195",
+  "category": "No category"
+ },
+ {
+  "title": "Flere busser forsinket fra morgenstunden",
+  "description": "<p>Nattens snefald kan medføre forsinkelser i morgentrafikken.</p><p>Det skriver Nordjyllands Trafikselskab på sin hjemmeside. De rejsende gør derfor klogt i at holde sig opdateret på Rejseplanen.</p><p>Du kan følge med i, hvilke busser der er forsinket på linket <a href=\"https://www.ntrejse.dk/trafikinfo\" target=\"_blank\">HER.</a></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/flere-busser-forsinket-fra-morgenstunden-ad2c2",
+  "published": "Tue, 13 Jan 26 07:48:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/flere-busser-forsinket-fra-morgenstunden-ad2c2",
   "category": "No category"
  },
  {
   "title": "Spor spærret på motorvej",
-  "description": "<p>Mellem afkørsel 17 Lyngdrup og afkørsel 18 Vodskov N er der tirsdag morgen sket et uheld på E45 Frederikshavnmotorvejen.</p><p>Uheldet er sket i sydgående retning.</p><p>Et spor er spærret, oplyser Vejdirektoratet på<a href=\"https://trafikkort.vejdirektoratet.dk/index.html\" target=\"_blank\"> Trafikinfo. </a></p><p>Uheldsstedet er 06.49 endnu ikke sikret, og politi og redning er på vej.</p><p>Opdateres...</p>",
+  "description": "<p><em>Opdateret klokken 08.00: Varslet på Vejdirektoratets trafikkort er ophævet.</em></p><p>Mellem afkørsel 17 Lyngdrup og afkørsel 18 Vodskov N er der tirsdag morgen sket et uheld på E45 Frederikshavnmotorvejen.</p><p>Uheldet er sket i sydgående retning.</p><p>Et spor er spærret, oplyser Vejdirektoratet på<a href=\"https://trafikkort.vejdirektoratet.dk/index.html\" target=\"_blank\"> Trafikinfo. </a></p><p>Uheldsstedet er 06.49 endnu ikke sikret, og politi og redning er på vej.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-spaerret-pa-motorvej-7ffb6",
   "published": "Tue, 13 Jan 26 07:13:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-spaerret-pa-motorvej-7ffb6",
@@ -194,7 +211,7 @@
   "category": "No category"
  },
  {
-  "title": "Overgravet kabel - lyntog kører ikke mellem Aarhus og Aalborg",
+  "title": "Overgravet kabel - lyntog mellem Aarhus og Aalborg holdt stille",
   "description": "<p>På grund af et overgravet kabel ved Brabrand, kan DSB kun køre i et spor på en del af strækningen. </p><p>&#039;Vi kan derfor ikke køre med alle tog mellem Aarhus H og Aalborg. Det betyder, at Lyntogene ikke kører mellem Aarhus H og Aalborg i begge retninger. Vi henviser i stedet til InterCity-togene, som vi forsøger at køre med ekstra vogne.&#039; skriver <a href=\"https://www.dsb.dk/trafikinformation/akutte-aendringer/der-korer-faerre-tog-og-der-kan-vaere-laengere-rejsetid-mellem-aarhus-h-og/?trainType=tog\" target=\"_blank\">DSB</a> på sin hjemmeside.</p><p>Banedanmark arbejder på at rette fejlen. </p><p>&#039;Deres forsigtige prognose lyder, at vi tidligst fra klokken 07.00 igen kan køre med alle tog mellem Aarhus H og Aalborg, skriver DSB.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/overgravet-kabel-lyntog-korer-ikke-mellem-aarhus-og-aalborg-e9044",
   "published": "Tue, 13 Jan 26 06:52:00 +0100",
@@ -242,22 +259,6 @@
   "category": "No category"
  },
  {
-  "title": "Her begynder deres arbejde",
-  "description": "<p>Et nyt kapitel i nordjysk sundhedsvæsen er skrevet.</p><p>Sundhedsråd Limfjorden har afholdt sit første møde i Regionshuset.</p><p>Rådet dækker kommunerne Aalborg, Jammerbugt, Mariagerfjord, Morsø, Rebild, Thisted og Vesthimmerland. Det får en central rolle i udviklingen af det nære sundhedsvæsen i regionen.</p><p>Det bliver med folk både fra kommunerne og regionerne.</p><p>- Det skal vi nu samle omkring det samme bord. Vi har mange gode ting med i bagagen. Det vigtigste er at træffe beslutninger, der hjælper de nordjyske patienter, siger Pia Buus Pinstrup (K), der er formand for Sundhedsråd Limfjorden.</p> <p>Rådet skal blandt andet forberede overtagelsen af opgaver fra kommunerne. Det gælder akutsygepleje, sundheds- og omsorgspladser, patientrettet forebyggelse og specialiseret rehabilitering.</p><p>Sagerne behandles først i sundhedsrådet, derefter i kommunalbestyrelserne. Til sidst skal de godkendes i Regionsrådet i marts.</p><h2>Region og kommuner skal vise samarbejde</h2><p>Regionsrådsformand Mads Duedahl (V) ser også frem til samarbejdet.</p><p><em>- </em>Vi skal sikre et nært og lige sundhedsvæsen. Flere opgaver skal flyttes ud af hospitalerne. Hjælpen skal nå dem, der bor langt fra lægen, siger han og fortsætter:</p><p>- Med de nye sundhedsråd kan vi vise, hvad vi kan, når region og kommuner arbejder sammen, lyder det.</p><p>Fra 2026 begynder Sundhedsråd Limfjorden at udarbejde nærsundhedsplaner og samarbejdsaftaler. Fra 2027 får rådet ansvar for regionale sundhedsopgaver, drift og udvikling af sygehuse.</p><p>Det er dog stadig Regionsrådet, der har det overordnede ansvar for sundhedsvæsenet i Nordjylland.</p>",
-  "link": "https://www.tv2nord.dk/region-nordjylland/her-begynder-deres-arbejde-19072",
-  "published": "Mon, 12 Jan 26 21:00:00 +0100",
-  "guid": "https://www.tv2nord.dk/region-nordjylland/her-begynder-deres-arbejde-19072",
-  "category": "No category"
- },
- {
-  "title": "Defekt lyskryds giver problemer i trafikken",
-  "description": "<p>Lyskrydset fra Toldbodgade op mod Vesterbro i det centrale Aalborg er ude af drift.</p><p>Det skaber nogle udfordringer, som man kan se i videoen. </p> <p>Nordjyllands Politi er opmærksomme på problemet.</p><p>– Vi er bekendt med det og arbejder på sagen, lyder det fra vagtchef ved Nordjyllands Politi, Martin Møller.</p><p>Han oplyser desuden, at trafikken er ikke tæt, og der er ikke sket nogen ulykker.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/defekt-lyskryds-giver-problemer-i-trafikken-08555",
-  "published": "Mon, 12 Jan 26 20:56:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/defekt-lyskryds-giver-problemer-i-trafikken-08555",
-  "category": "No category"
- },
- {
   "title": "Morten Hovaldt levede et dobbeltliv i 11 måneder. Sådan føles det at sælge ud af sit livsværk. Og fortryde igen",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/morten-hovaldt-levede-et-dobbeltliv-i-11-maaneder-saadan-foeles-det-at-saelge-ud-af-sit-livsvaerk-og-fortryde-igen/5810776?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -274,14 +275,6 @@
   "category": "Politik"
  },
  {
-  "title": "Det skulle blive billigere - nu ser prisen for børnepasning i stedet ud til at stige",
-  "description": "Se her, hvor meget mere du skal af med for dagpleje, vuggestue og børnehave i 2026",
-  "link": "https://nordjyske.dk/nyheder/samfund/det-skulle-blive-billigere-nu-ser-prisen-for-boernepasning-i-stedet-ud-til-at-stige/5874028?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 13 Jan 2026 04:47:32 Z",
-  "guid": "e1d51650-4446-4c4a-b8f0-4c4cd5765989",
-  "category": "Børnepasning"
- },
- {
   "title": "Tirsdag morgen: Det er spejlglat, så kør efter forholdene",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/nordjylland/foelg-med-live-mulig-snestorm-i-nordjylland/5874883?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -290,20 +283,12 @@
   "category": "Vejret"
  },
  {
-  "title": "Ja, det er noget bøvl – alligevel opfordrer hun os til at tage børnene med i køkkenet",
-  "description": "I denne Q&amp;A forklarer influenceren hvorfor rod, langsommelighed og små fingre i dejen kan være en gave",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/ja-det-er-noget-boevl-alligevel-opfordrer-hun-os-til-at-tage-boernene-med-i-koekkenet/5883026?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 13 Jan 2026 05:10:42 Z",
-  "guid": "5c18b109-7560-4f56-af78-cd4df89655bf",
-  "category": "Familieliv"
- },
- {
-  "title": "Chris Severinsen vågnede til smadrede vinduer. I et tre timer langt interview svarer han på anklagerne mod sig",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/chris-severinsen-vaagnede-til-smadrede-vinduer-i-et-tre-timer-langt-interview-svarer-han-paa-anklagerne-mod-sig/5873925?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 12 Jan 2026 04:44:41 Z",
-  "guid": "cd3ca908-66e2-42ae-a47d-a7e5686eac41",
-  "category": "Erhverv"
+  "title": "Det skulle blive billigere - nu ser prisen for børnepasning i stedet ud til at stige",
+  "description": "Se her, hvor meget mere du skal af med for dagpleje, vuggestue og børnehave i 2026",
+  "link": "https://nordjyske.dk/nyheder/samfund/det-skulle-blive-billigere-nu-ser-prisen-for-boernepasning-i-stedet-ud-til-at-stige/5874028?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 13 Jan 2026 04:47:32 Z",
+  "guid": "e1d51650-4446-4c4a-b8f0-4c4cd5765989",
+  "category": "Børnepasning"
  },
  {
   "title": "Ildsjæle er med til at skabe talentudvikling i verdensklasse",
@@ -314,12 +299,28 @@
   "category": "Håndbold"
  },
  {
+  "title": "Ja, det er noget bøvl – alligevel opfordrer hun os til at tage børnene med i køkkenet",
+  "description": "I denne Q&amp;A forklarer influenceren hvorfor rod, langsommelighed og små fingre i dejen kan være en gave",
+  "link": "https://nordjyske.dk/nyheder/hjoerring/ja-det-er-noget-boevl-alligevel-opfordrer-hun-os-til-at-tage-boernene-med-i-koekkenet/5883026?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 13 Jan 2026 05:10:42 Z",
+  "guid": "5c18b109-7560-4f56-af78-cd4df89655bf",
+  "category": "Familieliv"
+ },
+ {
   "title": "Aalborg Zoo starter ekstern undersøgelse efter direktør-fyring",
   "description": "En udefra skal gennemgå økonomien i Aalborg Zoo",
   "link": "https://nordjyske.dk/nyheder/aalborg-zoo-starter-ekstern-undersoegelse-efter-direktoer-fyring/5879485?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 12 Jan 2026 14:44:50 Z",
   "guid": "274ad652-bb1a-45bd-af7b-609144e75225",
   "category": "samfund"
+ },
+ {
+  "title": "Chris Severinsen vågnede til smadrede vinduer. I et tre timer langt interview svarer han på anklagerne mod sig",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/chris-severinsen-vaagnede-til-smadrede-vinduer-i-et-tre-timer-langt-interview-svarer-han-paa-anklagerne-mod-sig/5873925?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 12 Jan 2026 04:44:41 Z",
+  "guid": "cd3ca908-66e2-42ae-a47d-a7e5686eac41",
+  "category": "Erhverv"
  },
  {
   "title": "Hurtigløber og comeback-Kusk er blandt AaB's bedste vinterindkøb",
@@ -370,20 +371,20 @@
   "category": "byudvikling"
  },
  {
-  "title": "Vejret tester trafikanterne: Politiet opfordrer os til opmærksomhed - især i den vestlige del af kredsen",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/vejret-tester-trafikanterne-politiet-opfordrer-os-til-opmaerksomhed-isaer-i-den-vestlige-del-af-kredsen/a0a6ea12-0c11-4153-b17e-60c62866b582?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 12 Jan 2026 08:38:30 Z",
-  "guid": "a0a6ea12-0c11-4153-b17e-60c62866b582",
-  "category": "Nyheder"
- },
- {
   "title": "Her er tre sager fra ugen på Christiansborg, som får betydning for din hverdag i Nordjylland",
   "description": "Et stridspunkt om fremtidens togtrafik i Vendsyssel, nye regler for private bosteder og en ideologisk kamp om en fødevarecheck har fyldt i ugens løb på Christiansborg. Her forklarer jeg, hvad det betyder for dig",
   "link": "https://nordjyske.dk/nyheder/politik/her-er-tre-sager-fra-ugen-paa-christiansborg-som-faar-betydning-for-din-hverdag-i-nordjylland/5876243?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sun, 11 Jan 2026 05:00:55 Z",
   "guid": "779b2241-ba25-4e11-a670-05be3760fe1a",
   "category": "Nordjyske på Christiansborg"
+ },
+ {
+  "title": "August og Emily fandt alt det, de drømte om - men på et helt andet sted, end de havde forestillet sig",
+  "description": "Fællesskab, natur og balance i livet var nøgleordene, der fik August Krogh og Emily Bremner til at rykke fra København til Klitmøller i Thy",
+  "link": "https://nordjyske.dk/nyheder/vores-liv/august-og-emily-fandt-alt-det-de-droemte-om-men-paa-et-helt-andet-sted-end-de-havde-forestillet-sig/5854771?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 11 Jan 2026 04:40:37 Z",
+  "guid": "48b06704-37f2-4c0a-af5f-fce1b4c2c087",
+  "category": "På kanten af Nordjylland"
  },
  {
   "title": "Er livet på landet virkelig så stille? Frisøren i Siem gav os svar, vi ikke så komme",
