@@ -177,8 +177,8 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Ffemgz5dk%2Fjannie-gade-1.jpg&w=1200"
  },
  {
-  "title": "DSB melder om signalfejl: Togene holder stille i Nordjylland",
-  "description": "<p>Hvis du skal med toget her til formiddag, kan det godt blive noget af en udfordring.</p><p>Togene flere steder i Jylland holder nemlig stille, herunder på strækningen Langå-Aalborg Lufthavn, skriver DSB på deres hjemmeside.</p><p>Årsagen er en opdatering af signalsystemet, som DSB satte i gang lørdag aften, og som skulle være afsluttet klokken 11 søndag. Men det trækker ud, og forventes tidligst færdig klokken 17 i stedet.</p> <p>Derfor vil de togbusser, der er indsat på strækningen forsøgt forlænget, men der an forekomme længere ventetider, fordi DSB har svært ved at skaffe togbusser nok.</p><p>Rejsende kan holde sig opdateres på <a href=\"rejseplanen.dk/webapp/\">rejseplanen</a>.</p>",
+  "title": "Banedanmark melder om signalfejl: Togene holder stille i Nordjylland",
+  "description": "<p>Hvis du skal med toget her til formiddag, kan det godt blive noget af en udfordring.</p><p>Togene flere steder i Jylland holder nemlig stille, herunder på strækningen Langå-Aalborg Lufthavn, skriver DSB på deres hjemmeside.</p><p>Også strækningen Skagen,Hjørring og Hobro, der betjenes af Nordjyske Jernbaner er ramt af signalfejlen.</p><p>Årsagen er en opdatering af signalsystemet, som Banedanmark satte i gang lørdag aften, og som skulle være afsluttet klokken 11 søndag. Men det trækker ud, og forventes tidligst færdig klokken 17 i stedet.</p> <p>Derfor vil de togbusser, der er indsat på strækningen forsøgt forlænget, men der an forekomme længere ventetider, fordi DSB har svært ved at skaffe togbusser nok.</p><p>Rejsende kan holde sig opdateres på <a href=\"rejseplanen.dk/webapp/\">rejseplanen</a>.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/dsb-melder-om-signalfejl-togene-holder-stille-i-nordjylland-e4051",
   "published": "Sun, 18 Jan 26 11:16:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/dsb-melder-om-signalfejl-togene-holder-stille-i-nordjylland-e4051",
@@ -265,6 +265,14 @@
   "category": "Erhverv"
  },
  {
+  "title": "Togene står stille mellem Langå og Aalborg Lufthavn søndag",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/togene-staar-stille-mellem-langaa-og-aalborg-soendag/4de4e14c-5302-43ab-88b5-bdb411067dac?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 18 Jan 2026 10:21:02 Z",
+  "guid": "4de4e14c-5302-43ab-88b5-bdb411067dac",
+  "category": "Nyheder"
+ },
+ {
   "title": "Vores kroppe er giftigere, end vi tror: Sofie har truffet afgørende valg for sig selv og sin familie",
   "description": "Køb mindre, men bedre - og undersøg virksomheden. Det er kort sagt Sofie Wulffs opskrift på at undgå de mange giftstoffer, vi mennesker bliver udsat for hver dag",
   "link": "https://nordjyske.dk/nyheder/vores-liv/vores-kroppe-er-giftigere-end-vi-tror-sofie-har-truffet-afgoerende-valg-for-sig-selv-og-sin-familie/5528618?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -305,20 +313,20 @@
   "category": "samfund"
  },
  {
-  "title": "Højer roser flere efter sejr over superligahold: - Nu kan han sagtens spille på det her hold",
-  "description": "AaB-træner Steffen Højer fik prøvet nogle ting af i presspillet, og så blev han bekræftet i de seneste ugers indtryk fra træningsbanen, da man vandt 3-2 over Randers FC",
-  "link": "https://nordjyske.dk/nyheder/sport/hoejer-roser-flere-efter-sejr-over-superligahold-nu-kan-han-sagtens-spille-paa-det-her-hold/5889456?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 17 Jan 2026 16:01:52 Z",
-  "guid": "4f23f775-4c76-463f-a7ab-287a49b1a5a5",
-  "category": "AaB"
- },
- {
   "title": "Chris Severinsen vågnede til smadrede vinduer. I et tre timer langt interview svarer han på anklagerne mod sig",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/chris-severinsen-vaagnede-til-smadrede-vinduer-i-et-tre-timer-langt-interview-svarer-han-paa-anklagerne-mod-sig/5873925?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 12 Jan 2026 04:44:41 Z",
   "guid": "cd3ca908-66e2-42ae-a47d-a7e5686eac41",
   "category": "Erhverv"
+ },
+ {
+  "title": "Højer roser flere efter sejr over superligahold: - Nu kan han sagtens spille på det her hold",
+  "description": "AaB-træner Steffen Højer fik prøvet nogle ting af i presspillet, og så blev han bekræftet i de seneste ugers indtryk fra træningsbanen, da man vandt 3-2 over Randers FC",
+  "link": "https://nordjyske.dk/nyheder/sport/hoejer-roser-flere-efter-sejr-over-superligahold-nu-kan-han-sagtens-spille-paa-det-her-hold/5889456?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 17 Jan 2026 16:01:52 Z",
+  "guid": "4f23f775-4c76-463f-a7ab-287a49b1a5a5",
+  "category": "AaB"
  },
  {
   "title": "Troels Lund \"dødsdømte\" nordjysk produktion af fregatter. I Frederikshavn tager de arbejdshandskerne på",
@@ -399,14 +407,6 @@
   "published": "Fri, 16 Jan 2026 19:48:01 Z",
   "guid": "4a7aaebb-4b71-4701-860c-8d4fa653c776",
   "category": "Nyheder"
- },
- {
-  "title": "I bilen på vej hjem fra træning fik Mads Svane et opkald, han aldrig vil glemme",
-  "description": "Mads Svane Knudsens største drøm kan blive indfriet fredag aften. Længe før han selv havde turdet håbe på",
-  "link": "https://nordjyske.dk/nyheder/sport/i-bilen-paa-vej-hjem-fra-traening-fik-mads-svane-et-opkald-han-aldrig-vil-glemme/5886106?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 16 Jan 2026 04:43:02 Z",
-  "guid": "100d7489-7e1c-41b3-874d-aa8c6855c8a0",
-  "category": "Håndbold"
  },
  {
   "title": "Er livet på landet virkelig så stille? Frisøren i Siem gav os svar, vi ikke så komme",
