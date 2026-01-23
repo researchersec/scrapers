@@ -1,5 +1,14 @@
 [
  {
+  "title": "Fyringsrunde afslutter opkøb: 143 ansatte i Nykredit mister jobbet",
+  "description": "Nykredits opkøb af Spar Nord koster flere ansatte jobbet. Vi har mange dobbeltfunktioner, siger direktøren.",
+  "link": "https://www.dr.dk/nyheder/regionale/nordjylland/fyringsrunde-afslutter-opkoeb-143-ansatte-i-nykredit-mister-jobbet",
+  "published": "Fri, 23 Jan 2026 08:57:00 GMT",
+  "guid": "urn:dr:umbraco:article:398983f0-40db-4ff6-a9ba-637abea14db6",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fgsujr1cv%2F20250526-140509-2_crop001.jpg&w=1200"
+ },
+ {
   "title": "Direktør er træt af Trump: Orker ikke at tænke over det længere",
   "description": "Straftold på danske varer er aflyst. Men vi kan ikke stole på amerikanerne, lyder det fra virksomheder.",
   "link": "https://www.dr.dk/nyheder/indland/direktoer-er-traet-af-trump-orker-ikke-taenke-over-det-laengere",
@@ -169,15 +178,6 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fe50ku4k1%2Ftopniels-odgaar.jpg&w=1200"
  },
  {
-  "title": "Ikke kun midaldrende mænd i lycra: 27-årige Casper og mange andre unge dyrker triatlon",
-  "description": "Triatlonklubberne har haft et rigtig godt 2025, hvor mange unge har fået interesse for sporten.",
-  "link": "https://www.dr.dk/nyheder/indland/ikke-kun-midaldrende-maend-i-lycra-27-aarige-casper-og-mange-andre-unge-dyrker-triatlon",
-  "published": "Sun, 04 Jan 2026 18:12:00 GMT",
-  "guid": "urn:dr:umbraco:article:caf6a41e-0a27-4cef-9db6-4acb2e7c636a",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F2eqp5lnh%2Fphoto_collage-2.jpg&w=1200"
- },
- {
   "title": "Tyve stak af med TV og kabler",
   "description": "<p>Et TV og nogle kabler er blevet stjålet fra et sommerhus på Novolund i Hadsund. </p><p>Indbruddet er sket torsdag eftermiddag, hvor ukendte gerningsmænd har skaffet sig adgang til sommerhuset gennem et vindue. Det fortæller Frederik Als, som er fungerende politikommissær i efterforskningen i Nordjyllands Politis afdeling i Himmerland. </p><p>Gerningsmændene har været rundt i hele sommerhuset, før de er gået ud af hoveddøren med tyvekosterne. </p><p>Politiet har sikret sig fingeraftryk og spor fra stedet, lyder det. </p>",
   "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/tyve-stak-af-med-tv-og-kabler-5c05c",
@@ -266,28 +266,12 @@
   "category": "Erhverv"
  },
  {
-  "title": "Opgang evakueret på Mors i nat - mand fløjet til Rigshospitalet",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/opgang-evakueret-paa-mors-i-nat-mand-floejet-til-rigshospitalet/c975c937-cba6-4168-855f-c5c45e866bff?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 23 Jan 2026 05:04:34 Z",
-  "guid": "c975c937-cba6-4168-855f-c5c45e866bff",
-  "category": "Nyheder"
- },
- {
-  "title": "Han har bygget mange kvadratmeter i Aalborg. Men har aldrig oplevet et benspænd som dette",
+  "title": "Han har bygget mange kvadratmeter i Aalborg men aldrig oplevet et benspænd som dette",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/aalborg/ejendomsudvikler-bent-amstrup-skal-bevise-der-ikke-er-flagermus-i-bygning-der-allerede-er-revet-ned/5891468?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Fri, 23 Jan 2026 05:02:45 Z",
   "guid": "041e1271-0f7b-4b73-9638-59e2b45250e3",
   "category": "Byggeri"
- },
- {
-  "title": "Mor med holdning: - Følelser skal ikke pakkes væk",
-  "description": "41-årige Kathrine Skovsgaard kommer selv fra en generation, hvor følelser ofte blev parkeret. Derfor har hun et helt andet fokus for sin egen datter",
-  "link": "https://nordjyske.dk/nyheder/vores-liv/mor-med-holdning-foelelser-skal-ikke-pakkes-vaek/5885188?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 23 Jan 2026 04:57:56 Z",
-  "guid": "d27f1a7c-572a-42ea-a46b-6b814f3148c8",
-  "category": "Forældrestafetten"
  },
  {
   "title": "Thomas Arnoldsen fik vellykket comeback, og nu håber han, at landstræneren ringer",
@@ -304,6 +288,22 @@
   "published": "Thu, 22 Jan 2026 04:47:16 Z",
   "guid": "66fb6093-cd36-45d9-8f04-cd9192ceccd2",
   "category": "samfund"
+ },
+ {
+  "title": "Mor med holdning: - Følelser skal ikke pakkes væk",
+  "description": "41-årige Kathrine Skovsgaard kommer selv fra en generation, hvor følelser ofte blev parkeret. Derfor har hun et helt andet fokus for sin egen datter",
+  "link": "https://nordjyske.dk/nyheder/vores-liv/mor-med-holdning-foelelser-skal-ikke-pakkes-vaek/5885188?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 23 Jan 2026 04:57:56 Z",
+  "guid": "d27f1a7c-572a-42ea-a46b-6b814f3148c8",
+  "category": "Forældrestafetten"
+ },
+ {
+  "title": "Opgang evakueret på Mors i nat - mand fløjet til Rigshospitalet",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/opgang-evakueret-paa-mors-i-nat-mand-floejet-til-rigshospitalet/c975c937-cba6-4168-855f-c5c45e866bff?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 23 Jan 2026 05:04:34 Z",
+  "guid": "c975c937-cba6-4168-855f-c5c45e866bff",
+  "category": "Nyheder"
  },
  {
   "title": "Ammunitionsryddere ikke i tvivl: Pulverfund i lejlighed var ufarligt",
