@@ -24,6 +24,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBGeIzvFa%2Fp-6.webp&w=300&x1r=0.0245&x2r=0.9596&y1r=0.0903&y2r=0.3524&s=2fd56d9e6a5bc7c4acd3f38410ba1682"
  },
  {
+  "link": "/SPAR?publication=RB5KAHy-&offer=FeZJ87oxxxViqvMk6FBAT",
+  "price": "8",
+  "currency": "DKK",
+  "valid_from": "29-01-2026",
+  "valid_until": "05-02-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRB5KAHy-%2Fp-9.webp&w=300&x1r=0.5902&x2r=0.9707&y1r=0.0261&y2r=0.3274&s=9ab608bea2d2b0339cada95459e10d6a"
+ },
+ {
   "link": "/Calle?publication=GH0eERgU&offer=vmVbfzZDmwqeETuGhHNu4",
   "price": "10",
   "currency": "DKK",
@@ -96,20 +104,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4hg3BFVt%2Fp-14.webp&w=300&x1r=0.3558&x2r=0.6678&y1r=0.6284&y2r=0.9615&s=7320c953eba41ff6599d5866cecf7e0e"
  },
  {
-  "link": "/MENY?publication=jQKbPFEF&offer=E77F1eDZ79mDvdsSGfIUp",
-  "price": "139.95",
-  "currency": "DKK",
-  "valid_from": "22-01-2026",
-  "valid_until": "29-01-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjQKbPFEF%2Fp-27.webp&w=300&x1r=0.5829&x2r=0.9885&y1r=0.6024&y2r=0.9811&s=4b5a1b962c0af0c1efa7d45b5ff5f8d9"
- },
- {
   "link": "/MENY?publication=BGeIzvFa&offer=mR9Rs2ioFrQyQW2kR1rNM",
   "price": "29.95",
   "currency": "DKK",
   "valid_from": "29-01-2026",
   "valid_until": "05-02-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBGeIzvFa%2Fp-31.webp&w=300&x1r=0.4967&x2r=0.9927&y1r=0.0054&y2r=0.5539&s=543ab830e593ef20dc2dfdcaa8f9a94e"
+ },
+ {
+  "link": "/MENY?publication=jQKbPFEF&offer=E77F1eDZ79mDvdsSGfIUp",
+  "price": "139.95",
+  "currency": "DKK",
+  "valid_from": "22-01-2026",
+  "valid_until": "29-01-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjQKbPFEF%2Fp-27.webp&w=300&x1r=0.5829&x2r=0.9885&y1r=0.6024&y2r=0.9811&s=4b5a1b962c0af0c1efa7d45b5ff5f8d9"
  },
  {
   "link": "/fotex?publication=LiK6E_nl&offer=odOjn10IKGc-q8LyDLiWc",
