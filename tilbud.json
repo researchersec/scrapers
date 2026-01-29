@@ -80,6 +80,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbRmOKUMW%2Fp-39.webp&w=300&x1r=0.3238&x2r=0.9894&y1r=0.401&y2r=0.7238&s=a466e4a2f074e3647ec5e704dac824ca"
  },
  {
+  "link": "/MENY?publication=BGeIzvFa&offer=mR9Rs2ioFrQyQW2kR1rNM",
+  "price": "29.95",
+  "currency": "DKK",
+  "valid_from": "29-01-2026",
+  "valid_until": "05-02-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBGeIzvFa%2Fp-31.webp&w=300&x1r=0.4967&x2r=0.9927&y1r=0.0054&y2r=0.5539&s=543ab830e593ef20dc2dfdcaa8f9a94e"
+ },
+ {
   "link": "/SPAR?publication=4hg3BFVt&offer=J_ZEtWU7dm1jeIecQnj3F",
   "price": "140",
   "currency": "DKK",
@@ -94,14 +102,6 @@
   "valid_from": "22-01-2026",
   "valid_until": "29-01-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjQKbPFEF%2Fp-27.webp&w=300&x1r=0.5829&x2r=0.9885&y1r=0.6024&y2r=0.9811&s=4b5a1b962c0af0c1efa7d45b5ff5f8d9"
- },
- {
-  "link": "/MENY?publication=BGeIzvFa&offer=mR9Rs2ioFrQyQW2kR1rNM",
-  "price": "29.95",
-  "currency": "DKK",
-  "valid_from": "29-01-2026",
-  "valid_until": "05-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBGeIzvFa%2Fp-31.webp&w=300&x1r=0.4967&x2r=0.9927&y1r=0.0054&y2r=0.5539&s=543ab830e593ef20dc2dfdcaa8f9a94e"
  },
  {
   "link": "/fotex?publication=LiK6E_nl&offer=odOjn10IKGc-q8LyDLiWc",
@@ -120,12 +120,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPtHmnPlE%2Fp-8.webp&w=300&x1r=0.4523&x2r=0.9556&y1r=0.4954&y2r=0.9664&s=6b050c58c5c8be26b94fbb1b6f701402"
  },
  {
-  "link": "/Fleggaard?publication=VlbiPVT8&offer=3-D3vIuOssmip0c5OlHS3",
+  "link": "/Fleggaard?publication=xoqJIgbj&offer=ZJFLT-e1z4uk2MD5fotXu",
   "price": "82",
   "currency": "DKK",
   "valid_from": "27-01-2026",
   "valid_until": "17-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVlbiPVT8%2Fp-26.webp&w=300&x1r=0.0091&x2r=0.3497&y1r=0.4936&y2r=0.7588&s=8460475c4d6de645ff78b55ec506b2e4"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F97ea6509a9cd319a3d1a8af8f63769e3&w=300&s=891d1efecae96ce035a37bc7fa20544c"
  },
  {
   "link": "/Min-Kobmand?publication=emRIZb0r&offer=XlIF4osmGwRjfbTLPO8sD",
