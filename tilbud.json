@@ -40,12 +40,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F318bf6a305c9e09792015cb929e8dcd2&w=300&s=099b4f277ce1616d30d68fbd0fa5f354"
  },
  {
-  "link": "/Lidl?publication=FsrV9Ugq&offer=XY3hxDEHueYTej8Q7H5O2",
+  "link": "/Lidl?publication=ZpYimUhp&offer=qwf5vtOU5g9hijyT3i2Ro",
   "price": "15",
   "currency": "DKK",
   "valid_from": "24-01-2026",
   "valid_until": "31-01-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6P7QEURN%2Fp-6.webp&w=300&x1r=0.0069&x2r=0.5085&y1r=0.0553&y2r=0.4699&s=0e1070c20393d64edf48659ea51785e0"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZpYimUhp%2Fp-20.webp&w=300&x1r=0.0069&x2r=0.5085&y1r=0.0553&y2r=0.4699&s=4e208a7a1991c6465c21622a3742964a"
  },
  {
   "link": "/SPAR?publication=4hg3BFVt&offer=TVPu0Rw2PDmCj2xaspjDa",
@@ -128,12 +128,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPtHmnPlE%2Fp-8.webp&w=300&x1r=0.4523&x2r=0.9556&y1r=0.4954&y2r=0.9664&s=6b050c58c5c8be26b94fbb1b6f701402"
  },
  {
-  "link": "/Fleggaard?publication=VlbiPVT8&offer=3-D3vIuOssmip0c5OlHS3",
+  "link": "/Fleggaard?publication=xoqJIgbj&offer=ZJFLT-e1z4uk2MD5fotXu",
   "price": "82",
   "currency": "DKK",
   "valid_from": "27-01-2026",
   "valid_until": "17-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVlbiPVT8%2Fp-26.webp&w=300&x1r=0.0091&x2r=0.3497&y1r=0.4936&y2r=0.7588&s=8460475c4d6de645ff78b55ec506b2e4"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F97ea6509a9cd319a3d1a8af8f63769e3&w=300&s=891d1efecae96ce035a37bc7fa20544c"
  },
  {
   "link": "/Min-Kobmand?publication=emRIZb0r&offer=XlIF4osmGwRjfbTLPO8sD",
@@ -198,6 +198,14 @@
   "valid_from": "07-01-2026",
   "valid_until": "25-02-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0Jrsbi5e%2Fp-36.webp&w=300&x1r=0.3305&x2r=0.6685&y1r=0.5034&y2r=0.9881&s=df0f779af36a23c7431534a2ca6f934f"
+ },
+ {
+  "link": "/Scandinavian-Park?publication=V-4JLFrA&offer=bfMkWbMMkzjHFGcZx7CuN",
+  "price": "82.99",
+  "currency": "DKK",
+  "valid_from": "28-01-2026",
+  "valid_until": "25-02-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FV-4JLFrA%2Fp-1.webp&w=300&x1r=0.6564&x2r=0.9848&y1r=0.1214&y2r=0.4158&s=01f1c8d2e23fb48dd8208f8b0da8ee57"
  },
  {
   "link": "/fotex?publication=bRmOKUMW&offer=oKmmTennscqj9Thg9k6-P",
