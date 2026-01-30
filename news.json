@@ -178,8 +178,8 @@
   "category": "No category"
  },
  {
-  "title": "Bygning brænder - flammer er gået gennem taget",
-  "description": "<p>Der er fredag morgen udbrudt brand i en bygning i Sæby, hvor der blandt andet ligger en dyreklinik.</p><p>Nordjyllands Beredskab, som fik meldingen om branden klokken 8.56, fortæller til TV2 Nord, at de første meldinger gik på røgudvikling, men at flammerne nu er brudt gennem taget.</p><p>Det samme viser billeder, TV2 Nords reporter på stedet har taget.</p><p>Ifølge TV2 Nords oplysninger er der lejligheder på bygningens førstesal.</p><p>&#039;Vi er til stede med syv biler og 13 brandmænd. Vi er i fuld gang med at sikre tilstødende lejligheder,&#039; skriver Nordjyllands Beredskab på X.</p>",
+  "title": "Bygning med dyreklinik er brændt ned",
+  "description": "<p>En bygning i Sæby, hvor der blandt andet ligger en dyreklinik, står ikke til at redde, efter at den fredag morgen brød i brand.</p><p>- Bygningen er brændt ned, og omkringliggende lejligheder er også brandskadet, fortæller indsatsleder Bo Isaksen fra Nordjyllands Beredskab, som oplyser, at det var forbipasserende, der opdagede branden og slog alarm.</p><p>Nordjyllands Beredskab fik meldingen om branden klokken 8.56 og rykkede ud med syv biler og 13 brandmænd, som i flere timer har kæmpet for at undgå, at branden skulle sprede sig til bygninger i nærheden.</p><p>Hverken mennesker eller dyr var i fare i forbindelse med branden.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/bygning-braender-flammer-er-gaet-gennem-taget-50cf2",
   "published": "Fri, 30 Jan 26 09:12:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/bygning-braender-flammer-er-gaet-gennem-taget-50cf2",
@@ -282,28 +282,20 @@
   "category": "Nyheder"
  },
  {
+  "title": "Topscorer og hurtigløber forstærker AaB til maratontest i kulden - Nordjyske liveblogger fra Haderslev",
+  "description": "Nordjyske liveblogger og laver podcast, når AaB tester formen mod superligaholdet Sønderjyske kl. 13.",
+  "link": "https://nordjyske.dk/nyheder/sport/topscorer-og-hurtigloeber-forstaerker-aab-til-maratontest-i-kulden/5904221?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 29 Jan 2026 14:26:10 Z",
+  "guid": "68388209-4a93-4b95-834a-8805822b52ed",
+  "category": "AaB"
+ },
+ {
   "title": "23-årig mand var offer for sakseoverfald - Nu er gerningsmanden dømt",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/krimi/23-aarig-mand-var-offer-for-sakseoverfald-nu-er-gerningsmanden-doemt/5902108?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Thu, 29 Jan 2026 15:40:14 Z",
   "guid": "484e0b48-8fe7-4781-9c47-ca803398845a",
   "category": "Krimi"
- },
- {
-  "title": "Nordjyske erfarer: Tidligere landsholdsprofil lander i Vendsyssel FF",
-  "description": "Vendsyssel FF ser ud til at lukke vinduet med lidt af et transfer-kup",
-  "link": "https://nordjyske.dk/nyheder/sport/nordjyske-erfarer-tidligere-landsholdsprofil-lander-i-vendsyssel-ff/5906508?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 30 Jan 2026 06:56:17 Z",
-  "guid": "03b9e573-904c-4bd0-842c-ec23d1aa33c3",
-  "category": "fodboldtransfer"
- },
- {
-  "title": "Voldsom brand i Sæby - dyrlæge og lejligheder i bygningen",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/voldsom-brand-i-saeby-dyrlaege-og-lejligheder-i-bygningen/82cc823f-d798-4120-bc02-5c6bcecdba3e?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 30 Jan 2026 08:26:22 Z",
-  "guid": "82cc823f-d798-4120-bc02-5c6bcecdba3e",
-  "category": "Nyheder"
  },
  {
   "title": "Nyhedsbrev: AaB var allerede klar til at købe Kubel inden fatalt møde",
@@ -314,12 +306,28 @@
   "category": "AaB"
  },
  {
+  "title": "Dyrlægeklinik og lejligheder i Sæby skadet af voldsom brand",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/voldsom-brand-i-saeby-dyrlaege-og-lejligheder-i-bygningen/82cc823f-d798-4120-bc02-5c6bcecdba3e?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 30 Jan 2026 08:26:22 Z",
+  "guid": "82cc823f-d798-4120-bc02-5c6bcecdba3e",
+  "category": "Nyheder"
+ },
+ {
   "title": "Køber kæmpe skoleområde: Nu bliver det ramme om helt ny bydel",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/byudvikling/koeber-kaempe-skoleomraade-nu-bliver-det-ramme-om-helt-ny-bydel/5899648?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Thu, 29 Jan 2026 04:37:59 Z",
   "guid": "346b7fd8-3417-41c1-8f17-b2aa888f3545",
   "category": "byudvikling"
+ },
+ {
+  "title": "Nordjyske erfarer: Tidligere landsholdsprofil lander i Vendsyssel FF",
+  "description": "Vendsyssel FF ser ud til at lukke vinduet med lidt af et transfer-kup",
+  "link": "https://nordjyske.dk/nyheder/sport/nordjyske-erfarer-tidligere-landsholdsprofil-lander-i-vendsyssel-ff/5906508?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 30 Jan 2026 06:56:17 Z",
+  "guid": "03b9e573-904c-4bd0-842c-ec23d1aa33c3",
+  "category": "fodboldtransfer"
  },
  {
   "title": "24 års fængsel og et indrejseforbud: Dom er faldet i sag om kuffert med 10,7 kilo kokain",
@@ -338,14 +346,6 @@
   "category": "Erhverv"
  },
  {
-  "title": "Topscorer og hurtigløber forstærker AaB til maratontest i kulden - Nordjyske liveblogger fra Haderslev",
-  "description": "Nordjyske liveblogger og laver podcast, når AaB tester formen mod superligaholdet Sønderjyske kl. 13.",
-  "link": "https://nordjyske.dk/nyheder/sport/topscorer-og-hurtigloeber-forstaerker-aab-til-maratontest-i-kulden/5904221?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 29 Jan 2026 14:26:10 Z",
-  "guid": "68388209-4a93-4b95-834a-8805822b52ed",
-  "category": "AaB"
- },
- {
   "title": "Da en besked fra landstræneren tikkede ind, begyndte to hektiske døgn for Thomas Arnoldsen",
   "description": "Mandag aften sad han hjemme i Aalborg og så Danmark besejre Tyskland. 48 timer senere kunne Aalborg Håndbolds Thomas Arnoldsen selv træde ind foran de 15.000 tilskuere i Jyske Bank Boxen",
   "link": "https://nordjyske.dk/nyheder/sport/da-en-besked-fra-landstraeneren-tikkede-ind-begyndte-to-hektiske-doegn-for-thomas-arnoldsen/5902390?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -362,6 +362,14 @@
   "category": "Tyk - og hvad så?"
  },
  {
+  "title": "Interne notater afslører, hvad der skete, da Forsvaret købte 87 bunkere ved Tolne",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/interne-mails-viser-hvad-der-var-paa-spil-da-forsvaret-koebte-87-bunkere-ved-tolne/5883658?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 28 Jan 2026 04:38:30 Z",
+  "guid": "2da66929-6741-4dbc-8582-13c95846ba2b",
+  "category": "Erhverv"
+ },
+ {
   "title": "3000 kunder ramt af Norlys-nedbrud: Nu er fejlen fundet",
   "description": "",
   "link": "https://nordjyske.dk/nu/3000-kunder-ramt-af-norlys-nedbrud-nu-er-fejlen-fundet/f16dec04-856b-433f-8b55-669b83e0a618?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -376,14 +384,6 @@
   "published": "Wed, 28 Jan 2026 04:42:38 Z",
   "guid": "326f5556-69ce-4300-8bd9-a388cf746314",
   "category": "Tyk - og hvad så?"
- },
- {
-  "title": "Interne notater afslører, hvad der skete, da Forsvaret købte 87 bunkere ved Tolne",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/interne-mails-viser-hvad-der-var-paa-spil-da-forsvaret-koebte-87-bunkere-ved-tolne/5883658?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 28 Jan 2026 04:38:30 Z",
-  "guid": "2da66929-6741-4dbc-8582-13c95846ba2b",
-  "category": "Erhverv"
  },
  {
   "title": "Miljøstyrelsen politianmelder Aalborg Forsyning: - Det her er en kæmpe sejr for fjorden",
