@@ -1,5 +1,14 @@
 [
  {
+  "title": "Kæmpehval flyttes: Obduktion skal afgøre dødsårsagen",
+  "description": "Naturstyrelsen fjerner død kaskelothval fra stranden ved Aalbæk. Eksperter skal nu dissekere den.",
+  "link": "https://www.dr.dk/nyheder/indland/kaempehval-flyttes-obduktion-skal-afgoere-doedsaarsagen",
+  "published": "Tue, 03 Feb 2026 07:14:00 GMT",
+  "guid": "urn:dr:umbraco:article:e0b1f4e8-456a-4c28-a7e9-ebdd3d4951c8",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Frsxe04z4%2Fkaskelot.jpg&w=1200"
+ },
+ {
   "title": "Første gang på Rådhuspladsen: Jeg fik et opkald klokken 22",
   "description": "Benjamin Brohus på 16 år havde ikke planlagt en tur til Rådhuspladsen. Et opkald klokken 22 efter EM-triumfen satte dog skub i tingene, og 10 timer senere var han på vej til København.",
   "link": "https://www.dr.dk/nyheder/indland/foerste-gang-paa-raadhuspladsen-jeg-fik-et-opkald-klokken-22",
@@ -169,13 +178,12 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fsvcg1ytg%2Fjsnd_a_indland_haandbold_txt-00323721.jpg&w=1200"
  },
  {
-  "title": "Må afvise voldsramte kvinder: Nu får krisecenter mere plads",
-  "description": "Sidste år blev 170 kvinder afvist af krisecenter i Aalborg. Nu får centret otte nye lejligheder.",
-  "link": "https://www.dr.dk/nyheder/regionale/nordjylland/maa-afvise-voldsramte-kvinder-nu-faar-krisecenter-mere-plads",
-  "published": "Thu, 22 Jan 2026 09:20:00 GMT",
-  "guid": "urn:dr:umbraco:article:a50f5926-7913-426d-8440-d19d6cc0b1c0",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F3utge1bq%2F20251104-120832-6_crop002.jpg&w=1200"
+  "title": "Prognoser intensiverer stort snevejr over Danmark - Nordjylland rammes",
+  "description": "<p>De nyeste prognoser holder fast i, at Danmark skal rammes af et stort snevejr fra på torsdag. Faktisk intensiverer de ligefrem snevejrets styrke.</p><p>I skrivende stund ventes snevejret at ramme torsdag eftermiddag, hvorfra det vil brede sig ud over hele landet.</p> <p>Natten til fredag vil stort set hele landet opleve snefald.</p><p>Foreløbigt er det især Nord- og Østjylland samt Sjælland, Lolland, Falster og Møn, der har udsigt til mest sne. Her kan der falde op mellem 15 og 20 centimeter nysne.</p><p>Mængderne og områderne kan dog stadig nå at ændre sig.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/prognoser-intensiverer-stort-snevejr-over-danmark-nordjylland-rammes-ae17b",
+  "published": "Tue, 03 Feb 26 08:00:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/prognoser-intensiverer-stort-snevejr-over-danmark-nordjylland-rammes-ae17b",
+  "category": "No category"
  },
  {
   "title": "Industriaffald bliver til bestseller - direktør kalder det 'signaturprodukt'",
@@ -250,14 +258,6 @@
   "category": "No category"
  },
  {
-  "title": "Fortuna henter midtbanespiller hjem",
-  "description": "<p>Efter to år væk vender 23-årige Signe Carstens hjem til Fortuna Hjørring med øjeblikkelig virkning. </p><p>Signe Carstens bliver hentet fra Brøndby på en kontrakt, der løber resten af året. Det skriver Fortuna Hjørring i en pressemeddelelse. </p> <p>Midtbanespilleren har tidligere spillet for det nordjyske hold sammen med sin tvillingesøster Mathilde. Men i 2024 tog hun turen til Celtic i Skotland, AIK i Sverige og senest Brøndby på Sjælland. </p><p>Hun står noteret for 74 kampe for Fortuna Hjørring. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/fortuna-henter-midtbanespiller-hjem-f5f96",
-  "published": "Mon, 02 Feb 26 19:17:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/fortuna-henter-midtbanespiller-hjem-f5f96",
-  "category": "No category"
- },
- {
   "title": "Electable går konkurs efter mislykket overlevelseskamp",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/electable-gaar-konkurs-efter-mislykket-overlevelseskamp/5905457?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -266,7 +266,15 @@
   "category": "Erhverv"
  },
  {
-  "title": "Som skoleleder er Peter Würtz ikke bange for at stille krav. Og han gradbøjer aldrig reglerne",
+  "title": "Nu bliver strandet kaskelothval i Aalbæk Bugt flyttet",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/nu-bliver-strandet-kaskelothval-i-aalbaek-bugt-flyttet/fbf7e46e-67e3-4fd0-9e07-efdb6e8c896b?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 03 Feb 2026 07:43:59 Z",
+  "guid": "fbf7e46e-67e3-4fd0-9e07-efdb6e8c896b",
+  "category": "Nyheder"
+ },
+ {
+  "title": "Et firkantet sæt regler er ifølge skolelederen Peter Würtz årsagen bag en succesfuld skole",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/aalborg/som-skoleleder-er-peter-w-rtz-ikke-bange-for-at-stille-krav-og-han-gradboejer-aldrig-reglerne/5825319?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 02 Feb 2026 23:03:44 Z",
@@ -282,6 +290,14 @@
   "category": "AaB"
  },
  {
+  "title": "Selvom mavesækken blev opereret til en lille lomme, ændrede det ikke det sværeste for Conni",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/vores-liv/selvom-mavesaekken-blev-opereret-til-en-lille-lomme-aendrede-det-ikke-det-svaereste-for-conni/5910024?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 03 Feb 2026 06:20:01 Z",
+  "guid": "ee020941-fb22-4f2d-b0f6-937449f30b77",
+  "category": "Tyk - og hvad så?"
+ },
+ {
   "title": "Snart kommer der nyt liv i det lukkede værft i Hirtshals",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/snart-kommer-der-nyt-liv-i-det-lukkede-vaerft-i-hirtshals/5909227?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -290,20 +306,20 @@
   "category": "Erhverv"
  },
  {
-  "title": "Conni tog 20 kilo på – og nægtede at gå i panik",
-  "description": "Efter år med slankekure, slankepiller og en fedmeoperation tog vægten igen overhånd. Forskellen er, at Conni Fristrup denne gang ved, hvad der virker – og hvorfor",
-  "link": "https://nordjyske.dk/nyheder/vores-liv/conni-tog-20-kilo-paa-og-naegtede-at-gaa-i-panik/5903749?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 03 Feb 2026 04:51:49 Z",
-  "guid": "fc0f0c8a-2f10-4d31-93b5-af06ccb61868",
-  "category": "Tyk - og hvad så?"
- },
- {
   "title": "Deadline day er slut - sådan gik det i de nordjyske klubber",
   "description": "Deadline day live-showet er ovre, men det betyder ikke, at spillet er ovre. Du kan stadig stille spørgsmål eller komme med din mening i livebloggen",
   "link": "https://nordjyske.dk/nyheder/sport/foelg-det-nordjyske-transfervindue-her-aab-viser-interesse-for-1-divisionsprofil/5884396?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Tue, 13 Jan 2026 16:26:43 Z",
   "guid": "a354b01a-b3fa-442c-8a93-dce1b5f2633d",
   "category": "fodboldtransfer"
+ },
+ {
+  "title": "Conni tog 20 kilo på – og nægtede at gå i panik",
+  "description": "Efter år med slankekure, slankepiller og en fedmeoperation tog vægten igen overhånd. Forskellen er, at Conni Fristrup denne gang ved, hvad der virker – og hvorfor",
+  "link": "https://nordjyske.dk/nyheder/vores-liv/conni-tog-20-kilo-paa-og-naegtede-at-gaa-i-panik/5903749?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 03 Feb 2026 04:51:49 Z",
+  "guid": "fc0f0c8a-2f10-4d31-93b5-af06ccb61868",
+  "category": "Tyk - og hvad så?"
  },
  {
   "title": "Politi dropper efterforskning af borgmester - men dødsulykke undersøges stadig",
@@ -392,22 +408,6 @@
   "published": "Mon, 02 Feb 2026 06:55:26 Z",
   "guid": "85459d9a-1827-4a73-899e-9c975e9776d1",
   "category": "Nyheder"
- },
- {
-  "title": "Her kan fyrede Spar Nord-medarbejdere finde nyt job",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/de-blev-fyret-i-spar-nord-her-kan-de-sagtens-finde-et-nyt-job-vurderer-ekspert/5906680?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 01 Feb 2026 04:54:48 Z",
-  "guid": "0d77a70d-648b-4464-8098-8896e8e6df59",
-  "category": "Erhverv"
- },
- {
-  "title": "Han blev dømt for at dræbe sin bedste ven. Men én ting ændrede alt i landsretten",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/krimi/han-blev-doemt-for-at-draebe-sin-bedste-ven-men-n-ting-aendrede-alt-i-landsretten/5894914?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 01 Feb 2026 04:52:57 Z",
-  "guid": "61ac3e42-63b8-4c49-ba0b-a91ad25c427d",
-  "category": "Retssager"
  },
  {
   "title": "Er livet på landet virkelig så stille? Frisøren i Siem gav os svar, vi ikke så komme",
