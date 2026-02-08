@@ -1,5 +1,14 @@
 [
  {
+  "title": "Emma og Andreas skal finde rundt på nyt kæmpesygehus: 140 portører har været på skattejagt",
+  "description": "Det er altafgørende, at portørerne kan finde vej, når de skal hjælpe patienter rundt på det nye hospital i Aalborg Øst.",
+  "link": "https://www.dr.dk/nyheder/indland/emma-og-andreas-skal-finde-rundt-paa-nyt-kaempesygehus-140-portoerer-har-vaeret-paa-skattejagt",
+  "published": "Sun, 08 Feb 2026 09:51:00 GMT",
+  "guid": "urn:dr:umbraco:article:2dd011f8-0d1f-4a4d-a088-3338ee56e483",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F2fxdii5k%2Fjsnd_a_indland_sygehusflyt_aalborg-01041707.jpg&w=1200"
+ },
+ {
   "title": "I dag sker Region Nordjyllands største flytning nogensinde: Flere end 80 patienter rykker ind på nyt hospital",
   "description": "Byggeriet af det nye hospital i Aalborg har været under vejs i over 10 år. I dag kan patienter rykke ind på sengestuerne.",
   "link": "https://www.dr.dk/nyheder/indland/i-dag-sker-region-nordjyllands-stoerste-flytning-nogensinde-150-patienter-rykker-ind-paa-nyt",
@@ -167,15 +176,6 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fp30cluag%2F20160302-152451-3.jpg&w=1200"
  },
  {
-  "title": "Midt i historisk krise vil rigtig mange af os til Grønland: 'Det er nok på grund af Trump'",
-  "description": "Mens det storpolitiske drama udspiller sig, oplever rejseselskaber, at flere vil en tur til Grønland.",
-  "link": "https://www.dr.dk/nyheder/indland/groenland/midt-i-historisk-krise-vil-rigtig-mange-af-os-til-groenland-det-er-nok-paa-grund-af-trump",
-  "published": "Sun, 25 Jan 2026 07:03:00 GMT",
-  "guid": "urn:dr:umbraco:article:a608c2f3-09b5-4133-b69e-03806c14d029",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fnvhmvvbj%2Fphoto_collage-4.jpg&w=1200"
- },
- {
   "title": "Søndag flyttes de første patienter til nyt sygehus",
   "description": "<p>Søndag morgen klokken seks startede flytningen af de første sengepatienter fra Aalborg Universitetshospital Syd til Nyt Aalborg Universitetshospital i Hospitalbyen, der ligger ved Aalborg Universitet i den østlige del af byen.</p><p>87 patienter bliver fragtet i ambulance fra det ene hospital til det andet. Flytningen af sengepatienter forventes at foregå over tre omgange, og de næste bliver flyttet om seks uger.</p><p>Der er afsat 20 ambulancer til at transportere patienterne.</p><p>Til maj skal Aalborg Universitetshospital Nord, der ligger i Aalborg Centrum, også tømmes for patienter.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/sondag-flyttes-de-forste-patienter-til-nyt-sygehus-c6c71",
@@ -256,6 +256,14 @@
   "category": "No category"
  },
  {
+  "title": "Mai Hallberg kvittede sit fag efter 25 år. Det sværeste var ikke beslutningen. Det var en irrationel frygt",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/saadan-foeles-det-at-sidde-fast-i-sit-arbejdsliv-og-springe-ud-i-det-uvisse-selvom-det-ville-vaere-mere-trygt-at-blive/5912797?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 08 Feb 2026 05:00:47 Z",
+  "guid": "877a04b4-4a7e-4463-91a7-371b19d93c19",
+  "category": "Erhverv"
+ },
+ {
   "title": "Supersygehuset har kostet milliarder: Her er fem ting, du får for pengene",
   "description": "Har du ledt forgæves efter en p-plads ved Sygehus Syd? Du kan se frem til langt flere pladser i Hospitalsbyen",
   "link": "https://nordjyske.dk/nyheder/supersygehuset-har-kostet-milliarder-her-er-fem-ting-du-faar-for-pengene/5905581?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -272,20 +280,20 @@
   "category": "Tyverier"
  },
  {
-  "title": "Mai Hallberg kvittede sit fag efter 25 år. Det sværeste var ikke beslutningen. Det var en irrationel frygt",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/saadan-foeles-det-at-sidde-fast-i-sit-arbejdsliv-og-springe-ud-i-det-uvisse-selvom-det-ville-vaere-mere-trygt-at-blive/5912797?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 08 Feb 2026 05:00:47 Z",
-  "guid": "877a04b4-4a7e-4463-91a7-371b19d93c19",
-  "category": "Erhverv"
- },
- {
   "title": "I dag flytter de første patienter ind i supersygehuset",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/aalborg/i-dag-flytter-de-foerste-patienter-ind-i-supersygehuset/5916455?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sun, 08 Feb 2026 06:20:13 Z",
   "guid": "3b0adef2-9633-4e4e-b2bc-fa4f37215361",
   "category": "Aalborg universitetshospital"
+ },
+ {
+  "title": "To færdselsuheld gav materielle skader syd for Støvring",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/to-faerdselsuheld-gav-materielle-skader-syd-for-stoevring/a5669916-7b83-4e7f-a4df-9f12014febf4?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 08 Feb 2026 09:31:19 Z",
+  "guid": "a5669916-7b83-4e7f-a4df-9f12014febf4",
+  "category": "Nyheder"
  },
  {
   "title": "Da Oscar Fisker Mølgaards største drøm gik i opfyldelse, begyndte to døgn, som hans forældre aldrig glemmer",
@@ -398,14 +406,6 @@
   "published": "Fri, 06 Feb 2026 05:00:50 Z",
   "guid": "d51b4eec-4f6b-4a25-8cd5-0116aa9fb62f",
   "category": "AaB"
- },
- {
-  "title": "Pia må ikke se dokumenterne om sin mors tragiske død: Minister vil nu kigge på reglerne",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/politik/pia-maa-ikke-se-dokumenterne-om-sin-mors-tragiske-doed-minister-vil-nu-kigge-paa-reglerne/5910007?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 06 Feb 2026 04:52:13 Z",
-  "guid": "0e2bfc7f-91f3-462a-8889-c42bbaba9581",
-  "category": "Kvinde kvalt i t-shirt"
  },
  {
   "title": "Er livet på landet virkelig så stille? Frisøren i Siem gav os svar, vi ikke så komme",
