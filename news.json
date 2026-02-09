@@ -1,5 +1,14 @@
 [
  {
+  "title": "Miljøskibe ligger stille: Forurener for meget",
+  "description": "Forsvarets miljøskibe er taget delvist ud af drift, fordi deres dieselmotorer forurener.",
+  "link": "https://www.dr.dk/nyheder/indland/miljoeskibe-ligger-stille-forurener-meget",
+  "published": "Mon, 09 Feb 2026 09:44:00 GMT",
+  "guid": "urn:dr:umbraco:article:6fffcf44-e475-48f5-8569-86bb2224c069",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Foz2h4m2y%2F20211126-172401-1.jpg&w=1200"
+ },
+ {
   "title": "Erik er første patient på Aalborgs nye sygehus: Dejligt med enestue og udsigt",
   "description": "Dagens flytning af de første 68 patienter er - trods vinterkulde og glatte veje - gået helt efter planen.",
   "link": "https://www.dr.dk/nyheder/indland/erik-er-foerste-patient-paa-aalborgs-nye-sygehus-dejligt-med-enestue-og-udsigt",
@@ -167,13 +176,28 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F1xtmy4jk%2F20250717-220335-l.jpg&w=1200"
  },
  {
-  "title": "Borgere ville lukke lokal folkeskole for at starte friskole: Nu står børn helt uden en skole til sommer",
-  "description": "Borgerne i Asaa foreslog selv det lokale byråd at lukke byens folkeskole på grund af lave elevtal.",
-  "link": "https://www.dr.dk/nyheder/indland/borgere-ville-lukke-lokal-folkeskole-starte-friskole-nu-staar-boern-helt-uden-en-skole-til-sommer",
-  "published": "Mon, 26 Jan 2026 17:00:00 GMT",
-  "guid": "urn:dr:umbraco:article:7e34093c-da11-4513-9e0c-f68595f0562d",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fxclhxsgv%2Fasaa-skole.jpeg&w=1200"
+  "title": "Udskældt autoforhandler betaler kundernes penge tilbage",
+  "description": "<p>Der er penge på vej til en stor del af de kunder, der har følt sig snydt af den udskældte bilforhandler Autotorvet i Vodskov.</p><p>Autotorvet kom i mediernes søgelys, da DRs forbrugerprogram Kontant afslørede, hvordan brugtvognsforhandleren solgte biler maskeret som formidlingssalg – hvilket fritog dem for at yde to års reklamationsret.</p><p>Men nu har omkring 35 kunder altså fået medhold i, at der var tale om reelle forbrugerkøb, så de er omfattet af købelovens reklamationsret.</p><p>- Vi har nogle verserende sager derudover, og der kommer også nye sager til. Autotorvet har jo solgt biler i en årrække, så den her sagstype dør ikke ud på fem minutter, siger organisationen FDMs jurist Christian Boddum Hjortshøj til TV2 Nord.</p><p>FDM har rejst krav mod Autotorvet på vegne af mere end 50 medlemmer.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/udskaeldt-autoforhandler-betaler-kundernes-penge-tilbage-1d342",
+  "published": "Mon, 09 Feb 26 11:53:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/udskaeldt-autoforhandler-betaler-kundernes-penge-tilbage-1d342",
+  "category": "No category"
+ },
+ {
+  "title": "Spor var blokeret på rute 40 efter uheld",
+  "description": "<p><em>Opdateret klokken 10.53: Uheldet er ophævet på trafikkortet. </em></p><p>En bil blokerer det ene spor på rute 40 fra Skagen mod Frederikshavn. </p><p>Det skyldes et uheld, som er sket mellem Jerup og Frederikshavn. </p><p>Det fremgår af Vejdirektoratets <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">trafikkort. </a></p><p>Ifølge Vejdirektoratet er uheldsstedet endnu ikke sikret. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/uheldssted-er-endnu-ikke-sikret-efter-uheld-5c8ca",
+  "published": "Mon, 09 Feb 26 10:10:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/uheldssted-er-endnu-ikke-sikret-efter-uheld-5c8ca",
+  "category": "No category"
+ },
+ {
+  "title": "Mand fremstilles i grundlovsforhør efter tumult med politiet",
+  "description": "<p>En 46-årig mand med adresse i Sønderjylland blev søndag ved 19-tiden anholdt ved banegården i Frederikshavn.</p><p>Det skete efter en episode, hvor han var i tumult med ordensmagten.</p><p>Patruljen var sendt ud for at vise manden over til toget, da han ifølge anmeldelsen var beruset og skabte sig på gaden. Da patruljen nåede frem, eskalerede situationen pludselig.</p><p>- Her tager han umotiveret fat i betjentens tommelfinger og vrider den bagud, så pågældende betjent står med en forstuvet finger, lyder det fra Peter Skovbak, der er politikommissær ved Nordjyllands Politi i Frederikshavn.</p><p>Manden sendte desuden trusler afsted mod betjentene. Han er derfor nu sigtet for overtrædelse af straffelovens paragraf 119. Bestemmelsen omhandler vold mod tjenestemand i funktion.</p><p>Den sigtede er tidligere straffet for lignende forhold. Han fremstilles i grundlovsforhør i Hjørring mandag klokken 12.00.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/mand-fremstilles-i-grundlovsforhor-efter-tumult-med-politiet-d748a",
+  "published": "Mon, 09 Feb 26 09:27:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/mand-fremstilles-i-grundlovsforhor-efter-tumult-med-politiet-d748a",
+  "category": "No category"
  },
  {
   "title": "Earlybird var succes - nu åbner lokal festival billetsalget",
@@ -232,31 +256,7 @@
   "category": "No category"
  },
  {
-  "title": "Verdensmester på et år: Nu har hun sikret endnu en medalje",
-  "description": "<p>De fleste holder sig til et kort dyp i det vinterkolde vand, men for 44-årige Signe Simonsen er det både en hobby og en sport at dyrke issvømning. </p> <p>For bare to år siden var hun nybegynder, i dag er hun medaljevinder. Og tirsdag gjorde hun det igen. Her deltog hun til EM i issvømning i Molveno i Italien og vandt en bronzemedalje i 100 meter butterfly i aldersgruppen 45-49 år. </p><p>- Det er kæmpe stort. Jeg har trænet med henblik på at blive bedre til butterfly, så det er en kæmpe forløsning, siger Signe Simonsen. </p> <p>Hun var en blandt 511 deltagere fra 32 forskellige nationer. </p><p>Fejringen af medaljen var også ret ikonisk. </p><p>- Vi tog vores medaljer og dannebrogsflag om halsen og kørte ned af pisterne. Vi havde en fest med det, fortæller Signe Simonsen, der fejrede sejren sammen med en anden issvømmer. </p> <h2>Jagten efter guldmedaljen</h2><p>Sidste år rejste hun også til Molveno i Italien for bla. at svømme 1000 meter ved Ice Swimming World Championship.</p><p>Netop guldmedaljen går hun også efter i starten af marts, når hun deltager i VM i vintersvømning i Oulo i Finland, hvor hun er forsvarende verdensmester i tre discipliner. </p><p>Inden da prøver hun kræfter med World Cup i vintersvømning i Sverige.</p><p>- Sporten bliver mere og mere populær, så det er ikke til at vide, hvordan det ender, men den skal have fuld gas, siger medaljevinderen. </p> <p><em>Sidste år fulgte TV2 Nord Signe Simonsens rejse til VM i Molveno. Se hvordan det gik i serien ”Iskold” <a href=\"https://play.tv2.dk/nord\">på TV 2 Play.</a></em></p>",
-  "link": "https://www.tv2nord.dk/nordjylland/verdensmester-pa-et-ar-nu-har-hun-sikret-endnu-en-medalje-11d52",
-  "published": "Sun, 08 Feb 26 18:56:00 +0100",
-  "guid": "https://www.tv2nord.dk/nordjylland/verdensmester-pa-et-ar-nu-har-hun-sikret-endnu-en-medalje-11d52",
-  "category": "No category"
- },
- {
-  "title": "Regionsrådsformand ånder lettet op: Problemramt hospital endelig åbnet",
-  "description": "<p>- Det er på alle mulige måder en fantastisk dag, lyder det fra Regionsrådsformand Mads Duedahl (V).</p><p>Glæden over, at det længe ventede supersygehus i Aalborg Øst endelig kunne tage imod de første patienter, er ikke til at tage fejl af.  </p> <p>66 styks blev det til i denne omgang, men inden længe er hospitalet fyldt med patienter fra Aalborg Universitetshospital Syd og Nord.</p><p>- Alting har spillet, som det skulle i dag, så der er kun grund til at være rigtig stolt og tilfreds, lyder det fra Mads Duedahl. </p><h2>Bøvl på bøvl</h2><p>Men alting er langt fra gået som det skulle under opførelsen af det nye sygehus. Projektet har varet mere end et årti, er mere end seks år forsinket og har vist sig at koste mere end en milliard kroner mere end forventet. </p> <p>Undervejs har hospitalet været ramt af oversvømmelse og skimmelsvamp. </p> <p>- Det er selvfølgelig noget, vi har været rigtig ærgerlige over, siger regionsrådsformanden. </p><p>Han vil ikke garantere, at der ikke kan opstå nye udfordringer, men han ser ikke grund til andet end at se fremad. </p><p>- Der er lys for enden af tunnelen, når vi flytter ind. Og det virker som om, at alting fungerer i dag, som det skal gøre, siger han. </p> <h2>Efterregning, men det værd</h2><p>Mads Duedahl vil dog ikke påstå, at alt nu kører på skinner. Men det vigtigste er på plads. Sygehuset er færdigbygget, og patienterne rykker ind. </p> <p>- Der bliver måske nogle områder, hvor tingene ikke lige er indstillet, men det må vi jo tage løbende, lyder det.</p> <p>En af hængepartierne er efterregningen. For at kunne bygge hospitalet færdigt, måtte regionen optage et lån, og det skal afdrages de næstkommende år. </p><p>- Det vigtigste for os, i regionsrådet, har været at få bygget sygehuset færdigt til gavn og glæde for nordjyderne. Det medfølger en regning, siger formanden for regionsrådet. </p> <p>Og regningen er vores. Skatteyderne. Men det er det værd, hvis det står til regionsrådsformanden. Nordjyderne kommer nemlig til at mærke, at de bliver indlagt på et nyt hospital.</p><p>-  Nordjyderne kommer til at opleve en markant forskel i det, vi kan tilbyde, lyder det. </p> <p>Og det er blandt andet enkeltstuer til patienterne med mulighed for overnatning til pårørende, nye operationsstuer og generelt nyt udstyr.</p><p>- Vi kommer til at give et førsteklasses tilbud til nordjyderne, afslutter Mads Duedahl. </p><p><em>Nyt Aalborg Universitetshospital i Hospitalsbyen tager imod patienter fra Aalborg Universitetshospital yderligere to gange, før patienter fra Aalborg Universitetshospital Nord også bliver flyttet.</em></p>",
-  "link": "https://www.tv2nord.dk/region-nordjylland/regionsradsformand-ander-lettet-op-problemramt-hospital-endelig-abnet-e47b3",
-  "published": "Sun, 08 Feb 26 18:00:00 +0100",
-  "guid": "https://www.tv2nord.dk/region-nordjylland/regionsradsformand-ander-lettet-op-problemramt-hospital-endelig-abnet-e47b3",
-  "category": "No category"
- },
- {
-  "title": "To personer fundet døde efter villabrand",
-  "description": "<p>En ældre mand og en ældre kvinde blev torsdag fundet døde i forbindelse med en brand på Hanebakkevej i Skørping.</p><p>Branden brød ud torsdag eftermiddag, og brandvæsnet var talstærkt til stede på bopælen. </p><p>- I forbindelse med slukningsarbejdet blev de to personer fundet døde, oplyser efterforskningsleder Carsten Straszek fra Nordjyllands Politi. </p> <p>Den endelige brand- og dødsårsag forventes der at komme svar på senere på ugen. </p><p>- Alt tyder på, at der er tale om en tragisk ulykke, siger Carsten Straszek.</p> <p>Beredskabet indsatte røgdykkere for at få slukket branden i huset, ligesom to vandtankvogne forsøgte at slukke branden, men de to personer, der formodes at bo på adressen, var på tragisk vis omkommet. </p><p>Søndag eftermiddag blussede branden op igen ved en ildlomme, hvorfor beredskabet var tilstede på bopælen igen. </p><p>Da Nordjyllands Politi fortsat foretager undersøgelser skulle slukningen foregå så nænsomt som muligt for ikke at slette spor, fortalte indsatsleder hos Nordjyllands Beredskab, Allan Frisk, tidligere søndag eftermiddag.</p>",
-  "link": "https://www.tv2nord.dk/rebild/to-personer-fundet-dode-i-forbindelse-med-brand-1bd70",
-  "published": "Sun, 08 Feb 26 16:59:00 +0100",
-  "guid": "https://www.tv2nord.dk/rebild/to-personer-fundet-dode-i-forbindelse-med-brand-1bd70",
-  "category": "No category"
- },
- {
-  "title": "Da journalist ringede til Martin Nielsen troede han ikke på det: Aalborg Kommune er gået bag om ryggen i vejprojekt",
+  "title": "Da journalist ringede til Martin Nielsen, troede han ikke på det: Aalborg Kommune er gået bag om ryggen i vejprojekt",
   "description": "En tvist om parkeringspladser kan blive begyndelsen på enden for et af Aalborgs mest ambitiøse byggeprojekter",
   "link": "https://nordjyske.dk/nyheder/byudvikling/manden-med-visionerne-for-den-gamle-spritfabrik-lufter-nu-for-foerste-gang-muligheden-for-at-droppe-projektet-og-bygge-lejligheder-i-det-hele/5896014?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Mon, 09 Feb 2026 04:44:42 Z",
@@ -296,14 +296,6 @@
   "category": "Aalborg universitetshospital"
  },
  {
-  "title": "33 paller laks forsvandt sporløst efter nøje planlagt kup. Usædvanligt, siger politiet",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/krimi/33-paller-laks-forsvandt-sporloest-efter-noeje-planlagt-kup-usaedvanligt-siger-politiet/5915216?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 08 Feb 2026 05:01:18 Z",
-  "guid": "6381d978-2a43-4198-92eb-eb7aef7aeaef",
-  "category": "Tyverier"
- },
- {
   "title": "AaB-talent skal vise sig frem til prøvetræning i Holland",
   "description": "AaB har givet et af klubbens store talenter lov til at vise sig frem på et af de mest respekterede akademier i Holland",
   "link": "https://nordjyske.dk/nyheder/sport/aab-talent-skal-vise-sig-frem-til-proevetraening-i-holland/5917990?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -312,20 +304,28 @@
   "category": "AaB"
  },
  {
-  "title": "Utryghed og mistillid på skole: Nu griber kommunens ledelse ind",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/aalborg/utryghed-og-mistillid-paa-skole-nu-griber-kommunens-ledelse-ind/5913319?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 07 Feb 2026 04:58:52 Z",
-  "guid": "f74596eb-1302-4951-8a53-cac3b3d293ef",
-  "category": "skoler"
- },
- {
   "title": "Christina og Andreas flyttede ud på en ø: - Tiden går langsommere herovre",
   "description": "Christina og Andreas Wolf besluttede sig for at bosætte sig på kanten af Nordjylland - på Læsø. Det har de ikke fortrudt",
   "link": "https://nordjyske.dk/nyheder/vores-liv/christina-og-andreas-flyttede-ud-paa-en-oe-tiden-gaar-langsommere-herovre/5894707?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sat, 07 Feb 2026 05:01:48 Z",
   "guid": "3b149758-0685-498d-9f49-922f6a54f428",
   "category": "På kanten af Nordjylland"
+ },
+ {
+  "title": "33 paller laks forsvandt sporløst efter nøje planlagt kup. Usædvanligt, siger politiet",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/krimi/33-paller-laks-forsvandt-sporloest-efter-noeje-planlagt-kup-usaedvanligt-siger-politiet/5915216?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 08 Feb 2026 05:01:18 Z",
+  "guid": "6381d978-2a43-4198-92eb-eb7aef7aeaef",
+  "category": "Tyverier"
+ },
+ {
+  "title": "Utryghed og mistillid på skole: Nu griber kommunens ledelse ind",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/aalborg/utryghed-og-mistillid-paa-skole-nu-griber-kommunens-ledelse-ind/5913319?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 07 Feb 2026 04:58:52 Z",
+  "guid": "f74596eb-1302-4951-8a53-cac3b3d293ef",
+  "category": "skoler"
  },
  {
   "title": "I dag flytter de første patienter ind i supersygehuset",
