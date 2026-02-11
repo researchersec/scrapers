@@ -14,7 +14,8 @@
   "link": "https://www.dr.dk/nyheder/seneste/dansk-skibshistorie-faar-nyt-liv-paa-badehotel",
   "published": "Wed, 11 Feb 2026 06:33:00 GMT",
   "guid": "urn:dr:umbraco:article:29c39adf-59f8-49f4-8ee9-5a84f1098e8b",
-  "category": "No category"
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F3gvklkqq%2Fimg_5552.jpeg&w=1200"
  },
  {
   "title": "35.000 kvinder har været ramt af særlig diabetes: ’Husk nu at blive tjekket’",
@@ -176,8 +177,16 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F3fjm4kdb%2F20260113-164148-4-6000x3779ma.jpg&w=1200"
  },
  {
-  "title": "Brud på gasledning i Skagen - lugtgener kan forekomme",
-  "description": "<p>Der er sket et brud på en gasledning i Skagen. Det skriver Nordjyllands Beredskab på X.</p><p>Det er en naturgasledning, der er brudt på Nordsøvej i 9990 Skagen, skriver beredskabet videre.</p><p>Naturgassen er ikke antændt, så beredskabet er i gang med at sikre området, mens de afventer en gastekniker.</p><p>Ifølge Nordjyllands Politi kan bruddet være forbundet med lugtgener i området.</p><p>Politiet forventer, at fejlen er snart udbedret.</p><p><em>Opdateres...</em></p>",
+  "title": "Lokale kunder fravælger købmand - kommer med opråb",
+  "description": "<p>Min Købmand i Vester Hornum er ude med et opråb til de lokale borgere.</p><p>For selvom butikken egentlig ofte har folk i butikslokalerne, så er der altså ikke altid tale om deciderede kunder. I stedet er der nemlig mange, som henter og sender pakker, og det er altså ikke nok til at holde liv i den lokale butik, lyder det fra købmand Mathilde Jensen.</p><p>- Vi oplever en nedgang i kundestrømmen. Altså dem, der kommer handler, de handler for mere end gennemsnittet i Danmark, og de kunder, der kommer og handler, de er virkelig gode til at støtte op, men vi oplever desværre også, at mange beboer i byen og omegn bruger os som pakkeshop og så kører i en anden butik før eller efter for at foretage deres daglige indkøb, og vi vil selvfølgelig gerne have dem til at købe ind hos os, fortæller hun.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/lokale-kunder-fravaelger-kobmand-kommer-med-oprab-3b926",
+  "published": "Wed, 11 Feb 26 12:00:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/lokale-kunder-fravaelger-kobmand-kommer-med-oprab-3b926",
+  "category": "No category"
+ },
+ {
+  "title": "Brud på naturgasledning i Skagen",
+  "description": "<p><em>Opdateret 11.07: Der er nu lukket for gasledningen.</em></p><p>Tidligere onsdag var der sket et brud på en gasledning i Skagen. Det skrev Nordjyllands Beredskab på X.</p><p>Det var en naturgasledning, der var brudt på Nordsøvej i 9990 Skagen.</p> <p>Naturgassen var ikke antændt, så beredskabet var i gang med at sikre området, mens de afventede en gastekniker.</p><p>Det lykkedes gasteknikeren at lukke for ledningen, så der ikke længere var et aktivt gasudslip. Derefter kunne beredskabet køre hjem igen.</p><p>Det var en rendegraver, der i forbindelse med vejarbejde kom til at rage en studs af naturgasledningen.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/brud-pa-gasledning-i-skagen-lugtgener-kan-forekomme-cb702",
   "published": "Wed, 11 Feb 26 10:23:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/brud-pa-gasledning-i-skagen-lugtgener-kan-forekomme-cb702",
@@ -197,6 +206,14 @@
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/born-i-mistrivsel-skal-vente-for-laenge-pa-hjaelp-mener-overlaege-cc862",
   "published": "Wed, 11 Feb 26 09:29:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/born-i-mistrivsel-skal-vente-for-laenge-pa-hjaelp-mener-overlaege-cc862",
+  "category": "No category"
+ },
+ {
+  "title": "Mand hastet på hospitalet efter frontalsammenstød",
+  "description": "<p>Tirsdag morgen skete der en voldsom trafikulykke på Lundgaard Hedevej ved Arden.</p><p>Politiet modtog anmeldelsen klokken 08.23.</p><p>Der var tale om en mand i slutningen af 30&#039;erne, som mistede herredømmet over sin bil. Det resulterede i, at han kørte frontalt ind i en modkørende bil.</p><p>Manden, der mistede herredømmet over sin bil, kom slemt til skade og måtte hastes på hospitalet med en ambulance. Ifølge politikommissær ved Nordjyllands Politi Henrik Kjær Hansen var manden efterfølgende i kritisk tilstand, men han blev meldt stabil.</p><p>Onsdag har politiet ikke fået en fornyet status på mandens tilstand.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/mand-hastet-pa-hospitalet-efter-frontalsammenstod-3e6b3",
+  "published": "Wed, 11 Feb 26 09:18:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/mand-hastet-pa-hospitalet-efter-frontalsammenstod-3e6b3",
   "category": "No category"
  },
  {
@@ -240,36 +257,12 @@
   "category": "No category"
  },
  {
-  "title": "- Når et barn har det svært, er al ventetid for lang",
-  "description": "<p>TV2 Nord har de seneste dage kunnet fortælle om lange ventetider på hjælp til børn i mistrivsel og deres forældre.</p><p>I Aalborg Kommune er der mellem to og otte måneders ventetid på tilbud målrettet pressede familier, ligesom børn i mistrivsel skal vente i måneder på &#039;hurtig hjælp&#039;.</p> <p>Og selvom konsekvenserne af ventetid i de kommunale systemer er et ret ubelyst emne i forskningsregi, er  overlæge i Børne- og Ungdsomspsykiatri og klinisk lektor, Anna Sofie Hansen, ikke i tvivl om, at ventetiden risikerer at gøre ondt værre.</p> <p>- Først og fremmest kan man sige fra familiernes perspektiv, så er det jo altid frustrerende at stå i, at man har et barn, der har det svært og ikke oplever at kunne komme til hjælp, siger hun og fortsætter:</p><p>- Og der er helt sikkert ting, vi kan forebygge ved at sætte ind i tide.</p><p><em>Så det er muligt at undgå, at nogle former for mistrivsel udvikler sig til psykiske diagnoser ved at sætte ind i tide?</em></p><p>- Ja, det tænker jeg, det er i nogle tilfælde. Og så er der ting som ADHD og autisme, som det er svært at forebygge sig ud af, men hvor vi kan undgå, at der kommer belastningsreaktioner oveni, lyder det fra overlægen. </p><h2>Fra dårligt til værre</h2><p>En af dem, der har oplevet at søge hjælp, uden at få det, er Maja Ahler. Begge hendes børn har ADHD og høj begavelse, og begge har oplevet mistrivsel i skolen. </p> <p>Hendes yngste søn har ikke været i skole siden december 2024. </p><p>På det tidspunkt havde Maja Ahler forsøgt at råbe op om sønnens problemer, men hun oplevede ikke, at hendes bekymring blev taget alvorligt. </p><p>Tiden gik. Han fik det værre. I december blev det umuligt for hende at aflevere ham om morgenen.</p><p>Siden da har han været hjemme, og selvom det lægger en dæmper på sønnens skolevægring, slider det på familien.</p><p>Derfor har Maja Ahler også efterspurgt hjælp ved kommunen til at håndtere de konflikter i hjemmet, der i høj grad opstår, fordi de alle er tyndslidte.</p> <p>Men også her har hun mødt stilstand. Længe fik hun at vide, at den hjælp, hun efterspurgte, ikke fandtes. I november sidste år fandt hun ud af, at det gjorde den.</p><p>- Jeg sagde ja tak med det samme, men vi er stadig i proces med at blive henvist, fortæller Maja Ahler. </p><p>Når det en gang sker, er der yderligere to måneders ventetid på den reelle familierådgivning.</p><p>- Der er ikke nogen forældre, der opsøger professionel hjælp uden at have brug for det, siger overlæge Anna Sofie Hansen.</p><p><em>Maja Ahler og flere andre forældre, vi har talt med, fortæller, at de oplever at have fået det værre, mens de har ventet på hjælp til deres børn og deres familie. Tænker du, at det er en realistisk konsekvens?</em></p><p>- Ja, det gør jeg. Når man er en familie og står der, hvor man har et barn, der har det svært, så er alt ventetid for lang ventetid.</p><h2>Søger hjælp i årevis</h2><p>Anna Sofie Hansen forklarer, at der de seneste år er kommet et øget fokus på, hvad der sker i den periode, en familie venter på hjælp.</p> <p>Men trods det er der stadig mange aspekter af særligt de kommunale ventetider, som vi ved meget lidt om. </p><p>- Vi ved nærmest ingenting om, hvilke effekter det har at vente på hjælp i det kommunale system. Men det, vi ved, er, at børn, der ender i psykiatrien, har søgt efter hjælp i flere år, inden de kommer dertil, siger hun og fortsætter:</p><p>- Og så ved vi, at for familierne er der ikke en adskillelse mellem ventetid til psykiatrien og til kommunale tilbud. Det er alt sammen en del af den samlede oplevelse af at vente på den rette hjælp. </p><h2>Alle starter i bunden</h2><p>Ifølge Anna Sofie Hansen hænger de mange års søgen efter hjælp, der ligger forud for, at et barn ender i psykiatrien, sammen med den trappetrinstænkning, der er om hjælp. </p><p>Man starter i bunden med det mindst indgribende, og hvis det ikke hjælper, kan man tage et skridt op. Og sådan går tiden. </p><p>Den tilgang kender Maja Ahler indgående, og for hende at se er der ingen tvivl om, at man har spildt tid på tiltag i bunden af trappen, som hun fra start kunne have sagt, aldrig ville hjælpe hendes søn.</p><p>- Det kan jeg godt være lidt bitter over, fordi vi har spildt kræfter på noget, der aldrig ville du, siger Maja Ahler, som går hjemme på fuld tid, mens familien venter på et nyt skoletilbud til hendes søn.</p><p>Og netop det fremhæver overlæge Anna Sofie Hansen også som en af de afledte effekter af ventetiden.</p><p>- Særligt for mødrene kan vi se, at der på gruppeniveau er en påvirkning i forhold til, at de har mindre tilknytning til arbejdsmarkedet, som formentlig skyldes, at de er nødt til at være hjemme sammen med deres børn.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/nar-et-barn-har-det-svaert-er-al-ventetid-for-lang-3ec9f",
-  "published": "Wed, 11 Feb 26 07:54:00 +0100",
-  "guid": "https://www.tv2nord.dk/aalborg/nar-et-barn-har-det-svaert-er-al-ventetid-for-lang-3ec9f",
-  "category": "No category"
- },
- {
-  "title": "Gråvejrsdag i det nordjyske",
-  "description": "<p>Det bliver atter en kold i det nordjyske, hvor temperaturerne vil ligge på et par minusgrader. Det vil dog føles endnu koldere grundet blæsten, der også tager til i løbet af aftenen.</p><p>Få vejrudsigten herunder af TV2&#039;s vejrvært Andreas Nyholm.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/gravejrsdag-i-det-nordjyske-59bd3",
-  "published": "Wed, 11 Feb 26 07:30:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/gravejrsdag-i-det-nordjyske-59bd3",
-  "category": "No category"
- },
- {
-  "title": "Se med live: I dag møder AaB både Skive og Thisted",
-  "description": "Onsdag er AaB vært for hele to træningskampe mod Skive IK og Thisted FC, og du kan streame begge på nordjyske.dk",
-  "link": "https://nordjyske.dk/nyheder/sport/se-to-aab-kampe-live-paa-nordjyske-dk/5919419?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 09 Feb 2026 15:28:18 Z",
-  "guid": "edaa8b3d-1bdb-41f5-bb13-cedc21de9b86",
-  "category": "AaB"
- },
- {
-  "title": "Brud på gasledning i Skagen",
+  "title": "Nordjyllands største ejendomsinvestor køber historisk Aalborg-hotel: - Vi ved, hvad det kræver",
   "description": "",
-  "link": "https://nordjyske.dk/nu/brud-paa-gasledning-i-skagen/7abfa346-196c-4ddc-9b7a-fd7fb1a60e28?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 11 Feb 2026 09:27:14 Z",
-  "guid": "7abfa346-196c-4ddc-9b7a-fd7fb1a60e28",
-  "category": "Nyheder"
+  "link": "https://nordjyske.dk/nyheder/erhverv/nordjyllands-stoerste-ejendomsinvestor-koeber-historisk-aalborg-hotel/5920303?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 11 Feb 2026 11:00:47 Z",
+  "guid": "801261f1-3546-4ee7-a728-73048fc35f01",
+  "category": "Erhverv"
  },
  {
   "title": "Dagplejen i Aalborg er under pres: Det kan få betydning for flere familier",
@@ -280,12 +273,20 @@
   "category": "Familieliv"
  },
  {
-  "title": "Hun kender opskriften på rekruttering ud og ind. Alligevel laver hun sin egen",
+  "title": "Hun har brugt 15 år på at rekruttere for andre efter bogen. Når hun selv ansætter, gør hun det stik modsatte",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/hun-har-brugt-15-aar-paa-at-rekruttere-for-andre-naar-hun-selv-ansaetter-goer-hun-det-stik-modsatte/5876422?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 11 Feb 2026 04:51:45 Z",
   "guid": "08bb09ce-03a8-4839-b20d-d1d37511371d",
   "category": "Erhverv"
+ },
+ {
+  "title": "Aalborg kan vinde grundspillet mod bundhold: Følg kampen og stil spørgsmål",
+  "description": "Vi liveblogger fra Aalborg Håndbolds hjemmekamp mod Grindsted. Stil spørgsmål allerede nu",
+  "link": "https://nordjyske.dk/nyheder/sport/aalborg-kan-vinde-grundspillet-mod-bundhold-foelg-kampen-og-stil-spoergsmaal/5917977?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 11 Feb 2026 08:52:05 Z",
+  "guid": "7c0143ae-9317-4805-a13f-994b0b8c42af",
+  "category": "Aalborg Håndbold"
  },
  {
   "title": "Bevaringsværdig bygning i Aalborg står til nedrivning",
@@ -296,20 +297,20 @@
   "category": "Riv ned eller bevar?"
  },
  {
+  "title": "Se med 13.30, når AaB møder Thisted i dagens anden træningskamp",
+  "description": "Onsdag er AaB vært for hele to træningskampe mod Skive IK og Thisted FC, og du kan streame begge på nordjyske.dk",
+  "link": "https://nordjyske.dk/nyheder/sport/se-to-aab-kampe-live-paa-nordjyske-dk/5919419?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 09 Feb 2026 15:28:18 Z",
+  "guid": "edaa8b3d-1bdb-41f5-bb13-cedc21de9b86",
+  "category": "AaB"
+ },
+ {
   "title": "Nordjysk fodboldagent lander hos global mastodont",
   "description": "Jacob Krüger kan se frem til nye og spændende muligheder, efter hans firma er blevet opkøbt af et af verdens førende agenturer",
   "link": "https://nordjyske.dk/nyheder/sport/nordjysk-fodboldagent-lander-hos-global-mastodont/5920335?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 11 Feb 2026 04:54:09 Z",
   "guid": "d2f38897-0a5b-4742-8533-3ea39150df26",
   "category": "Fodbold"
- },
- {
-  "title": "Aalborg kan vinde grundspillet mod bundhold: Følg kampen og stil spørgsmål",
-  "description": "Vi liveblogger fra Aalborg Håndbolds hjemmekamp mod Grindsted. Stil spørgsmål allerede nu",
-  "link": "https://nordjyske.dk/nyheder/sport/aalborg-kan-vinde-grundspillet-mod-bundhold-foelg-kampen-og-stil-spoergsmaal/5917977?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 11 Feb 2026 08:52:05 Z",
-  "guid": "7c0143ae-9317-4805-a13f-994b0b8c42af",
-  "category": "Aalborg Håndbold"
  },
  {
   "title": "Simon Hald træner stadig ikke med holdkammeraterne: \"Lige nu tager vi det dag for dag\"",
