@@ -24,14 +24,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3EVC8b5H%2Fp-17.webp&w=300&x1r=0.0119&x2r=0.5062&y1r=0.1763&y2r=0.5197&s=11938813c852440ddb087715decab092"
  },
  {
-  "link": "/SPAR?publication=KGNX6oV4&offer=UkmMzR8mWuIGOqDmjp_DM",
-  "price": "14",
-  "currency": "DKK",
-  "valid_from": "12-02-2026",
-  "valid_until": "19-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKGNX6oV4%2Fp-7.webp&w=300&x1r=0.0408&x2r=0.5938&y1r=0.4495&y2r=0.9601&s=44776e6a7568cf84626d044eec0fcf19"
- },
- {
   "link": "/fotex?publication=hgw-ATat&offer=2unJDT7DQwchP_mBhVT4z",
   "price": "10",
   "currency": "DKK",
@@ -78,14 +70,6 @@
   "valid_from": "17-02-2026",
   "valid_until": "03-03-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F6c8f8b0ad42ae58e2b324b32272b208e%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F217a3e5846e600b2a96427fe89986725&w=300&s=a2fb3d08007e1a3de5c421cadf40b7fc"
- },
- {
-  "link": "/MENY?publication=x_cT3vWy&offer=m1mYII-3iXjUbByoB5E3d",
-  "price": "32",
-  "currency": "DKK",
-  "valid_from": "12-02-2026",
-  "valid_until": "19-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx_cT3vWy%2Fp-23.webp&w=300&x1r=0.619&x2r=0.9897&y1r=0.6668&y2r=0.9835&s=9590d25541bb168832134de7f8751f45"
  },
  {
   "link": "/Calle?publication=A4KrtoHz&offer=vtHqU5-TEA6hw1X7d6zX5",
@@ -152,14 +136,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPtHmnPlE%2Fp-14.webp&w=300&x1r=0.7111&x2r=0.914&y1r=0.6052&y2r=0.9824&s=c9271c2efa7067fa570967a9c1fceea2"
  },
  {
-  "link": "/Min-Kobmand?publication=lyFU3e0n&offer=9ZAk3KZUyXwvAsQ7LRkRa",
-  "price": "30",
-  "currency": "DKK",
-  "valid_from": "12-02-2026",
-  "valid_until": "19-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FlyFU3e0n%2Fp-9.webp&w=300&x1r=0.0185&x2r=0.9702&y1r=0.0308&y2r=0.549&s=6fcd39738f066a59c863083152e09766"
- },
- {
   "link": "/BorderShop?publication=PtHmnPlE&offer=EJp-BVcps31wCz0R9zyIm",
   "price": "240",
   "currency": "DKK",
@@ -208,14 +184,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5QuCrrib%2Fp-33.webp&w=300&x1r=0.4889&x2r=0.9749&y1r=0.6227&y2r=0.9026&s=3d04bb4d8342a250169aca82be79537a"
  },
  {
-  "link": "/Bilka?publication=FqFgMzaF&offer=GcUn2HFKSBap76zltzKMB",
-  "price": "95",
-  "currency": "DKK",
-  "valid_from": "12-02-2026",
-  "valid_until": "19-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFqFgMzaF%2Fp-20.webp&w=300&x1r=0.0149&x2r=0.3486&y1r=0.2632&y2r=0.4814&s=d481b91968e32e0538be3af24a813fa8"
- },
- {
   "link": "/Nielsen-Scan-Shop?publication=0Jrsbi5e&offer=DI1gSivPalJ0PoCUvZe9_",
   "price": "82",
   "currency": "DKK",
@@ -246,22 +214,6 @@
   "valid_from": "19-02-2026",
   "valid_until": "26-02-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVYYhEOBK%2Fp-10.webp&w=300&x1r=0.4926&x2r=0.9699&y1r=0.4947&y2r=0.8685&s=ed4e46c1558da83ef7813792f77e485e"
- },
- {
-  "link": "/Bilka?publication=FqFgMzaF&offer=UdEZiHaowm7YrBl5CJELT",
-  "price": "119",
-  "currency": "DKK",
-  "valid_from": "12-02-2026",
-  "valid_until": "19-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFqFgMzaF%2Fp-20.webp&w=300&x1r=0.0148&x2r=0.3525&y1r=0.0143&y2r=0.2545&s=49e9ef39c867be64a5e225b9c92f1a95"
- },
- {
-  "link": "/MENY?publication=x_cT3vWy&offer=Ciim1zJZpuO7OX0m8ojxB",
-  "price": "35",
-  "currency": "DKK",
-  "valid_from": "12-02-2026",
-  "valid_until": "19-02-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx_cT3vWy%2Fp-28.webp&w=300&x1r=0.4666&x2r=0.9883&y1r=0.0068&y2r=0.541&s=787c8dcf8bb97199cda0d4b6220ba014"
  },
  {
   "link": "/CITTI?publication=Jabsymso&offer=4dICKMWWo4ulQLrq6_56g",
