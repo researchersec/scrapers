@@ -1,5 +1,14 @@
 [
  {
+  "title": "Tidligere tog vi til midtbyen for at købe tøj og bøger. I dag laver vi også keramik og er til fastelavnsfest",
+  "description": "Bymidter udvikler sig til i højere grad at være mødesteder frem for købesteder.",
+  "link": "https://www.dr.dk/nyheder/indland/tidligere-tog-vi-til-midtbyen-koebe-toej-og-boeger-i-dag-laver-vi-ogsaa-keramik-og-er-til",
+  "published": "Sun, 22 Feb 2026 12:15:00 GMT",
+  "guid": "urn:dr:umbraco:article:17934e46-5bd6-4495-96cf-605073303ee4",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fvfibgbo0%2Finger-agnes-og-louise-thomsen-fra-noevling-paa-keramikvaerksted_crop001.jpeg&w=1200"
+ },
+ {
   "title": "Borgmestre: Vi kan tage ukrainske flygtninge, hovedstaden ikke har boliger til",
   "description": "No description",
   "link": "https://www.dr.dk/nyheder/seneste/borgmestre-vi-kan-tage-flygtninge-hovedstaden-ikke-har-boliger-til",
@@ -169,15 +178,6 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Foz2h4m2y%2F20211126-172401-1.jpg&w=1200"
  },
  {
-  "title": "Erik er første patient på Aalborgs nye sygehus: Dejligt med enestue og udsigt",
-  "description": "Dagens flytning af de første 68 patienter er - trods vinterkulde og glatte veje - gået helt efter planen.",
-  "link": "https://www.dr.dk/nyheder/indland/erik-er-foerste-patient-paa-aalborgs-nye-sygehus-dejligt-med-enestue-og-udsigt",
-  "published": "Sun, 08 Feb 2026 18:07:00 GMT",
-  "guid": "urn:dr:umbraco:article:915a12e0-d268-45ef-b679-f0c36fd9aa50",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fobvm2kso%2Fpatient-erik1_crop001_crop001.jpeg&w=1200"
- },
- {
   "title": "Færge sejlads blev genoptaget i morges - nu sejler den ikke igen",
   "description": "<p>Søndag morgen meddelte Hals-Egense færgen, at den genoptog sejladsen efter ikke at have kunnet sejle siden lørdag morgen på grund af isglatte forhold. </p><p>Men kun to timer efter er færgen atter taget ud af drift. Det fremgår af beskeder til færgens kunder. </p><p>&#039;På grund af isforholdene på Limfjorden er vi, endnu engang, desværre nødt til at indstille sejladsen midlertidigt med Hals-Egense færgen,&#039; skriver de. </p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/faerge-sejlads-blev-genoptaget-i-morges-nu-sejler-den-ikke-igen-47dcc",
@@ -199,6 +199,14 @@
   "link": "https://www.tv2nord.dk/frederikshavn/anja-blev-taget-som-gidsel-og-truet-pa-livet-af-100-landsbyboere-969c6",
   "published": "Sun, 22 Feb 26 10:15:00 +0100",
   "guid": "https://www.tv2nord.dk/frederikshavn/anja-blev-taget-som-gidsel-og-truet-pa-livet-af-100-landsbyboere-969c6",
+  "category": "No category"
+ },
+ {
+  "title": "Dansk militær måtte evakuere amerikansk ubådsbesætningsmedlem",
+  "description": "<p>Lørdag eftermiddag måtte arktisk kommando på Grønland evakuere et besætningsmedlem fra en amerikansk ubåd. </p><p>Arktisk kommando har sit primære hovedkvarter i Nuuk i Grønland, men har den logistiske og operative forankring på Flyvestation Aalborg. </p><p>Det var dog Forsvarets Seahawk helikopter, som stod for evakueringen, og var indsat fra inspektionsskibet Vædderen. Det skriver Arktisk Kommando på Facebook. </p><p>HDMS Vædderen (His Majesty&#039;s Ship) har også nordjysk islæt, da det hører til i Frederikshavn under Søværnets 1. Eskadre.</p> <p>Forsvarets Seahawks hører til Flyvestation Karup i Midtjylland. </p><p>Det amerikanske besætningsmedlem havde behov for akut medicinsk behandling, og derfor blev de danske myndigheder kontaktet. </p> <p>Besætningsmedlemmet er nu blevet overført til grønlandske sundhedsmyndigheder og er indlagt på sygehuset i Nuuk. </p><p>Evakueringen fandt sted i grønlandsk territorialfarvand - syv sømil udenfor Nuuk. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/dansk-helikopter-matte-evakuere-amerikansk-ubadsbesaetningsmedlem-efe7f",
+  "published": "Sun, 22 Feb 26 09:53:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/dansk-helikopter-matte-evakuere-amerikansk-ubadsbesaetningsmedlem-efe7f",
   "category": "No category"
  },
  {
@@ -250,36 +258,12 @@
   "category": "No category"
  },
  {
-  "title": "Borgere oplever 'kraftig' lugt i Aalborg: 'Luk døre og vinduer'",
-  "description": "<p>Søndag morgen har en lugt bredt sig over Aalborg. </p><p>Myndighederne oplyser, at de har fået flere henvendelser om en kraftig luft i området omkring Aalborg. Der er dog tale om en &#039;ufarlig lugt&#039;, og situationen er under kontrol, oplyser Nordjyllands Beredskab <a href=\"https://x.com/NjylBeredskab/status/2025446553867960592?s=20\">på X</a> ifølge <a href=\"https://nyheder.tv2.dk/live/kort-nyt\">TV 2</a>. Her opfordres borgere til at lukke døre og vinduer, hvis lugten generer.</p><p>Opdateres...</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/borgere-oplever-kraftig-lugt-i-aalborg-56764",
-  "published": "Sun, 22 Feb 26 07:13:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/borgere-oplever-kraftig-lugt-i-aalborg-56764",
-  "category": "No category"
- },
- {
   "title": "Da dommeren sagde \"frifundet\", tænkte han: Hvad fanden er det, der foregår?",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/krimi/da-dommeren-sagde-frifundet-taenkte-han-hvad-fanden-er-det-der-foregaar/5928340?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sun, 22 Feb 2026 05:01:03 Z",
   "guid": "a6789c29-8d3e-499f-ab49-affe41ca84a3",
   "category": "Retssager"
- },
- {
-  "title": "36-årig anholdt for ildspåsættelse i kolonihaveforening i Aalborg lørdag",
-  "description": "",
-  "link": "https://nordjyske.dk/nu/36-aarig-anholdt-for-ildspaasaettelse-i-kolonihaveforening-loerdag/380382eb-5bed-4360-975a-8db26ab76da6?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 22 Feb 2026 08:55:22 Z",
-  "guid": "380382eb-5bed-4360-975a-8db26ab76da6",
-  "category": "Nyheder"
- },
- {
-  "title": "Derfor vil Aalborg Portland bygge anlæg for over 5 milliarder kroner",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/derfor-vil-aalborg-portland-bygge-anlaeg-til-over-5-milliarder-kroner/5932589?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 22 Feb 2026 05:40:44 Z",
-  "guid": "4b457f5f-5637-4b2d-b9fa-cdf9d57dff37",
-  "category": "Aalborg"
  },
  {
   "title": "Aalborg Håndbold har forlænget med den ene halvdel af et af verdens bedste målmandspar, og den anden halvdel er også åben for at blive",
@@ -290,14 +274,6 @@
   "category": "Aalborg Håndbold"
  },
  {
-  "title": "Børnene er med i et nationalt eksperiment om skolemad. Allerede fra dag ét kunne de mærke forskel",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/boernene-er-med-i-et-nationalt-eksperiment-om-skolemad-allerede-fra-dag-t-kunne-de-maerke-forskel/5900381?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 22 Feb 2026 05:01:06 Z",
-  "guid": "d455e6d5-fcd2-49db-a6d9-6779531a2b87",
-  "category": "Når skolen virker"
- },
- {
   "title": "Projekt Børn er lukket og slukket - er det nu, vi skal skilles?",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/vores-liv/projekt-boern-er-lukket-og-slukket-er-det-nu-vi-skal-skilles/5926968?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -306,12 +282,36 @@
   "category": "Familieliv"
  },
  {
+  "title": "Børnene er med i et nationalt eksperiment om skolemad. Allerede fra dag ét kunne de mærke forskel",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/boernene-er-med-i-et-nationalt-eksperiment-om-skolemad-allerede-fra-dag-t-kunne-de-maerke-forskel/5900381?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 22 Feb 2026 05:01:06 Z",
+  "guid": "d455e6d5-fcd2-49db-a6d9-6779531a2b87",
+  "category": "Når skolen virker"
+ },
+ {
+  "title": "Derfor vil Aalborg Portland bygge anlæg for over 5 milliarder kroner",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/derfor-vil-aalborg-portland-bygge-anlaeg-til-over-5-milliarder-kroner/5932589?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 22 Feb 2026 05:40:44 Z",
+  "guid": "4b457f5f-5637-4b2d-b9fa-cdf9d57dff37",
+  "category": "Aalborg"
+ },
+ {
   "title": "Influenzaen rammer hårdt i år: Det er der en særlig grund til",
   "description": "Flere indlæggelser presser de nordjyske hospitaler, hvor planlagte operationer har måttet aflyses",
   "link": "https://nordjyske.dk/nyheder/influenzaen-rammer-haardt-i-aar-det-er-der-en-saerlig-grund-til/5932163?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sat, 21 Feb 2026 05:02:49 Z",
   "guid": "ee3250dc-0cdb-41a2-9f50-0b832ed6a0d7",
   "category": "Sundhed"
+ },
+ {
+  "title": "36-årig anholdt for ildspåsættelse i kolonihaveforening i Aalborg lørdag",
+  "description": "",
+  "link": "https://nordjyske.dk/nu/36-aarig-anholdt-for-ildspaasaettelse-i-kolonihaveforening-loerdag/380382eb-5bed-4360-975a-8db26ab76da6?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 22 Feb 2026 08:55:22 Z",
+  "guid": "380382eb-5bed-4360-975a-8db26ab76da6",
+  "category": "Nyheder"
  },
  {
   "title": "Vil du se en mediemand erkende egne mangler? Så læs her",
