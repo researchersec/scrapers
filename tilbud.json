@@ -24,20 +24,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fhgw-ATat%2Fp-1.webp&w=300&x1r=0.4729&x2r=0.9917&y1r=0.033&y2r=0.6147&s=6e1318ac5de9cb67c0bb5e7388f48ea8"
  },
  {
-  "link": "/SPAR?publication=MtGJRvSb&offer=PY7wDqc3SFHdZZchy9zNO",
-  "price": "8",
-  "currency": "DKK",
-  "valid_from": "26-02-2026",
-  "valid_until": "05-03-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMtGJRvSb%2Fp-8.webp&w=300&x1r=0.0341&x2r=0.4133&y1r=0.464&y2r=0.7872&s=c43b7fa463804d9a844661c3a6b0714a"
- },
- {
   "link": "/Netto?publication=3EVC8b5H&offer=4ucpQ7QLhck6tU8j-q-DG",
   "price": "6",
   "currency": "DKK",
   "valid_from": "20-02-2026",
   "valid_until": "27-02-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3EVC8b5H%2Fp-17.webp&w=300&x1r=0.0119&x2r=0.5062&y1r=0.1763&y2r=0.5197&s=11938813c852440ddb087715decab092"
+ },
+ {
+  "link": "/SPAR?publication=MtGJRvSb&offer=PY7wDqc3SFHdZZchy9zNO",
+  "price": "8",
+  "currency": "DKK",
+  "valid_from": "26-02-2026",
+  "valid_until": "05-03-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMtGJRvSb%2Fp-8.webp&w=300&x1r=0.0341&x2r=0.4133&y1r=0.464&y2r=0.7872&s=c43b7fa463804d9a844661c3a6b0714a"
  },
  {
   "link": "/fotex?publication=hgw-ATat&offer=2unJDT7DQwchP_mBhVT4z",
@@ -224,20 +224,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5QuCrrib%2Fp-33.webp&w=300&x1r=0.4889&x2r=0.9749&y1r=0.6227&y2r=0.9026&s=3d04bb4d8342a250169aca82be79537a"
  },
  {
-  "link": "/Nielsen-Scan-Shop?publication=0Jrsbi5e&offer=DI1gSivPalJ0PoCUvZe9_",
-  "price": "82",
-  "currency": "DKK",
-  "valid_from": "07-01-2026",
-  "valid_until": "04-03-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQb4DHuOY%2Fp-36.webp&w=300&x1r=0.3305&x2r=0.6685&y1r=0.5034&y2r=0.9881&s=52fc38b86b1280f6ea3499406f3fd295"
- },
- {
   "link": "/Poetzsch-Padborg?publication=6y1sf8iy&offer=R0JZ8R3GN9FLhovqKpGJE",
   "price": "84",
   "currency": "DKK",
   "valid_from": "25-02-2026",
   "valid_until": "25-03-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6y1sf8iy%2Fp-23.webp&w=300&x1r=0.0334&x2r=0.5988&y1r=0.0717&y2r=0.3649&s=97a3719a2314c7b3485343b50c7e6012"
+ },
+ {
+  "link": "/Nielsen-Scan-Shop?publication=0Jrsbi5e&offer=DI1gSivPalJ0PoCUvZe9_",
+  "price": "82",
+  "currency": "DKK",
+  "valid_from": "07-01-2026",
+  "valid_until": "04-03-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQb4DHuOY%2Fp-36.webp&w=300&x1r=0.3305&x2r=0.6685&y1r=0.5034&y2r=0.9881&s=52fc38b86b1280f6ea3499406f3fd295"
  },
  {
   "link": "/Lidl?publication=ZEwovm90&offer=ZHSit4qrxr3K3njX3Ipqn",
