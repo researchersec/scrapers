@@ -1,5 +1,13 @@
 [
  {
+  "title": "Ekspert: Flere hvaler kan ryge i dødsfælden på danske strande fremover",
+  "description": "De mange kaskelothvaler, der er strandet på det seneste, er tegn på, at bestanden vokser.",
+  "link": "https://www.dr.dk/nyheder/indland/ekspert-flere-hvaler-kan-ryge-i-doedsfaelden-paa-danske-strande-fremover",
+  "published": "Sat, 28 Feb 2026 18:00:00 GMT",
+  "guid": "urn:dr:umbraco:article:61a6d392-e5d5-4c50-8041-892b460fcb4b",
+  "category": "No category"
+ },
+ {
   "title": "Brevkaos skaber bekymring: Kan Dao aflevere valgkort til tiden?",
   "description": "Store forsinkelser og kasserede breve skaber bekymring hos både kommuner og politikere.",
   "link": "https://www.dr.dk/nyheder/indland/brevkaos-skaber-bekymring-kan-dao-aflevere-valgkort-til-tiden",
@@ -169,13 +177,20 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F2dsahtfk%2F20230316-153556-l_crop001.jpg&w=1200"
  },
  {
-  "title": "Mere politisk handling og en pantordning på fiskenet skal redde kaskelothvaler og andre havdyr",
-  "description": "Foreningen Plastic Change ønsker flere tiltag for at undgå, at kaskelothvaler og lignende havdyr mister livet.",
-  "link": "https://www.dr.dk/nyheder/indland/mere-politisk-handling-og-en-pantordning-paa-fiskenet-skal-redde-kaskelothvaler-og-andre-havdyr",
-  "published": "Wed, 11 Feb 2026 06:43:00 GMT",
-  "guid": "urn:dr:umbraco:article:ff240a83-6436-4b1a-a0f1-68c8e5977f45",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F210fbmey%2F20260205-144121-l_crop001.jpg&w=1200"
+  "title": "Aalborg Futsal taber historisk pokalfinale",
+  "description": "<p>Danmarks første pokalfinale i futsal blev her til eftermiddag spillet i Aalborg Stadionhal.</p><p>Det lykkedes ikke hjemmeholdet Aalborg Futsal at drage nytte af hjemmebanefordelen. Holdet blev besejret med 3-1 af Albertslund Futsal, der dermed kunne krone sig som de allerførste vindere af turneringen i historien.</p><p>For Sune Breum Kristensen var finalen ekstra specielt.</p><p>Læs mere om det <a href=\"https://www.tv2nord.dk/aalborg/sune-skriver-historie-og-gar-i-sin-bedstefars-fodspor-1c84f\" target=\"_blank\">HER.</a></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-futsal-taber-historisk-pokalfinale-7a182",
+  "published": "Sat, 28 Feb 26 19:17:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-futsal-taber-historisk-pokalfinale-7a182",
+  "category": "No category"
+ },
+ {
+  "title": "Sune skriver historie og går i sin bedstefars fodspor",
+  "description": "<p>Det er ikke første gang, at en fra Sune Breum Kristensens familie skal spille pokalfinale. For nu gentager historien sig.</p><p>I 1955 optrådte hans bedstefar i den allerførste officielle pokalfinale i dansk fodbold som en del af Aalborg Chang-holdet.</p><p>Lørdag blev Sune Breum Kristensen selv en del af dansk pokalhistorie, 71 år senere. Men nu i futsal-regi. For her løb Danmarks første pokalfinale i futsal af stablen i Aalborg Stadionhal.</p><p>- Det er svært at sætte ord på. Vi spiller den første pokalfinale nogensinde – og så i Aalborg. Det er en barndomsdrøm at få lov til at stå i en finale på hjemmebane med vores fans i ryggen. Vi har chancen for at skrive historie for klubben og for byen. Det betyder alt, siger Sune Breum Kristensen, der ved siden af fodbolden studerer på Aalborg Universitet, i en pressemeddelelse.</p><p>Han er landsholdsspiller og spiller til dagligt for Aalborg Futsal. Holdet sikrede sig med semifinalesejren over Hjørring en plads i finalen, hvor Albertslund Futsal ventede.</p><h2>- Det ligger i blodet</h2><p>Men for Sune Breum Kristensen handlede kampen om meget mere end blot sport. Vi vender derfor tilbage til historien om hans bedstefar.</p><p>- Det er ret vildt at tænke på, at vi begge har været med til at skrive pokalhistorie. Fodbold har altid fyldt i min familie. Jeg nåede desværre aldrig at møde min bedstefar, men jeg føler, at jeg skriver videre på den arv. Det ligger i blodet, og gør mig sindssygt stolt, siger han. </p><p>- Jeg ville ønske, han kunne være der. Men jeg er sikker på, at han følger med et sted fra. Hvis vi kan løfte pokalen, vil det være en historie, min familie vil bære med stolthed i mange år frem. Det ville være noget helt særligt for både mig og min familie.</p><p>Fortællingen endte ikke imidlertid ikke helt som håbet.</p><p>Aalborg Futsal måtte se sig slået med 1-3 og måtte derfor nøjes med sølvmedaljerne.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/sune-skriver-historie-og-gar-i-sin-bedstefars-fodspor-1c84f",
+  "published": "Sat, 28 Feb 26 18:10:00 +0100",
+  "guid": "https://www.tv2nord.dk/aalborg/sune-skriver-historie-og-gar-i-sin-bedstefars-fodspor-1c84f",
+  "category": "No category"
  },
  {
   "title": "EH Aalborg lammetævet af de forsvarende mestre",
@@ -239,22 +254,6 @@
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/mand-tiltalt-for-seksuelt-overgreb-i-bil-og-blufaerdighedskraenkelse-dbae4",
   "published": "Sat, 28 Feb 26 09:31:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/mand-tiltalt-for-seksuelt-overgreb-i-bil-og-blufaerdighedskraenkelse-dbae4",
-  "category": "No category"
- },
- {
-  "title": "Aalborg Forsyning stævner staten",
-  "description": "<p>Det er staten og ikke Aalborg Kommunes borgere, der skal betale for at rense drikkevandet for det sundhedsfarlige stof nitrat.</p><p>Det mener Aalborg Forsyning, som længe har forsøgt at få staten til at komme på banen.</p><p>Ifølge EU’s Nitratdirektiv må forurening af drikkevand med nitrat, der stammer fra landbruget, nemlig ikke kunne finde sted i det omfang, som det er sket i Aalborg. Staten burde have grebet ind, men det har den ikke gjort, lyder det nu opsigtsvækkende fra forsyningen.</p><p>Derfor mener Aalborg Forsyning, at den danske stat er ansvarlig og skal betale anlægsudgifterne til et kommende vandbehandlingsanlæg og udgifterne til drift af anlægget i 30 år. Det skriver de i en pressemeddelelse lørdag morgen.</p><p>Samlet beløber det sig til cirka 1,1 milliarder kroner, hvilket betyder, at prisen vil stige med 1000 kroner årligt for en gennemsnitlig husstand.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-forsyning-staevner-staten-669a7",
-  "published": "Sat, 28 Feb 26 09:20:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-forsyning-staevner-staten-669a7",
-  "category": "No category"
- },
- {
-  "title": "Onanerede gennem brevsprække",
-  "description": "<p>En 35-årig mand er ved Retten i Aalborg tiltalt for forsøg på voldtægt ved andet seksuelt forhold end samleje. </p><p>Det fremgår af et anklageskrift, som TV2 Nord har fået aktindsigt i forud for sagens begyndelse.</p><p>Ifølge anklageskriftet skal den 35-årige 25. maj 2025 klokken cirka 06.20 om morgenen i en personbil på en parkeringsplads i Aalborg have forsøgt at skaffe sig andet seksuelt forhold end samleje med en kvinde, der ikke havde givet samtykke.</p><p>Det fremgår, at kvinden var ude af stand til at modsætte sig handlingen, fordi hun sov og havde indtaget spiritus. </p><p>Den tiltalte skal have forsøgt at beføle hende på kønsdelene, men det mislykkedes, da kvinden vågnede midt under handlingen og fik fjernet hans hænder.</p> <h2>Blufærdighedskrænkelse i opgang</h2><p>Den 35-årige er desuden tiltalt for blufærdighedskrænkelse i en anden sag.</p><p>Forholdet daterer sig til 13. april sidste år klokken 05.20 om morgenen i Aalborg. </p><p>Ifølge anklageskriftet fulgte den tiltalte efter en kvinde, som følte sig nødsaget til at søge tilflugt i en opgang.</p><p>Af anklageskriftet fremgår det, at den tiltalte forsøgte at komme ind i opgangen og herefter blottede sin penis og onanerede gennem brevsprækken i døren – en handling, der ifølge anklageskriftet var egnet til at krænke den forurettedes blufærdighed.</p><p>Retssagen mod den 35-årige begynder fredag i kommende uge ved Retten i Aalborg.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/onanerede-gennem-brevspraekke-f0c0a",
-  "published": "Sat, 28 Feb 26 08:30:00 +0100",
-  "guid": "https://www.tv2nord.dk/aalborg/onanerede-gennem-brevspraekke-f0c0a",
   "category": "No category"
  },
  {
