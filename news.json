@@ -1,5 +1,14 @@
 [
  {
+  "title": "Johan bor i Dubai med sin familie: 'Vi blev meget chokerede, da vi hørte de første brag'",
+  "description": "Ifølge flere medier lyder der eksplosioner i både Qatars hovedstad, Doha, og Dubai her til morgen.",
+  "link": "https://www.dr.dk/nyheder/udland/johan-bor-i-dubai-med-sin-familie-vi-blev-meget-chokerede-da-vi-hoerte-de-foerste-brag",
+  "published": "Mon, 02 Mar 2026 08:50:00 GMT",
+  "guid": "urn:dr:umbraco:article:a96aeb5f-a882-4205-98f9-d6975cdad6cd",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F0dmcndew%2Ftop-case-dubai_crop001.jpeg&w=1200"
+ },
+ {
   "title": "Ekspert: Flere hvaler kan ryge i dødsfælden på danske strande fremover",
   "description": "De mange kaskelothvaler, der er strandet på det seneste, er tegn på, at bestanden vokser.",
   "link": "https://www.dr.dk/nyheder/indland/ekspert-flere-hvaler-kan-ryge-i-doedsfaelden-paa-danske-strande-fremover",
@@ -168,13 +177,12 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fooqdovqm%2Fgrandprix_crop001.jpg&w=1200"
  },
  {
-  "title": "Aalborg Kommune betaler i forvejen 650 millioner kroner for rensning af drikkevand, og nu bliver regningen langt større",
-  "description": "Det kan blive dyrt for flere kommuner, hvis grænseværdierne for nitrat i drikkevandet bliver ændret.",
-  "link": "https://www.dr.dk/nyheder/indland/aalborg-kommune-betaler-i-forvejen-650-millioner-kroner-rensning-af-drikkevand-og-nu-bliver",
-  "published": "Thu, 12 Feb 2026 13:05:00 GMT",
-  "guid": "urn:dr:umbraco:article:a802dd5d-2552-47e6-930a-f7d67784a744",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2F2dsahtfk%2F20230316-153556-l_crop001.jpg&w=1200"
+  "title": "Jamming er et stigende problem: Nu skal nordjysk virksomhed hjælpe østrigerne",
+  "description": "<p>Skibe der ikke kan navigere, og fly som ikke kan lande.</p><p>Forstyrrelser af gps-signaler er blevet et stigende problem for både skibs- og flytrafikken i eksempelvis Østersøen, har <a href=\"https://nyheder.tv2.dk/samfund/2024-06-13-gps-jamming-er-slemt-men-spoofing-er-endnu-vaerre-siger-ekspert\">TV 2 tidligere fortalt</a>.</p><p>Det betyder, at de signaler, som skibe og fly navigerer efter, bliver forstyrret. Det var tilfældet i juni 2024, da et Finnair fly måtte opgive at lande i Estland, og i oktober 2025 mødte en skipper fra Thyborøn en ældre russisk slæbebåd, da han fiskede efter torsk i Skagerrak. Da slæbebåden passerede kutteren <a href=\"https://nyheder.tv2.dk/samfund/2025-10-15-vestjysk-kutter-moedte-russisk-skib-saa-gik-al-elektronik-ud?fbclid=IwY2xjawQSItNleHRuA2FlbQIxMQBicmlkETByeVFOT1F4blE5a3M2YjB0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhmelS9C-ujZZ1_-mJa8mUBM-bohQ_wmSm02sciLY43YnI4qFCTOFHZMhIxP_aem_nS1nlouFzNVkZi2FHrENNw\">gik al elektronik ud</a>. </p><p>På grund af den alvorlige sikkerhedstrussel har den nordjyske virksomhed Space Inventor indgået et tæt samarbejde med den østrigske virksomhed Gate Space om udviklingen af Østrigs største nationalt udviklede satellit og landets første militære satellit, Beaconsat.</p><p>- Set fra et satellitingeniørmæssigt perspektiv er BEACONSAT en krævende mission. Integration af et flydende, kemisk fremdriftssystem i en kompakt satellitplatform stiller store krav til både dynamik, struktur og styring. Vores opgave er at sikre, at satellitten ikke blot kan bære nyttelasten, men rent faktisk flyver stabilt, forbliver kontrollerbar og leverer som forventet gennem hele missionen, siger Ole Thomassen, der er projektleder hos Space Inventor i en pressemeddelelse.</p><p>Satellitten skal efter planen opsendes med en SpaceX Falcon 9-raket i februar 2027, og Space Inventor har det samlede ansvar for de satellitrelaterede systemer og missionens overordnede ingeniørarbejde.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/jamming-er-et-stigende-problem-nu-skal-nordjysk-virksomhed-hjaelpe-ostrig-med-problemet-2529c",
+  "published": "Mon, 02 Mar 26 08:54:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/jamming-er-et-stigende-problem-nu-skal-nordjysk-virksomhed-hjaelpe-ostrig-med-problemet-2529c",
+  "category": "No category"
  },
  {
   "title": "- Det er voldsomt",
@@ -194,7 +202,7 @@
  },
  {
   "title": "Uheld på E45 nord for Aalborg",
-  "description": "<p><em>Opdateret kl. 7.42: Uheldet fremgår nu ikke længere af Trafikinfo.dk.</em></p><p>Der skal være sket et trafikuheld på motorvejen nord for Aalborg. Det oplyser Vejdirektoratet via Trafikinfo.dk.</p><p>Uheldet er sket på E45 Frederikshavnmotorvejen i nordgående retning mellem frakørsel 20 Bouet og frakørsel 19 Vodskov, og et spor skulle være blokeret som følge af uheldet. </p><p>Vejdirektoratet oplyser, at uheldsstedet endnu ikke er sikret. </p>",
+  "description": "<p><em>Opdateret kl. 7.42: Uheldet fremgår nu ikke længere af Trafikinfo.dk. Det fremgik tidligere, at uheldet var sket i nordgående retning. Der var retteligt tale om sydgående retning. </em></p><p>Der skal være sket et trafikuheld på motorvejen nord for Aalborg. Det oplyser Vejdirektoratet via Trafikinfo.dk.</p><p>Uheldet er sket på E45 Frederikshavnmotorvejen i sydgående retning mellem frakørsel 20 Bouet og frakørsel 19 Vodskov, og et spor skulle være blokeret som følge af uheldet. </p><p>Vejdirektoratet oplyser, at uheldsstedet endnu ikke er sikret. </p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/uheld-pa-e45-nord-for-aalborg-6503f",
   "published": "Mon, 02 Mar 26 07:33:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/uheld-pa-e45-nord-for-aalborg-6503f",
@@ -246,14 +254,6 @@
   "link": "https://www.tv2nord.dk/aalborg/aalborg-floj-udgik-i-smerte-vi-er-ikke-positive-c202d",
   "published": "Sun, 01 Mar 26 20:53:00 +0100",
   "guid": "https://www.tv2nord.dk/aalborg/aalborg-floj-udgik-i-smerte-vi-er-ikke-positive-c202d",
-  "category": "No category"
- },
- {
-  "title": "Lade delvist nedbrændt efter halm brød i brand",
-  "description": "<p>Halvdelen af en lade på Kærvej i Hadsund er søndag aften brændt ned. </p><p>Klokken 15.22 modtog Nordjyllands Beredskab meldingen om brand i udhuset på stedet. Det stod dog hurtigt klart, at det ikke kun drejede sig om et udhus, men en lade med halm og værksted til biler, som brændte, fortæller indsatslederen på stedet Per Hansen. Det var halmen, der var ild i. </p><p>Derfor blev både station Hals med en sprøjte og station Hadsund med en tankvogn sendt til stedet. </p><p>Godt fire timer efter havde beredskabet forladt stedet, og branden var slukket. </p><p>Enden med halm er dog helt udbrændt nu, mens det lykkedes at redde enden med værksted, hvor der nu kun er røg- og sodskader. </p><p>Det tog længere tid end forventet, da beredskabet ikke kunne gå ind i laden for at slukke branden, fordi der var fare for, at konstruktionen faldt sammen. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/lade-delvist-nedbraendt-efter-halm-brod-i-brand-51f1c",
-  "published": "Sun, 01 Mar 26 20:04:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/lade-delvist-nedbraendt-efter-halm-brod-i-brand-51f1c",
   "category": "No category"
  },
  {
@@ -321,7 +321,7 @@
   "category": "Supersygehus"
  },
  {
-  "title": "Sådan ændrer Nordjyske måde at dække Nordjylland på",
+  "title": "Sådan ændrer Nordjyske sin måde at dække Nordjylland på",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/leder/saadan-aendrer-nordjyske-maade-at-daekke-nordjylland-paa/5941722?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sun, 01 Mar 2026 04:57:45 Z",
