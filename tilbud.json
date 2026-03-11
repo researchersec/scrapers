@@ -8,20 +8,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fg8KgjLn6%2Fp-3.webp&w=300&x1r=0.0223&x2r=0.4749&y1r=0.1291&y2r=0.5565&s=5471bdbfb4697a1c041784a86388503c"
  },
  {
-  "link": "/Bilka?publication=RhxIUgTj&offer=gm-0oO8USSkKNZwlItR99",
-  "price": "15",
-  "currency": "DKK",
-  "valid_from": "12-03-2026",
-  "valid_until": "19-03-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRhxIUgTj%2Fp-22.webp&w=300&x1r=0.2686&x2r=0.4954&y1r=0.3311&y2r=0.641&s=d96b049bbb97a9e62105076bdffc0eae"
- },
- {
   "link": "/Bilka?publication=iTQsf0wd&offer=F8AEhBn826nP04C8z0dIl",
   "price": "7",
   "currency": "DKK",
   "valid_from": "05-03-2026",
   "valid_until": "12-03-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FNG0y4XpM%2Fp-5.webp&w=300&x1r=0.0082&x2r=0.5019&y1r=0.5901&y2r=0.941&s=fa3dc783bdafefaa72d122007268f7de"
+ },
+ {
+  "link": "/Bilka?publication=RhxIUgTj&offer=gm-0oO8USSkKNZwlItR99",
+  "price": "15",
+  "currency": "DKK",
+  "valid_from": "12-03-2026",
+  "valid_until": "19-03-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRhxIUgTj%2Fp-22.webp&w=300&x1r=0.2686&x2r=0.4954&y1r=0.3311&y2r=0.641&s=d96b049bbb97a9e62105076bdffc0eae"
  },
  {
   "link": "/MENY?publication=f31rQJWs&offer=K4Ur7A6QryZpOv5a_pS3C",
@@ -198,6 +198,14 @@
   "valid_from": "05-03-2026",
   "valid_until": "12-03-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiTQsf0wd%2Fp-26.webp&w=300&x1r=0.0406&x2r=0.505&y1r=0.22&y2r=0.4868&s=22c3333636d5f7efff87f37d1592be88"
+ },
+ {
+  "link": "/MENY?publication=kMj34Ed1&offer=0U0KO8t-Hq7TRo-Hfg13o",
+  "price": "35",
+  "currency": "DKK",
+  "valid_from": "12-03-2026",
+  "valid_until": "19-03-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkMj34Ed1%2Fp-27.webp&w=300&x1r=0.6101&x2r=0.9859&y1r=0.6503&y2r=0.9843&s=d86e3337490f9013a097d6c13963c3e3"
  },
  {
   "link": "/MENY?publication=f31rQJWs&offer=njKnjdnzFYS7Zn-jpdKv8",
