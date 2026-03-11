@@ -1,5 +1,13 @@
 [
  {
+  "link": "/fotex?publication=g8KgjLn6&offer=fRIWCVBS1rMKd0rBK1H8D",
+  "price": "12",
+  "currency": "DKK",
+  "valid_from": "12-03-2026",
+  "valid_until": "19-03-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fg8KgjLn6%2Fp-3.webp&w=300&x1r=0.0223&x2r=0.4749&y1r=0.1291&y2r=0.5565&s=5471bdbfb4697a1c041784a86388503c"
+ },
+ {
   "link": "/Bilka?publication=RhxIUgTj&offer=gm-0oO8USSkKNZwlItR99",
   "price": "15",
   "currency": "DKK",
@@ -38,14 +46,6 @@
   "valid_from": "03-03-2026",
   "valid_until": "17-03-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F52114558d844dc50636b38a139e0ccee%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F9123d5d7685c5a04ed042ea8bf7c060b&w=300&s=d460e0e81ecc36ed707731e5bd9a6d46"
- },
- {
-  "link": "/fotex?publication=g8KgjLn6&offer=fRIWCVBS1rMKd0rBK1H8D",
-  "price": "12",
-  "currency": "DKK",
-  "valid_from": "12-03-2026",
-  "valid_until": "19-03-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fg8KgjLn6%2Fp-3.webp&w=300&x1r=0.0223&x2r=0.4749&y1r=0.1291&y2r=0.5565&s=5471bdbfb4697a1c041784a86388503c"
  },
  {
   "link": "/Netto?publication=MPUksZPo&offer=ymB264_1265XF20ANzgYQ",
