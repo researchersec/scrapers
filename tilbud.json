@@ -8,20 +8,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-3e72axf%2Fp-10.webp&w=300&x1r=0.0321&x2r=0.4805&y1r=0.0149&y2r=0.5588&s=3947321b67fac1785d5506640406d9c8"
  },
  {
-  "link": "/LET-KOB?publication=qVEMjZh_&offer=ZUlzBSsdpf_zlgp9AsXlI",
-  "price": "16",
-  "currency": "DKK",
-  "valid_from": "22-03-2026",
-  "valid_until": "04-04-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FqVEMjZh_%2Fp-5.webp&w=300&x1r=0.0397&x2r=0.4987&y1r=0.3513&y2r=0.6569&s=cb4277b40038ff194671e5fc6f31e241"
- },
- {
   "link": "/MENY?publication=BOapPFpQ&offer=2yXuaG9ejC4TCSKWDlVHB",
   "price": "8",
   "currency": "DKK",
   "valid_from": "26-03-2026",
   "valid_until": "04-04-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBOapPFpQ%2Fp-19.webp&w=300&x1r=0.0154&x2r=0.3623&y1r=0.6025&y2r=0.9611&s=025f408c9609f64e8d6eed9597732e9b"
+ },
+ {
+  "link": "/LET-KOB?publication=qVEMjZh_&offer=ZUlzBSsdpf_zlgp9AsXlI",
+  "price": "16",
+  "currency": "DKK",
+  "valid_from": "22-03-2026",
+  "valid_until": "04-04-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FqVEMjZh_%2Fp-5.webp&w=300&x1r=0.0397&x2r=0.4987&y1r=0.3513&y2r=0.6569&s=cb4277b40038ff194671e5fc6f31e241"
  },
  {
   "link": "/Fleggaard?publication=UbkJO5q3&offer=Bik2lg6JC3pfD70W88GuQ",
@@ -192,20 +192,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDI0rSSdC%2Fp-39.webp&w=300&x1r=0.6184&x2r=0.9881&y1r=0.7123&y2r=0.9552&s=e57375345331e9434911b1465d9f3c71"
  },
  {
-  "link": "/Min-Kobmand?publication=1XlfOEyb&offer=FWEwc1TBQqZ7a0LM8ZSxo",
-  "price": "115",
-  "currency": "DKK",
-  "valid_from": "26-03-2026",
-  "valid_until": "04-04-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1XlfOEyb%2Fp-12.webp&w=300&x1r=0.4976&x2r=0.9697&y1r=0.4167&y2r=0.8625&s=a2a6d2dc990f88ba7f78207311aeedaa"
- },
- {
   "link": "/Fleggaard?publication=GrqwzkM8&offer=1WAnJzwammNoPl86Yg1hJ",
   "price": "82",
   "currency": "DKK",
   "valid_from": "24-03-2026",
   "valid_until": "28-04-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F0b1b9b2d82bb98706520285d2115a620%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ab6c614c6c5153fe1ac3fa98b96b146%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Fcdc0b4b1437c087134c60f356032ee7e%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F1759e3c87f99fbb269db79e8b2f35386&w=300&s=71a74dc706bce8dc89c7cd13f6ff4c44"
+ },
+ {
+  "link": "/Min-Kobmand?publication=1XlfOEyb&offer=FWEwc1TBQqZ7a0LM8ZSxo",
+  "price": "115",
+  "currency": "DKK",
+  "valid_from": "26-03-2026",
+  "valid_until": "04-04-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1XlfOEyb%2Fp-12.webp&w=300&x1r=0.4976&x2r=0.9697&y1r=0.4167&y2r=0.8625&s=a2a6d2dc990f88ba7f78207311aeedaa"
  },
  {
   "link": "/Wolt-Market?publication=SVVSujDO&offer=T_J1KRIR0EW1KY7Ciaah0",
