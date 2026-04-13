@@ -40,14 +40,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3bwXGGUQ%2Fp-8.webp&w=300&x1r=0.0124&x2r=0.5048&y1r=0.0135&y2r=0.4421&s=06c4c786a1cfac1afa0641a588574459"
  },
  {
-  "link": "/Wolt-Market?publication=ErOwSqU4&offer=h3VZ08srSiaiMZh8-Roel",
-  "price": "8",
-  "currency": "DKK",
-  "valid_from": "06-04-2026",
-  "valid_until": "13-04-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fb8af9a0c461be5e42d08857a3d827737%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fcabf37f9e82bcb34fd88264616bbd40f&w=300&s=bb63e5ef1c6d9e5b06f53d471d85c8f7"
- },
- {
   "link": "/Wolt-Market?publication=IXewevRC&offer=yGJ12GXgq02y7pp8KRMzH",
   "price": "19",
   "currency": "DKK",
@@ -88,20 +80,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ55kiWH8%2Fp-3.webp&w=300&x1r=0.6545&x2r=0.9849&y1r=0.2662&y2r=0.5026&s=978b12df1af485d7b8dfff1b306270e9"
  },
  {
-  "link": "/REMA-1000?publication=x3SGwoSS&offer=eMOwy8wXRvDE79VSQTC0A",
-  "price": "5",
-  "currency": "DKK",
-  "valid_from": "11-04-2026",
-  "valid_until": "18-04-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx3SGwoSS%2Fp-20.webp&w=300&x1r=0.0098&x2r=0.5024&y1r=0.4436&y2r=0.8842&s=7f8b4bc38f42421b841eafd3b908a39a"
- },
- {
   "link": "/SPAR?publication=abTTGN1F&offer=PzonGCebulqA4JslTGD5U",
   "price": "79",
   "currency": "DKK",
   "valid_from": "31-03-2026",
   "valid_until": "30-04-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FabTTGN1F%2Fp-12.webp&w=300&x1r=0.6198&x2r=0.9619&y1r=0.7757&y2r=0.9626&s=28aa58050693d898f5d7a0817b5329ae"
+ },
+ {
+  "link": "/REMA-1000?publication=x3SGwoSS&offer=eMOwy8wXRvDE79VSQTC0A",
+  "price": "5",
+  "currency": "DKK",
+  "valid_from": "11-04-2026",
+  "valid_until": "18-04-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx3SGwoSS%2Fp-20.webp&w=300&x1r=0.0098&x2r=0.5024&y1r=0.4436&y2r=0.8842&s=7f8b4bc38f42421b841eafd3b908a39a"
  },
  {
   "link": "/Min-Kobmand?publication=3bwXGGUQ&offer=nyKSeJmhmkspI71-0Gk4X",
