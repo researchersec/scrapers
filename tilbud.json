@@ -8,12 +8,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx3SGwoSS%2Fp-6.webp&w=300&x1r=0.0159&x2r=1&y1r=0.0136&y2r=0.473&s=cb7be5407361a5b6f700661b319a10d0"
  },
  {
-  "link": "/Lidl?publication=6aOkaJkt&offer=YTPN61yYwJeLHNMeyDMY6",
+  "link": "/Lidl?publication=H9prY1_4&offer=a4pdKad7wtB8HWF80V9vi",
   "price": "5",
   "currency": "DKK",
   "valid_from": "11-04-2026",
   "valid_until": "18-04-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6aOkaJkt%2Fp-1.webp&w=300&x1r=0.0108&x2r=0.3365&y1r=0.4233&y2r=0.6619&s=4f08fb020373ae7b6afbd3dc600b39c0"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FH9prY1_4%2Fp-8.webp&w=300&x1r=0.0108&x2r=0.3365&y1r=0.4233&y2r=0.6619&s=86f95a3c67bdf8c52e49bfbc59ec97e6"
  },
  {
   "link": "/Bilka?publication=9gmffCzX&offer=KpWDitbi9MhueSboLf15L",
@@ -96,20 +96,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FabTTGN1F%2Fp-12.webp&w=300&x1r=0.6198&x2r=0.9619&y1r=0.7757&y2r=0.9626&s=28aa58050693d898f5d7a0817b5329ae"
  },
  {
-  "link": "/Min-Kobmand?publication=3bwXGGUQ&offer=nyKSeJmhmkspI71-0Gk4X",
-  "price": "79",
-  "currency": "DKK",
-  "valid_from": "31-03-2026",
-  "valid_until": "30-04-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3bwXGGUQ%2Fp-7.webp&w=300&x1r=0.6517&x2r=0.9721&y1r=0.7935&y2r=0.9795&s=3f1218117fbed6d5f9275fe9bb566f95"
- },
- {
   "link": "/MENY?publication=Q55kiWH8&offer=PKJa6JGrAztQKKoJSUQgm",
   "price": "99.95",
   "currency": "DKK",
   "valid_from": "09-04-2026",
   "valid_until": "16-04-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ55kiWH8%2Fp-25.webp&w=300&x1r=0.0132&x2r=0.9451&y1r=0.4528&y2r=0.7512&s=ba876911712c4624318c49cc1c8d6966"
+ },
+ {
+  "link": "/Min-Kobmand?publication=3bwXGGUQ&offer=nyKSeJmhmkspI71-0Gk4X",
+  "price": "79",
+  "currency": "DKK",
+  "valid_from": "31-03-2026",
+  "valid_until": "30-04-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3bwXGGUQ%2Fp-7.webp&w=300&x1r=0.6517&x2r=0.9721&y1r=0.7935&y2r=0.9795&s=3f1218117fbed6d5f9275fe9bb566f95"
  },
  {
   "link": "/MENY?publication=Q55kiWH8&offer=WYk2as0JBAytYIOtb-LlX",
