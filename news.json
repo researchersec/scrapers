@@ -1,5 +1,14 @@
 [
  {
+  "title": "Kemikalier skal forhindre brunt vand på Læsø",
+  "description": "Læsø Kommune har fået tilladelse til at tilsætte kemikalier til drikkevandet.",
+  "link": "https://www.dr.dk/nyheder/indland/kemikalier-skal-forhindre-brunt-vand-paa-laesoe",
+  "published": "Wed, 15 Apr 2026 16:15:00 GMT",
+  "guid": "urn:dr:umbraco:article:3d253b46-e4bd-4fdd-84a4-f6fd653a2db1",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fo3vl5clh%2Fvand-paa-laesoe_crop001.jpg&w=1200"
+ },
+ {
   "title": "Fredede dyr bliver fanget i dødsfælde: Nu lover sparekasse at løse problemet",
   "description": "I årevis er skrubtudser, frøer og salamandre blevet fanget i et springvand i Mariager",
   "link": "https://www.dr.dk/nyheder/indland/fredede-dyr-bliver-fanget-i-doedsfaelde-nu-lover-sparekasse-loese-problemet",
@@ -169,13 +178,20 @@
   "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fxl1djzky%2Fsommerdag-pa-havnen_crop001.png&w=1200"
  },
  {
-  "title": "Danmarksdemokraterne og Støjberg får vælgerlussing på hjemmebane",
-  "description": "Ved valget i 2022 var Mariagerfjordkredsen, hvor Inger Støjberg bor, det sted i hele landet, hvor Danmarksdemokraterne fik flest stemmer. Denne gang ser det markant anderledes ud.",
-  "link": "https://www.dr.dk/nyheder/politik/folketingsvalg/danmarksdemokraterne-og-stoejberg-faar-vaelgerlussing-paa-hjemmebane",
-  "published": "Wed, 25 Mar 2026 08:29:00 GMT",
-  "guid": "urn:dr:umbraco:article:54dadf73-c77d-4fa2-8b25-12c1af18892b",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fasset.dr.dk%2Fdrdk%2Fumbraco-images%2Fukllhnnc%2F20260325-015517-l-1920x1280web.jpg&w=1200"
+  "title": "Tømrermester fra Aalborg mistede sit mandat på grund af alterlys",
+  "description": "<p>Det blev en dramatisk godkendelse af Folketingsvalget på Christiansborg tirsdag efter tvivl om et nyvalgt medlems bopæl.</p><p>Det er ikke første gang, at små detaljer har været afgørende for et valg. Der var eksempelvis Erhard Jakobsen, som skulle tanke i 1973 og dermed udløste jordskredsvalget. Og så var der dengang, hvor Venstre mistede årtiers greb om magten.</p><p>For mere end 100 år siden. Alt sammen på grund af nogle alterlys.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/tomrermester-fra-aalborg-mistede-sit-mandat-pa-grund-af-alterlys-7519f",
+  "published": "Wed, 15 Apr 26 18:30:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/tomrermester-fra-aalborg-mistede-sit-mandat-pa-grund-af-alterlys-7519f",
+  "category": "No category"
+ },
+ {
+  "title": "AAUs nye powerchip koster en tredjedel af konkurrenternes",
+  "description": "<p>De er i næsten alt. De er i din elbil. De er i opladeren til din computer og telefon. Og de er afgørende for, at den vedvarende energi, som Danmark producerer, kan blive konverteret til strøm.</p><p>Det handler om powerchips, der oplever store prisstigninger. Det gør de blandt andet på grund af appettitten på datacentre og AI.</p><p>Derfor er store muligheder i den powerchip, som forskere på Aalborg Universitet har brugt det seneste halvandet år på at udvikle.</p><p>Den koster nemlig en tredjedel af prisen.</p><p>- For det første er chippen meget billigere at producere end de traditionelle powerchips, der laves af siliciumkarbid. Vi kan opnå ydeevnen af de aktuelt bedste effektchips til en tredjedel af prisen. Dernæst vil en produktion af powerchips herhjemme give Danmark forsyningssikkerhed inden for et område, som har utrolig stor indflydelse på dansk økonomi, siger Stig Munk-Nielsen, der er professor på AAU Energi og idemageren bag chippen med henvisning til blandt andet Vestas, Grundfos og Danfoss, der alle bruger powerchips i deres produktioner.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/aaus-nye-powerchip-koster-en-tredjedel-af-konkurrenternes-1af4c",
+  "published": "Wed, 15 Apr 26 17:36:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/aaus-nye-powerchip-koster-en-tredjedel-af-konkurrenternes-1af4c",
+  "category": "No category"
  },
  {
   "title": "Undergrunden ved IKEA afslører 4000 år gammel beboelse",
@@ -183,6 +199,14 @@
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/undergrunden-ved-ikea-afslorer-4000-ar-gammel-beboelse-88ea5",
   "published": "Wed, 15 Apr 26 16:30:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/undergrunden-ved-ikea-afslorer-4000-ar-gammel-beboelse-88ea5",
+  "category": "No category"
+ },
+ {
+  "title": "AAUs nye powerchip koster en tredjedel af konkurrenternes",
+  "description": "<p>De er i næsten alt. De er i din elbil. De er i opladeren til din computer og telefon. Og de er afgørende for, at den vedvarende energi, som Danmark producerer, kan blive konverteret til strøm.</p><p>Det handler om powerchips, der oplever store prisstigninger. Det gør de blandt andet på grund af appettitten på datacentre og AI.</p><p>Derfor er store muligheder i den powerchip, som forskere på Aalborg Universitet har brugt det seneste halvandet år på at udvikle. </p><p>Den koster nemlig en tredjedel af prisen.</p><p>- For det første er chippen meget billigere at producere end de traditionelle powerchips, der laves af siliciumkarbid. Vi kan opnå ydeevnen af de aktuelt bedste effektchips til en tredjedel af prisen. Dernæst vil en produktion af powerchips herhjemme give Danmark forsyningssikkerhed inden for et område, som har utrolig stor indflydelse på dansk økonomi, siger Stig Munk-Nielsen, der er professor på AAU Energi og idemageren bag chippen med henvisning til blandt andet Vestas, Grundfos og Danfoss, der alle bruger powerchips i deres produktioner.</p> <h2>Spytter millionbeløb i projektet</h2><p>Ideen til chippen fik Stig Munk-Nielsen på en konference i USA. Her fik han ideen til at producere mikrochippen i galliumoxid, og kort derefter faldt han over en fabrik, hvor man kan producere powerchips til en brøkdel af prisen. </p><p>- En af forskerne på teamet har en fortid i den japanske chipindustri, så jeg sendte ham og en anden forsker af sted. På blot to uger konstruerede de denne unikke powerchip, siger Stig Munk-Nielsen.</p><p>Nu skal en millioninvestering opskalere projektet, så den kan blive udviklet og produceret til industrielt brug.</p><p>Både Innovationsfonden og Aalborg Universitet har spyttet et millionbeløb i at gøre chippen klar til markedet.</p><p>- Vi investerer for at accelerere en udvikling i en chip med det klare mål, at der skal starte produktion i regionen og i Danmark. Det er strategisk vigtigt for Danmark og Europa at få egen produktion af powerchips, siger Lars Storm Pedersen, der er institutleder på AAU Energy.</p> <h2>Kan sætte Aalborg på verdenskortet</h2><p>Men det er ikke kun AAU og Innovationsfonden, der tror så meget på projektet, at de bakker det op. Også Polyteknik A/S i Østervrå er med på ideen.</p><p>- I Polyteknik har vi en naturlig interesse i, at der på sigt skabes et større cluster af virksomheder relateret til chipindustrien. Det vil være en vækstkatalysator for chipudvikling og -produktion i Nordjylland, siger Jens William Larsen, der er CEO i Polyteknik.</p><p>Og Stig Munk-Nielsen har da også støre drømme med powerchippen.</p><p>- På verdensplan er powerchips blot en niche af chipsområdet, men i Danmark er det kæmpestort. Derfor ønsker vi at skabe et miljø, hvor nye virksomheder kan vokse op omkring udviklingen af powerchippen. Det vil styrke forskningen på universitetet, skabe arbejdspladser og gøre Nordjylland til en powerhub for chipteknologi, siger Stig Munk-Nielsen.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/aaus-nye-powerchip-koster-en-tredjedel-af-konkurrenternes-56440",
+  "published": "Wed, 15 Apr 26 16:19:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/aaus-nye-powerchip-koster-en-tredjedel-af-konkurrenternes-56440",
   "category": "No category"
  },
  {
@@ -199,6 +223,14 @@
   "link": "https://www.tv2nord.dk/thisted/efter-uhyggelig-oplevelse-nu-advarer-styrelse-4b1e9",
   "published": "Wed, 15 Apr 26 15:30:00 +0200",
   "guid": "https://www.tv2nord.dk/thisted/efter-uhyggelig-oplevelse-nu-advarer-styrelse-4b1e9",
+  "category": "No category"
+ },
+ {
+  "title": "Tømrermester fra Aalborg mistede sit mandat på grund af alterlys",
+  "description": "<p>Det blev en dramatisk godkendelse af Folketingsvalget på Christiansborg tirsdag efter tvivl om et nyvalgt medlems bopæl.</p><p>Det er ikke første gang, at små detaljer har været afgørende for et valg. Der var eksempelvis Erhard Jakobsen, som skulle tanke i 1973 og dermed udløste jordskredsvalget. Og så var der dengang, hvor Venstre mistede årtiers greb om magten. </p><p>For mere end 100 år siden. Alt sammen på grund af nogle alterlys. </p> <h2>Kom sekunder for sent</h2><p>I 1924 blev den lokale tømrermester Martin Hansen akkurat ikke valgt til Landstinget. Få sekunder betød i stedet, at det politiske landskab i Danmark blev ændret drastisk. </p><p>Peter Wendelboes far, tømrermester Martin Christian Hansen, var i 1924 opstillet for Venstre til det daværende kammer Landstinget på Christiansborg. Man blev valgt via valgmænd, men valgmanden Lauritz Bech, der skulle stemme på Martin Christian Hansen, kom for sent.</p><p>- Da pressen spurgte Lauritz Bech: &#039;Hvorfor kom du ikke til tiden?&#039;, svarede han: &#039;A var ude og købe alterlys&#039;. Det navn blev øgenavnet på det valg - Alterlysvalget, siger 83-årige Peter Wendelboe fra hjemmet i Blokhus.</p><p>Selv om Lauritz Bech mente, at det kun var nogle få sekunder, han var kommet for sent, lykkedes det ham ikke, at få lov til at stemme.</p><p>- Han opførte sig ligesom Kristian Poulsgaard fra Fremskridtspartiet gjorde engang, han blev smidt ned fra talerstolen. Han var flere gange oppe på talerstolen, og han blev smidt ned hver gang. Han fik ikke lov til at afgive sin stemme, og han gjorde en farlig vrøvl over det, uddyber Peter Wendelboe.</p> <h2>Førte til grundlovsændring</h2><p>Den manglende stemme betød ikke blot, at Peter Wendelboes far ikke blev valgt, men også at Venstre mistede deres flertal i Landstinget. Efterfølgende udløste &#039;Alterlysvalget&#039; en lang debat, om det ikke var på tide at ændre grundloven og fjerne Landstinget, men den debat blev afbrudt af Anden Verdenskrig.  </p><p>- Man kunne ikke drøfte en eventuel grundlovsændring under krigen. Først i 1953 kom grundlovsændringen, og vi afskaffede Landstinget, siger Peter Wendelboe.</p><p>Tømrermester Martin Christian Hansen røg altså ud af Landstinget, fordi en af hans valgmænd var ude for at købe alterlys.</p><p>- Han var med i flere perioder i Landstinget. Men i 1924 mistede han sit mandat. Men som han sagde: &#039;Det var godt. Man kan ikke sidde over i København og regere landet, og samtidig drive forretning i Aalborg, slutter Peter Wendelboe sin anekdote om sin far.</p>",
+  "link": "https://www.tv2nord.dk/jammerbugt/tomrermester-fra-aalborg-mistede-sit-mandat-pa-grund-af-alterlys-ed84c",
+  "published": "Wed, 15 Apr 26 15:01:00 +0200",
+  "guid": "https://www.tv2nord.dk/jammerbugt/tomrermester-fra-aalborg-mistede-sit-mandat-pa-grund-af-alterlys-ed84c",
   "category": "No category"
  },
  {
@@ -223,38 +255,6 @@
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/fire-koretojer-og-otte-maend-i-faerd-med-at-slukke-branden-1a20b",
   "published": "Wed, 15 Apr 26 11:51:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/fire-koretojer-og-otte-maend-i-faerd-med-at-slukke-branden-1a20b",
-  "category": "No category"
- },
- {
-  "title": "Nordjyde strandet siden 02.45 i nat: - Fuldstændig sindssygt",
-  "description": "<p>Fejlene på et kørestrømanlæg på Sjælland påvirker ikke kun togpassagerer i Danmark.</p><p>Skolelærer Bo Schwartz fra Aalborg sad i flere timer fast i Padborg. Han er rejst med et tog, der kører fra Berlin til Stockholm.</p><p>- Jeg har aldrig i mit liv oplevet noget så vildt. Vi er fuldstændig fanget. Mange har hverken vand eller mad, og stationen er aflåst, siger Bo Schwartz til TV 2. Selv har han kun en halv plade chokolade tilbage, men intet vand.</p> <h2>Må finde overnatning i København</h2><p>Da toget nåede til Padborg omkring 02.45 natten til onsdag blev passagererne orienteret om, at &#039;der er uregelmæssigheder i den danske togtrafik&#039;, og at toget ikke kørte videre før omkring 9.15.</p><p>Toget vil dog først stoppe i København, imod planen, og Bo Schwartz må derfor rejse tilbage gennem Danmark for at komme til Aalborg. Han regner dog med at finde overnatning i København på grund af togkaosset.</p><h2>- Er fuldstændig sindssygt</h2><p>- Jeg er blevet overrasket over, hvor sårbart et moderne samfund pludselig er. At vi i 2026 bliver fanget på den her måde, er fuldstændig sindssygt, siger han.</p><p>Tirsdag faldt flere køreledninger ned på Sjælland og har siden medført store forsinkelser og aflysninger i togtrafikken på flere strækninger. </p>",
-  "link": "https://www.tv2nord.dk/aalborg/nordjyde-strandet-siden-0245-i-nat-fuldstaendig-sindssygt-d4bcf",
-  "published": "Wed, 15 Apr 26 11:35:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/nordjyde-strandet-siden-0245-i-nat-fuldstaendig-sindssygt-d4bcf",
-  "category": "No category"
- },
- {
-  "title": "Undergrunden ved IKEA afslører 4000 år gammel beboelse",
-  "description": "<p>Flere arkæologer fra Nordjyske Museer fundet spor efter beboelse i mere end 4.000 år, lige ved IKEA i Skalborg. Det fremgår af en pressemeddelelse fra Nordjyske Museer.</p><p>Der er blandt andet fundet mere end 200 stykker flint, som i bondestenalderen var et statussymbol blandt de velhavende folk.</p><p>I dag er det et symbol på 4000 års historie.</p> <h2>Vakt stor interesse</h2><p>Det er ikke hver dag, at man ser fund fra bondestenalderen, og derfor har arkæologernes fund også vakt interesse blandt nordjyderne.</p><p>Derfor tilbyder Nordjyske Museer muligheden for at besøge udgravningen og komme tæt på det arbejde, som arkæologerne har gravet frem.</p> <p>En særudstilling vil blive placeret på parkeringspladsen ved IKEA under navnet &#039;Limfjordens Stemme&#039;. Udstillingen er mobil og kan opleves indtil 1. juni, hvorefter den vil blive flyttet til et andet sted.</p><p>Der er også mulighed for at opleve fundene ved tre rundvisninger, der foregår i løbet af sommeren i området lidt syd for IKEA.</p> <p>De arkæologiske fund er dukket op i forbindelse med anlægsarbejdet med den 3. limfjordsforbindelse. Nu er det besluttet, at et større område syd for IKEA skal undersøges nærmere.</p><p>Arkæologerne har udvalgt ti steder, hvor de vil foretage udgravningerne - så udsigten til en lang sommer, er bestemt i vente for dem.</p><p><strong>Se indslaget her:</strong></p>",
-  "link": "https://www.tv2nord.dk/aalborg/undergrunden-ved-ikea-afslorer-4000-ar-gammel-beboelse-90a8a",
-  "published": "Wed, 15 Apr 26 10:41:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/undergrunden-ved-ikea-afslorer-4000-ar-gammel-beboelse-90a8a",
-  "category": "No category"
- },
- {
-  "title": "Kemikalier skal stoppe brunt vand, men hvorfor er der ikke sket mere, spørger professor",
-  "description": "<p>Ifølge Bo Strøm Lundholm, driftsleder hos Læsø Forsyning, er det ikke nyt, at <a href=\"https://www.tv2nord.dk/kort-nyt/laesoe/borgere-lever-med-brunt-vand-nu-tilsaettes-kemikalier-for-at-aendre-farven-7387c\">de tilsætter kemikalier i rørene til drikkevandet på øen</a>, for at slippe af med okker, men det får nu professor i Public Health Engineering ved DTU Miljø – Institut for Vand og Miljøteknologi, Hans-Jørgen Albrechtsen, til at stille spørgsmålstegn til, hvordan det egentlig går. </p><p>I påsken kunne vi her på TV2 Nord fortælle, at<a href=\"https://www.tv2nord.dk/laesoe/det-ser-ulaekkert-ud-men-det-er-ikke-farligt-a0811\"> borgere på Læsø lever med drikkevand,</a> som i perioder bliver brunligt eller guligt. </p><p>Det skyldes okker, som lægger sig i rørene. Det er et rød/brunt/gult stof, der naturligt fremkommer i naturen fra jern.</p> <p>På Læsø forekommer det i lidt større mængder, fordi man ikke kan lægge vandboringer så dybt som andre steder, da vandet er meget saltholdigt længere nede, hvilket man ikke kan filtrere væk.</p><h2>Har tilsat kemikalier i årevis</h2><p>I påsken lød meldingen fra Læsø Forsyning, at det ikke er et problem, som kan løses. </p> <p>Men i virkeligheden har Forsyningen forsøgt at komme problemet til livs længe. Ifølge driftslederen har de i 30 år tilsat kemikaliet magnafloc til rørene, mens de i en prøveperiode på tre måneder både i 2008, 2016 og i løbet af sommeren 2025 også har tilsat kemikaliet aluminiumsklorid i håbet om at komme okkerne til livs. Et projekt, som Forsyningen har fået tilladelse til at køre. </p> <p>Driftslederen slår fast, at der ikke er noget farligt ved at tilsætte kemikalierne, da de bliver skyllet ud, før de når forbrugerne. </p><p>- Det er under fuldstændig kontrollerede forhold, det udarbejdet og blandt andet embedslægen og Styrelsen for Patientsikkerhed har godkendt projektet. </p><p>Tilsætningen af kemikalierne betyder dog, at vandet vil indeholde mere alluminium og klorid, fortæller professoren. Mængden overholder dog de officielle krav, lyder det. </p><h2>- Hvordan går det?</h2><p>14. november fik de så den endelige tilladelse fra de relevante myndigheder til at fortsætte med brugen af aluminiumsklorid. </p> <p>Men eftersom TV2 Nord i påsken kunne fortælle, at der fortsat kommer brunt vand ud af hanerne på Læsø, undrer Hans-Jørgen Albrechtsen sig over, at der ikke er sket mere. </p><p>- Hvis forsyningen rent faktisk har etableret en permanent løsning, og det er kørt ind, og man alligevel har de oplevelser af vandet i påsken, er det værd at spørge dem, hvordan det går, for det virker slet ikke, som om problemet er løst, siger professoren.</p> <h2>Kan der gøres mere?</h2><p>Ifølge ham er det ikke unormalt, at der bliver tilsat kemikalier til vandbehandlingen i vandrørene, men at det er sjældent, at man ser kombinationen af Magnafloc og Aluminiumsklorid i Danmark. </p><p>Det mener Bo Strøm Lundholm dog ikke, at det er. </p><p>- Ring til Fanø og andre kystnære småsamfund, som er afhængige af drikkevand. Der er mange, der gør det her. </p> <p>Udover tilsætningen af de to kemikalier, arbejder Læsø Forsyning ikke på yderligere løsninger på problemet. De er dog ved at finde ud af, om de kan gøre mere, siger driftslederen. </p><p>- Vi er ved at lave andre forsøg i forhold til at skylle ud på en anden måde, men det er vi ikke i mål med endnu. Det er ikke noget, man løser over kort tid. </p><p>Vandet på Læsø er ikke farligt, selvom det til tider er brunt. Det slog Læsø Forsyning fast, da vi tidligere talte med dem. </p><p>1. april talte TV2 Nord med driftslederen for Læsø Forsyning Bo Strøm Lundholm, der forklarer, hvorfor vandet er brun, og hvad de har gjort for at komme det til livs.</p><p><em>Du kan høre interviewet herunder:</em></p>",
-  "link": "https://www.tv2nord.dk/laesoe/kemikalier-skal-stoppe-brunt-vand-men-hvorfor-er-der-ikke-sket-mere-sporger-professor-9737e",
-  "published": "Wed, 15 Apr 26 10:07:00 +0200",
-  "guid": "https://www.tv2nord.dk/laesoe/kemikalier-skal-stoppe-brunt-vand-men-hvorfor-er-der-ikke-sket-mere-sporger-professor-9737e",
-  "category": "No category"
- },
- {
-  "title": "Tyv på spil: Stjal kørekort, dankort og ... instruktionsbog",
-  "description": "<p>Mellem mandag aften og tirsdag morgen blev to biler på Skelund Hovedgade i Hadsund udsat for tyveri. <br />Ejerne af bilerne mødte tirsdag omkring klokken 06.45 op ved deres biler til, at de var blevet tømt for værdigenstande. </p><p>Ifølge politikommissær ved Himmerlands Politi Jesper Fredsgaard havde begge biler været ulåst. </p><p>I den ene bil var tyven stukket af med kørekort, kortholder, dankort og 900 kroner i kontanter, mens tyven i den anden bil havde tømt alt indholdet fra handskerummet på bilens forsæde og herefter forladt stedet med kørekort, sundhedskort, gavekort og bilens instruktionsbog. </p><p>Senere fandt man tasken i byen - dog uden indholdet. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/tyv-pa-spil-stjal-korekort-dankort-og-instruktionsbog-75bee",
-  "published": "Wed, 15 Apr 26 10:02:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/tyv-pa-spil-stjal-korekort-dankort-og-instruktionsbog-75bee",
   "category": "No category"
  },
  {
