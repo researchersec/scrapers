@@ -8,12 +8,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx3SGwoSS%2Fp-6.webp&w=300&x1r=0.0159&x2r=1&y1r=0.0136&y2r=0.473&s=cb7be5407361a5b6f700661b319a10d0"
  },
  {
-  "link": "/Lidl?publication=6aOkaJkt&offer=YTPN61yYwJeLHNMeyDMY6",
+  "link": "/Lidl?publication=H9prY1_4&offer=a4pdKad7wtB8HWF80V9vi",
   "price": "5",
   "currency": "DKK",
   "valid_from": "11-04-2026",
   "valid_until": "18-04-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6aOkaJkt%2Fp-1.webp&w=300&x1r=0.0108&x2r=0.3365&y1r=0.4233&y2r=0.6619&s=4f08fb020373ae7b6afbd3dc600b39c0"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FH9prY1_4%2Fp-8.webp&w=300&x1r=0.0108&x2r=0.3365&y1r=0.4233&y2r=0.6619&s=86f95a3c67bdf8c52e49bfbc59ec97e6"
  },
  {
   "link": "/Bilka?publication=9gmffCzX&offer=KpWDitbi9MhueSboLf15L",
@@ -144,20 +144,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FabTTGN1F%2Fp-16.webp&w=300&x1r=0.4702&x2r=0.9602&y1r=0.6535&y2r=0.9581&s=1090167c06eff8257b8fe6e27a9905d4"
  },
  {
-  "link": "/LET-KOB?publication=TsieGj4Q&offer=4R93cOHUamTGARPo76I1P",
-  "price": "140",
-  "currency": "DKK",
-  "valid_from": "05-04-2026",
-  "valid_until": "19-04-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTsieGj4Q%2Fp-3.webp&w=300&x1r=0.5045&x2r=0.9784&y1r=0.6642&y2r=0.9821&s=4e8fa4290f914975283da7956b9f4428"
- },
- {
   "link": "/Fleggaard?publication=GrqwzkM8&offer=1WAnJzwammNoPl86Yg1hJ",
   "price": "82",
   "currency": "DKK",
   "valid_from": "24-03-2026",
   "valid_until": "28-04-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F0b1b9b2d82bb98706520285d2115a620%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ab6c614c6c5153fe1ac3fa98b96b146%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Fcdc0b4b1437c087134c60f356032ee7e%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F1759e3c87f99fbb269db79e8b2f35386&w=300&s=71a74dc706bce8dc89c7cd13f6ff4c44"
+ },
+ {
+  "link": "/LET-KOB?publication=TsieGj4Q&offer=4R93cOHUamTGARPo76I1P",
+  "price": "140",
+  "currency": "DKK",
+  "valid_from": "05-04-2026",
+  "valid_until": "19-04-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTsieGj4Q%2Fp-3.webp&w=300&x1r=0.5045&x2r=0.9784&y1r=0.6642&y2r=0.9821&s=4e8fa4290f914975283da7956b9f4428"
  },
  {
   "link": "/Calle?publication=LBBJDD3X&offer=0TGJMYsjaZ7iVYdy8_xbT",
@@ -216,12 +216,28 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYYQW2Hdl%2Fp-22.webp&w=300&x1r=0.0168&x2r=0.4905&y1r=0.6389&y2r=0.9807&s=b5f0337f555517e7ac1c96b5c25f1061"
  },
  {
+  "link": "/fotex?publication=TI56s5Sq&offer=SpuVASJtnJsJDpX_6CE5a",
+  "price": "140",
+  "currency": "DKK",
+  "valid_from": "16-04-2026",
+  "valid_until": "30-04-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTI56s5Sq%2Fp-34.webp&w=300&x1r=0.2489&x2r=0.9901&y1r=0.4144&y2r=0.7337&s=3df5e09227fd07b3593d789a4d3fc198"
+ },
+ {
   "link": "/SPAR?publication=abTTGN1F&offer=60fW-vNTQ_2vUixbLhwgA",
   "price": "99",
   "currency": "DKK",
   "valid_from": "09-04-2026",
   "valid_until": "16-04-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FabTTGN1F%2Fp-16.webp&w=300&x1r=0.037&x2r=0.9436&y1r=0.3076&y2r=0.6482&s=6aece4e678eeadc78fd850a807a86980"
+ },
+ {
+  "link": "/fotex?publication=TI56s5Sq&offer=cSe9i-uXE60wJKRaNNpXz",
+  "price": "105",
+  "currency": "DKK",
+  "valid_from": "16-04-2026",
+  "valid_until": "30-04-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTI56s5Sq%2Fp-34.webp&w=300&x1r=0.0053&x2r=0.9566&y1r=0.2413&y2r=0.4769&s=d1b09a383a254b75fca77ddd71f0ad2a"
  },
  {
   "link": "/fotex?publication=BMZTwlyk&offer=ZVhJb_6S-h2vCyRrn76vi",
