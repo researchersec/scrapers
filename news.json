@@ -1,5 +1,14 @@
 [
  {
+  "title": "Avisen får lov til at leve: Der er stadig penge i papir",
+  "description": "I 2027 skulle den fysiske udgave af Nordjyske stoppe med at udkomme. Den plan er nu droppet.",
+  "link": "https://www.dr.dk/nyheder/indland/avisen-faar-lov-til-leve-der-er-stadig-penge-i-papir",
+  "published": "Tue, 21 Apr 2026 07:11:00 GMT",
+  "guid": "urn:dr:umbraco:article:a530e8bd-afb8-4abc-a358-34ac08615c93",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/afyg303e/nordjyske-1.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "'Helt usædvanligt': Anklager vil have ung drabsmand idømt fængsel på ubestemt tid",
   "description": "Det vil ifølge ekspert være 'meget usædvanligt', hvis gerningsmanden idømmes forvaring på grund af sin alder på drabstidspunktet.",
   "link": "https://www.dr.dk/nyheder/indland/helt-usaedvanligt-anklager-vil-have-ung-drabsmand-idoemt-faengsel-paa-ubestemt-tid",
@@ -171,16 +180,63 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/biceqwsr/jeppe.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Fødegang skruer ned for lattergas og op for musikterapi som alternativ til smertelindring",
-  "description": "Tiltaget om at skrue ned for lattergassen skal give et grønnere klimaregnskab hos hospitalet.",
-  "link": "https://www.dr.dk/nyheder/indland/foedegang-skruer-ned-lattergas-og-op-musikterapi-som-alternativ-til-smertelindring",
-  "published": "Tue, 07 Apr 2026 09:32:00 GMT",
-  "guid": "urn:dr:umbraco:article:7d52f40c-24a4-47cd-8146-3211047b6e73",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/cycjxb2f/top-baby-billede_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Havareret bil spærrer spor på motorvejen",
+  "description": "<p>Opdateret klokken 10.45: Uheldsstedet er ryddet, og alle spor er farbare igen.</p><p>En bil er havareret på motorvej E45 i nordgående retning mellem afkørsel 33 Haverslev og afkørsel 32 Sønderup. </p><p>Oprydningsarbejdet er i gang, men det ene spor er spærret, og derfor er kun et enkelt spor farbart.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/region-nordjylland/havareret-bil-spaerrer-spor-pa-motorvejen-92065",
+  "published": "Tue, 21 Apr 26 10:12:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/region-nordjylland/havareret-bil-spaerrer-spor-pa-motorvejen-92065",
+  "category": "No category"
  },
  {
-  "title": "Nu skal Landsretten tage stilling",
+  "title": "AaB-tribune skifter navn",
+  "description": "<p>Nordtribunen på Aalborg Portland Park skifter navn til itm8 Tribunen.</p><p>Den globale IT-virksomhed med kontor i Aalborg har nemlig valgt at indgå en ny og opgradet partneraftale med AaB. Itm8 er nu platinpartner i AaB indtil 30. juni 2028.</p><p>De kommende tribuneskilte på itm8 Tribunen er under udarbejdelse, og den færdigudsmykkede tribune forventes senest at være klar til sommerens sæsonpremiere.</p><p>- Aalborg og Nordjylland er et meget vigtigt vækstområde for os. Derfor er vi både stolte og glade for at få muligheden for at bakke endnu mere op om AaB – i takt med at vi også selv satser markant på at udvide vores forretning i området, siger Executive Partner ved itm8 Brian Sørensen.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/aab-tribune-skifter-navn-b13b0",
+  "published": "Tue, 21 Apr 26 10:08:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/aab-tribune-skifter-navn-b13b0",
+  "category": "No category"
+ },
+ {
+  "title": "Stjal svejsemaskine, minigraver og plæneklipper",
+  "description": "<p>En gårdejer i Løgstør fik mandag 20. april en træls overraskelse, da han gik i laden. Her havde tyveknægte været på spil. De havde fået adgang til laden ved at sparke døren ind.</p><p>Og der blev stjålet værktøj og redskaber for et stort beløb. </p><p>Tyvene slap afsted med både elværktøj, slagnøgle, skruemaskine, batterier og en svejsemaskine. Ligesom det også lykkedes dem at stjæle en minigraver og en rød plæneklipper.</p><p>Politiet i Himmerland oplyser, at der er sikret DNA fra gerningsmændene.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/stjal-svejsemaskine-minigraver-og-plaeneklipper-84e31",
+  "published": "Tue, 21 Apr 26 10:02:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/stjal-svejsemaskine-minigraver-og-plaeneklipper-84e31",
+  "category": "No category"
+ },
+ {
+  "title": "Afgørende hånd fra Ehlers i slutspilsgyser",
+  "description": "<p>Nordjyske Nikolaj Ehlers havde en afgørende hånd med i spillet, da Carolina Hurricanes natten til tirsdag besejrede Ottawa Senators. </p><p>Den ordinære kamp endte 2-2 og måtte ikke bare ud i forlængelse, men også ekstra forlængelse, da de første ekstra 20 minutter ikke førte til en afgørelse. Ehlers og kompagni var ellers tæt på to gange i overtiden. Først brændte Carolina et straffeslag, og senere fik de et mål underkendt. </p><p>Men efter små 34 minutters ekstra spilletid modtog Ehlers pucken i hjørnet, kiggede op og fandt med en præcis aflevering Jordan Martinook i en kødrand af Ottawa-spillere foran målet, hvor Martinook resolut bankede pucken i nettet. </p><p>Med sejren fører Carolina nu 2-0 i første runde af playoff-spillet, hvor 16 NHL-hold er tilbage i kampen om Stanley Cup-trofæet. </p><p>Holdene spiller bedst af syv kampe. Efter hjemmebane i de to første opgør skal Ehlers og Hurricanes natten til lørdag og igen lørdag aften dansk tid møde Ottawa på udebane. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/afgorende-hand-fra-ehlers-i-slutspilsgyser-53f24",
+  "published": "Tue, 21 Apr 26 08:58:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/afgorende-hand-fra-ehlers-i-slutspilsgyser-53f24",
+  "category": "No category"
+ },
+ {
+  "title": "Nu forsøger forsker fra Mors at dyrke velsmagende tang",
+  "description": "<p>Danskerne skal måske til at vænne sig til en ny og meget eftertragtet slags tang på spisebordet.</p><p>Forskere fra DTU Aqua i Nykøbing er lige nu ved at undersøge, om man kan udnytte den tangart, der hedder purpurhinde, kommercielt.</p><p>Den rødbrune tang ser ikke ud af noget særligt, men hvis det lykkes forskerne på Mors at knække koden, er det en fødevare med store perspektiver.</p><p>- Det er et spændende, men også udfordrende arbejde, for det er en vild afgrøde, som vi skal lære at kende, siger Peter Søndergaard Schmedes, der er forsker på DTU Aqua.</p><p>Han har en Ph.d. i tang og er en af de danskere, der ved allermest om emnet.</p> <p>Og der er god grund til, at forskerne på Mors har kastet sig over den specielle tangart, der findes i mange danske farvande, blandt andet Vesterhavet. Purpurhinde kendes også som nori, som man blandt andet bruger som det yderste lag i en sushi-rulle.</p><p>Der er altså tale om en meget velsmagende og eftertragtet delikatesse, som de danske firmaer, der dyrker tang, meget gerne vil have i deres produktion.</p> <h2>Har knækket den første kode</h2><p>Det er alt for besværligt at hente tangen der, hvor den gror naturligt. Derfor har DTU Aqua fået penge til at undersøge, om man kan få delikatessen til at spire i laboratoriet og herefter gro videre på liner ude i åbent vand.</p><p>Første del af opgaven er de kommet langt med.</p><p>- Vi har knækket koden med hensyn til lave spirerne. Nu skal vi så dyrke dem og se, hvor godt de vokser ude i farvandet, siger Peter Søndergaard Schmedes.</p> <p>Næste opgave bliver dermed at placere tang-spirerne på liner ude i Limfjorden, og det bliver den helt store test.</p><p>- Nu overlader vi det til naturens egne kræfter, siger forskeren.</p><p>Fiskeristyrelsen har bevilget 2,4 millioner kroner til forsøget, der går under navnet NyeTangArter.</p><p>Med i arbejdet er også tre af de virksomheder, der selv opdrætter tang, og de har store forventninger til arbejdet.</p><p>- Der er rigtigt store perspektiver. Det er en tangart, som folk kender. De spiser den, hver gang de spiser sushi, og der er et kæmpe potentiale, hvis man kunne dyrke den herhjemme. Så skulle man ikke importere den fra den anden side af jorden, siger Simon Weber Marcussen, der er medejer af Dansk Tang i Nykøbing Sjælland.</p><p>Og han er overbevist om, at kunderne også er der. De danske restauranter efterspørger nori-tang, men de danske firmaer har svært ved at levere.</p><p>- Hvis vi sagde til restauranterne, at nu er der nori-tang, er jeg sikker på, at det ville blive revet væk, siger Simon Weber Marcussen.</p>",
+  "link": "https://www.tv2nord.dk/morsoe/nu-forsoger-forsker-fra-mors-at-dyrke-velsmagende-tang-04189",
+  "published": "Tue, 21 Apr 26 08:27:00 +0200",
+  "guid": "https://www.tv2nord.dk/morsoe/nu-forsoger-forsker-fra-mors-at-dyrke-velsmagende-tang-04189",
+  "category": "No category"
+ },
+ {
+  "title": "Anklager viser billeder fra gerningsstedet",
+  "description": "<p>Landsretten i Aalborg skal i dag tage stilling til, om Elias Mahamad Isaaq Shegow skal idømmes forvaring for drabet på sin ekskæreste, den dengang 13-årige Anna Sveistrup.</p><p>Drabet fandt sted 11. marts 2024 i Hjallerup, og sidste år blev Elias Mahamad Isaaq Shegow idømt 12 års fængsel. Anklagemyndigheden ankede dengang dommen.</p><p>Både Retslægerådet og mentalerklæringen, der blev præsenteret for retten sidste sommer, anbefalede en forvaringsdom. Den anbefaling valgte byretten dog ikke at følge. Nu er spørgsmålet, om Landsretten vil se anderledes på sagen.</p><p>Følg med i livebloggen fra retten her:</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/skal-elias-i-forvarring-f4847",
+  "published": "Tue, 21 Apr 26 08:21:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/skal-elias-i-forvarring-f4847",
+  "category": "No category"
+ },
+ {
+  "title": "Tabt gods og åbent kloakdæksel",
+  "description": "<p>Opdateret klokken 09.00: Vejen er ryddet, og sporet er åbent igen.</p><p>Et spor er blokeret på motorvej E39 i nordgående retning mellem afkørsel 6 Brønderslev og afkørsel 5 Vrå. Det oplyser Vejdirektoratet.</p><p>Der ligger tabt gods på vejen, og et kloakdæksel står åbent. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/tabt-gods-og-abent-kloakdaeksel-02096",
+  "published": "Tue, 21 Apr 26 08:13:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/broenderslev/tabt-gods-og-abent-kloakdaeksel-02096",
+  "category": "No category"
+ },
+ {
+  "title": "Nu skal forsvarsadvokat procedere",
   "description": "<p>I sommeren 2025 blev Elias Mahamed Isaaq Shegow idømt 12 års fængsel for blandt andet drab og voldtægt af sin 13-årige ekskæreste Anna Sveistrup.</p><p>Dommen blev efterfølgende anket af Statsadvokaten med henblik på at få skærpet straffen til forvaring. I dag skal Landsretten tage stilling til dommen. TV2 Nord følger sagen fra retten.</p>",
   "link": "https://www.tv2nord.dk/aalborg/nu-skal-landsretten-tage-stilling-037ba",
   "published": "Tue, 21 Apr 26 08:00:00 +0200",
@@ -204,60 +260,12 @@
   "category": "No category"
  },
  {
-  "title": "- Håndværksfagene har fået et nakkeskud",
-  "description": "<p>Søren Hammer Sørensen fra Hobro er smed, men han er bekymret for håndværkets fremtid. Han påpeger, at vi i fremtiden kommer til at mangle håndværkere, og især de håndværkere som mestrer de helt gamle håndværksdyder.</p><p>- Politikerne har givet håndværksfagene et nakkeskud ved at afskaffe sløjd og metalsløjd i folkeskolen, mener Søren Hammer Sørensen.</p><p>Der uddannes nemlig masser af kleinsmede, men de lærer aldrig at essesmede, som Søren Hammer Sørensen og få andre i Danmark gør. Det er den gamle smedmetode med høj varme - eksempelvis bruges det til bygningsbevaring.</p><p>Ifølge ham er det også et bæredygtighedsspørgsmål, for hvis ingen kan håndværket, hvordan skal vi så passe på vores gamle bygninger og reparere og bevare frem for at bygge nyt, spørger han.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/handvaerksfagene-har-faet-et-nakkeskud-1616b",
-  "published": "Tue, 21 Apr 26 06:10:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/handvaerksfagene-har-faet-et-nakkeskud-1616b",
-  "category": "No category"
- },
- {
-  "title": "- Politikerne har givet håndværksfagene et nakkeskud",
-  "description": "<p>- Politikerne har givet håndværksfagene et nakkeskud</p>",
-  "link": "https://www.tv2nord.dk/mariagerfjord/politikerne-har-givet-handvaerksfagene-et-nakkeskud-15214",
-  "published": "Tue, 21 Apr 26 06:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/mariagerfjord/politikerne-har-givet-handvaerksfagene-et-nakkeskud-15214",
-  "category": "No category"
- },
- {
-  "title": "Nyd synet, mens det varer: De instavenlige blomster er tilbage",
-  "description": "<p>Det smukke syn af lyserøde blomster fra japanske kirsebærtræer er igen at finde. Et syn, der skal nydes så længe det varer. For når først træet blomstrer, varer det kun få uger, før de lyserøde blade igen er faldet af. </p> <p>Ude foran Utzon Centret ved havnefronten i Aalborg står et smukt et af slagsen og tiltrækker sig opmærksomhed. Flere steder lader blomsterne nemlig vente lidt på sig, selvom de inden længe er at finde mange steder i Nordjylland. </p><p>I Parterrehaven i Rotunden i Hasseris afsatte By og Land i Aalborg Kommune sidste år penge til en hel allé fuld af japanske kirkebærtræer. Det bliver formentligt i manges øjne et seværdigt sted, hvor der kan knipses gode billeder til Instagram. By og Land betegner det desuden som en årligt tilbagevendende oplevelse for sanserne.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/nyd-synet-mens-det-varer-de-instavenlige-blomster-er-tilbage-061d1",
-  "published": "Mon, 20 Apr 26 23:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/nyd-synet-mens-det-varer-de-instavenlige-blomster-er-tilbage-061d1",
-  "category": "No category"
- },
- {
-  "title": "- Man skal kende sin besøgelsestid",
-  "description": "<p>Man kunne fristes til at tro, at afskeden er grundet skandaler, men tværtimod.</p><p>- Jeg har et ønske om at stoppe, mens folk ikke synes, at jeg er en gammel idiot, fortæller Jan Pedersen fra Arden, som har været formand for Dansk Varmblod de sidste 32 år.</p> <p>Men nu er det altså slut. Jan Pedersen beskriver sin afsked som at stoppe, mens legen er god. Han havde ikke forestillet sig, at rollen som formand skulle betyde så meget, som det kom til at gøre. </p><p>- Det har virkelig været med til at definere mit liv, fortæller han og fortsætter:</p><p>- Jeg står lidt tilbage med den samme følelse, som da mit sidste barn flyttede hjemmefra. Det giver sådan en tomhed, men samtidig føles det også rigtigt. Der kommer trods alt et liv bagefter, i begge sammenhænge.</p><h2>Stopper på toppen</h2><p>I øjeblikket beskriver organisationen sig selv, som et af de mest succesfulde forbund i verden, taget størrelsen i betragtning.</p><p>- Vi er ikke et stort forbund i verden, men vi er et af de mest succesfulde. Vores heste klarer sig uforholdsmæssigt godt i den internationale konkurrence, fortæller han.</p> <p>Jan Pedersen beskriver det at stoppe nu som at stoppe på toppen, og han er ikke i tvivl om, hvad der har været mest betydningsfuldt for ham i karrieren.</p><p>- Noget af det største er, at vores danske heste altid klarer sig ekstremt godt i verdensmesterskaberne for ungheste, og vi har de sidste 20 år rykket utrolig meget på springheste-siden. For ikke så mange år siden red de danske topryttere på europæiske heste, men de ridder på danske heste nu, siger han stolt.</p><h2>Ny formand tager over</h2><p>Selvom Jan Pedersen stopper som formand, forlader han ikke helt organisationen.</p><p>- Jeg er blevet æresmedlem, og det synes jeg er stort.</p><p>Jan Pedersen er præsident for den internationale organisation for avlsforbund, World Breeding Federation for Sport Horses, og det forbliver han. </p><p>Yderligere har han selv avlsheste, og vil derfor blive ved med at følge organisationen tæt.</p><p>- Jeg tror, det er vigtigt at trække sig, mens det går godt, og jeg har været virkelig glad for det. Det er rart at kunne få lov til at stoppe, mens legen er god. Det er faktisk kun derfor, jeg stopper.</p><p>Den nye formand, som skal udfylde Jan Pedersens sko, er Mogens Pedersen fra Allerød.</p>",
-  "link": "https://www.tv2nord.dk/mariagerfjord/man-skal-kende-sin-besogstid-48158",
-  "published": "Mon, 20 Apr 26 22:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/mariagerfjord/man-skal-kende-sin-besogstid-48158",
-  "category": "No category"
- },
- {
-  "title": "Mand idømt tidsubestemt straf for trusler mod betjent",
-  "description": "<p>Mandag tog en 27-årig mand plads i vidneskranken ved Retten i Hjørring i en ganske usædvanlig sag. Manden var nemlig tiltalt for at være brudt ind hos politiet for derefter at true en betjent med kniv. En hændelse der skete 19. april 2022. </p><p>I retten kom det frem, at manden var kravlet over hegnet ind til politigården i Frederikshavn, hvor han havde medbragt en brødkniv. </p><p>- Manden erkendte at have været der, men han husker ikke detaljerne, fortæller senioranklager ved Anklagemyndigheden i Nordjyllands Politi, Søren Riis Andersen. </p> <p>Manden blev erklæret uegnet til straf. En mentalundersøgelse anbefalede derimod en behandlingsdom. </p><p>- Manden blev fundet skyldig i trusler mod en betjent og idømt en behandlingsdom, siger senioranklager Søren Riis Andersen. </p><h2>Tidsubestemt straf</h2><p>Gerningsmanden var utilregnelig på gerningstidspunktet. Det lagt sammen med mentalundersøgelsen gjorde, at retten vurderede, at han skulle dømmes til psykiatrisk behandling. </p><p>- Der er ikke nogen længste tid på straffen, men anklagemyndigheden skal senest tage sagen op igen om fem år, siger senioranklager Søren Riis Andersen.</p>",
-  "link": "https://www.tv2nord.dk/frederikshavn/mand-idomt-tidsubestemt-straf-for-trusler-mod-betjent-874e7",
-  "published": "Mon, 20 Apr 26 21:15:00 +0200",
-  "guid": "https://www.tv2nord.dk/frederikshavn/mand-idomt-tidsubestemt-straf-for-trusler-mod-betjent-874e7",
-  "category": "No category"
- },
- {
-  "title": "Truede politibetjent med kniv: Nu er han dømt",
-  "description": "<p>En 27-årig mand blev mandag idømt en behandlingsdom efter at have kravlet over muren til politiet i Frederikshavn og truet en betjent med kniv. En hændelse der skete 19. april 2022. </p><p>- Manden blev fundet skyldig i trusler og idømt en behandlingsdom, siger senioranklager ved Anklagemyndigheden i Nordjyllands Politi, Søren Riis Andersen. </p><p>Anklageren fortæller, at retten senest efter fem år skal tage stilling til, om dommen skal opretholdes.  </p><p><em>Læs hele artiklen her:</em></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/truede-politibetjent-med-kniv-nu-er-han-domt-0358a",
-  "published": "Mon, 20 Apr 26 21:15:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/truede-politibetjent-med-kniv-nu-er-han-domt-0358a",
-  "category": "No category"
- },
- {
-  "title": "Håndboldstjerne kan have spillet sin sidste kamp",
-  "description": "<p>Landsholdsspilleren Victor Norlyk har fået en hjernerystelse og kan have spillet sin sidste kamp for Mors-Thy Håndbold. Det skriver <a href=\"https://www.tvmidtvest.dk/thisted/mors-thy-frygter-farvel-til-profil-han-kastede-op-efter-kampen-b0863?utm_source=tvmidtvest.dk&amp;utm_medium=article&amp;utm_campaign=ReadAlsoTextLink\">TV MidtVest.</a></p><p>En hjernerystelse er en svær størrelse at spå om, og derfor er udsigterne til et comeback for Norlyk, som måtte se resten af søndagens kamp som tilskuer, lige nu uklare.</p><p><em>Læs hele artiklen her:</em></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/morsoe/handboldstjerne-kan-have-spillet-sin-sidste-kamp-044ea",
-  "published": "Mon, 20 Apr 26 20:41:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/morsoe/handboldstjerne-kan-have-spillet-sin-sidste-kamp-044ea",
-  "category": "No category"
+  "title": "Få seneste nyt om AaB: Fyret sportsdirektør har fået nyt job",
+  "description": "Få overblikket over de største AaB-nyheder",
+  "link": "https://nordjyske.dk/nyheder/sport/faa-seneste-nyt-om-aab-fyret-sportsdirektoer-har-faaet-nyt-job/6001784?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 21 Apr 2026 08:51:37 Z",
+  "guid": "4de9f5a9-7b07-4754-9c4e-303aac62316c",
+  "category": "AaB"
  },
  {
   "title": "Forsvaret udbyder enorm aftale. Det kan genstarte en lukket nordjysk fabrik",
@@ -300,6 +308,14 @@
   "category": "Debat"
  },
  {
+  "title": "Hun gik fra datter til direktør. Og måtte lære at lede familievirksomheden på sin egen måde",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/hun-gik-fra-datter-til-direktoer-og-maatte-laere-at-lede-familievirksomheden-paa-sin-egen-maade/5984621?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 20 Apr 2026 03:47:45 Z",
+  "guid": "2f0f06f9-93bc-4c56-b2cb-d6c453dc46f4",
+  "category": "Erhverv"
+ },
+ {
   "title": "Der er både en god og en bekymrende nyhed om Victor Norlyk",
   "description": "Victor Norlyk er løbet ind i problemer, men stjernens udfordringer kan ikke dæmpe forventningerne om en mulig DM-semifinale",
   "link": "https://nordjyske.dk/nyheder/sport/der-er-baade-en-god-og-en-bekymrende-nyhed-om-victor-norlyk/6004719?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -314,14 +330,6 @@
   "published": "Mon, 20 Apr 2026 09:32:46 Z",
   "guid": "fc176320-33da-4976-9a4f-950396861d83",
   "category": "Aalborg Håndbold"
- },
- {
-  "title": "Hun gik fra datter til direktør. Og måtte lære at lede familievirksomheden på sin egen måde",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/hun-gik-fra-datter-til-direktoer-og-maatte-laere-at-lede-familievirksomheden-paa-sin-egen-maade/5984621?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 20 Apr 2026 03:47:45 Z",
-  "guid": "2f0f06f9-93bc-4c56-b2cb-d6c453dc46f4",
-  "category": "Erhverv"
  },
  {
   "title": "225 millioner for mindre støj - men beboere oplever det modsatte",
@@ -410,13 +418,5 @@
   "published": "Sat, 18 Apr 2026 15:43:51 Z",
   "guid": "39d50a5e-dfc5-4588-bf8a-76f1a4f763c1",
   "category": "Aalborg Håndbold"
- },
- {
-  "title": "Kommentar: Vi rykker redaktionen ud - her kan du møde dine lokaljournalister",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/byudvikling/kommentar-vi-rykker-redaktionen-ud-her-kan-du-moede-dine-lokaljournalister/5996506?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 18 Apr 2026 09:40:45 Z",
-  "guid": "a6a29b93-2c5e-4d38-b66d-5ce4f3f98de9",
-  "category": "Hobro"
  }
 ]
