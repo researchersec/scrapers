@@ -36,6 +36,15 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/afyg303e/nordjyske-1.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
+  "title": "Silas var selvmordstruet. Nu har han været med til at indrette ny psykiatrisk afdeling",
+  "description": "På det nye Aalborg Universitetshospital er patienterne blevet taget med på råd.",
+  "link": "https://www.dr.dk/nyheder/indland/silas-var-selvmordstruet-nu-har-han-vaeret-med-til-indrettet-ny-psykiatrisk-afdeling",
+  "published": "Tue, 21 Apr 2026 05:39:00 GMT",
+  "guid": "urn:dr:umbraco:article:6c86864f-97d6-4941-a88e-87deb334dfda",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/yhmazyjk/image00002.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "'Helt usædvanligt': Anklager vil have ung drabsmand idømt fængsel på ubestemt tid",
   "description": "Det vil ifølge ekspert være 'meget usædvanligt', hvis gerningsmanden idømmes forvaring på grund af sin alder på drabstidspunktet.",
   "link": "https://www.dr.dk/nyheder/indland/helt-usaedvanligt-anklager-vil-have-ung-drabsmand-idoemt-faengsel-paa-ubestemt-tid",
@@ -171,13 +180,44 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/qmxjxpro/20260407-172018-l_socialmedia_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Det er nu eller aldrig: Desperate boligejere får renset og malet deres tag inden forbud",
-  "description": "Huse på landet bliver usælgelige, når muligheden for at male taget forsvinder, mener Tagmalerforeningen.",
-  "link": "https://www.dr.dk/nyheder/indland/det-er-nu-eller-aldrig-desperate-boligejere-faar-renset-og-malet-deres-tag-inden-forbud",
-  "published": "Wed, 08 Apr 2026 15:38:00 GMT",
-  "guid": "urn:dr:umbraco:article:fb4642b9-ddfc-4c63-b0ab-930ca711d4f7",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/gz5dohgc/20190705-223818-4.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Spor blokeret på E39",
+  "description": "<p>Det ene spor på E39 Hirtshalsmotorvejen er torsdag omkring klokken 16.49 spærret på grund af tabt gods. </p><p>Det fremgår af Vejdirektoratets Trafikkort. </p><p>Blokeringen er mellem afkørsel 5 Vrå og afkørsel 6 Brønderslev C i sydgående retning. </p><p>Vejdirektoratet opfordrer bilisterne til at passe på. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/spor-blokeret-pa-e39-8190f",
+  "published": "Thu, 23 Apr 26 16:58:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/spor-blokeret-pa-e39-8190f",
+  "category": "No category"
+ },
+ {
+  "title": "EH Aalborg siger farvel til Mette Brandt",
+  "description": "<p>EH Aalborg må til sommer sige farvel til den stærke bagspiller Mette Brandt, som efter 3,5 år i klubben har valgt at søge nye udfordringer.</p><p>Det oplyser håndboldklubben i en pressemeddelelse. </p><p>Og det er altså en markant profil, som klubben siger farvel til alene i denne sæson har hun nemlig fået titlen som Bambuni Kvindeligaens ukronede assistdronning. Hun har i skrivende stund leveret hele 164 målgivende afleveringer, hvilket er 34 assist mere end nummer to på listen.</p><p>- Det skal ikke være nogen hemmelighed, at vi i EH Aalborg har brugt meget tid og mange kræfter på at forlænge aftalen med Mette, men hun har valgt, at der skal ny energi til, og det respekterer vi selvfølgelig, lyder det fra sportslig ansvarlig i EH Aalborg, Andreas Larsen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/assistdronning-takker-af-i-aalborg-bb700",
+  "published": "Thu, 23 Apr 26 16:31:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/assistdronning-takker-af-i-aalborg-bb700",
+  "category": "No category"
+ },
+ {
+  "title": "Person kørt til hospitalet efter brand - politi kommer med opfordring",
+  "description": "<p>En person er torsdag eftermiddag omkring klokken 15.33 blevet sendt til tjek på hospitalet efter at have været udsat for meget røg i forbindelse med en brand på Volstrupvej nord for Hobro. </p><p>Der var nemlig gået ild i en landejendom på adressen, og branden er ifølge vagtchef ved Nordjyllands Politi Thomas Ottesen sandsynligvis opstået på grund af en ukrudtsbrænder. </p><p>Ilden nåede ifølge vagtchefen ikke at udvikle sig voldsomt, og da beredskabet ankom var branden nærmest slukket af beboerne selv, alligevel kommer politiet altså med en opfordring. </p><p>- Der er meget tørt, og det er et tidspunkt, hvor vi har den her type sager, så hvis folk skal arbejde med ild i det åbne, så skal man tage sine forholdsregler, passe på og eventuelt have noget vand i nærheden, lyder opfordringen fra vagtchefen. </p><p>En person er i forbindelse med branden blevet sigtet for overtrædelsen af beredskabsloven, mens huset primært har fået sodskader. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/person-kort-til-hospitalet-efter-brand-politi-kommer-med-opfordring-4bbca",
+  "published": "Thu, 23 Apr 26 16:13:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/person-kort-til-hospitalet-efter-brand-politi-kommer-med-opfordring-4bbca",
+  "category": "No category"
+ },
+ {
+  "title": "Dronning Mary indvier det nye Aalborg Universitetshospital",
+  "description": "<p>Spadestikket til det nye Aalborg Universitetshospital blev taget tilbage i 2013, og nu godt 13 år efter holder Region Nordjylland officiel indvielse i Hospitalsbyen. </p><p>Indvielsen afholdes tirsdag 12. maj klokken 14, og til arrangementet kommer der altså fornemt besøg. </p><p>Hendes Majestæt Dronning Mary deltager nemlig i indvielsen og vil foretage den ceremonielle snoreklipning, efter hun er blevet modtaget og budt velkommen af regionsrådsformand Mads Duedahl (V) og hospitalsledelsen på Aalborg Universitetshospital.</p><p>Dronningens deltagelse vil derudover også omfatte overværelse af de officielle taler, en kort præsentation af udvalgte dele af det nye hospital samt et musikalsk indslag.</p><p>Det nye Aalborg Universitetshospital er med sine cirka 180.000 kvadratmeter Nordjyllands hidtil største byggeri med en samlet anlægsramme på cirka syv milliarder kroner. </p><p>Hele Hospitalsbyen omfatter cirka 230.000 kvadratmeter byggeri – heriblandt Aalborg Universitets SUND-fakultet, parkeringshus og børne-familiehus.</p><p>- Indvielsen bliver en historisk dag for Nordjylland. Først og fremmest er det den største investering i det nordjyske sundhedsvæsen nogensinde, og de nye fysiske rammer kommer til at gøre en forskel for mange nordjyder, udtaler regionrådsformand Mads Duedahl (V). </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/dronning-mary-indvier-det-nye-aalborg-universitetshospital-de5f7",
+  "published": "Thu, 23 Apr 26 14:42:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/dronning-mary-indvier-det-nye-aalborg-universitetshospital-de5f7",
+  "category": "No category"
+ },
+ {
+  "title": "Store navne netop offentliggjort til Nibe Festival",
+  "description": "<p>Programmet til årets Nibe Festival er netop blevet opdateret og udvidet med 31 artister.</p><p>I år har Nibe Festival fokus på store danske navne, hvoraf de to mest ønskede har været The Minds of 99, som blev offentliggjort for få uger siden, og nu er det afsløret, at Lucas Graham også indtager scenen i Nibe.</p><p>Udover Lucas Graham er store navne såsom Mads Langer og Lars Lilholt netop også blevet tilføjet til Nibe Festivals ellers efterhånden lange katalog.</p><p>- I jubilæumsåret hylder vi den danske musikscene ved at samle flest mulige af de kunstnere, publikum har det stærkeste forhold til, fortæller talsmand Peter Møller Madsen.</p><h2>Et næsten fuldendt program</h2><p>Festival gæster kan nu se frem til Lucas Graham som næsten-afslutter på Stor Scene, inden Suspekt lukker jubilæumsfestivalen af.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/store-navne-netop-offentliggjort-til-nibe-festival-18a19",
+  "published": "Thu, 23 Apr 26 14:05:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/store-navne-netop-offentliggjort-til-nibe-festival-18a19",
+  "category": "No category"
  },
  {
   "title": "- I må ikke køre på scooter indenfor!",
@@ -220,46 +260,6 @@
   "category": "No category"
  },
  {
-  "title": "Nordjysk efterskole donerer over 100.000 kroner til Ukraine og El Salvador",
-  "description": "<p>Traditionen tro danner dagen i dag rammen om Vesterbølle Efterskoles Forårsfremvisning. Det er en begivenhed, hvor skolens elever deler oplevelser og indtryk fra deres rejser ud i verden.</p><p>Denne gang er turen gået til været Spanien, Grækenland, Letland, El Salvador og Island. Dagen markerer også kulminationen på et helt skoleårs indsats fra eleverne, der har indsamlet 100.000 kroner til velgørende formål. </p><p>Denne gang går midlerne til støtteprojekter i Ukraine og netop El Salvador. Men det er ikke kun penge, der bliver doneret.</p><p>I det kommende skoleår får to ukrainere tilbudt et efterskoleophold på Vesterbølle Efterskole.</p><p>- Vi er stolte af vores elevers engagement og deres vilje til at gøre en forskel. Det er vigtigt for os som skole at koble dannelse med ansvar og globalt udsyn, siger forstander på efterskolen, Martin Diget Aamann.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/nordjysk-efterskole-donerer-over-100000-kroner-til-ukraine-og-el-salvador-417bf",
-  "published": "Thu, 23 Apr 26 09:05:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/nordjysk-efterskole-donerer-over-100000-kroner-til-ukraine-og-el-salvador-417bf",
-  "category": "No category"
- },
- {
-  "title": "Højskoler får millioner til grøn omstilling",
-  "description": "<p>Otte højskoler landet over, heraf én nordjysk, får i alt godt 105  millioner til projekter, der skal fremme bæredygtighed.</p><p>Det skriver Højskolerne i en pressemeddelelse.</p><p>En af de otte højskoler er Vrå Højskole, hvor eleverne med støtte fra Nordea Fonden skal undersøge, hvordan man kan dyrke og producere mere mad på mindre plads. </p><p>Fælles for projekterne er, at de forbinder elevernes hverdag med konkrete grønne handlinger og samtidig åbner højskolerne endnu mere mod deres lokalsamfund. Det fortæller Lisbeth Trinskjær, der er formand for Folkehøjskolernes Forening. </p><p>- Højskolerne har en helt særlig styrke i arbejdet med bæredygtighed, fordi de bringer mennesker sammen om at lære, handle og reflektere i fællesskab. Med de nye projekter får endnu flere unge 23. april 2026 mulighed for at omsætte deres engagement til konkret handling og blive aktive medskabere af en bæredygtig fremtid, siger hun.</p><p>De otte højskoler er Grundtvigs Højskole, Idrætshøjskolen i Ollerup, Nordfyns Højskole, Viborg Idrætshøjskole, Den Skandinaviske Designhøjskole, Vrå Højskole, Bornholms Højskole og Askov Højskole.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/hojskoler-far-millioner-til-gron-omstilling-582dc",
-  "published": "Thu, 23 Apr 26 08:59:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/broenderslev/hojskoler-far-millioner-til-gron-omstilling-582dc",
-  "category": "No category"
- },
- {
-  "title": "Hærværk hærger Hjørring",
-  "description": "<p>Aab-klistermærker, smadrede døre i elevatorer og ødelagte pusleborde. Sådan beskriver Hjørring Kommune det nylige hærværk i kommunen.</p><p>Det er dog ikke første gang, at kommunen oplever hærværk, og de må derfor endnu en gang komme med en opfordring på Facebook.</p><p>Det er nemlig mindre end et år siden, at de sidst måtte opfordre borgere til at behandle fælles faciliteter ordentligt. Her var det blandt andet et ødelagt puslebord, brændt hul i gulvet og klistermærker rundt omkring i byen, som frustrerede kommunen.</p> <p>Nu søger kommunen igen forståelse ved borgerne.</p> <p>&#039;Når fælles ting bliver ødelagt, er det ikke bare ærgerligt – det kræver også tid og ressourcer at udbedre, som vi i stedet kunne have brugt på at forbedre vores fælles rammer&#039;, skriver kommunen i deres opslag.</p><p>De opfordrer derfor alle til at passe på fælles faciliteter.</p>",
-  "link": "https://www.tv2nord.dk/hjoerring/haervaerk-haerger-hjorring-bd04b",
-  "published": "Thu, 23 Apr 26 08:56:00 +0200",
-  "guid": "https://www.tv2nord.dk/hjoerring/haervaerk-haerger-hjorring-bd04b",
-  "category": "No category"
- },
- {
-  "title": "Forsvarer får hadefulde beskeder ovenpå Hjallerup-dom",
-  "description": "<p>&#039;Du er et monster.&#039;</p><p>Sådan starter en besked til den forsvaresadvokat, Mette Grith Stage, der nu ad to omgange har forsvaret Elias Shegow i drabssagen mod Mia Sveistrup.</p><p>Og hun kan godt forstå, at dommen vækker stærke følelser, men hun understreger, at alle har ret til en forsvarer - uanset forbrydelsen.</p><p>&#039;Dertil må jeg bare sige, at jeg simpelthen ikke kan se, at der skulle være noget etisk forkert i, at jeg tager &#039;tjansen&#039;. En skal jo gøre det, for alle har ret til en forsvarer - også de, som bliver sigtet, tiltalt og måske dømt for noget af det allerværste, man kan forestille sig,&#039; lyder det videre.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/forsvarer-far-hadefulde-beskeder-ovenpa-hjallerup-dom-e4f8d",
-  "published": "Thu, 23 Apr 26 08:27:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/broenderslev/forsvarer-far-hadefulde-beskeder-ovenpa-hjallerup-dom-e4f8d",
-  "category": "No category"
- },
- {
-  "title": "Løfter sløret – to nye navne melder sig klar på udsolgt turné",
-  "description": "<p>Grøn‑karavanen får selskab af både nye og velkendte ansigter til sommer.</p><p>Når turnéen rammer blandt andet Aalborg, står både hitaktuelle Mumle og højtråbende HUGORM klar til at skrue op for fællessang og festivalstemning.</p><p>Turnéen er i år historisk tidligt udsolgt - allerede efter det første døgn var 200.000 billetter væk.</p><h2>Mumle: - En kæmpe milepæl for mig</h2><p>For Mumle bliver det første gang, hun er med på Grøn, og hendes forventninger er høje.</p><p>- Grøn er en kæmpe milepæl for mig… Jeg har altid fået FOMO, når mine venner kom hjem i Grøn‑merch, siger hun.</p> <p>Den 22‑årige sangerinde, der netop har udgivet sit debutalbum <em>Dig, Mig Og En Dårlig Boligsituation</em>, glæder sig især til at være en del af fællesskabet på turnéen.</p><h2>HUGORM vender tilbage</h2><p>HUGORM vender tilbage efter deres debut i 2024 ,og de lægger bestemt ikke skjul på ambitionerne.</p><p><em>-VI HEDDER HUGORM OG VI NEDLÆGGER GRØN,</em> lyder det fra trioen.</p> <p>Bandet har de seneste år markeret sig som et af landets mest energiske liveacts og har skubbet til grænserne for koncertoplevelser.</p><p>Seks ud af årets otte navne til Grøn 2026 på plads.</p><p>Overskuddet fra Grøn går til Muskelsvindfondens arbejde og forskning.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/gron-lofter-sloret-to-nye-navne-melder-sig-klar-pa-udsolgt-turne-d717c",
-  "published": "Thu, 23 Apr 26 07:59:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/gron-lofter-sloret-to-nye-navne-melder-sig-klar-pa-udsolgt-turne-d717c",
-  "category": "No category"
- },
- {
   "title": "Havnedirektøren risikerer at løbe tør for strøm. Så nu vil han producere sin egen",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/havnedirektoeren-risikerer-at-loebe-toer-for-stroem-saa-nu-vil-han-producere-sin-egen/6007631?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -290,6 +290,22 @@
   "published": "Thu, 23 Apr 2026 03:31:47 Z",
   "guid": "a19c1be0-5467-45d8-a28c-18b34c17f3a0",
   "category": "Aalborg Håndbold"
+ },
+ {
+  "title": "Indbyggertallet falder i Hirtshals. Seks lokale stemmer giver deres bud på, hvordan det kan vendes",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/hjoerring/hirtshals-har-meget-at-byde-paa-men-indbyggertallet-daler-vi-fik-seks-bud-paa-hvordan-man-kan-vende-udviklingen/6000739?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 21 Apr 2026 13:30:49 Z",
+  "guid": "4d591073-e799-44d0-a334-5b52f1504aaf",
+  "category": "Hirtshals"
+ },
+ {
+  "title": "Tre ingeniører fik en god idé og byggede virksomheden op til 200 ansatte. Så bankede Mærsk på døren",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/tre-ingenioerer-fik-en-god-id-og-byggede-virksomheden-op-til-200-ansatte-saa-bankede-maersk-paa-doeren/6005738?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 21 Apr 2026 11:32:48 Z",
+  "guid": "33b2c816-f248-4005-95db-34993258aa14",
+  "category": "Erhverv"
  },
  {
   "title": "Han har købt eget hus som 23-årig - måske skal du ikke bare gøre det, som dine venner gør",
@@ -380,28 +396,12 @@
   "category": "samfund"
  },
  {
-  "title": "Tre ingeniører fik en god idé og byggede virksomheden op til 200 ansatte. Så bankede Mærsk på døren",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/tre-ingenioerer-fik-en-god-id-og-byggede-virksomheden-op-til-200-ansatte-saa-bankede-maersk-paa-doeren/6005738?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 21 Apr 2026 11:32:48 Z",
-  "guid": "33b2c816-f248-4005-95db-34993258aa14",
-  "category": "Erhverv"
- },
- {
   "title": "Splittet landsret afviser forvaring til 13-årigs drabsmand. Nu kan sagen ende i Højesteret",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/krimi/splittet-landsret-afviser-forvaring-til-13-aarigs-drabsmand-nu-kan-sagen-ende-i-hoejesteret/6004450?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Tue, 21 Apr 2026 15:45:17 Z",
   "guid": "b981ce5f-349d-422c-89b8-4c35498e5e74",
   "category": "Drabssagen fra Hjallerup"
- },
- {
-  "title": "Indbyggertallet falder i Hirtshals. Seks lokale stemmer giver deres bud på, hvordan det kan vendes",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/hirtshals-har-meget-at-byde-paa-men-indbyggertallet-daler-vi-fik-seks-bud-paa-hvordan-man-kan-vende-udviklingen/6000739?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 21 Apr 2026 13:30:49 Z",
-  "guid": "4d591073-e799-44d0-a334-5b52f1504aaf",
-  "category": "Hirtshals"
  },
  {
   "title": "Markant tribune skifter navn, og det er uden bitter eftersmag",
