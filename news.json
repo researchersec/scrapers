@@ -1,5 +1,14 @@
 [
  {
+  "title": "Beboere må selv betale for at undgå tis i opgangen",
+  "description": "Aalborg Karneval vil ikke længere betale for hegn, der holder tissetrængende deltagere ude af baggårde og trappegange.",
+  "link": "https://www.dr.dk/nyheder/regionale/nordjylland/beboere-maa-selv-betale-undgaa-tis-i-opgangen",
+  "published": "Wed, 29 Apr 2026 11:53:00 GMT",
+  "guid": "urn:dr:umbraco:article:78ec73f5-175e-4b0f-8904-0f30b4b0f07f",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/dx0dscqc/20250524-140322-4.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Skiftetøj og stetoskop må ligge i en pose på gulvet: Nyt storsygehus har ikke skabe nok",
   "description": "Der mangler lige nu opbevaringsplads på Nyt Aalborg Universitetshospital, og det går ud over arbejdsglæden.",
   "link": "https://www.dr.dk/nyheder/indland/skiftetoej-og-stetoskop-maa-ligge-i-en-pose-paa-gulvet-nyt-storsygehus-har-ikke-skabe-nok",
@@ -171,13 +180,36 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/jptksj2r/20260415-192523-5_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Kemikalier skal forhindre brunt vand på Læsø",
-  "description": "Læsø Kommune har fået tilladelse til at tilsætte kemikalier til drikkevandet.",
-  "link": "https://www.dr.dk/nyheder/indland/kemikalier-skal-forhindre-brunt-vand-paa-laesoe",
-  "published": "Wed, 15 Apr 2026 16:15:00 GMT",
-  "guid": "urn:dr:umbraco:article:3d253b46-e4bd-4fdd-84a4-f6fd653a2db1",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/o3vl5clh/vand-paa-laesoe_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Person går på motorvejen",
+  "description": "<p>På E45 fra Hobro mod Aalborg mellem Himmerland og Støvring S er der onsdag eftermiddag set en person gående i nødsporet.</p><p>Vejdirektoratet opfordrer bilister til at sænke hastigheden. </p><p><em>Opdateres..</em></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/person-gar-pa-motorvejen-a722e",
+  "published": "Wed, 29 Apr 26 15:55:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/person-gar-pa-motorvejen-a722e",
+  "category": "No category"
+ },
+ {
+  "title": "Overgravet gasledning i Skagen: Politiet opfordrede borgere til at blive indenfor",
+  "description": "<p>Opdateret 15.54</p><p>Der var brud på en gasledning ved Fiskerbanke 23 i Skagen. Anmeldelsen kom 14.24. Nordjyllands Politi opfordrede borgere til at holde døre og vinduer lukket samt slukke for ventilationen. </p><p>Opfordringen gjaldt for beboere på Fiskerbanke, Lingbanke, Fladen Grund og Nordsøvej. De kan nu alle igen åbne døre og vinduer</p><p>- Der var tale om en overgravet gasledning, der fik os og politiet til at bede folk om at gå indenfor, fortæller indsatsleder hos Nordjyllands Beredskab Thomas Boelt. </p><p>Fire brandfolk fra Station Skagen, en indsatsleder samt Nordjyllands Politi var på stedet. </p><p>- Vi fik tilkaldt gasselskabet, og de er lige nu igang med at reetablere bruddet, så husene får gas igen, siger indsatsleder Thomas Boelt.</p><p>Beboerne forventes at få gas igen senest 16.30.</p><p>Nordjyllands Politi og Nordjyllands Beredskab har igen forladt stedet, da der ingen akut fare er derude. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/brud-pa-gasledning-i-skagen-politiet-kommer-med-opfordring-a2dba",
+  "published": "Wed, 29 Apr 26 14:58:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/brud-pa-gasledning-i-skagen-politiet-kommer-med-opfordring-a2dba",
+  "category": "No category"
+ },
+ {
+  "title": "Dødt dyr spærrede spor på E45",
+  "description": "<p><strong><em>Opdateret klokken 14.04: Sporet er nu ryddet og farbart igen.</em></strong></p><p>Hvis du kører på E45 Nordjyske Motorvej fra Aalborg mod Hobro, skal du være ekstra opmærksom mellem afkørsel 31 Støvring S og Himmerland.</p><p>Et dødt dyr ligger på kørebanen, og venstre spor er derfor spærret.</p><p>Det fremgår af Vejdirektorates trafikkort.</p><p>Trafikken passerer stedet, men bilister opfordres til at køre forsigtigt.</p><p><strong><em>Opdateres...</em></strong></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/dodt-dyr-spaerrer-spor-pa-e45-b2041",
+  "published": "Wed, 29 Apr 26 13:56:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/dodt-dyr-spaerrer-spor-pa-e45-b2041",
+  "category": "No category"
+ },
+ {
+  "title": "- Det er min måde at give tilbage på",
+  "description": "<p>De fleste kan formentlig huske deres konfirmationsdag, og for mange indebar det også en tur i en fed bil fra kirken videre til selve festen.</p><p>Det er i hvert fald traditionen blandt mange konfirmander i dagens Danmark, og det har fået virksomhedsejer Noél Hammer til at tilbyde gratis konfirmationskørsel i Aalborg og omegn.</p><p>- Jeg har egentlig altid gerne ville gøre det, og da jeg så på Facebook, at mange bliver snydt af dem, de har lavet aftaler med, slog jeg til. Det er nu, jeg har muligheden, siger han.</p><p>Han er indehaver af en Porsche Taycan elbil, så selvom turen formentlig bliver relativt lydløs, er der lagt i ovnen til en stor oplevelse.</p><h2>Ønsker ikke at tjene penge</h2><p>Porschen er relativt ny, og det er første gang Noél Hammer stiller den til rådighed. Og det er væltet ind med henvendelser, siden han lagde et opslag op på Facebook.</p> <p>- Det er en lige så stor oplevelse for mig, som det er for dem. Og jeg føler ikke, det er noget, man skal tjene penge på, siger han.</p><p>Han har allerede aftaler i bogen flere dage i maj, og flere er på vej. Noél Hammer husker selv sin konfirmation og oplevelsen af at blive kørt fra kirken til festen.</p><p>- Der er mange, der ikke har mulighed for det. Det er min måde at give tilbage og se nogle unge gutter og gutinder få en god dag ud af det. Det er helt simpelt, siger han.</p><h2>En hyggelig ting</h2><p>Det er egentlig ikke fordi, Noél Hammer er den store bilentusiast. Men han har alligevel haft lyst til at købe en sportsvogn i noget tid, så nu skulle det være.</p> <p>At han skal sætte nogle timer af i weekenderne til at transportere de nyudklækkede konfirmander, gør ham ikke noget.</p><p>- Jeg ser det egentlig bare som en hyggelig ting, jeg lige kan gøre i weekenden, siger han.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/det-er-min-made-at-give-tilbage-pa-af2ab",
+  "published": "Wed, 29 Apr 26 13:15:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/det-er-min-made-at-give-tilbage-pa-af2ab",
+  "category": "No category"
  },
  {
   "title": "Spor spærret mellem Aabybro V og Arentsminde",
@@ -189,7 +221,7 @@
  },
  {
   "title": "Før var det guld værd, men nu er industri i frit fald",
-  "description": "<p>Foråret er også højsæson for at klippe får. En god klipper når mellem 30 og 50 får i timen, og det giver en hulens masse uld.</p><p> Der er bare lige et problem. I dag er uld stort set intet værd.</p><p>- Det er blevet et biprodukt på mange måder. Vi får jo ikke særlig god betaling for det, siger Kasper Ledet, der har 640 får på sin gård ved Mygdal, som han skal have klippet.</p> <h2>Uld tabte kampen</h2><p>Uldindustrien er næsten død i Danmark, og derfor sælger mange fåreavlere til Tyskland, hvor ulden bliver forarbejdet og brugt til gulvtæpper på eksempelvis hoteller og krydstogtskibe. Prisen er så lav, at det næsten ikke kan betale for at få fårene klippet.</p><p>- Det er jo en skam. For 20-30 år siden kom fåreklipperen med penge og sagde: &#039;Må jeg klippe jeres får, så tager jeg ulden med&#039;, forklarer Kasper Ledet.</p><p>Engang var uld hovedproduktet fra får. Det blev brugt som både hård valuta og handelsvare i flere tusind år. Senere kom bomuld til, men langt op i 1900-tallet var uld fortsat en stor industri i Danmark. I dag er branchen næsten død eller i bedste fald en niche.</p> <p>I Tversted ligger Uldens Hus. Et af de få uldspinderier, der er i Danmark i dag. Uldens Hus løber økonomisk rundt med tre ansatte og en lille nicheforretning.</p><p>- Det er der ikke ret mange penge i. Det er nok ikke noget, man skal satse på som levevej. I hvert fald ikke hvis man bare står og tænker, at jeg vil gerne være fåreavler, og jeg vil gerne producere uld, siger Thomas Elvstrøm, der er spinder hos Uldens Hus i Tversted.</p> <h2>Plastickprodukter slår naturen</h2><p>Uldens Hus sælger garn, og også hjemstrikkede trøjer, der koster mellem 600 og 1400 kroner. Til sammenlægning kan man købe fleecetrøjer lavet af plastik for 100 kroner.</p><p>- Det her med, at man har tilsidesat produktionen af uld for at lave kunstfibre i kæmpe skala og med stor miljøbelastning, synes jeg, er virkelig en skam. Det er en kæmpe katastrofe for lokal produktion i Danmark, men også klima- og miljømæssigt. Det er virkelig ærgerligt, påpeger Thomas Elvstrøm.</p> <h2>Et vildt forbrug</h2><p>Ifølge Det Europæiske Miljøagentur steg det årlige tekstilforbrug i Europa fra 17 kilo per person i 2019 til 19 kilo i 2022. Samme år blev der skabt 16 kilo tekstilaffald per person. Det meste af affaldet bliver brændt, eller ryger til en uvis skæbne i Asien.</p><p>- Så køber butikkerne 7500 trøjer, sælger 2500 af dem og brænder resten. Du brænder ikke en uldtrøje, du har brugt mange penge på. Og du brænder ikke en uldtrøje, du har brugt tid på, som mormor har strikket til dig, siger fåreavler Kasper Ledet.</p> <p>Kasper Ledet er en af de få heldige fåreavlere i Nordjylland. Han sælger ulden fra sine får til tekstilproduktion i Uldens Hus i Tversted. Som en af de få i landet kan han tjene en lille skilling på uld.</p><p>- Det er nok en fabrikshemmelighed, men man får nok til, at vi kan betale fåreklipningen, og det kan betale, at vi bruger tid på det, fortæller Kasper Ledet.</p><p><em>Tror du, at uld har en fremtid?</em></p><p>- Jeg er faktisk spændt på det. Jeg vil tro, det har en fremtid. Jeg vil tro, at niche og det gode uld har en fremtid, siger Kasper Ledet.</p> <h2>Så er der bonusinfo</h2> <p>De fåreklippere, som ordner Kasper Ledets 640 får, kommer fra Skotland og er professionelle folk, der rejser verden rundt for at klippe får på akkord. En enkelt dygtig fåreklipper kan klippe op til 50 får i timen, afhængig af hvor stort fåret er, eller hvor meget fedt det har under ulden. Fåreklipperne klipper typisk fire gange to timer om dagen. </p><p>Kasper Ledet klipper også selv får, men det er typisk kun mindre besætninger. Han klipper ikke sine egne, fordi han har for travlt med at holde styr på fårene og al den uld, der bliver klippet af.</p>",
+  "description": "<p>Foråret er også højsæson for at klippe får. En god klipper når mellem 30 og 50 får i timen, og det giver en hulens masse uld.</p><p> Der er bare lige et problem. I dag er uld stort set intet værd.</p><p>- Det er blevet et biprodukt på mange måder. Vi får jo ikke særlig god betaling for det, siger Kasper Ledet, der har 640 får på sin gård ved Mygdal, som han skal have klippet.</p> <h2>Uld tabte kampen</h2><p>Uldindustrien er næsten død i Danmark, og derfor sælger mange fåreavlere til Tyskland, hvor ulden bliver forarbejdet og brugt til gulvtæpper på eksempelvis hoteller og krydstogtskibe. Prisen er så lav, at det næsten ikke kan betale for at få fårene klippet.</p><p>- Det er jo en skam. For 20-30 år siden kom fåreklipperen med penge og sagde: &#039;Må jeg klippe jeres får, så tager jeg ulden med&#039;, forklarer Kasper Ledet.</p> <p>Engang var uld hovedproduktet fra får. Det blev brugt som både hård valuta og handelsvare i flere tusind år. Senere kom bomuld til, men langt op i 1900-tallet var uld fortsat en stor industri i Danmark. I dag er branchen næsten død eller i bedste fald en niche.</p> <p>I Tversted ligger Uldens Hus. Et af de få uldspinderier, der er i Danmark i dag. Uldens Hus løber økonomisk rundt med tre ansatte og en lille nicheforretning.</p><p>- Det er der ikke ret mange penge i. Det er nok ikke noget, man skal satse på som levevej. I hvert fald ikke hvis man bare står og tænker, at jeg vil gerne være fåreavler, og jeg vil gerne producere uld, siger Thomas Elvstrøm, der er spinder hos Uldens Hus i Tversted.</p> <h2>Plastickprodukter slår naturen</h2><p>Uldens Hus sælger garn, og også hjemstrikkede trøjer, der koster mellem 600 og 1400 kroner. Til sammenlægning kan man købe fleecetrøjer lavet af plastik for 100 kroner.</p><p>- Det her med, at man har tilsidesat produktionen af uld for at lave kunstfibre i kæmpe skala og med stor miljøbelastning, synes jeg, er virkelig en skam. Det er en kæmpe katastrofe for lokal produktion i Danmark, men også klima- og miljømæssigt. Det er virkelig ærgerligt, påpeger Thomas Elvstrøm.</p> <h2>Et vildt forbrug</h2><p>Ifølge Det Europæiske Miljøagentur steg det årlige tekstilforbrug i Europa fra 17 kilo per person i 2019 til 19 kilo i 2022. Samme år blev der skabt 16 kilo tekstilaffald per person. Det meste af affaldet bliver brændt, eller ryger til en uvis skæbne i Asien.</p><p>- Så køber butikkerne 7500 trøjer, sælger 2500 af dem og brænder resten. Du brænder ikke en uldtrøje, du har brugt mange penge på. Og du brænder ikke en uldtrøje, du har brugt tid på, som mormor har strikket til dig, siger fåreavler Kasper Ledet.</p> <p>Kasper Ledet er en af de få heldige fåreavlere i Nordjylland. Han sælger ulden fra sine får til tekstilproduktion i Uldens Hus i Tversted. Som en af de få i landet kan han tjene en lille skilling på uld.</p><p>- Det er nok en fabrikshemmelighed, men man får nok til, at vi kan betale fåreklipningen, og det kan betale, at vi bruger tid på det, fortæller Kasper Ledet.</p><p><em>Tror du, at uld har en fremtid?</em></p><p>- Jeg er faktisk spændt på det. Jeg vil tro, det har en fremtid. Jeg vil tro, at niche og det gode uld har en fremtid, siger Kasper Ledet.</p> <h2>Så er der bonusinfo</h2> <p>De fåreklippere, som ordner Kasper Ledets 640 får, kommer fra Skotland og er professionelle folk, der rejser verden rundt for at klippe får på akkord. En enkelt dygtig fåreklipper kan klippe op til 50 får i timen, afhængig af hvor stort fåret er, eller hvor meget fedt det har under ulden. Fåreklipperne klipper typisk fire gange to timer om dagen. </p><p>Kasper Ledet klipper også selv får, men det er typisk kun mindre besætninger. Han klipper ikke sine egne, fordi han har for travlt med at holde styr på fårene og al den uld, der bliver klippet af.</p>",
   "link": "https://www.tv2nord.dk/hjoerring/for-var-det-guld-vaerd-men-nu-er-industri-i-frit-fald-e2318",
   "published": "Wed, 29 Apr 26 11:09:00 +0200",
   "guid": "https://www.tv2nord.dk/hjoerring/for-var-det-guld-vaerd-men-nu-er-industri-i-frit-fald-e2318",
@@ -228,36 +260,12 @@
   "category": "No category"
  },
  {
-  "title": "Eurowind får milliardinvestering og ny medejer",
-  "description": "<p>Hobro-virksomheden Eurowind Energy får nu en ny storinvestor ombord. Den globale kapitalfond Blackstone køber sig ind med en ejerandel på 24,7 procent.</p><p>Selskabet har i mere end 20 år udviklet og drevet vindmøller, solparker, batterianlæg og biogas i hele Europa.</p><p>Investeringen kan løbe op i to milliarder euro, og det giver Eurowind Energy mulighed for at skrue markant op for tempoet i udbygningen af grøn energi i Europa.</p><p>Jens Rasmussen fortsætter som administrerende direktør, og sammen med Norlys og de oprindelige stiftere forbliver de majoritetsejere.</p><h2>Skal bygge langt mere – langt hurtigere</h2><p>Behovet for grøn strøm stiger, og presset på Europas energiforsyning vokser. Derfor kommer Blackstones investering på et tidspunkt, hvor Eurowind Energy vil accelerere udbygningen markant.</p><p>Planen er at bygge 1,5 gigawatt ny kapacitet om året frem mod 2030 - og samtidig udvide eksisterende parker med store batterianlæg. Ifølge Jens Rasmussen betyder investeringen, at selskabet kan opsætte tre-fire gange så meget sol- og vindenergi, som de ellers ville have kunnet.</p><p>Bestyrelsesformand i Eurowind Energy og Group CEO i Norlys Gert Vinther Jørgensen, kalder investeringen afgørende for Europas vej mod mere stabil og konkurrencedygtig energi.</p><p>- Det er helt afgørende for os, at Blackstone kommer med en langsigtet investering, hvor de tror på Eurowind Energys strategi om at blive en førende uafhængig energiproducent i Europa, fortæller han.</p><h2>En branche i voldsom vækst</h2><p>Blackstone har i forvejen store investeringer i vedvarende energi, blandt andet i Invenergy i USA og i et partnerskab med NextEra Energy, verdens største udvikler af vind og sol.</p><p>Her ser man stort potentiale i det nordjyske selskab:</p><p>- Der vil være behov for betydelig kapital for at imødekomme Europas energiefterspørgsel, siger Adam Kuhnley, Co‑Head of European Investments i Blackstone Infrastructure.</p><p>Hvis alt går som forventet, falder aftalen endeligt på plads inden årets udgang.</p>",
-  "link": "https://www.tv2nord.dk/mariagerfjord/eurowind-far-milliardinvestering-og-ny-medejer-61572",
-  "published": "Wed, 29 Apr 26 08:51:00 +0200",
-  "guid": "https://www.tv2nord.dk/mariagerfjord/eurowind-far-milliardinvestering-og-ny-medejer-61572",
-  "category": "No category"
- },
- {
-  "title": "Nordjysk program finder langt flere med skjult sygdom",
-  "description": "<p>I december faldt Bente Jensen fra Aalborg på sit badeværelse, hvor hun fik et mindre brud på armen. I forbindelse med sit knoglebrud, blev hun tilbudt at blive scannet for knogleskørhed på Aalborg Universitetshospital.</p><p>Og testen kunne afsløre, at hun led af knogleskørhed.</p><p>Det skyldes, at Aalborg Universitetshospital tilbyder patienter +50 år med knoglebrud, at de kan blive testet for knogleskørhed.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/nordjysk-program-finder-langt-flere-med-skjult-sygdom-58f9f",
-  "published": "Wed, 29 Apr 26 08:02:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/nordjysk-program-finder-langt-flere-med-skjult-sygdom-58f9f",
-  "category": "No category"
- },
- {
-  "title": "Fald på badeværelse afslørede Bentes skjulte sygdom",
-  "description": "<p>I december faldt Bente Jensen fra Aalborg på sit badeværelse, hvor hun fik et mindre brud på armen. I forbindelse med sit knoglebrud, blev hun tilbudt at blive scannet for knogleskørhed på Aalborg Universitetshospital.</p><p>Og testen kunne afsløre, at hun led af knogleskørhed.</p><p>- Det kom måske ikke helt bag på mig, fordi min søster har det, og jeg ved, at det er arveligt. Men selvfølgelig bliver man da lidt ærgerlig, fortæller hun.</p> <h2>Hvorfor FLS?</h2><p>Bente Jensen blev hurtigt diagnosticeret med knogleskørhed, og det skyldes, at Aalborg Universitetshospital tilbyder patienter +50 år med knoglebrud, at de kan blive testet for knogleskørhed.</p><p>Det skyldes et regionalt frakturforebyggelsesprogram, også kendt som FLS, der tilbydes til patienter, der kommer ind på hospitalet med knoglebrud.</p><p>- Vi har fundet, at op mod halvdelen af patienterne faktisk har uerkendt knogleskørhed, ergo kommer de i behandling, ergo er der en meget stor sandsynlighed for at vi kan forebygge nye knoglebrud og spare dem for yderligere lidelser, lyder det fra professor og overlæge ved Aalborg Universitetshospital, Peter Vestergaard.</p> <p>Også Bente Jensen måtte have sig en tur i den nye maskine.</p><p>En scanning varer dog ikke længere end små 3 minutter, og ifølge Bente Jensen er det en fuldstændig smertefri oplevelse.</p><h2>Nordjylland går forrest</h2><p>Region Nordjylland ligger markant over landsgennemsnittet - mellem 30 og 40 procent højere - i forhold til antallet af patienter, der behandles for knogleskørhed.</p><p>Hvert år bliver omkring 15.000 patienter scannet for knogleskørhed, og omtrent halvdelen viser sig at have den skjulte sygdom.</p> <p>Aalborg Universitetshospital har siden februar 2025 kørt med frakturforebyggelsesprogrammet, og her har de fundet frem til 1.375 flere patienter, der er blevet tilbudt scanningen i forbindelse med knoglebrud.</p><p>- Der er simpelthen en gruppe, der ikke er blevet identificeret hidtil. Ved brug af relativt enkle og billige midler, kan man forebygge ret mange lidelser ved simpelthen at opspore dem med knoglebrud, siger Peter Vestergaard.</p><p>Derfor ønsker Osteoporoseforeningen nu at indføre frakturforebyggelsesprogrammet som et nationalt tiltag for alle patienter med knoglebrud over 50 år.</p><p>- Jeg synes, det er et flot tilbud, og det bør alle have, lyder det fra Bente Jensen.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/bente-jensen-fik-konstateret-knogleskorhed-8a592",
-  "published": "Wed, 29 Apr 26 08:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/bente-jensen-fik-konstateret-knogleskorhed-8a592",
-  "category": "No category"
- },
- {
-  "title": "Kold start på dagen, men solen tager over",
-  "description": "<p>Det er en flot onsdag morgen nordjyderne er stået op til. Men enkelte steder i regionen starter dagen stadig under frysepunktet. Temperaturen stiger dog hurtigt i løbet af morgenen.</p><p>Det bliver en dag med masser af sol og svag til let vestenvind. De luneste temperaturer finder du i den sydlige og østlige del af regionen, mens det mod vest kan blive en anelse køligere. </p><p>Sidst på dagen kan der trække lidt skyer ind fra vest, og her holder temperaturen sig omkring 10 grader.</p><p>Frem mod aftenen fortsætter solen de fleste steder helt frem til solnedgang omkring klokken 21, mens der mod vest kan være flere skyer.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/kold-start-pa-dagen-men-solen-tager-over-7770d",
-  "published": "Wed, 29 Apr 26 07:04:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/kold-start-pa-dagen-men-solen-tager-over-7770d",
-  "category": "No category"
+  "title": "22-årig i usædvanlig sag om sextortion af drenge. Men hvad drev ham?",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/krimi/22-aarig-i-usaedvanlig-sag-om-sextortion-af-drenge-men-hvad-drev-ham/6010351?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 29 Apr 2026 13:32:50 Z",
+  "guid": "e83aedfd-1dbb-4fdd-b1eb-f4f8a6af5578",
+  "category": "Seksuelle krænkelser"
  },
  {
   "title": "Nu er brødrenes virksomhed 55 milliarder værd: - Det er verdensklasse. Ganske enkelt",
@@ -268,12 +276,36 @@
   "category": "Erhverv"
  },
  {
+  "title": "Millionprojekt kuldsejler: Planer om myndighedshus på Læsø skrottes",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/laesoe/millionprojekt-kuldsejler-planer-om-myndighedshus-paa-laesoe-skrottes/6016882?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 29 Apr 2026 13:02:52 Z",
+  "guid": "1ea9c457-a63f-4732-af42-9dbdb914feca",
+  "category": "Politik"
+ },
+ {
+  "title": "I går aftes sluttede \"et historisk\" samarbejde. Mors overtager ansvaret for Feggesund-færgen",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/trafik/i-gaar-aftes-sluttede-et-historisk-samarbejde-mors-overtager-ansvaret-for-feggesund-faergen/6016357?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 29 Apr 2026 11:43:28 Z",
+  "guid": "0e4cbaec-ec26-4c79-b509-d9cc9f5e0be1",
+  "category": "Færgetrafik"
+ },
+ {
   "title": "Sæsonens hidtil vigtigste opgave venter Aalborg Håndbold: Følg Champions League-brag og stil spørgsmål",
   "description": "Aalborg Håndbold er i Lissabon, hvor den første Champions League-kvartfinale mod Sporting venter onsdag aften. Følg kampen og stil spørgsmål allerede nu",
   "link": "https://nordjyske.dk/nyheder/sport/saesonens-hidtil-vigtigste-opgave-venter-aalborg-haandbold-foelg-champions-league-brag-og-stil-spoergsmaal/6014709?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 29 Apr 2026 09:31:52 Z",
   "guid": "939d6e19-59fe-4ae9-adfd-58dbffbadca2",
   "category": "Aalborg Håndbold"
+ },
+ {
+  "title": "Da Erik Lytzen blev solgt, lignede det en almindelig handel. I virkeligheden er det et forvarsel for hele branchen",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/da-erik-lytzen-blev-solgt-lignede-det-en-almindelig-handel-i-virkeligheden-er-det-et-forvarsel-for-hele-branchen/6009612?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 29 Apr 2026 03:36:48 Z",
+  "guid": "e42639a5-cd78-42d5-888e-3b77d07e5323",
+  "category": "Erhverv"
  },
  {
   "title": "Seks skibe forsøgte at slippe ud. To blev fanget. Og konsekvenserne mærkes i Nordjylland",
@@ -284,12 +316,12 @@
   "category": "Erhverv"
  },
  {
-  "title": "Da Erik Lytzen blev solgt, lignede det en almindelig handel. I virkeligheden er det et forvarsel for hele branchen",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/da-erik-lytzen-blev-solgt-lignede-det-en-almindelig-handel-i-virkeligheden-er-det-et-forvarsel-for-hele-branchen/6009612?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 29 Apr 2026 03:36:48 Z",
-  "guid": "e42639a5-cd78-42d5-888e-3b77d07e5323",
-  "category": "Erhverv"
+  "title": "AaB-overblik: Pudels program kræver tålmodighed",
+  "description": "Få overblikket over de vigtigste AaB-nyheder",
+  "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 22 Apr 2026 07:27:27 Z",
+  "guid": "114fe8e9-35ae-4da8-b642-4f6bc42ab648",
+  "category": "AaB"
  },
  {
   "title": "Få seneste nyt om Aalborg Håndbold: Bagspiller er ude af Champions League-brag",
@@ -364,14 +396,6 @@
   "category": "Forbindelsen"
  },
  {
-  "title": "AaB-overblik: Forstærkning ventes klar til møde med lokalrivaler",
-  "description": "Få overblikket over de vigtigste AaB-nyheder",
-  "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 22 Apr 2026 07:27:27 Z",
-  "guid": "114fe8e9-35ae-4da8-b642-4f6bc42ab648",
-  "category": "AaB"
- },
- {
   "title": "John Andersen satte sig for at løse et problem. Og blev stor hotelejer i Aalborg ved et tilfælde",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/john-andersen-satte-sig-for-at-loese-et-problem-og-blev-stor-hotelejer-i-aalborg-ved-et-tilfaelde/6001158?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -394,29 +418,5 @@
   "published": "Mon, 27 Apr 2026 03:40:51 Z",
   "guid": "b06b3f7b-1574-43f3-97a0-2f5e0f57c982",
   "category": "Erhverv"
- },
- {
-  "title": "Nordjyske går i luften med landsdelens første nyhedspodcast",
-  "description": "Perspektiv og sammenhænge er nøgleordene for Forbindelsen - en ny nyhedspodcast, der udkommer alle hverdage",
-  "link": "https://nordjyske.dk/nyheder/samfund/nordjyske-gaar-i-luften-med-landsdelens-foerste-nyhedspodcast/6013917?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 27 Apr 2026 14:00:36 Z",
-  "guid": "996dbad1-e8c8-4eb8-bb5b-9146eeb1b366",
-  "category": "Forbindelsen"
- },
- {
-  "title": "Professor: \"Gammel opfattelse af atomkraft står i vejen for en rationel diskussion\"",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/professor-gammel-opfattelse-af-atomkraft-staar-i-vejen-for-en-rationel-diskussion/6011135?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 26 Apr 2026 09:23:51 Z",
-  "guid": "a8af753a-c4dd-45a7-a365-09a8a4648cc4",
-  "category": "Debat"
- },
- {
-  "title": "Salget af GASmuseet er i en \"juridisk gråzone\". I kulissen står to kritiske erhvervsmænd",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/byudvikling/salget-af-gasmuseet-er-i-en-juridisk-graazone-i-kulissen-staar-to-kritiske-erhvervsmaend/6007632?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 27 Apr 2026 03:32:49 Z",
-  "guid": "f82e3a2a-f170-4f18-b679-fd19506f01e3",
-  "category": "Hobro"
  }
 ]
