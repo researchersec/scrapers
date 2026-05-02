@@ -32,14 +32,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fa8c686441770733669bc46c22ee54583&w=300&s=0512bad12585fb0debd9b27aad0676f4"
  },
  {
-  "link": "/Lidl?publication=-wtFtNR9&offer=Xuxg5y4F95OdYSf1eNc33",
-  "price": "29.95",
-  "currency": "DKK",
-  "valid_from": "02-05-2026",
-  "valid_until": "09-05-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-wtFtNR9%2Fp-7.webp&w=300&x1r=0.0084&x2r=0.5013&y1r=0.4868&y2r=0.713&s=82fda201215a683068814ff69dd479e1"
- },
- {
   "link": "/Calle?publication=ngndmyAX&offer=ygf4Trb0dkZUGgiIjsgSp",
   "price": "25",
   "currency": "DKK",
@@ -128,20 +120,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwK3fCYFj%2Fp-6.webp&w=300&x1r=0.0139&x2r=0.3524&y1r=0.0101&y2r=0.2577&s=6862311c74f60f96dfe4ba75980d3bb0"
  },
  {
-  "link": "/CITTI?publication=P03v1qBS&offer=d2B-wJ0u6n4XSEXC4oR-K",
-  "price": "80",
-  "currency": "DKK",
-  "valid_from": "14-04-2026",
-  "valid_until": "12-05-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FP03v1qBS%2Fp-11.webp&w=300&x1r=0.5182&x2r=0.9853&y1r=0.3328&y2r=0.5083&s=a20d0cae549988929c7b329d9e3abaff"
- },
- {
   "link": "/BorderShop?publication=r3C8DAJh&offer=KJqm7B3s2Lkiz4F-uDqES",
   "price": "82",
   "currency": "DKK",
   "valid_from": "07-04-2026",
   "valid_until": "31-05-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fr3C8DAJh%2Fp-8.webp&w=300&x1r=0.4964&x2r=0.987&y1r=0.0307&y2r=0.2482&s=f51590f9b6d89d434a912a062fac71a6"
+ },
+ {
+  "link": "/CITTI?publication=P03v1qBS&offer=d2B-wJ0u6n4XSEXC4oR-K",
+  "price": "80",
+  "currency": "DKK",
+  "valid_from": "14-04-2026",
+  "valid_until": "12-05-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FP03v1qBS%2Fp-11.webp&w=300&x1r=0.5182&x2r=0.9853&y1r=0.3328&y2r=0.5083&s=a20d0cae549988929c7b329d9e3abaff"
  },
  {
   "link": "/fotex?publication=D-EnDtJt&offer=Lkd9q82KgMf1ulopuJCli",
