@@ -1,5 +1,14 @@
 [
  {
+  "title": "Klar besked fra kommune: Du skal ikke vaske din bil derhjemme",
+  "description": "Det kan virke uskyldigt at vaske bilen i indkørslen, men i sidste ende kan det have konsekvenser for miljøet, fisk og insekter, lyder det fra Vesthimmerlands Kommune.",
+  "link": "https://www.dr.dk/nyheder/indland/klar-besked-fra-kommune-du-skal-ikke-vaske-din-bil-derhjemme",
+  "published": "Tue, 05 May 2026 08:19:00 GMT",
+  "guid": "urn:dr:umbraco:article:063c2fa5-90e5-498a-85df-b7b25c4b7145",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/hdhjqt4r/20250327-152852-l-8192x5464ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Personale har hængt papir og affaldssække op i vinduerne på nyt hospital, der kæmper med for varmt indeklima",
   "description": "Efter det nye sygehus i Aalborg er blevet taget i brug, er flere problemer dukket op - nu er det temperaturen, den er gal med.",
   "link": "https://www.dr.dk/nyheder/indland/personale-har-haengt-papir-og-affaldssaekke-op-i-vinduerne-paa-nyt-hospital-der-kaemper-med-varmt",
@@ -171,17 +180,24 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/fh0dkyio/hjallerup-topbillede_crop001.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Natteravne i Aalborg kommer med en bøn: Bliv frivillig og skab tryghed i nattelivet",
-  "description": "Flere tryghedsture er blevet aflyst, fordi der mangler frivillige, siger lokalformand.",
-  "link": "https://www.dr.dk/nyheder/indland/natteravne-i-aalborg-kommer-med-en-boen-bliv-frivillig-og-skab-tryghed-i-nattelivet",
-  "published": "Sun, 19 Apr 2026 14:43:00 GMT",
-  "guid": "urn:dr:umbraco:article:bd5821fa-7a99-4b9f-a1c9-4ba1422d1ff5",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/j0ldn4d4/natteravner_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Sigtet for tre forhold på en gang",
+  "description": "<p>Mandag 4. maj klokken 11.22 blev en 57-årig mand fra Brønderslev standset på Gammel Aalborgvej i Thisted. </p><p>Det skulle vise sig, at manden begik flere lovbrud. Før det første kørte han bil, selvom han havde fået inddraget sin førerret.</p><p>For det andet var han påvirket af euforiserende stoffer. Og for det tredje fandt politiet 25 gram hash på ham.</p><p>Manden blev sigtet for alle tre forhold.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/sigtet-for-tre-forhold-pa-en-gang-cb1dd",
+  "published": "Tue, 05 May 26 10:03:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/sigtet-for-tre-forhold-pa-en-gang-cb1dd",
+  "category": "No category"
+ },
+ {
+  "title": "2700 liter diesel stjålet",
+  "description": "<p>Hvis der er noget, der kan mærkes på pengepungen, er det de stigende priser på diesel og benzin. Og nu har de markante prisstigninger også fået betydning på, hvad tyvene går efter.</p><p>I hvert fald har Lokalpolitiet i Thisted i løbet af de sidste par dage registreret to større tyverier af diesel.</p><p>Det ene fandt sted på Hjardemålvej i Thisted, hvor gerningsmændene har stjålet 600-700 liter diesel samt noget værktøj. Det er foregået fra lørdag 2. maj klokken 21.30 til mandag morgen klokken 07.30.</p><p>Også på Bjørnevej i Thisted har der været diesel-tyve på spil. I et større industriområde har gerningsmændene stjålet intet mindre end 2000 liter diesel fra et tankanlæg.</p><p>Tyveriet har fundet sted mellem fredag 1. maj ved midnat til mandag morgen klokken 07.</p><p>- Bliver man tilbudt billig diesel andre steder end på tankstation, så hører vi gerne fra folk, så vi kan få det standset. Man skal ikke købe diesel på det sorte marked, selvom jeg godt kan forstå, at man kan blive fristet af de lave priser. Det bliver opbevaret forkert, og det stammer fra tyveri, siger Niels Kristensen, politikommissær i Lokalpolitiet i Thisted.</p><p>Han oplyser, at politiet endnu ikke har modtaget konkrete henvendelser fra folk, som er blevet tilbudt at købe billig diesel. Politiet har dog hørt det omtalt.</p><p>- Vi har ikke noget konkret på det, men selvfølgelig er det noget, der foregår. Man kan også ringe til os anonymt og give os et praj om, hvilken retning vi skal i, siger Niels Kristensen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/2700-liter-diesel-stjalet-71c29",
+  "published": "Tue, 05 May 26 09:02:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/2700-liter-diesel-stjalet-71c29",
+  "category": "No category"
  },
  {
   "title": "En person er kommet til skade",
-  "description": "<p><strong> </strong></p><p>En bil har påkørt et rådyr – en enkelt bil involveret lige umiddelbart.</p><p>Materielle skader, der er en lettere tilskadekommen iforbindelse med påkørslen af rådyuret, så ryger den igennem forruden</p><p>Lettere tilskadekomst</p><p>Det ved vi ikke enndu, det er man ved at kigge ind i</p><p>Der ligger et dødt dyr på Rute 11 fra Aalborg mod Fjerritslev. Det oplyser Vejdirektoratet. </p><p>Dyret ligger mellem Vadum og Aabybro S. </p><p>Vejdirektoratet anbefaler, at man kører forsigtigt. </p><p><em>Opdateres...</em></p>",
+  "description": "<p>Opdateret klokken 09.03: Vejen er nu ryddet.</p><p>Opdateret klokken 08.21: Vagthavende ved Nordjyllands Politi Torben Arendrup oplyser, at en personbil har påkørt et rådyr på rute 11 mellem Vadum og Aabybro.</p><p>En enkelt bil har været involveret i uheldet. </p><p>- I forbindelse med påkørslen ryger rådyret igennem bilens forrude. En person er lettere tilskadekommen, siger han. </p><p>Han oplyser, at vedkommende er kørt til sygehuset til tjek.</p><p>Meldingen fra Vejdirektoratet var i første omgang, at der lå et dødt dyr på rute 11 fra Aalborg mod Fjerritslev. Det oplyste de på Trafikinfo.</p><p>I samme ombæring opfordrede de bilisterne til at køre forsigtigt forbi uheldsstedet.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/dodt-dyr-pa-vejen-c7a43",
   "published": "Tue, 05 May 26 08:06:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/dodt-dyr-pa-vejen-c7a43",
@@ -241,22 +257,6 @@
   "link": "https://www.tv2nord.dk/aalborg/her-er-nummeret-du-skal-vaere-opmaerksom-pa-d89d3",
   "published": "Tue, 05 May 26 06:00:00 +0200",
   "guid": "https://www.tv2nord.dk/aalborg/her-er-nummeret-du-skal-vaere-opmaerksom-pa-d89d3",
-  "category": "No category"
- },
- {
-  "title": "Fotograf har fanget klydernes parringsspil på Agger Tange",
-  "description": "<p>Agger Tange er lige nu et eldorado af fugleliv.</p><p>Nogle af dem, der tiltrækker opmærksomheden på tangen, er klyderne. Ikke at forveksle med den musikalsk komikertrio fra 1980&#039;erne med Jesper Klein, Jess Ingerslev og Tom McEwan.</p><p>Her er det fuglene med den sort-hvide fjerdragt og det lange opadbøjede næb, vi har fokus på, for klyderne er i parringshumør.</p> <p>Takket være naturfotograf Shanti Lfes billeder, kan vi se fuglenes parringsritual tæt på.</p><p>– Jeg stod og iagttog dem i lang tid og kunne se deres lange optakt før selve parringen, siger Shanti Lfe.</p><p>Med stor tålmodighed har Shanti Lfe filmet de sort-hvide fugle og dokumenteret deres intime samspil. Inden selve parringen har fuglene en længere optakt. Klydeparret bevæger sig synkront og udveksler nikkende bevægelser.</p><p>- Det er et meget komplekst kropssprog de har, siger naturfotograf Shanti Lfe fra Snedsted.  </p><p>Agger Tange er et fantastisk område, hvis man gerne vil se på fugle. Netop derfor tager Shanti Lfe ofte turen til tangen for at opleve og filme fuglelivet.</p> <p>Klyden søger føden ved at bevæge det opadbøjede næb fra side til side i det lave vand, hvor den fanger tanglopper og andre smådyr på bunden af søen.</p><p>Klydens særlige adfærd er en af mange oplevelser på Agger Tange lige nu.</p><p>Det åbne landskab mellem Vesterhavet og Limfjorden tiltrækker hvert år tusindvis af fugle herunder vadefugle, gæs og ænder samt sjældne arter som havternen og engrylen.</p>",
-  "link": "https://www.tv2nord.dk/vesthimmerland/fotograf-har-fanget-klydernes-parringsspil-pa-agger-tange-5cd7a",
-  "published": "Mon, 04 May 26 23:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/vesthimmerland/fotograf-har-fanget-klydernes-parringsspil-pa-agger-tange-5cd7a",
-  "category": "No category"
- },
- {
-  "title": "Breve i e-boks om affald i gaderne er bare første skridt",
-  "description": "<p>Det er på foranledning af kommunen, at Nordværk har sendt breve ud til borgerne om storskraldet der flyder i gaderne.</p><p>Men brevet kan ikke stå alene.</p><p>Og derfor er Aalborg Kommune i gang med at undersøge, hvordan der bedre kan skiltes, så byens borgere ved, hvor de kan komme af med deres affald.</p><p>- Der er lige noget myndighed, der skal ind over det, og så er vi også i gang med at etablere sådan nogle nærgenbrugsstationer rundt omkring i Aalborg centrum. Så vi prøver at føle os lidt frem til, hvad vi kan gøre som kommune. Det er jo et område, der virkelig vækker oprør blandt nogen, siger rådmanden for Sundhed og Kultur i Aalborg Kommune, Jan Nymark Rose Thaysen (V).</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/breve-i-e-boks-om-affald-i-gaderne-er-bare-forste-skridt-60ca5",
-  "published": "Mon, 04 May 26 21:37:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/breve-i-e-boks-om-affald-i-gaderne-er-bare-forste-skridt-60ca5",
   "category": "No category"
  },
  {
