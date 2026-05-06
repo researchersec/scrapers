@@ -1,5 +1,14 @@
 [
  {
+  "title": "Det tredjestørste guldfund fra vikingetiden kan måske spores tilbage til en af de helt store konger",
+  "description": "Ringene kan dateres tilbage til Harald Blåtands tid.",
+  "link": "https://www.dr.dk/nyheder/indland/det-tredjestoerste-guldfund-fra-vikingetiden-kan-maaske-spores-tilbage-til-en-af-de-helt-store",
+  "published": "Wed, 06 May 2026 17:20:00 GMT",
+  "guid": "urn:dr:umbraco:article:f3127099-892a-441f-8668-39e4d6e93f5b",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/mwldjjya/img_0997.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Graveren Sten skulle ringe dagen i gang: 'Der var ingen liv i tovet'",
   "description": "Mandag morgen var klokken ved Sejlstrup Kirke i Nordjylland forsvundet fra klokkestablen. Flere kirker udsættes for metaltyverier.",
   "link": "https://www.dr.dk/nyheder/indland/graveren-sten-skulle-ringe-dagen-i-gang-der-var-ingen-liv-i-tovet",
@@ -171,13 +180,20 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/afyg303e/nordjyske-1.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Silas var selvmordstruet. Nu har han været med til at indrette ny psykiatrisk afdeling",
-  "description": "På det nye Aalborg Universitetshospital er patienterne blevet taget med på råd.",
-  "link": "https://www.dr.dk/nyheder/indland/silas-var-selvmordstruet-nu-har-han-vaeret-med-til-indrettet-ny-psykiatrisk-afdeling",
-  "published": "Tue, 21 Apr 2026 05:39:00 GMT",
-  "guid": "urn:dr:umbraco:article:6c86864f-97d6-4941-a88e-87deb334dfda",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/yhmazyjk/image00002.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Tørke kan skabe problemer for landbruget",
+  "description": "<p>En tør og solrig april måned kan skabe problemer for landmændene i Nordjylland, og der er ikke meget vand på vej til landmand Jeppe Lykkegaard Christensens marker.</p><p>- Sådan en landmand som mig er jo altid lidt krævende. Nu har det været tørt, så nu vil jeg gerne have noget vand, siger han.</p><p>Vejrprognoserne melder om 3,5 millimeter på mandag og torsdag, og selvom det lyder bedre end ingenting, er det en begrænset hjælp.</p><p>- Vi skal i hvert fald gerne have de her 10-20 millimeter for nuværende. Vi har, ifølge vores prognoser, et underskud på omkring 80 millimeter i forhold til normalen. Så vi mangler vand, det gør vi, fortæller Rasmus Larsen, der er planteavlskonsulent ved Agilix.</p><p>Rapsmarkerne er lige blomstret, og det er de næste to uger meget vigtigt, at planterne får vand. Ellers bliver udbyttet for Jeppe Lykkegaard Christensen meget sparsomt. Derfor bruger han kunstvanding som en mulighed, men det er ikke på alle marker, han kan det.</p><p>- På de arealer, jeg ikke kan vande, kan jeg ikke gøre andet end at danse en regndans, fortæller han med et grin.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/region-nordjylland/torke-kan-skabe-problemer-for-landbruget-ba33f",
+  "published": "Wed, 06 May 26 19:56:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/region-nordjylland/torke-kan-skabe-problemer-for-landbruget-ba33f",
+  "category": "No category"
+ },
+ {
+  "title": "Rotterne i Aalborg mæsker sig i folks madaffald",
+  "description": "<p>Indbyggerne i Aalborg er slemme til at smide deres madaffald på gader og stræder, og det tiltrækker rotter. Sådan lyder det i en pressemeddelelse fra Aalborg Kommune, som sender en klar opfordring til borgerne. </p><p>- Smid altid resterne fra aftensmaden i den grønne pose og derefter i containeren til madaffald. Det giver både færre rotter og glade naboer, siger naturvejleder Mikkel Vestergaard Rødvig fra Teknik og Miljø i Aalborg Kommune.</p><p>Han oplever, at både fastfood og madaffald fra private i højere grad bliver smidt rundt omkring. Problemet er størst i Aalborg, og det kan være alt fra brød, salat, pasta og takeaway.</p><p>Og bliver rotterne vant til at blive fodret, kan de finde på at slå sig ned og blive til en hel koloni.</p><p>- Vi mennesker har stor indflydelse på antallet af rotter. Jo bedre vilkår, vi giver dem, jo flere kommer til, og jo sværere er de at komme af med igen. Men når vi rydder op og begrænser fødekilderne, mindsker vi samtidig antallet af rotter. Også hos naboen, siger Mikkel Vestergaard Rødvig.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/rotterne-i-aalborg-maesker-sig-i-folks-madaffald-db10a",
+  "published": "Wed, 06 May 26 18:55:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/rotterne-i-aalborg-maesker-sig-i-folks-madaffald-db10a",
+  "category": "No category"
  },
  {
   "title": "Tomme boliger er allerede taget",
@@ -193,6 +209,14 @@
   "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/20-meter-samleband-braendte-93efb",
   "published": "Wed, 06 May 26 15:54:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/20-meter-samleband-braendte-93efb",
+  "category": "No category"
+ },
+ {
+  "title": "- Jeg kan ikke gøre andet end at lave en regndans",
+  "description": "<p>- Det er noget fantastisk dejligt vejr, vi har haft, siger Jeppe Lykkegaard Christensen.</p><p>Han har brugt det dejlige vejr til at plante kartofler på markerne ved Hjallerup. </p><p>- Så nu skal der bare komme regn, for sådan en landmand som mig er jo altid lidt krævende. Nu har det været tørt, så nu vil jeg gerne have noget vand, siger han med et smil.</p><p>Men det bliver måske ikke ved med at være sjovt, hvis man skal tro vejrprognoserne.</p> <h2>Regn som ikke batter </h2><p>Der er nemlig ikke meget regn på vej til Lykkegaards marker. Vejrprognoserne melder på nuværende tidspunkt om 3,5 millimeter på mandag og torsdag, og selvom det lyder bedre end ingenting, er det en begrænset hjælp.</p><p>- Vi skal i hvert fald gerne have de her 10-20 millimeter for nuværende. Vi har, ifølge vores prognoser, et underskud på omkring 80 millimeter i forhold til normalen. Så vi mangler vand, det gør vi, fortæller Rasmus Larsen, der er planteavlskonsulent ved Agilix.</p> <h2>Skal have vand nu</h2><p>- Lige nu, hvor de er i blomst, skal de have vand, fortæller Jeppe Lykkegaard Christensen om rapsplanterne.</p><p>De er lige blomstret, og det er de næste to uger meget vigtigt, at planterne får vand. Ellers bliver udbyttet for Lykkegaard meget sparsomt. Derfor bruger han kunstvanding som en mulighed, men det er ikke på alle marker, han kan det.</p> <p>- På de arealer, jeg ikke kan vande, kan jeg ikke gøre andet end at danse en regndans, fortæller han med et grin.</p><p>Hvis ikke markerne får tilstrækkeligt med vand, går det også ud over økonomien.</p><p>- Det koster 400 kroner per hektar at vande markerne, og hvis jeg så ikke får det rigtige udbytte, så får jeg bare nogle omkostninger i stedet for, og så får jeg jo ikke de penge, jeg skal have ud af det, fortæller Lykkegaard.</p><h2>Ingen alarm. Endnu...</h2><p>Rasmus Larsen fortæller, at man ved Agilix ikke er bekymret for nu.</p><p>- Der går i hvert fald lige et par uger, før vi går ind og er bekymrede for, at det koster udbytte, fortæller han.</p><p>Han påpeger dog, at rapsplanterne, som endnu ikke er blevet vandet, har brug for vand. Nu.</p> <p>På tørkeindekset kan man endnu ikke spotte overhængende stor risiko. For Nordjylland ligger det på cirka fem, som svarer til lav risiko, men TV2 vejret melder om stigning i løbet af ugen. På Læsø kan man tale om forøget risiko. </p><p>Tallene er stigende, hvis ikke der kommer regn.</p><p>Snakken om tørke er næppe ny - eller den sidste - og derfor forsøger flere at skabe en løsning. </p><p>Jeppe Lykkegaard Christensen er nemlig en af de heldige, som kan kunstvande nogle af sine marker, så han alligevel får stort udbytte af nogle af markerne.</p> <p>- Det er faktisk det mest gængse, at man ikke vander, fortæller Rasmus Larsen.</p><p>Det er nemlig ikke alle, som kan eller må vande. Man skal have en tilladelse fra kommunen. Og netop dette er ikke altid nemt. </p><p>- Jeg gad godt, at jeg kunne vande nogle flere marker, men vi kan godt have problemer med at få nogle vandingstilladelser, så hvis vi kunne få dem lidt hurtigere, så ville jeg være glad, fortæller landmanden.</p>",
+  "link": "https://www.tv2nord.dk/broenderslev/jeg-kan-ikke-gore-andet-end-at-lave-en-regndans-b4fa1",
+  "published": "Wed, 06 May 26 15:22:00 +0200",
+  "guid": "https://www.tv2nord.dk/broenderslev/jeg-kan-ikke-gore-andet-end-at-lave-en-regndans-b4fa1",
   "category": "No category"
  },
  {
@@ -236,28 +260,12 @@
   "category": "No category"
  },
  {
-  "title": "For bare to år siden lød de pludselig i august",
-  "description": "<p>Da<a href=\"https://www.tv2nord.dk/kort-nyt/nordjylland/test-af-varslingssystemer-markerer-forste-beredskabsuge-119c2\"> klokken slog 12 lød sirenerne</a>, og alarmerne gik i gang på de nyere telefoner - ikke kun i Nordjylland, men i hele Danmark. </p><p>Sådan gentager det sig år efter år den første onsdag i maj, hvor varslingssystemerne testes. </p><p>Men selvom mange nok forbinder sirenerne med krig eller naturkatastrofer, så bruges de faktisk &#039;oftere&#039;, end man lige regner med. </p> <h2>Brand i svømmehal satte gang i sirener</h2><p>I Nordjylland er det for eksempel kun to år siden, at sirenerne gik i gang, og alarmerne tikkede ind på telefonerne hos beboere omkring svømmehallen på Østre Allé i Aalborg. </p><p><a href=\"https://www.tv2nord.dk/aalborg/live-her-planerne-for-nedbraendt-svoemmehal\">Svømmehallen var nemlig brudt i brand</a>, og beboere i området blev opfordret til at søge indendørs, lukke døre og vinduer og standse ventilationen. </p> <p>- Det er meget vigtigt, at vi er beredte. Det er en rigtig god måde at få varslet mange mennesker, siger Jacob Kolind, som er beredskabsinspektør hos Nordjyllands Beredskab på dagen, hvor sirenerne endnu engang blev testet. </p> <h2>Vigtigt i verden i dag</h2><p>Ifølge beredskabsinspektøren er det i 2026 endnu vigtigere, at systemerne bliver testet. I forvejen testes de stort set hver nat, dog uden lyd. </p><p>- I den verden, vi lever i i dag, så er det godt, at vi har et varslingssystem, som kan nå ud til alle meget hurtigt. </p> <p>Nordjyllands Beredskab arbejdede under branden i svømmehallen i 2024 hele dagen på at få slukket branden. Til sidst endte svømmehallen med at brænde ned til grunden. </p><p>En håndværker, som lavede tagarbejde på svømmehallen, blev sigtet for uforsigtig omgang med ild. </p> <p>Onsdag lød sirenerne heldigvis kun til den årlige test. En test, der ifølge Jacob Kolind gik &#039;meget godt&#039;, efter der i flere år har været problemer med, at blandt andet borgere ikke modtog SMS-advarslerne på deres mobiler. </p>",
-  "link": "https://www.tv2nord.dk/nordjylland/for-bare-to-ar-siden-lod-de-pludselig-i-august-549ad",
-  "published": "Wed, 06 May 26 13:32:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/for-bare-to-ar-siden-lod-de-pludselig-i-august-549ad",
-  "category": "No category"
- },
- {
-  "title": "Annas forældre frygter ny skuffelse",
-  "description": "<p>Det er nu op til Procesbevillingsnævnet at afgøre, om sagen om drabet på 13-årige Anna Sveistrup fra Hjallerup skal behandles i Højesteret.</p><p>Det sker, efter at Rigsadvokaten tirsdag besluttede at søge sagen prøvet ved landets øverste domstol, fordi anklagemyndigheden mener, at sagen rejser et principielt spørgsmål om brugen af forvaring over for unge gerningsmænd i særligt grove sager.</p><p>En beslutning der vækker stærke følelser hos Annas familie i Hjallerup.</p> <h2>Håb og lettelse blandet med frygt</h2><p>Malene og Allan Sveistrup er på den ene side håbefulde over Rigsadvokatens beslutning, men den kommer også med en nærende uro.</p><p>- Vi er naturligvis lettede over, at der er andre end os, der synes, at Annas sag skal have et andet udfald. Men frygten for at den bliver afvist, eller igen bliver stadfæstet sidder dybt i os. Det er svært at blive ved med at have tiltro til det danske retssystem, siger Annas mor, Malene Sveistrup.</p> <p>Den nu 20-årige Elias Mahamed Isaaq Shegow blev i både Retten i Hjørring og senere Vestre Landsret idømt 12 års fængsel for drabet og voldtægten af Anna Sveistrup.</p><p>Anklagemyndigheden har gennem hele sagen argumenteret for, at han i stedet burde idømmes forvaring, og det er netop dét spørgsmål, de nu har anmodet Højesteret om at tage stilling til.</p><h2>Kan blive principiel sag</h2><p>Kun et begrænset antal sager får lov til at gå videre til Højesteret, da sagerne skal have principiel betydning for retstilstanden eller fremtidig praksis.</p><p>Hos Rigsadvokaten vurderer man, at sagen kan få betydning for fremtidige sager om meget unge gerningsmænd dømt for alvorlig personfarlig kriminalitet.</p> <p>Under retssagen pegede både mentalundersøgelsen og Retslægerådet på, at forvaring kunne komme på tale, blandt andet fordi den dømte vurderedes til at udgøre en betydelig risiko for sine omgivelser.</p><p>Både byretten og landsretten lagde dog afgørende vægt på, at Elias Mahamed Isaaq Shegow var 17 år og tidligere ustraffet på gerningstidspunktet.</p><p>Hvis Procesbevillingsnævnet giver tilladelse, bliver det nu Højesterets opgave at afgøre, om landsrettens dom skal stadfæstes eller ændres. </p> <p>Den aktuelle gennemsnitlige sagsbehandlingstid hos nævnet er 13 uger. </p>",
-  "link": "https://www.tv2nord.dk/aalborg/ny-udvikling-i-anna-sag-modes-med-blandede-folelser-99965",
-  "published": "Wed, 06 May 26 12:53:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/ny-udvikling-i-anna-sag-modes-med-blandede-folelser-99965",
-  "category": "No category"
- },
- {
-  "title": "Modtog 35 katte på få dage - 'fuldstændig skørt,' lyder det",
-  "description": "<p>Travlheden har ramt Minvenkatten-internatet i Hobro de seneste par dage. En måned før den normale højsæson for indleverede katte. </p><p>I weekenden modtog internatet fire nye katte, hvoraf den ene pludselig fik killinger. Mandag væltede det så endnu engang ind med katte og nyfødte killinger. Så mange at de på få dage i alt har modtaget 35 katte, heraf 19 killinger, og akut efterspurgte hjælp. </p> <p>I alt har de plads til 50 katte. </p><p>- Vi plejer kun at få to-fire stykker på den her tid. Det her er jo fuldstændig skørt. April har bare været dødstille, og så kommer der sådan en periode, siger Anita Sønderup, som er daglig leder af Minvenkatten i Hobro. </p><p>- Hvis det her kun er toppen af isbjerget, og at der kun kommer flere i dag, i morgen og næste uge, så har vi ikke kapaciteten til det på et tidspunkt. </p><h2>Manglende pladser og katteaftaler</h2><p>Selv har hun nogle bud på, hvorfor det pludselig vælter ind med vilde katte. </p><p>Blandt andet tror hun, at det kan have noget at gøre med manglen på internatpladser. Senest lukkede Viborg Internat i februar i år. </p><p>Hun peger også på, at  Mariagerfjord, Rebild, Thisted og Morsø Kommuner, ifølge hende, er de eneste fire nordjyske kommuner, som ikke har en såkaldt katteaftale, der betyder, at kommunerne bestiller og betaler foreninger som Kattens Værn, til at køre ud og indfange vilde katte. </p><p>- Man mangler katteaftalerne til at få ryddet op. Hvis alle kommuner havde de her aftaler, så kunne man komme problemet mere til bunds, siger hun og henviser blandt andet også til et boom i tilfælde af aids hos katte, som opstår, når de slås og får blandet blod. </p> <p>Ifølge Dyrenes Beskyttelse stiger antallet af dumpede og uønskede killinger dog markant hvert år og sætter internaterne under pres. </p><p>Alene i 2025 blev der indleveret 8300 katte på de danske internater - herunder 4355 killinger i alderen 0-16 uger. Det viser tal fra <a href=\"https://www.dyrenesbeskyttelse.dk/artikler/tusindvis-af-uoenskede-killinger-ender-paa-internat-hvert-aar\">Dyrenes Beskyttelse.</a></p><h2>Støtte vælter ind</h2><p>Hos Minvenkatten i Hobro har det voldsomme indtog af katte betydet, at Anita Sønderup tirsdag gik ud på internatets Facebook-side og efterspurgte plejefamilier til kattene og donationer. </p> <p>Ikke engang 24 timer efter er hjælpen væltet ind, og der er fundet plejefamilier til alle kattene, som er i stand til at komme i pleje. </p><p>- Nu har jeg pludselig ikke katte nok til alle de hjælpere. Det er jo et luksusproblem, siger hun med et smil og slår fast, at problemet er løst for denne gang. </p><p>- Det takker vi mange gange for.</p>",
-  "link": "https://www.tv2nord.dk/mariagerfjord/modtog-35-katte-pa-fa-dage-fuldstaendig-skort-lyder-det-81c17",
-  "published": "Wed, 06 May 26 10:52:00 +0200",
-  "guid": "https://www.tv2nord.dk/mariagerfjord/modtog-35-katte-pa-fa-dage-fuldstaendig-skort-lyder-det-81c17",
-  "category": "No category"
+  "title": "Liveblog: Aalborg har profil tilbage til afgørende kamp. Stil spørgsmål allerede nu",
+  "description": "Der er en plads til Final4 i Köln på spil, når Aalborg onsdag aften møder Sporting",
+  "link": "https://nordjyske.dk/nyheder/sport/liveblog-aalborg-har-profil-tilbage-til-afgoerende-kamp-stil-spoergsmaal-allerede-nu/6023330?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 06 May 2026 14:09:16 Z",
+  "guid": "0ca38ef6-4020-40a1-bced-0b96a3f71991",
+  "category": "Aalborg Håndbold"
  },
  {
   "title": "Alle taler om olie. For landmændene er et helt andet prischok på vej",
@@ -266,14 +274,6 @@
   "published": "Wed, 06 May 2026 13:32:49 Z",
   "guid": "e49ab240-fcdb-4126-ae78-7cd329ff9bb9",
   "category": "Erhverv"
- },
- {
-  "title": "Liveblog: Aalborg har profil tilbage til afgørende kamp. Stil spørgsmål allerede nu",
-  "description": "Der er en plads til Final4 i Köln på spil, når Aalborg onsdag aften møder Sporting",
-  "link": "https://nordjyske.dk/nyheder/sport/liveblog-aalborg-har-profil-tilbage-til-afgoerende-kamp-stil-spoergsmaal-allerede-nu/6023330?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 06 May 2026 14:09:16 Z",
-  "guid": "0ca38ef6-4020-40a1-bced-0b96a3f71991",
-  "category": "Aalborg Håndbold"
  },
  {
   "title": "Varmestuen har endnu ikke fundet sin nye placering i Aalborg - og det frustrerer Jonas Jakobsen",
