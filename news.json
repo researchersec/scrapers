@@ -1,5 +1,14 @@
 [
  {
+  "title": "Massevis af madaffald på gader og i parker tiltrækker rotter",
+  "description": "Aalborg Kommune opfordrer nu til, at man sørger for at smide sit madaffald ud rigtigt.",
+  "link": "https://www.dr.dk/nyheder/indland/massevis-af-madaffald-paa-gader-og-i-parker-tiltraekker-rotter",
+  "published": "Thu, 07 May 2026 10:15:00 GMT",
+  "guid": "urn:dr:umbraco:article:a06658f4-8893-4669-b931-e55ea48bdecc",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/qcwftblc/20130214-135146-7_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Det tredjestørste guldfund fra vikingetiden kan måske spores tilbage til en af de helt store konger",
   "description": "Ringene kan dateres tilbage til Harald Blåtands tid.",
   "link": "https://www.dr.dk/nyheder/indland/det-tredjestoerste-guldfund-fra-vikingetiden-kan-maaske-spores-tilbage-til-en-af-de-helt-store",
@@ -171,13 +180,36 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/4robgigm/sommerdaek_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Avisen får lov til at leve: Der er stadig penge i papir",
-  "description": "I 2027 skulle den fysiske udgave af Nordjyske stoppe med at udkomme. Den plan er nu droppet.",
-  "link": "https://www.dr.dk/nyheder/indland/avisen-faar-lov-til-leve-der-er-stadig-penge-i-papir",
-  "published": "Tue, 21 Apr 2026 07:11:00 GMT",
-  "guid": "urn:dr:umbraco:article:a530e8bd-afb8-4abc-a358-34ac08615c93",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/afyg303e/nordjyske-1.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Havareret bil spærrer spor på motorvejen",
+  "description": "<p>En havareret bil spærrer et spor på E45.</p><p>Det fremgår af <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">Vejdirektoratet</a>.</p><p>Vejen er spærret i nordgående retning mellem Himmerland og Støvring.</p><p>Vejhjælp er på stedet.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/havareret-bil-spaerrer-spor-pa-motorvejen-36118",
+  "published": "Thu, 07 May 26 13:22:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/havareret-bil-spaerrer-spor-pa-motorvejen-36118",
+  "category": "No category"
+ },
+ {
+  "title": "Mand fastklemt under lastbil",
+  "description": "<p>En lastbil og en traktor er kørt sammen i et alvorligt sammenstød.</p><p>Der er totalt spærret fra Tylstrup til Ravnstrup mellem de to veje Skarvadvej og Ørum Mosevej.</p><p>En mand er fastklemt under lastbilen, hvor vagtchef ved Nordjyllands Politi Martin Møller fortæller, at vægten fra lastbilen gør, at man ikke kan redde manden ud.</p><p>En rendegraver er bestilt til stedet for at redde den tilskadekomne ud. </p><p>- Vi kan ikke sige noget om mandens skader, men han er i live, lyder det.</p><p>Hvordan ulykken er sket, kan Nordjyllands Politi ikke fortælle, men vagtchef Martin Møller fortæller, at man kommer til at arbejde på stedet i et ukendt tidsrum.</p><p>Den anden fører er blevet tilset af en ambulance, men er uden voldsomme skader.</p><p><em>Opdateres</em>.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/alvorligt-uheld-spaerrer-hovedvej-b1c1e",
+  "published": "Thu, 07 May 26 13:00:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/broenderslev/alvorligt-uheld-spaerrer-hovedvej-b1c1e",
+  "category": "No category"
+ },
+ {
+  "title": "Juri Knorr har været tilskuer flere gange - nu skal han selv på banen",
+  "description": "<p>Juri Knorr har selv deltaget ved Final4 stævnet i Køln mange gange før. Det har dog indtil nu været som tilskuerealle gangene.</p><p>Men onsdag ændrede det sig, da Aalborg Håndbold besejrede Sporting hjemme og dermed bookede en billet til verdens bedste håndboldstævne for klubhold.</p><p>- Jeg er bare stolt. Det er virkelig en stor ting, og for mange af os er det første gang. Det er den største scene i håndboldverden, så vi glæder os bare, konstaterer han.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/juri-knorr-har-vaeret-tilskuer-flere-gange-nu-skal-han-selv-pa-banen-4e249",
+  "published": "Thu, 07 May 26 12:36:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/juri-knorr-har-vaeret-tilskuer-flere-gange-nu-skal-han-selv-pa-banen-4e249",
+  "category": "No category"
+ },
+ {
+  "title": "Nordjysk svindel-anklaget kvinde beskylder andre for hvidvask",
+  "description": "<p>Emma Brix Nielsen og Simon Urth lånte en veninde 100.000 kroner. Men de blev snydt, og forholdet til kvinden er nu anstrengt - hun svarer ikke længere på deres beskeder. </p><p>Derfor har de meldt kvinden til politiet og valgt at lægge sag an mod hende. Men nu har sagen taget en hel ny drejning. Kvinden har i et skriv til retten vendt anklagerne rundt mod parret. Hun skriver, at det er <em>dem</em>, der har snydt <em>hende</em>:</p><p><em>&#039;Der er tale om hvidvaskning af sorte penge og afpresning og al verdens låneaftaler for at få pengene tvunget igennem på deres konto.&#039;</em></p><p><em>- </em>Jeg er helt i chok, lyder det fra en frustreret Simon Urth, der afviser anklagerne.</p><p>TV2 Nord har set nærmere på kvinden de seneste dage. Vi har tidligere fortalt, hvordan hun har solgt en række ugyldige billetter til Nibe Festival. Men det er ikke kun festivalbilletter, kvinden anklages for at svindle med. Faktisk findes der en hel Facebookgruppe med godt og vel 1000 medlemmer, som hævder at være blevet snydt af den samme kvindelige svindler.</p><p>Nordjyllands Politi kan hverken be- eller afkræfte, om kvinden er blevet anmeldt og i givet fald af hvor mange.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/nordjysk-svindel-anklaget-kvinde-beskylder-andre-for-hvidvask-11380",
+  "published": "Thu, 07 May 26 11:42:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/nordjysk-svindel-anklaget-kvinde-beskylder-andre-for-hvidvask-11380",
+  "category": "No category"
  },
  {
   "title": "Sådan gik det, da to TV2 Nord journalister skulle overleve i tre dage uden vand og strøm",
@@ -193,6 +225,14 @@
   "link": "https://www.tv2nord.dk/nordjylland/sadan-gik-det-da-freja-og-philip-tre-dogn-uden-vand-og-strom-499e2",
   "published": "Thu, 07 May 26 09:43:00 +0200",
   "guid": "https://www.tv2nord.dk/nordjylland/sadan-gik-det-da-freja-og-philip-tre-dogn-uden-vand-og-strom-499e2",
+  "category": "No category"
+ },
+ {
+  "title": "- Beredskabet har ikke mulighed for at hjælpe os alle",
+  "description": "<p>- Beredskabet har ikke mulighed for at hjælpe os alle</p>",
+  "link": "https://www.tv2nord.dk/hjoerring/beredskabet-har-ikke-mulighed-for-at-hjaelpe-os-alle-e0b30",
+  "published": "Thu, 07 May 26 09:10:00 +0200",
+  "guid": "https://www.tv2nord.dk/hjoerring/beredskabet-har-ikke-mulighed-for-at-hjaelpe-os-alle-e0b30",
   "category": "No category"
  },
  {
@@ -220,44 +260,28 @@
   "category": "No category"
  },
  {
-  "title": "Hårde forhold for dine planter: Endnu mere sol på vej",
-  "description": "<p>Dine haveplanter skal endnu engang på overarbejde.</p><p>For torsdagen starter med frostgrader, der senere erstattes af lune temperaturer.</p><p>Der er lange udsigter til væske for planterne, for solen står på hele dagen, hvor temperaturen når op på 14-15 grader.</p><p>Til gengæld skal dine haveplanter ikke på overarbejde mod vinden, for den får man næsten ikke at mærke.</p><p>Så det er med at have solcreme på og være udstyret med grønne fingre, hvis man skal et smut i haven.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/harde-forhold-for-dine-planter-endnu-mere-sol-pa-vej-2a32a",
-  "published": "Thu, 07 May 26 07:09:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/harde-forhold-for-dine-planter-endnu-mere-sol-pa-vej-2a32a",
-  "category": "No category"
+  "title": "Karina Burgdorff Jensen ved, hvordan man sælger. Hun ser mange virksomheder begå den samme klassiske fejl",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/karina-burgdorff-jensen-ved-hvordan-man-saelger-hun-ser-mange-virksomheder-begaa-den-samme-klassiske-fejl/6020446?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 07 May 2026 03:36:46 Z",
+  "guid": "036158e2-5bec-4b64-9ea3-19fc8d09cfdd",
+  "category": "Erhverv"
  },
  {
-  "title": "Finn går som aldrig før",
-  "description": "<p>Det er onsdag, og klokken er næsten 10. I skoven ved Dronninglund samles den lille lokale gå-klub &#039;Gå-med&#039; for at gå en tur i skoven.</p><p>- I dag, med det her flotte vejr, skal vi ind og se bøgeskoven og de hvide anemoner i skovbunden, siger Hanne Fuglsang, Gå-vært i Hjerteforeningen.</p><p>Ifølge Hjerteforeningens og Trygfondens kampagnen &#039;Maj-athon&#039;, som du kan se <a href=\"https://gaamed.dk/majathon/\">her</a>, behøver man kun at gå 20 minutter hver dag for at reducere risikoen for hjertesygdomme med 20 procent. </p><p>Gør man det, vil man på en måned have gået, hvad der svarer til et maraton løb.</p><p>- 20 minutter er jo ikke meget at ofre for sit eget helbreds skyld, siger Hanne Fuglsang.</p> <h2>En forskrækkelse</h2><p>Med i gruppen er Finn Jensen. For 10 år siden fik han en blodprop.</p><p>- Man bliver jo noget forskrækket, men jeg slap heldigt fra det. Det fik mig til at tænke: &#039;Jeg skal til at dyrke motion&#039;, siger Finn Jensen, pensionist fra Brønden.</p> <p>Foreningerne bag kampagnen håber, at de kan få flere til at gå, for det er en af de nemmeste motionsformer, der findes.</p><p>- Du skal have et par sko, lukke din dør op og så er du i gang. Det kræver jo ikke, at du skal køre et eller andet sted hen eller booke en tid i en hal, siger Hanne Fuglsang.</p><p>Finn Jensen fortryder ikke, at han først kom i gang med at dyrke motion, efter han var blevet ramt af en blodprop.</p><p>- Mit liv har været sådan, at jeg altid har været bagefter. Jeg har drevet maskinstation, og det jeg skulle lave i dag, skulle jeg altid have lavet igår, så jeg har altid været bagefter, siger Finn Jensen og griner.</p><p>Det er gratis at gå med på de gåture, Hjerteforeningen arrangerer. Man skal bare møde op.</p>",
-  "link": "https://www.tv2nord.dk/broenderslev/finn-gar-som-aldrig-for-c498f",
-  "published": "Thu, 07 May 26 07:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/broenderslev/finn-gar-som-aldrig-for-c498f",
-  "category": "No category"
+  "title": "AaB-overblik: Ombejlet teenager vælger AaB over danske topklubber",
+  "description": "Få overblikket over de vigtigste AaB-nyheder",
+  "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 22 Apr 2026 07:27:27 Z",
+  "guid": "114fe8e9-35ae-4da8-b642-4f6bc42ab648",
+  "category": "AaB"
  },
  {
-  "title": "Vistisen skal svinge pisken",
-  "description": "<p>Anders Vistisen skal fremover svinge pisken i Dansk Folkepartis folketingsgruppe.</p><p>Politikeren, der for nylig blev valgt til Folketinget i den nordjyske storkreds, er af sin partiformand blevet udnævnt til chief whip.</p><p>- Det betyder, at alle parlamentariske aktiviteter i folketingsgruppen, skriftlige såvel som mundtlige, skal ind over mit bord, fortæller Anders Vistisen til TV Midtvest.</p><p>- Jeg ser ikke mig selv, som en kontrollør. Jeg ser det mere som, at hvis man har en strategi, så skal der være nogen, der implementerer den, sige Anders Vistisen.</p> <p>Som medlem af Europa-Parlamentet blev Anders Vistisen i sommeren 2024 udnævnt til chief whip i EU-gruppen Europas Patrioter. En gruppe, som blev stiftet af blandt andre Ungarns tidligere premierminister, Viktor Orbán.</p><p>- Dansk Folkeparti havde været vant til en folketingsgruppe med syv medlemmer plus mig i Europa-Parlamentet. Dengang kunne tingene ordnes over en kop kaffe. Hvis vi skal blive ved med at kommunikere skarpt, så kræver det koordination, fordi vi nu er blevet flere, siger Anders Vistisen.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/vistisen-skal-svinge-pisken-b1a21",
-  "published": "Thu, 07 May 26 06:44:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/vistisen-skal-svinge-pisken-b1a21",
-  "category": "No category"
- },
- {
-  "title": "- Det er groft overfor de små butikker",
-  "description": "<p>Der står fodbold på dagsordenen, når Nørhalne Cup løber af stablen i Kristi Himmelfartsferien. Det betyder, at kommunen får besøg af en masse fodboldglade børn og deres forældre.</p><p>Det har fået brancheorganisationen Samvirkende Købmænd til at søge dispensation fra lukkeloven, så alle butikkerne kan holde åbent på Kristi Himmelfartsdag.</p><p>Et enigt byråd har valgt at godkende ansøgningen, men det er en helt forkert beslutning. </p><p>Sådan lyder det fra Michael Feldbæk Bjørnlund From.</p><p>- Helligdagslukningerne for de store butikker skaber mulighed for, at de små og lokale butikker får en god omsætning. Det ser vi til jul og påske, og når der ellers er dage, hvor de store butikker holder lukket, siger han.</p><h2>Kæmpe for lokalt liv</h2><p>Han er forperson for Brugsen i Biersteds medlemsråd, og han stiller sig uforstående overfor den politiske beslutning.</p><p>- Der er en lille håndfuld åbningsdage tilbage på den gamle lukkelov, og så vælger man aktivt at fjerne en af dem. Det synes jeg er groft overfor de små butikker, siger Michael Feldbæk Bjørnlund From.</p> <p>Nørhalne Cup er et fodboldstævne med cirka 10.000 deltagere fra både ind- og udland.</p><p>Han mener, at ansøgningen var en oplagt mulighed for byrådet til at statuere et eksempel og bakke op om de lokale butikker.</p><p>- Det er ikke mere end et halvt år siden, at vi skulle stemme, og de lokale kandidater har gjort et stort nummer ud af at sige, at de vil kæmpe for det lokale liv, siger han.</p><h2>Byernes nerve</h2><p>Spørger man Michael Feldbæk Bjørnlund From har de lokale forretninger stor betydning for udviklingen i landdistrikterne. Det udgør en nerve i byen på linje med skoler og idrætsforeninger.</p><p>- Det er et af grundelementerne i, at et lokalsamfund fungerer, siger han.</p><p>Borgermester i Jammerbugt Kommune Christian Hem (V) anerkender kritikken. </p><p>Han understreger dog, at beslutningen også er truffet med øje for andre typer af butikker end dagligvarebutikker.</p><p>- Vi har tænkt på helheden og på, at der er mange andre butikker, som kunne få glæde af det her. Nørhalne Cup er et stort event i vores kommune, så det er fint, at vi lytter til de ønsker, der kommer ind, siger han.</p><p>Dispensationen er kun gældende for detailbutikker i de postnumre, hvor der er indkvartering af deltagere eller afvikling af kampe.</p><h2>At kapre kunder</h2><p>Christian Hem mener desuden, at gæsterne uanset hvad vil købe ind der, hvor de er indlogeret.</p><p>Han understreger, at han har stor respekt for de lokale erhvervsdrivende, og at kommunen gør andre ting for at hjælpe de mindre butikker.</p> <p>- Vi har stor forståelse for, at man som lille butik vil gøre, hvad man kan for at kapre kunder. Vi gør en række ting for at bakke op om landdistrikterne. Vi udstykker blandt andet grunde for at sikre befolkningstilvækst – noget som også bidrager til, at de lokale butikker kan overleve, siger borgmesteren.</p><p>Men Michael Feldbæk Bjørnlund From forstår ikke prioriteringen. Han kalder det for et &#039;grådigshedsspørgsmål&#039;.</p><p>- De deltagende ved Nørhalne Cup er jo ikke gået sultne i seng tidligere år. Det handler om, at de store butikker gerne vil have del i den omsætning, der kommer, siger han.</p><p>Det er nu op til Erhvervsstyrelsen at træffe den endelige afgørelse om, hvorvidt forretningslivet må holde åbent på Kristi Himmelfartsdag.</p>",
-  "link": "https://www.tv2nord.dk/jammerbugt/det-er-groft-overfor-de-sma-butikker-4c203",
-  "published": "Thu, 07 May 26 06:30:00 +0200",
-  "guid": "https://www.tv2nord.dk/jammerbugt/det-er-groft-overfor-de-sma-butikker-4c203",
-  "category": "No category"
- },
- {
-  "title": "Elever misser en fjerdedel af undervisningen",
-  "description": "<p>50 dage om året dukker 12.000 elever ikke op i skole.</p><p>Det viser en undersøgelse fra Børns Vilkår om skolefravær landet over.</p><p>Og i Nordjylland har vi næstflest børn, der bliver væk fra undervisningen.</p><p>Tæt på 2,5 procent af børn har mindst 50 fraværsdage om året, hvilket er over landsgennemsnittet, hvor særligt Frederikshavn, Aalborg og Thisted Kommune bonner ud.</p><p>- Selvom fraværsstatistikken har blinket rødt i flere år, er vi som samfund ikke lykkedes med at ændre kursen mærkbart, lyder det fra Rasmus Kjeldahl, direktør i Børns Vilkår.</p><p>Et skoleår svarer til knap 200 dage, hvilket vil sige, at eleverne misser knap en fjerdedel af deres undervisning.</p><p>- Vi hæfter os ved, at antallet af elever med mindst 50 dages skolefravær på et skoleår er gået fra cirka 6000 til 12.000 elever på fem år, siger Rasmus Kjeldahl.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/elever-misser-en-fjerdedel-af-undervisningen-be92b",
-  "published": "Thu, 07 May 26 06:13:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/elever-misser-en-fjerdedel-af-undervisningen-be92b",
-  "category": "No category"
+  "title": "Unge vælger kokkefaget fra - Johannes vil ændre det fra Lønstrup",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/hjoerring/unge-vaelger-kokkefaget-fra-johannes-vil-aendre-det-fra-loenstrup/6026928?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 07 May 2026 09:31:51 Z",
+  "guid": "69f037d8-9cef-490c-9653-194552922bb6",
+  "category": "Mad"
  },
  {
   "title": "Kommentar: Nu kan vi stille krav om noget bedre AaB-spil",
@@ -274,14 +298,6 @@
   "published": "Thu, 07 May 2026 03:40:44 Z",
   "guid": "d4e4b1b7-1ea5-4ebe-8383-23a0a1be80a1",
   "category": "De bygger Nordjylland"
- },
- {
-  "title": "Karina Burgdorff Jensen ved, hvordan man sælger. Hun ser mange virksomheder begå den samme klassiske fejl",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/karina-burgdorff-jensen-ved-hvordan-man-saelger-hun-ser-mange-virksomheder-begaa-den-samme-klassiske-fejl/6020446?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 07 May 2026 03:36:46 Z",
-  "guid": "036158e2-5bec-4b64-9ea3-19fc8d09cfdd",
-  "category": "Erhverv"
  },
  {
   "title": "I sæsonens vigtigste kamp viste stjernerne, hvorfor Aalborg Håndbold er gået langt for at holde på dem",
@@ -372,14 +388,6 @@
   "category": "Natur"
  },
  {
-  "title": "AaB-overblik: Svensk stopper misser møde med bundprop",
-  "description": "Få overblikket over de vigtigste AaB-nyheder",
-  "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 22 Apr 2026 07:27:27 Z",
-  "guid": "114fe8e9-35ae-4da8-b642-4f6bc42ab648",
-  "category": "AaB"
- },
- {
   "title": "Stor garnvirksomhed vil udvide: Men for Tversted handler sagen ikke kun om en bygning",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/hjoerring/stor-garnvirksomhed-vil-udvide-men-for-tversted-handler-sagen-ikke-kun-om-en-bygning/6021786?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -410,13 +418,5 @@
   "published": "Tue, 05 May 2026 03:35:47 Z",
   "guid": "127c91c0-dcda-4b59-9b12-438a11114bb3",
   "category": "Sygehuse"
- },
- {
-  "title": "Karneval sender regning til Birgitte - for at presse kommunen: - Det er urimeligt, jeg skal betale for en fest, der ikke er min",
-  "description": "Når Aalborg Karneval samler op mod 100.000 mennesker, er det ikke længere arrangørerne, der betaler for alt. Borgere langs ruten må nu selv beskytte deres ejendomme",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/karneval-sender-regning-til-birgitte-for-at-presse-kommunen-det-er-urimeligt-jeg-skal-betale-for-en-fest-der-ikke-er-min/6016682?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 02 May 2026 03:47:48 Z",
-  "guid": "93769b5e-3423-4d33-9892-0fa6d5c84465",
-  "category": "Aalborg karneval"
  }
 ]
