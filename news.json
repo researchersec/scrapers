@@ -1,7 +1,16 @@
 [
  {
+  "title": "Kommune slår fast: Karneval skal selv betale for tisse-hegn",
+  "description": "Politikerne i Aalborg Kommune vil ikke lade Aalborg Karneval kræve betaling for at opsætte hegn.",
+  "link": "https://www.dr.dk/nyheder/indland/kommune-slaar-fast-karneval-skal-selv-betale-tisse-hegn",
+  "published": "Tue, 19 May 2026 15:40:00 GMT",
+  "guid": "urn:dr:umbraco:article:3aa66ff7-153e-4054-a1aa-addc94e02b7c",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/ouroxkir/20250524-140322-4.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Vandforbrugere bør betale regningen for nationalt sprøjteforbud, foreslår borgmester",
-  "description": "Vandværkerne kan leje den udtagne jord, og på den måde finansiere kompensation til landmændene, siger Venstre-borgester i Brønderslev",
+  "description": "Vandværkerne kan leje den udtagne jord, og på den måde finansiere kompensation til landmændene, siger Venstre-borgester i Brønderslev.",
   "link": "https://www.dr.dk/nyheder/indland/vandforbrugere-boer-betale-regningen-nationalt-sproejteforbud-foreslaar-borgmester",
   "published": "Tue, 19 May 2026 12:00:00 GMT",
   "guid": "urn:dr:umbraco:article:d1c549c3-9b23-4715-b3a3-fa0a3a966c24",
@@ -171,17 +180,56 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/ppqk15nt/jsnd_a_indland_sygehus_aalborg-13572106.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Grøn protest: Mor og datter planter blomster i vejhuller",
-  "description": "Vejene i Aalborg Kommune er stadig spækket med huller efter vinterens frost.",
-  "link": "https://www.dr.dk/nyheder/indland/groen-protest-mor-og-datter-planter-blomster-i-vejhuller",
-  "published": "Mon, 04 May 2026 17:35:00 GMT",
-  "guid": "urn:dr:umbraco:article:573715dc-e714-4340-a40e-fd01d02e2274",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/khhhtdhm/freja-heuckendorff.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Billige smuglersmøger hitter",
+  "description": "<p>Fødevarepriser på himmelflugt og stigende afgifter på cigaretter kan være medvirkende til, at markedet for ulovlige cigaretter har kronede dage.</p><p>Sådan lyder det fra Ulf Munch Sørensen, politikommissær ved Operativ Specialefterforskning i Nordjyllands Politi.</p><p>– Der er med stor sandsynlighed flere ulovlige cigaretter i omløb, siger han og fortsætter:</p><p>– Nogle peger på, at de stigende priser skaber et marked for det illegale cigaretsalg. Der har været en periode, hvor det ikke har været lukrativt eller eftertragtet i de kriminelle kredse. Men på det seneste har flere på det organiserede kriminelle marked fået øjnene op for det.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/billige-smuglersmoger-hitter-e8a91",
+  "published": "Tue, 19 May 26 18:17:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/billige-smuglersmoger-hitter-e8a91",
+  "category": "No category"
+ },
+ {
+  "title": "Karneval opruster med en hær af containere",
+  "description": "<p>Fire dage før karnevalsfesten for alvor eksploderer langs Vesterbro og i Kildeparken, er der blevet opstillet 450 containere i Kildeparken.</p><p>Målet er klart:</p><p>– Uanset hvor i parken du står, skal du kunne se en skraldespand, siger Malthe Madsen, bæredygtighedskoordinator hos Aalborg Karneval.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/karneval-opruster-med-en-haer-af-containere-1aced",
+  "published": "Tue, 19 May 26 17:10:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/karneval-opruster-med-en-haer-af-containere-1aced",
+  "category": "No category"
+ },
+ {
+  "title": "Ulvene formerer sig i Nordjylland",
+  "description": "<p>Selvom ulve ikke formerer sig i samme hastighed som rotter eller kaniner, vokser bestanden også i Nordjylland.</p><p>I alt 49 ulve er i øjeblikket forskernes bedste bud, lyder det fra Kent Olsen, videnskabelig chef og seniorforsker ved Naturhistorisk Museum Aarhus.</p><p>På landsplan forventes der mindst ti kuld ulvehvalpe alene i år.</p><p>- Vi forsøger at opgøre forårsbestanden lige inden, der fødes hvalpe, altså ved udgangen af april, siger Kent Olsen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/ulvene-formerer-sig-i-nordjylland-73573",
+  "published": "Tue, 19 May 26 17:08:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/ulvene-formerer-sig-i-nordjylland-73573",
+  "category": "No category"
+ },
+ {
+  "title": "Flygtede fra politiet og kolliderede med hus",
+  "description": "<p>Mandag modtog lokalpolitiet i Thisted igen anmeldelser om dieseltyverier - og denne gang endte det i en dramatisk biljagt.</p><p>Det ene tyveri skete i Hanstholm, hvor en gravemaskine ved Brunbjerg Skrænt blev tømt for 100 liter diesel. Det andet var på Mors, hvor 700 liter diesel blev stjålet fra et vinduestransportfirma i Nykøbing.</p><p>- Og efter nogle detaljer i de her anmeldelser havde vi en idé om, hvem det kunne være, forklarer Henrik Jensen, politikommissær ved lokalpolitiet i Thisted.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/flygtede-fra-politiet-og-kolliderede-med-hus-fc568",
+  "published": "Tue, 19 May 26 14:45:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/flygtede-fra-politiet-og-kolliderede-med-hus-fc568",
+  "category": "No category"
+ },
+ {
+  "title": "Politiet mærker ny tendens",
+  "description": "<p>Fødevarepriser på himmelflugt og stigende afgifter på cigaretter kan være medvirkende til, at markedet for ulovlige cigaretter har kronede dage.</p><p>Sådan lyder det fra Ulf Munch Sørensen, politikommissær ved Operativ Specialefterforskning i Nordjyllands Politi.</p><p>Det kommer, efter at TV2 Nord i går kunne fortælle, at <a href=\"https://www.tv2nord.dk/nordjylland/hver-femte-cigaret-i-nordjylland-er-ulovlig-d9e26\">Aalborg ender på en tredjeplads i Danmark</a>, når det gælder antallet af ulovligt og afgiftsfrit købte cigaretter.</p><p>Det viser tal fra analysevirksomheden WSPM Group, som mandag samlede cigaretpakker ind i tre forskellige kvarterer i Aalborg.</p><p>Og uden at kunne sætte konkrete tal på er det også den tendens, man mærker hos Nordjyllands Politi, lyder det fra Ulf Munch Sørensen.</p> <p>– Der er med stor sandsynlighed flere ulovlige cigaretter i omløb, siger han og fortsætter:</p><p>– Nogle peger på, at de stigende priser skaber et marked for det illegale cigaretsalg. Der har været en periode, hvor det ikke har været lukrativt eller eftertragtet i de kriminelle kredse. Men på det seneste har flere på det organiserede kriminelle marked fået øjnene op for det.</p><h2>Sociale medier spiller ind</h2><p>Og det er især via sociale medier, at folk får fat i de billige smøger, lyder politiets vurdering.</p><p>– Der er ingen tvivl om, at sociale medier spiller en rolle i det her. Men også den gode gamle mund-til-mund-metode. Så det er blevet nemmere at få fat i smuglercigaretter – men også ulovlige puffbars, siger Ulf Munch Sørensen og fortsætter:</p><p>– I gamle dage spurgte man måske nede på havnen, men nu kan man bare gå på Snapchat på telefonen. Det gør tilgængeligheden større.</p><p><em>Lone Mølholt Larsen, der selv er ryger, synes ikke, det er i orden, at der sælges ulovlige smøger:</em></p> <p>Ulf Munch Sørensen understreger dog, at bøderne er klækkelige, når det lykkes politiet at få en cigaretsmugler i nettet.</p><p>Det sker blandt andet gennem efterforskning, hvor politiet i sager om ulovlige puffbars også har fokus på ulovlige cigaretter, men også gennem tips fra offentligheden.</p><p>Eksempelvis fik en mand ved <a href=\"https://www.tv2nord.dk/aalborg/48-aarig-faar-millionboede-og-faengsel-solgte-25-kilo-amfetamin-over-400-kilo-hash-og-fem-millioner-ulovlige-cigaretter\">Retten i Aalborg i 2023</a> en tillægsbøde på 10,8 millioner kroner for ulovligt salg af omkring 5,5 millioner cigaretter.</p><p>– Så længe der er et marked for det og nogen, der aftager varerne, vil der være folk, som prøver lykken. Men vi gør det bedste, vi kan, slutter Ulf Munch Sørensen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/politiet-maerker-ny-tendens-76c3b",
+  "published": "Tue, 19 May 26 14:41:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/politiet-maerker-ny-tendens-76c3b",
+  "category": "No category"
+ },
+ {
+  "title": "Flygtede fra politiet og kolliderede med hus",
+  "description": "<p>Mandag modtog lokalpolitiet i Thisted igen anmeldelser om dieseltyverier - og denne gang endte det i en dramatisk biljagt.</p><p>Det ene tyveri skete i Hanstholm, hvor en gravemaskine ved Brunbjerg Skrænt blev tømt for 100 liter diesel. Det andet var på Mors, hvor 700 liter diesel blev stjålet fra et vinduestransportfirma i Nykøbing.</p><p>- Og efter nogle detaljer i de her anmeldelser havde vi en idé om, hvem det kunne være, forklarer Henrik Jensen, politikommissær ved lokalpolitiet i Thisted.</p> <p>Klokken 01.15 sendte de derfor en patrulje ud på en køretur til Snedsted. Her var der aktivitet ved en byggeplads, og de så en bil køre derfra.</p><p>Patruljen fulgte efter bilen, og føreren hævede hastigheden og kørte fra patruljen efter at have opdaget dem.</p><p>- Men kort tid efter kørte bilen galt. Den ramte et hus og snurrede rundt, og da politiet kom hen til bilen, var føreren væk, fortæller politikommissær Henrik Jensen.</p><p>De ledte i området og fandt den våde fører ved en å, hvor han gemte sig for patruljen. Og det var under en uge siden, at politiet sidst havde fat i manden.</p> <h2>Blev også anholdt i onsdags</h2><p>I bilen fandt politiet tomme dunke og noget værktøj, som de formoder, at manden har stjålet fra byggepladsen. Derfor blev føreren, en 35-årig mand, sigtet for tyveri.</p><p>En sigtelse, som han også fik i onsdags, <a href=\"https://www.tvmidtvest.dk/thisted/5000-liter-diesel-fundet-pa-privat-grund-193b0\" target=\"_blank\"><strong>fordi politiet fandt 5000 liter diesel</strong></a> på den 35-årige mands grund i nærheden af Snedsted.</p><p>Politiet kan dog ikke konkludere, at der er et sammenfald mellem dieseltyverierne i Hanstholm og på Mors og mandens formodede tyveri fra byggepladsen.</p><p>Indtil videre bliver manden ikke sigtet for noget i forbindelse med flugten fra politiet og kollisionen med huset.</p><p>Ifølge politikommissær Henrik Jensen regner politiet heller ikke med, at manden skal fremstilles i et grundlovsforhør. Politiet går altså ikke efter en varetægtsfængsling.</p>",
+  "link": "https://www.tv2nord.dk/thisted/flygtede-fra-politiet-og-kolliderede-med-hus-e1544",
+  "published": "Tue, 19 May 26 14:22:00 +0200",
+  "guid": "https://www.tv2nord.dk/thisted/flygtede-fra-politiet-og-kolliderede-med-hus-e1544",
+  "category": "No category"
  },
  {
   "title": "81-årig mand påkørt af lastbil: Kørt med livstruende skader og politieskorte",
-  "description": "<p>En 81-årig mand er tirsdag klokken 09.50 blevet påkørt af en lastbil omkring Nibevej i Aalborg SV. </p><p>Det oplyser vagtchef ved Nordjyllands Politi Torben Arendrup. </p><p>Lastbilen skulle dreje til venstre ind til Burger King, da chaufføren overså den mandelige cyklist. </p><p>Den 81-årige blev efterfølgende kørt som traumepatient til sygehuset med politieskorte. </p><p>Cyklisten er kørt afsted med livstruende skader, og hans pårørende er underrettet, oplyser vagtchefen.   </p>",
+  "description": "<p><em>Opdatering: Den 81-årige blev tirsdag sen eftermiddag meldt som værende i stabil tilstand.</em></p><p>En 81-årig mand er tirsdag klokken 09.50 blevet påkørt af en lastbil omkring Nibevej i Aalborg SV. </p><p>Det oplyser vagtchef ved Nordjyllands Politi Torben Arendrup. </p><p>Lastbilen skulle dreje til venstre ind til Burger King, da chaufføren overså den mandelige cyklist. </p><p>Den 81-årige blev efterfølgende kørt som traumepatient til sygehuset med politieskorte. </p><p>Cyklisten er kørt afsted med livstruende skader, og hans pårørende er underrettet, oplyser vagtchefen.   </p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/81-arig-mand-pakort-af-lastbil-kort-med-livstruende-skader-og-politieskorte-c3ce9",
   "published": "Tue, 19 May 26 13:31:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/81-arig-mand-pakort-af-lastbil-kort-med-livstruende-skader-og-politieskorte-c3ce9",
@@ -196,68 +244,28 @@
   "category": "No category"
  },
  {
-  "title": "Fik psykisk sårbar kvinde til at prostituere sig",
-  "description": "<p>Et tæt forhold mellem to kvinder udviklede sig ifølge retten til manipulation, økonomisk kontrol og prostitution.</p><p>Derfor blev en 39-årig kvinde tirsdag ved Retten i Hjørring dømt for menneskeudnyttelse og bedrageri af en psykisk sårbar kvinde, som hun gennem flere år pressede til at prostituere sig.</p><p>Kvinden blev idømt et år og tre måneders fængsel. Tre måneder skal afsones nu, mens resten af straffen er gjort betinget med en prøvetid på to år.</p><p>Derudover blev hun idømt en tillægsbøde på 50.000 kroner, pålagt at betale sagens omkostninger og dømt til at betale 50.000 kroner i godtgørelse til den forurettede.</p><p>Hun blev dømt for menneskeudnyttelse og bedrageri, men frifundet for forholdet om psykisk vold, som hun også var tiltalt for. </p> <h2>Fra kollegaer til samlevende</h2><p>Sagen begyndte i 2019, hvor de to kvinder mødte hinanden på et opholdssted i Vendsyssel, hvor de begge arbejdede.</p><p>Den forurettede, der er godt ti år yngre end den dømte, var nyuddannet pædagog og forklarede under sagen, hvordan hun hurtigt kom til at se op til den ældre og mere erfarne kollega.</p><p>De to kvinder blev tætte veninder og da den 39-årige blev skilt fra sin mand, begyndte de også at have et seksuelt forhold.</p> <p>Til en begyndelse boede de hver for sig, men efterhånden flyttede den forurettede ind hos den dømte. </p><p>Den forurettede forklarede i retten, at de to kvinder var kærester, men det afviste den dømte under sagen.</p><p>– Hun var en kæmpe hjælp med børnene, forklarede den dømte i retten og beskrev forholdet som tæt, men ikke romantisk.</p><h2>Historien om hjernetumoren</h2><p>Ifølge den forurettede ændrede forholdet karakter, da den dømte fortalte hende, at hun var alvorligt syg med en livstruende hjernetumor.</p><p>Det danske sygehusvæsen kunne ikke gøre mere for hende, og derfor havde hun brug for penge, så hun kunne rejse til Tyskland og modtage dyr, alternativ behandling. </p><p>Den forurettede forklarede, at hun ville gøre alt, hvad hun kunne for at hjælpe, og derfor var det naturligt for hende at sige ja, da den 29-årige bad hende om penge til kræftbehandlingen. </p><p>I begyndelsen handlede det om mindre beløb, som hun lagde ud for den dømte, men efterhånden begyndte hun at optage kviklån for at skaffe flere penge. Ifølge hendes forklaring hjalp den dømte med at udfylde låneansøgningerne.</p> <p>Da hun ikke længere kunne optage flere lån, fordi hun var blevet dårlig betaler, solgte hun sin bil og gav også de penge til den dømte.</p><p>Men behovet for flere penge stoppede ikke.</p><p>– Jeg var så forvirret, forklarede den forurettede under sagen.</p><p>– Det hele var så hektisk, og jeg ville jo bare gøre alt, hvad jeg kunne for at hjælpe, sagde hun. </p><p>Ifølge hendes forklaring handlede det ikke kun om sygdommen, men også om gæld til rockere, konflikter med en eksmand og andre akutte problemer, som hele tiden krævede flere og flere penge.</p><h2>Fra sexvideoer til prostitution</h2><p>Mens presset for at skaffe flere penge voksede, begyndte den forurettede også at tjene penge på sex.</p><p>I retten forklarede hun, at det var den 39-årige, der foreslog, at hun kunne arbejde som webcam-girl.</p><p>Det begyndte med sexvideoer på nettet, men udviklede sig senere til prostitution.</p><p>Retten lagde til grund, at den forurettede over en periode på cirka tre år overførte omkring 787.000 kroner til den dømte.</p><p>Pengene stammede blandt andet fra prostitution, kviklån og offentlige ydelser.</p> <p>Den forurettede beskrev i retten, hvordan hun oplevede et konstant pres for at tjene flere penge.</p><p>– Hun syntes aldrig, jeg tjente nok, forklarede hun.</p><p>– Så kunne jeg have tjent 5.000 kroner dagen før, og alligevel fik jeg at vide, at vi ikke havde penge nok, og så skulle jeg afsted igen.</p><p>Den dømte fastholdt under sagen, at prostitutionen var frivillig, og at pengene indgik i en fælles økonomi.</p><p>Hun forklarede samtidig, at både hende selv og den forurettede havde et omfattende misbrug af kokain.</p><p>Det afviste den forurettede, der stålfast fortalte, at hun aldrig havde rørt stoffer.</p><p>Retten fandt bevist, at den dømte havde et misbrug af stoffer. Omvendt fandt retten det ikke bevist, at den forurettede havde et misbrug.</p><h2>Retten troede på den forurettede</h2><p>Retten lagde i dommen vægt på, at den forurettedes forklaring var troværdig, sikker og detaljeret og samtidig blev understøttet af blandt andet sms-korrespondancer mellem de to kvinder.</p><p>Retten fandt det bevist, at den dømte udnyttede den forurettedes psykiske sårbarhed og afhængighed til at tjene penge på hendes prostitution.</p><p>Retten lagde samtidig til grund, at den dømte vidste, at den forurettede var psykisk sårbar, selvskadende og havde kontakt til psykiatrien.</p><p>Det fremgik også tydeligt af beskeder mellem kvinderne, at den dømte pressede den forurettede til at fortsætte prostitutionen, selv når hun ikke havde lyst, lød det i dommen.</p><h2>En af de første sager efter ny paragraf</h2><p>Dommen er en af de første i landet efter straffelovens bestemmelse om menneskeudnyttelse, som blev indført 1. juni 2022.</p><p>Bestemmelsen blev lavet for at ramme sager, hvor personer udnytter andre økonomisk – blandt andet til prostitution – uden nødvendigvis at bruge fysisk tvang, trusler eller frihedsberøvelse.</p><p>Tidligere kunne den type sager være vanskelige at placere juridisk, fordi de hverken passede helt ind under reglerne om rufferi eller menneskehandel.</p><p>Med den nye bestemmelse blev det derfor muligt at straffe tilfælde, hvor personer udnytter andre mennesker under åbenlyst urimelige vilkår – også selv om der ikke er tale om klassisk tvang.</p><h2>Sag vil blive forelagt for statsadvokaten</h2><p>Selvom anklagemyndigheden fik medhold i store dele af sagen, er spørgsmålet om en anke allerede aktuelt.</p><p>Anklager Stine Eriksen siger, at hun er tilfreds med, at retten har dømt den 39-årige for menneskeudnyttelse.</p><p>– Retten lægger sig et godt stykke hen ad vejen op ad det, som anklagemyndigheden har påstået, siger hun.</p><p>Hun oplyser samtidig, at hun uden tvivl vil forelægge sagen for statsadvokaten, som nu skal vurdere, om dommen skal ankes.</p><p>– Dels fordi retten har gjort så stor en del af straffen betinget, og dels fordi det er en bestemmelse, der ikke har været anvendt særligt mange gange før, og hvor der derfor endnu ikke findes landsretspraksis, siger Stine Eriksen.</p><p>Den dømte bad efter domsafsigelsen om betænkningstid i forhold til, om hun ønsker at anke dommen.</p>",
-  "link": "https://www.tv2nord.dk/hjoerring/fik-psykisk-sarbar-kvinde-til-at-prostituere-sig-e114d",
-  "published": "Tue, 19 May 26 10:26:00 +0200",
-  "guid": "https://www.tv2nord.dk/hjoerring/fik-psykisk-sarbar-kvinde-til-at-prostituere-sig-e114d",
+  "title": "Karneval opruster med en hær af containere",
+  "description": "<p>Kaos, kærlighed og karneval fylder lørdag Aalborgs gader, når Aalborg Karneval – Nordeuropas største karneval – bevæger sig gennem byen med deltagere og publikum i hundredtusindvis.</p><p>Og så kan det jo være svært at se skoven for bare træer. Eller affaldscontainerne for fulde folk.</p><p>For det er velkendt, at der bliver efterladt store mængder affald, tomme breezerflasker og knust glas.</p><p>Fire dage før festen for alvor eksploderer langs Vesterbro og i Kildeparken, er der derfor blevet opstillet 450 containere i Kildeparken.</p><p>Målet er klart:</p><p>– Uanset hvor i parken du står, skal du kunne se en skraldespand, siger Malthe Madsen, bæredygtighedskoordinator hos Aalborg Karneval.</p> <p>– Vi fokuserer på, at tilgængeligheden for vores gæster er helt i top. Så der ligger et stort arbejde i det – både for os hos Aalborg Karneval, men også for vores samarbejdspartner Nordværk, forklarer han.</p><h2>Stor fest - store mængder affald</h2><p>Den aalborgensiske folkefest har i år fået et par mærkbare ændringer.</p><p>Vestby-ruten starter i år fra Fjordmarken og ikke fra Haraldslund. Som vanligt starter paraderne også i Nørresundby og den østlige del af centrum – i år fra Østerport – inden det hele smelter sammen på Vesterbro.</p><p>Der er altså nok af kilometer, hvor Malthe Madsen kan opstille skraldespande. Og nok af kilometer at svine til på.</p><p>– Vi har først og fremmest fokus på, at gæsterne bruger skraldespandene frem for at smide affaldet på jorden. Derfor er der sat mange skraldespande op både i Kildeparken og langs paraderuten, siger han.</p><p>I år har det også fået opmærksomhed, at boligforeningerne langs ruten selv skal betale for at få hegnet deres baggårde af, hvis de vil undgå tis og bræk i haverne – noget, som tidligere var gratis.<br /> <a href=\"https://www.tv2nord.dk/aalborg/urimeligt-at-torre-den-af-pa-beboerne-65974\">Læs mere om det hér:</a></p>",
+  "link": "https://www.tv2nord.dk/aalborg/karneval-opruster-med-en-haer-af-containere-dbf6f",
+  "published": "Tue, 19 May 26 11:57:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/karneval-opruster-med-en-haer-af-containere-dbf6f",
   "category": "No category"
  },
  {
-  "title": "EH Aalborg henter tidligere ungdomslandsholdsspiller og Berlin-spiller",
-  "description": "<p>EH Aalborg forstærker truppen med den 23-årige venstre back Julie Søndergaard Lilholt.</p><p>Det oplyser håndboldklubben i en pressemeddelelse. </p><p>Bagspilleren har senest spillet to sæsoner hos tyske BVB Füchse Berlin, som hun dog stoppede hos forud for den netop afsluttede sæson på grund af en skulderskade. </p><p>Det seneste år har hun derfor fokuseret på genoptræning, og det er altså gået så godt, at hun nu har sikret sig en kontrakt med det nordjyske ligahold.</p><p>- Jeg har valgt EH Aalborg, fordi det er en klub med store ambitioner, gode værdier og et professionelt miljø, som jeg i høj grad kan se mig selv være en del af. Jeg har haft en rigtig god fornemmelse af klubben, og jeg føler, at de værdier, der bliver arbejdet ud fra i EH Aalborg, matcher mine egne rigtig godt, udtaler hun selv.</p><p>Julie Søndergaard Lilholt har desuden spillet 23 kampe for det danske ungdomslandshold. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/eh-aalborg-henter-tidligere-ungdomslandsholdsspiller-og-berlin-spiller-3bd2c",
-  "published": "Tue, 19 May 26 09:58:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/eh-aalborg-henter-tidligere-ungdomslandsholdsspiller-og-berlin-spiller-3bd2c",
+  "title": "'Kun et spørgsmål om tid'",
+  "description": "<p>Faktisk er den her allerede.</p><p>Og selvom ulve ikke formerer sig i samme hastighed som rotter eller kaniner, vokser bestanden også i Nordjylland.</p><p>I alt 49 ulve er i øjeblikket forskernes bedste bud, lyder det fra Kent Olsen, videnskabelig chef og seniorforsker ved Naturhistorisk Museum Aarhus.</p><h2>DK er blevet &#039;selvproducerende&#039;</h2><p>Tilbage i 2024 var bestanden anslået til 42 ulve, ifølge en artikel, du tidligere kunne læse på <a href=\"https://www.tv2nord.dk/aalborg/historisk-mange-ulve-i-danmark-sa-mange-holder-til-i-nordjylland\">tv2nord.dk</a>.</p> <p>Her blev der talt om “historisk mange” ulve.</p><p>- Danmark er begyndt at blive selvproducerende af ulve. De næste vil nok være danskfødte. Det er kun et spørgsmål om tid, før vi får ynglende ulve nord for fjorden, lød det sidste år fra Peter Sunde, professor og ulveekspert ved Aarhus Universitet.</p><p>Dengang var der én enlig hanulv i Råbjerg samt et ulvepar i Lille Vildmose.</p> <h2>Her holder ulvene til</h2><p>I dag er der registreret 11 ulverevirer i Danmark fordelt på syv kobler, tre par uden hvalpe og en enlig revirhævdende hanulv.</p><p>Et ulvekobbel er en flok ulve, der typisk består af et forældrepar og deres afkom fra de seneste to år.</p><p>I Lille Vildmose blev der født mindst to hvalpe i 2025, og forskerne forventer endnu et kuld i år.</p><p>Længere nordpå, i Råbjerg-reviret, forventes der også hvalpe i år, hvis det ikke allerede er sket.</p><p>Og udviklingen ser ud til at fortsætte.</p><p>- Nord for Limfjorden er der flere områder, som er velegnede til ulve. Der er fred og ro samt en stor bestand af krondyr, sagde professoren sidste år.</p><p>Han pegede blandt andet på Thy, Hanstholm, Rold Skov, Lille Vildmose og Råbjerg som særligt attraktive områder for ulve, fordi de søger mod steder med store skov- og hedeområder.</p><p>På landsplan forventes der mindst ti kuld ulvehvalpe alene i år.</p><p>- Vi forsøger at opgøre forårsbestanden lige inden, der fødes hvalpe, altså ved udgangen af april, siger Kent Olsen.</p>",
+  "link": "https://www.tv2nord.dk/nordjylland/kun-et-sporgsmal-om-tid-7806b",
+  "published": "Tue, 19 May 26 11:07:00 +0200",
+  "guid": "https://www.tv2nord.dk/nordjylland/kun-et-sporgsmal-om-tid-7806b",
   "category": "No category"
  },
  {
-  "title": "Vejarbejde på hovedfærdselsåre",
-  "description": "<p>Det betyder, at vejarbejdet forventeligt er færdig i god tid, inden Porscher og Lamborghini&#039;er skal mod Danmarks nordligste by i uge 29, også kendt som Hellerup-ugen. </p><p>Til gengæld får de bedre asfalt.</p><p>Allerede tirsdag, 26. maj, starter Vejdirektoratet på Rute 40, Skagensvej, med at udskifte asfalten, oplyser Vejdirektoratet.</p><p>Det er vejen mellem byerne Elling og Jerup, der skal have en overhaling.</p><p>I mellemtiden bliver der omkørsel via Tuenvej, men her forsikrer Vejdirektoratet om, at der bliver tydeligt skiltet.</p><p>&#039;Vejdirektoratet beklager på forhånd de gener, som arbejdet måtte medføre for trafikanterne.&#039;</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/vejarbejde-pa-hovedfaerdelsesare-7bc3a",
-  "published": "Tue, 19 May 26 09:56:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/vejarbejde-pa-hovedfaerdelsesare-7bc3a",
-  "category": "No category"
- },
- {
-  "title": "Ny robot fik sin ilddåb ved et tilfælde",
-  "description": "<p>Både Nordjyllands Politi, Nordjyllands Beredskab og bombeenheden EOD måtte ile til hjælp, da man frygtede eksplosion.</p><p>For at undgå katastrofen brugte beredskabet en helt ny type af robot.</p><p>Endda en, som slet ikke burde være i drift endnu.</p><p>- Det var en meget speciel hændelse, vi aldrig har prøvet før, forklarer Anders Brosbøl, som er indsatsleder fra Nordjyllands Beredskab på hændelsen.</p> <h2>Ingen turde</h2><p>Det var den såkaldte LUF Nano-robot, der derfor fik sin ilddåb og rullede ind. Det er en slukningsrobot fra 2025, som blandt andet har en vandkanon og kan køre på stigninger. &#039;Voldsomt effektiv&#039;, som Anders Brosbøl udtrykker det.</p><p>Den blev brugbar, fordi en mekaniker havde uheldigvis tabt et stykke værktøj i et større varevognsbatteri - som kortsluttede.</p><p>- Det, der stod tilbage, var et stort batteri med 127 ampere. Deri lå en gaffelnøgle, som ville kunne røre den anden pol. Gør den det, kan den eksplodere eller slå så voldsomme stikflammer, at det virker som en eksplosion, forklarer han og kalder det en &#039;fastlåst situation.&#039;</p><p>Anmeldelsen kom 15.53 i  går mandag, og herefter var gode råd dyre.</p><p>- De mekanikere, der var der, turde ikke. EOD var heller ikke meget for det. Så vi var nødt til at være lidt opfindsomme og have sikkerheden i orden.</p> <h2>Held i uheld</h2><p>Luf Nano-robotterne er som nævnt ikke taget i drift endnu, fordi alle ikke er oplært. Men ved tilfældets gunst er indsatsleder Anders Brøsbøl også &#039;projektleder&#039; på udrulningen af de nye robotter. Han ringede derfor til en kollega, der er såkaldt &#039;superbruger&#039;.</p><p>Og så hjalp det jo også at brandstationen lå en spytklat, lige på den anden side af vejen.</p><p>- Det var rigtig godt at vi kunne bruge den. Derudover havde vi to røgdykkere, vi kunne sætte ind som en ’knivtang’ og sikre værkstedet. Der var nemlig stor risiko for værkstedet med både værktøj og elbiler, skulle eksplosionen ske. Så det var en lidt prekær situation, lød den afmålte nordjyske analyse fra indsatslederen.</p><p>Én person, medarbejderen på værkstedet, blev forbrændt i forbindelse og blev derfor bragt til sygehuset for tjek.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/ny-robot-fik-sin-ilddab-ved-et-tilfaelde-c3c62",
-  "published": "Tue, 19 May 26 09:29:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/ny-robot-fik-sin-ilddab-ved-et-tilfaelde-c3c62",
-  "category": "No category"
- },
- {
-  "title": "Her er rekordmange i job",
-  "description": "<p> Der er gang i jobfesten i Aalborg.</p><p>En ny analyse viser nemlig ifølge Business Aalborg, at der er skabt 2.566 nye jobs i 2025. Udviklingen bekræfter en længerevarende tendens med stigende beskæftigelse i Aalborg.</p><p>Det betyder, at Aalborg har nået et historisk højt niveau for beskæftigelse.</p><p>- Det er positivt, at Aalborg igen sætter rekord. Det viser, at virksomhederne i Aalborg samlet set står stærkt og fortsat skaber arbejdspladser, forklarer Martin Rune Hoxer, erhvervsdirektør i Aalborg Kommune.</p><h2>Aalborg ligger over landsgennemsnittet</h2><p> Fra 4. kvartal 2024 til 4. kvartal 2025 er der skabt 2.566 flere jobs i Aalborg, svarende til en stigning på 2,1 procent. Det er højere end landsgennemsnittet på 1,3 procent.</p><p>Blandt de store kommuner er det kun Aarhus, der har haft en højere vækst, nemlig 2,5 procent. De andre store kommuner har haft lavere vækst, mens Randers og Esbjerg har oplevet tilbagegang.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/her-er-rekordmange-i-job-c893f",
-  "published": "Tue, 19 May 26 09:20:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/her-er-rekordmange-i-job-c893f",
-  "category": "No category"
- },
- {
-  "title": "35-årig anholdt: Forsøgte at køre fra politiet, men kørte galt",
-  "description": "<p>Efter flere anmeldelser af dieseltyveri hos lokalpolitiet i Thisted, besluttede man sig for at sende en patrulje ud for at observere lokalområderne natten til tirsdag. </p><p>Og det endte med at give pote. Lokalpolitiet formåede nemlig at anholde en 35-årig mand, som man også havde anholdt ugen forinden. </p><p>Patruljen blev opmærksom på en bil i nærheden af Snedsted på en byggeplads på Stenbjergvej, og derfor valgte man at følge efter den. </p><p>Da føreren af bilen opdagede patruljen, valgte han at sætte farten op, og det resulterede i, at han forulykkede på Gjersbølvej. </p><p>Da patruljen kom frem til bilen, var føreren forsvundet fra den. Politiet fandt ham derfor kort efter ved en nærliggende å, hvor han forsøgte at skjule sig. </p><p>Derfor anholdt politiet den 35-årig mand, som kommer fra lokalområdet. </p><p>Det viste sig desuden, at der var tale om den samme mand, som politiet havde anholdt ugen forinden i forbindelse med noget tyveri af diesel. </p><p>Bilen, som manden kørte i, indeholdt tomme dunke og værktøj, som politiet formoder kommer fra byggepladsen, hvor man opdagede ham. </p><p>Ifølge Henrik Jensen, der er politikommissær ved lokalpolitiet i Thisted, så giver politiets foreliggende grundlag ikke anledning til en fremstilling af manden.  </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/thisted/35-arig-anholdt-for-anden-gang-pa-to-uger-forsogte-at-kore-fra-politiet-men-korte-galt-1af34",
-  "published": "Tue, 19 May 26 08:52:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/35-arig-anholdt-for-anden-gang-pa-to-uger-forsogte-at-kore-fra-politiet-men-korte-galt-1af34",
-  "category": "No category"
- },
- {
-  "title": "Tabt gods ved Limfjordstunnelen",
-  "description": "<p>Tirsdag morgen er der tabt gods ved Limfjordstunnelen.</p><p>Det betyder, at højre spor er spærret i sydgående retning kort før tunnelen.</p><p>Vejdirektoratet opfordrer derfor til, at man passerer med forsigtighed.</p><p>Opdateres...  </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/tabt-gods-ved-limfjordstunnelen",
-  "published": "Tue, 19 May 26 08:48:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/tabt-gods-ved-limfjordstunnelen",
-  "category": "No category"
- },
- {
-  "title": "Thomas Klimek anmoder om at udtræde af Hjørring Byråd",
-  "description": "<p>Folketingsmedlem Thomas Klimek (S) anmoder om at nedlægge sit mandat og udtræde af Hjørring Byråd.</p><p>Det oplyser han selv i en pressemeddelelse. </p><p>- Min holdning til dobbeltmandater har været kendt i mange år. Et krævende hverv som folketingsmedlem på Christiansborg er uforeneligt med at passe de mange opgaver i lokalpolitikken i Nordjylland. Hvervet som folketingspolitiker kræver mange arbejdstimer i København og den øvrige verden. Det indebærer dertil et vederlag, som er meget velbetalt ift. en gennemsnitlig løn. Derfor bør man bruge al sin energi og arbejdskraft på én ting, og det er at arbejde for Nordjylland og nordjyderne i Folketinget og ikke andet, udtaler Thomas Klimek.</p><p>Den nordjyske politiker er i gang med sin tredje periode i Hjørring Byråd, hvor han er medlem af Økonomiudvalget. Tidligere har han været udvalgsformand og viceborgmester. I november 2025 opnåede han genvalg til byrådet med over tusinde personlige stemmer.</p><p>Hvis Hjørring Byråd imødekommer Thomas Klimeks anmodning om at fritage ham for mandatet, vil hans plads i Hjørring Byråds overtages af Socialdemokratiets 1. suppleant Chelina Bagger, der er tidligere medlem af Hjørring Byråd fra 2018 – 2025.</p><p>Hjørring Byråd skal tage stilling til anmodningen på byrådsmødet onsdag d. 27.maj.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/thomas-klimek-anmoder-om-at-udtraede-hjorring-byrad-a61ce",
-  "published": "Tue, 19 May 26 07:39:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/thomas-klimek-anmoder-om-at-udtraede-hjorring-byrad-a61ce",
-  "category": "No category"
+  "title": "Kæresteforhold blev centralt i sjælden sag om menneskeudnyttelse",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/krimi/kaeresteforhold-blev-centralt-i-sjaelden-sag-om-menneskeudnyttelse/6040296?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 19 May 2026 14:01:46 Z",
+  "guid": "38a3bfc2-98be-428d-b8fd-78898dd0a71e",
+  "category": "Retssager"
  },
  {
   "title": "Hvert fejltrin kan koste millioner. Sådan forudser Lars Leer alt fra elpriser til dollarkursen",
@@ -276,20 +284,12 @@
   "category": "Erhverv"
  },
  {
-  "title": "Grøn konflikt ved vestkysten: Skal privat skov ryddes for at genskabe naturen?",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/natur-og-miljoe/groen-konflikt-ved-vestkysten-skal-privat-skov-ryddes-for-at-genskabe-naturen/6041362?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 19 May 2026 03:37:56 Z",
-  "guid": "ed00cccd-46a6-4a49-b082-a7daf95f7740",
-  "category": "Natur"
- },
- {
-  "title": "Færre børn og tomme huse ramte Asaa. Nu samler byen sig om et moderne kulturhus",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/broenderslev/faerre-boern-og-tomme-huse-ramte-asaa-nu-samler-byen-sig-om-et-moderne-kulturhus/6033724?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 19 May 2026 03:47:45 Z",
-  "guid": "580021cd-78c4-4fa1-9e6d-d90a9a314bc1",
-  "category": "Da byen selv tog fat"
+  "title": "AaB-overblik: Uheldige udenlandske keepere",
+  "description": "Få overblikket over de vigtigste AaB-nyheder",
+  "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 22 Apr 2026 07:27:27 Z",
+  "guid": "114fe8e9-35ae-4da8-b642-4f6bc42ab648",
+  "category": "AaB"
  },
  {
   "title": "For spillerne i Aalborg Håndbold kommer sæsonens højdepunkt nu. Christian Linds forberedelse til det har stået på i flere måneder",
@@ -306,6 +306,22 @@
   "published": "Mon, 18 May 2026 03:30:52 Z",
   "guid": "cff19a60-16e0-421a-9657-cc823126f52a",
   "category": "Natur"
+ },
+ {
+  "title": "Grøn konflikt ved vestkysten: Skal privat skov ryddes for at genskabe naturen?",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/natur-og-miljoe/groen-konflikt-ved-vestkysten-skal-privat-skov-ryddes-for-at-genskabe-naturen/6041362?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 19 May 2026 03:37:56 Z",
+  "guid": "ed00cccd-46a6-4a49-b082-a7daf95f7740",
+  "category": "Natur"
+ },
+ {
+  "title": "Færre børn og tomme huse ramte Asaa. Nu samler byen sig om et moderne kulturhus",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/broenderslev/faerre-boern-og-tomme-huse-ramte-asaa-nu-samler-byen-sig-om-et-moderne-kulturhus/6033724?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 19 May 2026 03:47:45 Z",
+  "guid": "580021cd-78c4-4fa1-9e6d-d90a9a314bc1",
+  "category": "Da byen selv tog fat"
  },
  {
   "title": "Historisk fabrik styrter sammen: Nu øjnes der måske en redningsplan",
@@ -380,7 +396,7 @@
   "category": "Naturmødet Hirtshals"
  },
  {
-  "title": "For 12 år siden mødtes Aalborg og Mors-Thy i to semifinaler, som de aldrig glemmer. Nu sker det igen",
+  "title": "For 13 år siden mødtes Aalborg og Mors-Thy i to semifinaler, som de aldrig glemmer. Nu sker det igen",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/sport/for-12-aar-siden-moedtes-aalborg-og-mors-thy-i-to-semifinaler-som-de-aldrig-glemmer-nu-sker-det-igen/6035243?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sun, 17 May 2026 03:31:47 Z",
@@ -402,21 +418,5 @@
   "published": "Sat, 16 May 2026 03:45:47 Z",
   "guid": "05abf64d-1299-4909-8c69-1a9c8794cacc",
   "category": "Erhverv"
- },
- {
-  "title": "Sara kendte ikke sine naboer. I dag bor hun et sted, hvor det er svært at lade være",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/byudvikling/sara-kendte-ikke-sine-naboer-i-dag-bor-hun-et-sted-hvor-det-er-svaert-at-lade-vaere/6030243?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 16 May 2026 03:42:45 Z",
-  "guid": "0b88a5fc-d6ea-4101-bbcd-c15704ec4513",
-  "category": "Byudvikling i Aalborg"
- },
- {
-  "title": "Analyse: Vækst, vækst, vækst - nu mangler Nordjylland ammunitionen",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/samfund/analyse-vaekst-vaekst-vaekst-nu-mangler-nordjylland-ammunitionen/6038330?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 16 May 2026 03:35:44 Z",
-  "guid": "4ce16a88-0f75-41e7-8b2a-eaf4cf2ff2b2",
-  "category": "Nordjylland"
  }
 ]
