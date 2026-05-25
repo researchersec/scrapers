@@ -1,5 +1,14 @@
 [
  {
+  "title": "Dødsulykke på Læsø er anden faldskærmsulykke på to måneder",
+  "description": "Dødsulykker indenfor faldskærmsudspring er usædvanlige, ifølge Dansk Faldskærms Union.",
+  "link": "https://www.dr.dk/nyheder/indland/doedsulykke-paa-laesoe-er-anden-faldskaermsulykke-paa-maaneder",
+  "published": "Mon, 25 May 2026 12:30:00 GMT",
+  "guid": "urn:dr:umbraco:article:a58d1cf7-2578-4e3c-a783-722501ada590",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/yjhpz0bj/20250901-202038-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Truer kommune med retssag: Musikken skal skrues ned, lyder det fra beboere",
   "description": "En gruppe fastboende i Skagen er meget trætte af støjniveauet, når folk fra nær og fjern kommer til byen for at feste.",
   "link": "https://www.dr.dk/nyheder/indland/truer-kommune-med-retssag-musikken-skal-skrues-ned-lyder-det-fra-beboere",
@@ -171,13 +180,44 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/iatkrreg/jesper_loebehjul1_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Kendt skulptur knækkede flere gange - men nu bliver den forhåbentlig stående",
-  "description": "Nu er skulpturen 'Vingen' i Aalborg kommet op at stå igen, denne gang med mere sikkerhed.",
-  "link": "https://www.dr.dk/nyheder/indland/kendt-skulptur-knaekkede-flere-gange-men-nu-bliver-den-forhaabentlig-staaende",
-  "published": "Fri, 08 May 2026 11:16:00 GMT",
-  "guid": "urn:dr:umbraco:article:8a9c2b56-d67c-4116-8494-36861e0523af",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/dhcp4gf1/nasn_a_aalborg-vingen-mov-00010813_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Tabt gods blokerer spor på E45",
+  "description": "<p>Mandag klokken 14.57 er det ene spor spærret på E45 Nordjyske Motorvej mellem afkørsel 27 Aalborg C og afkørsel 28 Aalborg S. </p><p>Det oplyser Vejdirektoratet, der desuden advarer bilisterne og opfordrer til, at man passer på. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/tabt-gods-blokerer-spor-pa-e45-23c52",
+  "published": "Mon, 25 May 26 15:08:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/tabt-gods-blokerer-spor-pa-e45-23c52",
+  "category": "No category"
+ },
+ {
+  "title": "Militærhelikopter kredsede i luften over Aalborg - nu forklarer Forsvaret hvorfor",
+  "description": "<p>Mandag formiddag og over middag har flere grønne militærhelikoptere været i luften over Aalborg ved Fjordparken og Mølholm i den vestlige del af byen.</p><p>Der er dog tale om noget så udramatisk, lyder det fra Flyvestation Aalborg.</p><p>Her er meldingen, at helikopterne har været i luften, fordi de er fløjet til og fra en anden lokation, hvor de har fået en udskiftning af stel.</p><p>Det bekræfter pressetjenesten hos flyvestationen over for TV2 Nord.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/militaerhelikopter-kredsede-i-luften-over-aalborg-nu-forklarer-forsvaret-hvorfor-2f37e",
+  "published": "Mon, 25 May 26 13:44:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/militaerhelikopter-kredsede-i-luften-over-aalborg-nu-forklarer-forsvaret-hvorfor-2f37e",
+  "category": "No category"
+ },
+ {
+  "title": "Haveaffald spærrede spor tæt på Limfjordstunnelen",
+  "description": "<p><em>Opdateret klokken 13.44, da alle spor er farbare igen.</em></p><p>Mandag omkring klokken 13.26 er der kun to farbare spor mellem afkørsel 24 Øster Uttrup vej og Limfjordstunnelen på E45 fra Aalborg mod Nørresundby. </p><p>Det er fordi, der er tabt haveaffald, at det ene spor er spærret. </p><p><a href=\"https://trafikkort.vejdirektoratet.dk/index.html\" target=\"_blank\">Vejdirektoratet </a>advarer derfor bilister om at sænke hastigheden og være opmærksom. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/haveaffald-spaerrer-spor-taet-pa-limfjordstunnelen-a4341",
+  "published": "Mon, 25 May 26 13:29:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/haveaffald-spaerrer-spor-taet-pa-limfjordstunnelen-a4341",
+  "category": "No category"
+ },
+ {
+  "title": "8-årige Oliver samlede pant til karneval: Næste år vil han samle ind til hjemløse",
+  "description": "<p>Oliver Helweg Schneider havde længe ønsket sig en en &#039;FIFA World Cup Official Trophy&#039; i LEGO. </p><p>Der var bare lige det, at den kostede 1.199 kroner. </p><p>- Jeg begyndte med at bede om pokalen, og efterfølgende ønske mig den, men den var alt for dyr. Så spurgte jeg min far om, hvordan jeg ellers kunne få den, og han sagde, der var karneval, og at vi kunne samle flasker. Det sagde jeg ja til, fortæller Oliver Helweg Schneider. </p> <h2>Samlede flere 1000 kroner ind </h2><p>Derfor tog han og faren til den store fest i Aalborg midtby for at forsøge at samle lidt ind til den store VM-pokal. Her blev Oliver iført et skilt på maven, hvor der var et billede af pokalen og en tekst, der sagde &#039;Må jeg få din pant&#039;. </p><p>Inden havde de snakket om, at det ville være dejligt, hvis de kunne samle 300-400 kroner ind til pokalen, men det blev altså væsentligt mere, som den unge herrer endte med. </p><p>- Jeg samlede 2838 kroner sammen i alt, fortæller Oliver Helweg Schneider. </p> <h2>Folk donerede penge til pokalen </h2><p>Ud af beløbet kom alle pengene dog ikke fra at samle flasker. I stedet kom 1200 kroner fra Mobilpay, da flere af de glade karnevalsdeltagere selv spurgte, om ikke de måtte støtte Oliver og sende nogle penge til hans VM pokal. </p><p>- Jeg havde skrevet mit nummer på Olivers arm i tilfælde af, at han skulle blive væk, og det opdagede nogle af gæsterne, så de spurgte, om ikke de måtte mobilpay, fordi de ikke havde nogle flasker, fortæller hans far Christian Helweg. </p> <p>Flere af deltagerne hjalp desuden Oliver med at give ham alt deres pant, ligesom nogle hjalp ham med at få pant fra andre. </p><p>Oliver Helweg Schneider og hans far kunne derfor kører fra karneval med 12-13 sække med pant, som de kørte direkte ud til pantstationen i Aalborg med. </p><p>Efterfølgende kørte de i Bilka, og her kunne Oliver ikke blot erhverve sig sin nye VM pokal i LEGO, han havde nemlig også råd til at købe to LEGO-biler. </p> <h2>Vil gøre det igen næste år </h2><p>Inden lørdagens karneval havde Oliver Helweg Schneider kun set den store fest fra sidelinjen, og derfor blev han også overvældet over at befinde sig midt i orkanens øje. </p><p>Men udover en bil og nogle sko, der stadig lugter af karneval, så var det altså en god dag og en god oplevelse for den otteårige dreng. Derfor har han også allerede nu planer om at samle pant ind igen næste år. Her skal alle pengene dog ikke gå til ham selv. </p> <p>Oliver Helweg Schneider fortæller nemlig, at han næste år vil samle ind til et godt formål - og så kun beholde nogle af pegene selv. </p><p>- Så vil jeg samle ind til hjemløse eller sådan. Nogle der ikke har ikke så meget.  Jeg har både en gigantisk globus og snart den her kæmpe pokal, og de har ikke sådan noget der, så måske kan jeg hjælpe dem med at få noget mere eller få et hjem igen, fortæller han. </p>",
+  "link": "https://www.tv2nord.dk/aalborg/8-arige-oliver-samlede-pant-til-karneval-naeste-ar-vil-han-samle-ind-til-hjemlose-3c0f9",
+  "published": "Mon, 25 May 26 11:41:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/8-arige-oliver-samlede-pant-til-karneval-naeste-ar-vil-han-samle-ind-til-hjemlose-3c0f9",
+  "category": "No category"
+ },
+ {
+  "title": "Sommerlig dag i det meste af Nordjylland, men et sted truer skyerne",
+  "description": "<p>Det var en nærmest en sommerlig start på dagen, som nordjyderne fik anden pinsedag, hvor temperaturen allerede fra morgenstunden lå på omkring de 15 grader. </p><p>I løbet af dagen vil der være en jævn til nogenlunde frisk vind flere steder, men temperaturen vil altså komme op og ramme 22 grader nogle steder. </p><p>Ud på eftermiddagen vil der komme skyr til Nordjylland, og det kvæler altså temperaturen en smule mod vest, så temperaturen vil ligge på omkring 15 grader nogen steder. </p><p>Ellers bliver det en lun aften i resten af det nordjyske med omkring 18 til 20 grader, oplyser Jacob Mouritzen fra TV2 Vejret. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/sommerlig-dag-i-det-meste-af-nordjylland-men-et-sted-truer-skyerne-a0027",
+  "published": "Mon, 25 May 26 10:57:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/sommerlig-dag-i-det-meste-af-nordjylland-men-et-sted-truer-skyerne-a0027",
+  "category": "No category"
  },
  {
   "title": "Store hjemrejsedag giver ekstra pres i trafikken",
@@ -220,44 +260,20 @@
   "category": "No category"
  },
  {
-  "title": "Mens Danmark venter på en regering: Nordjysk SF-profil bærer tung rolle bag kulissen",
-  "description": "<p>Mens alt politisk arbejde er sat i dvale, og regeringsforhandlingerne buldrer derudaf, er der nok at se til for det nordjyske folketingsmedlem og gruppeformand for SF, Theresa Berg Andersen. </p><p>Som gruppeformand har hun ansvaret for partiets 20 medlemmer, og som partiformand, Pia Olsen Dyhrs, højrehånd er hun med direkte ved forhandlingsbordet. </p><p>- Der er ingen tvivl om, at jeg ikke er gået på sommerferie. Jeg synes virkelig, det har været benhårdt at skulle have alle de her kasketter på, fortæller den nordjyske politiker, da hun besøger studiet på TV2 Nord til Ugens Gæst. </p><h2>Med ved forhandlingsbordet</h2><p>Det er kun fire år siden, at Theresa Berg Andersen blev valgt ind i folketinget for SF. Kun to et halvt år efter blev hun så gjort til gruppeformand. Siden har hun været med helt tæt på, når det gjaldt. </p><p>Det var da også hende, som under de to første kongerunder var med partiformanden inde hos kongen for at pege på, hvem SF så som kongelig undersøger. Både de to første gang og senest lørdag, har partiet peget på Mette Frederiksen (S). </p> <p>Det er også hende, som sidder med ved forhandlingsbordet, når partierne skal forsøge at finde frem til en kommende regering. </p><p>- Der er da ingen tvivl om, at jeg føler mig enormt privilegeret. Det der med at få lov til at være med derinde, hvor tingene sker. Der, hvor jeg kan få lov til at være med til at påvirke.</p><p>- Men samtidig synes jeg også, at det er en lille smule skræmmende, for det er et enormt ansvar. Nogle har stemt på mig og SF. Jeg taler på vegne af nogen, siger Theresa Berg Andersen. </p><h2>Kører på to ben</h2><p>Der er gået historisk lang tid med at danne en regering. Mandag er der gået 62 dage, hvor det politiske arbejde er blevet sat på pause, og der har siden valget været tre kongerunder, hvor først Mette Frederiksen blev peget på som kongelig undersøger, herefter Troels Lund Poulsen (V), og senest Mette Frederiksen igen. </p><p>- Det betyder jo ikke, at vi har siddet tilbage, men at vi har fået en meget meget svær opgave, hvor der er rigtig meget på spil, og især nu hvor det hele ser så mudret ud, hvor Lars Løkke Rasmussen (M) har en enorm magt, fordi det hverken er rødt eller blåt. Det har kompliceret en hel del, og det er også det, den her forhandling bærer præg af. </p><p><strong>Du kan se hele interviewet med Theresa Berg Andersen (SF) her: </strong></p> <p>Selv ser Theresa Berg Andersen det som, at tingene kører på to ben. Hendes rolle som Pia Olsen Dyhrs højrehånd ved forhandlingsbordet, og hendes rolle som gruppeformand, hvor det blandt andet er hendes ansvar at have samtaler med medlemmerne for senere at kunne fordele ordførerskaber i partiet og afholde introforløb for de nye medlemmer. </p><p>- Alt er jo sat i stå af det politiske arbejde. Vi har jo ikke engang udvalgsarbejde, fordi der er ingen, der ved, hvilket ordførerskab man får. Så det har sådan set været mit job at holde mine kollegaer lidt i gang. Så på den måde har der været lagt mange ting på mine skuldre, lyder det.</p> <h2>Leder af lille børnehave og leder af kæmpe børnehave</h2><p>Men hvorfor det netop er blevet hende, som for kun halvandet år siden blev gruppeformand, tror hun selv stammer fra sit tidligere arbejde som leder af en daginstitution i Vesthimmerlands Kommune, hvor hun var i 15-20 år. </p><p>- Det med at skabe igennem nogen, har jeg været enormt optaget af igennem hele min karriere, også inden jeg kom i Folketinget. Det er det arbejde, jeg fortsætter med, og som Pia (Olsen Dyhr, red.) siger, hun har brug for. Jeg plejer at sige for sjov og med kærlighed, at jeg har været leder af en lille børnehave, nu er jeg leder af en kæmpe børnehave - på godt og ondt.</p><p>Som tidligere leder af en børnehave kan nogle af de oplevelser, man får som folketingspolitiker da også virke store, spændende og helt specielle. </p> <h2>&#039;God weekend du&#039;</h2><p>Særligt var det for Theresa Berg Andersen, da hun de to første kongerunder var med inde hos kongen. Den seneste kongerunde lørdag, kunne hun ikke nå med til. </p><p>Selv er hun nemlig royalist og stor tilhænger af kongehuset. Alligevel kan det dog være svært som en gæv nordjyde altid lige at huske, at de royale skal tiltales &#039;de&#039; og &#039;dem&#039; og ikke &#039;du&#039;. </p><p>- Det med at skulle sige &#039;de&#039; og &#039;dem&#039;, det falder mig ikke altid nemt, så jeg slutter faktisk min sidste kommentar hos kongen sidste gang af med at sige &#039;god weekend du&#039;, fortæller hun. </p> <p>Efter kongerunden lørdag kunne Pia Olsen Dyhr så ringe og fortælle, at hun skulle hilse fra kongen, som ikke havde glemt Theresa Berg Andersens afsked. </p><p>- Så jeg har måske ikke gjort ham helt sur, siger hun med et grin. </p><p>Regeringsforhandlingerne gik i gang søndag, hvor Socialdemokratiet, Moderaterne, SF og Radikale Venstre mødtes på Marienborg. </p><p>Mandag er der fortsat ikke blevet dannet en regering. Skulle SF ende i en regering, går den nordjyske folketingspolitiker dog ikke med en drøm om at blive minister. Skulle Pia Olsen Dyhr dog ringe med tilbuddet, så tror hun ikke selv, at hun kunne sige nej. </p>",
-  "link": "https://www.tv2nord.dk/vesthimmerland/mens-danmark-venter-pa-en-regering-nordjysk-sf-profil-baerer-tung-rolle-bag-kulissen-6a6dc",
-  "published": "Mon, 25 May 26 07:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/vesthimmerland/mens-danmark-venter-pa-en-regering-nordjysk-sf-profil-baerer-tung-rolle-bag-kulissen-6a6dc",
-  "category": "No category"
+  "title": "19-årige Oliver har skrevet sig ind i historiebøgerne - nu bliver han belønnet",
+  "description": "Den 19-årige aalborgenser Oliver Dejbjerg Larsen har gang i yderst lovende karriere, der allerede har nået et par imponerende milepæle",
+  "link": "https://nordjyske.dk/nyheder/sport/19-aarige-oliver-har-skrevet-sig-ind-i-historieboegerne-nu-bliver-han-beloennet/6050534?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 25 May 2026 12:57:16 Z",
+  "guid": "7997e71f-2d41-4a32-bd77-335a5cc49dbe",
+  "category": "Karriere"
  },
  {
-  "title": "Fik koreansk kvinde til at flytte til Danmark",
-  "description": "<p>Tilbage i 2015 lægger Lisbeth Brader fra Brønden i Vendsyssel et billede af sine to hundehvalpe på sin Instagram. </p><p>Billedet får fem &#039;likes&#039;, og det bemærkelsesværdige er, at de ikke kommer fra venner og familie, men fra fremmede i Australien, Los Angeles og Norge.</p><p>Lisbeth Brader er overrasket over, at billedet når så langt ud, og derfor lægger hun næste dag endnu et billede op af en af familiens andre hunde, Oskar.</p> <p>Seks &#039;likes&#039; tikker ind fra England, Australien, Miami, Portugal, Los Angeles og København. </p><p>Det får hende til at oprette en Instagramprofil, der kun skal være for hendes hunde. Profilen kalder hun &#039;milleapso&#039; efter en af sine hunde Mille, som er af racen Lhasa Apso.</p><p>Senere kommer også bomuldshunden Charlie til flokken.</p><p>På daværende tidspunkt har Lisbeth Brader ikke fantasi til at forestille sig, hvad Instagram-profilen &#039;milleapso&#039; kommer til at betyde de næste mange år. </p><h2>Hjalp med en serbisk hundefødsel</h2><p>Hundeprofilen på Instagram er et hit, og allerede året efter i 2016 følger 8000 personer fra hele verden med i Lisbeth Braders hundes liv.</p><p>- Det var jo helt vildt. Jeg tror, folk i udlandet var meget glad for vores hundebilleder, fordi der er så meget natur, hvor vi bor - så billederne var af hundene i skoven, på græsset og ved vores sø, siger hun.</p> <p>I takt med at følgerantallet stiger, begynder folk at se Lisbeth som en slags hundeguru og skriver til hende med alverdens spørgsmål.</p><p>- En følger fra Serbien skrev, at hendes hund lige havde født, men at moren rystede. Jeg understregede jo, at jeg ikke var læge, men at jeg synes, det lød som kalkchok, og at hun skulle få fat i dyrelægen. Det gjorde hun, hvilket betød, at hunden blev rask, og derefter skrev hun tusind tak til mig, fortæller Lisbeth Brader. </p> <p>Alle beskeder, der tikker ind, er søde, selvom det er overvældende pludselig at blive behandlet som noget særligt, fordi man lægger billeder op af sine hunde.</p><p>- Vi får julekort hvert år fra hunde rundt i verden, og vi får tilbud om gratis hundemad, vitaminer, tøj, hundeartikler og så videre for, at vi så skulle lægge billeder op med dem, lyder det fra den nordjyske hundemor, som dog har holdt sig fra at indgå samarbejder.</p><h2>Forelsket i dansk natur</h2><p>Og så er der de bekendtskaber, som udvikler sig til stærke venskaber.</p><p>En dag i 2019 får Lisbeth Brader en besked fra en anden hundeprofil, som hundemoren Eun Sun Park står bag. </p> <p>Dengang 32-årige Eun Sun Park er oprindeligt fra Sydkorea, men bor på daværende tidspunkt i New York. Efter at have set billeder fra Danmark på Lisbeths Instagram-profil har hun søgt ind på Designskolen Kolding og spørger Lisbeth Brader, om hun kan hjælpe hende og de to hunde, Sofie og Mustang, med at finde et sted at bo. </p><p>Det kunne hun godt. </p><p>- Sun havde i flere år kommenteret på hundebillederne og var blevet så vild med naturen i Danmark, at hun ville herhen. Det, synes vi jo, var megaspændende, så det skulle vi da hjælpe med, siger Lisbeth Brader. </p><p>Koreaneren og hendes to hunde Sofie og Mustang flytter ind hos Lisbeth Braders kusine i Kolding, og på Designskolen møder Eun Sun Park sydkoreanske Hoyoung, som hun siden hen er blevet gift med.</p> <h2>Holder juleaften i Nordjylland</h2><p>I de efterfølgende år udvikler Eun Sun Park og Lisbeth Braders venskab sig. </p><p>Koreaneren er flere gange på besøg i Danmark, hvor hun bor hos den nordjyske familie og nyder den danske natur. </p><p>De køber honning i vejboder, plukker bær og besøger andre hundevenner fra Instagram.</p> <p>Blandt andet holder de to familier en juleaften sammen i Danmark, og så besøger Eun Sun Parks forældre også Danmark og Lisbeth Braders familie.</p><p>På trods af store kulturelle forskelligheder er det altid en fornøjelse for både hunde og mennesker.</p> <p>- Vores Mille og hendes Mustang er helt forelskede, og de leger alle sammen så godt sammen, fortæller Lisbeth Brader og tilføjer: </p><p>- Hun ringer sommetider og siger, at hun savner os og Danmark så meget, og at de så gerne vil være her.</p><p>Drømmen for nu 39-årige Eun Sun Park, som igen bor i Sydkorea, er at undervise i arkitektur på et dansk universitet, men fordi hun endnu ikke mestrer sproget til fulde, er der et stykke vej endnu.</p> <p>Lisbeth Braders hundeprofil &#039;milleapso&#039; nåede på et tidspunkt 10.000 følgere, men fordi andre ting i livet har fyldt de senere år, er hun stoppet med at lægge billeder op, og mange følgere er derfor faldet fra. </p><p>Men de mange minder og venskaber har hun med sig for altid.</p><p><em>TV2 Nord sætter lige nu fokus på hunde i forbindelse med den nye serie &#039;Hundekongen&#039;, som kan ses lige her:</em></p>",
-  "link": "https://www.tv2nord.dk/broenderslev/fik-koreansk-kvinde-til-at-flytte-til-danmark-7a8bd",
-  "published": "Mon, 25 May 26 06:30:00 +0200",
-  "guid": "https://www.tv2nord.dk/broenderslev/fik-koreansk-kvinde-til-at-flytte-til-danmark-7a8bd",
-  "category": "No category"
- },
- {
-  "title": "Pernille tog til byfest: Så blev fire biler smadret på hendes vej",
-  "description": "<p>Hun var sådan set i godt humør, da hun forlod byfesten i Aalestrup natten til lørdag. Men som Pernille Spanggaard Nielsen selv beskriver det, blev stemningen dræbt med ét, da hun kom hjem.</p><p>Mens hun havde slået lidt til søren med sin kæreste, gode venner og resten af byen, havde der nemlig været destruktive kræfter på spil på hendes villavej.</p><p>- Vi kom jo bare hjem til synet af de her biler, der var helt smadret. Det var meget chokerende, siger Pernille Spanggaard Nielsen.</p><h2><strong>Politiet var hurtigt på stedet</strong></h2><p>Fire biler på villavejen var blevet raseret med knuste ruder, voldsomme ridser og et ødelagt tag.</p><p>Noget tyder på, at gerningspersonerne mest af alt har været ude på at ødelægge, for ifølge Pernille Spanggaard Nielsen var der ikke taget noget fra bilerne.</p><p>Pernille Spanggaard Nielsen, der til dagligt er pædagog, og hendes kæreste ejer to biler, der begge gik fri af hærværket. Alligevel påvirker det hende, at hendes venner og naboers biler er blevet ramt.</p><p>- Man tænker jo på, hvad tanken har været med det, og hvad der er foregået i hovederne på dem, der står bag, siger hun.</p><p>Efter at have talt med ejerne til bilerne besluttede Pernille Spanggaard Nielsen og hendes kæreste at politianmelde sagen.</p><p>TV Midtvest har uden held forsøgt at få en kommentar fra Nordjyllands Politi om hændelsen.</p>",
-  "link": "https://www.tv2nord.dk/vesthimmerland/pernille-tog-til-byfest-sa-blev-fire-biler-smadret-pa-hendes-vej-e3c2b",
-  "published": "Sun, 24 May 26 21:05:00 +0200",
-  "guid": "https://www.tv2nord.dk/vesthimmerland/pernille-tog-til-byfest-sa-blev-fire-biler-smadret-pa-hendes-vej-e3c2b",
-  "category": "No category"
- },
- {
-  "title": "Fire nordjyder med til at styre Enhedslisten",
-  "description": "<p>I de seneste ugers debat om regeringsdannelse har der været megen fokus på, hvor stor eller lille indflydelse Enhedslistens hovedbestyrelse vil få, hvis partiet bliver parlamentarisk grundlag for en ny regering. </p><p>Søndag valgte partiet på sit årsmøde ny hovedbestyrelse, og her er Nordjylland repræsenteret med fire medlemmer. </p><p>Det er Per Clausen fra Aalborg, der er medlem af Europa-Parlamentet, regionsrådsmedlem Susanne Flydtkjær fra Aalborg, byrådsmedlem Lasse P. N. Olsen fra Aalborg samt Runa Friis Hansen fra Hjørring. Sidstnævnte har tidligere været byrådsmedlem i Brønderslev. </p><p>Alle fire har tidligere siddet i hovedbestyrelsen. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/fire-nordjyder-med-til-at-styre-enhedslisten-49219",
-  "published": "Sun, 24 May 26 19:50:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/fire-nordjyder-med-til-at-styre-enhedslisten-49219",
-  "category": "No category"
- },
- {
-  "title": "Vinder tysk ultraløb og slår rekord",
-  "description": "<p>Hun er ikke til at stoppe, når hun først kommer i gang. Det har nordjyderne set utallige gange efterhånden, når Stine Rex blandt andet har løbet 1000 kilometer rundt om søen i Aabybro. </p><p>Nu har hun så gjort det igen. Denne gang har hun løbet non-stop i 230 kilometer til ultraløbet Tortour de Ruhr i Tyskland og vandt. Ikke kun vandt hun, det lykkedes hende også at sætte banerekord. </p><p>&#039;Det er fuldstændig uforståeligt,&#039; lyder det fra en utrættelig Stine Rex på<a href=\"https://www.facebook.com/share/r/18pmnevyLp/\"> Facebook. </a></p> <p>Hun løb de 230 kilometer på 26 timer og 38 minutter og formåede endda at komme i mål før mændene under varme forhold. Da de startede løbet lørdag morgen viste termometeret 24 grader og i løbet af de 26 timer nåede temperaturen op på 29 grader. </p><p>&#039;Vi løb i sindssyg varme. Jeg har aldrig haft så mange skavmærker, men det var det hele værd.&#039;</p><p>Til sommer kan du igen følge hende, når hun jagter verdensrekorden ved at løbe 1299 kilometer på ti dage rundt om søen i Aabybro til Nordjylland Gør en Forskel. </p> <p>Samtidig med at Stine Rex og David Stoltenborg forsøger at slå rekorder, vil målområdet omkring TV2 Nord og søen i Aabybro summe af aktiviteter, når der over ti dage skal afholdes events, konkurrencer, koncerter og lege for børn. Alt sammen for at samle ind til foreningen Gestus Nord, der hjælper udsatte børn og familier.</p><p>Sidste år blev der samlet mere end 1,8 millioner kroner ind til trængte børnefamilier, hvilket sidste virkelig rørte Stine Rex. Hun glæder sig da også til strabadserne, når hun for sidste gang vil løbe rundt om søen i Aabybro i den gode sags tjeneste.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/ustoppelige-stine-vinder-tysk-ultralob-og-slar-rekord-00682",
-  "published": "Sun, 24 May 26 17:13:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/ustoppelige-stine-vinder-tysk-ultralob-og-slar-rekord-00682",
-  "category": "No category"
+  "title": "Daniel Lux står bag kæmpe millionprojekt, der skal redde fjorden",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/natur-og-miljoe/daniel-lux-staar-bag-kaempe-millionprojekt-der-skal-redde-fjorden/5998690?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 25 May 2026 09:31:51 Z",
+  "guid": "d78b6402-0787-4198-89ec-30ab8020c105",
+  "category": "Mariager"
  },
  {
   "title": "Politidirektør i modangreb efter hård kritik af politiet",
@@ -402,21 +418,5 @@
   "published": "Fri, 22 May 2026 03:31:47 Z",
   "guid": "8fe53a2a-4cf5-423e-827c-00e41a94eb41",
   "category": "Arbejdsmiljø"
- },
- {
-  "title": "Aalborg Karneval uden promiller: Nu får ædru unge deres egen fest midt i drukfesten",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/fritid-og-livsstil/aalborg-karneval-uden-promiller-nu-faar-aedru-unge-deres-egen-fest-midt-i-drukfesten/6047900?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 22 May 2026 10:46:44 Z",
-  "guid": "dff5bf25-2f35-4a9a-ab66-6ab52d957ca2",
-  "category": "Aalborg karneval"
- },
- {
-  "title": "Sundhedsreformen flytter behandling: Det betyder det for dine besøg hos lægen",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/sundhed/sundhedsreformen-flytter-behandling-det-betyder-det-for-dine-besoeg-hos-laegen/6039155?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 22 May 2026 03:42:51 Z",
-  "guid": "928b5033-df6f-4578-b686-c230d2e33cdf",
-  "category": "Sundhed"
  }
 ]
