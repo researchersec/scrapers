@@ -1,5 +1,14 @@
 [
  {
+  "title": "Vandcykel rejste selv 100 kilometer fra Danmark til Sverige",
+  "description": "Det er ikke første gang, en gul, nordjysk vandcykel rejser alene over Kattegat.",
+  "link": "https://www.dr.dk/nyheder/indland/vandcykel-rejste-selv-100-kilometer-fra-danmark-til-sverige",
+  "published": "Tue, 02 Jun 2026 12:50:00 GMT",
+  "guid": "urn:dr:umbraco:article:61dc98d1-d6c2-4fa6-aaf8-374d42c0a8f9",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/u1ibwffa/johnny-olsen_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Efter overfald: Personale frygter blinde vinkler på psykiatriske afdelinger på nyt sygehus",
   "description": "På blandt andet Retspsykiatrisk Afdeling er der steder, hvor patienter kan stå skjult for personalet.",
   "link": "https://www.dr.dk/nyheder/indland/efter-overfald-personale-frygter-blinde-vinkler-paa-psykiatriske-afdelinger-paa-nyt-sygehus",
@@ -170,17 +179,48 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/o1ohnq3h/20201027-100506-a_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Danskerne har ingen penge i lommerne: 'Det kommer bag på mig hver gang'",
-  "description": "Nets brød ned i går, og det havde konsekvenser for både kunder og erhvervsdrivende, for det er langt fra alle som har kontanter på sig.",
-  "link": "https://www.dr.dk/nyheder/regionale/nordjylland/danskerne-har-ingen-penge-i-lommerne-det-kommer-bag-paa-mig-hver-gang",
-  "published": "Fri, 22 May 2026 15:10:00 GMT",
-  "guid": "urn:dr:umbraco:article:e41cb742-a79a-42fa-9aea-613651a4b63d",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/r3yc2rev/img_6639_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Særlig fællesnævner går igen hos nye Michelin-restauranter",
+  "description": "<p>Stjernehimlen har fået to nye skud over Nordjylland.</p><p>Restaurant Oké på Ruths Hotel og Bach &amp; Nurup i Aalborg skal have det famøse røde Michelin-skilt hængende, efter de mandag fik tildelt hver sin stjerne.</p><p>En ting går igen hos de to restauranter. Smøren, som begge køber ved Aabybro Mejeri.</p><p>- Det er altid rart, når ens kunder får anerkendelse for deres arbejde, fortæller Niels Jørgen Lindhardt, som er medejer af Aabybro Mejeri.</p> <h2>Stjerneregn over Nordjylland</h2><p>Hos mejeriet bruger de samme opskrift fra 1888, hvor smøret syrnes, kærnes og tilføjes Læsø sydesalt, som angiveligt skulle være bestselleren ved Michelin-restauranterne </p><p>- Det er superstort, at vi har fået to nye Michelin-stjerner til Nordjylland, og det er vi jo stolte af at hjælpe til med, siger Niels Jørgen Lindhardt.</p><p>Der er fem nordjyske Michelin-restauranter. Foruden de nyankomne er det Restaurant Villa Vest i Lønstrup, Restaurant Tri i Agger og Alimentum i Aalborg.</p><p>Se øjeblikket, hvor Oké får deres nye stjerne, her.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/saerlig-faellesnaevner-gar-igen-hos-nye-michelin-restauranter-47017",
+  "published": "Tue, 02 Jun 26 13:43:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/saerlig-faellesnaevner-gar-igen-hos-nye-michelin-restauranter-47017",
+  "category": "No category"
+ },
+ {
+  "title": "To personer anholdt i bandekonflikt",
+  "description": "<p>Tirsdag har Nordjyllands Politi foretaget yderligere anholdelser i den verserende bandekonflikt, der trækker tråde til både Nord- og Midtjylland.</p><p>Der er tale om to anholdelser. Begge personer formodes at have haft en direkte rolle i brandattentaterne i henholdsvis Kølvrå den 26. marts og Dronninglund den 30. marts.</p> <p>Politikommissær Mikkel Brügmann fortæller i en pressemeddelelse om de seneste anholdelser:<br /><br />- I samarbejde med Midt- og Vestjyllands Politi har vi i formiddags anholdt to personer, som vi mener har haft en direkte rolle i de to brandattentater fra marts. Der er tale om en 25-årig mand fra Vildbjerg og en 18-årig mand fra Herning. Anholdelserne er resultatet af den efterforskning, der er foretaget i sagen siden branden i Dronninglund.</p> <p>Nordjyllands Politi har i marts anholdt tre personer i samme sager. De tre personer er varetægtsfængslet i skrivende stund.</p><p>De to mænd skal fremstilles i grundlovsforhør onsdag ved Retten i Hjørring, hvor myndighederne anmoder om varetægtsfængsling.</p><p>Derudover har politiet ikke flere kommentarer til sagen.</p><h2>Længerevarende konflikt</h2><p>Som TV2 Nord har afdækket, så er den konflikt, der udspiller sig i øjeblikket i Nordjylland, en konflikt mellem Comanches MC og personer med tilknytning til den forbudte organisation Loyal to Familia.</p><p>Carsten Norton, der er krimikommentator og vært på programmet &#039;Skyggesiden&#039; på TV2, har flere gange fortalt om årsagerne til den aktuelle rocker- og bandekonflikt mellem Comanches MC og personer med tilknytning til det forbudte LTF.</p><p><strong>Se hele interviewet her.</strong></p>",
+  "link": "https://www.tv2nord.dk/hjoerring/to-personer-anholdt-i-bandekonflikt-8d4f0",
+  "published": "Tue, 02 Jun 26 12:40:00 +0200",
+  "guid": "https://www.tv2nord.dk/hjoerring/to-personer-anholdt-i-bandekonflikt-8d4f0",
+  "category": "No category"
+ },
+ {
+  "title": "For 11,5 millioner kroner kan du få et hus, der skal rives ned",
+  "description": "<p>For 11,5 millioner kroner kan du købe 230 tons hakket oksekød.</p><p>Men du kan også købe en græsplæne i Aalborg.</p><p>For på Skovbakkevej ved siden af Aalborgtårnet er en byggegrund sat til salg for hele 11,5 millioner.</p><p>Du får et hus fra 1920 med i prisen, men det er i sådan en stand, at kommunen har meddelt, at det skal rives ned.</p><p>Grunden ligger 80 meter fra Aalborgtårnet og med udsigt over Limfjorden og har en størrelse på 830 kvadratmeter.</p><p>Ifølge Boliga kostede en gennemsnitsvilla på 130 kvadratmeter i Aalborg Kommune i slutningen af 2025 knap 2,09 millioner kroner.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/for-115-millioner-kroner-kan-du-fa-et-hus-der-skal-rives-ned-1aa33",
+  "published": "Tue, 02 Jun 26 12:17:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/for-115-millioner-kroner-kan-du-fa-et-hus-der-skal-rives-ned-1aa33",
+  "category": "No category"
+ },
+ {
+  "title": "Mere end 200 kobberkæder stjålet fra nordjyske kirkegårde",
+  "description": "<p>To kirkegårde i Frederikshavn har i løbet af weekenden været udsat for kobbertyverier. Det oplyser Nordjyllands Politi i en pressemeddelelse.</p><p>Tyvene er sluppet af sted med forskellige kobberkæder fra gravsteder. Der er i alt blevet stjålet over 200 kæder fra kirkegårdene ved Elling Kirke og Fladstrand Kirke.</p><p>- Den her kriminalitet rammer rigtig mange mennesker. Nok har værdien af det stjålne kobber en værdi, som vi anslår til mellem 20.000-25.000 kroner, men en kirkegård og et gravsted har stor betydning og følelsesmæssig værdi for de enkelte mennesker, som det her går ud over, siger politikommissær Peter Skovbak fra politiet i Frederikshavn.</p><p>Derfor ser politiet med stor alvor på hændelserne, og de efterforsker spor, som sagerne kaster af sig, skriver de i pressemeddelelsen.</p><p>Det igangsatte efterforskningsarbejde har endnu ikke resulteret i afgørende spor eller deciderede gennembrud.</p><p>- Derfor vil jeg også gerne række ud til offentligheden. Det kan nemlig være, at der er nogle borgere, som har set eller hørt noget, fordi de måske var i områderne omkring kirkerne i løbet af weekenden, siger Peter Skovbak.</p><p>Har man oplysninger eller yderligere anmeldelser i sagen, kan man kontakte politiet på 114.<strong> </strong></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/mere-end-200-kobberkaeder-stjalet-fra-nordjyske-kirkegarde-1efa0",
+  "published": "Tue, 02 Jun 26 11:27:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/mere-end-200-kobberkaeder-stjalet-fra-nordjyske-kirkegarde-1efa0",
+  "category": "No category"
+ },
+ {
+  "title": "Ældre Sagen er med igen, når Nordjylland gør en forskel",
+  "description": "<p>I 10 dage samles nordjyder om motion, fællesskab og velgørenhed til fordel for børn og unge i Nordjylland, der har det svært. Overskuddet går direkte til indsatser gennem Gestus Nord.</p><p>For Ældre Sagen handler deltagelsen om meget mere end et event. Det handler om fællesskab, nærvær og om at skabe møder mellem mennesker - præcis de værdier, organisationen arbejder med hver eneste dag.</p><p>Derfor bliver Ældre Sagen igen i år en synlig del af dagene i Aabybro med aktiviteter og samvær for både medlemmer og andre besøgende. Blandt andet inviteres der til hyggelig morgensang med morgenmad - en aktivitet, der samler mennesker omkring fællesskab, sang og gode samtaler fra dagens begyndelse.</p><p>For mange er det netop de små møder og oplevelser, der gør den største forskel. At starte dagen sammen. At mødes med andre. At føle sig som en del af et fællesskab.</p><p><em>“Nordjylland gør en forskel” er skabt med plads til alle. Man kan gå en kort tur, deltage én enkelt dag eller blot komme for stemningen og fællesskabet. Det vigtigste er ikke tempoet eller antallet af kilometer - men at man er med”</em> fortæller Karen Margrethe Lauridsen, formand for Ældre Sagen i Aabybro.</p> <h2><strong>Mennesker mødes på tværs af generationer</strong></h2><p>Og netop derfor giver det mening for Ældre Sagen at deltage. For når mennesker mødes på tværs af generationer og står sammen om at hjælpe andre, opstår noget af det, der gør lokalsamfund stærke.</p><p>Hos Ældre Sagen ved man, hvor stor betydning fællesskaber har for livsglæde og trivsel. Hver dag gør frivillige en forskel for andre mennesker gennem aktiviteter, besøgsvenner og sociale fællesskaber over hele landet.</p><p>Når tusindvis af nordjyder samles til august, bliver det derfor ikke kun et event. Det bliver et billede på det Nordjylland, mange ønsker at være en del af: Et sted hvor mennesker møder op for hinanden, og hvor fællesskab stadig er noget, vi skaber sammen.</p><p>Nordjylland gør en forskel finder sted den 20. – 30. august og afholdes udendørs ved TV 2 Nord i Aabybro.</p><p><strong>Læs mere om Nordjylland gør en forskel</strong></p>",
+  "link": "https://www.tv2nord.dk/nordjylland/aeldre-sagen-er-med-igen-nar-nordjylland-gor-en-forskel-d08b1",
+  "published": "Tue, 02 Jun 26 11:25:00 +0200",
+  "guid": "https://www.tv2nord.dk/nordjylland/aeldre-sagen-er-med-igen-nar-nordjylland-gor-en-forskel-d08b1",
+  "category": "No category"
  },
  {
   "title": "Jordbærproducent advarer tyve og hyrer detektiv",
-  "description": "<p>Der er garanti for en pudset lup, når detektivarbejdet sætter ind.</p><p>På jordbærtyve.</p><p>Jordbærsæsonen er i sin spæde start, og familievirksomheden Føltved har allerede måttet tage konsekvensen af de sukkersøde forbrugere med lange fingre.</p> <p>I deres landevejsboder og i et opslag på <a href=\"https://www.facebook.com/story.php?story_fbid=1687836330012896&amp;id=100063596350725&amp;mibextid=wwXIfr&amp;rdid=QEF1wvE9PhPiyvHE#\">Facebook</a> har virksomheden hængt et opslag op omkring, at forbrugerne skal kigges i kortene:</p><p>- Vi har i år hyret en butiksdetektiv, som stikprøvevist sidder ved de forskellige boder og ved hjælp af overvågning følger med i, om der flyttes rundt på bær, og om der betales.</p><p>Føltved skriver, at det er strengt forbudt at flytte jordbær fra nabobakker.</p><p>De kalder det uopdragent og simpelt tyveri, og man vil blive bortvist på stedet, hvis det opdages.</p> <p>Føltved har ikke ønsket at kommentere på Facebook-opslaget, og det har ikke været muligt at høre, hvor udbredt problemet er.</p>",
+  "description": "<p>Der er garanti for en pudset lup, når detektivarbejdet sætter ind.</p><p>På jordbærtyve.</p><p>Jordbærsæsonen er i sin spæde start, og familievirksomheden Føltved har allerede måttet tage konsekvensen af de sukkersøde forbrugere med lange fingre.</p> <p>I deres landevejsboder og i et opslag på <a href=\"https://www.facebook.com/story.php?story_fbid=1687836330012896&amp;id=100063596350725&amp;mibextid=wwXIfr&amp;rdid=QEF1wvE9PhPiyvHE#\">Facebook</a> har virksomheden hængt et opslag op omkring, at forbrugerne skal kigges i kortene:</p><p>- Vi har i år hyret en butiksdetektiv, som stikprøvevist sidder ved de forskellige boder og ved hjælp af overvågning følger med i, om der flyttes rundt på bær, og om der betales.</p><p>Føltved skriver, at det er strengt forbudt at flytte jordbær fra nabobakker. De kalder det uopdragent og simpelt tyveri, og man vil blive bortvist på stedet, hvis det opdages.</p> <p>Føltved har ikke ønsket at kommentere på Facebook-opslaget, og det har ikke været muligt at høre, hvor udbredt problemet er.</p>",
   "link": "https://www.tv2nord.dk/nordjylland/jordbaerproducent-advarer-tyve-og-hyrer-detektiv-c2a1a",
   "published": "Tue, 02 Jun 26 11:12:00 +0200",
   "guid": "https://www.tv2nord.dk/nordjylland/jordbaerproducent-advarer-tyve-og-hyrer-detektiv-c2a1a",
@@ -188,10 +228,18 @@
  },
  {
   "title": "Spor blokeret efter uheld på motorvejen",
-  "description": "<p>Der er tirsdag formiddag sket et færdselsuheld på motorvej E45 i nordgående retning mellem Hobro N og Senhøj. </p><p>Det oplyser Vejdirektoratet. </p><p>Højre spor er spærret som følge af uheldet, og uheldsstedet er endnu ikke sikret. </p><p><em>Opdateres...</em></p>",
+  "description": "<p>Opdateret klokken 13.10: Nordjyllands Politi oplyser, at de er færdige på uheldsstedet. Der var tale om to biler, som var kørt sammen. </p><p>Der er ikke tale om et voldsomt uheld, og der er ingen personskade. Alle spor er farbare igen.</p><p>Der er tirsdag formiddag sket et færdselsuheld på motorvej E45 i nordgående retning mellem Hobro N og Senhøj.</p><p>Det oplyser Vejdirektoratet. </p><p>Højre spor er spærret som følge af uheldet, og politi og redning er på stedet.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/spor-blokeret-efter-uheld-pa-motorvejen-68fc7",
   "published": "Tue, 02 Jun 26 11:09:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/spor-blokeret-efter-uheld-pa-motorvejen-68fc7",
+  "category": "No category"
+ },
+ {
+  "title": "Om eventet",
+  "description": "<p>Hele området omkring søen ved TV2 Nord bliver omdannet til en levende folkefest fyldt med musik, underholdning, aktiviteter og madoplevelser for hele familien. </p><p>Eventet samler hvert år tusindvis af nordjyder om et fælles mål: at gøre en reel forskel for nordjyske børn og unge i udsatte positioner, som har brug for en ekstra håndsrækning i hverdagen. Overskuddet fra arrangementet går gennem Gestus Nord direkte til indsatser og hjælp til børn og unge i Nordjylland.</p><p>Publikum kan opleve TV2 Nord sende live hele dagen, mens Stine Rex og David Stoltenborg endnu engang kaster sig ud i et spektakulært verdensrekordforsøg foran hele Nordjylland.</p> <h2>Hele Nordjylland samles til folkefest</h2><p><strong>Under hele eventet kan du opleve:</strong></p><ul><li><p>TV2 Nord live døgnet rundt</p></li><li><p>Verdensrekordforsøg med Stine Rex og David Stoltenborg</p></li><li><p>Koncerter og underholdning</p></li><li><p>Foodtrucks</p></li><li><p>Børneaktiviteter</p></li><li><p>Lege, konkurrencer og meget mere</p></li></ul><p>Det er gratis at besøge pladsen og tage del i stemningen.</p><p><strong>Indsamling</strong></p><p>Alle indtægter fra løbet går ubeskåret til Gestus Nords arbejde med nordjyske børn og unge i udsatte positioner.</p> <p><strong>Læs mere om løbedistancer og find tilmelding her</strong></p>",
+  "link": "https://www.tv2nord.dk/nordjylland/om-eventet-52c2b",
+  "published": "Tue, 02 Jun 26 10:52:00 +0200",
+  "guid": "https://www.tv2nord.dk/nordjylland/om-eventet-52c2b",
   "category": "No category"
  },
  {
@@ -211,54 +259,6 @@
   "category": "No category"
  },
  {
-  "title": "Knudepunkt på Hærvejen får millionindsprøjtning",
-  "description": "<p>Skal du gå i Harald Blåtands fodspor?</p><p>Så skal du spænde vikingeskoene og begive dig ud på Hærvejen. Og mens du er undervejs, kan du holde pause ved vikingeborgen Fyrkat, hvor et nyt velfærdshus snart ser nutidens lys.</p><p>7,2 millioner kroner er sendt afsted til at gøre Fyrkat til et knudepunkt på den cirka 500 lange vandre- og cykelrute.</p><p>- Fyrkat bliver med det nye hus et naturligt stop på Hærvejen, hvor fortid og nutid mødes. Vi skaber et sted, hvor besøgende kan få en dybere forståelse af områdets historiske betydning og de ruter, der har bundet landskabet sammen gennem årtusinder, siger museumsdirektør ved Nordjyske Museer Lars Christian Nørbach.</p><p>Det nye hus tager skal have sit udgangspunkt i, hvordan man i vikingetiden ankom til Fyrkat. Ringborgene spillede angiveligt en stor rolle, hvor afstanden mellem borgene svarede til en dagsrejse til hest</p><p>Den historiske rute Hærvejen er omkring 500 kilometer og tager cirka 18 dage at gå, hvis man vandrer mellem 20-30 kilometer om dagen.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/knudepunkt-pa-haervejen-far-millionindsprojtning-83d5e",
-  "published": "Tue, 02 Jun 26 10:07:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/knudepunkt-pa-haervejen-far-millionindsprojtning-83d5e",
-  "category": "No category"
- },
- {
-  "title": "Politiet lukker efterforskninger",
-  "description": "<p>Fredag 29. maj gik der ild i et stort savværk i Døstrup i Hobro.</p><p>Tirsdag kan politiet i Himmerland fortælle, at branden formentlig er opstået i en skorsten, og at der ikke ligger en forbrydelse bag. Efterforskningen er derfor lukket.</p><p>Det samme gør sig gældende for en brand i en jagthytte på Dokkedalsvej.</p><p>Hytten er udbrændt, men da der hverken var aktivitet på vildtkameraet i området, og porte og trådhegn i området var lukket, har man også her vurderet, at der ikke er sket noget strafbart.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/politiet-lukker-efterforskninger-79b8d",
-  "published": "Tue, 02 Jun 26 09:31:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/politiet-lukker-efterforskninger-79b8d",
-  "category": "No category"
- },
- {
-  "title": "Efterlyst kvinde fundet i Skagen",
-  "description": "<p>En 75-årig kvinde blev natten til tirsdag efterlyst af Nordjyllands Politi. </p><p>Nu er hun fundet i god behold i Skagen. </p><p>- Vi vil gerne takke for de henvendelser, vi har fået, udtaler politiet i en pressemeddelelse.</p><p>Kvinden var sidst set mandag eftermiddag klokken 17.30, da hun blev efterlyst. Før kvinden blev fundet, bad politiet borgere om at kigge efter kvinden i skure, haver og garager.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/efterlyst-kvinde-fundet-i-skagen-1c75d",
-  "published": "Tue, 02 Jun 26 09:10:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/efterlyst-kvinde-fundet-i-skagen-1c75d",
-  "category": "No category"
- },
- {
-  "title": "Brand i villa i Vodskov: Kraftig skade på tagkonstruktion",
-  "description": "<p>Nordjyllands Beredskab er tirsdag i aktion i Vodskov, hvor der er brand i en villa, hvor tagkonstruktionen har taget kraftig skade.</p><p>Branden er opstået i en villa på Møgelbjergvej.</p> <p>Beredskabet har branden under kontrol, men de er stadig i gang med slukningsarbejdet, fortæller indsatsleder Lars Hessellund til TV2 Nord tirsdag morgen.</p><p>Ifølge indsatslederen er tre rum blevet udsat for vand- og røgskader, men gået fri fra branden.</p><p>Murværket står stadig, og man har formået at begrænse branden og reddet det resterende, lyder det.</p><p>Det er en villa, der er under renovering, der brænder, og derfor var der ikke nogen hjemme. Beredskabet arbejder ud fra en teori om, at branden er opstået i forbindelse med renoveringen.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/brand-i-villa-i-vodskov-kraftig-skade-pa-tagkonstruktion-4f39e",
-  "published": "Tue, 02 Jun 26 08:43:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/brand-i-villa-i-vodskov-kraftig-skade-pa-tagkonstruktion-4f39e",
-  "category": "No category"
- },
- {
-  "title": "Ny regering er faldet på plads: Statsministeriet indkalder til pressemøde",
-  "description": "<p>Mandag aften var Mette Frederiksen (S) til møde ved kongen for at meddele, at en ny regering er dannet.</p><p>Regeringsgrundlaget præsenteres tirsdag, mens den nye regering løfter sløret for dets ministre onsdag.</p><p>Eneste ministerpost der i øjeblikket er posten som statsminister, hvor Mette Frederiksen indtager statsministeriet for en tredje periode.</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/ny-regering-er-faldet-pa-plads-statsministeriet-indkalder-til-pressemode-85500",
-  "published": "Tue, 02 Jun 26 08:14:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/ny-regering-er-faldet-pa-plads-statsministeriet-indkalder-til-pressemode-85500",
-  "category": "No category"
- },
- {
-  "title": "200 unge invaderede byfest",
-  "description": "<p>Klitmøller Sommerfest har eksisteret i 25 år, og i langt det meste af byfestens levetid har arrangørerne ikke oplevet problemer. I weekenden gik det dog anderledes, da 200 unge pludselig dukkede op.</p><p>Om dagen var familier velkomne til fodboldturnering, hoppeborg og tombola, mens aftenen var forbeholdt grillmad, dj og livemusik for voksne over 18 år.</p><p>Om der i byfestens tidligere år kan have sneget sig nogle af byens unge ind til voksenfest i teltet, kan medarrangør Martin Eigenbroth ikke afvise.</p><p>- Men det har vi sgu altid kunnet styre, siger han.</p><p>Sommerfestens positive historik blev ramt af de første, store udfordringer sidste år, da 40 unge uanmeldt mødte op.</p><p>- Da mange ikke var gamle nok til at købe alkohol eller komme ind i teltet, sad de udenfor og holdt deres egen fest med medbragte drikkevarer, forklarer Martin Eigenbroth.</p><p>I år gentog det billede sig, men problemet var vokset, for pludselig handlede det i stedet om 200 unge.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/thisted/200-unge-invaderede-byfest-2e616",
-  "published": "Tue, 02 Jun 26 07:40:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/200-unge-invaderede-byfest-2e616",
-  "category": "No category"
- },
- {
   "title": "Han solgte for trecifret millionbeløb. Og peger på én ting, der bremser nordjyske virksomheder",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/han-solgte-for-trecifret-millionbeloeb-og-peger-paa-n-ting-der-bremser-nordjyske-virksomheder/6029964?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -267,12 +267,12 @@
   "category": "Jagten på større virksomheder"
  },
  {
-  "title": "Nordjyske mener: Regeringen er på plads.  \nNu skal løfterne måles mod virkeligheden.",
-  "description": "Efter 69 dages forhandlinger er en ny regering på plads. Men det afgørende er ikke, hvem der blev enige med hvem. Det afgørende er, hvad beslutningerne kommer til at betyde for Nordjylland.",
-  "link": "https://nordjyske.dk/nyheder/leder/nordjyske-mener-regeringen-er-paa-plads-nu-skal-loefterne-maales-mod-virkeligheden/6060872?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 02 Jun 2026 08:00:46 Z",
-  "guid": "f0dd5383-e66f-4a3c-b58a-da0a95108641",
-  "category": "Nordjyske mener"
+  "title": "Med landsholdsspillers underskrift begynder fremtidens Aalborg Håndbold-hold allerede at tegne sig",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/sport/med-landsholdsspillers-underskrift-begynder-fremtidens-aalborg-haandbold-hold-allerede-at-tegne-sig/6059150?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 02 Jun 2026 03:32:49 Z",
+  "guid": "0e05d036-0561-42e1-a026-d67581532fbd",
+  "category": "Aalborg Håndbold"
  },
  {
   "title": "Historisk aften: Nordjylland fik to nye Michelin-stjerner - og ændrede sin plads på det gastronomiske landkort",
@@ -283,6 +283,14 @@
   "category": "Michelin-guiden"
  },
  {
+  "title": "Nordjyske mener: Regeringen er på plads.  \nNu skal løfterne måles mod virkeligheden.",
+  "description": "Efter 69 dages forhandlinger er en ny regering på plads. Men det afgørende er ikke, hvem der blev enige med hvem. Det afgørende er, hvad beslutningerne kommer til at betyde for Nordjylland.",
+  "link": "https://nordjyske.dk/nyheder/leder/nordjyske-mener-regeringen-er-paa-plads-nu-skal-loefterne-maales-mod-virkeligheden/6060872?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 02 Jun 2026 08:00:46 Z",
+  "guid": "f0dd5383-e66f-4a3c-b58a-da0a95108641",
+  "category": "Nordjyske mener"
+ },
+ {
   "title": "Tre kvinder ville skabe et andet tilbud til byens børn. Nu er Børnehuset en del af Døstrups dna",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/mariagerfjord/tre-kvinder-ville-skabe-et-andet-tilbud-til-byens-boern-nu-er-boernehuset-en-del-af-doestrups-dna/6051324?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -291,12 +299,12 @@
   "category": "Da byen selv tog fat"
  },
  {
-  "title": "Med landsholdsspillers underskrift begynder fremtidens Aalborg Håndbold-hold allerede at tegne sig",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/sport/med-landsholdsspillers-underskrift-begynder-fremtidens-aalborg-haandbold-hold-allerede-at-tegne-sig/6059150?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 02 Jun 2026 03:32:49 Z",
-  "guid": "0e05d036-0561-42e1-a026-d67581532fbd",
-  "category": "Aalborg Håndbold"
+  "title": "AaB-overblik: Sportschef har erfarne spillere højt på ønskelisten",
+  "description": "Få overblikket over de vigtigste AaB-nyheder",
+  "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 22 Apr 2026 07:27:27 Z",
+  "guid": "114fe8e9-35ae-4da8-b642-4f6bc42ab648",
+  "category": "AaB"
  },
  {
   "title": "Havnedirektørens strategi er gal eller genial. Jeg hælder mest til det sidste",
@@ -353,14 +361,6 @@
   "published": "Mon, 01 Jun 2026 03:36:50 Z",
   "guid": "8fc696c5-b4f2-4a2f-9caf-fb06592d4bd5",
   "category": "Erhverv"
- },
- {
-  "title": "AaB-overblik: Sportschef har erfarne spillere højt på ønskelisten",
-  "description": "Få overblikket over de vigtigste AaB-nyheder",
-  "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 22 Apr 2026 07:27:27 Z",
-  "guid": "114fe8e9-35ae-4da8-b642-4f6bc42ab648",
-  "category": "AaB"
  },
  {
   "title": "Hobro har formet Haarup - sådan ser han tilbage på en flot karriere",
