@@ -144,12 +144,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYAp63G29%2Fp-23.webp&w=300&x1r=0.05&x2r=0.98&y1r=0.01&y2r=0.46&s=43185f8ed83dd2678489d566f0852dcb"
  },
  {
-  "link": "/Fleggaard?publication=bJ9Oz4zw&offer=y54gPP2Yqv_S4OI-ipoLn",
+  "link": "/Fleggaard?publication=lQY4GMH4&offer=YOrWCV3zrl2Mr9Hj9aGhf",
   "price": "82",
   "currency": "DKK",
   "valid_from": "19-05-2026",
   "valid_until": "02-06-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F0b1b9b2d82bb98706520285d2115a620%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ab6c614c6c5153fe1ac3fa98b96b146%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Fcdc0b4b1437c087134c60f356032ee7e%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F9de9fb2f2942195211c41178ec40e6c9&w=300&s=f4ed6879d5c668fb4d2505c4456510e2"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FlQY4GMH4%2Fp-16.webp&w=300&x1r=0.0071&x2r=0.4863&y1r=0&y2r=0.4968&s=cdc19f314abd7d897adabd34c61a8ba2"
  },
  {
   "link": "/CITTI?publication=j8H5T7Nj&offer=mwmP2SvDuTu3UYZYihV_O",
@@ -168,20 +168,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkiI5WHQd%2Fp-4.webp&w=300&x1r=0.04&x2r=0.36&y1r=0.355&y2r=0.675&s=1977c1aa8f4cd2ec176df468cd8a8503"
  },
  {
-  "link": "/CITTI?publication=Dj1fTSs5&offer=Basi3vmad9KEOLgdKr0x7",
-  "price": "80",
-  "currency": "DKK",
-  "valid_from": "02-06-2026",
-  "valid_until": "23-06-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDj1fTSs5%2Fp-11.webp&w=300&x1r=0.52&x2r=0.98&y1r=0.35&y2r=0.5&s=9902b4aa510ce42a5cb0b8ee6f1cd53d"
- },
- {
   "link": "/Wolt-Market?publication=Uc7VaaRI&offer=IN02I_PgGqkTJLyCqQ-c6",
   "price": "119",
   "currency": "DKK",
   "valid_from": "01-06-2026",
   "valid_until": "08-06-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Ff71a40d72a93aad1fa30d1dc36df214e&w=300&s=dfd21b357244f54da4cfedf58930776e"
+ },
+ {
+  "link": "/CITTI?publication=Dj1fTSs5&offer=Basi3vmad9KEOLgdKr0x7",
+  "price": "80",
+  "currency": "DKK",
+  "valid_from": "02-06-2026",
+  "valid_until": "23-06-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDj1fTSs5%2Fp-11.webp&w=300&x1r=0.52&x2r=0.98&y1r=0.35&y2r=0.5&s=9902b4aa510ce42a5cb0b8ee6f1cd53d"
  },
  {
   "link": "/Fleggaard?publication=SfMvIzv1&offer=1BYVmr255mCFBd-zTzJrh",
