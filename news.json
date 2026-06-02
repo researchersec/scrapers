@@ -1,6 +1,24 @@
 [
  {
-  "title": "Vi er europamestre i hudkræft: 'Hvis det fortsætter, ser det ikke godt ud'",
+  "title": "Efter overfald: Personale frygter blinde vinkler på psykiatriske afdelinger på nyt sygehus",
+  "description": "På blandt andet Retspsykiatrisk Afdeling er der steder, hvor patienter kan stå skjult for personalet.",
+  "link": "https://www.dr.dk/nyheder/indland/efter-overfald-personale-frygter-blinde-vinkler-paa-psykiatriske-afdelinger-paa-nyt-sygehus",
+  "published": "Tue, 02 Jun 2026 09:10:00 GMT",
+  "guid": "urn:dr:umbraco:article:551283f3-95e3-4ad5-b251-76b6a71bfa28",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/km3hkhzb/blind-vinkel-psykl-1_crop001_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
+  "title": "Slut med at snyde: Gymnasium sætter vagter til at holde øje med elever",
+  "description": "På Hjørring Gymnasium følger vagterne med ind i forberedelseslokalet inden mundtlig eksamen.",
+  "link": "https://www.dr.dk/nyheder/indland/slut-med-snyde-gymnasium-saetter-vagter-til-holde-oeje-med-elever",
+  "published": "Tue, 02 Jun 2026 06:08:00 GMT",
+  "guid": "urn:dr:umbraco:article:5a502d02-c21e-489d-9e35-c008e771aa77",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/ozolnzb2/eksamensvagter-skilt.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
+  "title": "Vi er europamestre i modermærkekræftkræft: 'Hvis det fortsætter, ser det ikke godt ud'",
   "description": "Danmark fører i Europa, når det kommer til tilfælde af hud- og modermærkekræft.",
   "link": "https://www.dr.dk/nyheder/indland/vi-er-europamestre-i-hudkraeft-hvis-det-fortsaetter-ser-det-ikke-godt-ud",
   "published": "Mon, 01 Jun 2026 15:07:00 GMT",
@@ -161,101 +179,83 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/r3yc2rev/img_6639_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Karneval i Aalborg: Politiet holder et ekstra vågent øje med opioider og farlige stoffer",
-  "description": "Nordjyllands Politi vil bruge civile betjente, videoovervågning og droner for at holde øje med salg af stoffer under karnevallet.",
-  "link": "https://www.dr.dk/nyheder/indland/karneval-i-aalborg-politiet-holder-et-ekstra-vaagent-oeje-med-opioider-og-farlige-stoffer",
-  "published": "Thu, 21 May 2026 15:40:00 GMT",
-  "guid": "urn:dr:umbraco:article:9b6c5e2e-062a-4a94-b2b0-9ed7ca4563b0",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/eoynfr3p/20250524-140633-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
- },
- {
-  "title": "Aalborg får 500 el-delecykler – men cyklister frygter parkeringskaos",
-  "description": "Delecykler en en god idé, men cykelparkeringspladserne er i forvejen hårdt pressede, advarer lokalformand for cyklistforbundet.",
-  "link": "https://www.dr.dk/nyheder/indland/aalborg-faar-500-el-delecykler-men-cyklister-frygter-parkeringskaos",
-  "published": "Wed, 20 May 2026 20:10:00 GMT",
-  "guid": "urn:dr:umbraco:article:fa59cfbe-9a0d-49d2-b2d2-ef3c7063cf08",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/i4pnh4qa/mike_white_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
- },
- {
-  "title": "Drengene sakker bagud på de nordjyske gymnasier",
-  "description": "<p>1,3 karakterpoint. Så stor forskel er der i gennemsnit på de unge kvinder og mænds karakterer på de gymnasiale uddannelser i Hjørring. </p><p>Og det er de unge mænd, der sakker bagud.</p><p>Det viser en ny analyse fra Lederne, som også understreger, at de største karakterforskelle generelt skal findes i netop Region Nordjylland.</p><p>- Det bør bekymre os, fordi karakterer er med til at åbne eller lukke døre til de videregående uddannelser. Når drengene sakker bagud allerede i gymnasiet, risikerer vi at miste talent og fremtidig arbejdskraft i en region, hvor ledere i forvejen mangler kvalificerede medarbejdere, siger Nina Christine Schwarz, uddannelsespolitisk chefkonsulent i Lederne.</p><p>Karakterforskellen mellem de unge nordjyder ligger på 0,8 karakterpoint. I 2015 var det tal 0,4.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/drengene-sakker-bagud-pa-de-nordjyske-gymnasier-2deea",
-  "published": "Tue, 02 Jun 26 06:32:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/drengene-sakker-bagud-pa-de-nordjyske-gymnasier-2deea",
+  "title": "Jordbærproducent advarer tyve og hyrer detektiv",
+  "description": "<p>Der er garanti for en pudset lup, når detektivarbejdet sætter ind.</p><p>På jordbærtyve.</p><p>Jordbærsæsonen er i sin spæde start, og familievirksomheden Føltved har allerede måttet tage konsekvensen af de sukkersøde forbrugere med lange fingre.</p> <p>I deres landevejsboder og i et opslag på <a href=\"https://www.facebook.com/story.php?story_fbid=1687836330012896&amp;id=100063596350725&amp;mibextid=wwXIfr&amp;rdid=QEF1wvE9PhPiyvHE#\">Facebook</a> har virksomheden hængt et opslag op omkring, at forbrugerne skal kigges i kortene:</p><p>- Vi har i år hyret en butiksdetektiv, som stikprøvevist sidder ved de forskellige boder og ved hjælp af overvågning følger med i, om der flyttes rundt på bær, og om der betales.</p><p>Føltved skriver, at det er strengt forbudt at flytte jordbær fra nabobakker.</p><p>De kalder det uopdragent og simpelt tyveri, og man vil blive bortvist på stedet, hvis det opdages.</p> <p>Føltved har ikke ønsket at kommentere på Facebook-opslaget, og det har ikke været muligt at høre, hvor udbredt problemet er.</p>",
+  "link": "https://www.tv2nord.dk/nordjylland/jordbaerproducent-advarer-tyve-og-hyrer-detektiv-c2a1a",
+  "published": "Tue, 02 Jun 26 11:12:00 +0200",
+  "guid": "https://www.tv2nord.dk/nordjylland/jordbaerproducent-advarer-tyve-og-hyrer-detektiv-c2a1a",
   "category": "No category"
  },
  {
-  "title": "Drengene sakker bagud på de nordjyske gymnasier",
-  "description": "<p>1,3 karakterpoint. Så stor forskel er der i gennemsnit på de unge kvinder og mænds karakterer på de gymnasiale uddannelser i Hjørring. </p><p>Og det er de unge mænd, der sakker bagud.</p><p>Det viser en ny analyse fra Lederne, som også understreger, at de største karakterforskelle generelt skal findes i netop Region Nordjylland.</p><p>- Det bør bekymre os, fordi karakterer er med til at åbne eller lukke døre til de videregående uddannelser. Når drengene sakker bagud allerede i gymnasiet, risikerer vi at miste talent og fremtidig arbejdskraft i en region, hvor ledere i forvejen mangler kvalificerede medarbejdere, siger Nina Christine Schwarz, uddannelsespolitisk chefkonsulent i Lederne.</p><p>Karakterforskellen mellem de unge nordjyder ligger på 0,8 karakterpoint. I 2015 var det tal 0,4.</p><h2>En femteplads</h2><p>De nordjyske kvinder får i gennemsnit en karakter på 7,3, mens gennemsnittet for de unge mænd ligger på 6,5.</p><p>Kun fire steder i landet er karakterforskellen mellem de to køn større end i Hjørring.</p><p>I Hjørring er de kvindelige elevers gennemsnit 7,3, mens de mandlige elevers gennemsnit ligger på 6,0. Altså er det særligt mændene, der sakker bagud i forhold til det regionale gennemsnit.</p> <p>Analysen omfatter alle de gymnasiale uddannelser, herunder STX, HF, HF-enkeltfag, HHX, HTX og EUX.</p><h2>Gode og dygtige unge</h2><p>Spørger man rektor på Hjørring Gymnasium, Elsebeth Gabel Austin, er hun ikke bekymret. </p><p>Hun understreger, at analysen er relativt uspecifik og generel, da den dækker alle de gymnasiale uddannelser i kommunen. Hun så gerne, at der var tal for de enkelte skoler.</p><p>- Der er meget stor forskel. Vi har flest piger, HTX har flest drenge og så videre. Hvis man virkelig skulle til bunds i det, skulle man også se på indgangsniveauerne. Her ligger pigerne måske også højere, siger hun.</p><p>Hun er med egne ord mere optaget af, at der kommer &#039;gode og dygtige unge mennesker&#039; videre fra gymnasiet.</p><p>- Der kommer også dygtige drenge ud. Vi ved, at drenge modnes senere end piger, og det slår også igennem efter gymnasiet. Jeg tror, at det udlignes senere, siger Elsebeth Gabel Austin.</p> <h2>Målrettede og ambitiøse</h2><p>Hun kalder det &#039;et skud fra hoften&#039;, men nævner, at nogle piger måske er mere målrettede og uddannelsesbevidste. </p><p>Hun sætter desuden spørgsmålstegn ved, om forskellen i karakterer faktisk er et problem.</p><p>- Man har i årevis snakket om, at der bliver optaget flere dygtige piger end drenge på en række videregående uddannelser. Men er det problem, at der er forskel på karaktererne? Hvis det var omvendt, havde det så også været et problem?, spørger rektoren.</p>",
-  "link": "https://www.tv2nord.dk/hjoerring/drengene-sakker-bagud-pa-de-nordjyske-gymnasier-d227c",
-  "published": "Tue, 02 Jun 26 06:30:00 +0200",
-  "guid": "https://www.tv2nord.dk/hjoerring/drengene-sakker-bagud-pa-de-nordjyske-gymnasier-d227c",
+  "title": "Spor blokeret efter uheld på motorvejen",
+  "description": "<p>Der er tirsdag formiddag sket et færdselsuheld på motorvej E45 i nordgående retning mellem Hobro N og Senhøj. </p><p>Det oplyser Vejdirektoratet. </p><p>Højre spor er spærret som følge af uheldet, og uheldsstedet er endnu ikke sikret. </p><p><em>Opdateres...</em></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/spor-blokeret-efter-uheld-pa-motorvejen-68fc7",
+  "published": "Tue, 02 Jun 26 11:09:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/spor-blokeret-efter-uheld-pa-motorvejen-68fc7",
   "category": "No category"
  },
  {
-  "title": "Ser klart vand i Limfjorden efter iltsvind og fedtemøg",
-  "description": "<p>- Her er to meter og 30 centimeters dybde, og der kan vi se bunden rimelig tydeligt. For vandet er meget klart. Sådan var det overhovedet ikke før. </p><p>- Der kunne du ikke engang se bunden på en halv meters dybde, lyder det begejstret fra Erik Borup, der er formand for Fritidsfiskerne Nibe og Omegns Fritidsfiskerforening. </p><h2>Fra brunt om grumset til klart vand</h2><p>I årtier har han fulgt årstidernes gang i Halkær Bredning. Set vandet blive brunt og grumset. Oplevet de store problemer med alger, iltsvind og fedtemøg.</p><p>Men nu har han - og mange andre lokale - i snart to år oplevet en klarhed i vandet. En spiren af ålegræs, som han troede var fortid. Det giver optimisme. </p><p>- Vi håber selvfølgelig, at når sollyset kan trænge ned til bunden, at der så kommer nogle flere bundplanter,  og det er det der sætter det hele igang. </p><p>- Det er starten på det hele. Så kommer der flere fisk ind og gyder og æggene sætter sig på de bundplanter. Det er så føde for mindre og andre fiskearter, og på den måde, får man hele tiden gang i fødekæden, lyder det fra Erik Borup.</p> <h2>Hvad har ændret sig?</h2><p>Vi møder tre mænd i den bedste alder. På kanten af Halkær Bredning. Det var Niels Dahl, der fik først øje på forandringen. Det klare vand. Han er født og opvokset her. </p><p>- Så ringede jeg rundt til de andre. Har i også bemærket noget?</p><p>Og det havde de. Men hvorfor var vandet blevet så meget mere klart? Hvorfor kunne bunden pludselig skimtes?</p><p>- Der må være en eller anden årsag? Og det tænker vi, kan have en eller anden sammenhæng med, at man er stoppet med at udlede vand fra rensningsanlægget i Aars, forklarer Erik Borup.</p> <h2>Vi kan ikke tage æren</h2><p>- Jamen jeg har også set det og hørt det, at det er blevet klart derude, og det glæder vi os over, slår Allan Ritter, indledningsvis fast. </p><p>Han er konservativ og formand for Teknik- og Miljøudvalget i Vesthimmerlands Kommune. </p><p>Men han synes, det er på sin plads at nuancere, hvor meget betydning det kan have, at man har stoppet udledningen af vand fra Aars renseanlæg tilbage i juni 2024. </p><p>- Vi kan ikke sige, at det er udelukkende Aars renseanlæg. Bare for at sætte det lidt i relief, så er der en indsatsplan ude i Halkær Bredning på 237 tons kvælstof, og Aars renseanlæg har udledt fem tons, forklarer Allan Ritter.</p><p>Det kommunalpolitikeren taler om, når han siger indsatsplan er, at myndighederne i forbindelse med Den Grønne Trepart har besluttet, at kvælstofudledningen til Halkær Bredning skal sænkes med hele 237 tons kvælstof. Og renseanlæggets udledning har udgjort 5 tons kvælstof. </p><p>Dertil er der udledt omkring 500 kilo fosfor, hvilket udgør omkring tre-fire procent, af det der samlet skal fjernes fra udledningen i Halkær Bredning. </p><p>- Men det er selvfølgelig skønt, at vi udleder fem tons mindre kvælstof, slutter Allan Ritter af. </p><p><strong><em>Kom med ud på Halkær Bredning:</em></strong></p> <h2>Hvad siger biologen?</h2><p>- Der er ingen tvivl om, at vandet det er klart derude i bredingen i år, men man kan ikke nødvendigvis koble det til renseanlæggets drift, begynder Kristoffer Piil med at slå fast. Han er biolog, og projektleder i Limfjordsrådets sekretariat. Og så fortsætter han. </p><p>- Det at man har stoppet udledningerne fra renseanlægget, det er selvfølgelig positivt, men vi kan ikke sådan en til en oversætte det til, at det så er det, der skyldes, eller der er årsagen til det klare vand. Det kan der være rigtig mange årsager til. </p><p><em>Og hvad er det så for nogle årsager?</em></p><p>- Det kan være bestemt af de vejr-betingelser, der er i det indeværende år her. Det handler blandt andet om, hvor meget det har regnet, hvor meget næringsstof, der bliver transporteret ud til bredningen, forklarer biologen videre. </p><h2>Hvad siger staten?</h2><p>Spørger man staten, der står for kontrollen af området, vil de ikke stille op til interview. I stedet kan TV2 Nord via en længere email-korrespondance få brudstykker af svar, på etatens overvejelser om, hvad det klare vand - måske, måske ikke - kan være tegn på. Blandt andet lyder et svar fra en pressemedarbejder i Styrelsen for Grøn Arealomlægning og Vandmiljø.  </p><p>”Styrelsens målinger af blandt andet iltforhold og næringsstoffer tyder på, at vandkvaliteten i Halkær Bredning fortsat er udfordret. Kigger man på de biologiske miljøparametre, så er den økologiske tilstand &#039;dårlig&#039; for fytoplankton (klorofyl) og rodfæstede bundplanter som ålegræs. På denne årstid, hvor algevæksten mange steder endnu ikke er i fuld gang, er vandet ofte klart, også selvom vandet er belastet af næringsstoffer.”</p> <h2>Hvad tænker biologen?</h2><p> - Man er nødt til at vente og se. Hvis man mener, at et vandområde er ved at få det bedre, så er man nødt til at have en fem-10-årig tids at kigge på. Ellers er det meget svært at konkludere noget som helst, siger Kristoffer Piil, biolog og projektleder i Limfjordsrådets sekretariat.</p><p> <em>Så du er ikke optimist, selvom vandet er blevet klarere?</em></p><p>- Det er dejligt, at vandet er blevet klarere. Det er altid godt. Men jeg er nok en lille smule skeptisk overfor, om det bliver ved med at være sådan.</p><h2> Vi skal huske proportionerne </h2><p>Og så er der det med proportionerne. Hvor kommer den primære udledning af kvælstof og fosfor fra?</p><p> - Langt det meste kvælstof, der kommer ud i bredningen, det kommer fra landbruget. Fosfor der kommer der også et bidrag fra landbruget. Den mængde, der kom fra renseanlægget, den udgjorde kun en 3-4 procent af fosforudledningen til bredingen, og det er mindre, end hvad fosforudledningen vil svinge fra år til år, siger Kristoffer Piil. </p><h2>Optimismen har bidt sig fast </h2><p>Vi er sejlet ud på Halkær Bredning. Og lige nu er de tre mænd ikke i tvivl. Vandet er langt mere klart. På bunden to meter under båden, skimtes sand og muslinger. Det får optimismen til spire.</p><p>- Vi håber jo, det bliver ved og at livet kommer tilbage i fjorden. Uanset om det er renseanlægget, landbruget, eller hvad det nu skyldes, lyder det samstemmende.</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/ser-klart-vand-i-limfjorden-efter-iltsvind-og-fedtemog-27c29",
-  "published": "Tue, 02 Jun 26 06:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/ser-klart-vand-i-limfjorden-efter-iltsvind-og-fedtemog-27c29",
+  "title": "Hospitalshave og legeunivers på vej",
+  "description": "<p>Det skal være muligt for børn at lege – også når de er indlagt på Aalborg Universitetshospital. Derfor planlægger sygehuset at etablere en helt ny hospitalshave ved Børne- og Ungehuset.</p><p>Det oplyser Aalborg Universitetshospital i en pressemeddelelse.</p><p>- Hospitalshaven er udviklet med afsæt i forskning, der viser, at natur, leg og bevægelse styrker trivsel, motorik og mental sundhed hos børn i behandling. Grønne omgivelser kan mindske stress, støtte restitution og motivere til fysisk aktivitet, siger hospitalsdirektør Lars Dahl Pedersen.</p><p>Det nye legeunivers bliver til med hjælp fra en donation på 10 millioner kroner fra Den A.P. Møllerske Støttefond. Haven henvender sig særligt til hospitalets 0-17-årige patienter og deres familier.</p><p>- Med tilgængelige eventyrstier, sanselige opholdsrum og kunstneriske legeuniverser bliver haven et sted, hvor alle børn – uanset fysisk formåen – kan deltage aktivt i leg, fællesskab og pauser fra sygdommen, siger Lars Dahl Pedersen.</p><p>Haven skal ligge i området mellem hovedindgangen og børne- og ungeindgangen i det nye Hospitalsbyen. Projektet kommer til at koste i alt 10,7 millioner kroner, og haven skal stå færdig i efteråret 2027.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/hospitalshave-og-legeunivers-pa-vej-56766",
+  "published": "Tue, 02 Jun 26 10:33:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/hospitalshave-og-legeunivers-pa-vej-56766",
   "category": "No category"
  },
  {
-  "title": "Ser klart vand i Limfjorden efter iltsvind og fedtemøg",
-  "description": "<p>- Her er to meter og 30 centimeters dybde, og der kan vi se bunden rimelig tydeligt. For vandet er meget klart. Sådan var det overhovedet ikke før.  Der kunne du ikke engang se bunden på en halv meters dybde, lyder det begejstret fra Erik Borup, der er formand for Fritidsfiskerne Nibe og Omegns Fritidsfiskerforening. </p><p>I årtier har han fulgt årstidernes gang i Halkær Bredning. Set vandet blive brunt og grumset. Oplevet de store problemer med alger, iltsvind og fedtemøg.</p><p>Men nu har han - og mange andre lokale - i snart to år oplevet en klarhed i vandet. En spiren af ålegræs, som han troede var fortid. Det giver optimisme. </p><p>- Vi håber selvfølgelig, at når sollyset kan trænge ned til bunden, at der så kommer nogle flere bundplanter,  og det er det der sætter det hele igang. </p><p>- Det er starten på det hele. Så kommer der flere fisk ind og gyder og æggene sætter sig på de bundplanter. Det er så føde for mindre og andre fiskearter, og på den måde, får man hele tiden gang i fødekæden, lyder det fra Erik Borup.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/ser-klart-vand-i-limfjorden-efter-iltsvind-og-fedtemog-c0a61",
-  "published": "Tue, 02 Jun 26 05:53:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/ser-klart-vand-i-limfjorden-efter-iltsvind-og-fedtemog-c0a61",
+  "title": "Elevloft droppes og skole overlever",
+  "description": "<p>Købt eller solgt? Åben eller lukket?</p><p>Det er spørgsmål, som elever, ansatte og ledelsen på Vestrup Skole i Vesthimmerland har stillet sig selv de seneste tre år.</p><p>Siden 2023 har det nemlig været et krav til alle skoler i kommunen, at elevtallet skulle ligge på minimum 75 – ellers ville skolen automatisk kandidere til en lukning. </p><p>Men nu har kommunen valgt at fjerne den regel igen.</p><p>- Det har skabt en utryghed omkring, hvorvidt skolen ville være der næste år eller om to eller tre år. Vi har hele tiden balanceret omkring grænsen, og vi ønsker egentlig, at der er fokus på trivsel, kvalitet og faglighed frem for tallet 75, siger Karen-Marie Gram Olesen, der er formand på Vestrup Skole og LBO Kernehuset.</p> <h2>Politisk kompromis</h2><p>Der går i dag 74 elever på Vestrup Skole, og mens de altså har undgået lukning, har reglen om elevloftet ramt andre skoler i kommunen.</p><p>Skoler, som måske kunne have eksisteret i dag, hvis ikke der absolut skulle gå mindst 75 elever.</p><p>- Jeg kan godt forstå, hvis man tænker, at det kunne have været anderledes, hvis den regel ikke havde været der. Men der var en lang debat om skolestruktur på det tidspunkt, og reglen om elevloftet var en del af et politisk kompromis. Den her regel havde heller ikke tryllet flere børn frem, siger Signe Nøhr (K), der er formand for Børne- og Familieudvalget i Vesthimmerlands Kommune.</p><p>Det er et brev fra netop Vestrup Skole til Vesthimmerlands Kommune, som har ført til, at reglen om de 75 elever nu er ophævet.</p>",
+  "link": "https://www.tv2nord.dk/vesthimmerland/elevloft-droppes-og-skole-overlever-6943e",
+  "published": "Tue, 02 Jun 26 10:11:00 +0200",
+  "guid": "https://www.tv2nord.dk/vesthimmerland/elevloft-droppes-og-skole-overlever-6943e",
   "category": "No category"
  },
  {
-  "title": "Efterlyser dement 75-årig kvinde",
-  "description": "<p>Nordjyllands Politi har natten til tirsdag efterlyst en 75-årig dement kvinde, der sidst er set mandag eftermiddag klokken 17.30.</p><p>Den 75-årige kvinde beskrives som værende cirka 170 centimeter høj, spinkel af bygning, gråt pagehår, hun bærer briller, og så er hun iført lysebrune fløjsbukser og en blå og hvid stribet t-shirt. </p><p>Politiet leder netop nu efter kvinden i Skagen, men de beder også offentligheden om hjælp til at finde kvinden.</p><p>De beder borgere kigge efter kvinden i skure, haver og garager mv. </p><p>Hvis du har oplysninger om kvinden, kan du henvende dig til Nordjyllands Politi på 114. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/nordjyllands-politi-efterlyser-dement-75-arig-kvinde-3b284",
-  "published": "Tue, 02 Jun 26 05:27:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/nordjyllands-politi-efterlyser-dement-75-arig-kvinde-3b284",
+  "title": "Knudepunkt på Hærvejen får millionindsprøjtning",
+  "description": "<p>Skal du gå i Harald Blåtands fodspor?</p><p>Så skal du spænde vikingeskoene og begive dig ud på Hærvejen. Og mens du er undervejs, kan du holde pause ved vikingeborgen Fyrkat, hvor et nyt velfærdshus snart ser nutidens lys.</p><p>7,2 millioner kroner er sendt afsted til at gøre Fyrkat til et knudepunkt på den cirka 500 lange vandre- og cykelrute.</p><p>- Fyrkat bliver med det nye hus et naturligt stop på Hærvejen, hvor fortid og nutid mødes. Vi skaber et sted, hvor besøgende kan få en dybere forståelse af områdets historiske betydning og de ruter, der har bundet landskabet sammen gennem årtusinder, siger museumsdirektør ved Nordjyske Museer Lars Christian Nørbach.</p><p>Det nye hus tager skal have sit udgangspunkt i, hvordan man i vikingetiden ankom til Fyrkat. Ringborgene spillede angiveligt en stor rolle, hvor afstanden mellem borgene svarede til en dagsrejse til hest</p><p>Den historiske rute Hærvejen er omkring 500 kilometer og tager cirka 18 dage at gå, hvis man vandrer mellem 20-30 kilometer om dagen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/knudepunkt-pa-haervejen-far-millionindsprojtning-83d5e",
+  "published": "Tue, 02 Jun 26 10:07:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/knudepunkt-pa-haervejen-far-millionindsprojtning-83d5e",
   "category": "No category"
  },
  {
-  "title": "Mand anholdt efter røveri med kniv i lokal brugs: Politi efterlyser nøglevidne i sagen og to gerningsmænd",
-  "description": "<p>Mandag aften klokken 17.41 modtog Nordjyllands Politi en anmeldelse om, at der havde været røveri i Superbrugsen i Nørresundby, der er beliggende på Havnegade, det oplyser vagtchef ved Nordjyllands Politi Christian Tilsted til TV2 Nord. </p><p>Her havde en 31-årig mand forladt butikken med en vogn fyldt med dagligvarer, som manden ikke havde betalt for. </p><p>Det havde en anden kunde i butikken opdaget, og derfor konfronterede den mandlige kunde den 31-årige mand ude foran butikken. </p><p>Men i det samme kom yderligere to personer til, og her trak en af de to en kniv mod den mandlige kunde, hvorefter alle tre gerningsmænd stak af fra stedet via Syrestien med kurven med varer. </p><p>Kort efter ankom politiet til stedet, men her var den forurettede kunde altså også forsvundet fra gerningsstedet. </p><h2>En anholdt - to på fri fod - et vidne efterlyses </h2><p>Politiet satte ind i det grønne område, hvor gerningsmændene var forsvundet, og her lykkedes det patruljerne at finde den 31-årige mand, der havde taget kurven med ud af butikken. </p><p>Han blev anholdt på stedet og er sigtet for medvirken til røveri. </p><p>Politiet efterlyser dog de to andre gerningsmænd, som fortsat er på fri fod, og så efterlyser man altså også det vidne, som de trak kniven mod. </p><p>- Den 31-årige er den eneste, som var inde i butikken, og derfor er han også den eneste, vi har overvågningsbilleder af. Det her vidne er nøglen til, at vi kan finde frem til de andre, fortæller vagtchef ved Nordjyllands Politi Christian Tilsted. </p><p>Han understreger desuden, at kunden ikke er mistænkt, og at man blot ønsker at vide, hvem han er og snakke med ham om episoden. </p><p>Nordjyllands Politi er i gang med at få sagen juridisk vurderet, for at se, hvorvidt man kan fremstille den 31-årige i sagen. </p>",
-  "link": "https://www.tv2nord.dk/aalborg/mand-anholdt-efter-roveri-med-kniv-i-lokal-brugs-politi-efterlyser-nogleviden-i-sagen-og-to-gerningsmaend-7a151",
-  "published": "Mon, 01 Jun 26 21:29:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/mand-anholdt-efter-roveri-med-kniv-i-lokal-brugs-politi-efterlyser-nogleviden-i-sagen-og-to-gerningsmaend-7a151",
+  "title": "Politiet lukker efterforskninger",
+  "description": "<p>Fredag 29. maj gik der ild i et stort savværk i Døstrup i Hobro.</p><p>Tirsdag kan politiet i Himmerland fortælle, at branden formentlig er opstået i en skorsten, og at der ikke ligger en forbrydelse bag. Efterforskningen er derfor lukket.</p><p>Det samme gør sig gældende for en brand i en jagthytte på Dokkedalsvej.</p><p>Hytten er udbrændt, men da der hverken var aktivitet på vildtkameraet i området, og porte og trådhegn i området var lukket, har man også her vurderet, at der ikke er sket noget strafbart.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/politiet-lukker-efterforskninger-79b8d",
+  "published": "Tue, 02 Jun 26 09:31:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/politiet-lukker-efterforskninger-79b8d",
   "category": "No category"
  },
  {
-  "title": "Her er regeringen, som Mette Frederiksen præsenterer tirsdag",
-  "description": "<p>Statsminister Mette Frederiksen har netop været til møde ved kongen, og her fortæller hun pressen, at der bliver præsenteret ny regering tirsdag.  </p><p>Mette Frederiksen har orienteret Hans Majestæt Kongen om, at hun har gennemført forhandlinger med repræsentanter for partierne i Folketinget og oplyst, at der under hendes ledelse vil kunne dannes en regering bestående af repræsentanter for Socialdemokratiet, Socialistisk Folkeparti, Moderaterne og Radikale Venstre, som støttes af et flertal i Folketinget, det oplyser kongehuset i en <a href=\"https://www.kongehuset.dk/presse/pressemeddelelse-regeringsdannelse-062026\" target=\"_blank\">pressemeddelelse</a>.</p><p>Hans Majestæt Kongen har herefter opfordret fungerende statsminister Mette Frederiksen til at danne en sådan regering.<br />Det forventes, at Hans Majestæt Kongen modtager den nye regering på Amalienborg onsdag den 3. juni 2026 om formiddagen.</p><p>Flere nordjyder er i spil til en ministerpost i en ny regering, og TV 2 er kommet med deres bud på startopstilling her:</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/mette-frederiksen-bekraefter-er-pa-vej-til-kongen-5d1d0",
-  "published": "Mon, 01 Jun 26 21:06:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/mette-frederiksen-bekraefter-er-pa-vej-til-kongen-5d1d0",
+  "title": "Efterlyst kvinde fundet i Skagen",
+  "description": "<p>En 75-årig kvinde blev natten til tirsdag efterlyst af Nordjyllands Politi. </p><p>Nu er hun fundet i god behold i Skagen. </p><p>- Vi vil gerne takke for de henvendelser, vi har fået, udtaler politiet i en pressemeddelelse.</p><p>Kvinden var sidst set mandag eftermiddag klokken 17.30, da hun blev efterlyst. Før kvinden blev fundet, bad politiet borgere om at kigge efter kvinden i skure, haver og garager.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/efterlyst-kvinde-fundet-i-skagen-1c75d",
+  "published": "Tue, 02 Jun 26 09:10:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/efterlyst-kvinde-fundet-i-skagen-1c75d",
   "category": "No category"
  },
  {
-  "title": "Se listen: Her er de nordjyske michelin-restauranter",
-  "description": "<p>Mandag aften bliver der uddelt Michelin-stjerner til restauranter i Danmark, Sverige, Norge, Finland og Island.</p><p>Og igen i år, er der flere nordjyske restauranter at finde på listen. </p><p>For første gang modtager den nordjyske restauranter Bach og Nurup i Aalborg nemlig en af de eftertragtede stjerner. Også Oké på Ruths Hotel i Skagen modtager en Michelin-stjerne for første gang. </p> <p>Restaurant Villa Vest i Lønstrup, Restaurant Tri i Agger og Alimentum i Aalborg holder desuden fast i deres Michelin-stjerne.  </p><p>Dermed er der nu fem nordjyske Michelin-restauranter at finde. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/her-er-de-nordjyske-michelin-restauranter-513d9",
-  "published": "Mon, 01 Jun 26 18:17:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/her-er-de-nordjyske-michelin-restauranter-513d9",
+  "title": "Brand i villa i Vodskov: Kraftig skade på tagkonstruktion",
+  "description": "<p>Nordjyllands Beredskab er tirsdag i aktion i Vodskov, hvor der er brand i en villa, hvor tagkonstruktionen har taget kraftig skade.</p><p>Branden er opstået i en villa på Møgelbjergvej.</p> <p>Beredskabet har branden under kontrol, men de er stadig i gang med slukningsarbejdet, fortæller indsatsleder Lars Hessellund til TV2 Nord tirsdag morgen.</p><p>Ifølge indsatslederen er tre rum blevet udsat for vand- og røgskader, men gået fri fra branden.</p><p>Murværket står stadig, og man har formået at begrænse branden og reddet det resterende, lyder det.</p><p>Det er en villa, der er under renovering, der brænder, og derfor var der ikke nogen hjemme. Beredskabet arbejder ud fra en teori om, at branden er opstået i forbindelse med renoveringen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/brand-i-villa-i-vodskov-kraftig-skade-pa-tagkonstruktion-4f39e",
+  "published": "Tue, 02 Jun 26 08:43:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/brand-i-villa-i-vodskov-kraftig-skade-pa-tagkonstruktion-4f39e",
   "category": "No category"
  },
  {
-  "title": "37-årig mand varetægtsfængslet: Kastede kanonslag efter kvinde og forsøgte at sætte ild til opgang",
-  "description": "<p>En 37-årig mand er mandag blevet varetægtsfængslet i fire uger, efter han blev fremstillet i et grundlovsforhør ved Retten i Hjørring. </p><p>Det oplyser anklager ved Nordjyllands Politi Patrick Sørensen. </p><p>Manden er sigtet for at have kastet et glas med et kanonslag efter en kvinde i en opgang i Vendsyssel søndag formiddag. </p><p>Derudover er manden også sigtet for at have forsøgt at antænde samme opgang omkring klokken 17, da han hældte brændbart væske ud på trappen, mens han også var i besiddelse af en molotov cocktail. </p><p>Dog lykkedes det ikke manden at antænde opgangen, og derfor er han sigtet for forsøg på brandstiftelse.</p><p>Retsmødet blev afholdt for lukket døre, og derfor kan anklageren ikke oplyse yderligere detaljer. </p><p>Manden kærede ikke dommen. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/37-arig-mand-varetaegtsfaengslet-kastede-kanonslag-efter-kvinde-og-forsogte-at-saette-ild-til-opgang-87055",
-  "published": "Mon, 01 Jun 26 16:40:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/37-arig-mand-varetaegtsfaengslet-kastede-kanonslag-efter-kvinde-og-forsogte-at-saette-ild-til-opgang-87055",
+  "title": "Ny regering er faldet på plads: Statsministeriet indkalder til pressemøde",
+  "description": "<p>Mandag aften var Mette Frederiksen (S) til møde ved kongen for at meddele, at en ny regering er dannet.</p><p>Regeringsgrundlaget præsenteres tirsdag, mens den nye regering løfter sløret for dets ministre onsdag.</p><p>Eneste ministerpost der i øjeblikket er posten som statsminister, hvor Mette Frederiksen indtager statsministeriet for en tredje periode.</p>",
+  "link": "https://www.tv2nord.dk/nordjylland/ny-regering-er-faldet-pa-plads-statsministeriet-indkalder-til-pressemode-85500",
+  "published": "Tue, 02 Jun 26 08:14:00 +0200",
+  "guid": "https://www.tv2nord.dk/nordjylland/ny-regering-er-faldet-pa-plads-statsministeriet-indkalder-til-pressemode-85500",
   "category": "No category"
  },
  {
-  "title": "Hospitalspersonale kunne ikke hjælpe under overfald: Vidste ikke hvor nøglen var",
-  "description": "<p><a href=\"https://www.tv2nord.dk/aalborg/alarmerne-svigtede-fortaeller-rystede-tillidsfolk-7c710\" target=\"_blank\">Først kom det frem</a>, at den nye alarmsystem svigtede, da to ansatte på retspsykiatrisk afdeling blev overfaldet på afdelingen søndag. </p><p>Nu viser det sig, at hjælpen til voldsudsatte medarbejdere blev forsinket, fordi det øvrige personale ikke kunne finde en nøgle.</p> <h2>Nyt nøglesystem</h2><p>På den gamle retspsykiatriske afdeling på Mølleparkvej, kunne kolleger fra andre afdelinger låse sig ind med et nøglekort, hvis ansatte havde brug for hjælp under et overfald. </p><p>På det nye hospital er proceduren anderledes. </p><p>Nu skal der bruges en fysisk nøgle, som den såkaldte &#039;alarmtilløber&#039; fra andre afdelinger skal have på sig hele tiden.</p><p>Den procedure kendte de tililende kolleger bare ikke.</p><p>- I den strøm af mails, der har været i den her flytteproces, er den her information nok druknet, siger fællestillidsrepræsentant for psykiatrien på Aalborg Universitetshospital, Tina Brejl Aagaard.</p> <p>Ifølge TV2 Nords oplysninger, var der kolleger fra andre afdelinger, der forgæves forsøgte at komme deres kolleger til undsætning under overfaldet. </p><p>Men de kunne ikke komme ind. Det var derfor angrebne medarbejdere, der selv måtte lukke kollegerne ind under overfaldet.</p> <h2>Actioncards fra ledelsen</h2><p>For at genopfriske den nye procedure har ledelsen på hospitalet i dag lavet nye actioncards til de andre afdelinger.</p><p>- Der er en læringskurve i det her, og i forløbet i går kan vi godt se, at der er brug for at vi gentager de procedurer, der er omkring, hvordan man bruger nøglerne, når man skal bevæge sig mellem afdelingerne. Vi opdaterer vores actioncards og kommunikerer omkring det, siger Peter Larsen, der er vicedirektør på Aalborg Universitetshospital.</p><p>De to medarbejdere, der blev angrebet af en patient, blev begge behandlet på skadestuen efterfølgende. I alt fire medarbejdere er sygemeldt efter hændelsen.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/hospitalspersonale-kunne-ikke-hjaelpe-under-overfald-vidste-ikke-hvor-noglen-var-c5aa8",
-  "published": "Mon, 01 Jun 26 16:31:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/hospitalspersonale-kunne-ikke-hjaelpe-under-overfald-vidste-ikke-hvor-noglen-var-c5aa8",
+  "title": "200 unge invaderede byfest",
+  "description": "<p>Klitmøller Sommerfest har eksisteret i 25 år, og i langt det meste af byfestens levetid har arrangørerne ikke oplevet problemer. I weekenden gik det dog anderledes, da 200 unge pludselig dukkede op.</p><p>Om dagen var familier velkomne til fodboldturnering, hoppeborg og tombola, mens aftenen var forbeholdt grillmad, dj og livemusik for voksne over 18 år.</p><p>Om der i byfestens tidligere år kan have sneget sig nogle af byens unge ind til voksenfest i teltet, kan medarrangør Martin Eigenbroth ikke afvise.</p><p>- Men det har vi sgu altid kunnet styre, siger han.</p><p>Sommerfestens positive historik blev ramt af de første, store udfordringer sidste år, da 40 unge uanmeldt mødte op.</p><p>- Da mange ikke var gamle nok til at købe alkohol eller komme ind i teltet, sad de udenfor og holdt deres egen fest med medbragte drikkevarer, forklarer Martin Eigenbroth.</p><p>I år gentog det billede sig, men problemet var vokset, for pludselig handlede det i stedet om 200 unge.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/200-unge-invaderede-byfest-2e616",
+  "published": "Tue, 02 Jun 26 07:40:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/200-unge-invaderede-byfest-2e616",
   "category": "No category"
  },
  {
@@ -267,28 +267,12 @@
   "category": "Jagten på større virksomheder"
  },
  {
-  "title": "Tre kvinder ville skabe et andet tilbud til byens børn. Nu er Børnehuset en del af Døstrups dna",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/mariagerfjord/tre-kvinder-ville-skabe-et-andet-tilbud-til-byens-boern-nu-er-boernehuset-en-del-af-doestrups-dna/6051324?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 02 Jun 2026 03:40:48 Z",
-  "guid": "38c97a20-0892-4e0c-af21-0d5cbae7ed30",
-  "category": "Da byen selv tog fat"
- },
- {
-  "title": "Nordjyske mener:       \nUenighed er demokratiets grundvilkår",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/leder/nordjyske-mener-uenighed-er-demokratiets-grundvilkaar/6055767?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 02 Jun 2026 03:36:47 Z",
-  "guid": "64ca79ec-2920-4496-89b5-808eb8c66aad",
+  "title": "Nordjyske mener: Regeringen er på plads.  \nNu skal løfterne måles mod virkeligheden.",
+  "description": "Efter 69 dages forhandlinger er en ny regering på plads. Men det afgørende er ikke, hvem der blev enige med hvem. Det afgørende er, hvad beslutningerne kommer til at betyde for Nordjylland.",
+  "link": "https://nordjyske.dk/nyheder/leder/nordjyske-mener-regeringen-er-paa-plads-nu-skal-loefterne-maales-mod-virkeligheden/6060872?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 02 Jun 2026 08:00:46 Z",
+  "guid": "f0dd5383-e66f-4a3c-b58a-da0a95108641",
   "category": "Nordjyske mener"
- },
- {
-  "title": "Med landsholdsspillers underskrift begynder fremtidens Aalborg Håndbold-hold allerede at tegne sig",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/sport/med-landsholdsspillers-underskrift-begynder-fremtidens-aalborg-haandbold-hold-allerede-at-tegne-sig/6059150?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 02 Jun 2026 03:32:49 Z",
-  "guid": "0e05d036-0561-42e1-a026-d67581532fbd",
-  "category": "Aalborg Håndbold"
  },
  {
   "title": "Historisk aften: Nordjylland fik to nye Michelin-stjerner - og ændrede sin plads på det gastronomiske landkort",
@@ -299,12 +283,20 @@
   "category": "Michelin-guiden"
  },
  {
-  "title": "Nordjyske mener: Naturen er vigtig og fortjener ikke halvtomme skåltaler og dårlig rap",
+  "title": "Tre kvinder ville skabe et andet tilbud til byens børn. Nu er Børnehuset en del af Døstrups dna",
   "description": "",
-  "link": "https://nordjyske.dk/nyheder/leder/nordjyske-mener-naturen-er-vigtig-og-fortjener-ikke-halvtomme-skaaltaler-og-daarlig-rap/6056020?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 01 Jun 2026 22:00:20 Z",
-  "guid": "ada2dba3-eeb0-4e28-b02c-610c578eb0e3",
-  "category": "Nordjyske mener"
+  "link": "https://nordjyske.dk/nyheder/mariagerfjord/tre-kvinder-ville-skabe-et-andet-tilbud-til-byens-boern-nu-er-boernehuset-en-del-af-doestrups-dna/6051324?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 02 Jun 2026 03:40:48 Z",
+  "guid": "38c97a20-0892-4e0c-af21-0d5cbae7ed30",
+  "category": "Da byen selv tog fat"
+ },
+ {
+  "title": "Med landsholdsspillers underskrift begynder fremtidens Aalborg Håndbold-hold allerede at tegne sig",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/sport/med-landsholdsspillers-underskrift-begynder-fremtidens-aalborg-haandbold-hold-allerede-at-tegne-sig/6059150?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 02 Jun 2026 03:32:49 Z",
+  "guid": "0e05d036-0561-42e1-a026-d67581532fbd",
+  "category": "Aalborg Håndbold"
  },
  {
   "title": "Havnedirektørens strategi er gal eller genial. Jeg hælder mest til det sidste",
@@ -321,6 +313,22 @@
   "published": "Mon, 01 Jun 2026 09:39:13 Z",
   "guid": "05f1f2be-fb6f-4bfe-9355-8c79b595ba6d",
   "category": "Skolevæsen"
+ },
+ {
+  "title": "Nordjyske mener:       \nUenighed er demokratiets grundvilkår",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/leder/nordjyske-mener-uenighed-er-demokratiets-grundvilkaar/6055767?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 02 Jun 2026 03:36:47 Z",
+  "guid": "64ca79ec-2920-4496-89b5-808eb8c66aad",
+  "category": "Nordjyske mener"
+ },
+ {
+  "title": "Nordjyske mener: Naturen er vigtig og fortjener ikke halvtomme skåltaler og dårlig rap",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/leder/nordjyske-mener-naturen-er-vigtig-og-fortjener-ikke-halvtomme-skaaltaler-og-daarlig-rap/6056020?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 01 Jun 2026 22:00:20 Z",
+  "guid": "ada2dba3-eeb0-4e28-b02c-610c578eb0e3",
+  "category": "Nordjyske mener"
  },
  {
   "title": "Stenhøj Husene har tjent 100 millioner på fire år, og metoden kan kopieres. Men det kræver disciplin",
@@ -347,7 +355,7 @@
   "category": "Erhverv"
  },
  {
-  "title": "AaB-overblik: Tysker stopper. Afløseren er hentet i Hobro",
+  "title": "AaB-overblik: Sportschef har erfarne spillere højt på ønskelisten",
   "description": "Få overblikket over de vigtigste AaB-nyheder",
   "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 22 Apr 2026 07:27:27 Z",
@@ -409,13 +417,5 @@
   "published": "Sun, 31 May 2026 03:48:45 Z",
   "guid": "ab8998d8-4a20-48f3-9499-aa36ec87e5b3",
   "category": "Det trygge Nordjylland?"
- },
- {
-  "title": "Malthe Reipurth gør dine medarbejdere op til 40 gange hurtigere. Det svære kommer bagefter",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/malthe-reipurth-goer-dine-medarbejdere-op-til-40-gange-hurtigere-det-svaere-kommer-bagefter/6023510?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 31 May 2026 03:41:47 Z",
-  "guid": "e7649b9b-0e1e-4b1b-ac58-29e6b36a2290",
-  "category": "Erhverv"
  }
 ]
