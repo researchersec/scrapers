@@ -1,5 +1,14 @@
 [
  {
+  "title": "Når festen for de unge bliver for våd, står hjælpen klar på Hjallerup Marked",
+  "description": "Hjallerup Marked har i år ekstra fokus på at passe på unge, der har drukket for meget. Skilte skal hjælpe dem med at komme ordentligt hjem.",
+  "link": "https://www.dr.dk/nyheder/indland/naar-festen-de-unge-bliver-vaad-staar-hjaelpen-klar-paa-hjallerup-marked",
+  "published": "Thu, 04 Jun 2026 13:00:28 GMT",
+  "guid": "urn:dr:umbraco:article:628c9885-920f-446e-8a8e-05636571db2a",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/u5nhj0a2/hjallerup-marked-2.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Cyklistformand om gratis offentlig transport: 'Hvad med cyklerne'",
   "description": "En del af regeringsgrundlaget foreslår at offentlig transport skal være gratis for børn og unge op til 22 år, men det er ikke alle, som er fan af den ide.",
   "link": "https://www.dr.dk/nyheder/indland/cykelistformand-om-gratis-offentlig-transport-hvad-med-cyklerne",
@@ -170,13 +179,52 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/4tynnnpo/1740594737_jens_borup_topbillede.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Dødsulykke på Læsø er anden faldskærmsulykke på to måneder",
-  "description": "Dødsulykker indenfor faldskærmsudspring er usædvanlige, ifølge Dansk Faldskærms Union.",
-  "link": "https://www.dr.dk/nyheder/indland/doedsulykke-paa-laesoe-er-anden-faldskaermsulykke-paa-maaneder",
-  "published": "Mon, 25 May 2026 12:30:00 GMT",
-  "guid": "urn:dr:umbraco:article:a58d1cf7-2578-4e3c-a783-722501ada590",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/yjhpz0bj/20250901-202038-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Spor spærret: Bil havareret på motorvejen",
+  "description": "<p>En bil er torsdag aften havareret på nordjyske motorvej E45 i nordgående retning mellem Sønderup og rasteplads Himmerland. </p><p>Det oplyser Vejdirektoratet. </p><p>Venstre spor er spærret, og politiet er på stedet.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/spor-spaerret-bil-havareret-pa-motorvejen-65d87",
+  "published": "Thu, 04 Jun 26 18:12:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/spor-spaerret-bil-havareret-pa-motorvejen-65d87",
+  "category": "No category"
+ },
+ {
+  "title": "'Mit erhverv dør, hvis jeg ikke må klippe mine grises haler'",
+  "description": "<p>Ifølge det nye regeringsgrundlag, så skal der sættes en stopper for halekupering, som i dag er tilladt i de besætninger, hvor landmanden kan dokumentere, at han ikke kan afsætte sine dyr, medmindre deres haler bliver klippet.</p><p>- Min produktion kan stort set lige så godt lukke ned, hvis jeg ikke må halekupere længere, for jeg kan ikke sælge mine grise. Jeg har tre danske aftagere, og de vil ikke købe mine grise med lange haler, og det er et kæmpe problem, siger Thomas Kristoffersen.</p><p>Hvert år halekuperer landmand Thomas Kristoffersen fra Thy 104.000 småkrise.</p><p>Han laver løbende forsøg med 1.000 grise, som han ikke klipper halen på for at se, om de klarer sig lige så fint, som dem der bliver klippet. Men hvis halen ikke bliver fjernet, så kan han slet ikke afsætte grisene, mener han.</p><p>- Det kan godt være, at der ikke er noget problem med de grise, der går her, men så snart grisene kommer ud til slagtesvinsproducenterne, så kan de få problemer med halebid, og det er en frygtelig sygdom, hvor de bider hinanden i halerne, og der kommer bylder op i ryggen, og så bliver den kasseret, når den kommer ind på slagteriet, siger Thomas Kristoffersen.</p><h2>Forbud skal håndhæves</h2><p>Regering vil have det totale forbud mod halekupering indført inden år 2030. Men Thomas Kristoffersen mener fortsat ikke, at det er dyrplageri.</p><p>- Det er en meget, meget lille operation, og jeg synes, at det kan man godt være bekendt. Alternativet er halebid, når de bliver store, og det er dét, der er problemet. Jeg vil rigtig gerne være fri for at klippe haler, for jeg synes jo ikke, det er sjovt, men jeg vil bare ikke risikere, at jeg ikke kan sælge mine grise, siger landmanden.</p><p>I dag er det omkring 95 procent af alle grise, der er halekuperet i Danmark. Selv om det kun er tilladt under særlige omstændigheder, hvor landmanden har vurderet og dokumenteret, at det virkelig er nødvendigt.</p>",
+  "link": "https://www.tv2nord.dk/thisted/mit-erhverv-dor-hvis-jeg-ikke-ma-klippe-mine-grises-haler-28a9d",
+  "published": "Thu, 04 Jun 26 16:40:00 +0200",
+  "guid": "https://www.tv2nord.dk/thisted/mit-erhverv-dor-hvis-jeg-ikke-ma-klippe-mine-grises-haler-28a9d",
+  "category": "No category"
+ },
+ {
+  "title": "Forvent forlænget rejsetid efter uheld på motorvejen",
+  "description": "<p>Opdateret klokken 16.52: Vagthavende ved Nordjyllands Politi Erik Lindholt oplyser, at begge spor er åbne igen, og at ingen personer er kommet til skade ved uheldet. </p><p>- Vi er netop blevet færdige derude, og der er kun tale om materielle skader, siger han.</p><p>Der er torsdag eftermiddag sket et uheld på motorvej E45 i sydgående retning. Det oplyser Vejdirektoratet. </p><p>Uheldet er sket mellem Vodskov N og Vodskov. Vejdirektoratet skriver, at uheldsstedet kan passeres med forsigtighed. </p><p>Et enkelt spor er spærret, og Vejdirektoratet forventer, at arbejdet på stedet vil vare frem til klokken 17.00.</p><p>De oplyser desuden, at bilisterne skal væbne sig med tålmodighed. Der er på nuværende tidspunkt en forlænget rejsetid på 10-30 minutter på grund af uheldet.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/pas-pa-uheld-pa-motorvejen-89a68",
+  "published": "Thu, 04 Jun 26 16:06:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/pas-pa-uheld-pa-motorvejen-89a68",
+  "category": "No category"
+ },
+ {
+  "title": "35-årig kvinde anholdt i sag om knivstikkeri i Frederikshavn",
+  "description": "<p>Nordjyllands Politi har torsdag anholdt en 35-årig kvinde i den sag, hvor en 34-årig mand blev stukket ned i Frederikshavn. Politiet har haft gang i en intensiv efterforskning siden de mandag løslod en kvinde, som de mente, var mistænkt i sagen.</p><p>- Vi har i dag kort efter klokken 12 anholdt en 35-årig kvinde fra Frederikshavn i en lejlighed også i Frederikshavn, og vi har en stærk formodning om, at kvinden er identisk med efterlyste på det foto, vi offentliggjorde i mandags, siger vicepolitiinspektør Mikkel Lousdal fra Nordjyllands Politi.</p><p>Det var mandag eftermiddag, at de første meldinger om et knivstikkeri i Frederikshavn kom. Da Nordjyllands Politi ankom til Frederikshavn, var manden allerede afgået ved døden.</p><p>Politiet har i forbindelse med sagen modtaget en del henvendelser fra offentligheden, og det vil de gerne takke for.</p><p>- Vi er taknemmelige for henvendelserne, som i samspil med den intense efterforskning har ledt til, at vi har kunnet skride til anholdelse i dag. Nu forsætter efterforskningsarbejdet, hvor vi blandt andet har en del tekniske spor og videoovervågning, som vi fortsat arbejder med, fortæller Mikkel Lousdal.</p><p>Den 35-årige kvinde fremstilles i grundlovsforhør i Aalborg fredag klokken 11. Her forventes det, at anklagemyndigheden vil anmode om lukkede døre.</p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/politi-anholder-35-arig-kvinde-i-sag-om-knivstikkeri-i-frederikshavn-802a7",
+  "published": "Thu, 04 Jun 26 13:53:00 +0200",
+  "guid": "https://www.tv2nord.dk/frederikshavn/politi-anholder-35-arig-kvinde-i-sag-om-knivstikkeri-i-frederikshavn-802a7",
+  "category": "No category"
+ },
+ {
+  "title": "Politi anholder 35-årig kvinde i sag om knivstikkeri i Frederikshavn",
+  "description": "<p>Nordjyllands Politi har torsdag anholdt en 35-årig kvinde i den sag, hvor en 34-årig mand blev stukket ned og afgik ved døden i Frederikshavn. Politiet har haft gang i en intensiv efterforskning siden de mandag løslod en kvinde, som de mente, var mistænkt i sagen.</p><p>- Vi har i dag kort efter klokken 12 anholdt en 35-årig kvinde fra Frederikshavn i en lejlighed også i Frederikshavn, og vi har en stærk formodning om, at kvinden er identisk med efterlyste på det foto, vi offentliggjorde i mandags, siger vicepolitiinspektør Mikkel Lousdal fra Nordjyllands Politi.</p> <p>Det var mandag eftermiddag, at de første meldinger om et knivstikkeri i Frederikshavn kom. Da Nordjyllands Politi ankom til Frederikshavn, var manden allerede afgået ved døden.</p><p>Politiet har i forbindelse med sagen modtaget en del henvendelser fra offentligheden, og det vil de gerne takke for.</p><p>- Vi er taknemmelige for henvendelserne, som i samspil med den intense efterforskning har ledt til, at vi har kunnet skride til anholdelse i dag. Nu forsætter efterforskningsarbejdet, hvor vi blandt andet har en del tekniske spor og videoovervågning, som vi fortsat arbejder med, fortæller Mikkel Lousdal.</p> <p>Nordjyllands Politi spærrede dernæst et stort område af i Frederikshavn, mens de arbejdede på stedet, og både mandag og tirsdag etablerede de også Den Mobile Politistation ved Føtex.</p><p>Knivstikkeriet i Frederikshavn fyldte meget i byen og hos byens borgere, og her valgte Nordjyllands politi også at &#039;gunne op&#039; på efterforskningen.</p><p>Den 35-årige kvinde fremstilles i grundlovsforhør i Aalborg fredag klokken 11. Her forventes det, at anklagemyndigheden vil anmode om lukkede døre.</p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/politi-anholder-35-arig-kvinde-i-sag-om-knivstikkeri-i-frederikshavn-aad03",
+  "published": "Thu, 04 Jun 26 13:07:00 +0200",
+  "guid": "https://www.tv2nord.dk/frederikshavn/politi-anholder-35-arig-kvinde-i-sag-om-knivstikkeri-i-frederikshavn-aad03",
+  "category": "No category"
+ },
+ {
+  "title": "Pølsevogn faldt ned fra himlen: Nu er sagen slut",
+  "description": "<p>Et uheld med en stor kran fra BMS i Aalborg spærrede 28. maj Stationsvej i det centrale Holstebro tæt ved Nørreport Centret.</p><p>Kranen var ved at løfte en pølsevogn op på en stor bygning, hvor der skulle holdes rejsegilde, men af indtil videre ukendte årsager faldt kranens arm pludselig til jorden, så pølsevognen blev smadret.</p> <p>Armen faldt ned tæt på en bil, der holdt for rødt, men lykkeligvis kom ingen til skade.</p><p>Arbejdstilsynet blev tilkaldt stedet for at undersøge uheldet. TV MIDTVEST har nu fået aktindsigt i tilsynets rapport.</p><p>Her fremgår det, at Arbejdstilsynet ikke gør mere i sagen, fordi der ikke er sket personskade i forbindelse med uheldet.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/polsevogn-faldt-ned-fra-himlen-nu-er-sagen-slut-660fe",
+  "published": "Thu, 04 Jun 26 13:00:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/polsevogn-faldt-ned-fra-himlen-nu-er-sagen-slut-660fe",
+  "category": "No category"
  },
  {
   "title": "39 borgere blev hentet af politiet i aktion",
@@ -195,7 +243,7 @@
   "category": "No category"
  },
  {
-  "title": "Anfører forventer 'blodigt' opgør",
+  "title": "Følg optakten her",
   "description": "<p>Torsdag aften kan Aalborg Håndbold snuppe det danske mesterskab, hvis de vinder returopgøret mod Skanderborg-AGF på udebane i Aarhus.</p><p>Men der venter en &#039;nærmest&#039; blodig anden finalekamp, der spilles i Aarhus klokken 20.30.</p><p>Du kan følge med i vores liveblog herunder, hvor vi varmer op til aftenens kamp med løbende opdateringer dagen igennem. </p><p>Herudover står vi også klar i Aarhus, når spillerne ankommer til arenaen, ligesom du kan følge den eventuelle mesterskabsfejring efter slutfløjt med livebilleder direkte fra halgulvet i Djursland Bank Arena. </p>",
   "link": "https://www.tv2nord.dk/aalborg/anforer-forventer-blodigt-opgor-83a25",
   "published": "Thu, 04 Jun 26 11:23:00 +0200",
@@ -203,60 +251,20 @@
   "category": "No category"
  },
  {
-  "title": "Trods løfte om serviceeftersyn er der stadig flertal for Egholm-forbindelsen",
-  "description": "<p>Når Limfjordsøen Egholm fredag lægger jord til et grundlovsmøde, vil der uden tvivl blive talt rigtig meget om en bestemt sætning i det 80 sider lange regeringsgrundlag.</p><p>På side 21 står der - uden yderligere forklaring - at den ny regering vil &#039;igangsætte et serviceeftersyn af Infrastrukturplan 2035&#039;.</p><p>Det er den plan, som et meget stort antal partier i 2021 indgik, og som blandt meget, meget andet omfatter en ny Limfjordsforbindelse via Egholm. Præcis denne del af aftalen står Enhedslisten, Alternativet og SF udenfor. Men to andre partier, som nu er i regering, Socialdemokratiet og Radikale, er med i aftalen, som Moderaterne senere, da de opstod, har tilsluttet sig.</p> <p>De radikale er med i den del af aftalen, der handler om Egholm-forbindelsen, selv om partiet i dag er imod projektet. </p><p>Vi har altså fået en regering, hvor to partier er lodret imod milliard-projektet, mens to andre er for. Og posterne som miljøminister og transportminister er besat af politikere fra SF, Maria Reumert Gjerding og Signe Munk.</p><p>Førstnævnte har hidtil været præsident for Danmarks Naturfredningsforening og medvirkede i den egenskab for nogle år siden i en video, optaget på Egholm, hvor hun blandt andet sagde: </p><p>&#039;Egholm er en fantastisk perle … I en tid, hvor befolkningen har søgt naturen som aldrig før, ønsker at komme ud og opleve den, ønsker at være i den, vil det være en meget stor fejl at føre en motorvej tværs over Egholm … Jeg håber indtrængende, at man vil lytte til alle de borgere, der er imod en tredje Limfjordsforbindelse over Egholm og vil kikke på andre løsninger for trafikken&#039;.</p> <p>Det gjorde man som bekendt ikke. Og for to år siden vedtog Folketinget en anlægslov for projektet.</p><p>Foreningen Egholm Venner har på sin Facebook-side hjælpsomt mindet den ny minister - og alle andre - om, hvad hun i sin tid sagde. </p><h2>Radikale: Nu må vi se…</h2><p>Til fredagens grundlovsmøde på Egholm har arrangørerne inviteret tre nordjyske folketingsmedlemmer fra SF, Radikale Venstre og Alternativet.</p><p>Den nyvalgte radikale Steffen Helledie har på Facebook kommenteret den enlige sætning i regeringsgrundlaget og dets mulige konsekvenser for Egholm-projektet: “Nu må vi se, hvad vi kan få ud af den her type eftersyn, men vi møder velforberedt op og glæder os til at inddrage alle i processen,” skriver han.</p><p>Ingen i regeringspartierne er her og nu i stand til at uddybe, hvori et serviceeftersyn kunne bestå.</p><p>Men selv her tror de færreste på, at udgangen kan blive, at projektet opgives. Blandt andet fordi de partier, der stod bag forliget og anlægsloven, stadig har et solidt flertal i Folketinget, og fordi arbejdet i marken er begyndt.</p> <p>Til gengæld kan serviceeftersynet måske, vurderes det, blive en løftestang for yderligere at få reduceret generne i forhold til naboerne - eksempelvis ved at der gøres mere, end der p.t. er lagt op til, med hensyn til reduktion af støj. </p><p>Under alle omstændigheder kan formuleringen for den ny regering - og særligt regeringspartierne, der er imod forbindelsen - bruges til at vinde tid. Det har været forventeligt, at ikke mindst SF - der hele vejen har været imod og nu besætter de to ministerposter, der handler om trafik og miljø - hurtigt ville blive udfrittet om, hvad især de to ministre i dag mener om Egholm-projektet. </p><p>Nu kan de, i hvert fald for en tid, nøjes med at henvise til det planlagte serviceeftersyn. Hvori det så kommer til at bestå. </p>",
-  "link": "https://www.tv2nord.dk/aalborg/trods-lofte-om-serviceeftersyn-er-der-stadig-flertal-for-egholm-forbindelsen-8868d",
-  "published": "Thu, 04 Jun 26 10:35:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/trods-lofte-om-serviceeftersyn-er-der-stadig-flertal-for-egholm-forbindelsen-8868d",
+  "title": "- Jeg er træt af det",
+  "description": "<p>- Jeg er da træt af det, siger Søren Smalbro og kalder situationen &#039;skidt for Danmark&#039;, at politikere fra oplandet, og særligt Nordjylland, er underrepræsenteret i den nye regering.</p><p>Han peger på, at landsdelen allerede kæmper med udfordringer på både infrastruktur og elnet.</p><p>- Vi må bare erkende, at vi har en landsdel, hvor vejen til beslutningerne er nemmere tilgængelig, hvis man har en minister, der kan bære sagerne ind, siger han.</p><h2>Stor overvægt i, hvor ministre kommer fra</h2><p>Og tallene bakker Hjørrings borgmesters bekymring op.</p><p>Ifølge en optælling som TV2.dk har lavet, viser, at der er flest ministre, der er valgt ind i København, og at 13 ud af de 20 ministre, der er valgt ind i Folketinget, har været opstillet på Sjælland.</p><p>Det er det samme som den afgående regering, hvor 13 ud af 21 ministre var valgt ind øst for Storebælt.</p><p>TV 2 har sammenlignet med de ministre, der har siddet på posterne i den netop afgåede regering – og altså ikke det ministerhold, der blev præsenteret i forbindelse med folketingsvalget i 2022.</p> <h2>Ærgerlig fornemmelse</h2><p>Ifølge borgmesteren betyder den lave ministerrepræsentation, at der nu hviler et større ansvar på de nordjyske folketingspolitikere.</p><p>– Det stiller nogle skarpe krav til de folketingspolitikere, der er blevet valgt, siger han.</p><p>Søren Smalbro lægger ikke skjul på, at han er skuffet.</p><p>- Det er en ærgerlig fornemmelse, jeg sidder med, siger han.</p><p>Men han understreger samtidig, at han har tillid til de nordjyske politikere, der trods alt er valgt.</p><p>- Vi må sætte vores lid til dem, der er blevet valgt. Og det gør jeg, afslutter han.</p>",
+  "link": "https://www.tv2nord.dk/hjoerring/jeg-er-traet-af-det-71214",
+  "published": "Thu, 04 Jun 26 11:07:00 +0200",
+  "guid": "https://www.tv2nord.dk/hjoerring/jeg-er-traet-af-det-71214",
   "category": "No category"
  },
  {
-  "title": "Pas på og vær opmærksom på vejen",
-  "description": "<p><em>Opdateret klokken 10.47</em></p><p>Højre spor er åben igen, og vejhjælp er kørt fra stedet.</p><p>Der ligger tabt gods på E39 Hirtshalsmotorvejen fra Hirtshals til Aalborg mellem afkørsel 4 Hjørring S og afkørsel 5 Vrå.</p><p>Det fremgår af Vejdirektoratets Trafikkort.</p><p>Det er højre spor, der er blokeret, og vejhjælp er på vej. For nu lyder opfordringen: &#039;Pas på&#039;.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/pas-pa-og-vaer-opmaerksom-pa-vejen-1c611",
-  "published": "Thu, 04 Jun 26 10:07:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/pas-pa-og-vaer-opmaerksom-pa-vejen-1c611",
-  "category": "No category"
- },
- {
-  "title": "Skagen og Michelinguide i samarbejde",
-  "description": "<p>Til april næste år kommer en ny madfestival til at se dagens lys på toppen af Danmark, der løber af stablen i midten af april næste år.</p><p>Og det bliver en madfestival med en del stjernestøv.</p><p>For Toppen af Danmark har nemlig indgået et strategisk samarbejde med Michelinguiden.</p><p>Over ti dage vil festivalen samle restauranter, producenter, destinationer og gastronomiske oplevelser fra hele Nordjylland.</p><p>Som en del af festivalens program afholdes to Michelinguides kulinariske showcase-events, der er udviklet og produceret af michelinguiden.</p><p>Festivalen åbnes den 15. april med grand opening og en Michelinguidens kulinariske showcase hos Aalborg Kongres og Kultur Center, mens den afsluttes den 24. april med Michelinguidens kulinariske showcase hos Maskinrummet i Skagen. Begge arrangementer udvikles og produceres af Michelinguiden.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/skagen-og-michelinguide-i-samarbejde-18dde",
-  "published": "Thu, 04 Jun 26 10:03:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/skagen-og-michelinguide-i-samarbejde-18dde",
-  "category": "No category"
- },
- {
-  "title": "Mere end et tons kabler stjålet fra åben genbrugsstation",
-  "description": "<p>Hvordan stikker man lige afsted med et tons kabler i alle mulige forskellige størrelser og former?</p><p>Det er et spørgsmål, som end ikke Lokalpolitiet i Vesthimmerland kan svare på.</p><p>På Haverslevvej i Skørping er der nemlig fra en åben genbrugsstation blevet stjålet et tons kabler. Det er sket i perioden fra 2. juni klokken 16 til 3. juni klokken 7.</p><p>Det oplyser lokalpolitiet i Himmerland.</p><p>Politiet kan på nuværende tidspunkt ikke udtale sig om, hvad der konkret er blevet stjålet af kabler, men værdiangivelsen er 28.000 kroner.</p><p>Og kobber er i høj kurs hos tyve i Nordjylland. For nylig har TV2 Nord fortalt om, at mere end 200 kobberkæder er blevet stjålet fra flere grave på to kirkegårde i Frederikshavn Kommune.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/mere-end-et-tons-kabler-stjalet-fra-aben-genbrugsstation-3b40f",
-  "published": "Thu, 04 Jun 26 09:45:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/mere-end-et-tons-kabler-stjalet-fra-aben-genbrugsstation-3b40f",
-  "category": "No category"
- },
- {
-  "title": "Havareret køretøj og spærret spor under redningsarbejde",
-  "description": "<p><em>Opdateret klokken 10.06</em></p><p>Redningsarbejdet er slut, og sporet er genåbnet.</p><p>Torsdag formiddag meldes der om redningsarbejde på E39 på strækningen fra Aalborg mod Hirtshals.</p><p>Redningsarbejdet foregår mellem afkørsel 6 Brønderslev C og afkørsel 5 Vrå. Det fremgår af Vejdirektoratets Trafikkort.</p><p>Der meldes desuden om et havareret køretøj, som spærrer et af sporene.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/havareret-koretoj-og-spaerret-spor-under-redningsarbejde-fc6a9",
-  "published": "Thu, 04 Jun 26 09:26:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/broenderslev/havareret-koretoj-og-spaerret-spor-under-redningsarbejde-fc6a9",
-  "category": "No category"
- },
- {
-  "title": "Skagen og Michelinguide i samarbejde: Vil sætte Nordjylland på det gastronomiske verdenskort",
-  "description": "<p>Til april næste år kommer en ny madfestival til at se dagens lys på toppen af Danmark, der løber af stablen i midten af april næste år. </p><p>Og det bliver en madfestival med en del stjernestøv. </p><p>For Toppen af Danmark har nemlig indgået et strategisk samarbejde med Michelinguiden.</p><p>Over ti dage vil festivalen samle restauranter, producenter, destinationer og gastronomiske oplevelser fra hele Nordjylland.</p> <h2>Flere aktører involveret</h2><p>Som en del af festivalens program afholdes to Michelinguides kulinariske showcase-events, der er udviklet og produceret af michelinguiden.</p><p>Festivalen åbnes den 15. april med grand opening og en Michelinguidens kulinariske showcase hos Aalborg Kongres og Kultur Center, mens den afsluttes den 24. april med Michelinguidens kulinariske showcase hos Maskinrummet i Skagen. Begge arrangementer udvikles og produceres af Michelinguiden.</p><p> - Når vi investerer i gastronomi, investerer vi ikke kun i restauranter. Vi investerer i turisme, arbejdspladser, bosætning og i Nordjyllands internationale position. The MICHELIN Guide er en international reference inden for gastronomi og rejseoplevelser, og samarbejdet giver os en unik mulighed for at skabe international opmærksomhed omkring Nordjyllands gastronomiske styrker. Samtidig kommer det i en uge, hvor Nordjylland har fået to nye Michelin-stjerner. Det understreger, at vi har noget helt særligt at bygge videre på, siger turistdirektør Nicolai Nissen fra Toppen af Danmark.</p> <p>En del af partnerskabet betyder, at der vil der være &#039;omfattende international markedsføring&#039;, der bliver rettet mod steder som Hamborg, Oslo, Göteborg, København og Aarhus.</p><p>Satsningen er ifølge Toppen af Danmark blevet til takket være foreningen 300 medlemmer, sponsorer og fonde, ligesom opbakningen fra Region Nordjylland og Frederikshavn Kommune også er sikret.</p><p>- Vi har i et stykke tid fulgt Toppen af Danmarks bestræbelser og ser med stor optimisme på fremtiden for gastroturismen i Nordjylland. Ikke alene er Nordjylland endelig - fristes jeg til at sige – for alvor kommet på Michelin kortet. Skagen Food Festival til april næste år vil løfte turismen bredt set. Nordjylland er kendt for kvalitet, lokale fødevarer og madoplevelser som en væsentlig del af turen til landsdelen, og det er ikke bare vigtigt for restauranterne, men for hele turisme- og oplevelsesindustrien, siger branchedirektør i Dansk Erhverv, Lars Ramme Nielsen.</p><p>Du kan allerede fra i dag købe billet til madfestivalen.</p>",
-  "link": "https://www.tv2nord.dk/frederikshavn/skagen-og-michelinguide-i-samarbejde-vil-saette-nordjylland-pa-det-gastronomiske-verdenskort-5a6b3",
-  "published": "Thu, 04 Jun 26 09:04:00 +0200",
-  "guid": "https://www.tv2nord.dk/frederikshavn/skagen-og-michelinguide-i-samarbejde-vil-saette-nordjylland-pa-det-gastronomiske-verdenskort-5a6b3",
-  "category": "No category"
- },
- {
-  "title": "Mødte ind til smadrede ruder og knuste flasker - nu kommer forening med opråb",
-  "description": "<p>Smadrede ruder. Knuste flasker. Ødelagt inventar.</p><p>Det var synet, der mødte de frivillige bag Vrå Musikfestival, da de i denne uge gik i gang med at gøre Vrå Gamle Skole klar til årets arrangement.</p><p>Ifølge arrangørerne er det ikke første gang, at området bliver brugt som mødested - og det har de ingen problemer med. Men denne gang var opholdet blevet til decideret hærværk.</p><p>&#039;Vi ved godt, at mange unge bruger området, og det er helt fint. Men problemet opstår, når ophold bliver til ødelæggelser&#039;, skriver festivalgruppen i et opslag på Facebook.</p> <h2>- Man bliver sgu så ked af det</h2><p>Næstformand i Vrå Beboer- og Erhvervsforening, Henrik Christensen, fortæller, at skaderne var omfattende.</p><p>- Man bliver sgu så ked af det, når man ser en masse af ruder, der var smadret. Inde i skabene var der gået i sodavand og øl, som var til de frivillige, og flaskerne var også smadret. Der var også ødelagt møbler, siger han.</p><p>– I stedet for at planlægge festival står vi og rydder op. For fanden da, hvad er det, der foregår?</p><p>Vrå Gamle Skole har stået tom i fire-fem år og ligger afsides, og det er et gentagende problem, at der bliver begået hærværk på den gamle skole, fortæller Henrik Christensen.</p><p>– Skolen ligger afsides, og de ved, at de har ro der, fortæller han.</p> <h2>Skolen skal rives ned  men bruges stadig</h2><p>Vrå Gamle Skole står til at blive revet ned på sigt, men fungerer stadig som base for de frivillige, der bruger mange timer på at skabe aktiviteter og oplevelser for byen.</p><p>Og festivalgruppen har en klar opfordring til dem, der nu måtte bruge området:</p><p>Brug området. Mød vennerne. Hæng ud. Men stop ødelæggelserne.</p><p>Trods hærværket fortsætter forberedelserne frem mod festivalen den 27. juni, hvor op mod 1500 gæster kan få sagt farvel til den gamle skole med livemusik.</p><p>Og arrangørerne håber på udsolgt.</p><p>– Det er ærgerligt at skulle bruge tid på at rydde op. Men vi giver ikke op, siger Henrik Christensen.</p>",
-  "link": "https://www.tv2nord.dk/hjoerring/modte-ind-til-smadrede-ruder-og-knuste-flasker-nu-kommer-forening-med-oprab-30fb8",
-  "published": "Thu, 04 Jun 26 08:51:00 +0200",
-  "guid": "https://www.tv2nord.dk/hjoerring/modte-ind-til-smadrede-ruder-og-knuste-flasker-nu-kommer-forening-med-oprab-30fb8",
-  "category": "No category"
+  "title": "Hobro-boss har ét altoverskyggende ønske for det kommende transfervindue",
+  "description": "Hobro har allerede ryddet godt op i en lidt for stor spillertrup, hvor der skal gøres plads til særligt to tilføjelser",
+  "link": "https://nordjyske.dk/nyheder/sport/hobro-boss-har-t-altoverskyggende-oenske-for-det-kommende-transfervindue/6063730?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 04 Jun 2026 15:54:19 Z",
+  "guid": "0e5a8d5f-49a4-43e8-9716-01bd2f83ccbe",
+  "category": "Fodbold"
  },
  {
   "title": "Jeg har læst regeringsgrundlaget. Det største problem for nordjysk erhvervsliv står der ikke",
@@ -409,13 +417,5 @@
   "published": "Wed, 03 Jun 2026 03:30:45 Z",
   "guid": "9b062f29-0084-4acd-baae-a37a53e3c176",
   "category": "AaB"
- },
- {
-  "title": "De fem vigtigste nordjyske slag i regeringens plan",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/politik/de-fem-vigtigste-nordjyske-slag-i-regeringens-plan/6060894?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 02 Jun 2026 15:11:52 Z",
-  "guid": "76ef9f4f-0bf8-4539-9df6-7d2265a3f0be",
-  "category": "Politik"
  }
 ]
