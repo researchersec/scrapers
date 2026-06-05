@@ -1,5 +1,23 @@
 [
  {
+  "title": "Forældrene må klare oprydningen alene: EU-regler spænder ben for at 6. klasse kan hjælpe på Hjallerup Marked",
+  "description": "I årevis har skoleelever fra 6. klasse hjulpet med oprydning på Hjallerup Marked. Efter en henvendelse fra Arbejdstilsynet har markedet nu droppet ordningen, der strider mod EU's regler for børns arbejde",
+  "link": "https://www.dr.dk/nyheder/indland/foraeldrene-maa-klare-oprydningen-alene-eu-regler-spaender-ben-6-klasse-kan-hjaelpe-paa-hjallerup",
+  "published": "Fri, 05 Jun 2026 11:46:00 GMT",
+  "guid": "urn:dr:umbraco:article:4dcb47d3-a7d8-4222-8593-d6060cf86a05",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/v3pjznso/hjallerup-1_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
+  "title": "Regeringens løfte om rent drikkevand vækker glæde - særligt ét sted i landet",
+  "description": "Grænseværdien for nitrat i drikkevandet skal nu sænkes markant, står der i det nye regeringsgrundlag.",
+  "link": "https://www.dr.dk/nyheder/indland/regeringens-loefte-om-rent-drikkevand-vaekker-glaede-saerligt-et-sted-i-landet",
+  "published": "Fri, 05 Jun 2026 09:10:00 GMT",
+  "guid": "urn:dr:umbraco:article:30746d63-7d41-4439-a8dc-e4063b97075d",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/pcgl2llj/nasn_a_indland_vandvaerk_aalborg_hq-00064522_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Den nye regering vil lave fem naturnationalparker til havs – her er 18 forslag til, hvor de skal ligge",
   "description": "I de danske farvande findes der alt fra søanemoner til kalksøjler, spækhuggere og hvidhvaler.",
   "link": "https://www.dr.dk/nyheder/indland/den-nye-regering-vil-lave-fem-naturnationalparker-til-havs-her-er-18-forslag-til-hvor-de-skal-ligge",
@@ -161,101 +179,83 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/e1ujd0yh/hobro-billede_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Picasso-feberen har ramt: Folk strømmer til udstilling",
-  "description": "Den verdenskendte maler lokker rekordmange besøgende til Kunsten i Aalborg.",
-  "link": "https://www.dr.dk/nyheder/indland/picasso-feberen-har-ramt-folk-stroemmer-til-udstilling",
-  "published": "Wed, 27 May 2026 10:15:00 GMT",
-  "guid": "urn:dr:umbraco:article:0eb80be0-2aa1-471b-96cc-9e2d0885c644",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/uhjilysi/kunsten_crop001_crop001_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "35-årig sigtes for vold med døden til følge efter knivdrab",
+  "description": "<p>Den 35-årige kvinde, der torsdag blev anholdt for knivstikkeriet i Frederikshavn i mandags, varetægtsfængsles nu i fire uger.</p><p>Det slog Retten i Aalborg fast efter et grundlovsforhør fredag.</p><p>Kvinden er sigtet for at have stukket en 34-årig mand ned foran hans hjem i Frederikshavn. Hændelsen fandt sted mandag eftermiddag. Allerede inden politiet ankom til Frederikshavn, var manden afgået ved døden.</p><p>Den 35-årige kvinde blev varetægtsfængslet i fire uger og sigtet efter paragraffen &#039;vold med døden til følge&#039;, på trods af at forsvareren argumenterede for lovlig nødværge.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/35-arig-sigtes-for-vold-med-doden-til-folge-efter-knivdrab-1d176",
+  "published": "Fri, 05 Jun 26 13:58:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/35-arig-sigtes-for-vold-med-doden-til-folge-efter-knivdrab-1d176",
+  "category": "No category"
  },
  {
-  "title": "Farvel til duften af frikadeller på panden: Politikere vil skrotte hjemmelavet mad på plejehjem",
-  "description": "Forslaget vækker store følelser i kommunen - især hos de pårørende.",
-  "link": "https://www.dr.dk/nyheder/indland/farvel-til-duften-af-frikadeller-paa-panden-politikere-vil-skrotte-hjemmelavet-mad-paa-plejehjem",
-  "published": "Tue, 26 May 2026 07:09:00 GMT",
-  "guid": "urn:dr:umbraco:article:363c1a6d-df61-4955-b3f1-36a3a8f7ad54",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/1jcfdvfq/elly-hansen_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Kvinde sigtet for vold med døden til følge",
+  "description": "<p>Den 35-årige kvinde, der torsdag blev anholdt for knivstikkeriet i Frederikshavn i mandags, varetægtsfængsles nu i fire uger. </p><p>Det slog Retten i Aalborg fast efter et grundlovsforhør fredag. </p><p>Kvinden er sigtet for at have stukket en 34-årig mand ned foran hans hjem i Frederikshavn. Hændelsen fandt sted mandag eftermiddag. Allerede inden politiet ankom til Frederikshavn, var manden afgået ved døden. </p> <p>En anden kvinde på 45 år blev i første omgang anholdt efter knivstikkeriet, men efterfølgende blev hun løsladt og renset for mistanke. Kort efter efterlyste politiet en anden kvinde. Det er den kvinde, som nu varetægtsfængsles. </p> <h2>Nægter sig skyldig</h2><p>Fredag var TV2 Nord til stede under grundlovsforhøret. Ifølge TV2 Nords reporter er den fængslede en spinkel kvinde. Under grundlovsforhøret var hun iført mørkeblåt fængselsjoggingsæt og kinasko. </p><p>I retslokalet var også en veninde, der havde taget turen hele vejen fra København. Veninden og den nu varetægtsfængslede kvinde fik både lov til at give hinanden en krammer, da den sigtede kom ind i retslokalet, og da hun forlod det med et par betjente. </p><p>Den 35-årige kvinde blev varetægtsfængslet i fire uger og sigtet efter paragraffen &#039;vold med døden til følge&#039;, på trods af at forsvareren argumenterede for lovlig nødværge. </p> <p>Kvinden nægtede sig skyldig og ønskede ikke at afgive forklaring. Hun erkendte dog &#039;subsidiært nødværge&#039;, som er det juridiske begreb for den mindst indgribende handling, der kan bruges til effektivt at afværge et uretmæssigt angreb. </p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/kvinde-sigtet-for-vold-med-doden-til-folge-041f3",
+  "published": "Fri, 05 Jun 26 13:52:00 +0200",
+  "guid": "https://www.tv2nord.dk/frederikshavn/kvinde-sigtet-for-vold-med-doden-til-folge-041f3",
+  "category": "No category"
  },
  {
-  "title": "Havareret køretøj blokerer spor: Passér med forsigtighed",
-  "description": "<p><em>Opdateres</em></p><p>Der meldes om et havareret køretøj, som holder på E45 på Nordjyske Motorvej mod Hobro ved afkørsel 26 Th. Sauers Vej. Det fremgår af Vejdirektoratets Trafikkort.</p><p>Det havarerede køretøj holder og spærrer det ene spor, og derfor kan der forekomme forlænget rejsetid.</p><p>Vejhjælp er på vej til stedet. Det havarerede køretøj kan passeres med forsigtighed.</p><p>Det forventes, at det varer indtil 11.40.</p>",
+  "title": "Havareret køretøj spærrede spor på E45",
+  "description": "<p><em>Opdateret klokken 13.55: Uheldet er ophævet på Vejdirektoratets Trafikkort.</em></p><p>Der meldes om et havareret køretøj på E45 på fra Hobro mod Aalborg mellem afkørsel 34 Hobro N og rastepladsen Senhøj. Det fremgår af Vejdirektoratets Trafikkort.</p><p>Det havarerede køretøj holder og spærrer et spor, og derfor er kun ét spor farbart. Det er højre spor, der er spærret, og det kan resultere i forlænget rejsetid, meddeler Vejdirektoratet klokken 13.21.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/havareret-koretoj-spaerrer-spor-kun-et-farbart-spor-pa-motorvejen-a9620",
+  "published": "Fri, 05 Jun 26 13:23:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/havareret-koretoj-spaerrer-spor-kun-et-farbart-spor-pa-motorvejen-a9620",
+  "category": "No category"
+ },
+ {
+  "title": "Kunne være gået galt: Klud med olie begyndte pludselig at ryge",
+  "description": "<p>Nordjyllands Beredskab hastede fredag middag til Koldby mellem Thisted og Hurup med 10 brandfolk. Meldingen lød i første omgang på brand i en industribygning og røgudvikling</p><p>Ifølge indsatsleder på stedet Jesper Madsen fra Nordjyllands Beredskab, stod det dog heldigvis ikke så slemt til. Han var den første på stedet og kunne umiddelbart ikke se røgen udefra. Inde i bygningen, hvor en produktionsvirksomhed, som forarbejder træ, holder til, viste det sig at være en klud med olie i en metalspand, hvor der kom røg fra. </p><p>Beredskabet kunne hurtigt håndtere situationen ved at tage metalspanden med udenfor og lufte ud i lokalerne, før de igen vendte hjem. </p><p>- Virksomheden slap heldigvis med forskrækkelsen, da der ikke skete mere. Det har sandsynligvis været en forglemmelse, men godt det var i en metalspand. </p><p>Indsatslederen slår fast, at man skal huske at være opmærksomme på klude med olie, da de ifølge ham har været årsag til en del brande i løbet af årene. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/beredskabet-er-rykket-ud-til-brand-i-bygning-7c283",
+  "published": "Fri, 05 Jun 26 13:09:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/beredskabet-er-rykket-ud-til-brand-i-bygning-7c283",
+  "category": "No category"
+ },
+ {
+  "title": "Uvejr: Lyn registreret i Nordjylland",
+  "description": "<p>Dagens første tordenbyge er nu dukket op.</p><p>I det nordligste Jylland nær Skagen er der netop registreret lynaktivitet i en kraftig byge i området.</p><p>Tordenrisikoen er dermed for alvor begyndt og ventes at fortsætte resten af dagen.</p><p><a href=\"https://vejr.tv2.dk/live/2024-12-02-vejr-og-klima/foerste-lyn-registreret-i-dagens-byger?entry=aa0e1ea7-1758-4ff0-88d9-e591a10b7fc4\">Det skriver TV 2.</a></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/uvejr-lyn-registreret-i-nordjylland-97189",
+  "published": "Fri, 05 Jun 26 13:04:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/uvejr-lyn-registreret-i-nordjylland-97189",
+  "category": "No category"
+ },
+ {
+  "title": "Efter længere tids efterforskning: Intet mistænkeligt ved kvindes død",
+  "description": "<p>Nu er der nyt om dødsfaldet ved Gandrup 22. maj, hvor en ældre kvinde gik bort.</p><p>I timerne efter dødsfaldet var politiet til stede på adressen med flere folk for at afklare, om der var sket en forbrydelse i forbindelse med kvindens død. Det viser sig nu, at det ikke var tilfældet.</p><p>- Dødsårsagen er klarlagt, og der er intet, der tyder på en forbrydelse, meddeler Carsten Straszek, politikommissær ved Nordjyllands Politi, til TV2 Nord.</p><p>TV2 Nord var til stede, da retsmedicinere undersøgte stedet og lavede tekniske undersøgelser.</p><p>Kvinden boede alene i huset. Sagen er nu afsluttet.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/efter-laengere-tids-efterforskning-intet-mistaenkeligt-ved-kvindes-dod-af9f1",
+  "published": "Fri, 05 Jun 26 12:34:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/efter-laengere-tids-efterforskning-intet-mistaenkeligt-ved-kvindes-dod-af9f1",
+  "category": "No category"
+ },
+ {
+  "title": "Fortuna Hjørring hyrer gammel kending som cheftræner",
+  "description": "<p>Niclas Hougaard Hansen skal fremover stå i spidsen for Fortuna Hjørring. </p><p>Han vender tilbage til klubben efter fem års fravær.</p><p>- Jeg glæder mig til opgaven, og jeg glæder mig til at komme tilbage. Jeg har tidligere været både ungdoms- og ligatræner i Fortuna og var med til at arbejde med talenter som Emma Snerle, Oliva Holdt, Sara Thrige og Freja Thisgaard.</p><p>Niclas Hougaard Hansen er vant til at arbejde med talentudvikling og kommer fra en stilling som U19-træner i FC Midtjylland.</p><p>- Der er så meget potentiale i Fortuna. Nikoline Nielsen er seneste eksempel på klubbens talentarbejde, men jeg ser samtidig også en styrke i den internationale rekrutteringsmulighed, der ligger via Dana Cup. Sammensætning i truppen af erfarne profiler og yngre talenter er stærk, og på den måde mener jeg, at Fortuna har et stærkt fundament at stå på, siger han.</p><p><br />Den 32-årige træner overtager jobbet fra Lene Terp. 1. juni blev det meldt ud, at hun stopper som cheftræner i klubben efter denne sæson. Hun nåede at sidde tre år i cheftrænerstolen.</p> <p>Fortuna Hjørring ligger i øjeblikket treer i landets bedste kvinderække, A-Liga. 13. juni spiller de sæsonens sidste kamp. Det er en direkte duel mod FC Nordsjælland om bronzemedaljerne. De grønblusede fra Hjørring kan nøjes med et uafgjort resultat.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/fortuna-hjorring-hyrer-gammel-kending-som-cheftraener-3b6e8",
+  "published": "Fri, 05 Jun 26 12:07:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/fortuna-hjorring-hyrer-gammel-kending-som-cheftraener-3b6e8",
+  "category": "No category"
+ },
+ {
+  "title": "Mere end 3500 liter diesel stjålet fra byggeplads",
+  "description": "<p>Dieseltyve har igen været på spil.</p><p>Denne gang er der blevet stjålet 3500 liter diesel fra byggepladsen på Sømosevej i Ravnkilde. Det oplyser Nordjyllands Politi til TV2 Nord.</p><p>Tyveriet er begået mellem 3. juni klokken 17 og 4. juni klokken 7.</p><p>- Hegnet ind til byggepladsen er blevet skruet løs, og efterfølgende har man væltet hegnet. Herefter har man været rundt på hele byggepladsens område, hvor der er blevet tømt diesel fra en dieseltank, traktorer og gummigeder, fortæller Michael Mow, vagtchef ved Nordjyllands Politi.</p><p>I alt har dieseltyvene stjålet for mere end 3500 liter diesel, og politiet har ingen værdiangivelse på det stjålne diesel.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/mere-end-3500-liter-diesel-stjalet-fra-byggeplads-99244",
+  "published": "Fri, 05 Jun 26 11:26:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/mere-end-3500-liter-diesel-stjalet-fra-byggeplads-99244",
+  "category": "No category"
+ },
+ {
+  "title": "Koncert på Hjallerup Marked blev afblæst, da mand 'kiggede på fugle'",
+  "description": "<p>Det blev en våd omgang på Hjallerup Marked, da de torsdag afholdt Hjallerup Live.</p><p>Kunstnere som Asta Brix, DJ Sash, Hedegaard og Djämes Braun var dog hyret ind til at skabe en fest i markedsteltet. </p><p>Ifølge formanden for markedsudvalget Michael Ottesen forløb dagen planmæssigt, omend flere valgte at sætte kurs mod pladsen i Hjallerup lidt senere end vanligt på grund af regnen.</p><p>Særligt én hændelse tiltrak imidlertid opmærksom og får Michael Ottesen til at hæve øjenbrynene. En gæst valgte nemlig at kravle op i en af masterne mod slutningen af Djämes Braun-koncerten. Det betød, at koncerten blev afblæst, kort før den oprindeligt skulle have være sluttet.</p><p>- Det er overhovedet ikke i orden, at folk kravler op i masten. Det fik vi også fortalt i højtaleren, efter vi havde stoppet musikken, siger Michael Ottesen.</p> <h2>Ekstra vagter indsat</h2><p>På <a href=\"https://www.instagram.com/reel/DZLQ47sNHSq/?igsh=MThvcm5iOThxZTQ0eA%3D%3D\" target=\"_blank\">Instagram</a> har Djämes Braun lavet et opslag om hændelsen, der indtraf under sangen &#039;Fugle&#039;. Her synges der om at kigge på fugle. I opslagsteksten står der &#039;ægte fuglekigger&#039;, hvilket er møntet på manden, der kravlede op i masten.</p><p>Det er ikke en ny ting, at folk kravler op i masten i markedsteltet. Derfor har de i markedsudvalget viklet en teltdug ud over den, som tilmed er smurt ind i fedt.</p><p>- Så man skal virkelig ville det, hvis man skal derop, fortæller formanden for markedsudvalget og understreger, at de slår hårdt ned på sager som denne.</p><p>Efter episoden opstod der ikke lignende situationer resten af aftenen. Selvom vejret indbød til, at folk stimlede sammen i markedsteltet, forløb alt som det skulle, lyder det fra formanden for markedsudvalget.</p><p>- Vi var gearet til det og havde ekstra vagter indsat.</p>",
+  "link": "https://www.tv2nord.dk/broenderslev/koncert-pa-hjallerup-marked-blev-afblaest-da-mand-kiggede-pa-fugle-c2b19",
+  "published": "Fri, 05 Jun 26 10:50:00 +0200",
+  "guid": "https://www.tv2nord.dk/broenderslev/koncert-pa-hjallerup-marked-blev-afblaest-da-mand-kiggede-pa-fugle-c2b19",
+  "category": "No category"
+ },
+ {
+  "title": "Frakørsel var spærret efter uheld",
+  "description": "<p><em>Opdateret klokken 11.07: Vejhjælp har forladt stedet, og det havarerede køretøj spærrer ikke længere hverken vejen eller frakørslen.</em></p><p>Fredag formiddag indtraf en ulykke E45 på Nordjyske Motorvej ved frakørslen 26 til Th. Sauers Vej. Det betød, at en havareret bil holdt og spærrede både vejen og frakørslen. Det fremgik af Vejdirektoratets Trafikkort klokken 10.58.</p><p>Bilen blev hurtigt fjernet fra stedet.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/havareret-koretoj-blokerer-spor-passer-med-forsigtighed-ee7b3",
   "published": "Fri, 05 Jun 26 10:37:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/havareret-koretoj-blokerer-spor-passer-med-forsigtighed-ee7b3",
-  "category": "No category"
- },
- {
-  "title": "22-årig mand i ulykke i nat: Kørt som traumepatient",
-  "description": "<p>Natten til fredag kørte en 22-årig mand fra lokalområdet galt i Sebbersund.</p><p>Ifølge vagtchef ved Nordjyllands Politi Michael Mow kørte manden galt kort efter midnat, og bilen fik store skader. </p><p>Den unge mand blev også efterfølgende hastet til hospitalet som traumepatient.</p><p>Fredag morgen har Nordjyllands Politi ikke en status på mandens tilstand. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/22-arig-mand-i-ulykke-i-nat-kort-som-traumenpatient-4a3d3",
-  "published": "Fri, 05 Jun 26 09:21:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/22-arig-mand-i-ulykke-i-nat-kort-som-traumenpatient-4a3d3",
-  "category": "No category"
- },
- {
-  "title": "- Andre mennesker dør for at få de rettigheder, vi har",
-  "description": "<p>Kalenderen siger 5. juni 2026, og dermed er det blevet tid til endnu en grundlovsdag.</p><p>Dagen markerer indførelsen af den første danske grundlov, som blev underskrevet af Kong Frederik 7. i 1849.</p><p>Og traditionen tro bliver det fejret rundt omkring i det nordjyske. </p><p>Spørgsmålet er, om verdens uroligheder og politiske spændinger har gjort fejringen af den danske grundlov vigtigere end nogensinde før?</p><p>Få seneste nyt om den nordjyske Grundlovsdag i vores liveblog.</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/andre-mennesker-dor-for-at-fa-de-rettigheder-vi-har-3a793",
-  "published": "Fri, 05 Jun 26 09:04:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/andre-mennesker-dor-for-at-fa-de-rettigheder-vi-har-3a793",
-  "category": "No category"
- },
- {
-  "title": "Ny minister skal svare: Står Egholm-forbindelsen ved magt?",
-  "description": "<p>Nu bliver den nye transportminister, Signe Munk (SF), afæsket svar på, hvilke tanker regeringen gør sig om den tredje Limfjordsforbindelse ved Aalborg.</p><p>Det er folketingsmedlem Preben Bang Henriksen (V), der har stillet spørgsmål til ministeren. Baggrunden er, at der i regeringsgrundlaget bebudes et “serviceeftersyn” af det forlig, som et bredt flertal i Folketinget - uden SF - har indgået om forbindelsen.</p><p>- Jeg føler mig sådan set overbevist om, at dette flertal stadig består. Men når regeringsgrundlaget har en så uklar formulering, og når både den ny transport- og miljøminister har været modstandere af Egholm-forbindelsen, er det efter min opfattelse nødvendigt med en klar og tydelig udmelding på regeringens vegne om den tredje Limfjordsforbindelse, siger Preben Bang Henriksen.</p><p>Han beder derfor Signe Munk oplyse, om teksten i regeringsgrundlaget efter regeringens opfattelse vil medføre ændringer i forhold til de aftaler og den anlægslov, der tidligere er lagt fast.</p><p>Ikke kun SF, men også endnu et regeringsparti, Det Radikale Venstre, har erklæret sig som modstander af den ny motorvej vest om Aalborg. Modsat SF er de radikale dog med i aftalen om projektet.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/ny-minister-skal-svare-star-egholm-forbindelsen-ved-magt-8b613",
-  "published": "Fri, 05 Jun 26 08:07:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/ny-minister-skal-svare-star-egholm-forbindelsen-ved-magt-8b613",
-  "category": "No category"
- },
- {
-  "title": "Mirakel-sejr til Ehlers i anden finalekamp",
-  "description": "<p>Midt i tredje periode var den nordjyske stjerne og resten af holdet helt nede i sækken og bagud 2-0 efter en sløj omgang mod et effektivt og velspillende Vegas-hold i kontrol. </p><h2>Fem gyldne minutter</h2><p>Men så indtraf fem gyldne minutter, hvor Hurricanes vendte 0-2 til 3-2 og sendte hjemmebane-publikummet i ekstase. </p><p>Med godt et minut tilbage slog Vegas kontra og fik udlignet, hvorefter Ehlers og kompagni måtte snøre skøjterne til overtidsspil. </p><p>Her røg Vegas ind i en udvisning efter tre minutter. Det udnyttede Hurricanes prompte og hev dermed en uhyre vigtig sejr i land. </p><h2>Vital sejr</h2><p>Ehlers og holdet tabte første kamp, der også blev spillet på hjemmebane, og endnu et nederlag ville have været katastrofalt forud for de kommende to finalekampe, som spilles i Las Vegas. </p><p>For Nikolaj Ehlers blev det en kamp på det jævne i et svært opgør mod et stærk spillende Vegas-mandskab. </p><p>Holdene spiller bedst af syv kampe for at afgøre, hvem der skal løfte Stanley Cup trofæet. Næste finalekamp spilles natten til søndag. </p>",
-  "link": "https://www.tv2nord.dk/nordjylland/mirakel-sejr-til-ehlers-i-anden-finalekamp-2d671",
-  "published": "Fri, 05 Jun 26 07:45:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/mirakel-sejr-til-ehlers-i-anden-finalekamp-2d671",
-  "category": "No category"
- },
- {
-  "title": "Fejring af de nykårede danske mestre på Gammeltorv",
-  "description": "<p>Skal man ikke en tur forbi Hjallerup Marked på grundlovsdagen, kan man i stedet tage på Rådhuset på Gammeltorv i Aalborg klokken 17.30.</p><p>Her bliver Aalborg Håndbold nemlig fejret efter gårsdagens finalekampen mod Skanderborg AGF, som de vandt 35-31. De nordjyske herrer kan dermed kalde sig for vindere af det danske mesterskab for tredje år i træk.</p><p>Aalborgs borgmester Lasse Frimand Jensen vil være til stede for at modtage de nykårede danske mestre.</p><p>Aalborg Kommune opfordrer alle, der har lyst til at komme forbi og fejre holdet på Gammeltorv.</p><p>Herefter vil fejring rykke videre til et lukket arrangement indenfor på rådhuset, hvor Lasse Frimand Jensen vil holde tale - og der bliver serveret rådhustærte til den søde tand.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/fejring-af-de-nykarede-danske-mestre-pa-gammeltorv-9d14b",
-  "published": "Fri, 05 Jun 26 07:39:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/fejring-af-de-nykarede-danske-mestre-pa-gammeltorv-9d14b",
-  "category": "No category"
- },
- {
-  "title": "Pæn grundlovsdag i vente: Op til 19 grader",
-  "description": "<p>Nordjyderne kan se frem til at fejre grundlovsdagen i selskab med ganske pænt vejr. Sådan lyder det i hvert fald fra Andreas Nyholm på TV 2 Vejr.</p><p>- Der er plads til lidt sol og få byger. Der var mange kraftige byger i går, hvor første skybrud ramte Nordjylland, men i dag er det mere behersket, fortæller han.</p><p>Der kan forekomme enkle, kortvarige byger op ad formiddagen og eftermiddagen, men langt mindre hidsigt end gårsdagens torden og skybrud.</p><p>Det bliver ikke lange perioder med ren blå himmel, men nordjyderne kan glæde sig over, at temperaturen måler op til 19 grader i dag.</p><p>Henover eftermiddagen bliver det blæsende fra sydvest og vest, mens vinden vil aftage i løbet af dagen.</p><p>Skal man en forbi Hjallerup Marked, kan det være en god idé at alliere sig med en regnjakke og et par gummistøvler i tilfælde af en byge eller to.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/paen-grundlovsdag-i-vente-op-til-19-grader-3ea51",
-  "published": "Fri, 05 Jun 26 07:03:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/paen-grundlovsdag-i-vente-op-til-19-grader-3ea51",
-  "category": "No category"
- },
- {
-  "title": "Sygehus har succes med sang for patienter",
-  "description": "<p>Én gang om måneden forvandles en stue på sygehuset i Hobro til en sangcafé. Frivillige går rundt på stuerne og lokker patienter ud af sengen og med til fællessang. En kærkommen pause fra sygdom.</p><p>– Jeg havde glædet mig, for nogle gange kan det godt være lidt ensomt her på sygehuset. Man bliver så glad. Man bliver så glad, siger Rita Lena Rodal Rasmussen fra Aalborg.</p><p>Vera Jensen fra Lyngså er enig.</p><p>– Det giver livsglæde i enhver sang. Det giver fællesskab, sangglæde. Man glemmer, at man er syg, smiler Vera Jensen.</p> <h2>Syng dig rask</h2><p>Sygeplejerske Helene Engedal fra Aalborg Universitetshospital i Hobro mener, at sangeftermiddagene gør mere end bare at løfte humøret.</p><p>– Det her med at få fyldt lungerne godt, at man rejser sig op og sætter sig op. Det er godt for blodtrykket. Det er godt for hele kroppen at holde fysikken i gang, også selvom man har en infektion, siger Helene Engedal .</p> <p>Faktisk drømmer personalet lidt i smug om at gøre sang til en officiel del af behandlingen.</p><p>– Vi snakker nogle gange om, at det kunne være dejligt, hvis det var noget, man kunne ordinere som læge, fordi vi tænker, at det faktisk har en rigtig god effekt, siger Helene Engedal.</p><h2>Kom ud af sengen</h2><p>Mange patienter ligger isoleret på enestuer og kommer sjældent ud. Sangeftermiddagene ændrer det.</p><p>– Det er svært at være i dårligt humør, når man synger. Så der er kun gode ting ved at have en sangeftermiddag, siger Helene Engedal.</p><p>Sangeftermiddagen på Aalborg Universitetshospital i Hobro har været afholdt i fire år af den lokale sygehuspræst og organist.</p>",
-  "link": "https://www.tv2nord.dk/mariagerfjord/maske-et-nyt-vidundermiddel-fd321",
-  "published": "Fri, 05 Jun 26 07:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/mariagerfjord/maske-et-nyt-vidundermiddel-fd321",
-  "category": "No category"
- },
- {
-  "title": "Vil bruge 175.000 kroner på portræt af Frank Jensen",
-  "description": "<p>Et portræt af tidligere overborgmester i København Frank Jensen (S) står til at koste Københavns Kommune 175.000 kroner.</p><p>Det fremgår af <a href=\"https://www.kk.dk/dagsordener-og-referater/%C3%98konomiudvalget/m%C3%B8de-09062026/dagsorden/punkt-16\" target=\"_blank\">dagsordenen </a>for næste møde i Økonomiudvalget i Københavns Kommune, hvor medlemmerne skal godkende projektet.</p><p>Her fremgår det også, at Frank Jensen har ønsket, at portrættet skal udføres af kunstneren Vibeke Tøjner.</p><p>Portrættet vil &quot;blive malet i et lyrisk/ekspressionistiske stil - med rødder i den klassiske modernisme/realisme. Det bliver et portræt med udgangspunkt i Frank Jensens virkelige ansigt med henblik på lighed.”</p><p>Frank Jensen var overborgmester i København fra 2010 til 2020, hvor han <a href=\"https://www.tv2kosmopol.dk/koebenhavn/frank-jensen-indkalder-til-pressemoede\">trak sig efter anklager</a> om krænkelser af kvinder.</p><p>Der er en årelange tradition for at portrættere overborgmestre i København. Økonomiudvalget godkendte i oktober 2025, at tidligere overborgmester Sophie Hæstorp Andersen skulle portrætteres af Maria Torp for 160.000 kroner.</p> <h2>Lars Weiss har ikke besluttet sig</h2><p>Tidligere overborgmester Lars Weiss oplyser til TV 2 Kosmopol, at han endnu ikke har taget stilling til, om han vil portrætteres.</p><p>- Det er for kort tid siden, at jeg har forladt rådhuset, og det skal jeg lige vænne mig til.</p><p>Han mener, at Frank Jensens valg af Vibeke Tøjner er &quot;et godt kunstnerisk valg,&quot; men han vil ikke forholde sig til beløbet.</p><p>- Jeg har ingen begreb om, hvad malerier koster, siger han.</p><p>- Men jeg synes grundlæggende, at det er en fin tradition, og det er med til at holde et kunsthåndværk i live, afrunder Lars Weiss til TV 2 Kosmopol.</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/vil-bruge-175000-kroner-pa-portraet-af-frank-jensen-df0ec",
-  "published": "Fri, 05 Jun 26 06:09:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/vil-bruge-175000-kroner-pa-portraet-af-frank-jensen-df0ec",
-  "category": "No category"
- },
- {
-  "title": "Kæde af øjenklinikker har modtaget 24 klager siden begyndelsen af 2025",
-  "description": "<p>TV2 Nord har de seneste dage talt med flere kilder, der retter kritik mod øjenklinikkæden Memira. </p><p>Fredag fortæller blandt andre <a href=\"https://www.tv2nord.dk/rebild/populaer-ojenklinik-far-klager-hver-maned-39134?token=391345df-8c18-475d-a5b1-b50ac75bd709\" target=\"_blank\">Susanne Fredsgaard</a> fra Suldrup, at hun har betalt 50.000 kroner for en øjenoperation, hun ingen gavn har haft af. </p><p>Torsdag fortalte <a href=\"https://www.tv2nord.dk/laesoe/ojenoperation-aendrede-per-ejners-liv-nu-far-han-medicin-mod-angst-c7db9\" target=\"_blank\">Per Ejner Jacobsen</a> fra Læsø om komplikationer efter en operation foretager ved samme firma. </p><p>Nu viser tal fra Styrelsen for Patientsikkerhed, at der siden starten af 2025 er kommet 24 klager til styrelsen over Memira. </p><p>Memira ønsker ikke at forholde sig til antallet af klager, men i et skriftligt svar til TV2 Nord lyder det blandt andet:</p><p>&#039;Før enhver behandling gennemgår patienten en omfattende forundersøgelse og modtager både mundtlig og skriftlig information om behandlingsmuligheder, forventninger, risici, bivirkninger og mulige komplikationer.&#039;</p><p>Du kan læse om Susanne Fredsgaards oplevelse efter operationen herunder:</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/kaede-af-ojenklinikker-har-modtaget-24-klager-siden-begyndelsen-af-2025-413a2",
-  "published": "Fri, 05 Jun 26 06:02:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/kaede-af-ojenklinikker-har-modtaget-24-klager-siden-begyndelsen-af-2025-413a2",
   "category": "No category"
  },
  {
