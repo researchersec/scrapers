@@ -1,5 +1,14 @@
 [
  {
+  "title": "Kirkeklokke sad fast: Ringede natten lang",
+  "description": "Politiet og en graver måtte rykke ud for at stoppe klokken i en nordjysk landsbykirke.",
+  "link": "https://www.dr.dk/nyheder/indland/kirkeklokke-sad-fast-ringede-natten-lang",
+  "published": "Mon, 08 Jun 2026 05:49:44 GMT",
+  "guid": "urn:dr:umbraco:article:1fe0db91-573a-4850-94ba-e4d67c98879e",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/wcznaa2z/durup-kirke.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Hjallerup Marked bliver overset: Vi er den sande folkefest",
   "description": "Forfatter mener, at det nordjyske marked fortjener mere opmærksomhed og fokus.",
   "link": "https://www.dr.dk/nyheder/indland/hjallerup-marked-bliver-overset-vi-er-den-sande-folkefest",
@@ -170,13 +179,44 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/zalohlj2/ms-lyoe.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Med højsæsonen for døren mangler restauranter ansatte: Elizabeth må holde lukket flere dage om ugen",
-  "description": "I Nordjylland kan caféer og restauranter ikke skaffe den nødvendige arbejdskraft. Kunder er der til gengæld rigtig mange af på denne tid af året.",
-  "link": "https://www.dr.dk/nyheder/indland/med-hoejsaesonen-doeren-mangler-restauranter-ansatte-elizabeth-maa-holde-lukket-flere-dage-om-ugen",
-  "published": "Fri, 29 May 2026 14:08:00 GMT",
-  "guid": "urn:dr:umbraco:article:bc4b3201-cac0-4d62-abbf-773345a3da71",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/nzzkv5ca/elizabeth-madrid.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Trafikuheld på E45 kort før Aalborg - skaber kø flere steder",
+  "description": "<p><em>Opdateret kl. 7.26: Uheldet er sket i sydgående retning. Det fremgik tidligere, at det skulle være sket i nordgående retning på baggrund af de første meldinger fra Trafikinfo.dk. </em></p><p>Morgentrafikken er mandag kort efter klokken 7 ramt af et uheld på motorvej E45 ved Nørresundby. Det melder <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">Trafikinfo.dk</a>. </p><p>Uheldet er sket i sydgående retning mellem afkørsel 21 Nørresundby N og Vendsyssel. Her er tre biler kørt sammen, skriver <a href=\"https://www.dr.dk/trafik\" target=\"_blank\">P4 Trafik</a>. </p><p>Der meldes samtidig om kø ind mod Aalborg både på E39 og E45 som følge af uheldet, og man skal forvente op mod 30 minutters forlænget rejsetid. </p><p>Uheldet blokerer et spor i venstre vognbane, og redning samt vejhjælp er på stedet, fremgår det af Trafikinfo.dk</p><p>Man forventer, at uheldet vil påvirke trafikken frem til efter klokken 8. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/trafikuheld-pa-e45-kort-for-aalborg-spor-er-blokeret-3eb2c",
+  "published": "Mon, 08 Jun 26 07:16:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/trafikuheld-pa-e45-kort-for-aalborg-spor-er-blokeret-3eb2c",
+  "category": "No category"
+ },
+ {
+  "title": "Endnu en festival med røde lamper advarer nu mod billetsvindel",
+  "description": "<p>Den nordvestjyske musikbegivenhed Thy Rock kan nu melde totalt udsolgt for tredje år i træk.</p><p>12.500 gæster vil være på plads, når festivalen i weekenden 26. og 27. juni slår dørene op for den 26. udgave på Dyrskuepladsen i Thisted.</p><p>- Vi er utroligt taknemmelige for støtten fra verdens bedste publikum, der for tredje år i træk gør, at vi kan melde udsolgt flere uger før Thy Rock finder sted, siger Festivalleder Hans Peter Jarl Madsen.</p> <p>Han opfordrer samtidigt til at udvise forsigtighed, hvis man ikke har fået fingrene i en billet og forsøger at skaffe sig en: </p><p>- Køb kun billetter via Ticketmasters website, hvor man kan overdrage billetter. Hvis man køber af private på nettet, kan man risikere, at den samme billet bliver solgt til flere. Og da stregkoden kun virker en gang, kan man ikke få adgang til pladsen, hvis den bliver afvist ved indgangen. Vi kan desværre ikke hjælpe, hvis det sker, siger Hans Peter Jarl Madsen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/thy-rock-med-rode-lamper-advarer-nu-mod-billetsvindel-20b3c",
+  "published": "Mon, 08 Jun 26 07:15:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/thy-rock-med-rode-lamper-advarer-nu-mod-billetsvindel-20b3c",
+  "category": "No category"
+ },
+ {
+  "title": "Politiet afventer fortsat tekniske undersøgelser efter dødsfald i Pandrup",
+  "description": "<p>En 33-årig mand blev søndag fundet omkommet på en adresse i et område nær Pandrup, og det meste af dagen arbejdede politiets teknikere på stedet for at klarlægge omstændighederne.</p><p>Søndag lød meldingen fra Nordjyllands Politi, at der ikke var tegn på, at der skulle være sket en forbrydelse, men at der snarere var tale om en ulykke i hjemmet.</p><p>Mandag morgen afventer politiet fortsat svar på de tekniske undersøgelser, men ifølge vagtchef ved Nordjyllands Politi Thomas Ottesen peger alt fortsat i samme retning:</p><p>- Alt tyder stadig på, at der er tale om en ulykkelig ulykke. Man har lavet undersøgelser på stedet i går, og vi afventer stadig svar på de undersøgelser, siger vagtchefen mandag morgen.</p><p>Den 33-åriges pårørende er underrettet om dødsfaldet.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/jammerbugt/politiet-afventer-fortsat-tekniske-undersogelser-efter-dodsfald-i-pandrup-be15d",
+  "published": "Mon, 08 Jun 26 06:30:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/jammerbugt/politiet-afventer-fortsat-tekniske-undersogelser-efter-dodsfald-i-pandrup-be15d",
+  "category": "No category"
+ },
+ {
+  "title": "Mandag starter pænt, men regnvåd uge kan vente",
+  "description": "<p>Efter en regnvåd weekend i det nordjyske, er mandagen startet ganske pænt med enkelte solstrejf flere steder i Nordjylland.</p><p>Der er dog stadig udsigt til stedvis regn i løbet af dagen. Der er imidlertid tale om ganske få millimeter, og en stor del af dagen vil det også holde tørt, melder TV 2 Vejr.</p> <p>En front står imidlertid i kø vest for Danmark for at bevæge sig ind over landet. Det kan betyde regn eller byger næsten hver dag i denne uge – man skal i hvert fald forvente ustadigt vejr.</p><p>Samtidig strømmer køligere luft ind fra Nordatlanten, og det presser temperaturerne ned under det normale for årstiden.</p><p>Det vil derfor blive en uge med blandet vejr til den køligere side.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/mandag-starter-paent-men-regnvad-uge-kan-vente-45d41",
+  "published": "Mon, 08 Jun 26 06:23:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/mandag-starter-paent-men-regnvad-uge-kan-vente-45d41",
+  "category": "No category"
+ },
+ {
+  "title": "38-årig skal i retten i sag om hash, kokain og dopingmidler",
+  "description": "<p>En 38-årig mand skal fredag møde i Retten i Aalborg, hvor han er sigtet i en omfattende sag om narkotika og dopingmidler.</p><p>Ifølge sagens oplysninger er der tale om en tilståelsessag, og det forventes derfor, at den 38-årige vil erkende forholdene, når sagen behandles ved retten fredag.</p><p>Manden er sigtet for flere forhold om narko. Blandt andet at han 5. november 2025 på en adresse i Farsø skulle have været i besiddelse af tre kilo hash med henblik på salg eller videreoverdragelse.</p> <h2>Anklagemyndigheden vil have værdier konfiskeret</h2><p>Derudover er han sigtet for i perioden fra 15. december 2025 til 15. januar 2026 i Aars-området at have videreoverdraget knap fire kilo kokain.</p><p>I forbindelse med politiets efterforskning blev der ifølge sigtelsen fundet 630 enheder dopingmidler af forskellige typer på en adresse med tilknytning til den 38-årige.</p><p>Anklagemyndigheden vil ud over en fængselsstraf og konfiskation af narkotika og dopingmidler også have konfiskeret en guldhalskæde, 13.900 kroner i kontanter samt et aktiedepot.</p>",
+  "link": "https://www.tv2nord.dk/vesthimmerland/38-arig-skal-i-retten-i-sag-om-hash-kokain-og-dopingmidler-ba2ed",
+  "published": "Mon, 08 Jun 26 06:00:00 +0200",
+  "guid": "https://www.tv2nord.dk/vesthimmerland/38-arig-skal-i-retten-i-sag-om-hash-kokain-og-dopingmidler-ba2ed",
+  "category": "No category"
  },
  {
   "title": "Aalborg Teater i Reumertfest",
@@ -219,44 +259,28 @@
   "category": "No category"
  },
  {
-  "title": "Men i nordjysk kommune er der godt nyt",
-  "description": "<p>Debatten om Grøn Trepart er igen blusset op.</p><p>Landmænd i hele landet er nemlig usikre på, hvor arbejdet med treparten står. Det fortæller formanden for Landbrug &amp; Fødevarer, Søren Søndergaard.</p><p>- Om en måned skal vi til at høste vores marker, og vi ved ikke, om vi skal så dem igen, om vi skal lave græsmarker eller vådområder, så der er totalt kaos ude hos os, oplyser formanden til <a href=\"https://nyheder.tv2.dk/live/politik/2026-02-26-folketingsvalg-2026/der-er--totalt-kaos-ude-hos-os--siger-landbrugsboss?entry=f96adca3-4c64-42ac-a423-c271f587e54e\">TV 2.</a></p><p>I december blev kvælstofreguleringsaftalen indgået af den daværende SVM-regering, men den er ikke vedtaget i Folketinget endnu. Og nu er der en ny, rød regering på Christiansborg med et andet politisk flertal.</p><p>Søren Søndergaard fortæller desuden, at der er et enormt behov for at genskabe tilliden, hvis Den Grønne Trepartsaftale skal fortsætte med den nye regering.</p><h2>Positiv udvikling i Jammerbugt</h2><p>I Jammerbugt Kommune går det til gengæld fremad i arbejdet med Den Grønne Trepart.</p><p>Sidst i maj modtog kommunen tilsagn fra Styrelsen for Grøn Arealomlægning og Vandmiljø for tre lavbunds- og vådområdeprojekter, hvilket betyder at 786 hektar nu er et skridt tættere på en status som lavbund- eller vådområde. </p><p>Tilsagnet betyder midler til at arbejde videre med områderne de kommende år. Det drejer sig om 631 hektar jord ved Lund Fjord og 155 hektar vest for Vust ved Pogkær og Barkær.</p><p>- Den gode dialog er grundlaget for den frivillige omfordeling af jord og forudsætningen for, at lodsejerne bliver kompenseret bedst muligt, samt at jorden anvendes mest hensigtsmæssigt, fortæller Ida Otte Rytter Jensen, som er projektleder på Den Grønne Trepart i Jammerbugt Kommune.</p>",
-  "link": "https://www.tv2nord.dk/jammerbugt/men-i-nordjysk-kommune-er-der-godt-nyt-14574",
-  "published": "Sun, 07 Jun 26 13:42:00 +0200",
-  "guid": "https://www.tv2nord.dk/jammerbugt/men-i-nordjysk-kommune-er-der-godt-nyt-14574",
+  "title": "30 sekunder afgjorde Lars tid som Danmarksdemokrat",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/30-sekunder-afgjorde-lars-tid-som-danmarksdemokrat/6063468?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 08 Jun 2026 03:47:45 Z",
+  "guid": "9567a482-ed56-4ea2-bc05-01e26bf6f002",
   "category": "No category"
  },
  {
-  "title": "Vejret svigter, men gæsterne gør ikke - Hjallerup Marked holder kursen mod vildt fadølsmål",
-  "description": "<p>Selvom vejret har været lige så svingende som prisen på H2O-sokker, holder det ikke nordjyderne væk fra fadbamser og gode handler.</p><p>I hvert fald ikke, hvis man spørger formanden for Hjallerup Marked, Michael Ottesen, der søndag gør status over et af Danmarks største markeder.</p><p>- Uanset om man er kræmmer, frivillig eller gæst, så har jeg kun mødt positiv tilgang. Dem, der kommer her, de vil os, siger han.</p><p><em>Vi tog ud for at finde ud af, hvor meget man kan bytte sig til for en TV2 Nord kop. Du kan se, hvordan det gik i videoen her:</em></p> <h2>Regn koster lidt, men gæsterne kommer alligevel</h2><p>Vejret har mildest talt været ret så omskifteligt, men ifølge Michael Ottesen ændrer det ikke på, at folk stadig finder vej til det store marked - selv trods udsigt til torden og skybrud søndag.</p><p>- Jo, vi mister måske lidt kundekontakt i et regnskyl, men så kommer de bare lidt senere. De tager noget mere tøj på, og så er de her alligevel, siger han.</p> <p>Han understreger, at markedet er vant til at håndtere alt slags vejr, og skulle en større byge ramme, er der styr på beredskabet.</p><p>- Vi har et beredskab, der sikrer indgange og gæster, hvis vejret slår om. Det er heldigvis ikke første gang, vi afholder det her, siger formanden.</p><p>Markedet har blandt andet stabilt grus og knust asfalt klar til at lægge ud, hvis der opstår huller eller mudrede områder.</p><p>- Det går helt automatisk i gang, hvis vi kan se, der kommer meget vand. I år har det kun været nødvendigt ét sted, fortæller han.</p> <h2>Ølsalget nærmer sig 50.000 liter</h2><p>Da markedet åbnede torsdag, forventede man at sælge omkring 50.000 liter øl, og nordjydernes øltrang har på ingen måder skuffet.</p><p>- Jeg kan melde, at vi meget snart rammer 50.000 liter øl. Og med solen, der er kommet nu, så skal de sidste liter nok blive solgt inden klokken 18, siger han.</p><p>Direktøren erkender, at svingende vejr altid påvirker et udendørs arrangement.</p><p>- Når der er for varmt, så tager folk heller ikke på stranden, så bliver de også hjemme, hvor de hellere vil sidde i skyggen, siger han og fortsætter:</p><p>- Selvfølgelig mister vi nogle gæster, når vejret er ustadigt. Men det er risikoen ved at holde noget udendørs. Og vi er fuldstændig indstillet på det.</p>",
-  "link": "https://www.tv2nord.dk/broenderslev/vejret-svigter-men-gaesterne-gor-ikke-hjallerup-marked-holder-kursen-mod-vildt-fadolsmal-b8937",
-  "published": "Sun, 07 Jun 26 13:14:00 +0200",
-  "guid": "https://www.tv2nord.dk/broenderslev/vejret-svigter-men-gaesterne-gor-ikke-hjallerup-marked-holder-kursen-mod-vildt-fadolsmal-b8937",
-  "category": "No category"
+  "title": "Erik Lytzen havde travlt med at tjene penge. Så opdagede direktøren, hvad der manglede",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/erik-lytzen-havde-travlt-med-at-tjene-penge-saa-opdagede-direktoeren-hvad-der-manglede/6042820?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 08 Jun 2026 03:41:47 Z",
+  "guid": "0ec3b0e8-3f78-43c4-9469-521246f43a3e",
+  "category": "Erhverv"
  },
  {
-  "title": "Person set i nødsporet på E45",
-  "description": "<p><strong>Opdateret klokken 13.05: Personen er væk fra nødsporet.</strong></p><p>Hvis du kører på E45 fra Aalborg mod Randers mellem afkørsel 34 mod Hobro N og afkørsel 36 mod Onsild søndag formiddag, skal være ekstra forsigtig.</p><p>Der er set en person i nødsporet.</p><p>Det fremgår af Vejdirektorates live trafikkort.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/person-set-i-nodsporet-pa-e45-7b697",
-  "published": "Sun, 07 Jun 26 12:09:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/person-set-i-nodsporet-pa-e45-7b697",
-  "category": "No category"
- },
- {
-  "title": "Dårligt nyt for sommerhungrende nordjyder: Ny kommune tager føringen i 'Sommerligaen'",
-  "description": "<p>Sommeren er kun lige begyndt, men allerede nu har vejret vist sig fra sin mest ustadige side, også i Nordjylland.</p><p>Kraftige byger, skybrud og kølige dage har præget starten på juni, og det kan mærkes i årets første stilling i &#039;Sommerligaen&#039;, hvor vi i de nordjyske kommuner ligger langt nede af centeren.</p><p>Samtidig har andre dele af landet haft markant bedre vejr, og efter en solrig lørdag har en ny kommune nu lagt sig i spidsen.</p> <p>Bornholm har lagt sig i spidsen med 66 point og har dermed skubbet Stevns kommune ned på en andenplads. Det har været de mange soltimer på solskinsøen, der har gjort forskellen.</p><p>Efter Stevns er der et stykke ned til de næste kommuner.</p><p>Med &#039;Sommerligaen&#039; vil TV 2 Vejr i løbet af sommeren løbende opdatere danskerne om det bedste sommervejr i Danmark.</p><p>Sol og varme trækker op, mens nedbør og vind trækker ned. Dermed kan du sommeren igennem følge med i, om du befinder dig det rette sted ud fra dine kriterier om det bedste sommervejr.</p><p>For sommerens vejr kan variere ganske meget på tværs af Danmark. Lige fra den blæsende vestkyst i Jylland til solskinsøen Bornholm.</p><h2>Her får de mest sol og varme</h2><p>Statistisk set tegner der sig et klart billede af, hvem der har mest sol og varme i løbet af en gennemsnitlig sommer.</p><p>Særligt Nordsjælland, hovedstadsområdet og området omkring Stevns får mange point. Herefter følger Bornholm, Lolland, dele af Fyn samt en række østjyske kommuner.</p><p>Det er områder af Danmark, der generelt ligger højt på både varme, sol samt lavt på vind og nedbør. Topscorerne er Frederiksberg og Rødovre Kommune med 68 ud af 100 mulige point.</p><p>I den lave ende af pointskalaen finder vi det nordvestligste Jylland, der generelt er plaget af meget vind samt ligger højt på nedbør og lavt på temperatur. Bundskraberen er Lemvig Kommune med 39,7 point.</p><p>Derudover ligger Mors, Fanø og Læsø i den lave ende. I forlængelse heraf ligger resten af Nord- og Vestjylland også med under 50 point.</p> <h2>Sommeren ændrer sig mindst</h2><p>Mens de andre årstider er blevet to til tre grader varmere som følge af den globale opvarmning, er der ikke sket de store ændringer med sommeren.</p><p>Den langsomme temperaturstigning i sommermånederne gør såmænd, at sommeren er den årstid, der står for den ældste varmerekord i dansk vejrhistorie.</p><p>I 1889 endte juni med en middeltemperatur på ekstreme 18,2 grader. Så varm en juni har vi endnu ikke formået at få siden da.</p><p>Tværtimod har vi de seneste ti år oplevet perioder med ret køligt sommervejr.</p> <p>Særligt juli, hvor mange danskere holder deres sommerferie, har til tider været helt deprimerende.</p><p>Over de seneste ti år har juli haft en middeltemperatur på 16,5 grader. Det er faktisk en lille smule køligere end den gennemsnitlige juli i klimanormalen 1931-1960.</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/darligt-nyt-for-sommerhungrende-nordjyder-ny-kommune-tager-foringen-i-sommerligaen-48c77",
-  "published": "Sun, 07 Jun 26 11:31:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/darligt-nyt-for-sommerhungrende-nordjyder-ny-kommune-tager-foringen-i-sommerligaen-48c77",
-  "category": "No category"
- },
- {
-  "title": "Dødt dyr lå på E39",
-  "description": "<p><strong>Opdateret klokken 11.20: Dyret er nu fjernet og sporet er frit igen.</strong></p><p>Skal du ud og køre på E39 fra Hirtshals mod Aalborg skal du være særlige opmærksom mellem afkørsel 5 Vrå og 6 Brønderslev C.</p><p>Der ligger et dødt dyr på kørebanen, og vejhjælp er på vej til stedet. Bilister opfordres til at passere med forsigtighed.</p><p><em>Opdateres...</em></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/broenderslev/dodt-dyr-pa-e39-vejhjaelp-pa-vej-28a6b",
-  "published": "Sun, 07 Jun 26 10:31:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/broenderslev/dodt-dyr-pa-e39-vejhjaelp-pa-vej-28a6b",
-  "category": "No category"
+  "title": "Bag syv nedrivningssager gemmer sig det samme mønster: Tomme huse, strandede planer og forfald",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/hjoerring/bag-syv-nedrivningssager-gemmer-sig-det-samme-moenster-tomme-huse-strandede-planer-og-forfald/6059080?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 08 Jun 2026 03:38:53 Z",
+  "guid": "b0dbb24e-c7b9-4e0a-9168-39d582038b8d",
+  "category": "Landsbyliv"
  },
  {
   "title": "Kjartan var tæt på at flytte hjem til Færøerne, men i Vrå har han genfundet glæden ved håndbold",
@@ -393,29 +417,5 @@
   "published": "Thu, 04 Jun 2026 21:26:25 Z",
   "guid": "efb7769e-bbf3-4dca-a03e-d4f4bfabcab2",
   "category": "Aalborg Håndbold"
- },
- {
-  "title": "Aalborg Håndbold er danske mestre for niende gang",
-  "description": "Aalborg Håndbold fik længe kamp til stregen, men trak fra til sidst og sikrede sig et nyt dansk mesterskab",
-  "link": "https://nordjyske.dk/nyheder/sport/foelg-aalborg-haandbolds-guldjagt-og-stil-spoergsmaal/6058912?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 04 Jun 2026 09:33:44 Z",
-  "guid": "f6a25ae6-ed28-4915-8884-78c12ce41651",
-  "category": "Aalborg Håndbold"
- },
- {
-  "title": "Analyse: Mors-Thy har skrevet historie, men der er ingen grund til, at det stopper her",
-  "description": "Mors-Thy siger farvel til en masse spillere, men der er alligevel grund til at tro på en endnu en spændende sæson efter sommerferien",
-  "link": "https://nordjyske.dk/nyheder/sport/analyse-mors-thy-har-skrevet-historie-men-der-er-ingen-grund-til-at-det-stopper-her/6063729?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 04 Jun 2026 18:33:21 Z",
-  "guid": "2b717e13-7cb6-4a18-b2ef-e6086eb6a68a",
-  "category": "Mors-Thy håndbold"
- },
- {
-  "title": "Hvem skal eje Skagen-ikon? Kappelborg er pludselig til salg",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/hvem-skal-eje-skagen-ikon-kappelborg-er-pludselig-til-salg/6064950?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 04 Jun 2026 17:03:01 Z",
-  "guid": "8bcb3412-fb1d-4d47-807f-f04c112ddc6b",
-  "category": "Skagen"
  }
 ]
