@@ -1,5 +1,23 @@
 [
  {
+  "title": "Skal du på kør-selv-ferie? Her er tre råd, der gør den billigere",
+  "description": "Når danskerne tager på kør-selv-ferie, koster det mange tusinde kroner. Men man kan spare mange penge, hvis man ved, hvad man skal gøre.",
+  "link": "https://www.dr.dk/nyheder/indland/skal-du-paa-koer-selv-ferie-her-er-tre-raad-der-goer-den-billigere",
+  "published": "Sun, 14 Jun 2026 11:09:00 GMT",
+  "guid": "urn:dr:umbraco:article:21080eaa-b5b5-4ad1-9f5e-45dfd8dc7fdd",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/a1mdudqn/20250822-112715-l-8021x5347ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
+  "title": "Søværnet mangler desperat folk: Nu vil de lokke tidligere ansatte tilbage",
+  "description": "Søværnet går nye veje for at finde en løsning på medarbejdermanglen.",
+  "link": "https://www.dr.dk/nyheder/indland/soevaernet-mangler-desperat-folk-nu-vil-de-lokke-tidligere-ansatte-tilbage",
+  "published": "Sun, 14 Jun 2026 09:49:07 GMT",
+  "guid": "urn:dr:umbraco:article:655d43a7-76bb-4f2c-a5b1-f2a6908f622c",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/j1pfb11c/20250910-161823-6-8337x5558ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Prisen på benzin påvirker også kør-selv-ferie: Men kan du gætte, hvor meget?",
   "description": "Ifølge privatøkonom får prisstigningen næppe ret mange til at ændre planer.",
   "link": "https://www.dr.dk/nyheder/regionale/nordjylland/prisen-paa-benzin-paavirker-ogsaa-koer-selv-ferie-men-kan-du-gaette-hvor-meget",
@@ -159,24 +177,6 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/p1jjvnrg/20210811-203051-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Når festen for de unge bliver for våd, står hjælpen klar på Hjallerup Marked",
-  "description": "Hjallerup Marked har i år ekstra fokus på at passe på unge, der har drukket for meget. Skilte skal hjælpe dem med at komme ordentligt hjem.",
-  "link": "https://www.dr.dk/nyheder/indland/naar-festen-de-unge-bliver-vaad-staar-hjaelpen-klar-paa-hjallerup-marked",
-  "published": "Thu, 04 Jun 2026 13:00:28 GMT",
-  "guid": "urn:dr:umbraco:article:628c9885-920f-446e-8a8e-05636571db2a",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/u5nhj0a2/hjallerup-marked-2.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
- },
- {
-  "title": "Cyklistformand om gratis offentlig transport: 'Hvad med cyklerne'",
-  "description": "En del af regeringsgrundlaget foreslår at offentlig transport skal være gratis for børn og unge op til 22 år, men det er ikke alle, som er fan af den ide.",
-  "link": "https://www.dr.dk/nyheder/indland/cykelistformand-om-gratis-offentlig-transport-hvad-med-cyklerne",
-  "published": "Wed, 03 Jun 2026 10:09:00 GMT",
-  "guid": "urn:dr:umbraco:article:8d981e30-f1d8-4358-9c70-a7c7dba9b78c",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/1d5osgh1/mike_white.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
- },
- {
   "title": "Skyet dag med byger",
   "description": "<p>Søndagens vejr leder ikke umiddelbart tankerne hen på is, parasoller og badning i havet. </p><p>Det bliver tværtimod skyet det meste af dagen med risiko for byger indimellem. </p><p>Det er forholdsvis køligt med temperaturer på mellem 13 og 16 grader. </p><p>Eftermiddagen og aftenen byder på tørvejr, men der kan dukke byger op hen mod de sene aftentimer. Særligt fra nord.</p><p>Vinden er frisk fra nord og vest og ligger på 8-12 meter i sekundet.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/skyet-dag-med-byger-36f88",
@@ -198,6 +198,22 @@
   "link": "https://www.tv2nord.dk/region-nordjylland/det-er-ikke-rimeligt-siger-vicedirektor-6b06e",
   "published": "Sun, 14 Jun 26 10:00:00 +0200",
   "guid": "https://www.tv2nord.dk/region-nordjylland/det-er-ikke-rimeligt-siger-vicedirektor-6b06e",
+  "category": "No category"
+ },
+ {
+  "title": "Havde ikke spist i tre måneder",
+  "description": "<p>Det har formentlig været en forskrækkelse for den person, der for nylig fandt en kongepyton i en nordjysk lejlighed. </p><p>Slangen var blevet forladt, efter at beboerne var fraflyttet, og i forbindelse med renoveringen af lejligheden blev den fundet i soklen under vaskeskabet i køkkenet. </p><p>Her har den ligget siden 9. februar. </p><p>- En kongepyton flygter ikke. Hvis de kommer udenfor i vores klima om vinteren, så dør de. Den har selv søgt hen til et varmt område i lejligheden, siger Mark Ejstrud, fra Nordjyllands Internat og Pension. </p> <h2>&#039;Spisestop&#039;</h2><p>Internatet fik indleveret slangen, og siden har den fået et terrarie, mad og varme. </p><p>Men hvordan kan en slange overleve i tre måneder uden mad? </p><p>Jo, det kan den faktisk sagtens. Det er nemlig meget normalt, at kongepytoner går i såkaldt &#039;spisestop&#039;, fortæller Mark Ejstrud. </p> <p>- Det kan sagtens bare være fordi, den ikke har haft lyst til at spise. Så længe de har varme og væske, så kan de overleve. Men den var lille, da vi fik den ind, så den har ikke haft optimale forudsætninger. Det har ikke været sjovt for den, siger han.</p><h2>Vil ikke nusse i sofaen</h2><p>Slangen er nu klar til at finde et nyt hjem, så hvis du har et ønske om at få en kongepyton, skal du slå til nu. </p><p>Men ifølge Mark Ejstrud skal du være opmærksom på, at det altså ikke kan sammenlignes med at have en kattekilling eller en hund. </p><p>- Det er ikke et kæledyr, men derimod et hobbydyr. Det er ikke en, man ligger og nusser med i sofaen. Det er den ikke vild med. Den skal have varme, fugt og et sted, den kan gemme sig. Men derudover er det en forholdsvis nem begynderslange, siger dyrepasseren. </p><p>Kongepytonen er - modsat hvad navnet antyder - en relativt lille kvælerslange og en af de mest almindelige slanger holdt i fangenskab. </p> <h2>Slangernes labrador</h2><p>Hos Nordjyllands Internat og Pension forventer man heller ikke, at det bliver svært at komme af med slangen. </p><p>- Der er mange folk derude, som har slanger, og man kan have mange på en gang. Kongepytonen er slangernes svar på en labrador. Den gør ikke et stort væsen af sig, og den er nem at håndtere. Så længe man ikke forventer, at den skal ud af buret hver dag. Det gider den ikke, siger Mark Ejstrud. </p><p>Og faktisk er denne kongepyton lidt speciel. Den har nemlig en speciel farve og er en såkaldt &#039;morph&#039;. Den er ikke brun og sort, som den oprindelige kongepyton. </p> <p>Afslutningsvis har dyrepasseren en bøn og en opfordring. </p><p>- Det er set før, at slanger er blevet forladt. Jeg tror, det er et misforstået dyr. De har ret til at være her og få den pleje, de fortjener - ligesom alle andre dyr. Hvis man ikke vil have sit dyr mere, så kontakt os, så finder vi ud af noget. Uanset om det er en hund, edderkop, skildpadde eller akvariefisk, siger Mark Ejstrud. </p>",
+  "link": "https://www.tv2nord.dk/nordjylland/havde-ikke-spist-i-tre-maneder-cb72d",
+  "published": "Sun, 14 Jun 26 09:08:00 +0200",
+  "guid": "https://www.tv2nord.dk/nordjylland/havde-ikke-spist-i-tre-maneder-cb72d",
+  "category": "No category"
+ },
+ {
+  "title": "Sætter ord på sin løn efter politikfarvel",
+  "description": "<p>Tidligere Venstreminister og mangeårigt medlem af Folketinget Torsten Schack Pedersen skal næppe være bange for at gå fra hus og hjem, selvom han nu afslører,<a href=\"https://www.tvmidtvest.dk/thisted/torsten-schack-pedersen-er-helt-faerdig-i-dansk-politik-f9905?token=f99056f5-723a-41ac-90e7-b2b1a2b60f49\" target=\"_blank\"><strong> at han er færdig i dansk politik og på jagt efter et nyt job.</strong></a></p><p>Han får nemlig omkring 2,3 millioner kroner over en toårig periode. Det viser TV MIDTVESTs beregninger over det samlede vederlag fra Folketinget og ministeriet.</p><p>Torsten Schack Pedersen fortæller til TV MIDTVEST, at han modtager eftervederlag i to år fra Folketinget, som han forlod i marts.</p><p>Et medlem af Folketinget i dag modtager <a href=\"https://nyheder.tv2.dk/politik/2025-05-27-folketingets-nye-loenaftale-faar-kritik-helt-forkert-signal-at-sende\" target=\"_blank\"><strong>ifølge TV 2</strong></a> cirka 870.000 kroner årligt.</p><p>Foruden eftervederlag fra Folketinget kan Torsten Schack Pedersen se frem til et eftervederlag for de knap to år, hvor han var minister for samfundssikkerhed og beredskab. Og i alt løber det altså op i omtrent 2,3 millioner kroner.</p><p><em>Det er ikke økonomi, der gør, at du med det første skal ud og finde et job?</em></p><p>- Der er heldigvis et godt sikkerhedsnet, som jeg glæder mig over, siger han.</p> <p>I 2025 ændrede Folketinget reglerne for løn og pension til nye medlemmer af Folketinget. I grove træk har man vedtaget en lønforhøjelse mod en forringelse af pensionsvilkårene, <a href=\"https://nyheder.tv2.dk/politik/2025-05-27-folketingets-nye-loenaftale-faar-kritik-helt-forkert-signal-at-sende\" target=\"_blank\"><strong>beretter TV 2</strong></a>.</p><p>- Reglerne er blevet lavet om, så de mere ligner det øvrige arbejdsmarked, opsummerer Torsten Schack Pedersen.</p><p>Foruden Torsten Schack Pedersen har flere andre prominente politikere valgt at forlade dansk politik eller misset genvalg.</p><p>På listen er blandt andre Pia Kjærsgaard, <a href=\"https://www.tv2kosmopol.dk/metropolen/sa-mange-penge-far-politikere-med-sig-nar-de-forlader-folketinget-98816\" target=\"_blank\"><strong>der ifølge TV 2 Kosmopol</strong></a> står til modtage op til 3.235.000 kroner i eftervederlag. Det høje vederlag skyldes, at Pia Kjærsgaard i 2019 fratrådte som Folketingets formand. Derfor får hun samme vederlagssats som statsministeren.</p><p>Også hustruen til Torsten Schack Pedersen, Louise Schack Elholm, kan se frem til et vederlag. Hun har også siddet i Folketinget og har tidligere været minister For Venstre. Louise Schack Elholm vil ifølge TV 2 Kosmopol modtage eftervederlag i to år som sin mand.</p>",
+  "link": "https://www.tv2nord.dk/nordjylland/saetter-ord-pa-sin-lon-efter-politikfarvel-1553b",
+  "published": "Sun, 14 Jun 26 08:13:00 +0200",
+  "guid": "https://www.tv2nord.dk/nordjylland/saetter-ord-pa-sin-lon-efter-politikfarvel-1553b",
   "category": "No category"
  },
  {
@@ -241,20 +257,12 @@
   "category": "No category"
  },
  {
-  "title": "- Vi er bange for at miste hende",
-  "description": "<p>- Jeg er bange for at miste hende, siger Karen Svendsen med tårer i øjnene.</p><p>- Helt oprigtigt.</p><p>På sit værelse i husets kælder ligger Lars og Karens datter. Hun har ingen energi. Intet overskud. Hun tænker på at forlade denne verden.</p><p>- Hun siger jo, at hun tænker på døden hver eneste dag. Og hvor lang tid skal jeg lide, før jeg må have lov at dø? Hvad skal jeg svare til det?, fortæller Lars Andersen.</p> <p>Som barn var der gang i parrets datter Cecilie. Hun var glad, og hjemmet var ofte fyldt med gæster og liv. Men for fire år siden begyndte det at gå ned ad bakke.</p><p>Cecilie fik sværere og sværere ved at komme i skole og fik det værre og værre.</p><p>I dag er hun 17 år og diagnosticeret med autisme og en svær depression med selvmordstanker og selvskade. </p><p>- Det gør rigtig ondt at se på, fortæller Karen.</p><p>Hendes dage går i et meget langsomt tempo. Hun står op. Far laver noget mad til hende. Så ligger hun på sofaen, inden hun går ud på badeværelset for at børste sine tænder. </p><p>Cirka en time efter at hun stod op, går hun tilbage på sit værelse for at tage dagens første lur. På de slemme dage kan hun finde på at ridse i sig selv.</p><p>- Det er jo hele hendes ungdomsliv, vi bare kan se forsvinde ud i ingenting, siger Karen. </p> <p>Forældrene har flere gange forsøgt at få hjælp fra kommunen til deres datter, men de oplever ikke, at hverken de eller hun er blevet grebet.</p><p>- Lige nu står vi stort set alene, lyder det fra Lars. </p><h2>Bekymring skudt til hjørne</h2><p>Da Cecilies skolefravær udviklede sig til skolevægring, fik familien tilknyttet en sagsbehandler ved Vesthimmerlands Kommune. Forældreparret havde en forhåbning om, at det så ville betyde noget hjælp til både Cecilie og dem som familie.</p><p>Men det er ikke det, de har oplevet.</p><p>Tværtimod har de oplevet et ugennemsigtigt system, hvor de har skullet kæmpe for hvert skridt, alt imens at Cecilie kun har fået det dårligere.</p><p>- Der er ingen vejledning af nogen art, og vi får ikke at vide, hvad kommunen kan tilbyde. Vi skal ligesom selv byde ind, men vi aner jo ikke, hvilke muligheder der er, siger Lars og trækker på skuldrene. </p> <p>På et tidspunkt lykkes det dog at få Cecilie tilknyttet en psykolog gennem kommunen. Det giver en smule håb, da parret fornemmer, at samtalerne faktisk gavner deres datter. </p><p>Men håbet varer ikke ved.</p><p>Efter to gange otte psykologsamtaler vælger kommunen ikke at forlænge bevillingen. Cecilies sidste samtale var 1. september 2025.</p><p>- Så det virker ret håbløst, og jeg kan snart ikke rigtig overbevise Cecilie om, at det bliver bedre, for det har jeg sagt i fire år, og der har ikke været nogen fremgang, fortæller Lars.</p><p>Cecilie får det værre. Hendes humør daler, selvmordstankerne tager til, og der er flere episoder med selvskade. </p><p>Det får flere omkring Cecilie til at reagere, og i samråd med forældrene bliver der sendt underretninger til kommunen, som gør opmærksom på forværringen i hendes tilstand.</p> <p>I en underretning sendt 30. oktober fra en ungevejleder står der:</p><p>- Lars er nødt til at sove hos Cecilie, når hun har det værst. Ud over 14. september har der også været tanker om selvmord og selvskade i weekenden 18. og 19. oktober. Her har hun brugt en pincet til at ridse sig i skulderen, til det bløder.</p><p>Ungevejlederen skriver derudover, at Cecilie efter en af de her episoder fortæller Lars, at hun har lyst til at skære sig i håndleddet. </p><p>Vesthimmerlands Kommune vælger på baggrund af de bekymrende underretninger at gøre ingenting.</p><p>I Cecilies sagsakter har kommunen alene noteret, at man &#039;opretholder den nuværende indsats med psykolog&#039;, selvom den indsats altså er ikkeeksisterende. </p> <h2>Hvem har bolden?</h2><p>Vesthimmerlands Kommune er på tidspunktet for underretningerne flere gange blevet gjort opmærksom på, at psykologindsatsen er afbrudt.</p><p>Psykologen gør i august opmærksom på, at indsatsen snart stopper, og hun spørger derefter kommunen både i september, oktober, december og senest i februar, om indsatsen skal genoptages. Hun får ikke svar. </p><p>I underretningerne står der også, at psykologsamtalerne er ophørt, og at psykiatrien anbefaler yderligere terapi, da den medicinske behandling ikke kan stå alene. </p><p>Alligevel noterer kommunen indsatsen som igangværende og foretager sig altså ikke yderligere.</p><p>- Det er svært at forstå, at det er sådan, en kommune agerer. Man tænker, kan det være rigtigt?, siger Karen og fortsætter:</p><p>- Men så kigger man på det igen og må så konstatere, at det er sådan, de agerer.</p> <p>En af underretningerne gør desuden opmærksom på, at der i slutningen af oktober slet ikke er tilknyttet en kommunal rådgiver på sagen, hvorfor det ikke kan vurderes, om Cecilie kan bevilges yderligere psykologsamtaler.</p><p>På det her tidspunkt har sagen været uden rådgiver siden starten af august, hvilket ifølge juraprofessor Caroline Adolphsen er problematisk.</p><p>- Problemet ved, at der ikke er knyttet en konkret sagsbehandler til en sag, er, at der ikke er nogen, der har hånd i hanke med sagen, herunder om der er fremdrift, og om de indsatser, der eventuelt er iværksat, fortsat er egnede, lyder det fra professoren. </p><h2>I strid med loven</h2><p>Karen og Lars bruger henover efteråret og vinteren enhver given lejlighed til at fortælle kommunen, at Cecilies tilstand er for nedadgående, og at der er brug for at få psykologen på igen. </p><p>På et tidspunkt får de et svar.</p><p>Cecilie har allerede fået to gange otte psykologtimer under Barnets Lov, og det er alt, hun kan få.</p><p>- Selvfølgelig findes den regel ikke i lovgivningen. Indsatsen skal gives, indtil formålet er opnået, hvis det er en egnet indsats, forklarer Caroline Adolphsen.</p><p>I et skriftligt svar fra familiechefen til forældrene sendt 5. maj i år står der da også, at der ikke er en fast lovbestemt grænse på psykologbehandlingen, men at der er et &#039;lokalt politisk serviceniveau&#039;. </p><p>- Sådan en intern retningslinje i kommunen er ulovlig. Der skal altid foretages en konkret vurdering, lyder det fra Caroline Adolphsen.</p><p>I sit svar skriver familiechefen også supplerende, at bevillinger sker på baggrund af en individuel vurdering. </p><p>Men om den vurdering er foretaget i forhold til deres datter, ved Lars og Karen ikke. </p> <p>Parret har ikke fået en skriftlig afgørelse angående psykologindsatsen, og teknisk set er den ikke afsluttet - den er bare heller ikke igangværende.</p><p>- Man ikke kan lade være med at få en følelse af, at det fra kommunens side handler om, hvordan de kan få det til at se ud som om, der sker noget på papiret, men samtidig undgå at bruge af kommunekassen, siger Karen.</p><p>For familien har det også haft den konsekvens, at de i månedsvis ikke har villet finde en anden psykolog til Cecilie.</p><p>- Hun var jo lige begyndt at føle sig tryg ved psykologen, og indsatsen virkede, så vi ville jo gerne bare have, at det fortsatte, og at kommunen levede op til lovgivningen, siger Lars og tilføjer:</p><p>- De skal forestille at hjælpe familier og børn, der har det svært, og så gør de det modsatte. Jeg kan ikke begribe, at det fungerer på den måde.</p> <h2>Må ikke ske for andre</h2><p>I slutningen af marts i år er Lars og Karen til et møde med kommunen. </p><p>- Her får vi at vide, at der ikke er mere hjælp at hente til Cecilie fra kommunen. Ikke mere psykolog, ikke noget andet, fortæller Karen.</p><p>Efter mødet sender hun en mail, hvor hun skriver, at det ikke var det, de havde håbet på, men at det var rart at få en afklaring angående psykolog. Hun skriver desuden, at medmindre hun hører andet, indenfor fire dage fra mailen blev sendt, vil hun tage den udmelding som endelig og gældende.</p><p>Dagen efter får hun svar. </p><p>Her står, at kommunen vil arbejde for, at Cecilie skal have den hjælp, hun bør, og at der arbejdes videre med sagen i forhold til psykiatrien, men at det er svært at få &#039;hul igennem til dem&#039;.</p><p>- Vi kan ikke læse det på andre måder end, at så er der ikke mere at hente hos kommunen, lyder det fra Karen. </p><p>- Men vi vil ikke bare finde os i den her behandling, eller at andre familier skal risikere at skulle igennem det samme i fremtiden, forklarer Lars.</p> <p>Parret har ingen forventning om, at der kommer mere støtte til dem eller deres datter. Derfor har de også fundet en ny psykolog på egen hånd, selvom det er opslidende for Cecilie at skulle starte et nyt forløb på et tidspunkt, hvor hun er helt nede i kulkælderen.</p><p>Cecilie er 17 år. Inden længe bliver hun 18. Med det overgår hendes sag fra børne- til voksenafdelingen i kommunen, og hvad der så kommer til at ske, ved familien ikke.</p> <p>Processen omkring at sikre en ordentlig overgang burde være startet for længe siden, men er endnu ikke begyndt.</p><p>- Vi er jo spændt på at se, om der kommer noget støtte til hende, men er samtidig bange for, at kommunen begynder at presse hende ud i alt muligt, som hun ikke kan holde til, fordi det er det, de ligesom har lagt op til, siger Lars.</p><p>Udsigten til deres datters fremtid kommer med et hav af bekymringer.</p><p>- For det er jo kun én gang, hun skal gøre alvor af sine ord, og så er hun væk, lyder det Lars.</p>",
-  "link": "https://www.tv2nord.dk/vesthimmerland/vi-er-bange-for-at-miste-hende-8226c",
-  "published": "Sun, 14 Jun 26 06:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/vesthimmerland/vi-er-bange-for-at-miste-hende-8226c",
-  "category": "No category"
- },
- {
-  "title": "Zombierne kommer",
-  "description": "<p>De fleste nordjyder har set en zombie-film og bagefter tænkt: &#039;Hvordan ville jeg egentlig klare mig, hvis den helt store zombie-apokalypse kommer?&#039; </p><p>Igennem 12 timer lørdag 13. juni afprøver 17 ultraløbere konceptet i det virtuelle løb &#039;Kadavermarchen&#039;, som er inspireret af forfatter Dennis Jürgensens bog af samme navn:</p><p>- Man skal forestille sig, at der er sket et stort virusudbrud i centrum af Aalborg. Alle smittede bliver til zombier, som så jagter alle de levende, forklarer arrangør Morten Klingenberg og fortsætter:</p><p>- Løberne har 12 timer til at komme på 60 kilometers afstand af Aalborg, og mens de løber gennem Nordjylland, spreder smitten sig, og der dukker hele tiden nye udbrud op, som betyder, at de må ændre deres planer. </p> <h2>&#039;CPH Marathon kan de beholde selv&#039;</h2><p>Det hele er naturligvis bare spas, gak og løjer, og zombierne findes kun i løbernes app, hvor man hele tiden kan følge hver løber og de zombier, som jagter dem.</p><p>- Altså Copenhagen Marathon kan de godt beholde selv. Det er alt for kedeligt. Det er meget federe med de her oplevelsesløb, hvor der sker noget uforudset hele tiden, fremstammer Liza Hedegaard Nielsen, da TV2 Nord fanger hende udenfor Volsted i en pause i tordenbygerne. </p><p>Liza løber sammen med Vibeke Vinther Paaske, som også deltager, fordi løbet er meget anderledes, end det hun normalt løber: </p><p>- Man oplever landskabet på en helt anden måde, når man ikke har en fastlagt rute. Man kommer igennem masser af små spændende byer, som man ellers aldrig ville se, forklarer hun.</p> <h2>En slags live-øvelse</h2><p>Netop det er en væsentlig del af arrangørernes motivation for at lave løbet: </p><p>- Man skal se det som en slags mikroeventyr. Man skal løbe en ukendt distance, og undervejs ændrer tingene sig hele tiden. Når vi taler med løberne bagefter, så har de hundredvis af små historier fra løbet, lyder det fra Morten Klingenberg. </p><p>At planen ikke holder, ved Magnus Hvid og Morten Lennert fra Sjælland udmærket. De to, der løber under holdnavnet Nøddepatruljen, var dårligt nok nået væk fra Aalborg, før et nyt udbrud i Støvring var lige ved at fange dem. </p><p>Faktisk var de ganske få sekunder fra at blive indhentet af zombierne. Og så har de også et helt andet problem: </p><p>- Vi har sgu glemt at få snacks med. Faktisk håber vi lidt på, at vi kan få så stort et forspring, at vi kan nå forbi en købmand eller en McDonalds, griner Magnus Hvid, der synes, at Kadavermarchen er et helt genialt koncept. </p> <p>Han bakkes op af makkeren Morten Lennert, der mener, at de faktisk er helt fremme på beatet: </p><p>- Altså der tales meget om resiliens for tiden. Vi skal preppe og alt muligt. Man kan vel nærmest sige, at det her er en slags live-øvelse. Jeg går ud fra, at de sidder ovre i Styrelsen for Samfundssikkerhed og hepper på os lige nu, griner han, inden Nøddepatruljen løber videre. Med zombierne i hælene. </p>",
-  "link": "https://www.tv2nord.dk/nordjylland/zombierne-kommer-e2a1e",
-  "published": "Sat, 13 Jun 26 21:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/zombierne-kommer-e2a1e",
-  "category": "No category"
+  "title": "Følg Aalborg Håndbolds bronzekamp og stil spørgsmål",
+  "description": "Aalborg Håndbold møder SC Magdeburg i søndagens bronzekamp ved Final4. Følg kampen og stil spørgsmål",
+  "link": "https://nordjyske.dk/nyheder/sport/foelg-aalborg-haandbolds-bronzekamp-og-stil-spoergsmaal/6067602?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 14 Jun 2026 09:38:45 Z",
+  "guid": "8221895f-4ef1-4823-9afd-c099c86d495e",
+  "category": "Aalborg Håndbold"
  },
  {
   "title": "Læser: Lad vindmøllernes overskud blive i lokalsamfundene",
@@ -321,6 +329,14 @@
   "category": "Aalborg Håndbold"
  },
  {
+  "title": "Aalborg Håndbold-overblik: Stjerne er ude af bronzekamp",
+  "description": "Få overblikket over de største Aalborg Håndbold-nyheder",
+  "link": "https://nordjyske.dk/nyheder/sport/aalborg-haandbold-overblik-faa-seneste-nyt-her/6001862?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 21 Apr 2026 13:19:53 Z",
+  "guid": "e776a8f9-d54f-4e87-962b-d3c761136e88",
+  "category": "Aalborg Håndbold"
+ },
+ {
   "title": "Bedre Psykiatri: Over 52.000 aalborgensere er pårørende, men alt for mange står alene",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/nordjylland/bedre-psykiatri-over-52-000-aalborgensere-er-paaroerende-men-alt-for-mange-staar-alene/6072174?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -369,14 +385,6 @@
   "category": "Jagten på større virksomheder"
  },
  {
-  "title": "Aalborg Håndbold-overblik: Aalborg-træner har luksus-problem før Final4",
-  "description": "Få overblikket over de største Aalborg Håndbold-nyheder",
-  "link": "https://nordjyske.dk/nyheder/sport/aalborg-haandbold-overblik-faa-seneste-nyt-her/6001862?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 21 Apr 2026 13:19:53 Z",
-  "guid": "e776a8f9-d54f-4e87-962b-d3c761136e88",
-  "category": "Aalborg Håndbold"
- },
- {
   "title": "AaB's nye hovedsponsor er ikke i tvivl:- Vi er tilbage, hvor vi hører til",
   "description": "Det er to af de store nordjyske institutioner, der skal køre parløb i de kommende tre år med den nye hovedsponsoraftale mellem AaB på den ene side og Spar Nord og Nykredit på den anden",
   "link": "https://nordjyske.dk/nyheder/sport/aab-s-nye-hovedsponsor-er-ikke-i-tvivl-vi-er-tilbage-hvor-vi-hoerer-til/6070822?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -407,13 +415,5 @@
   "published": "Fri, 12 Jun 2026 03:30:48 Z",
   "guid": "32e865b9-58a4-4b75-9756-ac5fbaddb7e4",
   "category": "No category"
- },
- {
-  "title": "Vi frygter indbrud. Men den hurtigst voksende kriminalitet foregår et helt andet sted",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/samfund/vi-frygter-indbrud-men-den-hurtigst-voksende-kriminalitet-foregaar-et-helt-andet-sted/6068133?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 12 Jun 2026 03:40:46 Z",
-  "guid": "8cbc33a9-6513-4e91-99bd-60f509307a34",
-  "category": "Det trygge Nordjylland?"
  }
 ]
