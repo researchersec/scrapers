@@ -120,20 +120,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQILTwUEP%2Fp-24.webp&w=300&x1r=0.28&x2r=0.495&y1r=0.03&y2r=0.301&s=533f813c6cba9dbd9c0366731baf2125"
  },
  {
-  "link": "/fotex?publication=aGcPOtSH&offer=J0oIxu_WDehvbbsH0HkTK",
+  "link": "/fotex?publication=A0QLb8-S&offer=prdSCw0vFMe1Gx95MCgPh",
   "price": "140",
   "currency": "DKK",
   "valid_from": "11-06-2026",
   "valid_until": "25-06-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaGcPOtSH%2Fp-38.webp&w=300&x1r=0.03&x2r=0.48&y1r=0.72&y2r=0.96&s=48ca97f2ea3119d2b2261a9770bed120"
- },
- {
-  "link": "/MENY?publication=ixXTmuXo&offer=iU5E4oJFGh7oCFP-mbH3X",
-  "price": "140",
-  "currency": "DKK",
-  "valid_from": "18-06-2026",
-  "valid_until": "25-06-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FixXTmuXo%2Fp-29.webp&w=300&x1r=0.64&x2r=0.98&y1r=0.64&y2r=0.98&s=a9325965990d57bff6f631aecd114ac7"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FA0QLb8-S%2Fp-7.webp&w=300&x1r=0.03&x2r=0.48&y1r=0.72&y2r=0.96&s=40c1bae365ae7c78d1d9e8516b07d4a5"
  },
  {
   "link": "/Fleggaard?publication=GrqwzkM8&offer=1WAnJzwammNoPl86Yg1hJ",
@@ -142,6 +134,14 @@
   "valid_from": "29-04-2026",
   "valid_until": "01-09-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F0b1b9b2d82bb98706520285d2115a620%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ab6c614c6c5153fe1ac3fa98b96b146%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Fcdc0b4b1437c087134c60f356032ee7e%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F1759e3c87f99fbb269db79e8b2f35386&w=300&s=71a74dc706bce8dc89c7cd13f6ff4c44"
+ },
+ {
+  "link": "/MENY?publication=ixXTmuXo&offer=iU5E4oJFGh7oCFP-mbH3X",
+  "price": "140",
+  "currency": "DKK",
+  "valid_from": "18-06-2026",
+  "valid_until": "25-06-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FixXTmuXo%2Fp-29.webp&w=300&x1r=0.64&x2r=0.98&y1r=0.64&y2r=0.98&s=a9325965990d57bff6f631aecd114ac7"
  },
  {
   "link": "/Calle?publication=7dmh_Jev&offer=uSfMdEke-vXuE7M0Sxgjk",
