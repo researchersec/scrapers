@@ -1,5 +1,14 @@
 [
  {
+  "title": "Vores drikkevand er trængt. Nu får det hjælp af droner",
+  "description": "Ved kun at sprøjte hvor der er ukrudt, kan landbrugets brug af sprøjtemidler mere end halveres.",
+  "link": "https://www.dr.dk/nyheder/indland/vores-drikkevand-er-traengt-nu-faar-det-hjaelp-af-droner",
+  "published": "Sun, 28 Jun 2026 05:30:00 GMT",
+  "guid": "urn:dr:umbraco:article:d2a5d54a-6767-4b69-9b98-be2870b5d45a",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/woynrdor/20260529-180752-5.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Maria fødte 65 timer før sin første eksamen – og gennemførte alle seks",
   "description": "Mens Maria Svensk Lynge var til eksamen, ventede hendes mand uden for lokalet med deres nyfødte søn, så hun kunne amme før og efter.",
   "link": "https://www.dr.dk/nyheder/indland/maria-foedte-65-timer-foer-sin-foerste-eksamen-og-gennemfoerte-alle-seks",
@@ -168,13 +177,44 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/rp3ogfum/dfef_crop001.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Hvornår skal jeg på pension? Det spørgsmål kan den nye regering ikke svare på",
-  "description": "I det nye regeringsgrundlag er der intet konkret svar på, hvad der skal ske med pensionsalderen.",
-  "link": "https://www.dr.dk/nyheder/indland/hvornaar-skal-jeg-paa-pension-det-spoergsmaal-kan-den-nye-regering-ikke-svare-paa",
-  "published": "Sat, 13 Jun 2026 04:19:00 GMT",
-  "guid": "urn:dr:umbraco:article:7cd3f314-0a37-480e-895b-452573842d48",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/ah2isycu/20260608-180848-4-5712x4284ma_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "27-årig anholdt: Forsøgte at stikke dørmand med kniv",
+  "description": "<p>Natten til søndag anholdt politiet en 27-årig mand, efter han havde forsøgt at stikke en dørmand med en kniv. </p><p>Det oplyser vagtchef ved Nordjyllands Politi Michael Mow til TV2 Nord. </p><p>Hændelsen fandt sted omkring klokken 03.28 ved restauranten Vognhjulet i Hobro, som har adresse i Adelgade. </p><p>Den 27-årige var ifølge politiet kommet op og skændes med dørmanden af ukendte årsager, og derfor trak han en foldekniv, som han forsøgte at stikke dørmanden med. </p><p>Manden ramte dog ikke dørmanden, og i stedet lykkedes det dørmanden med hjælp for andre at tilbageholde den 27-årige og ringe til politiet. </p><p>Politiet anholdt efterfølgende manden, og man forventer, at han skal fremstilles i et grundlovsforhør senere. </p><p>- Det er en grov sag, understreger vagtchefen, som tilføjer: </p><p>- Både det med at have kniv med i nattelivet, og overfalde en dørmand, det ser vi meget alvorligt på. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/27-arig-anholdt-forsogte-at-stikke-dormand-med-kniv-bcdc8",
+  "published": "Sun, 28 Jun 26 10:06:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/27-arig-anholdt-forsogte-at-stikke-dormand-med-kniv-bcdc8",
+  "category": "No category"
+ },
+ {
+  "title": "27-årig stukket med kniv: Politi jagter stadig gerningsmændene",
+  "description": "<p><a href=\"https://www.tv2nord.dk/kort-nyt/aalborg/person-stukket-med-kniv\" target=\"_blank\">Lørdag aften</a> blev en 27-årig mand stukket ned med en kniv ved Arkilsdal i Nørresundby. </p><p>Manden er uden for livsfare, det kunne politiet oplyse allerede lørdag til TV2 Nord. </p><p>Politiet fik anmeldelsen 20.57, og var til stede kort tid efter, hvor man spærrede et stort område af. </p><p>På stedet var der en del politi, og udover en indsatsleder var der også en del hundepatruljer og almindelige politibetjente i området.</p><p>Politiet er søndag helt færdige med at efterforske på adressen, men efterforsker fortsat sagen. </p><p>Det er endnu ikke lykkedes politiet at finde frem til gerningsmændene. </p><p>Politiet kan på nuværende ikke komme med flere detaljer om motivet, ligesom man ikke kan be- eller afkræfte, om hændelsen er banderelateret.  </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/27-arig-stukket-med-kniv-politi-jagter-stadig-gerningsmaendene-1b4df",
+  "published": "Sun, 28 Jun 26 09:52:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/27-arig-stukket-med-kniv-politi-jagter-stadig-gerningsmaendene-1b4df",
+  "category": "No category"
+ },
+ {
+  "title": "Hans-Henrik har været 'fluen på væggen' under historisk restaurering",
+  "description": "<p>Jesus, alle bænke og de store alter-malerier har været taget ud af Børglum Klosters næsten 1000 år gamle kirke og er blevet sat i stand på et nærliggende værksted.</p><p>Konservatorer fra Italien har med tandbørster renset kirkeinventaret og det 18 meter høje draperi bag alteret. </p> <p>Restaureringen af Børglum Klosters gamle domkirke har været et historisk stort projekt til 34 millioner kroner, hvor håndværkere har restaureret den indvendige del af kirken for første gang i 300 år. </p><p>Ny danmarkshistorie er dukket op undervejs, blandt andet en krypt under gulvet foran alteret.</p><p>Hans-Henrik Rottbøll har som fotograf været &#039;fluen på væggen&#039; gennem hele forløbet, og det har gjort et stort indtryk på ham.</p> <p>- Det har åbnet en helt ny verden op for mig, hvordan man ordner sådan nogle gamle kirker som den her, fortæller han.</p><p><em>Se kirken efter restaureringen i &#039;Klosterfamilien - prinsesse på besøg&#039; herunder - artiklen fortsætter efter videoen:</em></p> <h2>Kloster på TikTok</h2><p>Selv er Hans-Henrik Rottbøll vokset op på det gamle middelalderkloster mellem Løkken og Vrå.</p> <p>Hans-Henrik Rottbøll er uddannet film- og tv-produktionstekniker, og i dag arbejder han sammen med sine forældre og søstre om at bevare Børglum Kloster og drive det videre som turistattraktion.</p> <p>De seneste to et halvt år har Hans-Henrik Rottbølls primære rolle været at lave videoer af kirkens restaurering til Facebook, Instagram, YouTube og nu også TikTok, og følgerne har troligt fulgt med.</p><p>- Jeg er så glad for, at det har været en succes, fortæller Hans-Henrik Rottbøll.</p> <h2>Sammen om det som familie</h2><p>For hans forældre, ejerne af Børglum Kloster, har restaureringen været kulminationen på 41 års arbejde.</p><p>De startede i 1985 med at planlægge restaureringen af kirketaget, i 1990&#039;erne blev det udskiftet, og 30 år senere kom turen så til den indvendige del af kirken, der ikke var blevet restaureret siden 1700-tallet.</p><p>- Det er et vigtigt kapitel - et stort flueben, lyder det fra Hans og Anne Rottbøll.</p> <p>For familien Rottbøll betyder det alt, at de er med til at bevare det gamle kloster, og at de gør det sammen som familie.</p><p>- Jeg kan ikke få armene ned over min lillesøster Anne-Marie. Det er alt sammen sket på grund af hende. Det skulle planlægges, og der skulle indsamles penge fra fonde. Jeg er så stolt over, at hun kunne gøre det, lyder det fra Hans-Henrik Rottbøll.</p><p>- Og samtidig også min storesøster Benedicte. Hun kender alt det historiske bedre end nogen anden, uddyber han.</p> <p>Familien arbejder nu på at samle 200 millioner kroner ind fra fonde til at restaurere klosterets hovedbygning og udvendige arealer.</p><p><em>Se den store genåbning af klosterkirken i tv-programmet &#039;Klosterfamilien - prinsesse på besøg&#039; på <a href=\"play.tv2.dk/nord\">TV 2 Play</a>, <a href=\"https://www.youtube.com/@TV2Nordvideo\">YouTube</a> eller i videoen længere oppe i artiklen.</em></p>",
+  "link": "https://www.tv2nord.dk/hjoerring/hans-henrik-har-vaeret-fluen-pa-vaeggen-under-historisk-restaurering-06faf",
+  "published": "Sun, 28 Jun 26 09:45:00 +0200",
+  "guid": "https://www.tv2nord.dk/hjoerring/hans-henrik-har-vaeret-fluen-pa-vaeggen-under-historisk-restaurering-06faf",
+  "category": "No category"
+ },
+ {
+  "title": "Anton Wilde draftet til NHL",
+  "description": "<p>18-årige Anton Emil Wilde fra Frederikshavn er lørdag aften blevet draftet til NHL, da han blev valgt af Dallas Stars som nummer 187 i sjette runde. </p><p>Dermed bliver han en del af verdens bedste ishockeyliga, som nordjyden Nikolaj Ehlers netop har vundet sammen med den danske målmand Frederik Andersen. </p><p>Anton Emil Wilde har i indeværende sæson repræsenteret Frederikshavn White Hawks i Metalligaen, mens han desuden var på isen for det danske U18 landshold ved VM. </p><p>Her havde nordjyden 31 redninger ud af 32 skud mod Tyskland i en dansk 4-1-sejr, samt 52 redninger ud af 54 skud mod USA i et 0-2-nederlag. </p><p>Samlet stod keeperen med en redningsprocent på 88 ved turneringen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/anton-wilde-draftet-til-nhl-fa7d1",
+  "published": "Sun, 28 Jun 26 08:45:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/anton-wilde-draftet-til-nhl-fa7d1",
+  "category": "No category"
+ },
+ {
+  "title": "I dag begynder omfattende vejarbejde ved Limfjordsbroen",
+  "description": "<p>Vesterbro er en af de mest trafikerede veje i Aalborg, og derfor kan det altså komme til at påvirke trafikken i midtbyen voldsomt, når der skal lægges ny asfalt på vejene ved det centrale knudepunkt de kommende uger.</p><p>Arbejdet begynder allerede i dag søndag 28. juni, og det forventes at vare helt frem til 10. juli.</p><p>I første omgang spærres Vesterbro fra Borgergade til og med Limfjordsbroen for alle trafikanter fra klokken 06.00 søndag til klokken 06.00 mandag.</p><p>Og derfor skal man være ekstra opmærksom, hvis man skal afsted i dag eller imorgen tidlig, for vejarbejdet påvirker ikke kun billisterne, det går også udover cyklisterne og den offentlige transport. </p><p>Mandag 29. juni spærres Vesterbro efterfølgende fra Borgergade til Stengade på hverdage fra klokken 06.00 til klokken 18.00 for bilister og cyklister, da den næste etape af vejarbejdet udføres i dagstimerne af hensyn til beboerne lang strækningen.</p><p><em>Læs mere her:</em></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/i-dag-begynder-omfattende-vejarbejde-ved-limfjordsbroen-31a37",
+  "published": "Sun, 28 Jun 26 08:00:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/i-dag-begynder-omfattende-vejarbejde-ved-limfjordsbroen-31a37",
+  "category": "No category"
  },
  {
   "title": "Glenn gik fra at bo langt væk fra den 3. limfjordsforbindelse til at miste sit hjem",
@@ -217,44 +257,12 @@
   "category": "No category"
  },
  {
-  "title": "- Lige præcis i dag er de som alle andre: Sårbare unge fyrer den af til studenterkørsel",
-  "description": "<p>I de her disse dage er de nordjyske veje fyldt op med studentervogne med glade studenter og studiner, der fejrer, at de er færdige med deres uddannelse. </p><p>Til fælles har de alle, at det er en fest at køre studenterkørsel. ligesom de alle har noget helt særligt at fejre. </p><p>Der er dog også flere forskelle, hvis man kigger på hvert enkelte studentervogn, og den vogn, som TV2 Nord fik lov til at følge fredag havde et hold studenter, som i mere end en forstand er helt unikke.</p> <p>Studenterne kommer nemlig fra VUK-Aalborg, der er et kompetencecenter inden for kompenserende specialundervisning til unge og voksne.</p><p>- Der er ingen tvivl om, at det er årets dag. De ser frem til det længe. De forbereder sig i månedsvis med både at lave bander og bestille huer, og jeg tror, at noget af det vigtigste er, at lige præcis i dag er de som alle andre unge mennesker, fortæller Katja Kjær Rask, der er forstander på VUK.</p><h2>Caja var hjernen bag </h2><p>I mange år havde man ikke studenterkørsel på uddannelsen, men det ændrede Caja Thornberg Thomsen. Det var nemlig oprindeligt hendes idé, da hun allerede inden uddannelsestart spurgte ind til studenterhuen, såvel som studenterkørslen.</p><p>- Og jeg kunne godt vise hende huen på nettet, men jeg kunne ikke forklare hende, hvad vi skulle gøre i forhold til studenterkørsel, for det var ikke noget, vi gjorde, fortæller Katja Kjær Rask. </p><p>- Så brugte vi egentlig et par år på at udtænke konceptet og finde ud af, hvordan gør vi, og så i 2022, der kørte vi første gang, tilføjer hun.</p> <h2>- Alle har jo det her</h2><p>Så i flere år er Cajas idé kommet andre afgangselever til gode. Og fredag var det hendes tur.</p><p>- Dagen har været megagod - jeg er megaglad, fortæller hun undervejs på køreturen. </p><p>Caja Thornberg Thomsen har cerebral parese, men det stopper hende altså ikke fra at fejre, at tre år på skolebænken er slut. </p><p>- Alle har jo det her, så det skulle vi også have, konstaterer hun.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/lige-praecis-i-dag-er-de-som-alle-andre-sarbare-unge-fyrer-den-af-til-studenterkorsel-65dc9",
-  "published": "Sat, 27 Jun 26 18:45:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/lige-praecis-i-dag-er-de-som-alle-andre-sarbare-unge-fyrer-den-af-til-studenterkorsel-65dc9",
-  "category": "No category"
- },
- {
-  "title": "Line fra Hurup får chancen på kæmpe festival",
-  "description": "<p>Duoen Roya, der blandt andet består af Line Gade fra Hurup skal med kort varsel spille på den fynske festival Tinderbox.</p><p>Det offentliggør festivallen i et opslag på <a href=\"https://www.facebook.com/tinderboxdenmark/posts/pfbid0a6BCbXdqifz7fA9YJuZQTTTXcViAJibj2272aWsLwNDHzwLDsKYs2e984NWMcKx5l\" target=\"_blank\">Facebook</a>. </p><p>Duoen er blevet hentet til, efter rapperen Kidd tidligere lørdag aflyste sin koncert, som skulle være fundet sted lørdag aften, på grund af sygdom. </p><p>Det har altså åbnet op for Roya, der fik et stort hit tilbage i 2024 med nummeret &#039;cruise&#039;.</p><p><em>Læs mere her:</em></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/thisted/line-fra-hurup-far-chancen-pa-kaempe-festival-18786",
-  "published": "Sat, 27 Jun 26 16:43:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/line-fra-hurup-far-chancen-pa-kaempe-festival-18786",
-  "category": "No category"
- },
- {
-  "title": "Otte ældre borgere sendt på hospitalet efter brand - en svært tilskadekommet",
-  "description": "<p>En ældre kvinde er lørdag formiddag blevet fløjet til Rigshospitalet og er svært tilskadekommet i forbindelse med en brand på Hobrovej 92B i Støvring.</p><p>Derudover er syv ældre borgere kørt til Aalborg Universitetshospital til tjek efter branden.</p><p>Det oplyser vagtchef ved Nordjyllands Politi Michael Mow.</p><p>Branden opstod omkring klokken 10.35, og både politi og beredskab arbejder i skrivende stund fortsat på stedet. </p><p>Politiet kan endnu ikke sige noget omkring årsagen til branden, og de pårørende til den ældre kvinde er underrettet.</p><p><em>Læs mere her:</em></p> <p><br /></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/rebild/otte-aeldre-borgere-sendt-pa-hospitalet-efter-brand-en-svaert-tilskadekommet-5f9dc",
-  "published": "Sat, 27 Jun 26 12:52:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/rebild/otte-aeldre-borgere-sendt-pa-hospitalet-efter-brand-en-svaert-tilskadekommet-5f9dc",
-  "category": "No category"
- },
- {
-  "title": "Ældre kvinde fløjet til rigshospitalet, mens yderligere syv ældre borgere er kørt på hospitalet i forbindelse med brand i Støvring",
-  "description": "<p>En ældre kvinde er lørdag formiddag blevet fløjet til Rigshospitalet og er svært tilskadekommet i forbindelse med en brand på Hobrovej 92B i Støvring.</p><p>Derudover er syv ældre borgere kørt til Aalborg Universitetshospital til tjek efter branden.  </p><p>Det oplyser vagtchef ved Nordjyllands Politi Michael Mow. </p> <h2>Skal have klarlagt årsagen </h2><p>Branden opstod omkring klokken 10.35, hvor politiet modtog alarmen. Her kunne man hurtigt se, at der var tale om ældreboligere, og at der er 12 borgere tilmeldte adressen. </p><p>Politiet fik evakueret alle borgerne, mens Nordjyllands Beredskab forsøgte at få branden og den kraftige røgudvikling under kontrol - hertil bad både politi og beredskab de lokale borgere om at holde sig væk og give plads. </p> <p>Beredskabet var til stede på adressen med seks køretøjer, mens der også var flere ambulancer og en lægehelikopter til stede, men klokken 12.23 oplyser beredskabet på X, at der er kontrol over branden, og at man derfor sender nogle af køretøjerne hjem. </p> <p>Både Politi og beredskab er dog fortsat på adressen, og det vil man være i noget tid endnu. Hvor længe, man forventer at arbejde på stedet, kan vagtchefen dog ikke komme nærmere. </p><p>- Vi skal have slukket branden helt, have afspærret ordentligt, og så skal vi have fundet årsagen til branden, fortæller Michael Mow, der på nuværende ikke kan sige noget nærmere omkring en mulig årsag til branden. </p><p>De pårørende til den ældre kvinde er underrettet. </p>",
-  "link": "https://www.tv2nord.dk/rebild/brand-i-stovring-hold-jer-vaek-melder-politiet-21178",
-  "published": "Sat, 27 Jun 26 10:56:00 +0200",
-  "guid": "https://www.tv2nord.dk/rebild/brand-i-stovring-hold-jer-vaek-melder-politiet-21178",
-  "category": "No category"
- },
- {
-  "title": "Kvinde skal 40 dage i fængsel for kommentar på Støjbergs Facebook-opslag",
-  "description": "<p>En 50-årig kvinde blev tilbage i slutningen af maj idømt 40 dages ubetinget fængsel ved byretten i Lyngby for at have truet Danmarksdemokraternes formand Inger Støjberg (DD). </p><p>Det er via en kommentar på et af folketingspolitikerens opslag på Facebook, at den 50-årige kvinde er blevet dømt for at have truet hende. </p><p>Inger Støjberg delte 20. april 2024 et billede med teksten <em>&#039;Ulven skaber utryghed - den hører ikke til i Danmark</em>&#039; og skrev hertil &#039;<em>Jeg synes, at alle ulve skal udryddes i Danmark. De hører ikke til her!&#039; </em>i sit opslag. </p><p>Den 50-årige kvinde kommenterede opslaget med: </p><p><em>&#039;Støjberg skaber utryghed i Danmark og skal udryddes ....Hvordan kan det støjende blr være i politik med beskidt straffeattest? der er ikk egået 10 år. Alt inden for offentlig og staten er 10 år&#039;.</em></p><p>Og det er altså den kommentar, som hun er blevet dømt for. </p><p>Retten lagde blandt andet vægt på, at udsagnet: <em>&#039;Støjberg skaber utryghed i Danmark og skal udryddes&#039; </em>må anses for at være en offentlig trussel - eller en trussel, som havde forsæt til udbredelse i en videre kreds. Samtidig lagde retten vægt på, at kvinden &#039;måtte have indset, at ytringen udgjorde en trussel,&#039; ligesom man har lagt vægt på grovheden af den fremsatte trussel.</p><p>Den 50-årige kvinde nægtede sig skyldig under retssagen.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/kvinde-skal-40-dage-i-faengsel-for-kommentar-pa-stojbergs-facebook-opslag-100d2",
-  "published": "Sat, 27 Jun 26 09:16:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/kvinde-skal-40-dage-i-faengsel-for-kommentar-pa-stojbergs-facebook-opslag-100d2",
-  "category": "No category"
+  "title": "De reddede virksomheden – og solgte den, da den endelig tjente penge",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/de-reddede-virksomheden-og-solgte-den-da-den-endelig-tjente-penge/6083224?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 28 Jun 2026 03:33:48 Z",
+  "guid": "295cfb0a-c853-40f0-a84b-80b99e6c4176",
+  "category": "Erhverv"
  },
  {
   "title": "Sprøjteforbud skal redde drikkevandet - men løser det egentlig Nordjyllands største problem?",
@@ -281,20 +289,20 @@
   "category": "Nordjyske mener"
  },
  {
-  "title": "De reddede virksomheden – og solgte den, da den endelig tjente penge",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/de-reddede-virksomheden-og-solgte-den-da-den-endelig-tjente-penge/6083224?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 28 Jun 2026 03:33:48 Z",
-  "guid": "295cfb0a-c853-40f0-a84b-80b99e6c4176",
-  "category": "Erhverv"
- },
- {
   "title": "Peter Kristensen vil bygge et plejehjem ved fjorden. Nu er hans ønske kommet tættere på virkelighed",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/mariagerfjord/peter-kristensen-vil-bygge-et-plejehjem-ved-fjorden-nu-er-hans-oenske-kommet-taettere-paa-virkelighed/6086652?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Sat, 27 Jun 2026 17:07:45 Z",
   "guid": "25079f19-be05-4727-a0b8-ba2c088d0bd9",
   "category": "Hadsund"
+ },
+ {
+  "title": "Hobro-boss har handlet hurtigt - én handel er dog glippet",
+  "description": "Hobro IK og sportschef Lars Justesen er mere eller mindre klar til at lukke transfervinduet efter hurtig handling",
+  "link": "https://nordjyske.dk/nyheder/sport/hobro-boss-har-handlet-hurtigt-n-handel-er-dog-glippet/6090066?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sun, 28 Jun 2026 06:01:45 Z",
+  "guid": "1a952d05-6b24-4e10-9c45-e44cb9109bf6",
+  "category": "fodboldtransfer"
  },
  {
   "title": "Købmændene i Nordjylland er gået i priskrig. Og ham, der startede den, er pisket til at vinde",
@@ -407,13 +415,5 @@
   "published": "Fri, 26 Jun 2026 03:31:50 Z",
   "guid": "650527ae-5b18-4689-bc4d-294988241f14",
   "category": "No category"
- },
- {
-  "title": "Ét enkelt nej giver store udfordringer: Klitmøllers millionstore projekt er udskudt",
-  "description": "Kommunalbestyrelsen kunne ikke finde økonomi til at støtte projekt om nyt fælleshus i Klitmøller. Det besværliggør nu den videre proces for folkene bag",
-  "link": "https://nordjyske.dk/nyheder/thisted/t-enkelt-nej-giver-store-udfordringer-klitmoellers-millionstore-droemmeprojekt-er-udskudt/6087115?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 26 Jun 2026 09:35:55 Z",
-  "guid": "05774916-6d52-4a55-af2c-088534855072",
-  "category": "Thisted"
  }
 ]
