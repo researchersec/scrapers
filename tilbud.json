@@ -48,12 +48,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FH4X1Lcfh%2Fp-38.webp&w=300&x1r=0.282&x2r=0.485&y1r=0.665&y2r=0.955&s=25243bfb4a7f88fa96d4851c7d0cce52"
  },
  {
-  "link": "/Fleggaard?publication=wIKLHLYO&offer=qrRweN4NuK7rRd7rqUUo0",
+  "link": "/Fleggaard?publication=1NRp-JGF&offer=m7EDu8Zka__Y9jW3LD4qy",
   "price": "16",
   "currency": "DKK",
-  "valid_from": "23-06-2026",
+  "valid_from": "20-05-2026",
   "valid_until": "07-07-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwIKLHLYO%2Fp-6.webp&w=300&x1r=0.65&x2r=0.99&y1r=0.75&y2r=0.98&s=5cfcd36c39f9eddcf83aed0958372707"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ccd3a653909d0307d68a127661c389d%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F323aa8e0a285b743f45ac6aa896d940d&w=300&s=667ea419bb9963c31c190195dba7c7f0"
  },
  {
   "link": "/Wolt-Market?publication=0ND4My0A&offer=QJKiLoDtMvmH2kRyQtqem",
@@ -216,20 +216,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3fLg8RaC%2Fp-3.webp&w=300&x1r=0.5&x2r=0.98&y1r=0.65&y2r=0.99&s=a6adb38fd7fbaabac7c79cf01f39dddb"
  },
  {
-  "link": "/BorderShop?publication=kiI5WHQd&offer=D2HSRqo7ep6myOf5-rDlQ",
-  "price": "81.95",
-  "currency": "DKK",
-  "valid_from": "31-05-2026",
-  "valid_until": "11-08-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkiI5WHQd%2Fp-4.webp&w=300&x1r=0.04&x2r=0.36&y1r=0.355&y2r=0.675&s=1977c1aa8f4cd2ec176df468cd8a8503"
- },
- {
   "link": "/SPAR?publication=99Fwld86&offer=kPrD4rIaf6z-EirjJUrQs",
   "price": "140",
   "currency": "DKK",
   "valid_from": "02-07-2026",
   "valid_until": "09-07-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F99Fwld86%2Fp-14.webp&w=300&x1r=0.65&x2r=0.95&y1r=0.46&y2r=0.81&s=5ae3634864647bb5abaca63d9e3cd4ba"
+ },
+ {
+  "link": "/BorderShop?publication=kiI5WHQd&offer=D2HSRqo7ep6myOf5-rDlQ",
+  "price": "81.95",
+  "currency": "DKK",
+  "valid_from": "31-05-2026",
+  "valid_until": "11-08-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkiI5WHQd%2Fp-4.webp&w=300&x1r=0.04&x2r=0.36&y1r=0.355&y2r=0.675&s=1977c1aa8f4cd2ec176df468cd8a8503"
  },
  {
   "link": "/MENY?publication=MrFxFFqG&offer=PLPQ-GwZcQCEKxgtoFY6D",
