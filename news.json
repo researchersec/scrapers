@@ -1,5 +1,14 @@
 [
  {
+  "title": "Rekordmange unge sætter kurs mod søfartsuddannelser",
+  "description": "De maritime uddannelser på MARTEC har fået flere førsteprioritetsansøgninger",
+  "link": "https://www.dr.dk/nyheder/indland/rekordmange-unge-saetter-kurs-mod-soefartsuddannelser",
+  "published": "Mon, 06 Jul 2026 18:40:00 GMT",
+  "guid": "urn:dr:umbraco:article:8646faa0-77e0-4251-bd78-92cdbf4f7219",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/u2olorqw/martec_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Mand filmede kvinder i smug på festivaltoilet",
   "description": "Den 29-årige mand blev spærret inde på et toilet, efter andre festivalgæster opdagede, hvad han havde gang i.",
   "link": "https://www.dr.dk/nyheder/indland/mand-filmede-kvinder-i-smug-paa-festivaltoilet",
@@ -170,13 +179,20 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/nmjjo3q3/skoleelever-1_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Første online-uddannelse for sosu'er: Nu er Annette og Trine sygeplejersker",
-  "description": "32 studerende har gennemført Danmarks første online-uddannelse, hvor social- og sundhedsassistenter har uddannet sig til sygeplejersker.",
-  "link": "https://www.dr.dk/nyheder/indland/foerste-online-uddannelse-sosu-er-nu-er-annette-og-trine-sygeplejersker",
-  "published": "Fri, 19 Jun 2026 11:30:00 GMT",
-  "guid": "urn:dr:umbraco:article:f215d2d0-2d57-4440-9963-4b45265b5ae4",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/e5bfwuii/img_16081.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Fødegang reducerer klimaaftryk ved at fjerne engangsbleer og vådservietter",
+  "description": "<p>Når forældre skal sige hej til deres lille ny på Regionshospital Nordjylland, vil der ikke længere være engangsbleer, vådservietter og spritservietter, når de skal pusle om familiens nye skud på stammen.</p><p>For på hospitalet har medarbejderne målrettet arbejdet med at reducere brugens af engangsartikler og indføre mere bæredygtige alternativer. Og det betyder, at fødegangen har reduceret affaldsmængden med 250 kilo om året.</p><p>- Det giver så meget mening for mig og mine kollegaer, at vi går forrest som gode eksempler og hjælper de kommende forældre med at se muligheder i forhold til at passe på vores natur og minimere vores omgang med mikroplast, fortæller jordemoder Anette Juel Storgaard Thomsen.</p><p>Men der ikke kun de nyfødte, der nu bliver tilbudt grønnere alternativer. Den gravides partner får fremover også vaskbart bomuldstøj, ligesom engangsinstrumenter erstattet med instrumenter, der kan genbruges.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/fodegang-reducerer-klimaaftryk-ved-at-fjerne-engangsbleer-og-vadservietter-d0e77",
+  "published": "Mon, 06 Jul 26 20:33:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/fodegang-reducerer-klimaaftryk-ved-at-fjerne-engangsbleer-og-vadservietter-d0e77",
+  "category": "No category"
+ },
+ {
+  "title": "EH-Aalborg spiller har vundet VM-sølv og er blevet kåret til All Star-hold",
+  "description": "<p>Smilet er stort hos EH Aalborg-spilleren Freja Fonseca. </p><p>Men der er også nok at smile over. Hun har netop vundet VM-sølv sammen med det øvrige danske ungdomslandshold ved U20-VM i Kina.</p><p>Og ikke nok med det, så er hun også blevet kåret til tuneringens All Star-hold.</p><p>Den 20-årige målvogter, der kommer fra Tornby, viste god figur i turneringen, hvor hun havde flere flotte redninger i frie positioner, og samlet set var hendes redningsprocent 36,2 procent, hvilket var medvirkende til, at det Internationale Håndboldforbund kårede hende til All Star-holdet som bedste målvogter.</p><p>Og hun var ikke den eneste dansker, der gjorde så god figur, at hun endte med at bliver kåret.</p><p>Også Kirstine Emilie Hoppe - der sluttede som topscorer med 66 mål - blev nomineret som bedste playmaker, mens Julie Groth Persson, der til daglig spiller for HØJ Elite, blev kåret som bedste højre back.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/eh-aalborg-spiller-har-vundet-vm-solv-og-karet-til-all-star-hold-2572f",
+  "published": "Mon, 06 Jul 26 19:40:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/eh-aalborg-spiller-har-vundet-vm-solv-og-karet-til-all-star-hold-2572f",
+  "category": "No category"
  },
  {
   "title": "Christians datter har fået angst, efter bil bragede ind i familiens hjem",
@@ -235,27 +251,11 @@
   "category": "No category"
  },
  {
-  "title": "Ny hedebølge er på vej til Danmark",
-  "description": "<p>Det blæsende og regnfulde vejr i Danmark er snart overstået, hvilket giver plads til sol og varme senere på ugen.</p><p>Torsdag kan vi lokalt måske ramme 25 grader, og herefter venter der en særdeles varm afslutning på ugen.</p><p>Fredag byder på 22 til 27 grader, og weekenden bliver endnu varmere.</p> <p>Vejrudsigten bliver herefter mere usikker, men måske kan temperaturen lørdag, søndag og mandag få termometrene til at ramme de 30 grader.</p><p>Det er sikkert, at det bliver varmt, men usikkert præcist, hvor varmt det bliver. Særligt mandag kan der komme flere skyer og måske også nogle byger.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/ny-hedebolge-er-pa-vej-til-danmark-08503",
-  "published": "Mon, 06 Jul 26 14:23:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/ny-hedebolge-er-pa-vej-til-danmark-08503",
-  "category": "No category"
- },
- {
-  "title": "TV 2 Vejret varsler vindstød af stormstyrke",
-  "description": "<p>Netop som blæsten har sluppet taget i Nordjylland, er der igen blæst at spore i prognoserne.</p><p>Fra tirsdag middag og frem til onsdag morgen vil Danmark igen få meget kraftige vindstød.</p><p>I det nordligste Nordjylland, over Kattegat til Sjællands nordkyst og Bornholm, kan der optræde vindstød af stormstyrke.</p><p>På nedenstående grafik kan man se, i hvilket tidsrum der er varslet for stormstød.</p> <p>Alle øvrige vest- og nordvendte kyster vil også opleve kraftige vindstød, og ved Jammerbugten er der varsel om vindstød af stormende kuling fra tirsdag middag til kort efter midnat onsdag.</p><p>Vindstød af stormstyrke kan let flytte eller vælte løse genstande. Trampoliner, telte, pavilloner og havemøbler bør derfor sikres ekstra godt eller tages ned, så de ikke blæser væk og forårsager skader.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/tv-2-vejret-varsler-vindstod-af-stormstyrke-6b572",
-  "published": "Mon, 06 Jul 26 14:13:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/tv-2-vejret-varsler-vindstod-af-stormstyrke-6b572",
-  "category": "No category"
- },
- {
-  "title": "Rekordmange vil uddanne sig her: - Det er resultatet af en målrettet indsats",
-  "description": "<p>Det er den tid på året, hvor de nordjyske uddannelsesinstitutioner får svar på, hvor attraktive de er for de unge håbefulde ansøgere.</p><p>I år kan den maritime uddannelsesinstitution Martec i Frederikshavn glæde sig over, at de er mere attraktive blandt de unge, end de plejer.</p> <p>Der er nemlig rekordmange unge, der har valgt Martec, som deres førsteprioritet i årets ansøgning til de videregående uddannelser.</p><p>- Vi er meget glade for årets søgning. Det er resultatet af en målrettet indsats, men også af et stærkt samarbejde med vores gode partnere i Det Blå Danmark. Samtidig må vi sige, at den positive udvikling glæder os ekstra meget i en tid, hvor antallet af unge i Nordjylland falder, siger Pia Ankerstjerne, der er direktør på Martec.</p><p>I år har Martec 164 førsteprioritetsansøgere. Det er en ny rekord og betydeligt flere end de 137 førsteprioritetsansøgere sidste år.</p> <p>Det er særligt maskinmesteruddannelsen, der i år har fået flere førsteprioritetsansøgere end tidligere.</p><h2>Fokus på en sejlende karriere</h2><p>Det Blå Danmark står for omkring 30 pct. af Danmarks samlede eksport af varer og tjenester, og der er, ifølge Martec, stor efterspørgsel efter kvalificerede dimittender på tværs af de maritime uddannelser.</p><p>De kommende år vil Martec dog særligt forsøge at tiltrække flere unge, der har lyst til en sejlende karriere.</p><p>- Danmark har brug for unge, der får praktisk erfaring fra livet om bord. Erfaringen fra søen er uvurderlig – både i det praktiske arbejde til søs og senere, når kompetencerne bringes i spil på land. Den erfaring er med til at styrke hele Det Blå Danmark og fastholde Danmark som en af verdens førende søfartsnationer, siger Jens Ditlev Lauritzen, der formand for Lauritzen Fonden og medlem af Martecs bestyrelse.</p> <p>Der er desuden åbent for efteroptag frem til studiestart på professionsbacheloruddannelserne på Martec.</p>",
-  "link": "https://www.tv2nord.dk/frederikshavn/rekordmange-vil-uddanne-sig-her-det-er-resultatet-af-en-malrettet-indsats-48c02",
-  "published": "Mon, 06 Jul 26 12:14:00 +0200",
-  "guid": "https://www.tv2nord.dk/frederikshavn/rekordmange-vil-uddanne-sig-her-det-er-resultatet-af-en-malrettet-indsats-48c02",
+  "title": "Fødegang dropper engangsbleer og vådservietter: - Det giver så meget mening",
+  "description": "<p>Når forældre skal sige hej til deres lille ny på Regionshospital Nordjylland, vil der ikke længere være engangsbleer, vådservietter og spritservietter, når de skal pusle om familiens nye skud på stammen.</p><p>For på hospitalet har medarbejderne målrettet arbejdet med at reducere brugens af engangsartikler og indføre mere bæredygtige alternativer. Og det betyder, at fødegangen har reduceret affaldsmængden med 250 kilo om året.</p><p>- Det giver så meget mening for mig og mine kollegaer, at vi går forrest som gode eksempler og hjælper de kommende forældre med at se muligheder i forhold til at passe på vores natur og minimere vores omgang med mikroplast, fortæller jordemoder Anette Juel Storgaard Thomsen.</p><p>Men der ikke kun de nyfødte, der nu bliver tilbudt grønnere alternativer. Den gravides partner får fremover også vaskbart bomuldstøj, ligesom engangsinstrumenter erstattet med instrumenter, der kan genbruges.</p> <h2>Inspiration fra Aalborg</h2><p>Det er igennem projektet. Bæredygtige fødsler på RHN&#039;, at hospitalet har gjort sig erfaringerne. Projektet fik støtte fra Region Nordjyllands klimapulje i 2024, og har kørt fra 2025 frem til foråret i år.</p><p>Og formålet var at mindske fødegangens klimaaftryk uden at gå på kompromis med patientsikkerheden, hygiejnen eller den faglige kvalitet.</p> <p>Og afdelingen har ladet sig inspirere af et lignende projekt på Aalborg Universitetshospital, &#039;Grøn Familiestart på Aalborg Universitetshospital&#039;, samt det europæiske projekt &#039;Born Green Generation&#039;, ligesom det generelle fokus på bæredygtighed i sundhedsvæsenet har inspireret.</p><p>Hospitalet fortæller endvidere, at der blandt flere kommende mødre har været en bekymring for plastforbruget.</p>",
+  "link": "https://www.tv2nord.dk/hjoerring/fodegang-dropper-engangsbleer-og-vadservietter-det-giver-sa-meget-mening-47f80",
+  "published": "Mon, 06 Jul 26 15:01:00 +0200",
+  "guid": "https://www.tv2nord.dk/hjoerring/fodegang-dropper-engangsbleer-og-vadservietter-det-giver-sa-meget-mening-47f80",
   "category": "No category"
  },
  {
