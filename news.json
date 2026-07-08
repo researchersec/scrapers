@@ -1,5 +1,14 @@
 [
  {
+  "title": "Rådden hval fjernet fra populær strand",
+  "description": "Lugten fra en strandet vågehval var til gene for badegæsterne. Nu er den kørt til forbrænding, oplyser Miljøstyrelsen.",
+  "link": "https://www.dr.dk/nyheder/indland/raadden-hval-fjernet-fra-populaer-strand",
+  "published": "Wed, 08 Jul 2026 10:56:09 GMT",
+  "guid": "urn:dr:umbraco:article:45ea7e42-66bb-492a-a9fb-5e07888b63ad",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/wp5dihg3/hval-topbillede.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Rekordmange unge sætter kurs mod søfartsuddannelser",
   "description": "De maritime uddannelser på MARTEC har fået flere førsteprioritetsansøgninger",
   "link": "https://www.dr.dk/nyheder/indland/rekordmange-unge-saetter-kurs-mod-soefartsuddannelser",
@@ -170,13 +179,36 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/cbzj44kj/vraa-topbillede.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Skoleelever kritiserer trivselsundersøgelse: 'Det er nogle lorte-spørgsmål'",
-  "description": "Nordjyske skoleelever mener, at den nationale trivselsundersøgelse i folkeskolen rummer store problemer.",
-  "link": "https://www.dr.dk/nyheder/indland/skoleelever-kritiserer-trivselsundersoegelse-det-er-nogle-lorte-spoergsmaal",
-  "published": "Sun, 21 Jun 2026 15:00:00 GMT",
-  "guid": "urn:dr:umbraco:article:9e67e046-105f-4704-bafc-8f2aa17ce4dc",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/nmjjo3q3/skoleelever-1_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Beredskab sendt ud til bæltegraver i brand",
+  "description": "<p>Mens de fleste holder sommerferie og er ude og nyde det gode vejr, så er Nordjyllands Beredskab på pletten igen. Der er nemlig kommet en melding om, at en bæltegraver er gået i brand i Aalborg Øst.</p><p>Der er sendt seks mand og to køretøjer ud til stedet, hvor de vil kontrollere, at branden slukker sig selv. For ifølge Jeppe Lauritzen, der er beredskabsoperatør ved Nordjyllands Beredskab, vil den brænde ud, hvorefter beredskabet kan vende snuden hjemad.</p><p>Beredskabet melder om ingen tilskadekommende.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/beredskab-sendt-ud-til-baeltegraver-i-brand-27035",
+  "published": "Wed, 08 Jul 26 14:02:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/beredskab-sendt-ud-til-baeltegraver-i-brand-27035",
+  "category": "No category"
+ },
+ {
+  "title": "Beredskab formoder elinstallation startede brand i lade",
+  "description": "<p>Nordjyllands Beredskab er efter et par timer nu helt færdige med slukningsarbejdet af laden ved gården i Farsø, der tidligere i dag stod i flammer.</p><p>- Alt står stadigvæk, og intet er brændt yderligere. Til gengæld er strømmen og varmen til huset gået, fortæller indsatsleder Per Hansen fra Nordjyllands Beredskab.</p><p>Derfor er skadeservice ude på adressen, hvor de hjælper med at genetablere vandet til huset, der gik under branden.</p><p><em>Hvad har forårsaget branden?</em></p><p>- Vi formoder, at det er en elinstallation. Men for at være helt sikre skal vi have politiet med indover som skal foretage tekniske undersøgelser, der vil klarlægge brandårsagen.</p><p><em>Og hvordan har beboerne det nu?</em></p><p>- De er ved at komme sig over chokket, men de er ved godt mod, lyder det.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/beredskab-formoder-elinstallation-startede-brand-i-lade-ee1c2",
+  "published": "Wed, 08 Jul 26 13:17:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/beredskab-formoder-elinstallation-startede-brand-i-lade-ee1c2",
+  "category": "No category"
+ },
+ {
+  "title": "Bilister skal sænke hastigheden ved Limfjordstunellen",
+  "description": "<p><em>Opdateret klokken 13.40: Advarslen er ophævet, og trafikken glider igen.</em></p><p>Der holder et havareret køretøj på E45 fra Aalborg mod Nørresundby mellem afkørsel 23 Aalborg N og Limfjordstunnelen. Det fremgår af <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">Vejdirektoratets Trafikkort.</a></p><p>Derfor lyder opfordringen, at bilister bør nedsætte hastigheden.</p><p>Vejhjælp er på stedet nu og forventes at være indtil klokken 14.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/bilister-skal-saenke-hastigheden-ved-limfjordstunellen-b5cff",
+  "published": "Wed, 08 Jul 26 13:03:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/bilister-skal-saenke-hastigheden-ved-limfjordstunellen-b5cff",
+  "category": "No category"
+ },
+ {
+  "title": "Vesthimmerlands kommune håber, de kan åbne strand for badegæster inden weekenden",
+  "description": "<p>Sommervejret gør sig et comeback, hvilket garanteret vil få folk til at strømme til stranden.</p><p>Men siden mandag morgen har stranden ved Løgstør været lukket, fordi der er fundet et forhøjet indhold af colibakterier i vandet, og derfor fraråder kommunen al badning.</p><p>Hvilket giver god mening, for colibakterier kan også oversættes til lortebakterier, og svømmer man rundt i det, ja, så er der rimelig stor risiko for at man selv får dårlig mave - eller det der er værre.</p><p>Den sidste prøve blev taget torsdag i sidste uge, da der faldt en masse regn.</p><p>- Vi fik et voldsomt regnskyl, og så ser vi, at der med lange perioder, hvor der er tørt, kommer bakterier i vandet, fortæller Carina Meldgaard Frandsen, der er afdelingsleder ved Vesthimmerlands Kommune.</p><p>Kommunen har ikke andre årsagsforklaringer på, hvad der kan skyldes det forhøjede indhold af colibakterier.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/vesthimmerlands-kommune-haber-de-kan-abne-strand-for-badegaester-inden-weekenden-3df82",
+  "published": "Wed, 08 Jul 26 12:49:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/vesthimmerlands-kommune-haber-de-kan-abne-strand-for-badegaester-inden-weekenden-3df82",
+  "category": "No category"
  },
  {
   "title": "Vågehval skal fjernes fra strand",
@@ -192,6 +224,14 @@
   "link": "https://www.tv2nord.dk/kort-nyt/morsoe/larven-fra-helvede-fundet-pa-mors-a0b76",
   "published": "Wed, 08 Jul 26 11:56:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/morsoe/larven-fra-helvede-fundet-pa-mors-a0b76",
+  "category": "No category"
+ },
+ {
+  "title": "Kommune håber lortebakterier er væk, så strand kan genåbne",
+  "description": "<p>Sommervejret gør sig et comeback, hvilket garanteret vil få folk til at strømme til stranden.</p><p>Men siden mandag morgen har stranden ved Løgstør været lukket, fordi der var fundet et forhøjet indhold af colibakterier i vandet, og derfor frarådede kommunen alt badning.</p><p>Hvilket giver god mening, for colibakterier kan også oversættes til lortebakterier, og svømmer man rundt i det, ja, så er der rimelig stor risiko for at man selv får dårlig mave - eller det der er værre.</p><p>Den sidste prøve blev foretaget torsdag i sidste uge, da der faldt en masse regn.</p><p>- Vi fik et voldsomt regnskyl, og så ser vi, at der med lange perioder, hvor der er tørt, kommer der en masse bakterier i vandet, fortæller Carina Meldgaard Frandsen, afdelingsleder ved Vesthimmerlands Kommune.</p><p>Kommunen har ikke andre årsagsforklaringer på, hvad der kan skyldes det forhøjede indhold af colibakterier.</p> <h2>Forventer at åbne op igen</h2><p>Nu har Vesthimmerlands Kommune foretaget nye prøver, men det er endnu uvist, om de kan få lov til at åbne op for stranden til det dejlige sommervejr.</p><p>- Vi afventer svar på prøverne i løbet af i dag, men jeg forventer, at vi kan åbne for stranden i løbet af eftermiddagen, så folk forhåbentlig kan komme ud og bade i det varme vejr de kommende dage, siger Carina Meldgaard Frandsen.</p><p>Kommunen antager, at bakterierne er kommet efter regnskyllet i sidste uge, men de kan først være helt sikre, når prøverne er vendt retur til dem.</p><p>- Hvis vi får prøven tilbage i dag, der viser forhøjede tal af colibakterier igen, så vil vi antage, at der er et andet problem, og så vil vi gå i gang med kildesporing. Men det forventer vi ikke, lyder det.</p>",
+  "link": "https://www.tv2nord.dk/vesthimmerland/kommune-haber-lortebakterier-er-vaek-sa-strand-kan-genabne-ee048",
+  "published": "Wed, 08 Jul 26 11:36:00 +0200",
+  "guid": "https://www.tv2nord.dk/vesthimmerland/kommune-haber-lortebakterier-er-vaek-sa-strand-kan-genabne-ee048",
   "category": "No category"
  },
  {
@@ -219,68 +259,12 @@
   "category": "No category"
  },
  {
-  "title": "Beredskab talstærkt til stede på gård",
-  "description": "<p>Kort før klokken ni fik Nordjyllands Beredskab meldingen om en brand i en lade i Farsø.</p><p>Beboerne på gården opdagede under morgenkaffen, at der stod flammer op ad laden.</p> <p>Det fortæller indsatsleder Per Hansen.</p><p>Branden er brudt igennem taget på laden, og selvom alle væggene er der så er meldingen fra indsatslederen, at alt indvendigt i laden er brændt fuldstændig ned.</p> <p>Ude på stedet befinder indsatsleder Per Hansen sig sammen med 17 mænd endnu i færd med efterslukning af branden.</p><p>- Der er styr på det nu, og ingen mennesker eller dyr er kommet til skade, lyder det.</p><p>Beredskabet er ude med to sprøjter, to tankvogne og en stigebil.</p> <p>- Der var kraftig røgudvikling fra laden, men da vi kom derud, var flammerne ikke så kraftige, som vi troede. Til gengæld var der meget sort røg som vanskeliggjorde vores arbejde. Røgen trak desuden ud mod vejen, siger indsatslederen.</p><p><em>Hvordan har beboerne det?</em></p><p>- De var i chok over at se det syn, når de lige var stået op.</p><p>Beredskabet regner med at blive ude på stedet de næste par timer, mens efterslukningen fortsat er i gang. Desuden skal skadeservice også ud og se på beboernes stuehus, da det har lidt røgskade og en del røglugt skal ud.</p>",
-  "link": "https://www.tv2nord.dk/vesthimmerland/beredskab-talstaerkt-til-stede-pa-gard-a5d27",
-  "published": "Wed, 08 Jul 26 10:16:00 +0200",
-  "guid": "https://www.tv2nord.dk/vesthimmerland/beredskab-talstaerkt-til-stede-pa-gard-a5d27",
-  "category": "No category"
- },
- {
-  "title": "Fortuna Hjørring indgår kontrakt med landsholdskeeper",
-  "description": "<p>Landsholdskeeperen Freja Thisgaard vender tilbage til Fortuna Hjørring efter en kort periode i Napoli. Det har klubben netop offentliggjort i en pressemeddelelse.</p><p>- For mig er det vigtigt, at jeg får noget spilletid, og det tror jeg på, at jeg kan få her i Hjørring. Samtidig kender jeg setuppet her i Fortuna, og vil gerne være med til at spille om det danske mesterskab, pokaltitlen og en god placering i Europacuppen, siger Freja Thisgaard.</p><p>Landsholdskeeperen har skrevet kontrakt med klubben frem til 30. juni 2028. </p><p>Freja Thisgaard kom oprindelige til Fortuna Hjørring fra Viborg i 2019, hvor hun nåede at spille 61 førsteholdskampe for klubben og var med til at sikre The Double, inden udlandet kaldte, og hun skrev kontrakt med Napoli. </p><p>Men nu vender hun altså tilbage til det nordjyske.</p><p>Landsholdskeeperen har repræsenteret ungdomslandsholdet i 18 kampe og A-landsholdet i 9 kampe.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/fortuna-hjorring-indgar-kontrakt-med-landsholdskeeper-9aba7",
-  "published": "Wed, 08 Jul 26 09:36:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/fortuna-hjorring-indgar-kontrakt-med-landsholdskeeper-9aba7",
-  "category": "No category"
- },
- {
-  "title": "Fandt kokain på adressen: 49-årig sigtet for narkosalg",
-  "description": "<p>Nordjyllands Politi aflagde tirsdag besøg på en adresse i Sæby på grund af en mistanke om, at der blev solgt narko på stedet.</p><p>Og der var bid. Politiet fandt 167 gram kokain på stedet udover forskellige remedier, de bruges til videresalg af narko såsom en vægt og poser.</p><p>- Udfra det fund er han blev sigtet for straffelovens bestemmelser til narko, fortæller politikommissær ved Nordjyllands Politi i Frederikshavn Peter Skovbak.</p><p>Det er ikke første gang, at politiet stifter bekendtskab med manden, der er kendt for lignende kriminalitet og er dømt for det.</p><p>Den 49-årige blev løsladt efter afhøringen, men han er fortsat sigtet i sagen</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/fandt-kokain-pa-adressen-49-arig-sigtet-for-narkosalg-adcc2",
-  "published": "Wed, 08 Jul 26 09:24:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/fandt-kokain-pa-adressen-49-arig-sigtet-for-narkosalg-adcc2",
-  "category": "No category"
- },
- {
-  "title": "Her er Nordjyllands bedste badestrande",
-  "description": "<p>I weekenden er der igen dømt strandvejr, og hvis du skulle være i tvivl om, hvilken strand, du skal vælge til at køle dit varme legeme ned, så får du herunder en liste over Nordjyllands bedste badestrande - kåret af vores læsere.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/her-er-nordjyllands-bedste-badestrande-a4e3b",
-  "published": "Wed, 08 Jul 26 08:50:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/her-er-nordjyllands-bedste-badestrande-a4e3b",
-  "category": "No category"
- },
- {
-  "title": "Her er Nordjyllands bedste strand",
-  "description": "<p><em>Dette er en genudgivelse. Artiklen blev publiceret første gang i juli 2024. Er der nogle strande, du tænker, vi mangler? Så modtager vi gerne dit bud i tip-funktionen nederst i artiklen.</em></p><p>Vi danskere er meget glade for vores strande.</p><p>Og med 7.314 kilometer kystlinje, har vi rigeligt af dem at vælge imellem - ikke mindst her i Nordjylland.</p> <p>Men hvilken nordjysk strand er egentlig den bedste?</p><p>I uge 29 har TV2 Nord besøgt seks forskellige strande rundt om i Nordjylland. Nogle bød på blød sand, mens andre bød på tang, muslingeskaller og eksotiske palmer.</p> <p>Men i sidste ende er det 7.400 af jer læsere, der har fået det sidste ord i <a href=\"https://www.tv2nord.dk/nordjylland/stem-her-nordjyllands-bedste-strand-skal-kaares\" rel=\"noopener noreferrer\" target=\"_blank\">vores officielle afstemning.</a></p><p>Og nu er det altså afgjort. </p><p>*trommehvirvel*</p><p>Med 27 procent af stemmerne er Palmestranden i Frederikshavn den bedste strand i regionen.</p> <p>På en stærk andenplads følger Løkken strand med 20 procent af stemmerne, mens Klitmøller strand tilsyneladende ikke vækker den store begejstring og kun har fået sølle én procent af de flere tusind stemmer.</p><h2>Eksotisk og blød</h2><p>Alt i alt er der altså meget der tyder på, at idéen om den eksotiske palmestrand har ramt noget helt rigtigt.</p> <p>I torsdags var TV2 Nords strand-reporter forbi Palmestranden, og også han var svært begejstret for den stranden på østkysten.</p><p>- Det er virkelig eksotisk. Sandet er dejligt blødt, og der er ikke særlig meget tang. Man kan komme ret langt ud, uden at vandet bliver for dybt, lød det fra en imponeret Philip Holm Johansen.</p> <p>Udover muligheden for at bade, kan man også vælge at tage et spil volleyball eller købe sig en kølende forfriskning hos strandens iskiosk.</p> <p>Men, der er trods alt ikke noget, der er perfekt. Og selvom stranden nu officielt er kåret som vinder, så er der lige én ting, man skal være opmærksom på, når man skal på badetur blandt palmerne.</p><p>- Av. Av. Der er sten. Det gør altså ondt at træde i, konstaterede strand-reporteren. </p>",
-  "link": "https://www.tv2nord.dk/nordjylland/tv2-nords-laesere-har-talt-her-er-nordjyllands-bedste-strand",
-  "published": "Wed, 08 Jul 26 08:48:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/tv2-nords-laesere-har-talt-her-er-nordjyllands-bedste-strand",
-  "category": "No category"
- },
- {
-  "title": "Se AaB's testkamp mod Randers FC her",
-  "description": "Se AaB's testkamp på nordjyske.dk",
+  "title": "Gense AaB's testkamp mod Randers",
+  "description": "AaB spillede onsdag sommerens anden testkamp. Se eller gense den her",
   "link": "https://nordjyske.dk/nyheder/sport/se-aab-s-testkamp-mod-randers-fc-her/6102544?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 08 Jul 2026 03:32:46 Z",
   "guid": "ef780eda-d309-4a9a-bcbe-aca2363a0964",
   "category": "AaB"
- },
- {
-  "title": "Hjørrings største idrætsforening efterlyser ny aftale: - Folk gider ikke være i noget gammelt lort",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/hjoerring/hjoerrings-stoerste-idraetsforening-efterlyser-ny-aftale-folk-gider-ikke-vaere-i-noget-gammelt-lort/6101083?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 08 Jul 2026 09:30:45 Z",
-  "guid": "73c27fec-6ab5-4267-bcbe-627c02e1e2f7",
-  "category": "Idrætspolitik"
- },
- {
-  "title": "Tirsdag blev en historisk dag i Mors-Thy, men det blev med al sandsynlighed også en dyr dag",
-  "description": "For første gang i klubbens historie kan Mors-Thy Håndbold se frem til at deltage i et europæisk gruppespil",
-  "link": "https://nordjyske.dk/nyheder/sport/tirsdag-blev-en-historisk-dag-i-mors-thy-men-det-blev-med-al-sandsynlighed-ogsaa-en-dyr-dag/6102609?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 07 Jul 2026 17:06:45 Z",
-  "guid": "91796d2c-6bf6-48b2-9b80-f661f369af7a",
-  "category": "Mors-Thy håndbold"
  },
  {
   "title": "Rødt kort til elnettet: - Det er værre for Nordjylland, end vi havde frygtet",
@@ -291,12 +275,28 @@
   "category": "Det store strømsvigt"
  },
  {
+  "title": "Hjørrings største idrætsforening efterlyser ny aftale: - Folk gider ikke være i noget gammelt lort",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/hjoerring/hjoerrings-stoerste-idraetsforening-efterlyser-ny-aftale-folk-gider-ikke-vaere-i-noget-gammelt-lort/6101083?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 08 Jul 2026 09:30:45 Z",
+  "guid": "73c27fec-6ab5-4267-bcbe-627c02e1e2f7",
+  "category": "Idrætspolitik"
+ },
+ {
   "title": "Allan Freiheit traf beslutningen, der kunne koste ham direktørjobbet. En udfordring i markedet forklarer hvorfor",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/allan-freiheit-traf-beslutningen-der-kunne-koste-ham-direktoerjobbet-en-udfordring-i-markedet-forklarer-hvorfor/6074940?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 08 Jul 2026 03:35:46 Z",
   "guid": "3413fa0c-4219-4397-9de0-4edd46030b64",
   "category": "Erhverv"
+ },
+ {
+  "title": "Tirsdag blev en historisk dag i Mors-Thy, men det blev med al sandsynlighed også en dyr dag",
+  "description": "For første gang i klubbens historie kan Mors-Thy Håndbold se frem til at deltage i et europæisk gruppespil",
+  "link": "https://nordjyske.dk/nyheder/sport/tirsdag-blev-en-historisk-dag-i-mors-thy-men-det-blev-med-al-sandsynlighed-ogsaa-en-dyr-dag/6102609?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 07 Jul 2026 17:06:45 Z",
+  "guid": "91796d2c-6bf6-48b2-9b80-f661f369af7a",
+  "category": "Mors-Thy håndbold"
  },
  {
   "title": "Øster Hurup kan få 100 nye sommerhuse hurtigere end forventet",
