@@ -1,5 +1,23 @@
 [
  {
+  "title": "Brandmænd indtager danske kyster - se videoen af 'brun suppe' her",
+  "description": "Vindretning, varmt vand og lav vandstand giver de slimede væsener gode betingelser på danske strande.",
+  "link": "https://www.dr.dk/nyheder/indland/brandmaend-indtager-danske-kyster-se-videoen-af-brun-suppe-her",
+  "published": "Fri, 10 Jul 2026 08:04:00 GMT",
+  "guid": "urn:dr:umbraco:article:887f62d1-4783-4037-a566-41eb3f00546c",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/03cl4bh1/jsnd_a_indland_hou2mov-00000118.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
+  "title": "Norge mangler storskærme: Dansk leverandør siger nej",
+  "description": "Norske arrangører leder uden for landets grænser efter storskærme til kampen mod England.",
+  "link": "https://www.dr.dk/sporten/fodbold/vm/norge-mangler-storskaerme-dansk-leverandoer-siger-nej",
+  "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+  "guid": "urn:dr:umbraco:article:e9f4968c-65e4-48eb-9009-b7ac2392bb6e",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/sutp10rk/20260705-224032-7.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Autocampere fylder i feriebyerne: Nye parkeringsregler skal holde dem væk",
   "description": "I Løkken er man træt af campingbusser, der blokerer gader og beslaglægger p-pladser.",
   "link": "https://www.dr.dk/nyheder/indland/autocampere-fylder-i-feriebyerne-nye-parkeringsregler-skal-holde-dem-vaek",
@@ -161,22 +179,36 @@
   "category": "No category"
  },
  {
-  "title": "Smadrede flasker og cigaretskodder i sandkassen: Husk den gode opførsel, når du fester på fællesarealer",
-  "description": "Legepladser og offentlige bænkesæt er samlingssteder for unge i sommervarmen, men nogle gange ender festerne med rod og hærværk.",
-  "link": "https://www.dr.dk/nyheder/indland/smadrede-flasker-og-cigaretskodder-i-sandkassen-husk-den-gode-opfoersel-naar-du-fester-paa",
-  "published": "Fri, 26 Jun 2026 14:06:00 GMT",
-  "guid": "urn:dr:umbraco:article:96b132d4-2642-4821-b013-fad94379a179",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/vyyiu454/photo_collage-3.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Danmark får mere skov, men i Nordjylland gider vi ikke",
+  "description": "<p>Klimaskovfonden har netop afsluttet endnu en ansøgningsrunde og uddelt støtte til nye skove. Skovene bliver fordelt rundt i landet, men fonden skriver, at én landsdel skiller sig ud, og det er Nordjylland.</p><p>Der er 44 nye skove på vej i hele landet, og kun én af dem er nordjysk. </p><p>- Det er ærgerligt. Nordjylland har store og velegnede arealer, som er oplagte til ny skov. Samtidig kan skovene bidrage med en række positive effekter, blandt andet bedre beskyttelse af drikkevandet. Derfor håber vi, at flere nordjyder vil være med til at plante skov i fremtiden, siger Poul Erik Lauridsen, der er direktør for Klimaskovfonden.</p><p>Bortset fra i Nordjylland oplever fonden ellers stor interesse for at plante skov. Formålet er at få mere natur, bedre optag af drivhusgasser og bedre beskyttelse af drikkevand.</p><p>Den enlige nordjyske skov kommer til at ligge på Læsø. </p><p>Det er en privat lodsejer ved Bangsbo, der har ansøgt om projektet, der kommer til at udgøre 4,7 hektar jord. Projektet er beregnet til at kunne give en CO2-reduktion på 1878 tons over 95 år.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/laesoe/danmark-far-mere-skov-men-i-nordjylland-gider-vi-ikke-4055d",
+  "published": "Fri, 10 Jul 26 08:18:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/laesoe/danmark-far-mere-skov-men-i-nordjylland-gider-vi-ikke-4055d",
+  "category": "No category"
  },
  {
-  "title": "Hedebølgen rammer nyt sygehus: Patienter skal ikke frygte hedeslag, siger direktør",
-  "description": "Selvom sygehuset i Aalborg har kæmpet med alt for varme sengestuer, burde hedebølgen ikke ramme lige så hårdt som frygtet.",
-  "link": "https://www.dr.dk/nyheder/indland/hedeboelgen-rammer-nyt-sygehus-patienter-skal-ikke-frygte-hedeslag-siger-direktoer",
-  "published": "Fri, 26 Jun 2026 12:04:16 GMT",
-  "guid": "urn:dr:umbraco:article:9572e39e-ca34-4882-aee7-5063d2aa36eb",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/n5naih4u/qwfwefwef.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Den får ik' for lidt, når Østkyst Hustlers rammer Nordjylland",
+  "description": "<p>I 2026 kan hiphop-legenderne fejre 30 års jubilæum for albummet &#039;Fuld af Løgn&#039; – albummet, der for alvor gjorde dansk rap til folkeeje og gav os klassikere som &#039;Han får for lidt&#039;, &#039;Håbløs&#039; og &#039;Hustlerstil&#039;. </p><p>Tre årtier senere er Bossy Bo, Jazzy H og Peyk stadig blandt de mest markante navne på den danske musikscene og står i dag som Danmarks ældste aktive rapband.</p><p>Med mere end en halv million solgte plader, hundredvis af koncerter og et bagkatalog, som generationer af danskere kan synge med på, har Østkyst Hustlers sat et af de tydeligste aftryk på dansk musik. Deres tekster, humor og karakteristiske funky hiphop-lyd har gjort dem til pionerer – og deres sange er stadig faste gæster på playlisterne, når festen skal i gang.</p> <h2>Lever ikke kun på fortiden - tværtimod</h2><p>Live er trioen stadig kendt som et af landets mest energiske koncertnavne. Sammen med deres liveband leverer de koncerter med masser af groove, skarp rap, nærvær og en energi, der smitter langt ud over de forreste rækker. Publikum kan derfor godt begynde at glæde sig til en koncert, hvor både nostalgien og festen får frit spil.</p><p>Østkyst Hustlers er et band, der samler generationer. Mange er vokset op med deres musik, mens andre først har opdaget dem senere. De er garant for en fest, hvor publikum synger med fra første nummer.</p><p>Koncerten er gratis og er en del af <strong>Nordjylland gør en forskel</strong>, som finder sted fra <strong>20.–30. august 2026</strong> ved søen ved TV2 Nord i Aabybro.</p><p><strong>Læs mere her:</strong><a href=\"tv2nord.dk/event\"> tv2nord.dk/event</a></p><p>I løbet af de 10 dage bliver området fyldt med motion, musik, fællesskab og oplevelser for hele familien. Samtidig er eventet med til at gøre en forskel for nordjyske børn og unge i udsatte positioner, da overskuddet går til Gestus Nord.</p><p>Østkyst Hustlers går på scenen <strong>den 27. august kl. 19.00</strong> og er et af flere hovednavne, der offentliggøres hen over sommeren, så der er fortsat meget at glæde sig til.</p>",
+  "link": "https://www.tv2nord.dk/nordjylland/den-far-ik-for-lidt-nar-ostkyst-hustlers-rammer-nordjylland-fefe6",
+  "published": "Fri, 10 Jul 26 08:00:00 +0200",
+  "guid": "https://www.tv2nord.dk/nordjylland/den-far-ik-for-lidt-nar-ostkyst-hustlers-rammer-nordjylland-fefe6",
+  "category": "No category"
+ },
+ {
+  "title": "'Sommervejr' på plakaten",
+  "description": "<p>Der er &#039;sommervejr&#039; på plakaten fredag ifølge TV 2 Vejrets Jens Ringgård Christiansen. Man kunne fristes til at tænke, at der så er tale om det, der ofte kaldes dansk sommervejr, nemlig regn, men der er tale om det vejr, der på det seneste har været lig med dansk sommer - altså sol og varme.</p><p>Der kommer ikke til at være mange skyer på himlen gennem dagen, og vinden skal man ifølge prognosen også kigge langt efter. Til gengæld bliver der mellem 26 og 29 grader i Nordjylland, når varmen topper og lidt køligere ved kysten. </p> <p>Du kan høre mere om sommervejret fra Solvej Vindblæs:</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/sommervejr-pa-plakaten-2109e",
+  "published": "Fri, 10 Jul 26 07:14:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/sommervejr-pa-plakaten-2109e",
+  "category": "No category"
+ },
+ {
+  "title": "Varmen kommer buldrende, men nordjysk vinbonde jubler",
+  "description": "<p>Det kan føre tankerne hen mod en mindre sydfransk bondeby, når man får lov til at gå rundt i vinmarkerne ved Guldbæk Vingård i Himmerland.</p><p>På hver en skråning i den lille nordjyske landsby er der plantet vinstokke på rad og række.</p><p>Lige nu vokser grønne blade frem og bliver større og større på vinstokkene, mens selve vindruen endnu blot ligner en lille ært.</p> <p>Præcis sådan skal det også se ud lige nu, for på vingården har de faktisk svært ved at finde noget at være utilfredse med.</p><p>- Vi har armene højt oppe i begejstring over det her sommervejr, som vi har nu, siger Kim Thrysøe, der er ejer af Guldbæk Vingård.</p><h2>Perfekt sommervejr</h2><p>Ude på vinmarkerne er sol og varme nemlig altafgørende for en god vinsæson, så derfor vækker det stor begejstring på vingården, når de kigger på den kommende uges vejrudsigt. Alt tyder nemlig på, at uge 29 bliver både solrig, varm og uden regn.</p><p>- Tørt, solrigt vejr og noget varme – præcis som det er nu – det er helt perfekt, siger Kim Thrysøe.</p> <p>Sommervejret har artet sig noget nær perfekt for vinbønderne i Himmerland. Først fik de en uge med høj sol, dernæst en uge med lidt nedbør og nu igen en uge med solrigt vejr.</p><p>- Jeg kan overhovedet ikke klage over noget. Det har været ret super den måde det har været hele sæsonen i år, siger Kim Thrysøe.</p><p>Lige nu bruger vinstokkene solen til at vokse sig store og stærke. Det er det, der senere kan give sukker til selve vindruen og sørge for, at dansk vin kan nærme sig sine udenlandske konkurrenter.</p> <h2>Tror på godt år</h2><p>Alligevel må vejret ikke blive <em>for </em>godt. For høje temperaturer kan nemlig skade vindruen, og derfor er det noget nær ideelt, at temperaturen ikke ser ud til at overstige 30 grader i den kommende uge.</p><p>- Det er 11 ud af 10 perfekt, siger Kim Thrysøe.</p><p>Nu håber vinbonden så bare på flere gode vejrudsigter. Men allerede nu tør de godt drømme stort for årets høst.</p><p><em>Tør I tro på, at det her bliver et af de gode år?</em></p><p>- Ja, det tegner det til. Grundlaget for, at der kommer en masse frugt, er der, svarer Kim Thrysøe.</p>",
+  "link": "https://www.tv2nord.dk/rebild/vi-har-armene-hojt-oppe-i-begejstring-12ce3",
+  "published": "Fri, 10 Jul 26 07:00:00 +0200",
+  "guid": "https://www.tv2nord.dk/rebild/vi-har-armene-hojt-oppe-i-begejstring-12ce3",
+  "category": "No category"
  },
  {
   "title": "Daniel har autisme, men særlig robot hjælper",
@@ -224,38 +256,6 @@
   "link": "https://www.tv2nord.dk/nordjylland/kommuner-med-vidt-forskellige-tiltag-8b309",
   "published": "Thu, 09 Jul 26 17:36:00 +0200",
   "guid": "https://www.tv2nord.dk/nordjylland/kommuner-med-vidt-forskellige-tiltag-8b309",
-  "category": "No category"
- },
- {
-  "title": "Strande genåbnet efter fund af colibakterier",
-  "description": "<p>For to dage siden var det strengt forbudt, men nu er badestranden igen åben.</p><p>Vandet ved Løgstør, Trend og Hvalpsund blev testet for et forhøjet indhold af colibakterier eller enterokokker. Begge er en tarmbakterier, dermed er vandet forurenet gennem afføring.</p><p>Nu har Vesthimmerland Kommune derimod taget nye prøver, der viser, at vandet atter er svømmeklart.</p><p>Det er ikke første gang, at vandet forurenes. <a href=\"https://www.tv2nord.dk/kort-nyt/vesthimmerland/du-maa-igen-bade-paa-disse-strande-i-limfjorden\">Også i 2023 var den gal med colibakterier ved Vesthimmerland.</a></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/strande-genabnet-efter-fund-af-colibakterier-fe289",
-  "published": "Thu, 09 Jul 26 16:59:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/strande-genabnet-efter-fund-af-colibakterier-fe289",
-  "category": "No category"
- },
- {
-  "title": "Julemænd diskuterer til verdenskongres",
-  "description": "<p>Med kun 168 dage til juleaften har alverdens julemænd allerede travlt.</p><p>Verdenskongressen for julemænd finder i disse dage sted i Aalborg, hvor vigtige emner drøftes.</p><p>- Hvad farve skal juletræet være? Hvornår er juleaften? Hvor stor skal smørklatten være? Det er jo vigtige ting, lyder det fra Simon Brøns, formand for Dansk Julemands Laug.</p> <h2>Hvornår er det juleaften?</h2><p>Man skulle tro, at datoen for juleaften ikke burde være til diskussion, men det er det til en verdenskongres.</p><p>-De amerikanske og engelske julemænd vil jo gerne have den 25. Os fra Nordeuropa holder på at det er juleaften den 24. Og dem fra Holland, de får gaver den 6. december Det er jo lidt efter hvor man kommer fra, siger Peter Gislund, julemand fra Aalborg.</p><p>Og der er rigeligt med juletraditioner at vende, når den eneste certificeret julemand fra Asien også er med.</p><p>Santa Paradise Yamamoto har besøgt juleglade sjæle i alt fra Singapore, Japan, Taiwan og Indien.</p> <h2>Jubilæum til næste år</h2><p>Julemændenes Verdenskongres blev opfundet af den navnkundige professor Tribini på Bakken for 69 år siden. Til næste år kan kongressen fejre 70-års jubilæum. Hvad der skal ske i den anledning, er endnu uvist.</p><p>-Vi ved det ikke helt endnu. Vi julefolk elsker juleoverraskelser, så det kan vi først fortælle om, når vi nærmer os, siger Simon Brøns, formand for Dansk Julemands Laug.</p><p>Det ligger dog fast, at næste års verdenskongres igen bliver i Aalborg.</p> <p> </p>",
-  "link": "https://www.tv2nord.dk/aalborg/julemaend-diskuterer-til-verdenskongres-dfa3a",
-  "published": "Thu, 09 Jul 26 16:13:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/julemaend-diskuterer-til-verdenskongres-dfa3a",
-  "category": "No category"
- },
- {
-  "title": "Her kommer ikonisk trofæ til Nordjylland",
-  "description": "<p>For første gang i historien kommer Stanley Cup pokalen til Aalborg.</p><p>Nordjyske Nikolaj Ehlers sejrede med sit hold Carolina Hurricanes i ishockeyligaen NHL, og traditionen tro får hver spiller sin egen dag med pokalen.</p><p>- Det er en drøm, der går i opfyldelse, og jeg glæder mig endnu mere til at tage Stanley Cup-trofæet med hjem til Aalborg, lød det fra Nikolaj Ehlers efter den samlede sejr i NHL.</p> <p>Det bliver den 23 juli, hvor den prestigefyldte pokal rammer den nordjyske muld.</p><p>Seancen kommer til at foregå i Sparekassen Danmark Arena, hvor Aalborg Pirates normalt holder til.</p><p>Aalborg Pirates skriver på Facebook, at det bliver muligt for interesserede at få et billede med trofæet og en autograf fra Nikolaj Ehlers.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/her-kommer-ikonisk-trofae-til-nordjylland-aa509",
-  "published": "Thu, 09 Jul 26 15:53:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/her-kommer-ikonisk-trofae-til-nordjylland-aa509",
-  "category": "No category"
- },
- {
-  "title": "Forbrændt ejer kørt på hospitalet",
-  "description": "<p>Der er torsdag eftermiddag udbrudt brand i en ejendom i nærheden af Kærvej 28 i Kongerslev.</p><p>Ifølge indsatsleder ved Nordjyllands Beredskab Niels Eltzholtz er hele huset omsluttet af flammer, og huset er brændt ned til grunden.</p><p>- Lige nu er vi ved at sikre området omkring huset, som er omringet af kornmarker, der endnu ikke er høstet, lyder det.</p><p>Da Nordjyllands Beredskab ankommer, er der allerede brand i mange værelser og flere åbninger i taget.</p> <p>Det er ejeren selv, der har ringet, og han mener, at det branden skulle være opstået i en elinstallation, fortæller indsatslederen.</p><p>Niels Eltzholtz fortæller, at ejeren har fået enkelte forbrændinger og er kørt på hospitalet til tjek for røgforgiftning, men hans yderlige tilstand kender man ikke.</p><p>Nordjyllands Politi vil indlede en efterforskning for at klarlægge brandårsagen.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/ejendom-star-i-flammer-6af79",
-  "published": "Thu, 09 Jul 26 15:39:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/ejendom-star-i-flammer-6af79",
   "category": "No category"
  },
  {
