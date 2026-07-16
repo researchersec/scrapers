@@ -1,5 +1,14 @@
 [
  {
+  "title": "For tredje gang svigtede alarmsystem i psykiatrien: Politikere kalder på handling",
+  "description": "I flere timer fik personalet intet at vide om, at alarmsystemet i psykiatrien endnu engang var gået ned.",
+  "link": "https://www.dr.dk/nyheder/indland/tredje-gang-svigtede-alarmsystem-i-psykiatrien-politikere-kalder-paa-handling",
+  "published": "Thu, 16 Jul 2026 13:41:00 GMT",
+  "guid": "urn:dr:umbraco:article:e00025b2-1fab-40d0-9ad5-55a5e0bf4565",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/nvamrelo/wefwefwefwefwef.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "En af havets mest mærkelige fisk er tilbage i Oceanariet",
   "description": "Efter et år uden den særegne fisk har Nordsøen Oceanarium igen to klumpfisk.",
   "link": "https://www.dr.dk/nyheder/regionale/nordjylland/en-af-havets-mest-maerkelige-fisk-er-tilbage-i-oceanariet",
@@ -170,13 +179,60 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/idqlldyl/20260118-131436-3.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "'Ekstremt' sjælden fugl er nu dukket op nyt sted i Danmark: 'Det kan ikke blive vildere'",
-  "description": "Munkegribben er nu også blevet set i Nordjylland.",
-  "link": "https://www.dr.dk/nyheder/indland/ekstremt-sjaelden-fugl-er-nu-dukket-op-nyt-sted-i-danmark-det-kan-ikke-blive-vildere",
-  "published": "Tue, 30 Jun 2026 16:46:00 GMT",
-  "guid": "urn:dr:umbraco:article:db705077-c1e2-4c3b-ac97-813d4ad98f44",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/3c4n4e45/munkegrib_skagen_foto-joergen-kabel.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Vejdirektoratet varsler kø",
+  "description": "<p><em>Opdateret 15.51</em></p><p>Vejdirektoratet oplyser på deres hjemmeside, at bilen er fjernet. Der er dog fortsat kø. </p><p>Der holder lige nu et køretøj og blokerer det højre spor kort inden tunnellen i nordgående retning ved Aalborg. </p><p>Det oplyser Vejdirektoratet på deres hjemmeside. </p><p>Politiet er på stedet, og Vejdirektoratet fortæller, at føreren af bilens egen vejhjælp er på vej. </p><p>Der er tale om en bil, der er gået i stå. </p><p>Bilen holder delvist inde i nødsporet, og Vejdirektoratet oplyser, at der ved at være en kø på omkring 20 minutter.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-blokeret-9d2e3",
+  "published": "Thu, 16 Jul 26 15:13:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-blokeret-9d2e3",
+  "category": "No category"
+ },
+ {
+  "title": "Antal indbrud fordoblet i Aalborg på et år",
+  "description": "<p>Nordjyderne har pakket kufferten, lukket vinduerne, låst dørene og sat kursen mod varmere himmelstrøg.</p><p>Men når hjemmene står tomme dukker tyvene op. Og ifølge netop offentliggjorte indbrudstal fra Danmarks Statistik er antallet af indbrud steget markant.</p><p>Alene i Region Nordjylland er antallet af indbrud i private hjem gået fra 356 i det 1. halvår af 2025 til 416 i 1. halvår af 2026. En stigning på 17 procent og mere end landsgennemsnittet på 16 procent.</p><p>- Der er desværre tale om en markant stigning – det kan vi ikke lægge skjul på. Vi kender ikke helt baggrunden for den kedelige udvikling, men noget kunne tyde på, at der er en form for organiseret kriminalitet på området, som vinder frem, siger Britt Wendelboe, programchef i Bo trygt, der er en indsats skabt af TrygFonden og den filantropiske forening Realdania i samarbejde med Det Kriminalpræventive Råd.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/antal-indbrud-fordoblet-i-aalborg-pa-et-ar-5c4e1",
+  "published": "Thu, 16 Jul 26 14:44:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/antal-indbrud-fordoblet-i-aalborg-pa-et-ar-5c4e1",
+  "category": "No category"
+ },
+ {
+  "title": "Pas på",
+  "description": "<p><em>Opdateret 14.43</em></p><p>Der er igen åbnet i alle spor.</p><p>Der er tabt gods på Hirtshalsmotorvejen i sydgående retning mellem Vestbjerg og Høvejen. </p><p>Det betyder også, at det ene spor er blokeret.</p><p>Vejdirektoratet skriver på deres hjemmeside, at man skal passe på. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/pas-pa-bdf9b",
+  "published": "Thu, 16 Jul 26 14:12:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/pas-pa-bdf9b",
+  "category": "No category"
+ },
+ {
+  "title": "Nordjyske kommuner fører i solskin",
+  "description": "<p>Næsten halvdelen af skolernes sommerferie er gået, og efter især Stevns Kommune kunne prale med det bedste danske sommervejr i begyndelsen af sommerferien, er det nu andre kommuner, der er trukket i førertrøjen.</p><p>Det sydøstlige Sjælland ligger stadig pænt til med op til 77 point, men de fire førende kommuner findes nu alle i enten Vendsyssel eller Østjylland.</p><p>Således ligger Brønderslev, Favrskov, Frederikshavn og Skanderborg på de fire øverste pladser. I Vendsyssel er det især solskinstimerne, der trækker op, mens Østjylland ligger flot til i forhold til sommervarmen.</p><p>Topscoreren er Brønderslev Kommune med 78,3 point.</p><p>Generelt ligger mange kommuner med mellem 60 og 75 point, hvilket indikerer ganske pænt sommervejr. Kun enkelte kystkommuner ligger under 60 point.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/nordjyske-kommuner-forer-i-solskin-dbfc0",
+  "published": "Thu, 16 Jul 26 13:58:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/nordjyske-kommuner-forer-i-solskin-dbfc0",
+  "category": "No category"
+ },
+ {
+  "title": "Spor på tilkørselsrampe blokeret af tabt gods",
+  "description": "<p>Man skal være forsigtig, hvis man skal på E45 Nordjyske Motorvej ad tilkørsel Humlebakken. </p><p>Det ene spor er nemlig blokeret på grund af gods, som er blevet tabt. </p><p>Det fremgår af Vejdirektoratets <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">trafikkort. </a></p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-pa-tilkorselsrampe-blokeret-af-tabt-gods-c6bf8",
+  "published": "Thu, 16 Jul 26 13:53:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-pa-tilkorselsrampe-blokeret-af-tabt-gods-c6bf8",
+  "category": "No category"
+ },
+ {
+  "title": "Nordjyske kommuner tager føringen i sommerligaen",
+  "description": "<p>Næsten halvdelen af skolernes sommerferie er gået, og efter især Stevns Kommune kunne prale med det bedste danske sommervejr i begyndelsen af sommerferien, er det nu andre kommuner, der er trukket i førertrøjen.</p><p>Det sydøstlige Sjælland ligger stadig pænt til med op til 77 point, men de fire førende kommuner findes nu alle i enten Vendsyssel eller Østjylland.</p><p>Således ligger Brønderslev, Favrskov, Frederikshavn og Skanderborg på de fire øverste pladser. I Vendsyssel er det især solskinstimerne, der trækker op, mens Østjylland ligger flot til i forhold til sommervarmen.</p><p>Topscoreren er Brønderslev Kommune med 78,3 point.</p><p>Generelt ligger mange kommuner med mellem 60 og 75 point, hvilket indikerer ganske pænt sommervejr. Kun enkelte kystkommuner ligger under 60 point.</p><p>Bundskraberen er Fanø Kommune med knap 50 point. Her har sommervejret været både køligt, blæsende og til tider vådt.</p> <p>Med &#039;Sommerligaen&#039; vil TV 2 Vejr i løbet af sommeren løbende opdatere danskerne om det bedste sommervejr i Danmark.</p><p>Sol og varme trækker op, mens nedbør og vind trækker ned. Dermed kan du sommeren igennem følge med i, om du befinder dig det rette sted ud fra dine kriterier om det bedste sommervejr.</p><p>For sommerens vejr kan variere ganske meget på tværs af Danmark. Lige fra den blæsende vestkyst i Jylland til solskinsøen Bornholm.</p><h2>Her får de mest sol og varme</h2><p>Statistisk set tegner der sig et klart billede af, hvem der har mest sol og varme i løbet af en gennemsnitlig sommer.</p><p>Særligt Nordsjælland, hovedstadsområdet og området omkring Stevns får mange point. Herefter følger Bornholm, Lolland, dele af Fyn samt en række østjyske kommuner.</p><p>Det er områder af Danmark, der generelt ligger højt på både varme, sol samt lavt på vind og nedbør. Topscorerne er Frederiksberg og Rødovre Kommune med 68 ud af 100 mulige point.</p> <p>I den lave ende af pointskalaen finder vi det nordvestligste Jylland, der generelt er plaget af meget vind samt ligger højt på nedbør og lavt på temperatur. Bundskraberen er Lemvig Kommune med 39,7 point.</p><p>Derudover ligger Mors, Fanø og Læsø i den lave ende. I forlængelse heraf ligger resten af Nord- og Vestjylland også med under 50 point.</p> <h2>Sommeren ændrer sig mindst</h2><p>Mens de andre årstider er blevet 2 til 3 grader varmere som følge af den globale opvarmning, er der ikke sket de store ændringer med sommeren.</p><p>Faktisk er temperaturen i sommermånederne i gennemsnit kun steget med 1 grad i Danmark i forhold til det førindustrielle niveau.</p> <p>Den langsomme temperaturstigning i sommermånederne gør såmænd, at sommeren er den årstid, der står for den ældste varmerekord i dansk vejrhistorie.</p><p>I 1889 endte juni med en middeltemperatur på ekstreme 18,2 grader. Så varm en juni har vi endnu ikke formået at få siden da.</p><p>Tværtimod har vi de seneste ti år oplevet perioder med ret køligt sommervejr.</p> <p>Særligt juli, hvor mange danskere holder deres sommerferie, har til tider været helt deprimerende.</p><p>Over de seneste ti år har juli haft en middeltemperatur på 16,5 grader. Det er faktisk en lille smule køligere end den gennemsnitlige juli i klimanormalen 1931-1960.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/nordjyske-kommuner-tager-foringen-i-sommerligaen-88a02",
+  "published": "Thu, 16 Jul 26 13:27:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/nordjyske-kommuner-tager-foringen-i-sommerligaen-88a02",
+  "category": "No category"
+ },
+ {
+  "title": "Tørkeindekset er højt",
+  "description": "<p>Nordjyllands Beredskab modtog klokken 12.13 en melding om en naturbrand på en mark i Thisted, og da holdet bestående af 13 mænd, fire brandbiler samt indsatsleder Troels Guldbrandtsen ankom, var det et par tusinde kvadratmeter, der stod i flammer.</p><p>En landmand var i gang med at vende halmen, så det ville tørre ordentligt i det varme vejr, og formodningen er, at en sten har antænd en gnist, der så antændte marken.</p><p>- Landmanden har hjulpet og gjort en stor indsats for at begrænse brandspredningen, oplyser Troels Guldbrandtsen.</p><p>Branden er nu slukket og beredskabet er stadig at finde ude på stedet, hvor de er i gang med det efterfølgende slukningsarbejde. </p><p>Men indsatslederen har alligevel en tydelig opfordring til nordjyderne.</p><p>- Det er bestemt en medvirkende faktor, at der er så tørt ude i luften. Kigger man på tørkeindekset, er det højt i Nordjylland, så man skal udvise forsigtighed med åben ild i naturen, lyder det.</p><p>Værst ser det ud i Vendsyssel og omkring Aalborg, hvor brandfaren i øjeblikket er &#039;ekstrem høj&#039;. Du kan finde brandfareindekset <a href=\"https://www.brs.dk/da/borger/forebyg-brand/brandfare.dk\">her</a>. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/torkeindekset-er-hojt-68924",
+  "published": "Thu, 16 Jul 26 13:05:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/torkeindekset-er-hojt-68924",
+  "category": "No category"
  },
  {
   "title": "Gårdbutik lænset for kød",
@@ -195,67 +251,11 @@
   "category": "No category"
  },
  {
-  "title": "Beboer fik trist opkald: Du vender hjem til totalskadet lejlighed efter brand",
+  "title": "Beboer fik trist opkald: 'Du vender hjem til totalskadet lejlighed efter brand'",
   "description": "<p>En mandlig beboer i en lejlighed på et nedlagt landbrug ved Vebbestrup skal genhuses, efter hans lejlighed brød i brand torsdag formiddag. </p><p>Anmeldelsen kom klokken 10.09 om en bygningsbrand med fare for dyr. Der var dog ingen dyr på stedet, fortæller indsatsleder fra Nordjyllands Beredskab Klavs Bojsen. </p><p>Branden var ved beredskabets ankomst ved at kvæle sig selv, da den ikke havde fået ilt. Dermed fik beredskabet hurtigt branden under kontrol, men lejligheden er nu totalt røgskadet, og beboeren skal derfor genhuses. </p><p>Den triste besked fik manden fra ejerne af det nedlagte landbrug, hvor han lejer sig ind, da manden først kommer hjem i morgen. </p><p>- Det er selvfølgelig en træls melding at få, når han først kommer i morgen, siger indsatslederen. </p><p>En del af mandens værdier står ikke til at redde, men skadeservice er på stedet og forsøger at redde, hvad der kan.  Nordjyllands Beredskab har forladt stedet. </p>",
   "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/beboer-fik-trist-opkald-du-vender-hjem-til-totalskadet-lejlighed-efter-brand-769ef",
   "published": "Thu, 16 Jul 26 11:39:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/beboer-fik-trist-opkald-du-vender-hjem-til-totalskadet-lejlighed-efter-brand-769ef",
-  "category": "No category"
- },
- {
-  "title": "Jaxstyle samler Nordjylland om den gode sag - skal jeres virksomhed være med?",
-  "description": "<p>Med mere end <strong>300.000 følgere på Twitch</strong> og over <strong>140.000 abonnenter på YouTube</strong> når Jaxstyle hver uge ud til et massivt publikum - særligt blandt børn og unge. Samtidig bringer TV2 Nord indsamlingen ud til et stort nordjysk publikum via tv, digitale platforme og sociale medier.</p><p>Hele dagen sender Jaxstyle live fra sit studie ved TV2 Nord, hvor en række kendte gæster lægger vejen forbi. Samtidig møder seerne nogle af de børn og unge, som får glæde af støtten gennem Gestus Nord. Det bliver en dag med nærvær, underholdning og stærke fortællinger - alt sammen med ét formål: at samle penge ind til udsatte børn og unge i Nordjylland.</p><p>For virksomheder er det en enestående mulighed for at blive en synlig del af en indsats, der gør en reel forskel. I bliver en del af et arrangement, der forener et stort digitalt fællesskab med TV2 Nords stærke lokale gennemslagskraft - og viser kunder, medarbejdere og samarbejdspartnere, at jeres virksomhed tager aktivt medansvar.</p> <p><strong>Sådan kan jeres virksomhed være med</strong></p><p>Der er to enkle måder at støtte indsamlingen på:</p><ul><li><p><strong>Donér et valgfrit beløb</strong> direkte til Gestus Nord, hvor hele beløbet går ubeskåret til udsatte børn og unge i Nordjylland.</p></li><li><p><strong>Donér en præmie</strong>, som bliver en del af indsamlingen og kan vindes af de privatpersoner, der støtter den gode sag.</p></li></ul><p>Som tak for støtten bliver jeres virksomhed en synlig del af indsamlingen. Virksomheder, der bidrager, bliver løbende nævnt og eksponeret både i Jaxstyles livestream og i TV2 Nords dækning af dagen. På den måde bliver jeres engagement synligt for både Jaxstyles store online-fællesskab og TV2 Nords mange seere og brugere på tv, web og sociale medier.</p><p>Har I lyst til at tage engagementet et skridt videre, er I også meget velkomne til at kigge forbi Jaxstyles studie ved TV2 Nord den 20. august. Her får I mulighed for at fortælle om jeres virksomhed – og om, hvorfor I har valgt at støtte op om en sag, der gør en forskel for børn og unge i Nordjylland.</p><p>Vi hører meget gerne fra jer.<br /><br />For aftale om donation og mere information: kontakt Jette Nørsøller fra Gestus Nord: ju@gestusnord.dk</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/jaxstyle-samler-nordjylland-om-den-gode-sag-skal-jeres-virksomhed-vaere-med-3b229",
-  "published": "Thu, 16 Jul 26 10:48:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/jaxstyle-samler-nordjylland-om-den-gode-sag-skal-jeres-virksomhed-vaere-med-3b229",
-  "category": "No category"
- },
- {
-  "title": "Hedebølge målt i Nordjylland",
-  "description": "<p>Ifølge definitionen er der nu officielt målt hedebølge i Nordjylland.</p><p>Ved Tylstrup nær Aalborg ligger den gennemsnitlige maksimumtemperatur foreløbigt på 28,4 grader for tirsdag, onsdag og torsdag. Den kan stadig nå at stige resten af dagen.</p><p>Stort set resten af landet melder om varmebølge, men området med hedebølge kan potentielt udvides, så en større del af Vendssyssel, Kronjylland og Himmerland også har hedebølge.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/hedebolge-malt-i-nordjylland-9de35",
-  "published": "Thu, 16 Jul 26 10:40:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/hedebolge-malt-i-nordjylland-9de35",
-  "category": "No category"
- },
- {
-  "title": "- Tålmodigheden er ved at være opbrugt",
-  "description": "<p>Det er ikke første gang. Heller ikke anden. Det er tredje gang, at det sker.</p><p>Natten til søndag svigtede overfaldsalarmerne på psykiatrisk afdeling igen.</p><p>Og nu har Lene Linnemann, der er regionsrådsmedlem for SF og formand for Udvalg for Implementering af 10-årsplanen for Psykiatriområdet, stillet en række spørgsmål til den kontrakt, som regionen har indgået med Turnstall, der vandt udbuddet om alarmsystemet.</p><p>- Det begynder at trække op til, at der skal ske noget seriøst. En ting er, at det er nyt. Selvfølgelig kan der ske fejl, når ting skal køres ind. Men så bliver vi nødt til at gøre noget mere. Vi kan ikke have noget, der svigter gang på gang, siger hun til TV2 Nord.</p> <h2>Har svigtet under overfald</h2><p>Det er virksomheden Tunstall, der i sin tid vandt udbuddet og står bag alarmsystemerne på det nye universitetshospital.</p><p>- Hvis man kan se, at fejlene er væk, kan det sagtens fortsat være dem, der står for det. Men hvis der ikke er garanti for at det virker, og det er jo netop det, jeg spørger om, så er spørgsmålet om man måske skal finde noget, der er efterprøvet og virker andre steder, lyder det videre fra regionsrådspolitikeren.</p><p>Første gang alarmerne svigtede var i slutningen af maj. Det skete i en situation, hvor en patient på retspsykiatrisk afdeling på NAU overfaldt medlemmer af personalet.</p><p>Anden gang de svigtede var blot tre uger senere under en hændelse på psykiatrisk sengeafsnit. Her varede nedbruddet ti minutter. Og nu er det altså sket igen for blot to dage siden. Her var der dog - heldigvis - ingen hændelse under det 11 timer lange nedbrud.</p> <h2>Alt behøver ikke være digitalt</h2><p>Ifølge Lene Linnemann kunne en mulig løsning være, at få flere - analoge - alarmsystemer indsat for at undgå lignende fejl.</p><p>- Det er meget ligetil. Alt behøver ikke være digitalt. Man kunne lave en anden løsning med en back-up klokke eller walkie talkies. Så har man en sikkerhed, hvis det primære system svigter, siger hun.</p><p>Lene Linnemann ønsker mest af alt en garanti på, at det virker. Men såfremt det ikke gør, spørger hun, hvor længe man skal vente før kontrakten kan blive ophævet.</p><p>- Hvis det ikke virker, kan vi ikke blive ved med at overleve. Tålmodigheden er ved at være opbrugt. Det må ikke ske mere, lyder det.</p>",
-  "link": "https://www.tv2nord.dk/region-nordjylland/talmodigheden-er-ved-at-vaere-opbrugt-22113",
-  "published": "Thu, 16 Jul 26 10:35:00 +0200",
-  "guid": "https://www.tv2nord.dk/region-nordjylland/talmodigheden-er-ved-at-vaere-opbrugt-22113",
-  "category": "No category"
- },
- {
-  "title": "Varsel om skybrud for lørdag",
-  "description": "<p>Et markant vejrskifte rammer Danmark fredag, når køligere luft efterhånden trænger sig på.</p><p>Sommervarmen giver dog ikke op så let, og derfor venter der en kamp mellem den køligere og den varme luftmasse.</p><p>Lige netop det kan være med til at udløse meget kraftige tordenbyger over Danmark fra fredag eftermiddag og frem til lørdag morgen. Tordenbygerne kan give lokale skybrud – måske endda dobbeltskybrud.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/varsel-om-skybrud-for-lordag-bab6c",
-  "published": "Thu, 16 Jul 26 10:30:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/varsel-om-skybrud-for-lordag-bab6c",
-  "category": "No category"
- },
- {
-  "title": "TV 2 Vejr udsender skybrudsvarsel til hele Nordjylland",
-  "description": "<p>Et markant vejrskifte rammer Danmark fredag, når køligere luft efterhånden trænger sig på.</p><p>Sommervarmen giver dog ikke op så let, og derfor venter der en kamp mellem den køligere og den varme luftmasse.</p><p>Lige netop det kan være med til at udløse meget kraftige tordenbyger over Danmark fra fredag eftermiddag og frem til lørdag morgen. Tordenbygerne kan give lokale skybrud – måske endda dobbeltskybrud.</p> <p>I den forbindelse har TV 2 Vejr udsendt et varsel om netop skybrud til hele landet.</p><p>Vest for Storebælt gælder varslet fredag klokken 14 til 23. Øst for Storebælt gælder varslet fra fredag klokken 14 til lørdag klokken 06.</p> <p>Ved skybrud risikerer blandt andet veje, kældre eller viadukter at blive oversvømmet.</p><h2>Sådan rammer tordenbygerne</h2><p>Allerede fredag morgen og formiddag kan de første byger dukke op over den vestlige del af landet.</p><p>Det er imidlertid først ud på eftermiddagen, at bygerne for alvor ventes at få nok energi til at blive meget intense.</p><p>I første omgang er det især Jylland og Fyn, der risikerer at blive ramt af de hidsige byger, inden Sjælland og Sydhavsøerne kan blive ramt fra sidst på eftermiddagen.</p> <p>Ud på aftenen falder risikoen i Vestdanmark.</p><p>Til gengæld stiger risikoen i Østdanmark, hvor prognoserne i skrivende stund viser et mere sammenhængende regnvejr med indlejret torden.</p> <p>Fra midt på aftenen forventes den kraftige nedbør kun at ramme de østlige landsdele. Af den årsag slutter varslet i Vestdanmark klokken 23.</p><p>Herfra må de østlige landsdele forberede sig på en meget våd aften og nat, mens man i Vestdanmark kan se frem til tørvejr.</p><p>Først i løbet af lørdag morgen og formiddag slipper regnen Østdanmark.</p> <p>Samlet set kan det stedvis blive til en hel del nedbør. Hvor der præcis falder mest, er svært at sige, men generelt bliver det vådest øst for Storebælt.</p><p>Lokalt viser prognoserne dog, at der kan falde op mellem 20 og 50 millimeter. Dette kan forekomme i alle landsdele.</p> <h2>Markant køligere vejr</h2><p>Efter fredag blæser der noget køligere vinde ind over Danmark. Mange forbinder det måske med mere klassiske sommertemperaturer.</p><p>Fra lørdag og et godt stykke tid frem ventes temperaturen at ligge på mellem 18 og 23 grader.</p><p>Lørdag ser også noget våd ud, men herefter ventes der længere perioder med tørvejr og god plads til solen.</p><p>Så selvom det bliver køligere, skal der til tider nok være hæderligt sommervejr til danskerne.</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/tv-2-vejr-udsender-skybrudsvarsel-til-hele-nordjylland-ff4b2",
-  "published": "Thu, 16 Jul 26 10:14:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/tv-2-vejr-udsender-skybrudsvarsel-til-hele-nordjylland-ff4b2",
-  "category": "No category"
- },
- {
-  "title": "Tyve hilste pænt på Dorthe, inden de tømte hendes fryser for kød",
-  "description": "<p>I to år har Dorthe Sidelmann haft selvbetjent gårdbutik i Løkken. </p><p>Før det havde hun også en i Øster Brønderslev. </p><p>I alle de år har hun heldigvis aldrig oplevet, at nogle har haft for lange fingre i hendes gårdbutik. Ikke før denne uge. </p><p>Tirsdag blev det ene af Maarager Gårdbutiks store alurammeskilte med gårdbutikkens logo stjålet ude fra vejen. </p> <h2>Kom ud til tom fryser</h2><p>Onsdag var den så gal igen. </p><p>En sort peugeot kørte op til gårdbutikken, som ligger inde i familiens gårdsplads. På vejen hilste de to i bilen endda på Dorthe Sidelmann.</p><p>Hun gik i haven, men da hun lidt efter bilen var kørt igen, gik op for at tjekke gårdbutikken og gøre status, som hun gør hver aften, opdagede hun pludselig en stort set tom fryser. </p><p>En fryser, hvor der normalt ligger kød som ribeye, osso buco og wienerschnitzel. </p> <p>Men der var hverken kommet betaling på MobilePay, lagt kontanter eller kommet penge ind på kortterminalen. Men tom var fryseren, og hun var hurtigt klar over, hvem der havde taget det. For kun 1,5 time tidligere havde hun tjekket gårdbutikken, og der var kødet der - siden havde der ikke været andre biler.</p><p>- Jeg tænker, at man ikke er bange af sig. Gad vide, om det er nogle, der går og gør det bevidst, lyder det fra Dorthe Sidelmann, der også bliver utryg ved situationen: </p><p>- Vores gårdbutik er lige udenfor vores stuehus, så man er på privat grund. Det er det, der irriterer mig mest og gør mig mest bange og frustreret. Hvis man kan gå i den, hvad kan man så finde på at gå i? Vi har bevidst sat den deroppe, fordi vi hører, at folk stjæler fra vejboder, fordi der ikke er nogen, der holder øje. </p><p>Hvor meget der reelt er blevet stjålet for, ved hun ikke, men hun tror, der måske er blevet stjålet for en værdi af cirka 3-4000 kroner. </p> <h2>Videoovervåge butikken</h2><p>Nu ser hun sig nødsaget til at sætte videoovervågning op i gårdbutikken. Men det var langt fra noget, hun ønskede at skulle gøre, da gårdbutikkens koncept er at være selvbetjent, og at de stoler på deres kunder. </p><p>- Det er træls, at én skal gøre noget træls for mange andre og skal bryde vores koncept om, at kunder kan gå frit. </p><p>Grunden til, at hun alligevel har valgt at sætte videoovervågning op er for i fremtiden at have dokumentation, hvis det skulle ske igen. </p><p>Denne gang kunne politiet nemlig ikke hjælpe, da hun hverken havde dokumentation, signalement af personerne eller en nummerplade, som politiet kunne gå ud fra. </p><h2>- Ikke en medlidenhedssang</h2><p>Selvom Dorthe Sidelmann ærgrer sig over at være nået dertil, har hun kun fået positive reaktioner fra kunderne, der selv opfordrer til, at hun får sat overvågning op. </p><p>- Hvis man har rent mel i posen, så har man jo heller ingen grund til at være bekymret over kamera. Det har man jo også i detailbutikker, siger Dorthe Sidelmann. </p><p>- Jeg synes bare, det er hammer ærgerligt. Men det er heller ikke en medlidenhedssang om at få flere kunder. Vi vil bare gerne finde frem til synderne. </p> <p>Denne uges hændelser har også fået gårdbutiksejeren til at tænke over fremtiden. Hun er langt fra klar til at smide håndklædet i ringen, men hun kan frygte, at det bliver det værste udfald. </p><p>- Hvis det fortsætter i samme stil, når man lægger så meget energi og kræfter i, så skal der ikke så meget til. Jeg ved godt, at nogen siger, at det bare er et lille beløb, men sker det 10-20 gange, så er det pludselig et stort beløb, og så er der altså nogle ekstra omkostninger forbundet med det. Det kan man ikke holde skindet på næsen med, hvis det sker hver gang.</p><p>Hun håber dog aldrig, at Maarager gårdbutik når dertil. </p>",
-  "link": "https://www.tv2nord.dk/hjoerring/tyve-hilste-paent-pa-dorthe-inden-de-tomte-hendes-fryser-for-kod-c9595",
-  "published": "Thu, 16 Jul 26 09:46:00 +0200",
-  "guid": "https://www.tv2nord.dk/hjoerring/tyve-hilste-paent-pa-dorthe-inden-de-tomte-hendes-fryser-for-kod-c9595",
-  "category": "No category"
- },
- {
-  "title": "Norsk lystsejler fik motorstop og blev taget med af strømmen",
-  "description": "<p>Torsdag morgen startede ikke stille og roligt for Sæby Redningsstation, der allerede klokken lidt i otte modtog et opkald om en norsk lystsejler, som havde fået motorstop lige ude af havnehullet i Sæby.</p><p>Det skriver Sæby Redningsstation på <a href=\"https://www.facebook.com/saeby.redningsstation/posts/1542709997651098?ref=embed_post\">Facebook. </a></p><p>Den norske lystsejler var under motorstoppet blevet taget af strømmen og var blevet ført mod det sydlige molehoved. </p><p>Men uheldet for nordmanden stoppede ikke her. For i forbindelse med at blive taget med af strømmen, tog han bunden, og det var det, der endte med at stoppe ham fra at blive ført længere væk. </p><p>Sæby Redningsstation satte en mand om bord og gjorde slæbetrossen fast. </p><p>Lystsejleren blev slæbt ind i Sæby Havn og afleveret ved kajen. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/norsk-lystsejler-fik-motorstop-og-blev-taget-med-af-strommen-0ece3",
-  "published": "Thu, 16 Jul 26 09:08:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/norsk-lystsejler-fik-motorstop-og-blev-taget-med-af-strommen-0ece3",
   "category": "No category"
  },
  {
@@ -265,6 +265,14 @@
   "published": "Thu, 16 Jul 2026 03:42:47 Z",
   "guid": "4eaba27a-9e82-4289-8003-7b74fff09584",
   "category": "Skagen"
+ },
+ {
+  "title": "På disse punkter har AaB forbedret sig, forklarer Steffen Højer",
+  "description": "Der er blevet sat ind både offensivt og defensivt over sommeren for AaB-truppen",
+  "link": "https://nordjyske.dk/nyheder/sport/paa-disse-punkter-har-aab-forbedret-sig-forklarer-steffen-hoejer/6109688?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 16 Jul 2026 12:34:57 Z",
+  "guid": "2b540c99-e9b8-4675-80c4-25facf55fb2c",
+  "category": "AaB"
  },
  {
   "title": "På denne ø kan ventetiden på et sommerhus blive mere end 300 år med det nuværende tempo",
@@ -409,13 +417,5 @@
   "published": "Mon, 13 Jul 2026 09:32:47 Z",
   "guid": "14efebc8-6ac0-42a2-9dab-ea146af9787f",
   "category": "Fodbold"
- },
- {
-  "title": "Et år efter branden i Skagen Klitplantage: Beredskabet forbereder sig på flere store naturbrande",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/samfund/et-aar-efter-branden-i-skagen-klitplantage-beredskabet-forbereder-sig-paa-flere-store-naturbrande/6104659?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 14 Jul 2026 03:35:47 Z",
-  "guid": "a6e7b7f6-684f-40a2-9227-cf2cd9d6b234",
-  "category": "samfund"
  }
 ]
