@@ -120,22 +120,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3KkGKzue%2Fp-28.webp&w=300&x1r=0.5&x2r=0.96&y1r=0.6&y2r=0.93&s=c66682030cf0bbc66ee32ef34186b14a"
  },
  {
-  "link": "/SPAR?publication=1i3nMNxc&offer=z_uZRnBIAZqacnQ5Gbu4m",
-  "price": "110",
-  "currency": "DKK",
-  "valid_from": "16-07-2026",
-  "valid_until": "23-07-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1i3nMNxc%2Fp-22.webp&w=300&x1r=0.48&x2r=0.948&y1r=0.448&y2r=0.894&s=48365af0c5c29d2bba9ef9aebb9b5c5d"
- },
- {
-  "link": "/REMA-1000?publication=7PZlcZOS&offer=qIE4l-pJBTXQC7KHP4yC0",
-  "price": "5",
-  "currency": "DKK",
-  "valid_from": "25-07-2026",
-  "valid_until": "01-08-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7PZlcZOS%2Fp-12.webp&w=300&x1r=0&x2r=0.5&y1r=0.74&y2r=1&s=4f915e5e2c1660b8f3123fc92a83a8ed"
- },
- {
   "link": "/MENY?publication=6mIx5tum&offer=grqJByVq_VUwLTDWpTzgl",
   "price": "35",
   "currency": "DKK",
@@ -144,12 +128,28 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6mIx5tum%2Fp-26.webp&w=300&x1r=0.02&x2r=0.6&y1r=0.15&y2r=0.95&s=115b8d11589aa87517dbf4d47d918938"
  },
  {
+  "link": "/SPAR?publication=1i3nMNxc&offer=z_uZRnBIAZqacnQ5Gbu4m",
+  "price": "110",
+  "currency": "DKK",
+  "valid_from": "16-07-2026",
+  "valid_until": "23-07-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1i3nMNxc%2Fp-22.webp&w=300&x1r=0.48&x2r=0.948&y1r=0.448&y2r=0.894&s=48365af0c5c29d2bba9ef9aebb9b5c5d"
+ },
+ {
   "link": "/Bilka?publication=-qfHcWJb&offer=W-qm-GsLeZb__wxlHiNh6",
   "price": "109",
   "currency": "DKK",
   "valid_from": "16-07-2026",
   "valid_until": "23-07-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FdS417I0o%2Fp-24.webp&w=300&x1r=0.355&x2r=0.968&y1r=0.605&y2r=0.96&s=1c2620fedbb8c72f053ad2c3311a46ba"
+ },
+ {
+  "link": "/REMA-1000?publication=7PZlcZOS&offer=qIE4l-pJBTXQC7KHP4yC0",
+  "price": "5",
+  "currency": "DKK",
+  "valid_from": "25-07-2026",
+  "valid_until": "01-08-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7PZlcZOS%2Fp-12.webp&w=300&x1r=0&x2r=0.5&y1r=0.74&y2r=1&s=4f915e5e2c1660b8f3123fc92a83a8ed"
  },
  {
   "link": "/Bilka?publication=-qfHcWJb&offer=F0KEbKXWKDvwb7C02OGrl",
