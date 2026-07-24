@@ -40,6 +40,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ccd3a653909d0307d68a127661c389d%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F323aa8e0a285b743f45ac6aa896d940d&w=300&s=667ea419bb9963c31c190195dba7c7f0"
  },
  {
+  "link": "/LET-KOB?publication=3ahrvXqs&offer=Duss20oaVuZWaghp_qtve",
+  "price": "16",
+  "currency": "DKK",
+  "valid_from": "26-07-2026",
+  "valid_until": "09-08-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3ahrvXqs%2Fp-4.webp&w=300&x1r=0.58&x2r=0.96&y1r=0.4&y2r=0.72&s=3d441dc25b778035e573755411878466"
+ },
+ {
   "link": "/Lidl?publication=Oatr0g1G&offer=L08YadZXN3SqQhLaU7VVj",
   "price": "29.95",
   "currency": "DKK",
@@ -104,20 +112,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7PZlcZOS%2Fp-1.webp&w=300&x1r=0.033&x2r=0.485&y1r=0.584&y2r=0.942&s=87190486d648f9acf7b522a7cc442afa"
  },
  {
-  "link": "/REMA-1000?publication=7PZlcZOS&offer=qIE4l-pJBTXQC7KHP4yC0",
-  "price": "5",
-  "currency": "DKK",
-  "valid_from": "25-07-2026",
-  "valid_until": "01-08-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7PZlcZOS%2Fp-12.webp&w=300&x1r=0&x2r=0.5&y1r=0.74&y2r=1&s=4f915e5e2c1660b8f3123fc92a83a8ed"
- },
- {
   "link": "/MENY?publication=6mIx5tum&offer=grqJByVq_VUwLTDWpTzgl",
   "price": "35",
   "currency": "DKK",
   "valid_from": "23-07-2026",
   "valid_until": "30-07-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6mIx5tum%2Fp-26.webp&w=300&x1r=0.02&x2r=0.6&y1r=0.15&y2r=0.95&s=115b8d11589aa87517dbf4d47d918938"
+ },
+ {
+  "link": "/REMA-1000?publication=7PZlcZOS&offer=qIE4l-pJBTXQC7KHP4yC0",
+  "price": "5",
+  "currency": "DKK",
+  "valid_from": "25-07-2026",
+  "valid_until": "01-08-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7PZlcZOS%2Fp-12.webp&w=300&x1r=0&x2r=0.5&y1r=0.74&y2r=1&s=4f915e5e2c1660b8f3123fc92a83a8ed"
  },
  {
   "link": "/fotex?publication=H4X1Lcfh&offer=Jy9r-VpgLXC6nDl6PImZP",
