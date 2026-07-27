@@ -1,5 +1,14 @@
 [
  {
+  "title": "’En blanding af kloak og rådne æg’: Ferieby er stadig plaget af stank",
+  "description": "Et byrådsmedlem, der selv bor i Skagen, har nu bedt om en redegørelse fra Frederikshavn Forsyning. For endnu en gang døjer beboerne i byen med en fæl lugt.",
+  "link": "https://www.dr.dk/nyheder/indland/en-blanding-af-kloak-og-raadne-aeg-ferieby-er-stadig-plaget-af-stank",
+  "published": "Mon, 27 Jul 2026 17:40:00 GMT",
+  "guid": "urn:dr:umbraco:article:61f1b792-d5ca-4b0d-b64c-49717c0ff702",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/2h2hwnel/20181209-110947-1-5483x3604ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Tall Ships Races i Aalborg kaster et ekstra blik på sikkerheden efter weekendens terrorangreb i Berlin",
   "description": "Der ventes at komme omkring 750.000 gæster fra torsdag til søndag under Tall Ships Races.",
   "link": "https://www.dr.dk/nyheder/indland/tall-ships-races-i-aalborg-kaster-et-ekstra-blik-paa-sikkerheden-efter-weekendens-terrorangreb-i",
@@ -170,13 +179,28 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/2jih4hyy/20250714-213643-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Brandmænd indtager danske kyster - se videoen af 'brun suppe' her",
-  "description": "Vindretning, varmt vand og lav vandstand giver de slimede væsener gode betingelser på danske strande.",
-  "link": "https://www.dr.dk/nyheder/indland/brandmaend-indtager-danske-kyster-se-videoen-af-brun-suppe-her",
-  "published": "Fri, 10 Jul 2026 08:04:00 GMT",
-  "guid": "urn:dr:umbraco:article:887f62d1-4783-4037-a566-41eb3f00546c",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/03cl4bh1/jsnd_a_indland_hou2mov-00000118.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Redningsbåd i brand under aktion - beredskab er sendt ud",
+  "description": "<p>Nordjyllands Beredskab er sendt ud for at slukke en brand på redningsbåd.</p><p>Det fortæller TVMIDTVEST.</p><p>Vagtcentralen bekræfter over for dem, at der er en redningsbåd fra Hanstholm, der er på vej ind med ild i.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/redningsbad-pa-vej-ind-med-ild-i-beredskab-er-sendt-ud-02b7c",
+  "published": "Mon, 27 Jul 26 19:09:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/redningsbad-pa-vej-ind-med-ild-i-beredskab-er-sendt-ud-02b7c",
+  "category": "No category"
+ },
+ {
+  "title": "Frivillig ordning sikrer, at Flemming ikke går igennem kræftforløbet alene",
+  "description": "<p>Flemming Kirchner bevæger sig langsomt gennem den lange, lyse gang på sygehuset. Han har gjort det så mange gange, at han for længst er holdt op med at tælle.</p><p>Men én ting er altid den samme. Han møder aldrig op alene.</p><p>Ved hans side går Leila Bysbak, frivillig navigator fra Kræftens Bekæmpelse. I tre år har hun fulgt Flemming Kirchner gennem undersøgelser, samtaler, ventetid og de bekymringer, der følger med et kræftforløb.</p><p>- Jeg kan jo ikke håndtere det alene, fortæller Flemming Kirchner.</p> <h2>En hånd i ryggen, når alt andet vælter</h2><p>Navigatorordningen fra Kræftens Bekæmpelse er drevet af frivillige og skabt til kræftpatienter, der står midt i et forløb, hvor kalenderen, samtalerne og usikkerheden kan føles som en mur.</p><p>De frivillige hjælper med aftaler, tager notater under samtaler og sørger for, at patienten kan finde ro, før en undersøgelse.</p><p>For Flemming Kirchner er det blevet en regulær livline, og en vigtig faktor for at aflaste familien for utallige sygehusbesøg.</p><p>- Det betyder rigtig meget. Det betyder tryghed for mig. Og det betyder, at jeg kan falde til ro ved at sidde og snakke lidt med Leila, inden jeg skal ind, fortæller han.</p><h2>Tryghed i det sværeste rum</h2><p>Leila har set, hvad navigatorordningen gør ved kræftpatienter.</p><p>- De er trygge ved os. De ved, at vi kommer, og at vi har styr på deres aftaler, siger hun.</p><p>På Aalborg Universitetshospital er der ingen tvivl om ordningens værdi. </p><p>- Vi synes, det er en god ordning. Og det er jo særligt med henblik på, at patienterne kommer og er forberedt til deres undersøgelser, og kommer til den tid, vi har givet dem.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/frivillig-ordning-sikrer-at-flemming-ikke-gar-igennem-kraeftforlobet-alene-13bfe",
+  "published": "Mon, 27 Jul 26 19:00:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/frivillig-ordning-sikrer-at-flemming-ikke-gar-igennem-kraeftforlobet-alene-13bfe",
+  "category": "No category"
+ },
+ {
+  "title": "Tysk surfer forsvundet ved Hanstholm: Redningshelikopter i luften",
+  "description": "<p><strong><em>Opdateret klokken 19.06:</em></strong></p><p><strong><em>Der er nu både redningsbåde og redningshelikopter ude for Havnen i Hanstholm, hvor den 61-årige er sejlet ud fra.</em></strong></p><p>Forsvaret bekræfter over for <a href=\"https://www.tvmidtvest.dk/thisted/tysk-surfer-forsvundet-ved-hanstholm-3a4ce\">TVMIDTVEST</a>, at en redningshelikopter af typen EH101 Merlin er sat ind i eftersøgningen af den forsvundne surfer. Det er almindelig procedure at indsætte i en eftersøgning.</p><p>Midt- og Vestjyllands Politi leder mandag efter en 61-årig tysk surfer ud fra Hanstholm surfspot.</p><p>Det oplyser Midt og Vestjyllands Politi på Politi Update.</p><p>Den forsvundne surfer beskriver af politiet som:</p><ul><li><p>Mand</p></li><li><p>61 år</p></li><li><p>192 centimeter høj</p></li><li><p>Iført grøn våddragt og sort hjelm</p></li><li><p>Stod på blåt surfbræt af mærket Wing med skriften &quot; Gong&quot;</p></li><li><p>Sejlet er gult, hvidt og sort med påskriften&quot; VAYO&quot;</p></li></ul><p>Har du oplysninger ved. surfer eller remedier kontaktes politiet på 114.</p>",
+  "link": "https://www.tv2nord.dk/thisted/tysk-surfer-forsvundet-ved-hanstholm-4233a",
+  "published": "Mon, 27 Jul 26 17:52:00 +0200",
+  "guid": "https://www.tv2nord.dk/thisted/tysk-surfer-forsvundet-ved-hanstholm-4233a",
+  "category": "No category"
  },
  {
   "title": "Efter angreb i Berlin: Skærper sikkerheden før kæmpe-event",
@@ -235,28 +259,20 @@
   "category": "No category"
  },
  {
-  "title": "Lystsejler kom i problemer og måtte reddes i land",
-  "description": "<p>Mandag morgen var en lystsejler kommet i problemer, da han var på tur til havs uden for Sæby. </p><p>Lystsejleren havde nemlig fået motorstop og kunne ikke komme i havn i den friske fralandsvind. </p><p>Derfor måtte Sæby Redningsstation hjælpe og båden tilbage på land. Det oplyser redningsstationen på Facebook.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/lystsejler-kom-i-problemer-og-matte-reddes-i-land-bc317",
-  "published": "Mon, 27 Jul 26 11:29:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/lystsejler-kom-i-problemer-og-matte-reddes-i-land-bc317",
-  "category": "No category"
+  "title": "Nu fortæller de: Derfor gik købet af Brøndums Hotel i vasken",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/nu-fortaeller-de-derfor-gik-koebet-af-broendums-hotel-i-vasken/6116436?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 27 Jul 2026 17:06:46 Z",
+  "guid": "880ea144-11c8-4a13-b1f2-48e0b2f216a1",
+  "category": "Skagen"
  },
  {
-  "title": "Færgeafgange aflyses på grund af kraftig blæst",
-  "description": "<p>Der er <a href=\"https://www.tv2nord.dk/kort-nyt/frederikshavn/tv2-vejr-varsler-vindstod-op-til-stormende-kuling-bd0c7\" target=\"_blank\">varslet vindstød op til stormende kuling mandag</a> mellem klokken 14 og 22, og Læsø er blandt de steder, der er udsat.</p><p>Det viser sig allerede at være tilfældet omkring klokken 11.20. Her har man nemlig været nødsaget til at aflyse Ane Læsøs afgang fra Læsø til Frederikshavn.</p><p>Det oplyser Læsøfærgen på <a href=\"https://www.facebook.com/laesoefaergen/posts/pfbid035geY53VX3yvxesQSry4RJPu7sBwSa8M8yLVCBt5PxKQnLABUWeXGBFmQkyTKyJ8Ql\" target=\"_blank\">Facebook</a>. </p> <p>Ane Læsø-afgangen klokken 13.10 fra Frederikshavn er også aflyst på grund af vejret. Dog sejler Margrete fortsat, oplyser man. </p><p>&#039;Vi arbejder benhårdt på at hjælpe så mange som muligt. Vi beklager ulejligheden.&#039;</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/laesoe/faergeafgange-aflyses-pa-grund-af-kraftig-blaese-39848",
-  "published": "Mon, 27 Jul 26 11:25:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/laesoe/faergeafgange-aflyses-pa-grund-af-kraftig-blaese-39848",
-  "category": "No category"
- },
- {
-  "title": "Vil sende de hurtigste cyklister ud på vejen",
-  "description": "<p>Aalborg er en cykelby, og siden 2020 har kommunen haft en <a href=\"https://www.aalborg.dk/om-kommunen/politikker-strategier-og-planer/cykelpolitik-2020/\">decideret cykelpolitik.</a></p><p>Her forsøger man med egne ord at gøre Aalborg til &#039;en af landets bedste cykelkommuner&#039;. Og videre lyder det, at man skal arbejde på at gøre cyklen til et ligeværdigt transportmiddel.</p><p>Men skal cykler ud på vejen, hvor bilerne kører?</p><p>Det mener cyklistforbundet i hvert fald.</p><p>De foreslår nemlig, at alle brugere af cykelstier over 15 år skal have lov til at vælge, om de vil køre på cykelstien eller på vejen.</p><p>Formålet er at gøre det sikrere at færdes på cykelstien med de mange forskellige typer af trafikanter.</p><p>Det fortæller forbundets formand, Jens Peter Hansen, til Jyllands-Posten.</p><p>- Brugerne af cykelstierne har meget forskellige formål, og de bevæger sig med vidt forskellig hastighed.</p><p>- Det giver store udfordringer, fordi langt de fleste cykelstier ikke er bygget til det. De er for små og for smalle, lyder det til mediet.</p> <h2>Mange flere ulykker med elcykler</h2><p>Ifølge Vejdirektoratet hører 38 procent af alle dem, der sidste år døde eller kom til skade i trafikken, hjemme på cykelstierne.</p><p>Derudover lyder det fra Ulykkes Analyse Gruppen, at cykelulykker med elcykler er mere end fordoblet på fem år, skriver Jyllands-Posten.</p><p>Cyklistforbundet har også tidligere over for TV 2 Østjylland udvist optimisme over for ideen om at indsætte fartgrænser på cykelstierne.</p><p>Der er ikke særskilte fartgrænser på cykelstien, men alle køretøjer skal overholde hastighedsbegrænsningerne i de forskellige områder.</p><h2>Møder skepsis</h2><p>Forslaget fra Cyklistforbundet om, at hurtige cyklister kan vælge vejen, skal suppleres med, at hastigheden for biler i byzoner sættes ned til 30 kilometer i timen.</p><p>Det vækker dog ikke bred begejstring.</p><p>Mediet har også talt med Jakob Bøving, der er direktør i Rådet for Sikker Trafik.</p><p>Han mener, at det blot vil skabe nye problemer at sende bløde trafikanter ud med hårde trafikanter.</p><p>Der bør ifølge ham hellere sættes mere ind over for dem, der kører på ulovlige elcykler.</p><p>I Danmark må en almindelig elcykel kun hjælpe op til en fart på 25 kilometer i timen. Herefter skal motoren slå fra.</p><p>Det er desuden ulovligt at tune cyklen.</p><p>Der er ikke nogen aldersgrænse for at køre på elcykel. Rådet for Sikker Trafik anbefaler dog, at man er mindst 15 år, fremgår det på organisationens hjemmeside.</p><p>TV2 Nord forsøger at få en kommentar fra rådmand for Miljø- og Teknikudvalget i Aalborg Kommune Peter Lindholt (DD).</p>",
-  "link": "https://www.tv2nord.dk/aalborg/vil-sende-de-hurtigste-cyklister-ud-pa-vejen-f0f00",
-  "published": "Mon, 27 Jul 26 10:46:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/vil-sende-de-hurtigste-cyklister-ud-pa-vejen-f0f00",
-  "category": "No category"
+  "title": "Se Aalborg Håndbolds første testkamp på nordjyske.dk",
+  "description": "Vi livestreamer, når Aalborg Håndbold på lørdag møder TTH Holstebro i den første testkamp forud for den kommende sæson",
+  "link": "https://nordjyske.dk/nyheder/sport/se-aalborg-haandbolds-foerste-testkamp-paa-nordjyske-dk/6116346?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Mon, 27 Jul 2026 17:03:44 Z",
+  "guid": "4a725a5f-4bcf-4c9e-90b0-95069d1e11f4",
+  "category": "Aalborg Håndbold"
  },
  {
   "title": "Freja Thisgaard jagtede spilletid i Italien - nu er hun tilbage i Hjørring med en ny erkendelse",
@@ -401,21 +417,5 @@
   "published": "Sat, 25 Jul 2026 03:37:48 Z",
   "guid": "468fe365-32d7-4038-ad6d-3a68716dcd31",
   "category": "Camping"
- },
- {
-  "title": "Bunkerne langs stranden kan være et godt tegn. Men Limfjorden er langt fra rask",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/samfund/bunkerne-langs-stranden-kan-vaere-et-godt-tegn-men-limfjorden-er-langt-fra-rask/6109045?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sat, 25 Jul 2026 03:31:50 Z",
-  "guid": "82fa88db-734c-4a8e-b8e2-611e8dca41a4",
-  "category": "samfund"
- },
- {
-  "title": "En af de mest omdiskuterede AaB'ere var bedst i premieresejr: Her er karakterbogen",
-  "description": "Der har været sat spørgsmålstegn ved AaB's defensiv, men den holdt vand, da Hillerød blev besejret i sæsonpremieren",
-  "link": "https://nordjyske.dk/nyheder/sport/en-af-de-mest-omdiskuterede-aab-ere-var-bedst-i-premieresejr-her-er-karakterbogen/6111759?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 24 Jul 2026 19:00:58 Z",
-  "guid": "bb7e732d-5296-4732-99d2-4e85878ead77",
-  "category": "AaB"
  }
 ]
