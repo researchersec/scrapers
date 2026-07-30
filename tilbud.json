@@ -112,12 +112,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FGuyVWzDi%2Fp-20.webp&w=300&x1r=0.02&x2r=0.34&y1r=0.31&y2r=0.635&s=fd375b5a949e2c1e2daf28faa41637ca"
  },
  {
-  "link": "/Fleggaard?publication=ot53ecAR&offer=cmFy2R7X_NhEV1RBpC0dD",
+  "link": "/Fleggaard?publication=RST8-Zwk&offer=0BDPJDayQrg4VBAlW5qpK",
   "price": "82",
   "currency": "DKK",
   "valid_from": "07-07-2026",
   "valid_until": "04-08-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F0b1b9b2d82bb98706520285d2115a620%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ab6c614c6c5153fe1ac3fa98b96b146%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Fcdc0b4b1437c087134c60f356032ee7e%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F9de9fb2f2942195211c41178ec40e6c9&w=300&s=f4ed6879d5c668fb4d2505c4456510e2"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRST8-Zwk%2Fp-4.webp&w=300&x1r=0.003&x2r=0.479&y1r=0.009&y2r=0.505&s=d02c3ef6fb6ba5a251ec0693e10af9a0"
  },
  {
   "link": "/Fleggaard?publication=dG8NHkGu&offer=ZsvX3Dcpr7539o33atkXm",
@@ -240,20 +240,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FGCsciOxw%2Fp-10.webp&w=300&x1r=0.51&x2r=0.949&y1r=0.677&y2r=0.968&s=a70e0823a227a2fe2f2638ae3156f49d"
  },
  {
-  "link": "/BorderShop?publication=kiI5WHQd&offer=D2HSRqo7ep6myOf5-rDlQ",
-  "price": "81.95",
-  "currency": "DKK",
-  "valid_from": "31-05-2026",
-  "valid_until": "11-08-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkiI5WHQd%2Fp-4.webp&w=300&x1r=0.04&x2r=0.36&y1r=0.355&y2r=0.675&s=1977c1aa8f4cd2ec176df468cd8a8503"
- },
- {
   "link": "/SPAR?publication=Q8bJ6MsD&offer=l8eseG2s69OPGQxfNKwyg",
   "price": "140",
   "currency": "DKK",
   "valid_from": "30-07-2026",
   "valid_until": "06-08-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQ8bJ6MsD%2Fp-17.webp&w=300&x1r=0.5&x2r=0.94&y1r=0.74&y2r=0.97&s=1f55d9b98a3368a63bed7a215ca751f9"
+ },
+ {
+  "link": "/BorderShop?publication=kiI5WHQd&offer=D2HSRqo7ep6myOf5-rDlQ",
+  "price": "81.95",
+  "currency": "DKK",
+  "valid_from": "31-05-2026",
+  "valid_until": "11-08-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkiI5WHQd%2Fp-4.webp&w=300&x1r=0.04&x2r=0.36&y1r=0.355&y2r=0.675&s=1977c1aa8f4cd2ec176df468cd8a8503"
  },
  {
   "link": "/MENY?publication=aGXAvVZO&offer=ROGTGPiwJ7MmvQl6x9Tp-",
