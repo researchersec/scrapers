@@ -1,5 +1,14 @@
 [
  {
+  "title": "Sygemeldinger skaber timelange kører til færgen til turistdestination",
+  "description": "I løbet af sommeren har nogle bilister holdt i kø og ventet i op til halvanden time på færgen, der har plads til højst 12 biler.",
+  "link": "https://www.dr.dk/nyheder/indland/sygemeldinger-skaber-timelange-koerer-til-faergen-til-turistdestination",
+  "published": "Fri, 31 Jul 2026 16:10:00 GMT",
+  "guid": "urn:dr:umbraco:article:eae87ef1-d934-4b3c-ba4a-65bb553a3941",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/x2vmjncn/hals-egense_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Heste kan blive syge af den, og nu skal giftig plante bekæmpes, mener hesteejer",
   "description": "Ifølge en biolog og naturformidler er den giftige plante engbrandbæger vigtig for mange insekter.",
   "link": "https://www.dr.dk/nyheder/indland/heste-kan-blive-syge-af-den-og-nu-skal-giftig-plante-bekaempes-mener-hesteejer",
@@ -171,13 +180,28 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/nvamrelo/wefwefwefwefwef.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "En af havets mest mærkelige fisk er tilbage i Oceanariet",
-  "description": "Efter et år uden den særegne fisk har Nordsøen Oceanarium igen to klumpfisk.",
-  "link": "https://www.dr.dk/nyheder/regionale/nordjylland/en-af-havets-mest-maerkelige-fisk-er-tilbage-i-oceanariet",
-  "published": "Mon, 13 Jul 2026 14:31:19 GMT",
-  "guid": "urn:dr:umbraco:article:dc79db83-f6d7-4c77-ad3d-8c86f15dd059",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/ky2dgkkv/begge-klumpfisk-i-oceanariet2_crop001.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Murerspande på motorvejen skaber trafikkaos",
+  "description": "<p>Fredag eftermiddag advarer Vejdirektoratet om, at der er tabt nogle murerspande på E45 motorvejen i nordgående retning. </p><p>De ligger mellem afkørslen til Nørresundby N og Bouet. </p><p>Ifølge TV2 Nords reporter på stedet har det skabt kaos i trafikken. </p><p>Et spor er blokeret, og Vejdirektoratet beder bilister om at passe på.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/murerspande-pa-motorvejen-skaber-trafikkaos-3bd01",
+  "published": "Fri, 31 Jul 26 17:37:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/murerspande-pa-motorvejen-skaber-trafikkaos-3bd01",
+  "category": "No category"
+ },
+ {
+  "title": "Festival har givet byen håb om flere tilflyttere",
+  "description": "<p>Fredag middag slog Vesterhavsrock endnu en gang portene op og indledte weekendens musikfest med et omfattende musikprogram, der rummer navne for både det helt unge og det lidt mere modne publikum.</p><p>Vesterhavsrock begyndte tilbage i 1999, og fra at være en lille lokal musikfest er den efterhånden vokset sig til at være en af årets vigtigste tilbagevendende kulturelle begivenheder i Jammerbugt Kommune.</p> <p>Det betyder også, at samarbejdet med byen, borgerne og handelslivet er blevet vigtigere.</p><p>- Vi oplever ikke andet end godt. Vi føler os simpelthen så hjulpet af hele omegnen. Både med hensyn til erhvervslivet og den opbakning, vi føler, vi har til at skabe festivalen, den er ubeskrivelig, lyder det fra festivalformand Søren Mortensen.</p><p>Fra byens handlende er der også fokus på det gode samarbejde med Vesterhavsrock.</p><p>- Der kommer flere gæster til byen, og mange af os er også leverandører op til pladsen. Så på den korte bane betyder det meget, men på den længere bane vil jeg faktisk sige, at den betyder endnu mere, siger formand for Fjerritslev Handelsstandsforening, Martin Eigenbroth.</p> <p>Og begge parter har fokus på at være gode for hinanden, også i fremtiden.</p><p>- Selvfølgelig laver vi en weekend, hvor der er fest og som skaber minder, men samtidig bidrager vi også til hele omegnen med at trække mennesker til. Vi har altid lavet et overskud, som er til glæde for alle vores foreninger, siger Søren Mortensen.</p><p>- Der hvor vi ser fremtidsmuligheder, det er netop, at vi skal til at høste af de ting, den gode stemning og det gode samarbejde, som vi har nu. Vi tror på, at ting som Vesterhavsrock kan være med til at sætte fokus på bosætning her i området og tror, at de sammen med mange andre ting kan være med til at løfte hele området og dermed øge bosætningen, siger Martin Eigenbroth.</p><p>Og så er det ellers bare at glæde sig over en god start på årets fest.</p><p>- Det ser rigtig godt ud med billetsalget, både i dag og i morgen. Og det er festivalvejr, så det kan ikke blive ret meget bedre, lyder det fra Søren Mortensen.</p>",
+  "link": "https://www.tv2nord.dk/jammerbugt/festival-har-givet-by-hab-om-flere-tilflyttere-b8657",
+  "published": "Fri, 31 Jul 26 16:45:00 +0200",
+  "guid": "https://www.tv2nord.dk/jammerbugt/festival-har-givet-by-hab-om-flere-tilflyttere-b8657",
+  "category": "No category"
+ },
+ {
+  "title": "Christian troede, han skulle flytte til København – nu kan drømmeuddannelsen læses i Aalborg",
+  "description": "<p>Christian Richard Hansen var så småt begyndt at indstille sig på, at drømmeuddannelsen ville sende ham til København.</p><p>Han havde ikke noget imod at flytte. Men hvis han kunne vælge, ville han helst blive i Aalborg.</p><p>Derfor blev han ekstra glad, da UCN besluttede at oprette professionsbacheloruddannelsen i E-commerce og Digital Marketing i Aalborg.</p><p>- Jeg troede til at starte med, at jeg skulle flytte til København for at læse den her uddannelse, men da jeg fik nys om, at den var kommet til Aalborg, så søgte jeg med det samme, siger den unge aalborgenser.</p> <p>Christian er en af de 70 studerende, der har fået en plads på den nye uddannelse, som har vist sig at være særdeles eftertragtet - både blandt ansøgerne og i det nordjyske erhvervsliv.</p><h2>Virksomhederne mangler digitale kompetencer</h2><p>Nordjyske virksomheder efterspørger i stigende grad medarbejdere med kompetencer inden for digital handel og markedsføring. </p><p>Derfor er den nye professionsbachelor udviklet i dialog med virksomheder og brancheorganisationer.</p><p>- Vi har været ude og tale med en masse virksomheder og brancheorganisationer, og de fortæller, at hele handelsområdet er ved at ændre sig. Det bliver mere digitalt, end det har været før, siger professionshøjskoledirektør ved University College Nordjylland, Poul Højmose Kristensen.</p> <p>Derfor er uddannelsen i høj grad målrettet de kompetencer, virksomhederne mangler.</p><p>- Det er en uddannelse, der er skræddersyet til at hjælpe virksomhederne med den digitale handel. De studerende får blandt andet viden om forretningsforståelse, teknologi og e-handel, siger han.</p><p>Interessen for den nye uddannelse har været overvældende.</p><p>UCN har oprettet 70 studiepladser, men modtaget 168 ansøgninger. 98 af ansøgerne havde uddannelsen som deres førsteprioritet.</p><h2>Erhvervslivet ser en gevinst</h2><p>Hos det aalborgensiske digitale bureau Lazzaweb tager de allerede løbende praktikanter og nyuddannede ind fra de nordjyske uddannelser.</p><p>Derfor glæder direktør Mathias Teis sig over, at den nye uddannelse er målrettet de kompetencer, virksomhederne efterspørger. Det betyder, at de studerende kommer endnu bedre rustet til arbejdsmarkedet.</p><p>- At få nogle unge mennesker ud direkte fra studiet, som allerede har lært om alt det, vi gør og arbejder med vores kunder omkring, er selvfølgelig en fordel for os, siger Mathias Teis.</p> <p>Han håber samtidig, at uddannelsen kan være med til at fastholde flere unge i Nordjylland.</p><p>- Vi skal sørge for at have de rigtige uddannelser, så vi kan beholde talentmassen her i Nordjylland. Vi har sindssygt mange dygtige virksomheder, og de kræver også, at vi har nogle gode kompetencer at ansætte, siger han.</p><p>Men gevinsten stopper ikke ved virksomhederne, mener Mathias Teis.</p><p>- Jeg ser det faktisk også som en kæmpe gevinst for den enkelte. Normalt skal nyuddannede først lære en masse, når de starter hos os. Nu får de måske et forspring, der kan sætte gang i karrieren lidt hurtigere.</p><h2>Flere kan blive i landsdelen</h2><p>En stor del af dem, der tager en videregående uddannelse, ender også med at arbejde i den landsdel, hvor de har studeret. Derfor handler den nye professionsbachelor også om at sikre kvalificeret arbejdskraft til nordjyske virksomheder i fremtiden.</p><p>- Det, vi ved, er, at der, hvor du får din uddannelse, der slår du dig også typisk ned og får et arbejde bagefter. Så hvis vi skal være med til at sikre, at det nordjyske arbejdsmarked får kvalificeret arbejdskraft, så er det vigtigt, at vi er med til at uddanne, siger professionshøjskoledirektør Poul Højmose Kristensen.</p><p>Når de første 70 studerende begynder på uddannelsen 1. september, bliver det samtidig første skridt i UCN&#039;s satsning. Hvis både interessen for uddannelsen og virksomhedernes behov fortsætter med at vokse, udelukker UCN ikke, at antallet af studiepladser senere kan blive udvidet.</p><p>Nu ser Christian Richard Hansen frem til studiestarten 1. september, hvor han håber at blive klogere på et område, som fylder mere og mere i erhvervslivet.</p><p>- Mine forventninger til uddannelsen er, at jeg får tilegnet mig viden om e-handel og købsadfærd, og det glæder jeg mig meget til, siger han.</p><p>Han er glad for, at han kan forfølge sin drøm uden at skulle forlade Aalborg.</p><p>- Jeg synes, det er megafedt, at Aalborg er med på bølgen og får de her lidt mere specialiserede uddannelser, man ikke ellers har kunnet læse. Det er jeg rigtig glad for. Det trækker også flere mennesker til byen helt sikkert, slutter han. </p><p><strong><em>Se hele indslaget om den nye uddannelse her: </em></strong></p>",
+  "link": "https://www.tv2nord.dk/aalborg/christian-troede-han-skulle-flytte-til-kobenhavn-nu-kan-drommeuddannelsen-laeses-i-aalborg-b118a",
+  "published": "Fri, 31 Jul 26 16:42:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/christian-troede-han-skulle-flytte-til-kobenhavn-nu-kan-drommeuddannelsen-laeses-i-aalborg-b118a",
+  "category": "No category"
  },
  {
   "title": "Tømrermester skabte vild opfindelse – nu fortsætter han trods manglende salg",
@@ -236,31 +260,15 @@
   "category": "No category"
  },
  {
-  "title": "Bjørks skib måtte søge tilflugt i havn og udgå efter søsyge ombord",
-  "description": "<p>Undervejs i kapsejladset The Tall Ships Races har der været kraftigt blæsevejr på hjemturen fra norske Stavanger, og det blev faktisk så slemt, at skoleskibet LOA helt udgik af konkurrencen.</p> <p>Det fortæller trainee Bjørk Kjarval, der var en af de omtrent 32 besætningsmedlemmer.  </p><p>- Det blev bare helt vildt. Og altså alle bliver meget, meget søsyge, og vi bliver ved med at have søsyge, og vi har nattevagter og sådan noget, fortæller hun og uddyber:</p><p>- Det bliver normaliseret at folk har det dårligt og kaster op, og at man bare tager sig af hinanden. </p> <h2>Udgik af kapsejladsen</h2><p>Og pludseligt var skibet ankommet i Thyborøn - som er uden for ruten. Og dermed måtte Skoleskibet LOA udgå af kapsejladset. </p><p>- Alle var lidt overraskede. Men jeg tror, at der var mange, som var lettede der, siger hun. </p><p>Men på trods af maveonde hos hele besætningen og ultratætte leveforhold på båden, ja så er Bjørk Kjarval ikke skræmt væk fra sejlsporten. Hun planlægger at komme på Skoleskibet LOA igen til nogle af deres ungdomsarrangementer. </p><p><strong>Sådan sover man ombord på skibene, der deltager i den historiske kapsejlads.</strong></p><p> </p> <h2>Uvejr skabte forsinkelser</h2><p>Det var dog kun Bjørks skib, der kæmpede med uvejr ved den norske kyst. Flere skibe var nemlig tæt på at komme for sent til åbningen af Tall Ships Races i Aalborg torsdag på grund af uvejret.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/bjorks-skib-blev-sa-hardt-ramt-af-sosyge-at-de-udgik-af-kaempe-sejlads-89e26",
-  "published": "Fri, 31 Jul 26 08:33:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/bjorks-skib-blev-sa-hardt-ramt-af-sosyge-at-de-udgik-af-kaempe-sejlads-89e26",
-  "category": "No category"
+  "title": "Hvem skal betale for turisternes slid? Nordjyske kommuner trækker i hver sin retning",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/samfund/hvem-skal-betale-for-turisternes-slid-nordjyske-kommuner-traekker-i-hver-sin-retning/6120318?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 31 Jul 2026 17:03:44 Z",
+  "guid": "ea2900bc-e373-40d9-a4f3-e752eff5dd3f",
+  "category": "Turisme"
  },
  {
-  "title": "44-årig mand sigtet for voldtægt af to personer under 15 år",
-  "description": "<p>En 44-årig mand blev torsdag varetægtsfængslet i fire uger ved Retten i Aalborg. </p><p>Manden er sigtet for voldtægt ved andet forhold end samleje af en person under 15, som manden var betroet til opdragelse. </p><p>Ifølge sigtelsen fandt hændelsen sted i en lejlighed i Himmerlandsområdet i juni måned i år. </p><p>Den 44-årige er også sigtet for voldtægt ved andet forhold end samleje af en anden person under 15, som manden også var betroet til opdragelse. Derudover er han sigtet for blufærdighedskrænkelse af den mindreårige og vold. </p><p>Grundlovsforhøret blev holdt for lukket døre, og derfor kan anklager ved Nordjyllands Politi Anne Thyrrestrup ikke udtale sig yderligere om sagen eller om mandens relation til de mindreårige. </p><p>Den 44-årige nægtede sig skyldig, og han kærede varetægtsfængslingen på stedet. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/44-arig-mand-sigtet-for-voldtaegt-af-to-under-personer-15-ar-09ddf",
-  "published": "Fri, 31 Jul 26 08:21:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/44-arig-mand-sigtet-for-voldtaegt-af-to-under-personer-15-ar-09ddf",
-  "category": "No category"
- },
- {
-  "title": "Efter historisk varm dag rammer vejrskifte Nordjylland",
-  "description": "<p>I Aars i Vesthimmerlands Kommune blev der <a href=\"https://www.tv2nord.dk/kort-nyt/vesthimmerland/officielt-arets-varmeste-dag-344-grader-malt-i-ars-f1d6a\" target=\"_blank\">torsdag</a> omkring klokken 14.40 målt hele 34,4 grader. </p><p>Lige så varmt bliver det dog ikke fredag og i weekenden i det nordjyske, skriver  <a href=\"https://www.dmi.dk/meteorologens-kommentar\" target=\"_blank\">DMI. </a></p><p>Temperaturen kommer nemlig &#039;kun&#039; op mellem 17 og 23 grader fredag. Dog ser det ud til, at det vil holde tørt i Nordjylland, mens resten af landet ser frem mod byger. </p><p>Også i weekenden vil Nordjyderne kunne nyde tørvejr, men her vil der også være køligere temperaturer. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/efter-historisk-varm-dag-vejrskifte-rammer-nordjylland-c0562",
-  "published": "Fri, 31 Jul 26 07:28:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/efter-historisk-varm-dag-vejrskifte-rammer-nordjylland-c0562",
-  "category": "No category"
- },
- {
-  "title": "AaB giver genvalg til startellever i Aarhus. Følg liveblog og stil spørgsmål",
+  "title": "AaB er foran i Aarhus. Følg liveblog og stil spørgsmål",
   "description": "AaB's to kampe på Riisvangen Stadion mod Aarhus Fremad blev samlet tabt med 1-10 i den seneste sæson. Fredag aften er der mulighed for revanche, og du kan følge kampen lige her",
   "link": "https://nordjyske.dk/nyheder/sport/aab-jagter-revanche-paa-skraekudebane-foelg-liveblog-og-stil-spoergsmaal/6119263?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Fri, 31 Jul 2026 09:31:42 Z",
@@ -410,13 +418,5 @@
   "published": "Wed, 29 Jul 2026 17:05:51 Z",
   "guid": "c6bb5e19-340d-41b3-bc94-0f5c0c0dbdf2",
   "category": "Kultur"
- },
- {
-  "title": "Klummeskribent: Jeg opdagede, at min tipoldemor blev dømt               \nfor giftmord",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/klummeskribent-jeg-opdagede-at-min-tipoldemor-blev-doemt-for-giftmord/6116650?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 29 Jul 2026 17:02:45 Z",
-  "guid": "945e2780-9f79-4c95-a7bb-d8d7e060e0d0",
-  "category": "Nordjylland"
  }
 ]
