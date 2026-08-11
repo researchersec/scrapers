@@ -178,6 +178,14 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/syoiefws/news-clip-1080i5000_00_00_00still001_crop001_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
+  "title": "Håndgranat fundet i dødsbo",
+  "description": "<p>Lørdag modtog Nordjyllands Politi et tip fra en borger, der var i gang med at tømme et dødsbo. For der blev nemlig fundet en vaskeægte håndgranat i huset. </p><p>Derfor blev ammunitionsrydningstjenesten, EOD, tilkaldt, og de sørgede for, at håndgranaten blev afskaffet på behørig vis. </p><p>I døgnrapporten fra Nordjyllands Politi fremgår det, at weekenden bød på flere andre opsigtsvækkende lovovertrædelser. </p><p>Samme dag blev en riffel fundet i Ryå i Jammerbugt Kommune af en magnetfisker, og den er blevet afleveret til myndighederne. </p><p>Og om aftenen lørdag blev en bilist i Rebild Kommune målt til at køre 156 kilometer i timen et sted, hvor hastighedsgrænsen er 80. Grænsen for vanvidskørsel er 160, så bilisten var lige under grænsen. Da bilisten er førstegangserhverver - altså har fået kørekort inden for de seneste tre år - går anklagemyndigheden efter at bilisten får kørselsforbud. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/jammerbugt/handgranat-fundet-i-dodsbo-og-andre-uhyrligheder-210d5",
+  "published": "Tue, 11 Aug 26 15:14:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/jammerbugt/handgranat-fundet-i-dodsbo-og-andre-uhyrligheder-210d5",
+  "category": "No category"
+ },
+ {
   "title": "Containerbrand ved virksomhed",
   "description": "<p>Tirsdag eftermiddag er der gået ild i en container med industriaffald ved en køkkenvirksomhed i Vilsund. Ifølge indsatslederen ser det ud til, at noget affald har selvantændt. </p><p>- Tre medarbejdere fra virksomheden er blevet tilset af en ambulance, fordi de var ved at dæmpebranden med virksomhedens egne brandslanger, men de er blevet frigivet og kan fortsætte arbejdet, fortæller indsatsleder ved Nordjyllands Beredskab Henrik Gade Jespersen. </p><p>Han forventer at de to hold fra beredskabet er færdige på stedet ved 15.30-tiden. </p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/ildebrand-i-industri-44ffb",
@@ -250,14 +258,6 @@
   "category": "No category"
  },
  {
-  "title": "Et vandrør blev redningen, da en traktorhal stod i brand",
-  "description": "<p>Et vandrør blev redningen, da en traktorhal stod i brand ved Hadsund natten til tirsdag.</p><p>Indsatsleder ved Nordjyllands Beredskab Per Hansen fortæller, at ejeren hørte et stort brag fra en kortslutning i en kompresser, hvorefter der var flammer i facaden.</p><p>- Vi havde svært ved at komme ind i laden, så vi måtte tilkalde ekstra styrker, siger Per Hansen.</p><p>Meldingen kom klokken 03.23, og to timer senere var branden slukket.</p><p>- Heldigvis var der sprunget et vandrør, så den udviklede sig ikke så kraftigt.</p><p>Laden står fortsat, men der er en del røg og sodskader, fortæller indsatslederen.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/et-vandror-blev-redningen-da-en-traktorhal-stod-i-brand-88860",
-  "published": "Tue, 11 Aug 26 08:05:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/et-vandror-blev-redningen-da-en-traktorhal-stod-i-brand-88860",
-  "category": "No category"
- },
- {
   "title": "Josefine startede som frisør. Nu åbner hun sin egen loppeforretning i centrum af Aalborg",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/aalborg/josefine-startede-som-frisoer-nu-aabner-hun-sin-egen-loppeforretning-i-centrum-af-aalborg/6129317?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -274,12 +274,12 @@
   "category": "Erhverv"
  },
  {
-  "title": "Publikummet er et andet, men glæden, lysten og festen har de til fælles",
+  "title": "Kimbrerskuet i Aars tiltrækker både gæster og deltagere fra hele landet",
   "description": "",
-  "link": "https://nordjyske.dk/nyheder/jammerbugt/publikummet-er-et-andet-men-glaeden-lysten-og-festen-har-de-til-faelles/6128765?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 11 Aug 2026 12:01:49 Z",
-  "guid": "673c5535-0285-428b-c6ed-08def69dbf21",
-  "category": "Jammerbugt"
+  "link": "https://nordjyske.dk/nyheder/vesthimmerland/kimbrerskuet-i-aars-tiltraekker-baade-gaester-og-deltagere-fra-hele-landet/6129825?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 11 Aug 2026 13:31:45 Z",
+  "guid": "7e3e91a1-5253-4388-91cf-08def2286580",
+  "category": "Aars"
  },
  {
   "title": "Da direktøren begyndte at sige nej til en bestemt type ordre, skabte det grobund for en milliardforretning",
@@ -296,6 +296,14 @@
   "published": "Tue, 11 Aug 2026 04:56:51 Z",
   "guid": "29b9632e-c371-4a55-b385-6208f4fd3e48",
   "category": "Sundhed"
+ },
+ {
+  "title": "Publikummet er et andet, men glæden, lysten og festen har de til fælles",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/jammerbugt/publikummet-er-et-andet-men-glaeden-lysten-og-festen-har-de-til-faelles/6128765?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 11 Aug 2026 12:01:49 Z",
+  "guid": "673c5535-0285-428b-c6ed-08def69dbf21",
+  "category": "Jammerbugt"
  },
  {
   "title": "AaB-overblik: Maarup er solgt tilbage til Roskilde",
@@ -408,13 +416,5 @@
   "published": "Sun, 09 Aug 2026 03:17:45 Z",
   "guid": "520d3bba-7b49-4dd9-9f15-3676557883c5",
   "category": "Erhverv"
- },
- {
-  "title": "Fra kajkraner til kajliv: Sådan har havnen formet Aalborg i 550 år",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/byudvikling/fra-kajkraner-til-kajliv-saadan-har-havnen-formet-aalborg-i-550-aar/6123207?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 09 Aug 2026 17:00:43 Z",
-  "guid": "1fd74c0d-c1b7-4a99-ad45-1e33526bd51f",
-  "category": "Byudvikling i Aalborg"
  }
 ]
