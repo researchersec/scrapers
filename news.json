@@ -1,5 +1,23 @@
 [
  {
+  "title": "Hvorfor er vi splittede, når det kommer til ulven?",
+  "description": "En forsker i sociale medier kommer med tre bud på en forklaring.",
+  "link": "https://www.dr.dk/nyheder/regionale/nordjylland/hvorfor-er-vi-splittede-naar-det-kommer-til-ulven",
+  "published": "Thu, 13 Aug 2026 15:30:00 GMT",
+  "guid": "urn:dr:umbraco:article:6b6f7abb-fb9c-4615-b4ae-85fd397bada6",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/0b2lokyr/20250910-154213-6.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
+  "title": "Trods nærgående ulv:  Vi må ikke blive bange for at gå ud i naturen",
+  "description": "Ulve med hvalpe afholder ikke forening fra at tage på vandretur i naturområde.",
+  "link": "https://www.dr.dk/nyheder/indland/trods-naergaaende-ulv-vi-maa-ikke-blive-bange-gaa-ud-i-naturen",
+  "published": "Thu, 13 Aug 2026 15:17:57 GMT",
+  "guid": "urn:dr:umbraco:article:bfb968b7-adec-430a-a182-ca1dad184a73",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/p0tbzxbm/eigil-torp-olesen.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Grønland rækker ud: Ønsker patienter behandlet i Nordjylland",
   "description": "Patienter kan få stor glæde af de grønlændere, der i dag bor fast i Nordjylland, siger den grønlandske sundhedsminister.",
   "link": "https://www.dr.dk/nyheder/indland/groenland/groenland-raekker-ud-oensker-patienter-behandlet-i-nordjylland",
@@ -160,22 +178,36 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/xvhhnbmg/redningsaktion-3_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "’En blanding af kloak og rådne æg’: Ferieby er stadig plaget af stank",
-  "description": "Et byrådsmedlem, der selv bor i Skagen, har nu bedt om en redegørelse fra Frederikshavn Forsyning. For endnu en gang døjer beboerne i byen med en fæl lugt.",
-  "link": "https://www.dr.dk/nyheder/indland/en-blanding-af-kloak-og-raadne-aeg-ferieby-er-stadig-plaget-af-stank",
-  "published": "Mon, 27 Jul 2026 17:40:00 GMT",
-  "guid": "urn:dr:umbraco:article:61f1b792-d5ca-4b0d-b64c-49717c0ff702",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/2h2hwnel/20181209-110947-1-5483x3604ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Vendsyssel FF og Mads Bager ophæver samarbejdet",
+  "description": "<p>Mads Bagers tid i Vendsyssel FF er slut.</p><p>Efter sommerferien har klubben haft en god dialog med forsvarsspilleren om hans situation og mulighederne for mere spilletid. På den baggrund har parterne i fællesskab valgt at ophæve samarbejdet, så Mads Bager kan finde en klub, hvor der er udsigt til mere spilletid.</p><p>- Vi har været meget glade for at have Mads i Vendsyssel FF. Han har gennem hele sin tid i klubben optrådt professionelt og været en god del af truppen både på og uden for banen, lyder det fra klubben i en pressemeddelelse.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/hjoerring/vendsyssel-ff-og-mads-bager-ophaever-samarbejdet-c3086",
+  "published": "Thu, 13 Aug 26 18:19:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/hjoerring/vendsyssel-ff-og-mads-bager-ophaever-samarbejdet-c3086",
+  "category": "No category"
  },
  {
-  "title": "Tall Ships Races i Aalborg kaster et ekstra blik på sikkerheden efter weekendens terrorangreb i Berlin",
-  "description": "Der ventes at komme omkring 750.000 gæster fra torsdag til søndag under Tall Ships Races.",
-  "link": "https://www.dr.dk/nyheder/indland/tall-ships-races-i-aalborg-kaster-et-ekstra-blik-paa-sikkerheden-efter-weekendens-terrorangreb-i",
-  "published": "Mon, 27 Jul 2026 12:55:18 GMT",
-  "guid": "urn:dr:umbraco:article:7fa47cc9-97da-431f-9d6f-734c48eecbe7",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/wu0cbjyc/000_362p7kc-1920x987web.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Datter tog ny overdosis - nu tør forældrene ikke at hente hende hjem",
+  "description": "<p>Forældrene nåede kun at have deres 22-årige datter hjemme på Læsø i halvandet døgn, før det gik galt igen. </p><p>Datteren tog en overdosis af panodiler, og måtte onsdag aften akut flyves fra Læsø til sygehuset i Hjørring med helikopter.</p><p>- Vi tør ikke tage hende hjem igen, siger Carsten Fjeldal Jensen.</p> <p>Hvad der kommer til at ske med hende, når hun er færdigbehandlet, er uvist. Svetlana Jensen har taget orlov i to uger for sammen med datterens 22-årige tvillingebror at kunne overvåge og passe hende.</p><p>- Det gik ikke, så hvad skal vi nu gøre?, spørger Carsten Fjeldal Jensen.</p><p>Hos Frederikshavn Kommune lød det tidligere på ugen fra borgmester Jon Andersen, at kommunen havde grebet sagen, og at forvaltningen var klar over, at det var akut, og den skulle løses.</p><p>- Det er min oplevelse, at de (forvaltningen, red.) læner sig mod hinanden for at få det løst, sagde Jon Andersen (V).</p><h2>Borgmester kræver handling nu</h2><p>Den seneste udvikling i sagen med den 22-åriges indlæggelse på sygehuset efter endnu en overdosis, får borgmesteren til at skærpe tonen. </p><p>Det er slut med at læne sig ind mod hinanden. Der skal findes en løsning nu.</p><p>- Vi er langt forbi det punkt, hvor vi læner os ind i det. Nu skal det løses. Situationen er kritisk, og vi tager fat i ledelsen i psykiatrien nu. Det kan ikke blive ved det her. Der er nødt til at ske noget nu, siger Jon Andersen.</p> <p>Hvornår der kan findes en løsning, tør han ikke spå om, men han mener, at det er nødvendigt, at kommunen og Region Nordjylland sætter sig sammen og i fællesskab finder et tilbud den 22-årige.</p><p>- Vi har jo ikke behandlingssteder hos os. Det er her, vi er afhængige af psykiatrien og de behandlingstilbud, der er i regionen, siger han.</p><p>-  <em>Så I skal have overbevist regionen om, at I skal have en plads på et af deres steder?</em></p><p>- Vi skal have en løsning nu. Det er simpelthen det. Det er det korte svar på det. Nu skal der findes en løsning. Det skal ikke fortsætte, siger Jon Andersen.</p> <p>Den 22-årige er indlagt på sygehuset i Hjørring. Hvor længe, hun skal blive der, er uvist. Både borgmesteren og hendes forældre håber, at hun kan forblive indlagt til, at der er fundet en løsning, så hun ikke bliver udskrevet til uvished igen.</p><p>- Jeg håber, at man beholder hende, til der er fundet et sikkert sted til hende, og vi har en farbar vej. Det håber jeg, siger borgmesteren.</p><p><strong><em>Onsdag stod forældrene frem og fortalte om der magtesløse situation med datteren. </em></strong></p><p><strong><em>Se indslaget her:</em></strong></p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/tor-ikke-fa-datter-hjem-igen-5cec1",
+  "published": "Thu, 13 Aug 26 18:13:00 +0200",
+  "guid": "https://www.tv2nord.dk/frederikshavn/tor-ikke-fa-datter-hjem-igen-5cec1",
+  "category": "No category"
+ },
+ {
+  "title": "Hvis dét er fremtidens plejehjem, ser det skidt ud",
+  "description": "<p>Det er skæbnens triste ironi, at det netop er på plejehjemmet med navnet <em>Fremtidens </em>plejehjem, at Styrelsen for patientsikkerhed nu har givet påbud om, at der ikke må tages nye beboere ind, før forholdene er forbedret.</p><p>Ifølge styrelsen er det sket før i Danmark, at et plejehjem har fået denne besked. Men det er “yderst sjældent”, det sker, oplyser man. </p><p>I 2025 blev der ifølge styrelsens årsrapport gennemført 123 tilsyn på ældreområdet. To sager blev afsluttet med påbud. </p><p>Styrelsen har en række reaktionsmuligheder, når man støder på noget, man skønner ikke lever op til visionen - at der skal være trygt for både patienter og personale i sundhedsvæsenet. Plejehjem er kun en mindre del af styrelsens ansvarsområde, men to andre nordjyske tilsynsrapporter fra 2026 illustrerer, hvad styrelsen typisk gør, når man støder på problemer på plejehjem.</p><p>På Læsø plejehjem konkluderede styrelsen i juni &#039;kritiske problemer med betydning for patientsikkerheden,&#039;  men vurderede samtidig, at man på plejehjemmet &#039;havde forståelse for alvorligheden af manglerne og for, hvad der skulle til for at rette op på dem.&#039; På Støberigården i Nykøbing Mors fandt styrelsen &#039;større problemer af betydning for patientsikkerheden.&#039; En opfølgende rapport viser, at man er godt i gang med at løse problemerne.</p><p>I begge tilfælde kom styrelsen med påbud, men ikke mere.</p><h2>Tredje tilsynsbesøg</h2><p>I den aktuelle sag fra Nørresundby begyndte man også - i september 2025 - med et påbud og vurderede ifølge tilsynsrapporten dengang, at det ville være tilstrækkeligt for at få rettet op på bl.a. problemer med håndtering af medicin og sondemad. </p><p>I november 2025 fulgte endnu et påbud. </p><p>Men da styrelsen i juni i år igen dukkede uanmeldt op, lød konklusionen, at der var &#039;omfattende problemer inden for næsten alle områder, der blev undersøgt.&#039; Der var ikke fuldt ud rettet op på de problemer, der tidligere havde været - og nye var kommet til!</p><p>Plejehjemmet på havnefronten i Nørresundby med 75 boliger blev set som et flagskib, hvor ny teknologi kunne testes, da det blev indviet i 2014. Det er dog ikke første gang, plejehjemmet har været udsat for kritik. Der har også været flere lederskift.</p><p>Men den nyeste sanktion - forbuddet mod at tage nye patienter ind - er det hidtil alvorligste, Fremtidens plejehjem med godt 80 ansatte har været udsat for. </p><h2>Engangsudstyr blev genbrugt</h2><p>Kommunen har prøvet at forbedre kvaliteten af plejen efter de to forrige besøg fra styrelsen. Blandt andet tjekker kommunens sundhedsfaglige konsulenter en gang om måneden udvalgte patientjournaler. </p><p>Alligevel er det opsigtsvækkende forhold, styrelsen beskriver i sin 18 sider lange rapport fra besøget i juni. For her tales ikke kun om instrukser og journaler, der ikke er ført korrekt eller ikke fulgt op på. </p><p>I flere tilfælde var det ikke muligt at se, om eksempelvis lægens eller andres instrukser i forhold til mad og drikke var fulgt eller ej:</p><p>En beboer fik mere væske end foreskrevet af diætisten. For en anden, der døjede med vægttab, var det i journalen efter instruks fra lægen anført, at hvis patientens vægt kom under 65 kilo, skulle lægen kontaktes. Patienten vejede 62,4 kilo, konstaterede styrelsens medarbejdere - men der havde ikke været kontakt til lægen herom.</p><p>Man fandt remedier til brug ved sondemad, som skulle være kasseret i 2023 eller 2024. Og så fandt man i hele fire tilfælde, at personalet benyttede engangsudstyr, der - som navnet siger - kun er tænkt benyttet én gang, flere gange og tilmed, uden at det blev gjort ordentligt rent. </p><p>Remedierne fremstod, hedder det i tilsynsrapporten, “urene med sorte pletter, fedtaflejringer og medicinrester”!</p><h2>Rådmand: Uacceptabelt</h2><p>Det er første gang nogensinde, et plejehjem i Aalborg Kommune på denne måde tvinges til at stoppe indtaget af nye beboere. Mon ikke nogen fortryder, at de gav plejehjemmet i Nørresundby det navn, det fik. Hvis dét, styrelsen beskriver efter to dages rundtur i Nørresundby, er udtryk for, hvad vi generelt kan forvente os af fremtidens plejehjem, ser det skidt ud.</p><p>Den opsigtsvækkende og usædvanlige melding fra den statslige myndighed kalder på særdeles håndfast handling fra de ansvarlige i Aalborg Kommune. Herunder og ikke mindst rådmand for senior og rehabilitering Vibeke Gamst. </p><p>Hun kalder i en pressemeddelelse forholdene uacceptable. </p><p>Det vil næppe nogen modsige hende i, hvis de læser rapporten fra styrelsen.</p><p>Læs tilsynsrapporten <a href=\"https://stps.dk/tilsynsrapporter/2026/aug/fremtidens-plejehjem\" target=\"_blank\">HER.</a></p>",
+  "link": "https://www.tv2nord.dk/aalborg/hvis-det-er-fremtidens-plejehjem-ser-det-skidt-ud-1b17a",
+  "published": "Thu, 13 Aug 26 17:42:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/hvis-det-er-fremtidens-plejehjem-ser-det-skidt-ud-1b17a",
+  "category": "No category"
+ },
+ {
+  "title": "AaB offentliggør blodrødt regnskab",
+  "description": "<p>Nedrykningen til landets næstbedste række har fortsat store konsekvenser for AaB&#039;s økonomi.</p><p>AaB har torsdag offentliggjort delårsregnskab, der viser store røde tal på bundlinjen.</p><p>Halvårsregnskabet viser et underskud på 14,5 millioner kroner mod et overskud på 27,5 millioner kroner samme periode sidste år.</p><p>Bestyrelsen begrunder selv den negative udvikling med nedrykningen til landets næstbedste række forrige sommer, hvor både tv-, sponsor- og kampdagsindtægter er blevet mindre.</p><p>Selskabet oplyser i samme omgang, at der er sket tilpasninger af organisationen og en reduktion i personaleomkostninger som følge af den pressede økonomi, og at dette følger den plan, der blev lagt efter nedrykningen.  </p><p>Forsidefoto: Henning Bagger/Ritzau Scanpix</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/aab-offentliggor-blodrodt-regnskab-4056c",
+  "published": "Thu, 13 Aug 26 17:01:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/aab-offentliggor-blodrodt-regnskab-4056c",
+  "category": "No category"
  },
  {
   "title": "Cyklist påkørt",
@@ -210,6 +242,14 @@
   "category": "No category"
  },
  {
+  "title": "Nordjysk boligboom: Her er priserne steget over 13 procent",
+  "description": "<p>Boligpriserne fortsætter generelt landet over med at stige, men i mellemtiden stryger særligt en nordjysk kommune til tops.</p><p>Det seneste år er salgspriserne for villaer og rækkehuse i Jammerbugt Kommune steget markant sammenlignet med resten af regionen. Det viser tal fra Boligsiden.</p><p>En udvikling, som ejendomsmægler i Mæglerhuset Aabybro Niclas Juul Rasmussen nikker genkendende til.  Hos dem ser de positivt på udviklingen i Jammerbugt Kommune.</p><p>- Det er fedt, udtaler han.</p> <h2>Prisrekorder</h2><p>Salgspriserne for villaer og rækkehuse i Jammerbugt Kommune er nemlig steget med over 13 procent det seneste år. Det placerer Jammerbugt Kommune på en 29. plads over landets kommuner, hvor salgspriserne for villaer og rækkehuse er steget mest.</p><p>Det er både over landsgennemsnittet på knap 10 procent, og det giver kommunen den største udvikling i Region Nordjylland, som ligger på omkring fem procent.</p> <p>Niclas Juul Rasmussen peger selv på, at udviklingen skyldes, at flere private bygger hus i de større byer som Aabybro, Pandrup og Nørhalne, som har solgt for rekordhøje beløber.</p><p>- På det seneste er der blevet solgt nogle rigtig dyre ejendomme, hvor der ofte bliver slået prisrekord, siger han.</p><p>Mægleren peger på, at grunden til at specifikt Jammerbugt Kommune har oplevet større stigninger har været, at der har været plads til, at der kunne komme højere boligpriser sammenlignet med andre kommuner som Aalborg.</p><p>Samtidig har de nye og dyrere boliger været med til at presse de øvrige boligpriser i kommunen op.</p>",
+  "link": "https://www.tv2nord.dk/jammerbugt/nordjysk-boligboom-her-er-priserne-steget-over-13-procent-7bbb2",
+  "published": "Thu, 13 Aug 26 14:23:00 +0200",
+  "guid": "https://www.tv2nord.dk/jammerbugt/nordjysk-boligboom-her-er-priserne-steget-over-13-procent-7bbb2",
+  "category": "No category"
+ },
+ {
   "title": "'Masser' af brandfolk er kørt til brand i Nørresundby",
   "description": "<p>En masse brandfolk kørte torsdag kort efter klokken 13 til Nørresundby, hvor der var brand i en industribygning. Beredskabet er klokken 16.36 fortsat i gang med efterslukningen. Vi opdaterer ikke livebloggen yderligere. </p>",
   "link": "https://www.tv2nord.dk/aalborg/masser-af-brandfolk-er-kort-til-brand-i-norresundby-75c99",
@@ -218,44 +258,12 @@
   "category": "No category"
  },
  {
-  "title": "Spor blokeret",
-  "description": "<p>Hvis du kørte på E45 fra Aalborg mod Hobro, skulle du tidligt på eftermiddagen passe ekstra meget på. Mellem Himmerland og Sønderup var der tabt gods, og derfor var et spor blokeret. Det fremgik af Vejdirektoratets <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\" target=\"_blank\">Trafikkort.</a></p><p>Sporet er nu farbart igen.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-blokeret-ffb3a",
-  "published": "Thu, 13 Aug 26 13:35:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-blokeret-ffb3a",
-  "category": "No category"
- },
- {
-  "title": "Biler i frontalt sammenstød",
-  "description": "<p>To biler var torsdag involveret i et frontalt sammenstød på den vestlige side af Fjerritslev. Mere præcist nord for Klim. </p><p>Begge parter blev efterfølgende kørt til tjek på hospitalet, men ingen af de implicerede er kommet alvorligt til skade. Det fortæller Thomas Ottesen, der er vagtchef ved Nordjyllands Politi.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/jammerbugt/biler-i-frontalt-sammenstod-86401",
-  "published": "Thu, 13 Aug 26 12:45:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/jammerbugt/biler-i-frontalt-sammenstod-86401",
-  "category": "No category"
- },
- {
-  "title": "Knivstik på nordjysk villavej",
-  "description": "<p>Onsdag aften modtog Nordjyllands Politi en anmeldelse om knivstik på en adresse i Birkelse ved Aabybro.</p> <p>- Sagen efterforskes fortsat, og politiet er i gang med at klarlægge de nærmere omstændigheder omkring hændelsen, fortæller politikommissær Kasper Brix og fortsætter: </p><p>- Der er en relation mellem forurettede og gerningsmand, hvorfor vi vurderer, at der er tale om en isoleret hændelse.</p><p>Politiet kan af hensyn til den igangværende efterforskning ikke oplyse yderligere om sagen. </p>",
-  "link": "https://www.tv2nord.dk/aalborg/knivstik-pa-nordjysk-villavej-7740a",
-  "published": "Thu, 13 Aug 26 09:15:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/knivstik-pa-nordjysk-villavej-7740a",
-  "category": "No category"
- },
- {
-  "title": "Smuk og varm sommerdag i vente",
-  "description": "<p>Hvis du har planlagt den tykke sweater og de lange bukser i dag, kan du godt pakke det væk igen. For dagen i dag står på op til 28 grader nogle steder i Nordjylland.</p><p>Morgenen starter dog lidt koldere ud med 14 grader, men graderne stiger hurtigt til over de 20 henover formiddagen. </p><p>Solen kan have svært ved at bryde igennem de højthængende skyer, men henover aftenen vil skyerne være væk igen. </p><p>- Så venter altså en virkelig smuk sommeraften, fortæller vejrvært på TV 2 Vejret, Jacob Mouritzen.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/smuk-og-varm-sommerdag-2147d",
-  "published": "Thu, 13 Aug 26 07:05:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/smuk-og-varm-sommerdag-2147d",
-  "category": "No category"
- },
- {
-  "title": "- Hun har givet mig liv to gange",
-  "description": "<p>Det var en helt almindelig dag, da Claus Rasmussen skulle besøge sin 81-årige mor i Aalborg. På vej derhen mærkede han en smerte i brystkassen, ryg, arm og kæbe.</p><p>Hos moren fortsatte smerten, og Claus svedte. Claus&#039; mor Lise tilbød, at ringe efter en ambulance, men det afslog Claus. Faktisk tilbød hun det hele tre gange, men han holdt stædigt fast.</p><p>Bare få øjeblikke senere satte han sig i sofaen, og pludselig var han bevidstløs.</p><p>Han havde fået hjertestop.</p><p>- Jeg kan ikke huske noget fra selve hjertestoppet, siger Claus Rasmussen.</p> <p>Mens han var væk, var hans 81-årige mor i den grad nærværende og handlede resolut. Med det samme ringede hun 112, og straks efter gik hun i gang med førstehjælp. Den bare 160 centimeter høje kvinde fik bakset sin meget højere søn ned på gulvet og gav hjertemassage.</p><p>- Hvis ens barn ligger under en bil, så kan man løfte bilen, siger Claus Rasmussen om morens styrke og tilføjer, at hun er gammel sygehjælper.</p><p>Hun fortsatte førstehjælpen, indtil der stod to hjerteløbere i stuen. Kort efter kom ambulancen, Claus fik fire-fem stød.</p><p>Hans livs var reddet.</p><p>- Jeg føler, at min mor har givet mig liv to gange - hun er min helt.</p> <h2>Kan vinde særlig pris</h2><p>Der er vist ingen tvivl om, at Claus&#039; mor kan betegnes som en helt. Derfor har han nomineret hende til en ægte helte-pris: Prisen som årets hjerteredder.</p> <p>Claus Rasmussen havde en stor blodprop. Han var død i 18 minutter og lå efterfølgende i kunstig koma i fem dage. I dag, et år efter, har han stadig nedsat hjertefrekvens og tager medicin, men han styrketræner og kan endelig køre mountainbike igen.</p> <p>Cirka 5000 personer rammes årligt af hjertestop uden for hospitalerne, fortæller Hjerteforeningen. Men at netop Claus Rasmussen skulle rammes den dag, var ikke til at forudsige.</p><p>- Jeg har altid trænet og holdt mig i god form, så jeg fatter det ikke. Det kan være en indsnævring, jeg er født med, siger han.</p><p>Prisen uddeles hvert år af Hjerteforeningen i samarbejde med Østifterne. Prisen uddeles til Hjertegalla på TV 2 Charlie og TV 2 Play søndag 6. september. Modtageren udvælges af en jury.</p><p>Uanset om Lise Østergaard vinder prisen eller ej, har hun nok vundet den bedste pris, hun kan få - hun har fået lov til at beholde sin søn.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/hun-har-givet-mig-liv-to-gange-9d571",
-  "published": "Thu, 13 Aug 26 06:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/hun-har-givet-mig-liv-to-gange-9d571",
-  "category": "No category"
+  "title": "Sennelsboerne samlede en million ind på 14 dage: Nu starter jagten på en ny købmand",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/thisted/sennelsboerne-samlede-en-million-ind-paa-14-dage-nu-starter-jagten-paa-en-ny-koebmand/6133682?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 13 Aug 2026 15:01:44 Z",
+  "guid": "f02d16f6-b907-43ff-8840-042581f2e3af",
+  "category": "Sennels"
  },
  {
   "title": "- Vi har været en uopdaget perle: Sæby høster frugterne af flere års fælles indsats",
@@ -408,13 +416,5 @@
   "published": "Mon, 10 Aug 2026 17:01:42 Z",
   "guid": "0f1d440c-8758-4e3f-a989-eb0a473cab3d",
   "category": "Aalborg Håndbold"
- },
- {
-  "title": "Henning Kjeldsen politianmeldt for trusler på livet",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/samfund/henning-kjeldsen-politianmeldt-for-trusler-paa-livet/6122669?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 12 Aug 2026 03:22:45 Z",
-  "guid": "2d56f962-9512-45b6-8f19-506880c62292",
-  "category": "samfund"
  }
 ]
