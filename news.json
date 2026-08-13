@@ -178,16 +178,24 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/wu0cbjyc/000_362p7kc-1920x987web.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
+  "title": "Flere brande på marker",
+  "description": "<p>Det er høsttid, og det kan mærkes hos Nordjyllands Beredskab. Der er nemlig en del markbrande og brande i landbrugsredskaber for tiden.</p><p>Således også torsdag eftermiddag.</p><p>Tidligt på eftermiddagen opstod brand i et læbælte på en kartoffelmark ved Farsø. 400 meter læbælte brændte, men brændte stille og roligt og er kommet under kontrol.</p><p>En time senere lød meldingen så på brand i et landbrugsredskab ved Aars. Også her er branden under kontrol.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/flere-brande-pa-marker-b6558",
+  "published": "Thu, 13 Aug 26 15:06:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/flere-brande-pa-marker-b6558",
+  "category": "No category"
+ },
+ {
   "title": "'Masser' af brandfolk er kørt til brand i Nørresundby",
-  "description": "<p>En masse brandfolk er kørt til Nørresundby, hvor der lige nu er brand i en industribygning. Det oplyser Nordjyllands Beredskab. </p><p>De kan endnu ikke komme med så mange oplysninger ud over, at der er tale om brand i et tag.</p><p>Branden er på adressen Hedelund 10C.</p><p>Opdateres...</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/masser-af-brandfolk-er-kort-til-brand-i-norresundby-75c99",
+  "description": "<p>En masse brandfolk er kørt til Nørresundby, hvor der lige nu er brand i en industribygning.</p><p>Opdateres...</p>",
+  "link": "https://www.tv2nord.dk/aalborg/masser-af-brandfolk-er-kort-til-brand-i-norresundby-75c99",
   "published": "Thu, 13 Aug 26 13:39:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/masser-af-brandfolk-er-kort-til-brand-i-norresundby-75c99",
+  "guid": "https://www.tv2nord.dk/aalborg/masser-af-brandfolk-er-kort-til-brand-i-norresundby-75c99",
   "category": "No category"
  },
  {
   "title": "Spor blokeret",
-  "description": "<p>Hvis du kører på E45 fra Aalborg mod Hobro, skal du passe ekstra på i øjeblikket.</p><p>Mellem Himmerland og Sønderup er der tabt gods, og derfor er et spor blokeret. Det fremgår af Vejdirektoratets <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\" target=\"_blank\">Trafikkort.</a></p><p>Vejhjælp er på vej til stedet. </p><p>Opdateret 13.35.</p>",
+  "description": "<p>Hvis du kørte på E45 fra Aalborg mod Hobro, skulle du tidligt på eftermiddagen passe ekstra meget på. Mellem Himmerland og Sønderup var der tabt gods, og derfor var et spor blokeret. Det fremgik af Vejdirektoratets <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\" target=\"_blank\">Trafikkort.</a></p><p>Sporet er nu farbart igen.</p>",
   "link": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-blokeret-ffb3a",
   "published": "Thu, 13 Aug 26 13:35:00 +0200",
   "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-blokeret-ffb3a",
@@ -250,12 +258,12 @@
   "category": "No category"
  },
  {
-  "title": "Aalborg Håndbold sejrer i næstsidste testkamp",
-  "description": "<p>Onsdag aften havde Aalborg Håndbold inviteret ligakonkurrenterne fra Skjern Håndbold med til den nordligste del af Nordjylland og Arena Nord i Frederikshavn til en testkamp. </p><p>Det er nordjydernes anden sidste testkamp, før det for alvor går i gang. </p><p>Det blev til en sikker sejr til Aalborg Håndbold på 31-28. </p><p>Det er dermed også Aalborg Håndbolds tredje sejr ud af tre mulige testkampe. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-handbold-sejrer-i-naestsidste-testkamp-f4c92",
-  "published": "Wed, 12 Aug 26 21:32:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/aalborg-handbold-sejrer-i-naestsidste-testkamp-f4c92",
-  "category": "No category"
+  "title": "Plejehjem så ud til at slippe for påbud: Så dukkede der en ny anonym henvendelse op",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/samfund/plejehjem-saa-ud-til-at-slippe-for-paabud-saa-dukkede-der-en-ny-anonym-henvendelse-op/6121984?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 13 Aug 2026 13:11:55 Z",
+  "guid": "66de948e-1cdd-4045-b3ca-99d984eaebd8",
+  "category": "Nørresundby"
  },
  {
   "title": "Jan Kjelgaard reddede Aalborg Vognmandsforretning én gang – nu må han give slip",
@@ -264,6 +272,14 @@
   "published": "Thu, 13 Aug 2026 09:03:19 Z",
   "guid": "b38a6195-f004-4db2-9132-566ab4fc9d74",
   "category": "Erhverv"
+ },
+ {
+  "title": "I Vegger bliver man straks en del af fællesskabet",
+  "description": "Her spørger man ikke om, hvem du er - men om du vil være med",
+  "link": "https://nordjyske.dk/nyheder/kultur/i-vegger-bliver-man-straks-en-del-af-faellesskabet/6063234?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 13 Aug 2026 13:02:44 Z",
+  "guid": "e037412f-c895-4276-8422-af6a9822d4cd",
+  "category": "Kultur"
  },
  {
   "title": "En ny bydel er på vej i Aalborg. Hør om planerne til Nordjyske LIVE",
@@ -280,6 +296,14 @@
   "published": "Thu, 13 Aug 2026 11:02:43 Z",
   "guid": "cd66f14e-8acb-42af-c715-08def69dbf21",
   "category": "Aggersborg"
+ },
+ {
+  "title": "AaB-overblik: Sparekniven har været i brug, men forretningen bløder fortsat millioner",
+  "description": "Få overblikket over de vigtigste AaB-nyheder",
+  "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 22 Apr 2026 07:27:27 Z",
+  "guid": "114fe8e9-35ae-4da8-b642-4f6bc42ab648",
+  "category": "AaB-blog"
  },
  {
   "title": "Udstykning på vej ved klitplantage - flere sommerhuse kan afhjælpe problem i nordjyske kommuner, vurderer politiker",
@@ -392,29 +416,5 @@
   "published": "Wed, 12 Aug 2026 13:32:46 Z",
   "guid": "0039df96-ae1a-4f91-91e2-08def2286580",
   "category": "Gjøl"
- },
- {
-  "title": "Dagplejen, vuggestuen og børnehaven er blevet billigere: Så meget sparer du i din kommune",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/dagplejen-vuggestuen-og-boernehaven-er-blevet-billigere-saa-meget-sparer-du-i-din-kommune/6127188?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 12 Aug 2026 11:00:50 Z",
-  "guid": "1a150471-225a-421a-853a-00fff054d7d5",
-  "category": "Økonomi"
- },
- {
-  "title": "Nordjyske mener: Mødet med ulven varede få minutter. Skyttegravskrigen bagefter gør ingen klogere",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/politik/nordjyske-mener-moedet-med-ulven-varede-faa-minutter-skyttegravskrigen-bagefter-goer-ingen-klogere/6130151?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 12 Aug 2026 10:32:42 Z",
-  "guid": "92a985e4-ea78-4bb0-8430-dd07f419eda6",
-  "category": "Nordjyske mener"
- },
- {
-  "title": "Han gjorde alt for at være klar. Nu gælder nye regler - og Søren Lübech aner stadig ikke, hvad han skal stille op",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/han-gjorde-alt-for-at-vaere-klar-nu-gaelder-nye-regler-og-soeren-l-bech-aner-stadig-ikke-hvad-han-skal-stille-op/6130826?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Wed, 12 Aug 2026 03:15:45 Z",
-  "guid": "e0688e46-46cf-49ad-b128-2898f7a38f89",
-  "category": "Erhverv"
  }
 ]
