@@ -178,8 +178,8 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/4ivgheu4/20220429-122624-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Liveblog: Vandfly ligger på hovedet ud for Læsø",
-  "description": "<p>Liveblog: Vandfly ligger på hovedet ud for Læsø</p>",
+  "title": "To personer er selv søgt i land",
+  "description": "<p>Der ligger lige nu et vandfly på hovedet i vandet ud for Læsø. Det bekræfter Nordjyllands Beredskab over for TV2 Nord.</p><p>Det er endnu uvist, hvorfor flyet er endt på hovedet. </p><p>Pressetjeneste ved Forsvarskommandoen fortæller til TV2 Nord, at to personer var ombord på flyet, og at de to personer selv er søgt i land efter hændelsen.</p><p>TV2 Nord følger sagen.</p>",
   "link": "https://www.tv2nord.dk/laesoe/liveblog-vandfly-ligger-pa-hovedet-ud-for-laeso-488c2",
   "published": "Fri, 21 Aug 26 18:36:00 +0200",
   "guid": "https://www.tv2nord.dk/laesoe/liveblog-vandfly-ligger-pa-hovedet-ud-for-laeso-488c2",
@@ -258,12 +258,28 @@
   "category": "No category"
  },
  {
+  "title": "Live: Se Aalborg Håndbolds testkamp mod Paris SG",
+  "description": "Du kan igen se med direkte på nordjyske.dk, når Aalborg Håndbold fredag aften møder Paris SG i sommerens sidste testkamp",
+  "link": "https://nordjyske.dk/nyheder/sport/se-aalborg-haandbolds-opgoer-mod-moellgaard-og-madsen-direkte-paa-nordjyske-dk/6141803?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Thu, 20 Aug 2026 13:32:49 Z",
+  "guid": "5707a0b2-5ccd-441a-8c56-30f9e5fc1591",
+  "category": "Aalborg Håndbold"
+ },
+ {
   "title": "AaB halter efter Hobro i \"Slaget om Nordjylland\". Følg liveblog og stil spørgsmål",
   "description": "Det er Hobro, som kommer med de bedste kort på hånden til sæsonens første møde med AaB",
   "link": "https://nordjyske.dk/nyheder/sport/aab-skal-haenge-paa-mens-hobro-kan-stryge-til-tops-foelg-slaget-om-nordjylland-og-stil-spoergsmaal/6141874?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Fri, 21 Aug 2026 11:00:43 Z",
   "guid": "5e3aed5c-8b8d-4c73-a440-e4cfb8f146ba",
   "category": "AaB"
+ },
+ {
+  "title": "Crazy teater udenfor tid og rum med et gådefuldt strejf af Kafka",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/kultur/crazy-teater-udenfor-tid-og-rum-med-et-gaadefuldt-strejf-af-kafka/6139177?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Fri, 21 Aug 2026 17:02:45 Z",
+  "guid": "e7d41797-a7a9-4cb9-9dfb-ff47a91da800",
+  "category": "Kultur"
  },
  {
   "title": "Den anonyme henvendelse afslørede mere end problemer på et plejehjem",
@@ -354,14 +370,6 @@
   "category": "Vendsyssel FF"
  },
  {
-  "title": "Se Aalborg Håndbolds opgør mod Møllgaard og Madsen direkte på nordjyske.dk",
-  "description": "Du kan igen se med direkte på nordjyske.dk, når Aalborg Håndbold fredag aften møder Paris SG i sommerens sidste testkamp",
-  "link": "https://nordjyske.dk/nyheder/sport/se-aalborg-haandbolds-opgoer-mod-moellgaard-og-madsen-direkte-paa-nordjyske-dk/6141803?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 20 Aug 2026 13:32:49 Z",
-  "guid": "5707a0b2-5ccd-441a-8c56-30f9e5fc1591",
-  "category": "Aalborg Håndbold"
- },
- {
   "title": "Se billederne fra torsdagen på Kulturmødet",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/morsoe/se-billederne-fra-torsdagen-paa-kulturmoedet/6142128?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -408,13 +416,5 @@
   "published": "Thu, 20 Aug 2026 11:03:46 Z",
   "guid": "b8d503fd-db7e-4f28-9682-0c80a14a0e51",
   "category": "Byudvikling i Aalborg"
- },
- {
-  "title": "Udlejet Aalborg-spiller ligner en klar profil hos Mors-Thy",
-  "description": "Det er sin sag at skulle løfte arven efter Victor Norlyk, men det ligner en opgave, som Simon Skovhus er mand for at løse",
-  "link": "https://nordjyske.dk/nyheder/sport/udlejet-aalborg-spiller-ligner-en-klar-profil-hos-mors-thy/6141194?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Thu, 20 Aug 2026 10:32:42 Z",
-  "guid": "fa1aec73-1af0-4f2f-a5bb-843316d2bc5c",
-  "category": "Håndbold"
  }
 ]
