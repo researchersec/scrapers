@@ -24,12 +24,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiOnlpNik%2Fp-3.webp&w=300&x1r=0.01&x2r=0.48&y1r=0.49&y2r=0.95&s=27309e10cab76430f4f36f100f2e05d9"
  },
  {
-  "link": "/Fleggaard?publication=1NRp-JGF&offer=m7EDu8Zka__Y9jW3LD4qy",
+  "link": "/Fleggaard?publication=i3MTMB77&offer=sJcOwKoKUAjXTl3Nwg3eX",
   "price": "16",
   "currency": "DKK",
   "valid_from": "18-08-2026",
   "valid_until": "01-09-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ccd3a653909d0307d68a127661c389d%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F323aa8e0a285b743f45ac6aa896d940d&w=300&s=667ea419bb9963c31c190195dba7c7f0"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDUQGPoS8%2Fp-15.webp&w=300&x1r=0&x2r=0.38&y1r=0.33&y2r=0.73&s=866a1e51c6b0ada6aba52728c8ea1eb9"
  },
  {
   "link": "/nemlig?publication=HM-r5Zt6&offer=yM5t36DCDwiiPh76BHRNY",
@@ -128,6 +128,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSmtGqSDS%2Fp-9.webp&w=300&x1r=0.043&x2r=0.505&y1r=0.245&y2r=0.598&s=344e000b33b224b5a81be7e235430911"
  },
  {
+  "link": "/Bilka?publication=JFEqJyfg&offer=qKE0Z96NZ2hveDcdFnU0N",
+  "price": "69",
+  "currency": "DKK",
+  "valid_from": "27-08-2026",
+  "valid_until": "03-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJFEqJyfg%2Fp-21.webp&w=300&x1r=0.015&x2r=0.342&y1r=0.682&y2r=0.942&s=bdbfa4e6005b34285315bf250d586532"
+ },
+ {
   "link": "/fotex?publication=WNOVjf_Q&offer=uwrQ4Exk3wOr-a41cPsKg",
   "price": "105",
   "currency": "DKK",
@@ -166,13 +174,5 @@
   "valid_from": "11-08-2026",
   "valid_until": "29-09-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F__kcXpHz%2Fp-6.webp&w=300&x1r=0.51&x2r=0.988&y1r=0.585&y2r=0.988&s=67daac34ba9274b40521f33cfa1c78cd"
- },
- {
-  "link": "/Bilka?publication=JFEqJyfg&offer=qKE0Z96NZ2hveDcdFnU0N",
-  "price": "69",
-  "currency": "DKK",
-  "valid_from": "27-08-2026",
-  "valid_until": "03-09-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJFEqJyfg%2Fp-21.webp&w=300&x1r=0.015&x2r=0.342&y1r=0.682&y2r=0.942&s=bdbfa4e6005b34285315bf250d586532"
  }
 ]
