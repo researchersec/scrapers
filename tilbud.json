@@ -120,6 +120,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJFEqJyfg%2Fp-27.webp&w=300&x1r=0.01&x2r=0.34&y1r=0.62&y2r=0.98&s=f74b2ed9efc578c90765710ce364c999"
  },
  {
+  "link": "/Netto?publication=KujH1JEc&offer=3vqPfmbaKIyf2dopwiQ7y",
+  "price": "69",
+  "currency": "DKK",
+  "valid_from": "31-08-2026",
+  "valid_until": "30-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKujH1JEc%2Fp-18.webp&w=300&x1r=0.345&x2r=0.655&y1r=0.405&y2r=0.685&s=959e19aab7f30a3b2d3920b9ed658bc3"
+ },
+ {
   "link": "/fotex?publication=mt3bKZWe&offer=1ezBXwS3ALZZ3oFW7M_Dx",
   "price": "69",
   "currency": "DKK",
@@ -144,20 +152,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fmt3bKZWe%2Fp-36.webp&w=300&x1r=0.019&x2r=0.45&y1r=0.457&y2r=0.739&s=0af7aea9fd82f56302ef7dda49469c12"
  },
  {
-  "link": "/BorderShop?publication=__kcXpHz&offer=STR7qOJlTC7SBw7rNSDRU",
-  "price": "81.95",
-  "currency": "DKK",
-  "valid_from": "11-08-2026",
-  "valid_until": "29-09-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F__kcXpHz%2Fp-6.webp&w=300&x1r=0.51&x2r=0.988&y1r=0.585&y2r=0.988&s=67daac34ba9274b40521f33cfa1c78cd"
- },
- {
   "link": "/Fleggaard?publication=k2Q8VEEZ&offer=gHUV0dlBaGiqLkveLXZfw",
   "price": "82",
   "currency": "DKK",
   "valid_from": "01-09-2026",
   "valid_until": "22-09-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fk2Q8VEEZ%2Fp-25.webp&w=300&x1r=0.51&x2r=0.98&y1r=0.01&y2r=0.45&s=a9eeaa6a5af0df0985ef6a04bd1136b1"
+ },
+ {
+  "link": "/BorderShop?publication=__kcXpHz&offer=STR7qOJlTC7SBw7rNSDRU",
+  "price": "81.95",
+  "currency": "DKK",
+  "valid_from": "11-08-2026",
+  "valid_until": "29-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F__kcXpHz%2Fp-6.webp&w=300&x1r=0.51&x2r=0.988&y1r=0.585&y2r=0.988&s=67daac34ba9274b40521f33cfa1c78cd"
  },
  {
   "link": "/SPAR?publication=6Oj4Nyg1&offer=8e8I5GEGUDfApNAdqf4zI",
