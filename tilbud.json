@@ -1,11 +1,11 @@
 [
  {
-  "link": "/Fleggaard?publication=k2Q8VEEZ&offer=9DdBIXO4GJjMVo-S3cU3C",
+  "link": "/Fleggaard?publication=1NRp-JGF&offer=m7EDu8Zka__Y9jW3LD4qy",
   "price": "16",
   "currency": "DKK",
   "valid_from": "01-09-2026",
   "valid_until": "22-09-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fk2Q8VEEZ%2Fp-48.webp&w=300&x1r=0.008&x2r=0.339&y1r=0.38&y2r=0.691&s=a5ca2d08bfbf9827a5a7683f0515bdd8"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ccd3a653909d0307d68a127661c389d%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F323aa8e0a285b743f45ac6aa896d940d&w=300&s=667ea419bb9963c31c190195dba7c7f0"
  },
  {
   "link": "/fotex?publication=mt3bKZWe&offer=Py2pZbDIQa2DHxGtFUnJC",
@@ -32,20 +32,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fe-sT2zrs%2Fp-27.webp&w=300&x1r=0.4986&x2r=0.9949&y1r=0.7085&y2r=0.9471&s=82f8cd3d75a7d793d69fde2f05433416"
  },
  {
-  "link": "/nemlig?publication=_pkOzHGK&offer=t6kt26a15HmEv6zSj5Zir",
-  "price": "35.75",
-  "currency": "DKK",
-  "valid_from": "06-09-2026",
-  "valid_until": "12-09-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F05aa5644d6898befecf2f68bca8a94cc%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F585a9dbc198b8aa86dadf287187177e1&w=300&s=a41bdba926ac1e87f84ae6a91fabb43d"
- },
- {
   "link": "/Calle?publication=GlyD5vFL&offer=d4o6sFhGs4lTOs-kV93W7",
   "price": "25",
   "currency": "DKK",
   "valid_from": "01-09-2026",
   "valid_until": "22-09-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FGlyD5vFL%2Fp-12.webp&w=300&x1r=0.652&x2r=0.99&y1r=0.406&y2r=0.746&s=dbbbb149632653688f2b70e6f9553898"
+ },
+ {
+  "link": "/nemlig?publication=_pkOzHGK&offer=t6kt26a15HmEv6zSj5Zir",
+  "price": "48.25",
+  "currency": "DKK",
+  "valid_from": "06-09-2026",
+  "valid_until": "12-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F05aa5644d6898befecf2f68bca8a94cc&w=300&s=4bb2071fa20ecd793ac90d4071f28c15"
  },
  {
   "link": "/Fleggaard?publication=1NRp-JGF&offer=UTOgSV3s1rC6a7KDWhm3U",
