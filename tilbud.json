@@ -1,5 +1,13 @@
 [
  {
+  "link": "/Netto?publication=kiVYNtOW&offer=a6uK1ewBeYHNXZbiWJ--F",
+  "price": "12",
+  "currency": "DKK",
+  "valid_from": "11-09-2026",
+  "valid_until": "18-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkiVYNtOW%2Fp-6.webp&w=300&x1r=0.02&x2r=0.465&y1r=0.35&y2r=0.68&s=861a92dbe965ec39848178555d434e39"
+ },
+ {
   "link": "/Fleggaard?publication=1NRp-JGF&offer=m7EDu8Zka__Y9jW3LD4qy",
   "price": "16",
   "currency": "DKK",
@@ -22,6 +30,14 @@
   "valid_from": "06-09-2026",
   "valid_until": "20-09-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSQxhR5ko%2Fp-4.webp&w=300&x1r=0.122&x2r=0.495&y1r=0.435&y2r=0.692&s=3814a1b31709b94d0e26dedb1a62c8ce"
+ },
+ {
+  "link": "/Bilka?publication=-RTjNc_p&offer=MARXbYWs84bnf7NAb0x7B",
+  "price": "15",
+  "currency": "DKK",
+  "valid_from": "10-09-2026",
+  "valid_until": "17-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-RTjNc_p%2Fp-18.webp&w=300&x1r=0.285&x2r=0.48&y1r=0.025&y2r=0.31&s=bd6a0e7ea7ce3d4997568cfc5ec9f7a2"
  },
  {
   "link": "/Lidl?publication=Oatr0g1G&offer=L08YadZXN3SqQhLaU7VVj",
@@ -80,6 +96,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSuAwxPk4%2Fp-34.webp&w=300&x1r=0.045&x2r=0.95&y1r=0.075&y2r=0.365&s=b4c7acb6227cf70ae733aaa6b4d59e37"
  },
  {
+  "link": "/Bilka?publication=-RTjNc_p&offer=4bbFfhI1R0VPj4Rg5C6Ok",
+  "price": "99",
+  "currency": "DKK",
+  "valid_from": "10-09-2026",
+  "valid_until": "17-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-RTjNc_p%2Fp-20.webp&w=300&x1r=0.688&x2r=0.998&y1r=0.64&y2r=0.96&s=86298ffbff237c1563c7c03f0c28d431"
+ },
+ {
   "link": "/Netto?publication=KujH1JEc&offer=3vqPfmbaKIyf2dopwiQ7y",
   "price": "69",
   "currency": "DKK",
@@ -104,6 +128,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FH7mKWbaH%2Fp-8.webp&w=300&x1r=0.354&x2r=0.667&y1r=0.495&y2r=0.748&s=8f30acb429bd62a839a5098efe544f83"
  },
  {
+  "link": "/fotex?publication=kac7DDUo&offer=qv0RVVQ2Z6hxm2EQFcWWY",
+  "price": "140",
+  "currency": "DKK",
+  "valid_from": "10-09-2026",
+  "valid_until": "17-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fkac7DDUo%2Fp-29.webp&w=300&x1r=0.314&x2r=0.98&y1r=0.25&y2r=0.558&s=a597ea245eef251cc31d399ce3a182e7"
+ },
+ {
   "link": "/REMA-1000?publication=PORhe5yr&offer=iKZOU3VvHCSr2KPPFAPik",
   "price": "5",
   "currency": "DKK",
@@ -126,6 +158,14 @@
   "valid_from": "06-09-2026",
   "valid_until": "12-09-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Fab3d5e551d434ce5f444d6dbae2de089&w=300&s=4889917b801125e67536157765f28d78"
+ },
+ {
+  "link": "/Bilka?publication=-RTjNc_p&offer=A6R32l7Le7qJzzUe5GQso",
+  "price": "69",
+  "currency": "DKK",
+  "valid_from": "10-09-2026",
+  "valid_until": "17-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-RTjNc_p%2Fp-11.webp&w=300&x1r=0.02&x2r=0.34&y1r=0.68&y2r=0.95&s=b1c6fa9207d67fe3050f6c0d521b67e7"
  },
  {
   "link": "/fotex?publication=mt3bKZWe&offer=aNxaEVV2ApmaNa5zWaAaW",
@@ -158,6 +198,14 @@
   "valid_from": "11-08-2026",
   "valid_until": "29-09-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F__kcXpHz%2Fp-6.webp&w=300&x1r=0.51&x2r=0.988&y1r=0.585&y2r=0.988&s=67daac34ba9274b40521f33cfa1c78cd"
+ },
+ {
+  "link": "/fotex?publication=kac7DDUo&offer=4KMHJ3auJ9JLr4qc5TcMV",
+  "price": "105",
+  "currency": "DKK",
+  "valid_from": "10-09-2026",
+  "valid_until": "17-09-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fkac7DDUo%2Fp-8.webp&w=300&x1r=0.03&x2r=0.97&y1r=0.64&y2r=0.97&s=5227399e8ad096c8e9bfa5d1c1066baa"
  },
  {
   "link": "/fotex?publication=mt3bKZWe&offer=Jc4N0zsRC1TeLbTnc5YTE",
