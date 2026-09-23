@@ -1,5 +1,13 @@
 [
  {
+  "link": "/Lidl?publication=H3mJo6PY&offer=ypUangcQwXmqErqolSmq5",
+  "price": "8",
+  "currency": "DKK",
+  "valid_from": "26-09-2026",
+  "valid_until": "03-10-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FH3mJo6PY%2Fp-8.webp&w=300&x1r=0.02&x2r=0.49&y1r=0.51&y2r=0.72&s=6dd0d0ffc36acbb20756a9ebf26df9c4"
+ },
+ {
   "link": "/MENY?publication=augxgyjH&offer=6ZXuG7w8Wto9La_c93uhM",
   "price": "15",
   "currency": "DKK",
@@ -85,7 +93,7 @@
   "currency": "DKK",
   "valid_from": "22-09-2026",
   "valid_until": "06-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F91751a74f45866559a3314fe4e1ae957%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5ab6c614c6c5153fe1ac3fa98b96b146%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F771cb62c1ff78007a247714e28d8fc27%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Fcdc0b4b1437c087134c60f356032ee7e%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F9de9fb2f2942195211c41178ec40e6c9&w=300&s=28198f2be458c8b5ff43bc1bf02f52ba"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F6541b239844af2997c85795ac7ede777%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F1ca2c65c7e7037e54333e0c96cd418ef%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F667094ec9f0ba98bc584a8b2b4374c4d%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Fa5825471a66cc3f72de8100e1dab8e21%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5395ca3cf6a75ac923e458b14c38f255&w=300&s=c5b46e9fce64661364aaa6ab19c43616"
  },
  {
   "link": "/Calle?publication=YYyuiXTT&offer=l5WIRDKiRZBHR3WnBhRos",
@@ -110,6 +118,14 @@
   "valid_from": "17-09-2026",
   "valid_until": "24-09-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4m8-BIg1%2Fp-13.webp&w=300&x1r=0.03&x2r=0.49&y1r=0.08&y2r=0.5&s=5df10892407c959c6b8fb35584e30dbd"
+ },
+ {
+  "link": "/Netto?publication=M3A02XpX&offer=Zdn7bzPaCGExFETl2N6JD",
+  "price": "69",
+  "currency": "DKK",
+  "valid_from": "25-09-2026",
+  "valid_until": "02-10-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FM3A02XpX%2Fp-2.webp&w=300&x1r=0.02&x2r=0.47&y1r=0.66&y2r=0.96&s=0e3e2d5516045bbcc2c8bfb4eed8638f"
  },
  {
   "link": "/Netto?publication=U1-NzCF1&offer=AlqzVL068aREVjmjyGdWJ",
