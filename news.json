@@ -1,5 +1,13 @@
 [
  {
+  "title": "Er der plads til ulven? Naboerne er uenige",
+  "description": "No description",
+  "link": "https://www.dr.dk/nyheder/regionale/nordjylland/reels/er-der-plads-til-ulven-naboerne-er-uenige",
+  "published": "Sat, 26 Sep 2026 17:29:00 GMT",
+  "guid": "urn:dr:umbraco:reel:c3123a83-0606-4f8e-9eed-c460910e9528",
+  "category": "No category"
+ },
+ {
   "title": "Borgerprotester redder populært værested fra sparekniv",
   "description": "No description",
   "link": "https://www.dr.dk/nyheder/seneste/borgerprotester-redder-populaert-vaerested-fra-sparekniv",
@@ -166,13 +174,20 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/3xhp0ccm/solcellepark_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Marie blev bange for matematik - nu håber hun, andre får hjælp i tide",
-  "description": "Først da Marie Juul kom i gymnasiet, blev hendes talblindhed opdaget.",
-  "link": "https://www.dr.dk/nyheder/indland/marie-blev-bange-matematik-nu-haaber-hun-andre-faar-hjaelp-i-tide",
-  "published": "Mon, 07 Sep 2026 15:37:00 GMT",
-  "guid": "urn:dr:umbraco:article:b0ee4810-5a53-4d32-b88b-e496b8ef2d54",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/wwtessdh/talblind2_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Ny konkurrence skærper reddere",
+  "description": "<p>I en ambulance i det østlige Aalborg er vi på vej til et færdselsuheld med ambulancebehandleren Jonas Munk og hans to kollegaer.</p><p>Omfanget af uheldet er ukendt for holdet i ambulancen, men fremme på ulykkesstedet står det hurtigt klart, at en bil er kørt i grøften og vender på hovedet.</p><p>Hele scenariet med færdselsuheldet er blot en del af en større konkurrence. Det er Danmarks første af sin slags, hvor ambulancebehandlere bliver udfordret og testet i en række ulykkesscenarier, der alt sammen skal være med til at skærpe deres evner, hvis det en dag bliver virkelighed.</p><p>- Jeg synes, at det er megafedt. Det har vi bare ventet på, siger Jonas Munk, der er ambulancebehandler i Region Nordjylland.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/ny-konkurrence-skaerper-reddere-a2e1f",
+  "published": "Sat, 26 Sep 26 19:48:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/ny-konkurrence-skaerper-reddere-a2e1f",
+  "category": "No category"
+ },
+ {
+  "title": "Ny konkurrence skærper reddere",
+  "description": "<p>I en ambulance i det østlige Aalborg er vi på vej til et færdselsuheld med ambulancebehandleren Jonas Munk og hans to kollegaer.</p><p>Omfanget af uheldet er ukendt for holdet i ambulancen, men fremme på ulykkesstedet står det hurtigt klart, at en bil er kørt i grøften og vender på hovedet.</p><p>Hele scenariet med færdselsuheldet er blot en del af en større konkurrence. Det er Danmarks første af sin slags, hvor ambulancebehandlere bliver udfordret og testet i en række ulykkesscenarier, der alt sammen skal være med til at skærpe deres evner, hvis det en dag bliver virkelighed.</p><p>- Jeg synes, at det er megafedt. Det har vi bare ventet på, siger Jonas Munk, der er ambulancebehandler i Region Nordjylland.</p> <h2>Skal styrke fagligheden</h2><p>Ved færdselsuheldet ser ambulancemandskabet hurtigt en kvinde, der er kommet til skade med sit ben. Mens hun bliver tilset, gennemgår Jonas Munk bilen, der vender på hovedet i grøften.</p><p>Bagerst i bilen kan han se en mand, der ligger bevidstløs, mens han på siden af maven har et stort sår.</p> <p>Ulykken er langt fra urealistisk, og det er netop meningen med konkurrencen. Den skal nemlig udsætte ambulancemandskabet for en række realistiske og udfordrende scenarier.</p><p>- Vi vil gerne styrke fagligheden inden for det præhospitale og ikke mindst for de nordjyske borgeres skyld, siger Casper Benthin Bay, der selv er ambulancebehandler og en af initiativtagerne til konkurrencen, inden han fortsætter:</p> <p>- Lige pludselig en eller anden dagen så er det, at man står i det, og så er det rart nok, at man kan trække noget erfaring op af rygsækken, siger han.</p><h2>Ukendte scenarier</h2><p>I løbet af konkurrencen skal hvert faste ambulancehold igennem en række ukendte scenarier. Det hele bliver bedømt af faglige eksperter, og til sidst bliver der kåret en vinder.</p><p>- Selvfølgelig vil man gerne vinde, men det der er i højsædet for os, det er, at vi hygger os og har det sjovt. Vi er her også for at lave nogle fejl, og det er de fejl, vi skal lære af.</p> <p>Du kan se mere om de nordjyske ambulanceredderes hverdag, når vi på næste søndag – den 4. oktober – har premiere på serien ’Drømmen om 112’.</p>",
+  "link": "https://www.tv2nord.dk/aalborg/ny-konkurrence-skaerper-reddere-6939f",
+  "published": "Sat, 26 Sep 26 19:29:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/ny-konkurrence-skaerper-reddere-6939f",
+  "category": "No category"
  },
  {
   "title": "Kan ikke få permanent ophold: Par lever i uvished efter 23 år",
@@ -239,19 +254,11 @@
   "category": "No category"
  },
  {
-  "title": "Vejdirektoratet advarer om rådyr i nødsporet på E45",
-  "description": "<p>Vejdirektoratet advarer i øjeblikket bilister på E45 i både nordgående og sydgående retning mellem Svenstrup og Svenstrup N.</p><p>Der går nemlig levende rådyr i nødsporet i begge kørselsretninger. </p><p>Det fremgår af deres <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">trafikkort</a>. </p><p><em>Opdateres...</em></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/vejdirektoratet-advarer-om-radyr-i-nodsporet-pa-e45-29773",
-  "published": "Sat, 26 Sep 26 13:35:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/vejdirektoratet-advarer-om-radyr-i-nodsporet-pa-e45-29773",
-  "category": "No category"
- },
- {
-  "title": "Ekspert stiller spørgsmålstegn ved byggestop",
-  "description": "<p>- Der er jo ikke første gang, man ikke har hjemmel til det, man laver. Det er et skråplan, at man tager beslutninger efter forgodtbefindende i stedet for at kigge på lovgivningen.</p><p>Sådan siger griseproducent og næstformand i landbrugsorganisationen Agilix, Torben Farum, efter juraprofessor Peter Pagh i <a href=\"https://jyllands-posten.dk/erhverv/ECE19680866/stop-for-svinestalde-har-vaeret-paa-vej-i-maanedsvis-alligevel-er-der-lavet-en-eklatant-fejl-mener-en-professor/\"><em>JyllandsPosten</em></a> stiller spørgsmålstegn ved, om regeringen har lovhjemmel til at indføre det midlertidige byggestop for nye og større konventionelle grisestalde i Danmark.</p><p>For i den pressemeddelelse, hvor ministeren bekendtgjorde, at man ville indføre byggestoppet, skrev minister for natur- og dyrevelfærd Christian Rabjerg Madsen (S), at man ville indføre stoppe med henvisning til dyrevelfærd.</p><p>Men det man kan ikke regulere i en bekendtgørelse om et område med henvisning til et helt andet. I dette tilfælde er det loven om husdyrbrug i Danmark, man gerne vil ændre i.</p><p>- Der er ikke hjemmel til at regulere behandlingen af ansøgninger i husdyrbrugsbekendtgørelsen med henvisning til dyrevelfærd, siger juraporfessor på Københavns Universitet Peter Pagh til mediet.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/ekspert-stiller-sporgsmalstegn-ved-byggestop-13a00",
-  "published": "Sat, 26 Sep 26 13:21:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/ekspert-stiller-sporgsmalstegn-ved-byggestop-13a00",
+  "title": "Christina troede, hun var på vej tilbage til livet: Ny scanning viste en anden virkelighed",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/frederikshavn/christina-troede-hun-var-paa-vej-tilbage-til-livet-ny-scanning-viste-en-anden-virkelighed/6187787?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Sat, 26 Sep 2026 17:00:49 Z",
+  "guid": "02ae29a3-6f55-429c-bce5-080f4ad6ca15",
   "category": "No category"
  },
  {
@@ -405,13 +412,5 @@
   "published": "Fri, 25 Sep 2026 09:00:53 Z",
   "guid": "ef17848b-9254-4f55-a81f-52f65e0d6d30",
   "category": "Aalborg"
- },
- {
-  "title": "JKE investerer flere millioner: Nu vokser butikken i Brønderslev",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/broenderslev/jke-investerer-flere-millioner-nu-vokser-butikken-i-broenderslev/6186596?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Fri, 25 Sep 2026 13:30:44 Z",
-  "guid": "2d90c7e8-9d3d-4a61-aebd-08df1882499e",
-  "category": "Brønderslev"
  }
 ]
