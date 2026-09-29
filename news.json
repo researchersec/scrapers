@@ -1,5 +1,14 @@
 [
  {
+  "title": "Landmand frygter nye krav mere end spøgelser",
+  "description": "Ved midnat fik landmænd besked på, hvor meget gødning de må sprede næste år.",
+  "link": "https://www.dr.dk/nyheder/indland/landmand-frygter-nye-krav-mere-end-spoegelser",
+  "published": "Tue, 29 Sep 2026 11:30:19 GMT",
+  "guid": "urn:dr:umbraco:article:e37faa33-e735-4b01-ad71-35a5ef6ae793",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/r10pvv3d/malthe-holst_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Når Viggo ikke er på hospitalet, får han besøg af musikhelt",
   "description": "No description",
   "link": "https://www.dr.dk/nyheder/indland/reels/naar-viggo-ikke-er-paa-hospitalet-faar-han-besoeg-af-musikhelt",
@@ -163,92 +172,100 @@
   "category": "No category"
  },
  {
-  "title": "Er der fly i luften, er Jesper på pletten",
-  "description": "No description",
-  "link": "https://www.dr.dk/nyheder/regionale/nordjylland/reels/er-der-fly-i-luften-er-jesper-paa-pletten",
-  "published": "Mon, 14 Sep 2026 17:20:00 GMT",
-  "guid": "urn:dr:umbraco:reel:2bbbe527-3c71-4f3e-8ed3-997eaa63a478",
+  "title": "Nordvestjysk borgmester: - Der er en hetz mod landbrugserhvervet",
+  "description": "<p>Blandt flere af Venstres jyske borgmestre er der bekymring for, hvad der venter, når Folketinget om kort tid skal forhandle et nationalt sprøjteforbud for at beskytte drikkevandet.</p><p>Venstre har sagt, at de går ind for sådan et forbud. Og selvom Venstres borgmester i Thisted, Niels Jørgen Pedersen, som udgangspunkt synes det er godt, at hans parti er med ved forhandlingsbordet, kan prisen blive for høj for landbruget, mener han.</p><p>- Jeg synes, der er en hetz mod landbrugserhvervet. Der er en stemning af, at man skal trykke alt ned fra oven. Vi har godt styr på drikkevandsbeskyttelsen i mín kommune og kan godt håndtere det uden national lovgivning, siger han til TV 2.</p><p>Kenneth Tønning, Venstre-borgmester i Holstebro, stemmer i.</p><p>- Jeg er nervøs for specielt min landsdel, hvor fødevareerhvervet betyder meget. Vi skal bevare fødevareproduktionen i Danmark og ikke eksportere det til andre lande, for så har vi ikke løst en skid, siger han til TV 2.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/nordvestjysk-borgmester-jeg-synes-der-er-en-hetz-mod-landbrugserhvervet-32f06",
+  "published": "Tue, 29 Sep 26 15:57:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/nordvestjysk-borgmester-jeg-synes-der-er-en-hetz-mod-landbrugserhvervet-32f06",
   "category": "No category"
  },
  {
-  "title": "Bil brød i brand under kørsel",
-  "description": "<p>En bil er tirsdag brudt i brand på Espelunden i Vodskov. Det skete, mens bilen fortsat kørte. </p><p>Klokken 9.55 er Nordjyllands Beredskab på stedet og arbejder for at slukke branden i benzinbilen. </p><p>Der er ingen fare for spredning. </p><p><em>Opdateres...</em></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/bil-brod-i-brand-under-korsel-7cfc7",
-  "published": "Tue, 29 Sep 26 09:54:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/bil-brod-i-brand-under-korsel-7cfc7",
+  "title": "Kendt kro sat til salg for 15 millioner kroner",
+  "description": "<p>Der er Brøndums, der er Ruths og så er der Bodilles.</p><p>Mange vil allerede nu vide præcis, hvilken by der er tale om, for de tre steder er nærmest ikoniske for Skagen. Mens der har været flere historier på det seneste om <a href=\"https://www.tv2nord.dk/frederikshavn/hotelgigant-dropper-kob-af-historisk-skagen-hotel-a3703\"><em>salg af Brøndums Hotel</em></a>, er en af de andre ikoner nu også til salg.</p><p>For Dorte og Peter, der ejer og har drevet Bodilles Kro i næsten 20 år, har sat den til salg.</p><p>Den mere end 50 år gamle kro er sat til salg for 15 millioner kroner.</p><p>Du kan læse mere og se billeder fra salgsopstillingen <a href=\"https://www.tv2nord.dk/artikel/peter-og-dorte-har-sat-deres-kendte-kro-til-salg\">HER</a>.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/kendt-kro-sat-til-salg-for-15-millioner-kroner-d0fd8",
+  "published": "Tue, 29 Sep 26 14:27:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/kendt-kro-sat-til-salg-for-15-millioner-kroner-d0fd8",
   "category": "No category"
  },
  {
-  "title": "Politi søger hjælp efter indbrudsbølge i Aars",
-  "description": "<p>Over de seneste dage har lokalpolitiet i Himmerland registreret hele otte indbrud i et begrænset område af Aars.</p><p>Fremgangsmåden og tyvekosterne minder så meget om hinanden, at der ifølge politikommissær Thomas Klok kan være tale om samme gerningsmand eller gerningsmænd.</p><p>Indbruddene er sket på Brorsonsvej, Højtoften, Agertoften, Toftehaven og Birkevej.</p><p>- Mange af vejene er tilkoblet et stisystem. Politiet vil meget gerne høre fra folk, der har videoovervågning i området. Har man det, kan man ringe på 114, siger Thomas Klok.</p><p>Du kan læse mere <a href=\"https://www.tv2nord.dk/artikel/har-du-overvaagning-politi-soeger-hjaelp-efter-indbrudsboelge\">HER</a>.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/politi-soger-hjaelp-efter-indbrudsbolge-i-aars-1d799",
-  "published": "Tue, 29 Sep 26 09:50:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/vesthimmerland/politi-soger-hjaelp-efter-indbrudsbolge-i-aars-1d799",
+  "title": "Mand fængsles efter fund af pistoler og ammunition",
+  "description": "<p>En mand er tirsdag blevet varetægtsfængslet ved Retten i Aalborg, efter politiet mandag omkring klokken 13 fandt to pistoler og ammunition på en adresse i Nordjylland. </p><p>Det skete på baggrund af et tip, som politiet havde modtaget, fortæller anklager i sagen Signe Møller Jensen, der også oplyser, at manden er varetægtsfængslet i fire uger. </p><p>På adressen blev også fundet to 3D-printede håndgranat-attrapper. Fordi det ikke var ægte håndgranater, indgår fundet ikke i sigtelsen og har ikke vakt bekymring hos politiet, lyder det. </p><p>Manden var sigtet efter paragraf 192a i Straffeloven om besiddelse af våben under særligt skærpende omstændigheder, som han erkendte. </p><p>Der blev under grundlovsforhøret, som foregik bag lukkede døre, nedlagt navneforbud. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/mand-faengsles-efter-fund-af-pistoler-og-ammunition-4c0b5",
+  "published": "Tue, 29 Sep 26 13:09:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/mand-faengsles-efter-fund-af-pistoler-og-ammunition-4c0b5",
   "category": "No category"
  },
  {
-  "title": "Politi søger hjælp efter indbrudsbølge",
-  "description": "<p>Over de seneste dage har lokalpolitiet i Himmerland registreret hele otte indbrud i et begrænset område af Aars.</p><p>Fremgangsmåden og tyvekosterne minder så meget om hinanden, at der ifølge politikommissær Thomas Klok kan være tale om samme gerningsmand eller gerningsmænd.</p><p>Ved indbruddene er vinduer enten smadret eller brudt op, og flere steder er der tegn på brug af koben. Syv af indbruddene er sket inden for en radius af to kilometer, mens det sidste er sket cirka otte kilometer derfra. Tyvekosterne er i de fleste tilfælde &#039;hurtigt omsættelige varer&#039; i form af smykker eller kontanter.</p> <p>På Brorsonsvej har der været to indbrud. Det ene skete klokken 04.18 natten til lørdag. En nabo så og anmeldte det, hvorfor tyven ikke fik meget med fra stedet. Det andet skete mellem tirsdag og søndag. </p><p>På Højtoften er der sket tre indbrud mellem torsdag og søndag. To af stederne er tyven sluppet afsted med kontanter, og alle tre steder er der stjålet smykker. </p><p>De tre øvrige indbrud er på Agertoften, Toftehaven og Birkevej. Alle tre skete fredag.</p><p>Der er lavet gerningsstedsundersøgelser på adresserne, så politiet har tekniske spor at gå efter, men politikommissæren beder også om hjælp fra borgere i området.</p><p>- Mange af vejene er tilkoblet et stisystem. Politiet vil meget gerne høre fra folk, der har videoovervågning i området. Har man det, kan man ringe på 114, siger Thomas Klok.</p>",
-  "link": "https://www.tv2nord.dk/vesthimmerland/politi-soger-hjaelp-efter-indbrudsbolge-a9795",
-  "published": "Tue, 29 Sep 26 09:11:00 +0200",
-  "guid": "https://www.tv2nord.dk/vesthimmerland/politi-soger-hjaelp-efter-indbrudsbolge-a9795",
+  "title": "Peter og Dorte har sat kendt Skagen-kro til salg",
+  "description": "<p>Der er Brøndums, der er Ruths og så er der Bodilles.</p><p>Mange vil allerede nu vide præcis, hvilken by der er tale om, for de tre steder er nærmest ikoniske for Skagen. Mens der har været flere historier på det seneste om <a href=\"https://www.tv2nord.dk/frederikshavn/hotelgigant-dropper-kob-af-historisk-skagen-hotel-a3703\">salg af Brøndums Hotel</a>, er en af de andre ikoner nu også til salg.</p><p>For Dorte og Peter, der ejer og har drevet Bodilles Kro i næsten 20 år, har sat den til salg. </p> <p>- Vi er nået en alder, hvor man skal til at kigge på sit CPR-nummer. Jeg bliver folkepensionist næste år, og vi ved godt, at det kan tage noget tid at sælge sådan en forretning, siger Peter Hansen.</p><p>Og det gør det. For de har tidligere solgt deres hotel, Hotel Strandly. Det tog 3,5 år at finde den rigtige køber.</p><p>Nu håber de, at det endnu en gang lykkes at finde den helt rigtige.</p><p>- Køberen af vores hotel har drevet det fantastisk videre og udviklet det. Så vi håber da, der sker noget af det samme, og at en køber vil passe godt på dem, vi har ansat, siger Peter Hansen.</p> <p>Kroen er sat til salg for 15 millioner kroner hos Nordicals. For den pris får man ikke bare ejendommen, men hele forretningen med igangværende aktiviteter, ordrebog og måske også de cirka otte ansatte. </p><p>- Det ideelle er at finde nogen, der vil drive virksomheden videre i samme ånd, men som sælger kan man ikke stille krav, siger den erfarne restauratør.</p><h2>Fra sikkerhed til krofatter</h2><p>Ægteparret drømmer nu om en hyggelig pensionisttilværelse med tid til deres første barnebarn, som kommer i slutningen af året.</p><p>De har i mange år haft en travl hverdag med mange arbejdstimer, hvor de i perioder har startet om morgenen klokken syv på hotellet og været færdige på kroen over midnat i en syvdages arbejdsuge. </p><p>Bodilles er kendt for klassisk mad og koncerter i gården. Stamgæsterne er kommet der i flere år og kommer fra hele Norden. Og for to år siden kunne kroen fejre 50-års fødselsdag. Siden 2007 har det været med Dorte Jensen og Peter Hansen i spidsen.</p><p><strong>Her kan du se, hvordan det så ud, da kroen fejrede 50 år:</strong></p> <p>Peter var ellers hverken nordjyde eller restauratør. Han kommer fra Hørsholm og arbejdede før i sikkerhedsbranchen i udlandet. Dorte er til gengæld vendelbo, og hun drev allerede Hotel Strandly med sin mor. Derfor besluttede parret sig i 2007 for at slå sig ned i Skagen og udvide forretningen. </p><p>- Jeg har altid holdt meget af musikarrangementerne. Og så møder man en masse søde og rare mennesker, og vi har mange stamgæster, der kommer år efter år, siger Peter, da han bliver spurgt til, hvad der har været det bedste ved at være kroejer.</p><h2>Det får du for 15 millioner</h2><p>Den klassiske gule kro ligger centralt i Skagen få skridt fra havnen. </p><p>Krostuerne, selskabslokalerne, det store køkken, baren og de mange opbevaringslokaler udgør i alt 598 kvadratmeter i tre plan. </p><p>Dertil kommer den særlige gårdhave, hvor der både under Skagen Festival og resten af sommeren er koncerter. I alt er grunden 798 kvadratmeter. </p><p><strong>Her kan du se nogle af billederne fra salgsopstillingen fra Nordicals:</strong></p> <p>Det er Tommy Kruse Fuglsang fra Nordicals, der skal forsøge at sælge den kendte kro.</p><p>- Det er en ganske særlig opgave. Det er i Skagen, det er unikt og en historisk og velrenommeret kro, så det er en spændende opgave. Vi skal finde den rigtige køber, siger mægleren.</p><p>Han kan både forestille sig, at køberen kunne være en allerede etableret i byen og en udefra, der kan se det unikke i muligheden for en ikonisk kro i Skagen med mange faste gæster.</p><p>Indtil det lykkes at finde den rigtige køber, fortsætter Dorte med at servere den berømte wienerschnitzel, og Peter kommer fortsat til at arrangere sommerkoncerter i gården. </p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/peter-og-dorte-har-sat-kendt-skagen-kro-til-salg-650d3",
+  "published": "Tue, 29 Sep 26 13:04:00 +0200",
+  "guid": "https://www.tv2nord.dk/frederikshavn/peter-og-dorte-har-sat-kendt-skagen-kro-til-salg-650d3",
   "category": "No category"
  },
  {
-  "title": "Temperaturen siger, at det er tid til vinterdæk",
-  "description": "<p>Næsten 290.000 personbiler er der ifølge Danmarks Statistik indregistreret i Nordjylland. Er du en af dem, der ejer en bil, skal du måske overveje snart at bestille tid til at få vinterdæk på.</p><p>Anbefalingen fra FDM er, at der skal vinterdæk på, når temperaturen bliver under syv grader. I morges var den flere steder i regionen lige på kanten af syv grader, og det stemmer godt overens med, at FDM foreslår dækskifte omkring oktober. </p><p>Sidste vinter blev det gjort ulovligt at køre med dæk, der er &#039;åbenbart uegnede&#039; til vejrforholdene. Det betyder, at man risikerer at få en bøde på 4000 kroner, hvis man ikke får skiftet til vinterdæk i tide. </p><p>Du kan læse mere <a href=\"https://www.tv2nord.dk/artikel/saa-er-det-nu-men-mange-faar-det-ikke-gjort\">HER</a>.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/temperaturen-siger-at-det-er-tid-til-vinterdaek-d1dad",
-  "published": "Tue, 29 Sep 26 08:52:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/temperaturen-siger-at-det-er-tid-til-vinterdaek-d1dad",
+  "title": "Mogens melder kommune til tilsyn efter 'hetz'",
+  "description": "<p>I alt modtog Frederikshavn Kommune 35 klager om støj i Skagen efter sommeren. 20 af dem kom fra Mogens Bandholm, der er redaktør på mediet Skagen Puls. </p><p>Men den viden mener redaktøren ikke skulle have været offentliggjort. Nu vil han melde kommunen til datatilsynet for brud på GDPR-lovgivningen. </p><p>- Jeg havde ikke troet, at en dansk kommune ville bruge sin hjemmeside og sine sociale medier til at udstille en enkelt borger, fordi han klager over manglende tilsyn, fortæller Mogens Bandholm. </p><p>I et udkast, som onsdag skal fremlægges for Udvalget for Plan, Miljø og Tilladelser i Frederikshavn Kommune, nævnes Skagen Puls som afsender af klagerne. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/mogens-melder-kommune-til-tilsyn-efter-hetz-74bd4",
+  "published": "Tue, 29 Sep 26 12:02:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/mogens-melder-kommune-til-tilsyn-efter-hetz-74bd4",
   "category": "No category"
  },
  {
-  "title": "Dropper rent drikkevand til kloakspul og brandslukning",
-  "description": "<p>Aalborg Forsyning er klar til at tage en helt ny tappestation i brug, som ellers kun findes ganske få steder i landet. </p><p>Tappestationen skal stoppe brugen af rent drikkevand til eksempelvis kloakspuling og brandslukning, og i stedet skal renset spildevand bruges til de opgaver:</p><p>- Drikkevandet vil vi gerne bruge til at drikke, så med den nye tappestation kan mange af vores store køretøjer fremover bruge spildevand i stedet for rent drikkevand. Det tapper de bare fra vores station, siger Vibeke Reimer Borregaard, der er afdelingsleder hos Renseanlæg Øst, Vandbehandling ved Aalborg Forsyning.</p><p>Med den nye tappestation vurderer Aalborg Forsyning, at de sparer omkring 10.000 kubikmeter rent drikkevand årligt.</p><p><strong>Læs mere her:</strong></p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/dropper-rent-drikkevand-til-kloakspul-og-brandslukning-eea13",
-  "published": "Tue, 29 Sep 26 08:40:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/dropper-rent-drikkevand-til-kloakspul-og-brandslukning-eea13",
+  "title": "Nu vil han melde kommunen til tilsyn",
+  "description": "<p><em>Opdateret 12.57: TV2 Nord har forholdt professor på juridisk afdeling, hvorvidt offentliggørelsen af klagerne strider med GDPR-lovgivningen. </em></p><p>Overholdt Frederikshavn Kommune GDPR-lovgivningen, da de for nogle dage siden offentliggjorde, at størstedelen af de 35 støjklager, der er kommet i Skagen, er fra samme afsender? </p><p>Det satte <a href=\"https://www.tv2nord.dk/frederikshavn/det-var-maske-ikke-det-smarteste-6c704\" target=\"_blank\">Allan Brink Jakobsen</a> søndag spørgsmålstegn ved. </p><p>Nu står afsenderen bag 20 af de 35 klager selv frem og mener, at kommunen har udstillet ham med vilje. </p><p>- Jeg havde ikke troet, at en dansk kommune ville bruge sin hjemmeside og sine sociale medier til at udstille en enkelt borger, fordi han klager over manglende tilsyn, fortæller Mogens Bandholm, der er redaktør for Skagen Puls, hvor de 20 klager er sendt fra.</p> <p>I udkastet, som onsdag skal fremlægges for Udvalget for Plan, Miljø og Tilladelser i Frederikshavn Kommune, nævnes Skagen Puls nemlig som afsender af klagerne, og det har fået kritikken til at falde over Mogens Bandholm. </p><p>- Det er en meget stor belastning. Ikke kun for mig, men for min familie, siger Mogens Bandholm, der frygter, at det kan få andre til at afholde sig fra at indsende klager, hvis der er en risiko for, at klagerne bliver offentliggjort. </p> <h2>Kritik af kommunen</h2><p>Mogens Bandholm understreger, at hans kritik ikke er rettet mod restauratørerne i byen, men i stedet er det kommunen, som skagboen mener har fejlet. </p><p>Blandt andet fordi tilladelserne er givet af kommunens forvaltning og byråd. </p><p>- Kritikken er rettet mod kommunen. Når den tillader musik i det offentlige rum uden grænser og uden kontrol, er det efter vores vurdering i strid med miljøbeskyttelsesloven, slår Mogens Bandholm og Skagen Puls fast. </p><p>- Det svarer til, at kommunen fjernede fartgrænserne på de kommunale veje og kun ville gribe ind, hvis nogen klagede.</p> <p>Men at kommunen bevidst skulle have udstillet Mogens Bandholm, afviser formand for Udvalget for Plan, MIljø og Tilladelser, Jens Nygaard (DD), brat. </p><p>- Jeg kan 100 procent sige, at det har de ikke. Man kan sige meget om kommunen og dens administration, men de varetager deres opgave neutralt, og jeg har aldrig nogensinde oplevet en kommunal medarbejder tage parti eller bruge sin personlige holdning i sit arbejde. </p><p>- Jeg holder fast i, at vi har ytringsfrihed i Danmark, men hvis man ytrer sig om nogle ting, der går imod folkemængden, skal man være forberedt på, at man møder lidt modstand. Sådan gælder det for alle i Danmark, om det er positivt eller negativt, siger han til TV2 Nord og henviser til <a href=\"https://www.tv2nord.dk/frederikshavn/det-var-maske-ikke-det-smarteste-6c704\">sine tidligere udtalelser i sagen. </a></p> <h2>Vil melde kommunen til tilsyn</h2><p>De 20 klager fra Skagen Puls kom alle i juli. Her sendte Skagen Puls en klage næsten hver dag. Ifølge Mogens Bandholm som &#039;en demonstration mod kommunens passivitet&#039;. </p><p>Men at kommunen nu har offentliggjort information om, at den samme person står bag størstedelen af de 35 klager, strider med GDPR-lovgivningen, mener Mogens Bandholm.</p><p>Derfor har han nu tænkt sig at skrive til Datatilsynet, som håndterer sager om overtrædelser af GDPR-lovgivningen.</p> <p>Det er dog ikke noget, der bekymrer udvalgsformanden. </p><p>- Han skal være så hjertelig velkommen. Hvis han får en bedre nattesøvn ved at gøre det, så skal han have lov til det. Vi har forskellige klageinstanser i Danmark, og hvis han føler, han bliver trådt på, så skal han bare gøre det. </p><p>Det er ikke første gang, at Mogens Bandholm har klaget over støjen i Skagen. </p><p><a href=\"https://www.tv2nord.dk/frederikshavn/mogens-fik-ret-i-stojsag-men-arelang-kamp-har-haft-en-pris\">I 2024 fik han ret i en klage</a> over støjen mod Frederikshavn Kommune efter en syv års kamp. </p><p>Plan- og Miljøudvalget i Frederikshavn Kommune<a href=\"https://www.tv2nord.dk/frederikshavn/det-er-en-pis-sag\"> erkendte, at lovgivningen på området ikke var blevet fulgt </a>og ændrede derfor praksis.</p><p><strong>Se indslaget fra dengang her: </strong></p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/nu-vil-han-melde-kommunen-til-tilsyn-60b0f",
+  "published": "Tue, 29 Sep 26 12:00:00 +0200",
+  "guid": "https://www.tv2nord.dk/frederikshavn/nu-vil-han-melde-kommunen-til-tilsyn-60b0f",
   "category": "No category"
  },
  {
-  "title": "Mandag var det Nibe - nu gæster Helmig endnu en nordjysk by",
-  "description": "<p>Op mod 15.000 gæster kan næste år glæde sig over, at Thomas Helmig indtager scenen på Thy Rock 2027. Det skriver festivalen i en pressemeddelelse.</p><p>Mandag kunne Nibe Festival melde ud, at Helmig er første navn på deres 2027-plakat, og kort tid efter fulgte nyheden så fra Thy Rock. </p><p>Udover Danmarks ukronede popkonge kan Thy Rock også afsløre, at Folkeklubben, Patina og Østen skal optræde på næstes års festival.</p><p>Thy Rock drives af otte lokale sportsforeninger og finder sted på Dyreskuepladsen i Thisted sidst i juni 2027.</p>",
-  "link": "https://www.tv2nord.dk/thisted/mandag-var-det-nibe-nu-gaester-helmig-endnu-en-nordjysk-by-15d20",
-  "published": "Tue, 29 Sep 26 08:33:00 +0200",
-  "guid": "https://www.tv2nord.dk/thisted/mandag-var-det-nibe-nu-gaester-helmig-endnu-en-nordjysk-by-15d20",
+  "title": "Færøsk stjerne hentes til Aalborg",
+  "description": "<p>Aalborg Håndbold henter færøske Elias Ellefsen á Skipagøtu som erstatning for tyske Juri Knorr. </p><p>24-årige Skipagøtu kommer i sommeren 2027 på en fire-årig kontrakt. Det skriver Aalborg Håndbold i en pressemeddelelse. </p><p>- Aalborg er uden tvivl den største og mest veldrevne klub i Norden, hvilket naturligvis var attraktivt for mig at blive en del af. Derfor var det også min første prioritet da muligheden for et skifte opstod, siger Elias Ellefsen á Skipagøtu selv til skiftet. </p><p>Færingen bliver hentet på en fri transfer.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/faerosk-verdensstjerne-hentes-til-aalborg-010b3",
+  "published": "Tue, 29 Sep 26 11:23:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/faerosk-verdensstjerne-hentes-til-aalborg-010b3",
   "category": "No category"
  },
  {
-  "title": "Ikke alle får det gjort, men det kan være dyrt at lade være",
-  "description": "<p>Næsten 290.000 personbiler er der ifølge Danmarks Statistik indregistreret i Nordjylland. Er du en af dem, der ejer en bil, skal du måske overveje snart at bestille tid til at få vinterdæk på.</p><p>Anbefalingen fra FDM er, at der skal vinterdæk på, når temperaturen bliver under syv grader. I morges var den flere steder i regionen lige på kanten af syv grader, og det stemmer godt overens med, at FDM foreslår dækskifte omkring oktober. </p><p>Heldigvis lader det også til, at de fleste er opmærksomme op dækskifte - der er dog fortsat enkelte, der ikke får det gjort.</p><p>Da Rådet for Større Dæksikkerhed gennemførte deres årlige dæktælling i januar 2026, var kun fire procent af bilerne nemlig på sommerdæk. Det er historisk lavt, skriver GF Forsikring i en pressemeddelelse. </p> <p>Det hænger måske sammen med, at det sidste vinter blev ulovligt at køre med dæk, der er &#039;åbenbart uegnede&#039; til vejrforholdene. Det betyder, at man risikerer at få en bøde på 4000 kroner, hvis man ikke får skiftet til vinterdæk i tide. </p><p>- Her i Nordjylland kører vi en del i bil, og til tider er vi mange på vejene på samme tid. Så meget desto vigtigere er det, at vi færdes så sikkert som muligt og passer på hinanden. Det involverer det rigtige udstyr på bilen, og her er dækkene altså helt essentielle. Mit bedste råd til de glemsomme er, at man kan arrangere en fast aftale med sit værksted, så kalenderen automatisk hjælper med at huske på, at dækkene skal skiftes. De fleste vælger at huske på det selv, men den slags kan jo nemt fortrænges i en travl hverdag, siger Mette Langagergaard, direktør for GF Aalborg.</p><p><strong>Her kan du se, hvordan det gik TV2 Nords reporter, der i 2023 kørte glatbane på sommerdæk:</strong></p> <p>Tommelfingerreglen er, at du kan skifte tilbage til sommerdæk, når temperaturen igen er over syv grader efter vinteren.</p>",
-  "link": "https://www.tv2nord.dk/nordjylland/ikke-alle-far-det-gjort-men-det-kan-vaere-dyrt-at-lade-vaere-875c9",
-  "published": "Tue, 29 Sep 26 08:10:00 +0200",
-  "guid": "https://www.tv2nord.dk/nordjylland/ikke-alle-far-det-gjort-men-det-kan-vaere-dyrt-at-lade-vaere-875c9",
+  "title": "Aalborg henter færøsk stjerne efter afsked til tysker",
+  "description": "<p>Mandag meldte Aalborg ud, at de <a href=\"https://aalborghaandbold.dk/aalborg-haandbold-saelger-juri-knorr/\">solgte tyske Juri Knorr på en historisk stor transfer. </a>Nu er hans afløser også offentliggjort. </p><p>Det bliver færøske Elias Ellefsen á Skipagøtu, som kommer til det nordjyske fra den tyske storklub THW Kiel. Det skriver Aalborg Håndbold i en pressemeddelelse. </p><p>24-årige Skipagøtu kommer i sommeren 2027 på en fire-årig kontrakt. </p><p>- Med Elias på holdkortet får vi tilført en spiller i verdensklasse, der de seneste sæsoner har været omdrejningspunktet i THW Kiel og succeshistorien på det færøske landshold. Hans teknik, spilforståelse og duelspil er nogle af hans mange forcer, ligesom han trods sin alder, flere gange har vist at han ikke er bange for at tage ansvar i afgørende situationer, siger Aalborg Håndbolds teammanager Martin Larsen.</p> <p>Elias Ellefsen á Skipagøtu er en af de største profiler på det færøske landshold, der de seneste par år har vist sig frem på den helt store scene. </p><p>I 2024 blev han af det internationale håndboldforbund IFH kåret til &#039;<em>young player of the year</em>&#039;, mens han i sidste sæson blev topscorer for THW Kiel med 150 mål i 22 ligakampe og en plads på årets hold i Bundesligaen som bedste playmaker. </p> <p>Selv siger han om skiftet: </p><p>- Aalborg er uden tvivl den største og mest veldrevne klub i Norden, hvilket naturligvis var attraktivt for mig at blive en del af. Derfor var det også min første prioritet da muligheden for et skifte opstod.</p><p>Færingen bliver hentet på en fri transfer. </p>",
+  "link": "https://www.tv2nord.dk/aalborg/aalborg-henter-faerosk-stjerne-efter-afsked-til-tysker-0ac3b",
+  "published": "Tue, 29 Sep 26 11:02:00 +0200",
+  "guid": "https://www.tv2nord.dk/aalborg/aalborg-henter-faerosk-stjerne-efter-afsked-til-tysker-0ac3b",
   "category": "No category"
  },
  {
-  "title": "Forsvaret tester kæmpedroner på størrelse med fly langs kysten i dag",
-  "description": "<p>Forsvaret er i fuld gang med at gøre klar til et af Danmarks tungeste våben til overvågning af russiske krigsskibe.</p><p>Og i dag skal myndighederne træne evnen til at samarbejde, når tysk forsvar sender en af deres store overvågningsdroner op langs Jyllands kyster. En drone med et vingefang på 26 meter, der svarer til et fly med plads til 80 passagerer.</p><p>Der er indkøbt i alt fire af de såkaldte MQ-9B-droner, som skal være operative fra 2028.</p><p>De nye kæmpedroner skal have base i Nordjylland.</p><p>Læs mere <a href=\"https://www.tv2nord.dk/aalborg/forsvaret-tester-kaempedroner-langs-kysten-i-dag-55681\">HER</a>.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/forsvaret-tester-kaempedroner-pa-storrelse-med-fly-langs-kysten-i-dag-73bc6",
-  "published": "Tue, 29 Sep 26 07:46:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/forsvaret-tester-kaempedroner-pa-storrelse-med-fly-langs-kysten-i-dag-73bc6",
+  "title": "Tysk stjerne med følelsesladet besked til fans inden exit",
+  "description": "<p>&#039;Jeg kan godt forstå, hvis ikke alle forstår, hvorfor jeg forlader Aalborg nu. Og det forventer jeg heller ikke.&#039; </p><p>Sådan starter den tyske stjerne Juri Knorr et opslag på <a href=\"https://www.instagram.com/p/Dd1aMs6DD9f/?utm_source=ig_web_copy_link&amp;stkn=MzRlODBiNWFlZA==\">Instagram</a>, efter det mandag kom frem, at han fra næste sommer skifter til franske Paris-Saint Germain på den største transfer i Aalborg Håndbolds historie. </p><p>Juri Knorrs kontrakt i Aalborg løb ellers til sommeren 2028, men ifølge teammanager i Aalborg Håndbold, Martin Larsen, ønskede tyskeren selv at fortsætte sin karriere i Paris før tid. </p><p>Skiftet bliver dog først til næste sommer. Først skal tyskeren være med til at se, om Aalborg Håndbold kan vinde DM igen og nå det eftertragtede Final4 i Køln i Champions League. </p><p>&#039;Trods alt vil jeg sige tak til alle som har hjulpet mig så meget i min tid her i klubben. Jeg er virkelig stolt over at være en del af den store klub,&#039; skriver han til sine fans. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/tysk-stjerne-med-folelsesladet-besked-til-fans-inden-exit-5c9ca",
+  "published": "Tue, 29 Sep 26 10:44:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/tysk-stjerne-med-folelsesladet-besked-til-fans-inden-exit-5c9ca",
   "category": "No category"
  },
  {
-  "title": "Forsvaret tester kæmpedroner langs kysten i dag",
-  "description": "<p>Forsvaret er i fuld gang med at gøre klar til et af Danmarks tungeste våben til overvågning af russiske krigsskibe.</p><p>Og i dag skal myndighederne træne evnen til at samarbejde, når tysk forsvar sender en af deres store overvågningsdroner op langs Jyllands kyster. En drone med et vingefang på 26 meter, der svarer til et fly med plads til 80 passagerer.</p><p>Med den forskel, at her er der kun kameraer og overvågningsudstyr ombord, mens piloten sidder i Tyskland.</p> <p>- Testflyvningen er endnu et vigtigt skridt mod, at vi modtager vores egne ubemandede fly i de kommende år, lyder det i en pressemeddelelse fra brigadegeneral Hans Peter Andersen, der er vicechef for Flyverkommandoen.</p><p>Han skal efter planen følge dagens testflyvning fra et af Forsvarets Challenger-fly, mens teknikere i Naviair følger med på skærme i Københavns Lufthavn, og Trafikstyrelsen er inde over i tilfælde af, at noget går galt.</p> <p>- Det betyder, at vi har kontrolleret, at der er styr på alle de procedurer, der skal sørge for en sikker navigation i forhold til andre luftfartøjer i luftrummet, lyder det fra kontorchef Signe Finderup, der tilføjer, at det også gælder &quot;hvis man undervejs skulle miste styringen eller radioforbindelsen&quot; til dronen.</p><h2>Stor udvidelse af Flyvestation Aalborg</h2><p>Der er indkøbt i alt fire af de såkaldte MQ-9B-droner, som skal være operative fra 2028.</p><p>Prisen løber ifølge TV 2s oplysninger op på cirka fire milliarder kroner. Dertil kommer en større udvidelse af Flyvestation Aalborg, hvor de får base.</p> <p>Her er man i fuld gang med at bygge kontrolstationer og hangarer og hyre op mod 100 nye ansatte, mens dronepiloter bliver trænet i USA og Storbritannien.</p><h2>Trumps trusler satte fart på indkøb</h2><p>Indkøbet af langtrækkende droner til Arktis hænger tæt sammen med USA&#039;s præsident Donald Trumps trusler og kritik af, at Danmark ikke har styr på sikkerheden i Grønland.</p><p>Beslutningen blev første gang truffet i 2021 i kølvandet på Trumps tilbud om at købe Grønland. Dengang blev der afsat for få penge til indkøbet, som trak ud i årevis, og til sidst blev opgivet.</p> <p>I takt med Trumps trusler om at overtage Grønland tog fart og især efter &#039;køb-køb-køb-pressemødet&#039;, hvor regeringen i februar 2025 fik oprustningsmilliarderne til at rulle, kom der tempo på indkøbet af langtrækkende droner.</p><p>Men alt i alt kommer der altså til at gå mindst syv år fra den oprindelige beslutning blev truffet, og til Danmark lever op til det centrale styrkemål fra NATO om at holde øje med russiske skibe i Nordatlanten og farvandet øst for Grønland.</p><h2>Kritik af langsommelighed</h2><p>- Det har været en dybt kritisabel proces, som mere end noget andet viser, hvor langsomt det er gået med at investere i Forsvaret i Arktis, siger selvstændig forsvarsanalytiker Hans-Peter Michaelsen.</p><p>Lektor på Forsvarsakademiet Peter Viggo Jakobsen er enig.</p><p>- Det er selvfølgelig godt, at der nu endelig sker noget. Men det er på alle måder utilfredsstillende, at der er gået så lang tid, siger han.</p><p>Dronerne skal især overvåge det såkaldte GIUK-gab mellem Grønland, Island og Storbritannien, hvor russiske krigsskibe fra Nordflåden sejler ud mod Atlanterhavet.</p> <p>Sideløbende er Forsvaret også i gang med at indkøbe de bemandede P-8-overvågningsfly, der kan jagte ubåde i samme farvand.</p><p>- De her indkøb har både en politisk værdi i forhold til at signalere til USA og resten af verden, at vi tager forsvaret af Grønland og Arktis alvorligt, siger Peter Viggo Jakobsen og fortsætter:</p><p>- Og så er de en vigtig operativ kapacitet, som også kan bruges i Østersøen. Hvis nu det viser sig, at der ikke er helt så mange russiske krigsskibe oppe omkring Grønland, som Trump forestiller sig.</p><p>Udover Danmark har Storbritannien, Belgien, Polen, Tyskland og Canada købt MQ-9B-droner.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/forsvaret-tester-kaempedroner-langs-kysten-i-dag-55681",
-  "published": "Tue, 29 Sep 26 07:21:00 +0200",
-  "guid": "https://www.tv2nord.dk/aalborg/forsvaret-tester-kaempedroner-langs-kysten-i-dag-55681",
+  "title": "To nye uddannelser kan være på vej i Hjørring - afventer ministers svar",
+  "description": "<p>Professionshøjskolen UCN åbner to nye uddannelser i Hjørring, hvis uddannelsesministeren, Christina Egelund (M), godkender UCN&#039;s ansøgning.</p><p>Det drejer sig om uddannelserne til finansøkonom og bygningskonstruktør.</p><p>Borgmester i Hjørring Kommune, Søren Smalbro, peger på, at uddannelserne matcher nogle konkrete behov i området, og at han derfor forventer, at ansøgningerne bliver godkendt til december.</p><p>- Det her handler om hele Vendsyssel og vores muligheder for fortsat udvikling og vækst. Vi får mulighed for at styrke Hjørring som studieby og bygge videre på det stærke campusmiljø, vi allerede har, siger han.</p> <h2>60 nye studiepladser</h2><p>UCN skriver selv i en pressemeddelelse, at det er et stigende behov for kvalificeret arbejdskraft i Vendsyssel, der nu har fået professionshøjskolen til at søge om at oprette de to nye uddannelser i Hjørring.</p><p>- Både i byggebranchen og den finansielle sektor er der mangel på kvalificerede medarbejdere, og mange peger på, at et lokalt uddannelsesudbud kan være med til både at styrke rekrutteringen og fastholde flere unge i området, fortæller Kristina Kristoffersen, der er rektor på Professionshøjskolen UCN.</p><p>Kristina Kristoffersen peger desuden på, at UCN oplever stor opbakning fra virksomheder og organisationer i området.</p> <p>Hvis planerne om de to nye uddannelser lykkes, kan de to uddannelser optage i alt 60 nye studerende årligt, da der er plads til 30 på hver.</p><p>Det er planen, at de nye studier skal placeres ved det eksisterende studiemiljø på Campus Skolevangen.</p><p>Her har UCN allerede flere uddannelser såsom sygeplejerske-, lære-, pædagog- og bioanalytikeruddannelsen.</p><p>- Det giver os nogle rigtig gode forudsætninger for at skabe attraktive uddannelsesmiljøer i Hjørring, siger Kristina Kristoffersen.</p><p>UCN har allerede i flere år tilbudt de samme uddannelser, men hidtil kun i Aalborg og dels i Thisted.</p><p>Professionshøjskolen håber, at de første studerende allerede kan gå i gang næste sommer, hvis uddannelserne bliver godkendt.</p>",
+  "link": "https://www.tv2nord.dk/hjoerring/to-nye-uddannelser-kan-vaere-pa-vej-i-hjorring-nu-afventer-de-ministers-godkendelse-8c279",
+  "published": "Tue, 29 Sep 26 10:11:00 +0200",
+  "guid": "https://www.tv2nord.dk/hjoerring/to-nye-uddannelser-kan-vaere-pa-vej-i-hjorring-nu-afventer-de-ministers-godkendelse-8c279",
   "category": "No category"
  },
  {
-  "title": "Her kan du få de sjældne glimt af solen i dag",
-  "description": "<p>Efter et par lune og solrige dage ser det ud til, at vi må kigge langt efter solen tirsdag.</p><p>Dagen er startet tåget ud, men når solen står op klokken 07.19, er det muligt, at du kan nå at få et glimt af den, inden skyerne for alvor dækker himlen. Prognoserne viser nemlig en temmelig overskyet dag, helt indtil klokken igen nærmer sig syv i aften. Solen går ned på slaget 19, og lige inden bliver der forventeligt endnu en mulighed for at se et par solstråler. Mulighederne for at se sol er bedst længst mod nord.</p><p>Med skyerne kan der også komme byger fra først på formiddagen sydfra. Temperaturen topper omkring 15 til 16 grader, og på Læsø kan der være op til 17 grader.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/her-kan-du-fa-de-sjaeldne-glimt-af-solen-i-dag-17102",
-  "published": "Tue, 29 Sep 26 06:42:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/her-kan-du-fa-de-sjaeldne-glimt-af-solen-i-dag-17102",
-  "category": "No category"
+  "title": "Forlod budgetforhandlinger i protest: Nyt forslag skal redde børnehave og skole fra lukning",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/morsoe/forlod-budgetforhandlinger-i-protest-nyt-forslag-skal-redde-boernehave-og-skole-fra-lukning/6192579?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 29 Sep 2026 14:00:52 Z",
+  "guid": "c9ea7233-47af-41c2-bf3a-9859cb399ed8",
+  "category": "Hvem skal have pengene?"
+ },
+ {
+  "title": "Peter Viggo Jakobsen: Fabrikken i Elling er ikke i stor risiko for angreb",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/hjoerring/peter-viggo-jakobsen-fabrikken-i-elling-er-ikke-i-stor-risiko-for-angreb/6191936?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 29 Sep 2026 13:30:46 Z",
+  "guid": "abea4a2f-9f9b-47b3-05fc-08df1be673bf",
+  "category": "Elling"
  },
  {
   "title": "Her står lastbiltrailere parkeret side om side. Det var slet ikke meningen",
@@ -257,6 +274,30 @@
   "published": "Tue, 29 Sep 2026 03:12:47 Z",
   "guid": "edc88da9-b162-4d60-9fbc-4ccf4732d7b8",
   "category": "Erhverv"
+ },
+ {
+  "title": "Nordjyske mener: Vi har gjort landbruget fantastisk effektivt. Det har haft en overset bivirkning",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/nordjyske-mener-vi-har-gjort-landbruget-fantastisk-effektivt-det-har-haft-en-overset-bivirkning/6170595?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 29 Sep 2026 09:02:45 Z",
+  "guid": "bae0e92d-5d29-4fca-b7bc-a6a3efe13747",
+  "category": "Nordjyske mener"
+ },
+ {
+  "title": "Kunstglade Gjøl er Jammerbugts kulturhovedstad",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/jammerbugt/kunstglade-gjoel-er-jammerbugts-kulturhovedstad/6189787?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 29 Sep 2026 13:00:50 Z",
+  "guid": "fd24dfe4-5716-4d92-05e8-08df1be673bf",
+  "category": "Gjøl"
+ },
+ {
+  "title": "Skipagøtu skifter til Aalborg Håndbold",
+  "description": "I næste sæson kan danske håndboldfans se frem til at se Elias Ellefsen á Skipagøtu tørne ud for Aalborg Håndbold. Playmakeren kommer til Aalborg fra den tyske storklub, THW Kiel.",
+  "link": "https://nordjyske.dk/nyheder/sport/skipagoetu-skifter-til-aalborg-haandbold/6192362?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 29 Sep 2026 09:01:58 Z",
+  "guid": "54003b65-0f35-45b1-96fc-aaa85c9cfec6",
+  "category": "Aalborg Håndbold"
  },
  {
   "title": "Planen var at flytte det hele til Gistrup - nu kan Sygehus Syd blive ved med at være hospital",
@@ -273,6 +314,14 @@
   "published": "Tue, 29 Sep 2026 03:16:49 Z",
   "guid": "b95a5a58-2096-4353-9cca-cd0792cdc67d",
   "category": "Hvem skal have pengene?"
+ },
+ {
+  "title": "Hård test for AaB i landsholdspause: Se med direkte på nordjyske.dk",
+  "description": "Cheftræner Steffen Højer sender sine spillere i kamp fredag eftermiddag mod Randers FC. Vi livestreamer kampen her på nordjyske.dk",
+  "link": "https://nordjyske.dk/nyheder/sport/haard-test-for-aab-i-landsholdspause-se-med-direkte-paa-nordjyske-dk/6192670?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 29 Sep 2026 10:21:31 Z",
+  "guid": "af164cf9-c24b-47dc-9562-77cd4e458c3e",
+  "category": "AaB"
  },
  {
   "title": "Modne mænd mødes om modeltog: - Vi er her mest for legens skyld",
@@ -355,59 +404,11 @@
   "category": "Thisted"
  },
  {
-  "title": "Guldvindere genforenet i omfattende genopbygning",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/sport/guldvindere-genforenet-i-omfattende-genopbygning/6185062?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 28 Sep 2026 03:02:48 Z",
-  "guid": "9370f089-abdd-4416-b92f-e21e6621f548",
-  "category": "AaB"
- },
- {
-  "title": "De har brugt seks år på at flytte en hospitalsafdeling. Nu begynder næste store ledelsesopgave",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/de-har-brugt-seks-aar-paa-at-flytte-en-hospitalsafdeling-nu-begynder-naeste-store-ledelsesopgave/6175313?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 27 Sep 2026 03:16:55 Z",
-  "guid": "96c7ec87-e12e-46bc-8e52-dbc1c18dd34a",
-  "category": "Erhverv"
- },
- {
-  "title": "Efter 30 år fik Rikke et ”væmmeligt spørgsmål” af sin mand: Det ændrede hendes arbejdsliv",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/frederikshavn/efter-30-aar-fik-rikke-et-vaemmeligt-spoergsmaal-af-sin-mand-det-aendrede-hendes-arbejdsliv/6188572?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 27 Sep 2026 13:01:51 Z",
-  "guid": "86899c9b-ed5f-49c4-c45c-08df187e224e",
-  "category": "Skagen"
- },
- {
-  "title": "Tina fik at vide, at kvinder ikke hørte til i køkkenet: Nu vil hun vise sit værd på tv",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/aalborg/tina-fik-at-vide-at-kvinder-ikke-hoerte-til-i-koekkenet-nu-vil-hun-vise-sit-vaerd-paa-tv/6182681?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 28 Sep 2026 02:56:47 Z",
-  "guid": "929ba539-87d4-4084-b21b-9f8077684611",
-  "category": "Aalborg"
- },
- {
-  "title": "Zinck har sagt op: Har siddet på AaB-bænken for sidste gang",
-  "description": "AaB's assistenttræner Bo Zinck siger stop men skal arbejde for klubben frem til årsskiftet",
-  "link": "https://nordjyske.dk/nyheder/sport/zinck-har-sagt-op-har-siddet-paa-aab-baenken-for-sidste-gang/6189885?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 27 Sep 2026 14:35:50 Z",
-  "guid": "d185bfc7-2e86-41ec-a164-2a9aa3ecaff2",
-  "category": "AaB"
- },
- {
-  "title": "Nordjyske mener: Ét ord kan ændre måden, vi ser et menneske på - og det blik bør vi udfordre",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/nordjyske-mener-t-ord-kan-aendre-maaden-vi-ser-et-menneske-paa-og-det-blik-boer-vi-udfordre/6187081?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 27 Sep 2026 09:31:45 Z",
-  "guid": "8e11a0bb-7f59-4bb7-be8c-067333dcbf5d",
-  "category": "Nordjyske mener"
- },
- {
-  "title": "Jørgen har skabt et fælleskab for sure gamle mænd: - Det lever i høj grad op til formålet",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/mariagerfjord/joergen-har-skabt-et-faelleskab-for-sure-gamle-maend-det-lever-i-hoej-grad-op-til-formaalet/6188509?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Sun, 27 Sep 2026 09:02:45 Z",
-  "guid": "5a70b54e-a5ce-4ee1-1daa-08de6efc5c0a",
-  "category": "Ertebølle"
+  "title": "AaB-overblik: Würtz tager ledig plads",
+  "description": "Få overblikket over de vigtigste AaB-nyheder",
+  "link": "https://nordjyske.dk/nyheder/sport/aab-overblik-faa-seneste-nyt-her/6007256?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 22 Apr 2026 07:27:27 Z",
+  "guid": "114fe8e9-35ae-4da8-b642-4f6bc42ab648",
+  "category": "AaB-blog"
  }
 ]
