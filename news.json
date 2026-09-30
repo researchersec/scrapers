@@ -1,5 +1,22 @@
 [
  {
+  "title": "Ny stald til forsøg på dyr åbnet i Aalborg",
+  "description": "Forskningsstalden er større end den gamle, og derfor er forholdene for dyrene og forskerne forbedret, lover laboratorielederen.",
+  "link": "https://www.dr.dk/nyheder/indland/ny-stald-til-forsoeg-paa-dyr-aabnet-i-aalborg",
+  "published": "Wed, 30 Sep 2026 12:18:00 GMT",
+  "guid": "urn:dr:umbraco:article:f3f00e2c-f51f-4ecf-af85-9490c30ab666",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/tx2igymk/image00005_crop001.jpeg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
+  "title": "'En skændsel!' Hanne frygter, at naboen sprænger i luften",
+  "description": "No description",
+  "link": "https://www.dr.dk/nyheder/indland/reels/en-skaendsel-hanne-frygter-naboen-springer-i-luften",
+  "published": "Wed, 30 Sep 2026 11:49:59 GMT",
+  "guid": "urn:dr:umbraco:reel:4735a2c4-669d-419f-9248-356ebf349a82",
+  "category": "No category"
+ },
+ {
   "title": "Naboer til krudtfabrik: 'Hvis det er for farligt til en børnehave – hvorfor må vores børn så bo her?'",
   "description": "Familier tæt på kommende ammunitionsfabrik kritiserer staten for manglende information om deres sikkerhed og fremtid.",
   "link": "https://www.dr.dk/nyheder/naboer-til-krudtfabrik-hvis-det-er-farligt-til-en-boernehave-hvorfor-maa-vores-boern-saa-bo-her",
@@ -156,106 +173,112 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/xdjhqr10/fest-i-skoven.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Anmeldte butikstyverier på 'himmelflugt'. Nu har by fået nok",
-  "description": "Nordjysk Handelstandsforening hyrer ekspert til at ruste de handlende mod tyverier. På syv år er antallet af anmeldte butikstyverier steget med 62 procent.",
-  "link": "https://www.dr.dk/nyheder/indland/anmeldte-butikstyverier-paa-himmelflugt-nu-har-faaet-nok",
-  "published": "Thu, 17 Sep 2026 10:58:00 GMT",
-  "guid": "urn:dr:umbraco:article:a6e8a78e-897e-4785-a187-5eead649c8da",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/31qpfbqk/erqw3werfwe.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
- },
- {
-  "title": "'Tæt på historisk god aftale': Nu skal de rekordlange ventelister barberes ned",
-  "description": "Samtlige partier i Region Nordjylland er blevet enige om et budget for næste år. Ifølge politikerne er det nu for alvor muligt at gøre noget ved det pressede sundhedsvæsen.",
-  "link": "https://www.dr.dk/nyheder/indland/taet-paa-historisk-god-aftale-nu-skal-de-rekordlange-ventelister-barberes-ned",
-  "published": "Wed, 16 Sep 2026 13:20:00 GMT",
-  "guid": "urn:dr:umbraco:article:c4604f5c-05ec-4828-8352-30f444496cf0",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/uc4m3vhu/20250525-120351-l-1920x1279web.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
- },
- {
-  "title": "Morsingboer tager til Christiansborg for at kæmpe for færgen",
-  "description": "<p>Frank Koldsgaard frygter, at folk vælger hans lokalområde fra, hvis omstridt færge forsvinder. Derfor drager han onsdag til Christiansborg for at få politikerne i tale.</p><p>Der skal handling bag ordene, når der snakkes om at skabe et Danmark i balance.</p><p>Det mener Frank Koldsgaard, der er formand for Støtteforeningen Hannæs-Østerild, og derfor tager han i dag onsdag fra sit hjem i Frøstrup til København for at kæmpe for at bevare den omdiskuterede Feggesundfærge, der på fem minutter forbinder Hannæs i Thisted Kommune med Mors.</p><p>- Færgen er vigtig for lokaludviklingen for både Thy og Mors. Hver gang man mister noget i landdistrikterne, mister man lysten til at bo på landet. Og det dur simpelthen ikke, siger Frank Koldsgaard.</p><p>Sammen med en mindre delegation fra Thy og Mors skal han mødes med Folketingets Indenrigs-, Bolig og Landdistriktsudvalg i håbet om at få Feggesundfærgen og landets otte øvrige såkaldte genvejsfærger på finansloven.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/morsoe/morsingboer-tager-til-christiansborg-for-at-kaempe-for-faergen-b76dd",
-  "published": "Wed, 30 Sep 26 07:54:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/morsoe/morsingboer-tager-til-christiansborg-for-at-kaempe-for-faergen-b76dd",
+  "title": "Ammunitionsproducent reklamerer på brystet af lokale håndboldkvinder",
+  "description": "<p>Når damerne fra SEIF&#039;s tredjedivisionshold i denne sæson løber på banen, vil det være med to nye sponsorer på trøjen.</p><p>Og den ene af dem, er der nok mange, der vil mene, er en kende kontroversiel. Her er det ikke ny-sponsor Fjordbak og Byg, der tænkes på, men ammunitionsproducenten Nammo.</p><p>Det er dem, der skal i gang med at producere krudt og kugler i Elling med forventet opstart i sommeren 27&#039;.</p> <p>Sponsoraftalen er en proces, der startede allerede sidste år, og hvor underskriften enten blev sat i slutningen af 2025 eller starten af 2026, fortæller klubbens kasserer, Christian Bang.</p><p>- Vi offentliggør det bare først nu, fordi sæsonen starter nu, fortæller kassereren.</p><h2>Kontroversielt?</h2><p>Det var i marts 2023, at regeringen første gang åbnede for, at der igen skulle produceres krudt og kugler i den gamle ammunitionsfabrik i Elling. Og godt tre år senere - i maj 2026 - blev der afholdt rejsegilde.</p> <p>Siden har der været kritik og nervøsitet fra de mennesker, der bor i umiddelbar nærhed af fabrikken. Naboer, der bor i umiddelbar nærhed, har eksempelvis fået at vide, at de ikke må afholde større forsamlinger i visse zoner på deres ejendom.</p><p>Og fordi det er en ammunitionsproducent, har klubben taget en beslutning om, hvem der skal have Nammo på trøjerne. For det har der været en drøftelse af.</p><p>- Det er da noget, vi har drøftet i forhold til, hvordan sponsoratet skulle være. Jeg er kommet i Elling altid og har gået i skole derude, jeg har været vant til, at der har været en fabrik, som klart hovedparten af området er. Så jeg har haft et løst forhold til det, men vi har også besluttet, at det skulle være på seniorsiden og ikke ungdomssiden, at sponsoratet er, siger Christian Bang.</p><p><em>Hvorfor har I taget den beslutning?</em></p><p><em>- </em>Det er jo, fordi det er ammunition og krudt og kugler, og der kunne være nogle forældre, der havde det skidt med, at deres børn render rundt i tøj med navnet på en, der producerer krudt og kugler.</p> <p><em>Er I med til at give Nammo aflad gennem det her sponsorat?</em></p><p>- Jeg synes i det her tilfælde, at de er en del af bysamfundet, at de bidrager til bysamfundet, er vigtigt. Og vi vil gerne have, at deres medarbejdere bliver en del af samfundet. Og vi vil gerne, at de medarbejdere, der flytter til byen og området, også skal være en del af foreningslivet, siger kassereren, inden han fortsætter:</p><p>- At det er nogen, der har taget en beslutning om, at der skal ligge en våbenfabrik her, har ikke noget med os at gøre. Men nu når de ligger der, synes jeg også, det er dejligt de bidrager til foreningslivet.</p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/lokal-idraetsklub-i-elling-far-ammmunitionsproducent-som-sponsor-02105",
+  "published": "Wed, 30 Sep 26 13:45:00 +0200",
+  "guid": "https://www.tv2nord.dk/frederikshavn/lokal-idraetsklub-i-elling-far-ammmunitionsproducent-som-sponsor-02105",
   "category": "No category"
  },
  {
-  "title": "Beredskab kaldt ud til to mindre hændelser i løbet af natten",
-  "description": "<p>Nordjyllands Beredskab har natten til onsdag været beskæftiget med to mindre hændelser, oplyser beredskabet.</p><p>Kort efter midnat blev de kaldt ud til det, der var kaldt ind som en bygningsbrand, men da de kom frem, viste det sig, at der var et brand i et pillefyr, som der meget hurtigt kom styr på.</p><p>Derudover blev beredskabet aktiveret halv fem i morges til det, der blev kaldt ind som en bygningsbrand i Aalborg.</p><p>En havde set røg fra et vindue, men da beredskabet kom frem, var der ingen brand at se. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/beredskab-kaldt-ud-til-to-mindre-haendelser-i-lobet-af-natten-fde38",
-  "published": "Wed, 30 Sep 26 07:20:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/beredskab-kaldt-ud-til-to-mindre-haendelser-i-lobet-af-natten-fde38",
+  "title": "Fare for dyr: Beredskab var i aktion ved gårdbrand",
+  "description": "<p>Nordjyllands Beredskab har netop været i aktion i Hobro, hvor der har været brand i en grisestald.</p><p>Det oplyser beredskabet til TV2 Nord. </p><p>Der var gået brand i et lysarmatur i stalden, hvor der var 500 søer. Det betød, at strømmen gik, men det lykkedes dog beredskabet at få bugt med branden hurtigt.</p><p>Den hurtige indsats gjorde, at der ikke var behov for at tilkalde en dyrlæge til stedet.</p><p>Der var sendt tre køretøjer og otte mand afsted mod opgaven, og de er allerede på vej retur. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/der-var-fare-for-dyr-beredskab-var-i-aktion-ved-gardbrand-89102",
+  "published": "Wed, 30 Sep 26 13:06:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/der-var-fare-for-dyr-beredskab-var-i-aktion-ved-gardbrand-89102",
   "category": "No category"
  },
  {
-  "title": "Antallet af mandlige jægere falder - men flere kvinder vil være med",
-  "description": "<p>Da Kirsten Kjær Knudsen møder op til fællesjagt i Rold Skov, kan hun hurtigt konstatere, at alt er, som det plejer.</p><p>- Det første, jeg spotter, er, at jeg er den eneste kvinde – igen. Men det har jeg prøvet før, siger hun.</p><p>57-årige Kirsten har haft jagttegn siden 2004. Hun elsker at være ude i naturen og få oplevelser med andre jægere. Og at stå på paraden efter endt jagt og tale om, hvad man har nedlagt.</p><p>Men mens antallet af mandlige jægere har været faldende gennem de seneste mange år, har flere og flere kvinder indløst jagttegn siden 2015.</p><p>De seneste tal viser, at kvinderne udgør omkring syv procent af det samlede antal jægere ifølge <a href=\"https://sgavmst.dk/media/kenbvjwz/2024_jagttegnsberettigede-og-indloeste-jagttegn-22-05-2025.pdf\" target=\"_blank\"><em>Miljøministeriet</em></a>. Danmarks Jægerforbund oplyser desuden, at 7,65 procent af deres medlemmer er kvinder.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/rebild/antallet-af-mandlige-jaegere-falder-men-flere-kvinder-vil-vaere-med-95f23",
-  "published": "Wed, 30 Sep 26 07:09:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/rebild/antallet-af-mandlige-jaegere-falder-men-flere-kvinder-vil-vaere-med-95f23",
+  "title": "SEIF får Nammo som sponsor",
+  "description": "<p>Når damerne fra SEIF&#039;s tredjedivisionshold i denne sæson løber på banen, vil det være med to nye sponsorer på trøjen.</p><p>Og den ene af dem, er der nok mange, der vil mene, er en kende kontroversiel. Her er det ikke ny-sponsor Fjordbak og Byg, der tænkes på, men ammunitionsproducenten Nammo.</p><p>Det er dem, der skal i gang med at producere krudt og kugler i Elling med forventet opstart i sommeren 27&#039;.</p><p>Sponsoraftalen er en proces, der startede allerede sidste år, og hvor underskriften enten blev sat i slutningen af 2025 eller starten af 2026, fortæller klubbens kasser, Christian Bang.</p><p>- Vi offentliggør det bare først nu, fordi sæsonen starter nu, fortæller kassereren.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/seif-far-nammo-som-sponsor-12158",
+  "published": "Wed, 30 Sep 26 12:19:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/seif-far-nammo-som-sponsor-12158",
   "category": "No category"
  },
  {
-  "title": "‘Der er et mandemiljø’ – men kvinderne vil også være med",
-  "description": "<p>Da Kirsten Kjær Knudsen møder op til fællesjagt i Rold Skov, kan hun hurtigt konstatere, at alt er, som det plejer.</p><p>- Det første, jeg spotter, er, at jeg er den eneste kvinde – igen. Men det har jeg prøvet før, siger hun.</p><p>57-årige Kirsten har haft jagttegn siden 2004. Hun elsker at være ude i naturen og få oplevelser med andre jægere.</p><p>Og at stå på paraden efter endt jagt og tale om, hvad man har nedlagt.</p><p>- Jeg nyder at høre jagtberetningerne. Det er en herlig dialog, man har bagefter, siger hun.</p><p><em>Mød Kirsten i første afsnit i 2. sæson af Jagtkvinderne lige her – artiklen fortsætter under programmet.</em></p> <h2>Kvinder med jagttegn</h2><p>I ’Jagtkvinderne’ følger TV2 Nord en række kvinder, der er blevet bidt af jagt.</p><p>Blandt andre 16-årige Emilie Lindegaard fra Agersted, som i første sæson skulle skyde sin første buk.</p><p>- Det er rigtigt, at der er et mandemiljø. Men der bliver også ved med at være et mandemiljø, hvis der ikke er kvinder, der kommer i gang med at tage jagttegn, siger Emilie Lindegaard.</p> <p>Jagt har altid været domineret af mænd, og er det også stadig. </p><p>Men mens antallet af mandlige jægere har været faldende gennem de seneste mange år, har flere og flere kvinder indløst jagttegn siden 2015. </p><h2>Antal kvinder med jagttegn pr. år</h2> <h2>Antal mænd med jagttegn pr. år</h2> <p>De seneste tal viser, at kvinderne udgør omkring syv procent af det samlede antal jægere ifølge <a href=\"https://sgavmst.dk/media/kenbvjwz/2024_jagttegnsberettigede-og-indloeste-jagttegn-22-05-2025.pdf\" target=\"_blank\">Miljøministeriet</a>. Danmarks Jægerforbund oplyser desuden, at 7,65 procent af deres medlemmer er kvinder.</p><h2>&#039;Passionen er den samme&#039;</h2><p>For Kirsten Kjær Knudsen betyder det ikke så meget, om de andre jægere er af han- eller hunkøn.</p><p>- Oplevelsen og passionen er jo den samme. Det kan så være, vi anskuer ting lidt forskelligt, og så kan du få en god diskussion. Men ellers generer det mig bestemt ikke at være alene høne, siger hun.</p> <p>På fællesjagten i Rold Skov kan hun dog alligevel mærke, at hun gerne ville have haft nedlagt noget, hun kunne have med på paraden.</p><p>- Det kunne have været rigtig fedt som den eneste kvinde, siger hun.</p> <p>I første afsnit i anden sæson af ’Jagtkvinderne’ følger vi også Zenia Maltha, som er på bukkejagt i Polen. </p><p>Her oplever hun, hvordan den mand, hun er på jagt med, er meget ivrig efter tage over for hende, da bukken skal forlægges. Noget, hun finder en smule irriterende.</p><p><em>Se afsnittet længere oppe i artiklen eller på <a href=\"tv2nord.dk/play\" target=\"_blank\">tv2nord.dk/play</a>, <a href=\"https://play.tv2.dk/nord\" target=\"_blank\">TV 2 Play</a> eller <a href=\"https://www.youtube.com/@TV2Nordvideo\" target=\"_blank\">TV2 Nords YouTube-kanal.</a></em></p>",
-  "link": "https://www.tv2nord.dk/rebild/der-er-et-mandemiljo-men-kvinderne-vil-ogsa-vaere-med-ebed9",
-  "published": "Wed, 30 Sep 26 07:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/rebild/der-er-et-mandemiljo-men-kvinderne-vil-ogsa-vaere-med-ebed9",
+  "title": "Nordjysk Royal Run er det første udsolgte",
+  "description": "<p>Onsdag klokken 10 blev billetterne til næste års Royal Run sat til salg.</p><p>Efter flere år væk fra regionen, er det i 2027 igen muligt at løbe det kongelige løb i Nordjylland. Eller det vil sige, at det er muligt, hvis du har været hurtig. For alle billetterne til Royal Run i Thisted er klokken 12 udsolgt.</p><p>Der er stadig billetter at få til de fire andre lokationer i landet: Haderslev, København/Frederiksberg, Silkeborg og Vordingborg.</p> <p>Der er i alt 10.000 pladser til løbet i Thisted.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/thisted/nordjysk-royal-run-er-det-forste-udsolgte-f7e58",
+  "published": "Wed, 30 Sep 26 12:02:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/thisted/nordjysk-royal-run-er-det-forste-udsolgte-f7e58",
   "category": "No category"
  },
  {
-  "title": "Trods kalenderen siger efterår, slutter september med varme",
-  "description": "<p>Selvom kalenderen siger efterår, og det da også afspejler sig i, at bladene er begyndt at skifte farve og kastanierne er faldet ned fra træerne, så er vejrguderne måske en kende forvirrede.</p><p>I hvert fald slutter september varmt, hvor temperaturen kan snige sig op på hele 18 grader i Nordjylland - lokalt helt op til 20 grader. Det vil primært være steder som Aars, Hobro og Aalborg, der kan nå op på 20 grader.</p> <p>Men selvom det måske kan føles helt sommerligt, så bliver det ret blæsende, når vinden frisker op fra sydøst, og det betyder at temperaturen ved det østvente kyster bliver lavere. Her topper den med 16-18 grader.</p><p>I øjeblikket ligger der en usædvanlig varm luftmasse over store dele af Europa. Man skal ikke mere end et par hundrede kilometer syd for Danmark, før temperaturen når helt op på 30 grader.</p><p>Og det er netop denne varme luft, vi får en smagsprøve på i Danmark onsdag og de kommende dage.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/trods-kalenderen-siger-efterar-slutter-september-med-varme-b865b",
-  "published": "Wed, 30 Sep 26 06:35:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/trods-kalenderen-siger-efterar-slutter-september-med-varme-b865b",
+  "title": "Varetægtsfængslet i Aalborg efter arrestordre fra Polen",
+  "description": "<p>En mand er onsdag morgen blevet varetægtsfængslet i fire uger ved Retten i Aalborg.</p><p>Det sker på baggrund af en arrestordre fra Polen, der ønsker manden udleveret. Årsagen er en narkodom fra 2021.</p><p>Manden er ikke dansk statsborger, men bor i Nordjylland.</p><p>Det skal nu undersøges, om manden skal udleveres. I mellemtiden har dommeren besluttet, at manden skal varetægtsfængsles, ifølge anklager fra Nordjyllands Politi Marie Stigaard, fordi der er &#039;unddragelsesrisiko&#039; - altså risiko for, at manden flygter eller skjuler sig.</p><p>Han har kæret varetægtsfængslingen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/varetaegtsfaengslet-i-aalborg-efter-arrestordre-fra-polen-4c217",
+  "published": "Wed, 30 Sep 26 10:44:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/varetaegtsfaengslet-i-aalborg-efter-arrestordre-fra-polen-4c217",
   "category": "No category"
  },
  {
-  "title": "Naboer til Kimbrertorvet bliver chikaneret med støj",
-  "description": "<p>Forestil dig det her:</p><p>Måned efter måned, uge efter uge, dag efter dag bliver dine eftermiddage og aftener forstyrret af høj musik, skrig og skrål, accelerationer fra scootere og glas, der bliver smadret.</p><p>Når børnene endelig er puttet, bliver de vækket af støjen. Når dine øjne langt om længe er lukket i, bliver der skruet lidt højere op for musikken.</p><p>Sådan er det lige nu at være nabo til Kimbrertorvet i Aars.</p><p>Flere gange om ugen oplever de to naboer Jacob Lynge og Mads Nielsen, at unge mennesker spiller høj musik, kører hensynsløst på deres scootere eller udøver hærværk på torvet i det centrale Aars.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/naboer-til-kimbrertorvet-bliver-chikaneret-med-stoj-f986f",
-  "published": "Wed, 30 Sep 26 06:24:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/naboer-til-kimbrertorvet-bliver-chikaneret-med-stoj-f986f",
+  "title": "Politi beder fortsat om hjælp oven på indbrudsbølge",
+  "description": "<p>Det har slet ikke båret frugt, at lokalpolitiet i Himmerland tirsdag bad om hjælp, oven på en indbrudsbølge, der har ramt Aars.</p><p>Over de seneste dage har politiet nemlig registreret hele otte indbrud i et begrænset område af byen, og fremgangsmåden minder så meget om hinanden, at politiet mistænker, der er tale om samme gerningsmand eller gerningsmænd.</p><p>I alle tilfældene er vinduer enten blevet smadret eller brudt op, ligesom der også er tegn på, at der ved flere af indbruddene er brugt et koben. Syv af indbruddene er sket inden for en radius af to kilometer, mens det sidste er sket cirka otte kilometer derfra. </p><p>Det er især smykker eller kontanter, der er blevet stjålet i indbruddene. Politiet beder fortsat om hjælp, og de er især interesserede i video, ligesom de gerne ser eller hører fra borgerne, der har set noget. </p><p>På Brorsonsvej har der været to indbrud. Det ene skete klokken 04.18 natten til lørdag. En nabo så og anmeldte det, hvorfor tyven ikke fik meget med fra stedet. Det andet skete mellem tirsdag og søndag. </p><p>På Højtoften er der sket tre indbrud mellem torsdag og søndag. To af stederne er tyven sluppet afsted med kontanter, og alle tre steder er der stjålet smykker. </p><p>De tre øvrige indbrud er på Agertoften, Toftehaven og Birkevej. Alle tre skete fredag.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/rebild/politi-beder-fortsat-om-hjaelp-oven-pa-indbrudsbolge-3a477",
+  "published": "Wed, 30 Sep 26 10:36:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/rebild/politi-beder-fortsat-om-hjaelp-oven-pa-indbrudsbolge-3a477",
   "category": "No category"
  },
  {
-  "title": "Frank tager fra Hannæs til Christiansborg med ét ønske",
-  "description": "<p>Frank Koldsgaard frygter, at folk vælger hans lokalområde fra, hvis omstridt færge forsvinder. Derfor drager han onsdag til Christiansborg for at få politikerne i tale.</p><p>Der skal handling bag ordene, når der snakkes om at skabe et Danmark i balance.</p><p>Det mener Frank Koldsgaard, der er formand for Støtteforeningen Hannæs-Østerild, og derfor tager han i dag onsdag fra sit hjem i Frøstrup til København for at kæmpe for at bevare den omdiskuterede Feggesundfærge, der på fem minutter forbinder Hannæs i Thisted Kommune med Mors.</p><p>- Færgen er vigtig for lokaludviklingen for både Thy og Mors. Hver gang man mister noget i landdistrikterne, mister man lysten til at bo på landet. Og det dur simpelthen ikke, siger Frank Koldsgaard.</p><p>Sammen med en mindre delegation fra Thy og Mors skal han mødes med Folketingets Indenrigs-, Bolig og Landdistriktsudvalg i håbet om at få Feggesundfærgen og landets otte øvrige såkaldte genvejsfærger på finansloven.</p><p>- Den er vigtig for både arbejdspladser og pendlere og for udviklingen af turismen. Så den fortælling skal jo med, at det ikke kun er økonomi, siger Frank Koldsgaard.</p><p>Overfarten varer ifølge Morsø Kommune fem minutter, mens bilturen mellem de to færgelejer tager lige knap en time ifølge Google Maps.</p> <p>Hidtil har Feggesundfærgen været ejet af Morsø og Thisted Kommuner, men <a href=\"https://www.tv2nord.dk/morsoe/thisted-kommune-opsiger-aftale-om-faerge-ef0c4\">Thisted valgte tidligere i år at træde ud af ejerskabet</a> for i stedet at bidrage med <a href=\"Nu er der nyt om omstridt f&aelig;rge: Borgmester st&aring;r tilbage med blandede f&oslash;lelser\">et fast årligt beløb</a>.</p><p>Men færgedriften bør i stedet finansieres gennem et statstilskud, ligesom det er tilfældet for ø-færgerne, der forbinder ikke-brofaste øer med fastlandet, mener Frank Koldsgaard, og det håber han i dag, at politikerne på Christiansborg vil lytte til.</p><p>- Den (Feggesundfærgen, red.) har været en stor økonomisk belastning for kommunerne. Forhåbentligt kan de så bruge pengene på mere lokaludvikling, siger han.</p> <p>Under valgkampen tidligere i år <a href=\"https://www.tvmidtvest.dk/morsoe/df-vil-lukke-kommunalt-hundeslagsmal-ned-med-statens-penge-d85c6?utm_source=tvmidtvest.dk&amp;utm_medium=article&amp;utm_campaign=ReadAlsoImage\">åbnede Dansk Folkeparti op for et statsligt tilskud til Feggesundfærgen</a>.</p><p>- Drømmen for os er jo, at vi kan få det væk fra at være et kommunalt hundeslagsmål, hvor et par byrådsmedlemmer i Thisted mere eller mindre kan lukke en færgeforbindelse, fordi de synes, at pengene skal bruges et andet sted, sagde Anders Vistisen dengang.</p><p>Det håber Frank Koldsgaard nu, at flere landspolitikere vil være med til.</p><p><em>Men hvorfor er det nødvendigt med Feggesundfærgen, når der også er to broer til Mors?</em></p><p>- Det handler om at komme hurtigere frem, og man kan ikke bare køre udenom. Der er dem, der ikke har tiden til det, siger Frank Koldsgaard.</p>",
-  "link": "https://www.tv2nord.dk/morsoe/frank-tager-fra-hannaes-til-christiansborg-med-et-onske-182f7",
-  "published": "Wed, 30 Sep 26 06:23:00 +0200",
-  "guid": "https://www.tv2nord.dk/morsoe/frank-tager-fra-hannaes-til-christiansborg-med-et-onske-182f7",
+  "title": "Minister åbner for mulig kompensation for naboer til krudtfabrik",
+  "description": "<p>Forsvarsminister Jeppe Bruus (S) åbner nu for, at naboer til krudtfabrikken i Elling med &#039;større eller langvarige gener&#039; kan få kompensation.</p><p>&#039;Hvis det skulle vise sig, at der er borgere, som får større eller langvarige gener som følge af ammunitionsfabrikken, vil jeg gerne se på, om der skal ydes kompensation,&#039; lyder det i et skriftligt svar fra ministeren.</p><p>Onsdag aften er der to borgermøder i Elling. Det første er et informationsmøde for de berørte borgere, hvor Etablissement- og Terrænkommandoen (ETK) og Forsvarsministeriets Materiel- og Indkøbsstyrelse (FMI) vil give en status på den kommende ammunitionsproduktion i Elling samt den aktuelle status på udviklingen af produktionsområdet. Det afholdes i Palads-biografen i Frederikshavn.</p><p>Derudover afholdes der senere på dagen et borgermøde for dem, der ikke er umiddelbare naboer til fabrikken.</p><p>&#039;Jeg har stor forståelse for borgernes bekymringer, og det er vigtigt, at der tages godt hånd om naboerne til fabrikken. Forsvaret holder løbende borgermøder, hvor borgere og virksomheder i Elling har haft mulighed for at gøre Forsvaret opmærksom på gener, der kan opstå i forbindelse med etableringen af fabrikken. Fremover vil der også være fokus på at opretholde en god dialog med borgerne,&#039; siger forsvarsministeren.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/minister-abner-for-mulig-kompensation-for-naboer-til-krudtfabrik-79e33",
+  "published": "Wed, 30 Sep 26 10:26:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/minister-abner-for-mulig-kompensation-for-naboer-til-krudtfabrik-79e33",
   "category": "No category"
  },
  {
-  "title": "Mads og Jacob har fået nok af støj: - Vi kan ikke holde ud at være her",
-  "description": "<p>Forestil dig det her:</p><p>Måned efter måned, uge efter uge, dag efter dag bliver dine eftermiddage og aftener forstyrret af høj musik, skrig og skrål, accelerationer fra scootere og glas, der bliver smadret.</p><p>Når børnene endelig er puttet, bliver de vækket af støjen. Når dine øjne langt om længe er lukket i, bliver der skruet lidt højere op for musikken.</p><p>Sådan er det lige nu at være nabo til Kimbrertorvet i Aars.</p><p>Flere gange om ugen oplever de to naboer Jacob Lynge og Mads Nielsen, at unge mennesker spiller høj musik, kører hensynsløst på deres scootere eller udøver hærværk på torvet i det centrale Aars.</p> <p>Hver deres lejlighed ligger lige ud til Kimbrertorvet, og det er efterhånden mere sjældent, at de oplever ro end støj fra torvet.</p><p>- Det er ekstremt. Voldsomt ekstremt, siger Mads Nielsen, der bor i en lejlighed ud til Kimbrertorvet.</p><h2>Larm overskygger alt andet</h2><p>På deres telefoner har de hver især optaget videoer af støjen, når den er værst. Der er videoer af en tuk-tuk, der larmer ved sin blotte tilstedeværelse, videoer af fire personer på en scooter og videoer af højlydt musik fra en gruppe unge mennesker, der er samlet på torvet.</p><p>Nogle dage er larmen, så voldsom, at de føler, at de står nede på gaden, når de sidder oppe i deres lejlighed.</p> <p>Det seneste år er støjen fra Kimbrertorvet så kun blevet værre og værre. Samtidig oplever naboerne, at dagene med larm kun er blevet hyppigere og hyppigere.</p><p>- Det er mandag, tirsdag, onsdag, torsdag, fredag, lørdag og er vejret så godt, så er det endnu værre, siger Jacob Lynge.</p><h2>Ikke acceptabelt</h2><p>Det er særligt en gruppe unge mennesker, larmen kommer fra.</p><p>De samler sig på Kimbrertorvet i eftermiddags- og aftentimer, hvor de flere dage i ugen hører høj musik.</p><p>Naboerne har også oplevet, at de har kørt hensynsløst på deres scootere og i flere tilfælde, har de også konstateret, at der er blevet udøvet hærværk mod det centrale torv.</p><p>Det er en problematik, som de er klar over i Vesthimmerlands Kommune. I første omgang har de sat skilte op på Kimbrertorvet, der opfordrer til, at man viser hensyn.</p> <p>Alligevel er det ikke acceptabelt, som tingene foregår nu, forsikrer Per Bach Laursen (V), der er borgmester i Vesthimmerlands Kommune.</p><p>- Det er en dialog, vi skal have i gang, fordi det er ikke et nyt fænomen i Vesthimmerland, at der i perioder opstår nogle steder, hvor unge mennesker gerne vil være, siger Per Bach Laursen.</p><h2>Ikke interesserede i konflikt</h2><p>Dialogens vej har naboerne også forsøgt at gå flere gange, når larmen er blevet for voldsom. Lige lidt har det dog hjulpet, når de har opsøgt de unge mennesker.</p><p>- De er ikke interesserede i dialogen. De opsøger dialogen for at få en konflikt, men vi er ikke interesserede i at være i konflikt med dem, siger Mads Nielsen, der ærgrer sig over, at de unge mennesker ødelægger det for dem selv.</p> <p>Naboerne er nemlig åbne for, at byen skal være et sted med liv, hvor unge mennesker også skal have lov til at hygge sig. Men i det omfang det foregår i dag, kan de ikke holde ud.</p><p>- Havde det bare været en dag i weekenden. Jeg vil nærmest sige, havde det bare været en dag i weekenden hver uge, så havde det været en helt anden sag, så havde det ikke været noget problem, siger Jacob Lynge.</p><h2>De unge skal have et sted</h2><p>I begyndelsen af oktober har Vesthimmerlands Kommune så taget initiativ til et møde om problemet. I første omgang bliver det med kommunen selv, politiet, SSP og naboerne.</p><p>Naboerne håber i den forbindelse, at de kan få kommunen overbevist om, at der skal gøres noget aktivt ved problemet.</p><p>- Jeg tænker, at det ville hjælpe, hvis der er et sted, de kan være og få lov at være de unge mennesker, som de fortjener. Nede på torvet bliver folk bliver sure på dem, fordi lige nu er det negativ dialog i stedet for positiv, siger Mads Nielsen.</p><p>Idéen er de heller ikke afvisende overfor i kommunen.</p><p>- I forhold til at finde nogle aktiviteter, som unge mennesker synes er attraktive på den tid af aftenen, kunne være et element for at få noget løst, siger Per Bach Laursen.</p><h2>Kigger på ny lejlighed</h2><p>Problemet har bare allerede vokset sig så stort for de to naboer, at de snart ikke kan holde ud at blive boende i det længere.</p><p>Derfor skal der ske noget snart for at få dem til at blive.</p><p>- Vi kigger på ny lejlighed, fordi vi ikke kan holde ud at være her, siger Jacob Lynge, inden han bliver fulgt op af sin nabo Mads Nielsen:</p><p>- Vi har også drøftet det, siger han.</p>",
-  "link": "https://www.tv2nord.dk/vesthimmerland/vi-kan-ikke-holde-ud-at-vaere-her-14a34",
-  "published": "Wed, 30 Sep 26 06:00:00 +0200",
-  "guid": "https://www.tv2nord.dk/vesthimmerland/vi-kan-ikke-holde-ud-at-vaere-her-14a34",
+  "title": "Minister åbner for kompensation for Elling-borgere",
+  "description": "<p>- Spørgsmålet er, om vi som borgere skal affinde os med, at staten lægger en fabrik et sted, hvor vi kan risikere, der falder droner ned i hovedet på os. Det er mig og konen altså ikke trygge ved.</p><p>Sådan lød det i weekenden fra Svend Erik Christensen, der er nabo til krudtfabrikken i Elling. Han overvejer at flytte fra det hus, han har kaldt hjem de seneste 30 år. </p><p>- Det har vi vedtaget. Vi vil flytte. Men min bankmand fortalte mig, at han skulle længere op i systemet for at godkende et lån på 100.000 på trods af, at jeg har 800.000 i friværdi, fordi mit hus er nabo til krudten, fortalte han.</p> <p>Men nu åbner forsvarsminister Jeppe Bruus (S) for, at naboer med &#039;større eller langvarige gener&#039; kan få kompensation.</p><p>&#039;Hvis det skulle vise sig, at der er borgere, som får større eller langvarige gener som følge af ammunitionsfabrikken, vil jeg gerne se på, om der skal ydes kompensation,&#039; lyder det i et skriftligt svar fra ministeren.</p><h2>Borgermøde onsdag aften</h2><p>Svend Erik er ikke den eneste nabo, der er utryg ved, at ammunitionsfabrikken nu er genåbnet. Hanne Olesen har 15 tønder land, der ligger klos op ad det område, hvor der nu igen skal laves krudt og kugler.</p><p>Nu er de 15 tønder land inddelt i sikkerhedszoner. Hendes hus ligger i grøn zone. Så kommer den blå zone og så er der den sorte zone.</p><p>Den grønne zone må hun gerne bo i i forhold til de klausuler, der er. I den blå zone må hun ikke bygge højhuse, ligesom der heller ikke må være større forsamlinger. Og i den sorte zone, må der slet ikke færdes personer.</p><p>- Jeg synes jeg ikke, at jeg kan byde mig selv og heller ikke mine børn eller børnebørn, at jeg skal være en del af det, siger Hanne Olesen.</p> <p>Onsdag aften er der to borgermøder i Elling. Det første er et informationsmøde for de berørte borgere, hvor Etablissement- og Terrænkommandoen (ETK) og Forsvarsministeriets Materiel- og Indkøbsstyrelse (FMI) vil give en status på den kommende ammunitionsproduktion i Elling samt den aktuelle status på udviklingen af produktionsområdet. Det afholdes i Palads-biografen i Frederikshavn.</p><p>Derudover afholdes der senere på dagen et borgermøde for dem, der ikke er umiddelbare naboer til fabrikken.</p><p>&#039;Jeg har stor forståelse for borgernes bekymringer, og det er vigtigt, at der tages godt hånd om naboerne til fabrikken. Forsvaret holder løbende borgermøder, hvor borgere og virksomheder i Elling har haft mulighed for at gøre Forsvaret opmærksom på gener, der kan opstå i forbindelse med etableringen af fabrikken. Fremover vil der også være fokus på at opretholde en god dialog med borgerne,&#039; siger forsvarsministeren.</p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/minister-abner-for-kompensation-for-elling-borgere-23ef2",
+  "published": "Wed, 30 Sep 26 10:02:00 +0200",
+  "guid": "https://www.tv2nord.dk/frederikshavn/minister-abner-for-kompensation-for-elling-borgere-23ef2",
   "category": "No category"
  },
  {
-  "title": "Mors-Thy lider større nederlag i European League",
-  "description": "<p>Mors-Thy Håndbold tog tirsdag aften hul på gruppespillet i European League ude mod Valur. </p><p>Nordvestjyderne tabte dog den første kamp stort med hele 11 mål, da islændingene vandt med hele 39-28. </p><p>Det var også hjemmeholdet, der førte ved pausen, dog var Mors-Thy-spillerne noget tættere på hjemmeholdet, da man gik til pausen bagud med 15-19. </p><p>6. oktober spiller den nordvestjyske håndboldklub den første hjemmekamp i turneringen, når Tatabanya kommer på besøg. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/morsoe/mors-thy-lider-storre-nederlag-i-european-league-fa529",
-  "published": "Tue, 29 Sep 26 22:17:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/morsoe/mors-thy-lider-storre-nederlag-i-european-league-fa529",
+  "title": "Ehlers snubler i sæsonpremieren",
+  "description": "<p>Den nordjyske ishockeystjerne Nikolaj Ehlers blev modtaget af et rekordpublikum på næsten 20.000 vilde og forventningsfulde fans, da han og resten af Carolina Hurricanes natten til onsdag åbnede sæsonen på hjemmebane som regerende Stanley Cup vindere.</p><p>Det endte dog i en fuser i kampen mod Florida Panthers, som vandt Stanley Cup de to foregående sæsoner. </p> <p>Den ordinære kamp endte uden scoringer, men med fem sekunder tilbage af overtiden lykkedes det Florida-mandskabet at sætte en vinderscoring ind.</p><p>Ehlers fik sammenlagt næsten 20 minutters istid i premieren, som blev en både tæt, fysisk og til tider rodet affære med hele 13 to minutters udvisninger og to fem minutters udvisninger.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/ehlers-snubler-i-saesonpremieren-efa58",
+  "published": "Wed, 30 Sep 26 09:33:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/ehlers-snubler-i-saesonpremieren-efa58",
   "category": "No category"
  },
  {
-  "title": "Stine Rex har skrevet sig ind i historiebøgerne igen: Nu er verdensrekorden officiel",
-  "description": "<p>Det er ikke længe siden, at Stine Rex slog verdensrekorden i 10-dages løb, da hun tog verdensrekorden fra Sandra Barwick fra New Zealand med sine 1301,591 kilometer ved Nordjylland Gør En Forskel. </p><p>Samtidig lykkedes det David Stoltenborg at slå den nordiske rekord i 10-dagsløb med sine 1340 kilometer, da han kort tid, han slog verdensrekorden blev overhalet indenom og mistede den igen. </p><p>Men udover de to rekorder i 10-dagsløb, så slog de to altså også en røvfuld andre rekorder i løbet af de mange dage rundt om søen i Aabybro, og nu er de alle blevet godkendte af GOMU (Global Organization of Multi-Day Ultramarathoners, red.)</p><p>Dermed er Stine Rex nu indehaveren af hele ni nye rekorder for kvinderne, mens David er indehaveren af 2 nye rekorder. Han er noteret for at have verdensrekorden for 1000 kilometer, som han har løbet på syv dage, fem timer og 11 sekunder, og for sin nordiske rekord i 10-dagsløb.  </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/jammerbugt/stine-rex-har-skrevet-sig-ind-i-historiebogerne-igen-nu-er-verdensrekorden-officiel-13308",
-  "published": "Tue, 29 Sep 26 19:23:00 +0200",
-  "guid": "https://www.tv2nord.dk/kort-nyt/jammerbugt/stine-rex-har-skrevet-sig-ind-i-historiebogerne-igen-nu-er-verdensrekorden-officiel-13308",
+  "title": "Rekordmange indsatte i nordjyske fængsler",
+  "description": "<p>105 procent overbelægning.</p><p>Så meget har de danske fængsler i gennemsnit, og det er en ny rekord, lyder det fra Danmarks Fængsler i en pressemeddelelse.</p><p>Når man kaster et blik på de nordjyske fængsler, så har de en belægning, der er over landsgennemsnittet. </p><p>I Aalborg Arrest er der en belægningsprocent på 106, mens det for Frederikshavn arrest er 107 procent.</p><p>- Det er jo klart, at husene ikke er bygget til det her overbelæg, så det betyder, at der er flere indsatte, der sidder to og to sammen, siger Michael Kjær Sørensen, der er enhedschef i Aalborg Arrest, inden han fortsætter:</p><p>- Og det udfordrer os alle.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/rekordmange-indsatte-i-nordjyske-faengsler-e5bae",
+  "published": "Wed, 30 Sep 26 09:13:00 +0200",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/rekordmange-indsatte-i-nordjyske-faengsler-e5bae",
   "category": "No category"
+ },
+ {
+  "title": "Sofie bruger fritiden på at lytte til børn og unges svære tanker",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/aalborg/sofie-bruger-fritiden-paa-at-lytte-til-boern-og-unges-svaere-tanker/6188638?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 30 Sep 2026 13:02:54 Z",
+  "guid": "26f693ed-1c0b-4de9-9bb1-7f863734f8f8",
+  "category": "Aalborg"
+ },
+ {
+  "title": "Forældre kæmper imod udfasning af specialtilbud. De mener, det vil gå ud over deres børns trivsel",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/broenderslev/foraeldre-kaemper-imod-udfasning-af-specialtilbud-de-mener-det-vil-gaa-ud-over-deres-boerns-trivsel/6184889?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 30 Sep 2026 10:00:52 Z",
+  "guid": "34f459fc-3bcc-4a8e-b37c-d6c4277a5561",
+  "category": "Brønderslev"
+ },
+ {
+  "title": "Dokumenter afslører, hvorfor redningsforsøget af Aalborg CSP kun holdt fem dage",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/dokumenter-afsloerer-hvorfor-redningsforsoeget-af-aalborg-csp-kun-holdt-fem-dage/6192682?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 30 Sep 2026 09:02:49 Z",
+  "guid": "332a09cd-3928-4eee-b210-0f9175270728",
+  "category": "Erhverv"
  },
  {
   "title": "Scanfiber skal bygge en ny fabrik. Ét problem kan sende den ud af Nordjylland",
-  "description": "Scanfiber Composites laver ballistisk beskyttelse til militært brug og har netop fået nye ejere og ny direktør.Begge skal dirigere virksomheden sikkert gennem en tid, hvor forsvarsrelaterede firmaer vokser eksplosivt.Men Scanfiber Composites står med en udfordring, som den måske bliver nødt til at løse uden for Nordjylland",
+  "description": "",
   "link": "https://nordjyske.dk/nyheder/erhverv/scanfiber-skal-bygge-en-ny-fabrik-t-problem-kan-sende-den-ud-af-nordjylland/6184784?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
   "published": "Wed, 30 Sep 2026 03:21:46 Z",
   "guid": "cb92ad85-c74b-423f-ad6b-70d6f5d6a582",
@@ -388,29 +411,5 @@
   "published": "Tue, 29 Sep 2026 03:16:49 Z",
   "guid": "b95a5a58-2096-4353-9cca-cd0792cdc67d",
   "category": "Hvem skal have pengene?"
- },
- {
-  "title": "Hård test for AaB i landsholdspause: Se med direkte på nordjyske.dk",
-  "description": "Cheftræner Steffen Højer sender sine spillere i kamp fredag eftermiddag mod Randers FC. Vi livestreamer kampen her på nordjyske.dk",
-  "link": "https://nordjyske.dk/nyheder/sport/haard-test-for-aab-i-landsholdspause-se-med-direkte-paa-nordjyske-dk/6192670?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 29 Sep 2026 10:21:31 Z",
-  "guid": "af164cf9-c24b-47dc-9562-77cd4e458c3e",
-  "category": "AaB"
- },
- {
-  "title": "Modne mænd mødes om modeltog: - Vi er her mest for legens skyld",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/aalborg/modne-maend-moedes-om-modeltog-vi-er-her-mest-for-legens-skyld/6189548?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 29 Sep 2026 03:00:48 Z",
-  "guid": "8a9fc6df-dff5-4c9a-05e2-08df1be673bf",
-  "category": "Aalborg"
- },
- {
-  "title": "En rekordtransfer og en fuldgod afløser er på plads: Derfor har Aalborg Håndbold solgt Juri Knorr",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/sport/en-rekordtransfer-og-en-fuldgod-afloeser-er-paa-plads-derfor-har-aalborg-haandbold-solgt-juri-knorr/6191060?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 28 Sep 2026 17:32:45 Z",
-  "guid": "373119c5-46b7-4388-b3cb-8ca8709514a1",
-  "category": "Aalborg Håndbold"
  }
 ]
