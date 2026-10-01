@@ -32,12 +32,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fo5U-7Pay%2Fp-37.webp&w=300&x1r=0.01&x2r=0.46&y1r=0.48&y2r=0.93&s=10517a789901d85769a5dfa86633ad90"
  },
  {
-  "link": "/Fleggaard?publication=U-nT5QeV&offer=LO4nmi-Xfu6kbKz-e6E_M",
+  "link": "/Fleggaard?publication=1NRp-JGF&offer=m7EDu8Zka__Y9jW3LD4qy",
   "price": "16",
   "currency": "DKK",
   "valid_from": "22-09-2026",
   "valid_until": "06-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FU-nT5QeV%2Fp-47.webp&w=300&x1r=0.02&x2r=0.34&y1r=0.37&y2r=0.68&s=e3766fc67afe4566e2452f04b78b972d"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F772602188d43672db4fd7291073c20a1%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Ffa2b98e962667391d41a05b53431f5eb&w=300&s=6f9471107a9d90881cd57969a67f8dc9"
  },
  {
   "link": "/SPAR?publication=uBnar4id&offer=AHDfCgSxtn7eO_1WndvLP",
@@ -256,6 +256,14 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FtDaeqMJL%2Fp-20.webp&w=300&x1r=0.35&x2r=0.98&y1r=0.02&y2r=0.4&s=01cbc3083dc29dc0335e37b14a24ad1f"
  },
  {
+  "link": "/MENY?publication=mG__WL3i&offer=gjrUtK1HiVxwdKLC3TQx0",
+  "price": "35",
+  "currency": "DKK",
+  "valid_from": "01-10-2026",
+  "valid_until": "08-10-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmG__WL3i%2Fp-35.webp&w=300&x1r=0.34&x2r=0.64&y1r=0.67&y2r=0.98&s=368be131f869275c64ccbf98181bf36c"
+ },
+ {
   "link": "/fotex?publication=lU_YDFnh&offer=ppCN0q8H0p0k63aeDSeLY",
   "price": "120",
   "currency": "DKK",
@@ -270,14 +278,6 @@
   "valid_from": "24-09-2026",
   "valid_until": "01-10-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuBnar4id%2Fp-20.webp&w=300&x1r=0.05&x2r=0.46&y1r=0.31&y2r=0.64&s=0ab55c51f7380456b29434308c7a15df"
- },
- {
-  "link": "/MENY?publication=mG__WL3i&offer=gjrUtK1HiVxwdKLC3TQx0",
-  "price": "35",
-  "currency": "DKK",
-  "valid_from": "01-10-2026",
-  "valid_until": "08-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmG__WL3i%2Fp-35.webp&w=300&x1r=0.34&x2r=0.64&y1r=0.67&y2r=0.98&s=368be131f869275c64ccbf98181bf36c"
  },
  {
   "link": "/Min-Kobmand?publication=qTpSu5iJ&offer=rPWnECwQvdziUXPiXvzAQ",
