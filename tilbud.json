@@ -104,20 +104,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fb1FmJYeu%2Fp-11.webp&w=300&x1r=0.49&x2r=0.96&y1r=0.5&y2r=0.74&s=df7fe9dcca308d7a0c6aac757e7dc850"
  },
  {
-  "link": "/LET-KOB?publication=IYBrdwHA&offer=V8M1YabWPy1KIsGrsGDxn",
-  "price": "65",
-  "currency": "DKK",
-  "valid_from": "18-10-2026",
-  "valid_until": "01-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIYBrdwHA%2Fp-1.webp&w=300&x1r=0.51&x2r=0.96&y1r=0.28&y2r=0.54&s=d1514b2dcf4bb76f01d6fbc564b68ac2"
- },
- {
   "link": "/BorderShop?publication=qLot6tTW&offer=tpSpPlTab2Q41Cwy5LjxI",
   "price": "81.95",
   "currency": "DKK",
   "valid_from": "29-09-2026",
   "valid_until": "03-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FqLot6tTW%2Fp-6.webp&w=300&x1r=0.49&x2r=0.972&y1r=0.612&y2r=0.972&s=cd036803a3712e53e748917453bf25ec"
+ },
+ {
+  "link": "/LET-KOB?publication=IYBrdwHA&offer=V8M1YabWPy1KIsGrsGDxn",
+  "price": "65",
+  "currency": "DKK",
+  "valid_from": "18-10-2026",
+  "valid_until": "01-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIYBrdwHA%2Fp-1.webp&w=300&x1r=0.51&x2r=0.96&y1r=0.28&y2r=0.54&s=d1514b2dcf4bb76f01d6fbc564b68ac2"
  },
  {
   "link": "/Poetzsch-Padborg?publication=fnw6cH9D&offer=66wHtH6Ex1q9oCm60j7zI",
@@ -150,6 +150,14 @@
   "valid_from": "17-10-2026",
   "valid_until": "24-10-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2owlMUb9%2Fp-replacement-_yQMJhIi-11.webp&w=300&x1r=0.02&x2r=0.43&y1r=0.33&y2r=0.66&s=3ec283f94718f3846cfdfff38a77f125"
+ },
+ {
+  "link": "/Wolt-Market?publication=2aO4DeAi&offer=hHCOzmjveZQNIB5Jxa-R9",
+  "price": "36",
+  "currency": "DKK",
+  "valid_from": "19-10-2026",
+  "valid_until": "26-10-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fa0b5f883e78cdd8b400cdc8324730a1d&w=300&s=e6fe181ce9af1446ef351d5fb68cbc4f"
  },
  {
   "link": "/Calle?publication=wZwSrucf&offer=apAQdksLDHvXtMl9HLNsX",
