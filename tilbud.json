@@ -72,14 +72,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcJnDJSP3%2Fp-replacement-ifRl8ZHW-12.webp&w=300&x1r=0.332&x2r=0.658&y1r=0.732&y2r=0.996&s=0d71cdfa35ba0a02bbebe868be773e0a"
  },
  {
-  "link": "/Netto?publication=4_qLrKZB&offer=Yq2L3GpkrBpOPkVuz1djy",
-  "price": "75",
-  "currency": "DKK",
-  "valid_from": "16-10-2026",
-  "valid_until": "23-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-4.webp&w=300&x1r=0.02&x2r=0.5&y1r=0.53&y2r=0.97&s=02a4830c6a9ebfdb41ad52101fdd74d8"
- },
- {
   "link": "/fotex?publication=xL4OW4sV&offer=6gdWtbXvDVRqwsY8Qwdmp",
   "price": "140",
   "currency": "DKK",
@@ -224,20 +216,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2F641d2d4c32f5ea0f204dd7d47df82c47&w=300&s=bd64c44c2fbbeefbde56aae8a7fb68ee"
  },
  {
-  "link": "/Wolt-Market?publication=2aO4DeAi&offer=hHCOzmjveZQNIB5Jxa-R9",
-  "price": "36",
-  "currency": "DKK",
-  "valid_from": "19-10-2026",
-  "valid_until": "26-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fa0b5f883e78cdd8b400cdc8324730a1d&w=300&s=e6fe181ce9af1446ef351d5fb68cbc4f"
- },
- {
   "link": "/365discount?publication=c_Uap4qx&offer=TwJkGyweO7pdB8dWYYgeM",
   "price": "38",
   "currency": "DKK",
   "valid_from": "21-10-2026",
   "valid_until": "28-10-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2FDWZE1w%2F97dac62abc416be515c0089a3f86a8b0&w=300&s=dcbeeb70b0f92a2f034d595ccf2c4de8"
+ },
+ {
+  "link": "/Wolt-Market?publication=2aO4DeAi&offer=hHCOzmjveZQNIB5Jxa-R9",
+  "price": "36",
+  "currency": "DKK",
+  "valid_from": "19-10-2026",
+  "valid_until": "26-10-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fa0b5f883e78cdd8b400cdc8324730a1d&w=300&s=e6fe181ce9af1446ef351d5fb68cbc4f"
  },
  {
   "link": "/Kvickly?publication=G5LCf8rw&offer=4c9COsY0nbZzJahLmq27o",
