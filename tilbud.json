@@ -112,20 +112,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6id58iTh%2Fp-replacement-EhVFFld8-32.webp&w=300&x1r=0.36&x2r=0.96&y1r=0.05&y2r=0.94&s=24d3e129d7973318058b7c40d5a7b162"
  },
  {
-  "link": "/Calle?publication=cJnDJSP3&offer=BTc2rwRPB2V5MogMlz_oe",
-  "price": "82.82",
-  "currency": "DKK",
-  "valid_from": "20-10-2026",
-  "valid_until": "03-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcJnDJSP3%2Fp-replacement-ifRl8ZHW-24.webp&w=300&x1r=0.02&x2r=0.39&y1r=0.5&y2r=0.74&s=3337c35316689ff5d60f74d2ec3ccac5"
- },
- {
   "link": "/LET-KOB?publication=IYBrdwHA&offer=V8M1YabWPy1KIsGrsGDxn",
   "price": "65",
   "currency": "DKK",
   "valid_from": "18-10-2026",
   "valid_until": "01-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIYBrdwHA%2Fp-1.webp&w=300&x1r=0.51&x2r=0.96&y1r=0.28&y2r=0.54&s=d1514b2dcf4bb76f01d6fbc564b68ac2"
+ },
+ {
+  "link": "/Calle?publication=cJnDJSP3&offer=BTc2rwRPB2V5MogMlz_oe",
+  "price": "82.82",
+  "currency": "DKK",
+  "valid_from": "20-10-2026",
+  "valid_until": "03-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcJnDJSP3%2Fp-replacement-ifRl8ZHW-24.webp&w=300&x1r=0.02&x2r=0.39&y1r=0.5&y2r=0.74&s=3337c35316689ff5d60f74d2ec3ccac5"
  },
  {
   "link": "/Calle?publication=ph90GEkC&offer=6XUenyp28AHrv1jjWNzvD",
@@ -216,20 +216,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FeR56nug4%2Fp-9.webp&w=300&x1r=0.5&x2r=0.97&y1r=0.67&y2r=0.98&s=6723616fa8546416332edbd8274c9e81"
  },
  {
-  "link": "/Wolt-Market?publication=2aO4DeAi&offer=hHCOzmjveZQNIB5Jxa-R9",
-  "price": "36",
-  "currency": "DKK",
-  "valid_from": "19-10-2026",
-  "valid_until": "26-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fa0b5f883e78cdd8b400cdc8324730a1d&w=300&s=e6fe181ce9af1446ef351d5fb68cbc4f"
- },
- {
   "link": "/SuperBrugsen?publication=GVTN-w71&offer=u6DABvvf1ami54aQ_q2Cq",
   "price": "79",
   "currency": "DKK",
   "valid_from": "30-09-2026",
   "valid_until": "31-10-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2F641d2d4c32f5ea0f204dd7d47df82c47&w=300&s=bd64c44c2fbbeefbde56aae8a7fb68ee"
+ },
+ {
+  "link": "/Wolt-Market?publication=2aO4DeAi&offer=hHCOzmjveZQNIB5Jxa-R9",
+  "price": "36",
+  "currency": "DKK",
+  "valid_from": "19-10-2026",
+  "valid_until": "26-10-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fi7NdvM%2Fa0b5f883e78cdd8b400cdc8324730a1d&w=300&s=e6fe181ce9af1446ef351d5fb68cbc4f"
  },
  {
   "link": "/365discount?publication=c_Uap4qx&offer=TwJkGyweO7pdB8dWYYgeM",
