@@ -48,14 +48,6 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIYBrdwHA%2Fp-4.webp&w=300&x1r=0.035&x2r=0.49&y1r=0.054&y2r=0.658&s=3189eb48c9cd7435783b0fd9c45f0e1f"
  },
  {
-  "link": "/nemlig?publication=VfLiENHP&offer=f-KbWaYMBh-SSJ4S_5cfw",
-  "price": "13",
-  "currency": "DKK",
-  "valid_from": "25-10-2026",
-  "valid_until": "31-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Ff858c17d3b7c7b4573ea58ad41e20402%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F5ac67423ca650d95bbed97ea870ae94a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F642b7653a6790b7653d99513157998e1&w=300&s=d1095e9b314f31856bd3d6762176246a"
- },
- {
   "link": "/365discount?publication=wlH_YAWe&offer=nO2Z-ZJZwVHHX53CtgHzl",
   "price": "8",
   "currency": "DKK",
@@ -208,20 +200,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2F641d2d4c32f5ea0f204dd7d47df82c47&w=300&s=bd64c44c2fbbeefbde56aae8a7fb68ee"
  },
  {
-  "link": "/Fleggaard?publication=xaJESUn_&offer=Yas9x0OeqfFqQQsoYbcI_",
-  "price": "82",
-  "currency": "DKK",
-  "valid_from": "20-10-2026",
-  "valid_until": "03-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxaJESUn_%2Fp-replacement-me-BWHH7-3.webp&w=300&x1r=0.02&x2r=0.56&y1r=0.01&y2r=0.44&s=7b32d10512bf4ebec133d3292664b128"
- },
- {
   "link": "/365discount?publication=c_Uap4qx&offer=TwJkGyweO7pdB8dWYYgeM",
   "price": "38",
   "currency": "DKK",
   "valid_from": "21-10-2026",
   "valid_until": "28-10-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2FDWZE1w%2F97dac62abc416be515c0089a3f86a8b0&w=300&s=dcbeeb70b0f92a2f034d595ccf2c4de8"
+ },
+ {
+  "link": "/Fleggaard?publication=xaJESUn_&offer=Yas9x0OeqfFqQQsoYbcI_",
+  "price": "82",
+  "currency": "DKK",
+  "valid_from": "20-10-2026",
+  "valid_until": "03-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxaJESUn_%2Fp-replacement-me-BWHH7-3.webp&w=300&x1r=0.02&x2r=0.56&y1r=0.01&y2r=0.44&s=7b32d10512bf4ebec133d3292664b128"
  },
  {
   "link": "/Kvickly?publication=G5LCf8rw&offer=4c9COsY0nbZzJahLmq27o",
