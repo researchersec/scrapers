@@ -53,7 +53,7 @@
   "currency": "DKK",
   "valid_from": "25-10-2026",
   "valid_until": "31-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Fd52295f5974ab822ac55afc0b5a74d08%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F642b7653a6790b7653d99513157998e1%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Ff858c17d3b7c7b4573ea58ad41e20402&w=300&s=8334c2912957ae77bf82f9016501dba2"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Ff858c17d3b7c7b4573ea58ad41e20402%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F5ac67423ca650d95bbed97ea870ae94a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F642b7653a6790b7653d99513157998e1&w=300&s=d1095e9b314f31856bd3d6762176246a"
  },
  {
   "link": "/365discount?publication=wlH_YAWe&offer=nO2Z-ZJZwVHHX53CtgHzl",
@@ -262,6 +262,14 @@
   "valid_from": "22-10-2026",
   "valid_until": "29-10-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7HeFyouf%2Fp-replacement-1vHqrv5j-29.webp&w=300&x1r=0.035&x2r=0.45&y1r=0.52&y2r=0.775&s=3c4c0c32d680612a10873ff1df11139a"
+ },
+ {
+  "link": "/Lidl?publication=zWxK5Xry&offer=wWUyGt4UXSnEKacunmqOE",
+  "price": "55",
+  "currency": "DKK",
+  "valid_from": "28-10-2026",
+  "valid_until": "31-10-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzWxK5Xry%2Fp-replacement-obFAg-OM-1.webp&w=300&x1r=0.34&x2r=0.98&y1r=0.195&y2r=0.485&s=f7f7abf816c7297798bede2bbbc2c4a2"
  },
  {
   "link": "/fotex?publication=xL4OW4sV&offer=O92tZBnDNB7g05r3KYFRE",
