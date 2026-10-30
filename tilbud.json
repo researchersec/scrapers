@@ -29,7 +29,7 @@
   "currency": "DKK",
   "valid_from": "25-10-2026",
   "valid_until": "31-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F035098ccddaadfcd8cefaccafbbec8be%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Ff858c17d3b7c7b4573ea58ad41e20402%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Fd52295f5974ab822ac55afc0b5a74d08&w=300&s=bba1cc55505f048a4381882f88826ada"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F5ac67423ca650d95bbed97ea870ae94a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F035098ccddaadfcd8cefaccafbbec8be%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F642b7653a6790b7653d99513157998e1&w=300&s=065674118f82c775e15afff52cf8dc3c"
  },
  {
   "link": "/SPAR?publication=ty5ETtLX&offer=rdk5RK6pqtthz6iN6bauD",
@@ -176,28 +176,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWbZr7rED%2Fp-38.webp&w=300&x1r=0.67&x2r=0.97&y1r=0.61&y2r=0.97&s=0d064ed0056b47a796961c208069defa"
  },
  {
-  "link": "/SuperBrugsen?publication=GVTN-w71&offer=u6DABvvf1ami54aQ_q2Cq",
-  "price": "79",
-  "currency": "DKK",
-  "valid_from": "30-09-2026",
-  "valid_until": "31-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2F641d2d4c32f5ea0f204dd7d47df82c47&w=300&s=bd64c44c2fbbeefbde56aae8a7fb68ee"
- },
- {
   "link": "/Fleggaard?publication=xaJESUn_&offer=Yas9x0OeqfFqQQsoYbcI_",
   "price": "82",
   "currency": "DKK",
   "valid_from": "20-10-2026",
   "valid_until": "03-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxaJESUn_%2Fp-replacement-me-BWHH7-3.webp&w=300&x1r=0.02&x2r=0.56&y1r=0.01&y2r=0.44&s=7b32d10512bf4ebec133d3292664b128"
- },
- {
-  "link": "/Kvickly?publication=G5LCf8rw&offer=4c9COsY0nbZzJahLmq27o",
-  "price": "79",
-  "currency": "DKK",
-  "valid_from": "30-09-2026",
-  "valid_until": "31-10-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2F641d2d4c32f5ea0f204dd7d47df82c47&w=300&s=bd64c44c2fbbeefbde56aae8a7fb68ee"
  },
  {
   "link": "/SuperBrugsen?publication=BIuaOLhq&offer=3nT1w5GrA9MeF3IlkGeuo",
@@ -216,20 +200,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd311fg%2F3df6299d0d5d1e1a6828c80ce5f1667d&w=300&s=b04cfe53e09db352a53320a2fddcec76"
  },
  {
-  "link": "/fotex?publication=u3fOXiXJ&offer=ZxCXWyGAubGOENs6GXE1V",
-  "price": "140",
-  "currency": "DKK",
-  "valid_from": "29-10-2026",
-  "valid_until": "12-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fu3fOXiXJ%2Fp-replacement-XoNOhd5z-48.webp&w=300&x1r=0.67&x2r=0.98&y1r=0.1&y2r=0.38&s=1da079951bc1a9644739f636d54b6604"
- },
- {
   "link": "/Kvickly?publication=a3-cyug3&offer=5aGFE0-sqOq6LPdBUmaA3",
   "price": "140",
   "currency": "DKK",
   "valid_from": "29-10-2026",
   "valid_until": "05-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2F2cacfee034a05aabd63c01026bf2eae9%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2Faa5a7a8f3306c095e2624477b4e7bc15%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2Fa3fe4c2b59b4b8ffebb16fd4d8c97778&w=300&s=5bb73e9396e75a229b78ee59d7306c26"
+ },
+ {
+  "link": "/fotex?publication=u3fOXiXJ&offer=ZxCXWyGAubGOENs6GXE1V",
+  "price": "140",
+  "currency": "DKK",
+  "valid_from": "29-10-2026",
+  "valid_until": "12-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fu3fOXiXJ%2Fp-replacement-XoNOhd5z-48.webp&w=300&x1r=0.67&x2r=0.98&y1r=0.1&y2r=0.38&s=1da079951bc1a9644739f636d54b6604"
  },
  {
   "link": "/fakta-Tyskland?publication=iKqaRXzV&offer=767CnwGOTQ59rnd5_nuz_",
