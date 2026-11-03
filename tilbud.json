@@ -93,7 +93,7 @@
   "currency": "DKK",
   "valid_from": "01-11-2026",
   "valid_until": "07-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Fd870006caaab6b3965b6b9f65b529ca5%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F1865cae55a0ded18ad84dee20485611e%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F2342ead2887d497ff352ab345ea0ecaa&w=300&s=d656735d560a8d2a94cb3a8696f0eb04"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Fe48c693bba560ca968ac85e126aa164b%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Ff92b16279ba297fbee7bf72e5b775318%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Fc83f5573f479d17aab1b01c17b998e82&w=300&s=47089871f3c912c2af152f7dc4c76398"
  },
  {
   "link": "/Calle?publication=cJnDJSP3&offer=l1iajtKX1GPS27rvCQ0fT",
@@ -144,20 +144,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FT0LwwCPU%2Fp-replacement-CRD2y0ai-10.webp&w=300&x1r=0.51&x2r=0.96&y1r=0.34&y2r=0.63&s=54d9a1041667a70766ff4ae68fb000ee"
  },
  {
-  "link": "/BorderShop?publication=T0LwwCPU&offer=IQOWmS0Z5WrywBPz78O2d",
-  "price": "81.95",
-  "currency": "DKK",
-  "valid_from": "03-11-2026",
-  "valid_until": "30-12-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FT0LwwCPU%2Fp-replacement-CRD2y0ai-10.webp&w=300&x1r=0.51&x2r=0.96&y1r=0.64&y2r=0.97&s=c66a5500b02fc96e4f47d0b4ce658482"
- },
- {
   "link": "/Fleggaard?publication=U-ACNUNL&offer=wo7zDJUMVGjhYQDpPkavf",
   "price": "82",
   "currency": "DKK",
   "valid_from": "03-11-2026",
   "valid_until": "24-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FU-ACNUNL%2Fp-2.webp&w=300&x1r=0.02&x2r=0.56&y1r=0.01&y2r=0.43&s=50745748ad645e0f4cf2db39b7927023"
+ },
+ {
+  "link": "/BorderShop?publication=T0LwwCPU&offer=IQOWmS0Z5WrywBPz78O2d",
+  "price": "81.95",
+  "currency": "DKK",
+  "valid_from": "03-11-2026",
+  "valid_until": "30-12-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FT0LwwCPU%2Fp-replacement-CRD2y0ai-10.webp&w=300&x1r=0.51&x2r=0.96&y1r=0.64&y2r=0.97&s=c66a5500b02fc96e4f47d0b4ce658482"
  },
  {
   "link": "/Nielsen-Scan-Shop?publication=YRAxyQDx&offer=7HqLbAacYPP8X-WnhZplt",
