@@ -216,20 +216,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2F2cacfee034a05aabd63c01026bf2eae9%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2Faa5a7a8f3306c095e2624477b4e7bc15%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2Fa3fe4c2b59b4b8ffebb16fd4d8c97778&w=300&s=5bb73e9396e75a229b78ee59d7306c26"
  },
  {
-  "link": "/Calle?publication=HnQxKDqD&offer=3vXANNVR5CJulFZYiJQ7D",
-  "price": "82.82",
-  "currency": "DKK",
-  "valid_from": "03-11-2026",
-  "valid_until": "24-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHnQxKDqD%2Fp-24.webp&w=300&x1r=0.02&x2r=0.39&y1r=0.5&y2r=0.74&s=7b449fe03f068b9380f3d6fa0e28e3b3"
- },
- {
   "link": "/nemlig?publication=mGvb9XLu&offer=syyC62chMvF3v-SpgQJzO",
   "price": "79",
   "currency": "DKK",
   "valid_from": "01-11-2026",
   "valid_until": "07-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F00bdd31a0d7c440ddee45173e68428dd&w=300&s=861b5cb2c639088952ea2ebc29fc020f"
+ },
+ {
+  "link": "/Calle?publication=HnQxKDqD&offer=3vXANNVR5CJulFZYiJQ7D",
+  "price": "82.82",
+  "currency": "DKK",
+  "valid_from": "03-11-2026",
+  "valid_until": "24-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHnQxKDqD%2Fp-24.webp&w=300&x1r=0.02&x2r=0.39&y1r=0.5&y2r=0.74&s=7b449fe03f068b9380f3d6fa0e28e3b3"
  },
  {
   "link": "/fakta-Tyskland?publication=iKqaRXzV&offer=767CnwGOTQ59rnd5_nuz_",
