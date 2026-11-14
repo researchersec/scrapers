@@ -24,20 +24,20 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd311fg%2Fa9211942697af244d7f836a7c3dad5c7%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd311fg%2F8b35778b4be286e70c693ae5f0c5f812&w=300&s=43b2496df37bae4473454ec6ebc2af1b"
  },
  {
-  "link": "/REMA-1000?publication=8Lj2H5xd&offer=A6Bp_YHGE8hApTkXaeE1A",
-  "price": "12",
-  "currency": "DKK",
-  "valid_from": "14-11-2026",
-  "valid_until": "21-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8Lj2H5xd%2Fp-12.webp&w=300&x1r=0.03&x2r=0.54&y1r=0.69&y2r=0.98&s=8d40d814b516a2b9da22976e99b9bac2"
- },
- {
   "link": "/Fleggaard?publication=1NRp-JGF&offer=m7EDu8Zka__Y9jW3LD4qy",
   "price": "16",
   "currency": "DKK",
   "valid_from": "03-11-2026",
   "valid_until": "24-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F772602188d43672db4fd7291073c20a1%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Ffa2b98e962667391d41a05b53431f5eb&w=300&s=6f9471107a9d90881cd57969a67f8dc9"
+ },
+ {
+  "link": "/REMA-1000?publication=8Lj2H5xd&offer=A6Bp_YHGE8hApTkXaeE1A",
+  "price": "12",
+  "currency": "DKK",
+  "valid_from": "14-11-2026",
+  "valid_until": "21-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8Lj2H5xd%2Fp-12.webp&w=300&x1r=0.03&x2r=0.54&y1r=0.69&y2r=0.98&s=8d40d814b516a2b9da22976e99b9bac2"
  },
  {
   "link": "/SuperBrugsen?publication=eUAelhQH&offer=Ya3vr4ku-C5ZT5DkXwwCj",
@@ -190,14 +190,6 @@
   "valid_from": "12-11-2026",
   "valid_until": "26-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHKk1NC3J%2Fp-replacement-yFO8dKCY-51.webp&w=300&x1r=0.364&x2r=0.98&y1r=0.01&y2r=0.256&s=4a1f66804fc48d7f5af99803f4812f09"
- },
- {
-  "link": "/Netto?publication=rP8uM8Or&offer=8bZOXN2aodtfCKQQm3hKl",
-  "price": "69",
-  "currency": "DKK",
-  "valid_from": "06-11-2026",
-  "valid_until": "13-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FrP8uM8Or%2Fp-replacement-qgPo5-qY-25.webp&w=300&x1r=0.015&x2r=0.495&y1r=0.415&y2r=0.685&s=30c249c7df9198335247b82b3777a736"
  },
  {
   "link": "/Bilka?publication=e8lTiE40&offer=EI-oEegB6q6ChZBEjyy7k",
