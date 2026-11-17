@@ -1,5 +1,14 @@
 [
  {
+  "title": "Nu begynder arbejdet med de kommende flådeskibe for alvor – men usikkerheden fylder",
+  "description": "I Frederikshavn tager man nu første skridt for at kunne samle Forsvarets nye skibe. Men spørgsmålet er, om byens kommende værft overhovedet skal bruges til den opgave?",
+  "link": "https://www.dr.dk/nyheder/indland/nu-begynder-arbejdet-med-de-kommende-flaadeskibe-alvor-men-usikkerheden-fylder",
+  "published": "Mon, 16 Nov 2026 20:39:00 GMT",
+  "guid": "urn:dr:umbraco:article:c3217530-e2d9-4353-8a6d-6f33df4a3d8d",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/wuyj42p3/20250910-161835-4-8640x5760ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "400 nisser hjælper på Carinas PTSD",
   "description": "No description",
   "link": "https://www.dr.dk/nyheder/indland/reels/400-nisser-hjaelper-paa-carinas-ptsd",
@@ -165,13 +174,20 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/anokca1t/20211105-073956-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Mikkel har fået ulvekobbel som nabo. De truer hans kvægavl",
-  "description": "Køerne afgræsser et bakket naturområde, hvor det er reelt er umuligt at opsætte et hegn, der holder ulve ude.",
-  "link": "https://www.dr.dk/nyheder/indland/mikkel-har-faaet-ulvekobbel-som-nabo-de-truer-hans-kvaegavl",
-  "published": "Tue, 03 Nov 2026 07:35:00 GMT",
-  "guid": "urn:dr:umbraco:article:764fe058-4879-4aad-9e02-ee9f701a8f1c",
-  "category": "No category",
-  "media_content": "https://asset.dr.dk/drdk/umbraco-images/jmxhgymg/20261008-132938-4_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+  "title": "Uheld på Limfjordsbroen - mand er flygtet fra stedet",
+  "description": "<p>Mandag aften har Nordjyllands Politi været til stede på Limfjordsbroen, hvor der er sket et uheld.</p><p>Det fortæller vagtchef Torben Arendrup.</p><p>Det er to biler, der er kørt sammen på broen, men den ene part, en mand, er flygtet fra stedet, fortæller han videre. </p><p>Politiet forsøger i øjeblikket at lokalisere manden, og politiet har flere spor at forfølge.</p><p>Som følge af uheldet har to spor været spærret, men der er fri passage igen, fortæller vagtchefen videre.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/uheld-pa-limfjordsbroen-mand-er-flygtet-fra-stedet-468d2",
+  "published": "Mon, 16 Nov 26 22:16:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/uheld-pa-limfjordsbroen-mand-er-flygtet-fra-stedet-468d2",
+  "category": "No category"
+ },
+ {
+  "title": "Nu kommer frosten for alvor – ned til minus fem grader i løbet af ugen",
+  "description": "<p>Frost og sne har allerede været på besøg i Danmark, men indtil nu har frosten ikke bidt så hårdt.</p><p>Det ændrer sig i denne uge, hvor termometeret kan komme under minus 5 grader flere nætter.</p><h2>Risiko for frostsprængninger</h2><p>Selvom minus 5 grader ikke er hård frost, kan det være nok til at ødelægge en udebruser eller højtryksrenser, der står ude eller i et uisoleret skur.</p> <p>Har man en udevandhane, der ikke er bygget til at klare frost, er det derfor nu, der skal lukkes for vandet.</p><p>Typisk er vandrør i et sommerhus ikke i fare, før frosten bliver noget hårdere. Men har man ikke lukket for vandet endnu, kan det være en fornuftig idé, hvis man har et ældre sommerhus.</p><p>Frosten bliver dog typisk ikke så hård tæt på kysten. Havet omkring Danmark er stadig ni grader, hvilket er 2 til 3 grader varmere end normalt.</p><p>Så risikoen er størst inde i landet.</p> <h2>Glat føre meget af ugen</h2><p>I starten af efteråret har jorden og vejbanerne ophobet varme, og det er sjældent, at den første lette frost giver glatføre.</p><p>Men nu er sommerens varme ved at være ude af jorden, og når frosten kommer, kan vejbaner og fortov hurtigt nå frysepunktet.</p><p>Det er dermed også en uge, hvor vinterdæk skal være klar til morgentrafikken, ellers kan det øge risikoen for uheld.</p><p>Efter weekenden er der stor usikkerhed i prognoserne, så hvor længe nattefrosten forbliver, er usikkert.</p>",
+  "link": "https://www.tv2nord.dk/nordjylland/nu-kommer-frosten-for-alvor-ned-til-minus-5-i-lobet-af-ugen-365e8",
+  "published": "Mon, 16 Nov 26 22:10:00 +0100",
+  "guid": "https://www.tv2nord.dk/nordjylland/nu-kommer-frosten-for-alvor-ned-til-minus-5-i-lobet-af-ugen-365e8",
+  "category": "No category"
  },
  {
   "title": "Farligt vejrskifte mandag aften og nat",
@@ -187,6 +203,14 @@
   "link": "https://www.tv2nord.dk/jammerbugt/migatronic-salg-kan-ske-i-den-her-uge-kurator-forhandler-med-flere-interesserede-kobere-2da2b",
   "published": "Mon, 16 Nov 26 19:34:00 +0100",
   "guid": "https://www.tv2nord.dk/jammerbugt/migatronic-salg-kan-ske-i-den-her-uge-kurator-forhandler-med-flere-interesserede-kobere-2da2b",
+  "category": "No category"
+ },
+ {
+  "title": "Det undrer Venstre-borgmester",
+  "description": "<p>Ved weekendens Venstre-landsmøde i Herning var &#039;grøn troværdighed&#039; to ord, som fyldte.</p><p>Det var dem, partiformand Troels Lund Poulsen brugte i sin landsmødetale i det afsnit, som handlede om, hvad det er for en meget omtalt grøn &#039;rejse&#039;, han har taget Venstre på, går ud på.</p><p>- Vi har ikke været gode nok til at omfavne fortællingen om de grønne forandringer, der er nødvendige for at sikre vores klima, miljø og natur, sagde Venstres formand lørdag formiddag og tilføjede:</p><p>- Det skal ændre sig, hvis Venstre, som en del af vores grønne rejse, skal opbygge grøn troværdighed, sagde han.</p><p>Dagen efter dagen derpå undrer Thisteds Venstre-borgmester, Niels Jørgen Pedersen, sig over, hvad det er, Troels Lund Poulsen mener.</p><p>- Der, hvor hovedparten af de 42 (Venstre-, red.) borgmestre er, det er ude i landdistrikterne. Jeg synes egentlig, at Venstre har rigtig meget grøn troværdighed.</p><p>Thisted-borgmesteren er en af de baglandsstemmer, som har været allermest kritisk over for de forandringer, hans partiets formand og næstformand har pålagt Venstre.</p><p>For eksempel<a href=\"https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik?entry=b633dc97-9542-4bd3-af64-31293c61905f\" target=\"_blank\"><strong> har han meget eksplicit taget afstand</strong></a> fra den omdiskuterede gødskningslov, som et flertal i Venstres folketingsgruppe for nogle måneder siden stemte for.</p> <p>Niels Jørgen Pedersen <a href=\"https://www.tv2nord.dk/nordjylland/soren-gade-er-velkommen-hos-stojberg-207e9?p=12823334\"><strong>valgte i weekenden ikke at medvirke i Venstres landsmøde</strong></a> – men har hørt, hvad det var, Troels Lund Poulsen sagde i sin landsmødetale.</p><p>- Jeg tænker, at nu er der nogen, der vil videre, og formandskabet vil også videre. Der skal også være plads til landbruget fremadrettet, siger Niels Jørgen Pedersen.</p><p>Thisted-borgmesteren fortæller, at der i det Venstre-bagland i Thy, han møder, er endog meget kritiske holdninger til partiets kurs.</p><p>En lokalafdeling i Venstre i Midtthy sendte <a href=\"https://jyllands-posten.dk/politik/ECE19828105/vestjysk-offensiv-mod-troels-lund-sender-vredt-brev-til-formanden/\" target=\"_blank\"><strong>ifølge Jyllands-Posten</strong></a> et kritisk brev til partitoppen, hvor de kritiserede Troels Lund Poulsens linje. Medlemmerne skrev, at de kan finde på at melde sig ud af partiet.</p><p>-  <em>Niels Jørgen Pedersen, kan du blive i Venstre?</em></p><p><em>- </em>Jeg tror aldrig, jeg har sagt, at jeg vil melde mig ud af Venstre - men i den lokalforening, hvor jeg er opstillet i, er der ni bestyrelsesmedlemmer, der overvejer deres medlemskab. Det påvirker også mig, siger han.</p><p>Niels Jørgen Pedersen fortæller, at både hans far og bedstefar var medlemmer af Venstre, og at det også er medvirkende til, at han ikke vender ryggen til partiet. Men han siger også, at det er sværere, end det var i de tidligere generationers tid.</p><p>- Det er der jo ingen tvivl om, at det var meget, meget nemmere - at det var en anden verden dengang.</p><p>TV MIDTVEST har forelagt Venstre Niels Jørgen Pedersens undren over partiformand Troels Lund Poulsens ord om ”grøn troværdighed”. Partiet er ikke vendt tilbage på henvendelsen.</p>",
+  "link": "https://www.tv2nord.dk/thisted/det-undrer-venstre-borgmester-fc689",
+  "published": "Mon, 16 Nov 26 19:04:00 +0100",
+  "guid": "https://www.tv2nord.dk/thisted/det-undrer-venstre-borgmester-fc689",
   "category": "No category"
  },
  {
@@ -227,30 +251,6 @@
   "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/nu-er-der-indfort-forbud-mod-at-fiske-stenbider-pa-ubestemt-tid-85bfd",
   "published": "Mon, 16 Nov 26 15:15:00 +0100",
   "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/nu-er-der-indfort-forbud-mod-at-fiske-stenbider-pa-ubestemt-tid-85bfd",
-  "category": "No category"
- },
- {
-  "title": "Spor var blokeret på E45 på grund af havareret køretøj",
-  "description": "<p><em>Opdateret 16.10: Bilen er fjernet igen og sporet er ikke blokeret længere. </em></p><p>Mandag eftermiddag var et spor blokeret på E45 i sydgående retning mellem 29 Svenstrup og 30 Støvring N.</p><p>Det fremgik af Vejdirektoratets <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">trafikkort</a>. </p><p>Sporet var blokeret som følge af et havareret køretøj. </p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-blokeret-pa-e45-pa-grund-af-havareret-koretoj-a4bd8",
-  "published": "Mon, 16 Nov 26 15:05:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/spor-blokeret-pa-e45-pa-grund-af-havareret-koretoj-a4bd8",
-  "category": "No category"
- },
- {
-  "title": "Arbejdet med kæmpe naturprojekt kan fortsætte",
-  "description": "<p>Naturnationalpark Læsø Klitplantage er kommet endnu tættere på en realisering, efter at projektbeskrivelsen for den nye nationalpark har været i offentlig høring.</p><p>- Vi har fået rigtig mange gode input til den kommende naturnationalpark. Det har ført til en række mindre ændringer, fortæller skovrider Jesper Blom Hansen, der glæder sig over fremskridtet, i en pressemeddelelse.</p><p>Håbet med den nye naturnationalpark er at skabe mere biodiversitet. Man planlægger at placere ponyer i naturparken, der vil sikre mere variation i miljøet og mere plads til hjemmehørende plantearter.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/laesoe/arbejdet-med-kaempe-naturprojekt-kan-fortsaette-f449a",
-  "published": "Mon, 16 Nov 26 14:09:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/laesoe/arbejdet-med-kaempe-naturprojekt-kan-fortsaette-f449a",
-  "category": "No category"
- },
- {
-  "title": "Ulveobservation afkræftet: - Det er en stor, flot ræv",
-  "description": "<p>Der er alligevel ikke tale om en ulv, der blev spottet ved Sæby fredag på et vildtkamera. Vi har været kontakt med fagpersoner, der fortæller, at der i stedet er tale om en ræv på videoen.</p><p>En række jægere mente, at der måtte være tale om en ulv.</p><p>TV2 Nord har sendt videoen til både Mikkel Vestergaard Rødvig, der er naturvejleder i Aalborg Kommune og Ivar Høst, der er vildtkonsulent. Og de er helt enige.</p><p>- Jeg tør godt lægge min faglighed på blokken og sige, at det er en ræv. Og det er en stor, flot ræv, men ikke en ulv, fortæller Mikkel Vestergaard Rødvig.</p><p>Du kan læse mere <a href=\"https://www.tv2nord.dk/frederikshavn/ulven-i-saeby-er-en-raev-34549\">HER</a>.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/ulveobservation-afkraeftet-det-er-en-stor-flot-raev-576a7",
-  "published": "Mon, 16 Nov 26 13:56:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/ulveobservation-afkraeftet-det-er-en-stor-flot-raev-576a7",
   "category": "No category"
  },
  {
