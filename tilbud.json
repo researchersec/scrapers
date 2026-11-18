@@ -64,12 +64,28 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2Fbfe7f6dfcc5fdd85401695b31a802a4e&w=300&s=0169c8438afdcb7b97a62cdfa7027d16"
  },
  {
+  "link": "/Lidl?publication=v-BKAzfh&offer=-W8iWO7Zv697d8tD4oSJF",
+  "price": "8",
+  "currency": "DKK",
+  "valid_from": "21-11-2026",
+  "valid_until": "28-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fv-BKAzfh%2Fp-replacement-GkkSqcbu-5.webp&w=300&x1r=0.34&x2r=0.66&y1r=0.72&y2r=0.94&s=b5f888d984a2743bd45b157d57e22ed8"
+ },
+ {
+  "link": "/Bilka?publication=rXkIXCi1&offer=oKhw5nstptHjdb4szbQJa",
+  "price": "15",
+  "currency": "DKK",
+  "valid_from": "19-11-2026",
+  "valid_until": "26-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FrXkIXCi1%2Fp-replacement-jTfi47c4-49.webp&w=300&x1r=0.35&x2r=0.95&y1r=0.02&y2r=0.49&s=d565854bd5b350ed1c2d271556a85493"
+ },
+ {
   "link": "/nemlig?publication=E0oF7JgS&offer=01PwV0eWziZ-1m4cLhwI7",
   "price": "16",
   "currency": "DKK",
   "valid_from": "15-11-2026",
   "valid_until": "21-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F035098ccddaadfcd8cefaccafbbec8be%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Fd52295f5974ab822ac55afc0b5a74d08%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F5ac67423ca650d95bbed97ea870ae94a&w=300&s=ea3f30408ddfd9ffd1a2168a574b0589"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F719be0e4e5da91eb6bf88e0c6bde6444%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Ff858c17d3b7c7b4573ea58ad41e20402%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F5ac67423ca650d95bbed97ea870ae94a&w=300&s=e2fe0120a25399a5fbe25e7680c39fc6"
  },
  {
   "link": "/SPAR?publication=GbG_5-lp&offer=g5eBh2gvmnl6mreviYSKA",
@@ -126,6 +142,14 @@
   "valid_from": "03-11-2026",
   "valid_until": "24-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F0e9eec68b1bca350fd2580f5ff993936&w=300&s=2de00af32e292a2faf561f4f69df4c5d"
+ },
+ {
+  "link": "/Bilka?publication=rXkIXCi1&offer=dTZZOldoE4sHEUPVqtjsp",
+  "price": "99",
+  "currency": "DKK",
+  "valid_from": "19-11-2026",
+  "valid_until": "26-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FrXkIXCi1%2Fp-replacement-jTfi47c4-44.webp&w=300&x1r=0.35&x2r=0.98&y1r=0.49&y2r=0.71&s=067b713de87ab9a73de0441e08b99892"
  },
  {
   "link": "/LET-KOB?publication=iN_fmw_s&offer=7v1i1pQcKDL5kBNC1_AV4",
@@ -224,12 +248,12 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F6541b239844af2997c85795ac7ede777%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F1ca2c65c7e7037e54333e0c96cd418ef%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F667094ec9f0ba98bc584a8b2b4374c4d%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2Fa5825471a66cc3f72de8100e1dab8e21%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F6e09Z%2F5395ca3cf6a75ac923e458b14c38f255&w=300&s=c5b46e9fce64661364aaa6ab19c43616"
  },
  {
-  "link": "/Calle?publication=LvAjtNM3&offer=ibVl09-kqezXCLRHHUI0M",
+  "link": "/Calle?publication=HnQxKDqD&offer=3vXANNVR5CJulFZYiJQ7D",
   "price": "82.82",
   "currency": "DKK",
   "valid_from": "03-11-2026",
   "valid_until": "24-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-bumblebee%2Ffeed-images%2F2fd4b027b026b3896ca77d24223ea29e&w=300&s=b00df0e3d911c326fe0203ff262b5768"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHnQxKDqD%2Fp-24.webp&w=300&x1r=0.02&x2r=0.39&y1r=0.5&y2r=0.74&s=7b449fe03f068b9380f3d6fa0e28e3b3"
  },
  {
   "link": "/fakta-Tyskland?publication=WfRvGXIX&offer=ymn7jCI2bC2rE5oCQDJzt",
