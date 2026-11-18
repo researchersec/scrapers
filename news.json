@@ -1,5 +1,14 @@
 [
  {
+  "title": "DR Nordjylland: Gratis workshop om kildekritik, AI og fake news.",
+  "description": "I foråret 2027 tilbyder vi igen workshops for elever i 8., 9. og 10. klasse.",
+  "link": "https://www.dr.dk/skole/dansk/udskoling/dr-nordjylland-tag-klassen-med-til-workshop-om-kildekritik-nyheder-og-fake",
+  "published": "Wed, 18 Nov 2026 05:19:00 GMT",
+  "guid": "urn:dr:drupal:article:7928fb88-6754-45a7-8f35-a4176a64dcb3",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/z3vh1wtb/dr_nordjylland.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
   "title": "Flere plejehjem låser dørene tidligere efter besøg af mystisk mand",
   "description": "På et nordjysk plejehjem er flere telefoner blevet stjålet.",
   "link": "https://www.dr.dk/nyheder/indland/flere-plejehjem-laaser-doerene-tidligere-efter-besoeg-af-mystisk-mand",
@@ -7,6 +16,15 @@
   "guid": "urn:dr:umbraco:article:4cc9bb8a-19ef-4769-ad36-c1c6eec34d62",
   "category": "No category",
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/d0yknmjx/stengrden-forside.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+ },
+ {
+  "title": "Boliger 'renoveret' med AI risikerer at vildlede kunderne",
+  "description": "Forbrugerjurist kritiserer ejendomsmæglere for stigende brug af kunstig intelligens i boligannoncer.",
+  "link": "https://www.dr.dk/nyheder/indland/boliger-renoveret-med-ai-risikerer-vildlede-kunderne",
+  "published": "Tue, 17 Nov 2026 12:12:00 GMT",
+  "guid": "urn:dr:umbraco:article:7f28217e-54ba-4693-9566-c0ce0fa192ed",
+  "category": "No category",
+  "media_content": "https://asset.dr.dk/drdk/umbraco-images/zawfvwm4/ai-ejendomsmaegler-visualisering2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
   "title": "Overlæge advarer: Influenzaen kan tage fat allerede inden jul",
@@ -158,100 +176,164 @@
   "media_content": "https://asset.dr.dk/drdk/umbraco-images/hmrdeham/20161104-214701-l-4941x3299ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
  },
  {
-  "title": "Trafikkaos rammer hver eftermiddag - og det slutter ikke lige foreløbig",
-  "description": "Trafikken i Aalborg lider under flere store vejarbejder. Tusindvis af ansatte på byens store arbejdspladser er ramt.",
-  "link": "https://www.dr.dk/nyheder/indland/trafikkaos-rammer-hver-eftermiddag-og-det-slutter-ikke-lige-foreloebig",
-  "published": "Fri, 06 Nov 2026 14:28:00 GMT",
-  "guid": "urn:dr:umbraco:article:28e6c928-5d6a-4a12-9c22-ceaa53538c55",
+  "title": "Uheldet vil ingen ende tage: Aalborg må undvære Arnoldsen og Hoxer mod Füchse Berlin",
+  "description": "<p>Uheldet fortsætter i Aalborg Håndbold, og i aften må nordjyderne undvære både Thomas Arnoldsen, som har været ude i noget tid, og nu også Mads Hoxer, der udgik efter lørdagens nederlag til Skanderborg AGF Håndbold. </p><p>Mads Hoxer er blevet ramt af en skade i lysken, som holder ham ude i 4-6 uger, det oplyser Aalborg Håndbold onsdag. </p><p>- Vi er naturligvis ærgerlige over det, der er sket. Først og fremmest på Mads’ vegne, for han har præsteret rigtig godt i sæsonen indtil videre. Men selvfølgelig er vi også ærgerlige på holdets vegne, fordi vi står foran et tæt program i resten af november og hele december, hvor vi naturligvis gerne ville have haft ham med, udtaler teammanager Martin Larsen i en pressemeddelelse.</p><p>I aften tager aalborgenserne hul på mellemgruppen i Champions League, når Füchse Berlin kommer på besøg. Den tyske klub har nul point med sig, mens Aalborg har et enkelt, men det er altså en svær opgave, der venter nordjyderne, der nu er markant svækket med Mads Hoxers fravær. </p><p>TV2 Nord er tilstede ved aftenens kamp, og du finder mere på vores hjemmeside efter slutfløjtet. </p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/aalborg/uheldet-vil-ingen-ende-tage-aalborg-ma-undvaere-hoxer-og-gidsel-forud-for-topopgor-c4640",
+  "published": "Wed, 18 Nov 26 12:31:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/aalborg/uheldet-vil-ingen-ende-tage-aalborg-ma-undvaere-hoxer-og-gidsel-forud-for-topopgor-c4640",
   "category": "No category"
  },
  {
-  "title": "Kirke har fået 'hat på' igen",
-  "description": "No description",
-  "link": "https://www.dr.dk/nyheder/indland/reels/kirke-har-faaet-hat-paa-igen",
-  "published": "Thu, 05 Nov 2026 19:32:00 GMT",
-  "guid": "urn:dr:umbraco:reel:7d0f9cce-7ba0-41fc-8648-c0c0df04a392",
+  "title": "Virksomhed på vej væk, selvom endelig plan for flådeværft ikke er besluttet",
+  "description": "<p>Julen og nytåret bliver en smule anderledes for KS Maskinfabrik i år. De har fået at vide, at de skal være ude af deres lokaler på Frederikshavn havn per 1. januar, så Forsvaret kan bygge deres nye flådeværft.</p><p>- Vi har fået at vide, at kompensationen er godkendt, og vi skal væk, fortæller Kim Sørensen, der ejer KS Maskinteknik.</p><p>Udvalget for Økonomi og Strategi i Frederikshavn Kommune afholder onsdag eftermiddag møde, hvor de blandt andet skal godkende den endelige kompensation, som skal dække de tre virksomheders omkostninger til deres flytning.</p><h2>Tre milliarder dyrere</h2><p>Selvom beslutningen om bygningen af flåden kom for snart to år siden, så er det i mellemtiden blevet noget dyrere. Ifølge TV2s oplysninger er omkostningerne steget med knap tre milliarder kroner.</p><p>Derfor kom det konkurrerende konsortium ’Orlogsskibe Danmark’ med et alternativt og noget billigere tilbud på at bygge Søværnets nye arktiske skibe.</p> <p>Det vil spare regeringen for flere milliarder kroner, men det betyder også, at Frederikshavn havn vil stå med en tom grund, hvis flådeværftet bliver rykket.</p><p>- Vi kører videre som planlagt. Vi stoler på, at de aftaler, vi laver, bliver overholdt, fortæller Jon Andersen (V), borgmester i kommunen, og formand for Udvalget for Økonomi og Strategi.</p><p><em>Men er det ikke en stor risiko at løbe, hvis I pludselig står med et stort areal, der ikke er lejet ud?</em></p><p>- Set fra min stol, så er det besluttet, at det samlede værft skal ligge på Frederikshavn Havn. Så det er det, vi kører med, fortæller han og fortsætter:</p><p>- Det er jo først og fremmest et havneareal, så bliver det ikke lejet ud til Forsvaret, så bliver det til nogle andre.</p><p>Fra det nye år er KS Maskinteknik flyttet i nye og mere moderne lokaler, og selvom det er gode nyheder, har virksomheden på ingen måde tjent penge på den forestående flytning.</p><p>- Personligt har jeg det fint med det, for vi har fået det, som vi har bedt om. Vi er blevet behandlet fair, ikke super, men fair, fortæller Kim Sørensen fra KS Maskinteknik.</p><p>Om flådeværftet kommer til Frederikshavn Havn eller ej, er endnu uklart, dog forventes der afklaring inden jul.</p>",
+  "link": "https://www.tv2nord.dk/frederikshavn/virksomhed-pa-vej-vaek-selvom-endelig-plan-for-fladevaerft-ikke-er-besluttet-ff344",
+  "published": "Wed, 18 Nov 26 11:59:00 +0100",
+  "guid": "https://www.tv2nord.dk/frederikshavn/virksomhed-pa-vej-vaek-selvom-endelig-plan-for-fladevaerft-ikke-er-besluttet-ff344",
   "category": "No category"
  },
  {
-  "title": "White Hawks taber til Esbjerg",
-  "description": "<p>Det har mildest talt ikke været en succesfuld aften for de to nordjyske ishockeyhold i Metalligaen.</p><p>Aalborg Pirates tabte hjemme, og det samme gjorde Frederikshavn White Hawks.</p><p>De tog imod Esbjerg på hjemmebane, men måtte se sig selv slået med målscoren 1-2.</p><p>Det var Leo Ring, der i tredje periode lykkedes med at udligne til 1-1 med en assist fra Louie Roehl.</p><p>Det var Zane Franklin og Grayson Downing, der fik scoret for Esbjerg.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/frederikshavn/white-hawks-taber-til-esbjerg-e216c",
-  "published": "Tue, 17 Nov 26 21:57:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/frederikshavn/white-hawks-taber-til-esbjerg-e216c",
+  "title": "Tredje indbrud på seks måneder",
+  "description": "<p><a href=\"https://www.tv2nord.dk/rebild/stjal-cykler-for-halvanden-million-a7264\" target=\"_blank\">Først var det i marts</a>, så i september og nu igen i november.</p><p>Uheldene vil ingen ende tage for Smartcykler-DK i Støvring, efter de for tredje gang på seks måneder har haft indbrud, hvor der er stjålet cykler for store beløber. Det skete natten til tirsdag omkring klokken 03.30.</p><p>Denne gang er der stjålet mellem 15 og 17 cykler til en samlet værdi af op mod 750.000 kroner.</p><p>Nordjyllands Politi arbejder intensivt med efterforskningen af både tirsdagens indbrud, mens også indbruddet tilbage i september stadig bliver efterforsket. <a href=\"https://www.tv2nord.dk/aalborg/forhandler-ramt-af-endnu-et-spektakulaert-tyveri-cykler-for-over-en-million-kroner-stjalet-cc84c\" target=\"_blank\">Dengang blev der stjålet 18 cykler for op imod en million kroner.</a></p><p>Dermed er der på et halvt år stjålet cykler for over 3 millioner kroner hos cykelforretningen i Støvring.</p><h2>Interesseret i hjælp fra borgere</h2><p>- Vi arbejder målrettet på at få klarlagt omstændighederne omkring indbruddene og finde frem til de ansvarlige. I den forbindelse vil vi meget gerne høre fra borgere, der har bemærket noget mistænkeligt i området - både før og efter indbruddet, fortæller politikommissær René Hyldgaard Svendsen fra Nordjyllands Politi.</p><p>Politiet er særligt interesseret i oplysninger om køretøjer, der har befundet sig i området omkring Smartcykler-DK i tidsrummet omkring indbruddet natten til tirsdag.</p><p>Hvis man har set noget mistænkeligt eller har oplysninger om sagen, kan man kontakte Nordjyllands Politi på telefon 114.</p>",
+  "link": "https://www.tv2nord.dk/rebild/endnu-et-indbrud-hos-cykelforhandler-d5ae5",
+  "published": "Wed, 18 Nov 26 08:42:00 +0100",
+  "guid": "https://www.tv2nord.dk/rebild/endnu-et-indbrud-hos-cykelforhandler-d5ae5",
   "category": "No category"
  },
  {
-  "title": "Fodboldfeber i Hjørring: Ny sportscafe åbner lige til Danmark-Norge-brag",
-  "description": "<p>Optimismen er stor hos Den Irske Ambassade i Hjørring. Sportcafeen slog dørene op 13. november, og tirsdag aften er stemningen høj på grund af udsigten til, at Danmark tager tre vigtige point over Norge i nations League.</p><p>- Jeg var her i lørdags, så der var fire gange høj stemning. Så jeg håber på, at der bliver to gange høj stemning her i aften. Fordi Danmark, de vinder 2 -1, lyder det fra Bent Bach, der er begejstret over, at der nu ligger en sportcafe i nabolaget.</p><p>Det er nemlig lige præcis sådan et sted, han har manglet.</p><p>- Det er et fantastisk sted, fordi sådan et sted har vi mange her i Hjørring. Et sted, hvor man kan få et godt fadøl, og man kan sige, at man kan få et godt fodbold. Så det er rigtig dejligt, og så kan vi også følge Vendsyssel FFs hjemmekampe og udbanekampe, siger han videre.</p><h2>Åbnede til Portugal-ydmygelse</h2><p>Og åbningen kunne nærmest ikke være timet bedre. For lørdag viste Danmark flot facon i kampen mod Portugal, hvor de ydmygede portugiserne på hjemmebane med en 4-1 sejr.</p><p>- Det var fantastisk. Man kunne nærmest ikke have skrevet det bedre. At starte sådan enirsk-inspireret pub her med livesport og så med en dansk sejr nede i Portugal, det er svært at ønske og drømme om noget mbedre, fortæller indehaver Kasper Raymond Rasmussen.</p><p>På stedet er plads til 150 gæster.</p><p>- Vi synes, at Hjørring manglede lige netop den her type koncept. Så derfor var det meget påfaldende, at vi skulle gribe den bold, siger han.</p><p>Men det er ikke kun fodbold, der skal trække gæsterne til.</p><p>- Jeg synes, at vi har prøvet at redefinere det her iriske pub en lille smule ved at sige, at det egentlig er en aktivitetsbar, hvor man kan spille noget dart og noget shuffle og synge noget karaoke, og så samtidig har vi det her irisk-inspireret tema , fordi man har den her hyggelige atmosfære omkring det, fortæller indehaveren.</p><p>Også han tror på en dansk sejr i aften over broderfolket fra Norge.</p><p>- Mon ikke, at det giver en dansk sejr. Lad os håbe på det, slutter Kasper Raymond Rasmussen.</p> <p>Kampen mod Norge starter 20.45.</p>",
-  "link": "https://www.tv2nord.dk/hjoerring/fodboldfeber-i-hjorring-ny-sportscafe-abner-lige-til-danmark-norge-brag-e6c40",
-  "published": "Tue, 17 Nov 26 20:19:00 +0100",
-  "guid": "https://www.tv2nord.dk/hjoerring/fodboldfeber-i-hjorring-ny-sportscafe-abner-lige-til-danmark-norge-brag-e6c40",
+  "title": "Særlig bus kommer forbi",
+  "description": "<p>Fra onsdag og til og med lørdag, sker der noget, der ikke før er sket i Nordjylland. Her kommer vaccinationsbussen fra Danske Lægers Vaccinations Service nemlig forbi 11 lokale Lidl-butikker.</p><p>Det er Lidl i Aalborg, Aaybybro, Brønderslev, Frederikshavn, Hirtshals, Hjørring, Skagen og Sæby, at man kan blive vaccineret mod influenza.</p><p>Det skriver Danske Lægers Vaccinations Service i en pressemeddelelse.</p><p>Kundedirektør i Lidl Mette Schacht Færch ser frem til samarbejdet, de kommende dage.</p><p>- I Lidl vil vi gerne gøre det lidt nemmere for vores kunder at passe på helbredet og på hinanden. Derfor stiller vi med glæde vores parkeringspladser til rådighed, så de af vores kunder, der måtte ønske det, nemt kan blive vaccineret mod influenza tæt på, hvor de bor og handler, siger hun.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/saerlig-bus-kommer-forbi-2a771",
+  "published": "Wed, 18 Nov 26 07:34:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/saerlig-bus-kommer-forbi-2a771",
   "category": "No category"
  },
  {
-  "title": "V-borgmester vil fritage københavnere for aftale om billigere benzin",
-  "description": "<p>Måske bør det ikke være alle, der får gavn af de lavere afgifter på benzin og diesel, <a href=\"https://www.tvmidtvest.dk/midt-og-vestjylland/regeringen-vil-lokke-med-en-ekstra-maned-med-billig-benzin-25197\">som regeringen og Dansk Folkeparti for nyligt lancerede som en del af skattereformen</a>.</p><p>I hvert fald ikke, hvis det står til Niels Jørgen Pedersen (V), som er borgmester i Thisted Kommune.</p><p><a href=\"https://www.tvmidtvest.dk/kampen-om-bordet-midt-og-vestjylland/2026/p20261116-tvmv1955-kampen-om-bordet-uge-47#play\">Under mandagens udgave af Kampen om bordet på TV MIDTVEST</a> lagde han nemlig op til, at man burde lave en højere grad af differentiering af afgiftslettelsen, således at den især kommer borgere til gavn i landdistrikterne, hvor han selv er borgmester.</p><p>- Jeg synes, man skal være meget opmærksom på land og by. I min kommune kører man langt til arbejdet, det er en af de geografisk største kommuner i landet. Vi har også en lav indkomst per borger i gennemsnit. Så det betyder noget, at benzin- og dieselafgiften er lavere i en periode, hvor priserne er så høje, sagde han og fortsatte:</p><p>- Det er lige før, jeg vil gå så langt som at sige, at man kan lade være med sænke den i Aarhus og København. Skidt da med det, for det er rent faktisk herude, at det betyder noget, sagde han under debatten med et glimt i øjet.</p><h2>Tankturisme</h2><p>Tyskland har af flere omgange sænket afgifterne på brændstof for at imødekomme højere oliepriser.</p><p><a href=\"https://www.fla.de/sydslesvig/erhverv/96754/tankturisme-billigere-tysk-benzin-og-diesel-kan-sende-danske-\">Ifølge Flensborg Avis</a> har det medfødt, at flere danskere har valgt at krydse grænsen for at tanke deres bil. Avisen har døbt fænomenet &#039;tankturisme&#039;.</p><p>Gennem aftalen bliver benzin- og dieselafgiften sænket med to kroner i 2027. Tiltaget kommer efter, regeringen tidligere har forsøgt at imødekomme de højere brændstofpriser ved at forhøje befordringsfradraget.</p><p>Anders Vistisen (DF) har som sit partis finansordfører spillet en afgørende rolle i tilblivelsen af aftalen, og han fortalte under debatten, at hvis det stod til ham og Dansk Folkeparti alene, så ville man sætte afgiften for benzin og diesel yderligere længere ned.</p><p>- Vi kæmper for, at det skulle have været endnu længere og endnu mere. Jeg tror, det er en rigtig stor hjælp for folk, der bor i landdistrikterne og ligesom jeg har to dieselbiler, at det nu er lidt mere overkommeligt hente og bringe og komme til og fra arbejde, sagde han.</p>",
-  "link": "https://www.tv2nord.dk/thisted/v-borgmester-vil-fritage-kobenhavnere-for-aftale-om-billigere-benzin-8d0f5",
-  "published": "Tue, 17 Nov 26 19:07:00 +0100",
-  "guid": "https://www.tv2nord.dk/thisted/v-borgmester-vil-fritage-kobenhavnere-for-aftale-om-billigere-benzin-8d0f5",
+  "title": "Svær kamp venter efter nederlag: - Ikke tid til at hænge med hovederne",
+  "description": "<p><a href=\"https://www.tv2nord.dk/aalborg/aalborg-handbold-i-nyt-chokerende-nederlag-9342f\" target=\"_blank\">Lørdag </a>var skuffelsen stor i Aalborg Håndbold, efter nordjyderne tabte 27-29 til Skanderborg-AGF hjemme i Sparekassen Danmark Arena. </p><p>- Det er selvfølgelig hårdt. Det gør altid ondt at tabe håndboldkampe, og vi prøver jo, og vi kæmper hårdt, men det lader sig ikke helt gøre i dag, og som altid er det selvfølgelig hårdt at tabe kampe, fortæller Patrick Andersson. </p><p>Meget overraskende gik aalborgenserne til pausen og havde kun scoret otte mål. Samtidig var det ikke rigtig lykkedes hjemmeholdet at få styr på gæsternes syv mod seks-spil i første halvleg, og derfor var SAH foran med 14-8 ved pausen. </p> <h2>Påtager sig en del af ansvaret </h2><p>Mange brændte skud og flere tekniske fejl, var blandt andet årsagen til de manglende mål i særligt første halvleg, og netop de få mål er noget, som det norske talent også tager en del af ansvaret for.  </p><p>- Jeg vil jo gerne kigge på det selv også, for jeg har et kæmpe ansvar i forhold til, hvad det er, vi nøjagtigt gør, konstaterer han og fortsætter: </p><p>- Vi får ikke så mange nemme mål, vi brænder lidt for mange store chancer, vi er ikke skarpe nok. Altså, der er flere ting, som ikke er godt nok i dag, og som gør, at vi ikke får så mange mål, som vi behøver. Og ja, i Aalborg skal vi skabe flere gode chancer og score på flere af vores gode chancer, fortsætter han og tilføjer: </p><p>- Vi  må kigge på det, og så må vi bare træne og ændre på det, som skal blive bedre frem til onsdag, og så må vi bare have et blankt ark der og kæmpe videre. Der er ikke så meget andet at gøre.</p> <h2>Et andet udtryk i anden halvleg</h2><p>Efter pausen kom Aalborg-spillerne noget bedre ud, og flere gange så det ud til, at det nok skulle lykkedes hjemmeholdet at få udlignet. </p><p>- Først og fremmest, så spiller vi jo lidt syv mod seks - det bliver vel stort set hele anden halvleg. Vi kommer egentlig frem til en del gode chancer der, men udover det, så er det små detaljer, vi snakker om i pausen, og så handler det egentlig om at komme op med hovedet og vide, at der er 30 minutter mere, hvor vi skal bare kæmpe hårdt, siger Patrick Andersson om, hvad der skete i Aalborg-omklædningen i pausen.</p> <p>Det blev dog aldrig en realitet, at Aalborg fik udlignet, for hver gang nordjyderne havde muligheden for at reducere stillingen til ét mål, så kostede et brændt skud eller en teknisk fejl hurtigt, og så var SAH igen foran med tre-fire mål. </p><p><em>Hvad er det der sker i de momenter, siden det ikke lykkes i dag? </em></p><p>- Det er et godt spørgsmål. Jeg tænkte også det samme flere gange. Vi kommer tæt på flere gange - i hvert fald til to mål - hvor vi også har muligheden for at komme helt tilbage, men vi løser det ikke og knækker ikke helt den kode i dag, og nogle gange så er det svært. Men sådan kan det være, og jeg er i hvert fald virkelig motiveret, og jeg ved, at resten af holdet også er det. Så vi skal bare kæmpe videre, og så skal vi selvfølgelig lave nogle små justeringer, men vi ved, at vi kan spille godt, og vi ved, at vi er dygtige håndboldspillere. Så det handler bare om at få den gode fornemmelsen tilbage og gøre det enkelt, og bare få lidt selvtillid ind i holdet, så tror jeg, at meget løser sig, konstaterer Aalborg-spilleren.</p> <h2>Svær kamp venter onsdag </h2><p>Nu handler det for Aalborg Håndbold om at rejse sig igen, men det er altså en svær kamp, som venter nordjyderne onsdag. </p><p>Her kommer Fücshe Berlin nemlig på besøg i hjemmearenaen, når den første kamp i mellemgruppen af Champions League skydes i gang. Der er Berlin, der har vundet de seneste fire kampe, hvor de to klubber har mødtes, og dermed har nordjyderne altså fortsat revanche til gode. </p><p>Det kræver dog, at Aalborg-spillerne kan få rystet lørdagens nederlag af sig.</p><p>- Det handler bare om professionalitet, understreger Patrick Andersson og fortsætter:</p><p>- I Aalborg har vi ikke tid til at bruge for meget energi på at skulle gå her med hovederne nede. Der kommer en kæmpe kamp på onsdag, som jeg i hvert i fald glæder mig en masse til, så jeg er egentlig bare megaglad for, at der kommer en sådan kamp, for det gør det bare meget nemmere at rette fokus fremover. Så vi skal bare kæmpe hårdt, ændre på nogle få ting, og så skal vi bare stille op til den kamp og kæmpe 110 procent. </p> <h2>Mange skader giver mere spilletid </h2><p>I sæsonen har Aalborg Håndbold været ramt af mange skader, og derfor har nordjyderne indtil videre måttet undvære en eller flere spillere i alle kampene. </p><p>I lørdagens opgør var man fortsat uden Thomas Arnoldsen, og så udgik Mads Hoxer altså også fra banen i første halvleg. Bagspilleren har døjet med noget i sin hofteregion, og allerede inden kampen vidste de, at han ikke var 100 procent klar. </p> <p>Også Sander Sagosen er kun lige vendt tilbage efter at have været ude i to måneder. Patrick Andersson har udover i den spæde start - hvor han var ude med en brækket næse - været klar for aalborgenserne, og selvom han gerne ville have holdkammeraterne klar, så nyder han den megen spilletid, han får.  </p><p>- Nu kan jeg bare snakke for mig selv, men jeg synes, at det er sjovt at spille en masse håndbold, og min krop er et godt sted, så jeg bare elsker at være med i truppen, og det tror jeg også, at alle de andre tænker - både vi, som ikke er skadet, og de, som har et eller andet småt, som de må håndtere, afslutter han. </p><p><em>Kampen mellem Aalborg Håndbold og Fücshe Berlin fløjtes i gang klokken 18.45. TV2 Nord vil være til stede til kampen, og du kan finde mere herom på vores hjemmeside efter slutfløjt. </em></p>",
+  "link": "https://www.tv2nord.dk/aalborg/svaer-kamp-venter-efter-nederlag-ikke-tid-til-at-haenge-med-hovederne-de54b",
+  "published": "Wed, 18 Nov 26 07:00:00 +0100",
+  "guid": "https://www.tv2nord.dk/aalborg/svaer-kamp-venter-efter-nederlag-ikke-tid-til-at-haenge-med-hovederne-de54b",
   "category": "No category"
  },
  {
-  "title": "Aalborg Pirates overraskede, men lider nyt nederlag og fortsætter dårlig stime",
-  "description": "<p>Tirsdag aften blev det til et nyt nederlag til Aalborg Pirates, der måtte se sig slået med 2-3 til ligaens tophold, Herning Blue Fox. </p><p>Dermed har aalborgenserne nu tabt otte kampe i streg i ligaen, ligesom man har tabt de seneste otte hjemmekampe i streg. </p><p>Dog kom Aalborg-spillerne ud med et helt andet udtryk sammenlignet med den forrige hjemmekamp mod Rungsted Sejr Capital, og nordjyderne virkede meget mere i kontrol i deres spil, hvorfor det også lykkedes piraterne at give de forsvarende mestre kamp til stregen til det sidste. </p><h2>Et andet udtryk fra start </h2><p>Herning kom lynhurtigt ud af starthullerne, og ligaens absolutte tophold fik hurtigt sendt nogle gode skud af sted mod Pirates-målet. </p><p>Hjemmeholdet kom dog heller ikke helt skidt fra start, og generelt kom Pirates med et helt andet udtryk, end man havde gjort i den seneste kamp mod Rungsted. Og det på trods af midtjydernes pres fra begyndelsen. Aalborg-spillerne fandt nemlig også vej til Herning-målet, der tirsdag aften var bevogtet af den tidligere Pirates-keeper George Sørensen. </p><p>Gæsterne fortsatte dog deres pres på piraterne, og flere gange formåede de forsvarende mestre at få spillet sig frem til nogle gode chancer, hvor Aalborg-keeper Edvin Olofsson måtte diske op med en god redning eller blokering. </p><p>Med ni minutter til pausen blev Lukas Bang idømt en udvisning for interference, efter han skubbede Julian Jakobsen i ryggen, da Aalborg-anføreren var på vej ind foran Herning-målet. Dermed fik piraterne kampens første powerplay, men på trods af noget godt sammensat spil i Hernings zone og et par fine skud på mål, så lykkedes det altså ikke hjemmeholdet at få sat en scoring ind. </p><p>Da gæsterne igen var fuldtallige, fik de lynhurtigt overtaget i kampen tilbage, og Aalborg var altså flere gange presset ned i egen zone, hvor Herning-spillerne igen sendte flere skud mod Edvin Olofsson. Igen kom Pirates-målmanden i vejen for midtjyderne, og på trods af at nordjyderne altså var presset godt i bund i de sidste minutter af første periode, så lykkedes det Aalborg-spillerne at gå til pausen med 0-0. </p><h2>Målfest i anden periode</h2><p>Efter pausen kom begge holdene godt fra start. Lidt ligesom i første periode pressede Herning godt på, og igen kom midtjyderne frem til flere gode skud på mål. Modsat fortsatte aalborgenserne med at stå godt imod, når de forsvarende mestre pressede på, og derfor var der altså fortsat ikke faldet mål i kampen, da der var spillet de første fem minutter af anden periode. </p><p>Seks minutter inde blev Julian Jakobsen og Jared Dmytriw begge udvist efter en mindre solo-kontrovers ved den ene bande, men det fik altså ikke den store betydning, da begge hold fortsatte med at spille fem mod fem. </p><p>Kort efter faldt kampens første scoring dog, og det var altså piraterne, der formåede at få sendt pucken i netmaskerne til 1-0. Målet faldt efter Tobias Ladehoff sendte pucken ned i hjørnet, hvor han igen selv formåede at komme til den. Her sendte han pucken hen til Oskar Kvist med skøjten, og den svenske Aalborg-spiller fik altså hakket til pucken med sådan en kraft, at den susede lige forbi George Sørensen i Herning-målet og i netmaskerne. </p><p>Efterfølgende fortsatte Aalborg deres gode takter, og målet synes at have givet piraterne et nyt boost i kampen. Herning fortsatte dog også med at presse på, og da der var spillet 13 minutter blev Aalborgs Niklas Folin udvist, hvilket gav gæsterne deres første powerplay i kampen.  </p><p>Det lykkedes lynhurtigt piraterne at få sendt pucken i modsatte ende, men Herning var lige så hurtigt tilbage i nordjydernes zone, hvor ligaens tophold endnu en gang viste sig imponerende frem i overtal. Derfor faldt udligningen til 1-1 også kort efter, da midtjyderne formåede at få spillet godt sammen og sat sit powerplayspil flot op.  </p><p>Da der var knap fem minutter til pausen, kom nordjyderne dog med et flot modsvar, da Jeppe Juul Korsgaard lykkedes med at få staven på pucken og sendt den forbi George Sørensen, der var gået alt for langt ud af sit mål. Efterfølgende havnede Aalborg-spilleren oven i Herning-målmanden, og det resulterede i noget tumult på banen, men hjemmeholdet var altså nu foran med 2-1. </p><p>Med 48 sekunder til pausen lykkedes det dog gæsterne at få udlignet endnu en gang. Efter en retur fra Aalborg-målmanden fik Mads Larsen sendt pucken ind foran mål til Anton Linde, der altså lykkedes med at få sendt pucken i mål til 2-2 med en flot afsluting. </p><p>Dermed lykkedes det ikke hjemmeholdet at holde fast i deres føring til pausen, og i stedet måtte de to hold gå i omklædningen med stillingen 2-2. </p><h2>Herning løb med sejren</h2><p>Efter blot ni sekunder blev Aalborg-kaptajn Julian Jakobsen udvist for at forsinke spillet, og derfor lagde Herning altså tredje periode ud med at være i powerplay. Denne gang formåede Aalborg-spillerne dog at komme i vejen for gæsternes skud og få pucken ud af egen zone flere gange, hvilket resulterede i, at Herning ikke formåede at få bragt sig foran i sit overtal. </p><p>Kort efter kom Herning dog frem til en stor chance, da det lykkedes gæsterne at få pucken ind foran Aalborg-målet, hvor midtjyderne på trods af sin frie position sendte pucken forbi målet. </p><p>Modsat kom hjemmeholdet også frem til nogle gode muligheder, og igen matchede de to hold hinanden godt. </p><p>Da uret viste, at der var lidt over 12 minutter til slutfløjtet lykkedes det så de forsvarende mestre at få bragt sig foran med 3-2. Hjemmeholdet formåede ikke at få pucken ud af egen zone, inden Herning fik presset på og vandt den. Efterfølgende endte den ved Morten Poulsen, der var placeret i højre side, og her hamrede han altså pucken mellem benene på Edvin Olofsson. </p><p>Få minutter efter blev Herning idømt en udvisning for at forsinke spillet, og det gav igen hjemmeholdet muligheden for at forsøge sig i powerplay. Hurtigt sendte piraterne et skud mod George Sørensen, men efterfølgende endte pucken flere gange tilbage i Aalborgs zone, mens de sidste forsøg i Hernings zone var nogle slatne skud, fordi Aalborg-spillerne knækkede deres stave i forsøget.  </p><p>Intensiteten i kampen voksede fortsat, og spillerne begyndte at blive frustrerede og gå til hinanden, hvorfor de endte i mindre kontroverser på isen. </p><p>I kampens sidste fem minutter jagtede Aalborg-spillerne udligningen, og med to minutter tilbage blev Hernings Kasper Larsen udvist, hvilket gav hjemmeholdet en sidste gylden mulighed for at få udlignet i powerplay. </p><p>Selvom Aalborg tog målmanden ud til sidst og forsøgte sig med sine sidste kræfter, så var det dog ikke nok til at få sendt pucken i mål, og derfor måtte nordjyderne se sig slået med 3-2 på trods af en meget hæderlig indsats. </p>",
-  "link": "https://www.tv2nord.dk/aalborg/aalborg-pirates-overraskede-men-lider-nyt-nederlag-og-fortsaetter-darlig-stime-e2dcb",
-  "published": "Tue, 17 Nov 26 18:59:00 +0100",
-  "guid": "https://www.tv2nord.dk/aalborg/aalborg-pirates-overraskede-men-lider-nyt-nederlag-og-fortsaetter-darlig-stime-e2dcb",
+  "title": "Uheld på motorvejen",
+  "description": "<p>På Motorvej E45 fra Hobro mod Aalborg mellem Himmerland og Støvring S, er der sket et uheld.</p><p>Det skriver Vejdirektoratet.</p><p>Et spor er blokeret, mens uheldsstedet endnu ikke er sikret. Vejhjælp er på vej, skriver de videre.</p><p>DR P4 Trafik skriver, at der holder biler fra uheldet i både venstre spor samt nødsporet mellem 32 Sønderup og 31 Støvring S.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/uheld-pa-motorvejen-79b4c",
+  "published": "Wed, 18 Nov 26 06:51:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/uheld-pa-motorvejen-79b4c",
   "category": "No category"
  },
  {
-  "title": "Nordjysk valgt folketingsmedlem er ny politisk ordfører for Danmarksdemokraterne",
-  "description": "<p>Kim Edberg er ny politisk ordfører for Danmarksdemokraterne. Det skriver han i et opslag på <a href=\"https://www.facebook.com/kimakristoff/posts/pfbid02bhXDGqBEntLWoJdnwMzZ35dZvkEtekghm19oEtpWe5kJBHqeqPYwQ7DupS4AZXmml\">Facebook</a>. </p><p>Det er Susie Jessen, der har varetaget posten som politisk ordfører, siden Danmarksdemokraterne blev valgt ind i Folketinget i 2022.  </p><p>&#039;Jeg er utroligt stolt over, at blive vist tilliden som politisk ordfører, hvor jeg hver dag vil gå på arbejde for at kæmpe for et Danmark i balance, en stram udlændingepolitik og en grøn omstilling med mere sund fornuft,&#039; lyder det fra partiets nye politiske ordfører.</p><p>I opslaget takker han også sin forgænger for &#039;hendes fremragende og forbilledlige indsats de sidste fire år&#039;.</p><p>I stedet for at være politisk ordfører, glæder Susie Jessen sig til at fordybe sig mere i politik og hendes mærkesager - der blandt andet tæller landdistrikterne og småøerne. </p><p>Kim Edberg er partiets beskæftigelsesordfører, dyrevelfærdsordfører, fiskeriordfører, fødevareordfører, ligestillingsordfører samt miljøordfører. Ordførerskaber som han beholder trods sin nye post.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/nordjysk-valgt-folketingsmedlem-er-ny-politisk-ordforer-for-danmarksdemokraterne-76308",
-  "published": "Tue, 17 Nov 26 17:51:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/mariagerfjord/nordjysk-valgt-folketingsmedlem-er-ny-politisk-ordforer-for-danmarksdemokraterne-76308",
+  "title": "Advarer om kraftig vind over bro",
+  "description": "<p>Onsdag vil det blive en blæsende omgang henover Sallingsundbroen.</p><p>Vejdirektoratet advarer om kraftig vind frem til klokken 21.00 onsdag aften over broen.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/morsoe/advarer-om-kraftig-vind-over-bro-9a700",
+  "published": "Wed, 18 Nov 26 06:28:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/morsoe/advarer-om-kraftig-vind-over-bro-9a700",
   "category": "No category"
  },
  {
-  "title": "Cille er blevet omsorgssvigtet og har været anbragt: Hun nægter at lade sin historie være forgæves",
-  "description": "<p><em>Dette er en genudgivelse, der er bragt første gang 6. august 2025. Den bliver bragt igen, fordi Cille Bagger i dag modtog en pris for at være et forbillede for anbragte unge.</em></p><p>Cille Bagger var 13 år gammel, da hendes mor rakte hende et fad med lange, tynde streger af amfetamin.</p><p>Hun kan huske, at hun havde ondt i hovedet, og hendes klassekammerater havde kort forinden mobbet hende med telefonfis. Tag det her, skat, så får du det bedre, mindes hun, at hendes mor sagde.</p><p>I håbet om at stilne sorgen snusede Cille Bagger en streg op i næsen, husker hun.</p><p>Det var første gang, hun prøvede at tage stoffer. Hun vidste godt, at det var narkotika, men hun anede ikke, hvad det indebar. Og hun stolede på sin mor.</p><p>Nu – efter utallige underretninger, flere tvangsfjernelser, 35 bopælsændringer, 12 folkeskoler og en overdosis – har hun besluttet at bryde tavsheden.</p> <p>Cille Bagger, der i dag er 26 år og er kommet over på den anden side, stod mandag i sidste uge frem med billede i <a href=\"https://www.reddit.com/r/DKbrevkasse/comments/1mbin0j/ama_min_mor_introducerede_mig_for_narko_narko_da/\">et opslag på platformen Reddit</a>. Her deltog hun i et såkaldt &#039;AMA&#039;-format – <em>Ask Me Anything</em> – hvor brugere, fortrinsvis anonyme, kunne stille hende spørgsmål om alt.</p><p>Det var nemlig vigtigt for Cille Bagger at gøre op med stigmatisering af mennesker, der har haft en opvækst som hendes egen.</p><p>- Mange tror, at alt bare er dømt til at gå galt, hvis man er tidligere misbruger, eller hvis man er vokset op i noget lort, siger hun til TV 2.</p><p>Men Cille Bagger er et bevis på, at det ikke nødvendigvis behøver at være sådan.</p><p>Efter en overvældende positiv respons på Reddit-opslaget sætter hun nu sin lid til, at hendes historie kan plante håb hos andre – især dem, der stadig leder efter nogen at spejle sig i.</p><h2>Slæbt med på druktur</h2><p>I dag er Cille Bagger mor til tre – en pige på seks år og tvillinger på to og et halvt år. Hun har droppet kontakten til sin mor, og i sit eget moderskab forsøger hun at slippe bekymringerne.</p><p>- Jeg kompenserer rigtig ofte, fordi jeg er så inderligt bange for at gentage de ting, jeg var udsat for i min barndom, lød det fra hende i et svar på et Reddit-spørgsmål.</p><p>Egentlig forløb Cille Baggers første leveår i Odense relativt roligt.</p><p>Alt ændrede sig dog, da hun var omkring otte år. Hendes forældre gik fra hinanden efter et turbulent parforhold, og omkring samme tid begyndte hendes mor at tage stoffer.</p> <p>Med dét fulgte massivt omsorgssvigt, som Cille Bagger beskriver det – en fortælling, der bakkes op af en række underretninger og andre dokumenter fra blandt andre fagpersoner, som TV 2 har fået indsigt i.</p><p>Blandt andet fremgår det af en underretning, at hun ifølge oplysninger, på et andet tidspunkt end det tidligere beskrevne, skulle have taget amfetamin under samvær og i samspil med sin mor.</p><p>- Hun har også godt kunnet være kærlig, men kun når det passede hende. Lige så snart, der var noget mere spændende, blev vi skubbet til side, fortæller hun.</p><p>Cille Bagger husker, hvordan døren til stuen ofte blev låst, så hun og hendes storebror ikke kunne komme ind, mens moren festede på livet løs med stoffer derhjemme.</p><p>Selv uden for hjemmets fire vægge slap Cille Bagger ikke for festernes greb, som da hun – ifølge hende selv – som niårig blev slæbt med til fest og senere vækket på sofaen af sin berusede mor til en køretur efter sprut og cigaretter.</p><p>Det er en af de oplevelser, der står klarest for Cille Bagger, når hun ser tilbage på sin barndom – en episode, som førte til en underretning fra hendes far, som TV 2 har set.</p><p>En barndom, der var præget af kaos og i perioder det, hun vil betegne som psykisk vold, samt trusler fra sin mor – og ikke mindst tvangsfjernelser og stofmisbruget hos moren, der langsomt blev hendes eget.</p><p>- Vi blev voksne alt for hurtigt, lyder det fra Cille Bagger.</p><h2>Reddits styrke og svaghed</h2><p>&#039;Har du stadig kontakt med din mor?&#039;, &#039;Hvad reddede dig fra afgrunden?&#039; og &#039;Hvilket narko?&#039;.</p><p>Sådan lød nogle af de spørgsmål fra anonyme brugere, som Cille Bagger blev stillet i den såkaldte AMA på Reddit.</p><p>Som regel optræder forfatteren bag en AMA ligeledes anonymt, men det var Cille Bagger ikke klar over på daværende tidspunkt, eftersom hun ikke færdes hjemmevant på Reddit, og derfor stod hun frem med billede.</p> <p>Netop muligheden for anonymitet er en af grundene til, at mange tiltrækkes af platformen – men det er samtidig noget, der har vakt debat.</p><p>Det forklarer Astrid Haug, der er ekspert i sociale medier og selvstændig rådgiver.</p><p>- Anonymitet kan være en af Reddits svagheder, idet der er en risiko for, at noget er falsk. Man kan ikke være sikker på, om en person er den, de udgiver sig for at være, uddyber hun.</p><p>Det har dermed styrket både Cille Baggers troværdighed og gennemslagskraft, at hun valgte at stå frem med billede, vurderer Astrid Haug.</p><h2>Fanget i en anden virkelighed</h2><p>Som teenager blev Cille Bagger kastet fra sted til sted. Hun blev tvangsfjernet, sendt på børnehjem, anbragt i netværkspleje og hjemgivet til sin mor. Kort efter blev hun tvangsfjernet igen.</p><p>Hun endte på et opholdssted. Efter et år med besøgsrestriktioner fik hun lov at se sin mor under frie rammer. Mange weekender blev tilbragt i morens lejlighed – fyldt med fest, stoffer og mennesker, der kom og gik.</p><p>- Jeg var så loyal, siger Cille Bagger.</p> <p>Cille Bagger fortæller, at hendes mor havde rene urinprøver liggende klar i fryseren til de ofte planlagte kontroller, og da Kriminalforsorgen engang dukkede op uanmeldt, gik hun selv på toilettet og tissede i bægeret, som hendes mor afleverede.</p><p>Hendes storebror forsøgte at gribe ind. Hendes far og bonusmor, som havde en lille datter at tage sig af, prøvede at træde til i det omfang, de kunne, men det var vanskeligt, fortæller hun videre.</p><p>Blandt andet fordi hun selv oplevede at være fanget i sin mors version af virkeligheden.</p><p>- Min mor har virkelig været i stand til at få fremmedgjort min far og bonusmor for mig, forklarer hun.</p><h2>Kom frem til erkendelse</h2><p>Da Cille Bagger var omkring 16 år, blev hun hjemløs som følge af, at hendes mor uden varsel flyttede med sin kæreste – blandt andet til Gran Canaria – uden at tage hende med.</p><p>Det var for sårbart at flytte hjem til faren, for Cille Bagger var nu selv langt inde i et omfattende misbrug, fortæller hun. Hun havde prøvet det meste. Alt fra morfin og ketamin til MDMA og GHB.</p><p>En Fitness World-taske var teenagerens eneste faste følgesvend i første halvdel af 2015, mens hun flakkede fra det ene sovested til det næste og i en periode levede af at sælge stoffer.</p><p>Stoffer, der flere gange var tæt på at koste hende livet.</p> <p>Hun havde et brændende ønske om at afslutte folkeskolen og få sin afgangseksamen. Men intet gik hendes vej, følte hun.</p><p>Men så fik hun et wakeupcall, da hun var omkring 17 år – kort efter at hun fik stillet en lejlighed til rådighed af kommunen.</p><p>Du behøver ikke at ende ligesom alle os andre, du kan så meget mere, lød budskabet fra en ven i misbrugsmiljøet, hvilket ramte noget dybt i Cille Bagger.</p><p>Hun ville ikke risikere at ende som sin mor.</p><p>- Jeg er selv nødt til at gøre noget nu. Der kommer ikke nogen og redder mig, husker hun, at hun tænkte.</p><h2>Da alting forandrede sig</h2><p>I tiden efter startede Cille Bagger i misbrugsbehandling for at få hjælp til sit stofmisbrug. Hun begyndte gradvist at trappe ned, men efter et år faldt hun i og tog en overdosis.</p> <p>Nu er det nok, tænkte hun efter at have overlevet det.</p><p>I august 2016 begyndte hun i døgnbehandling og flyttede derefter hjem til sin storebror – langt væk fra alt og alle, hun kendte. På vej ind i 2017 havde hun lagt sit misbrug bag sig.</p><p>Året efter fik hun sin folkeskoleeksamen, og senere samme år blev hun mor som 19-årig.</p> <p>Med kæresten Nicolai ved sin side jonglerer hun nu hverdagens forpligtelser som forælder, mens hun drømmer om at blive optaget på jordemoderstudiet.</p><p>I sin fritid arbejder hun blandt andet som frivillig hos Fødselshjælpen, som er et tilbud til gravide og nybagte mødre i sårbare livssituationer. Imens hun deler ud af sin rejse som mønsterbryder på sin <a href=\"https://www.instagram.com/cillebagger\">Instagram-profil</a>.</p><p>- Jeg tænker da også nogle gange selv over, hvordan det er lykkedes … Ja, jeg ved det ikke faktisk heller ikke altid. Jeg tror, at jeg har været rigtig heldig, siger hun med ydmyghed.</p><h2>En kommentar skilte sig ud</h2><p>Alt dette delte hun åbent på Reddit. Hvorfor?</p><p>- Jeg har en idé om, at folk på Reddit er meget dømmende, og det ville jeg gerne udfordre lidt, forklarer Cille Bagger.</p><p>Instagram er et andet populært valg for dem, der ønsker at bryde tabuer.</p><p>Men ifølge Astrid Haug er det sociale medie, hvor brugerne som regel stiller sig offentligt til skue, stadig præget af en kultur med filtre og nøje udvalgte billeder, der kan påvirke de reaktioner, man får.</p><p>- Reddit er kendt for at være ærlig og rå – på godt og ondt, siger Astrid Haug.</p> <p>Af netop den årsag havde Cille Bagger ikke regnet med den reaktion, hun mødte.</p><p>Hun var &#039;vildt overvældet&#039; over alle de søde beskeder, den fordomsfrie tilgang fra langt de fleste af brugerne, og de mange fagpersoners insisteren på at lære af hendes erfaringer.</p><p>Hendes opslag fik over 500 såkaldte <em>upvotes</em> og genererede mere end 100 kommentarer. Dertil kom en strøm af personlige beskeder i hendes indbakke.</p><p>Da en 16-årig pige, som kæmper med en hård tilværelse, henvendte sig i kommentarfeltet, blev Cille Bagger rørt.</p><p>- Det føltes så rart at vide, at der er en, der kan spejle sig i mig, uddyber hun.</p><p>Skammen og skylden tynger stadig Cille Bagger i dag.</p><p>Men håbet om at gøre en forskel for andre mennesker, der føler sig overladt til sig selv, og ønsket om at være et godt forbillede for sine børn, overskygger alt andet.</p><p><em>TV 2 har forelagt Cille Baggers fremstilling af forløbet for hendes mor, der afviser beskrivelserne.</em></p><p><em>Derudover har TV 2 spurgt ind til de konkrete episoder, Cille Bagger har beskrevet, men har ikke modtaget svar på dette.</em></p><p><em>TV 2 har talt med Cille Baggers far, som bakker op om datterens fortælling.</em></p>",
-  "link": "https://www.tv2nord.dk/aalborg/cille-fra-nibe-er-blevet-omsorgssvigtet-og-har-vaeret-anbragt-hun-naegter-at-lade-sin-historie-vaere-forgaeves-34d48",
-  "published": "Tue, 17 Nov 26 16:28:00 +0100",
-  "guid": "https://www.tv2nord.dk/aalborg/cille-fra-nibe-er-blevet-omsorgssvigtet-og-har-vaeret-anbragt-hun-naegter-at-lade-sin-historie-vaere-forgaeves-34d48",
+  "title": "Regnfuld dag i sigte",
+  "description": "<p>Onsdag bliver ikke en dag, der går over i verdenshistorien, som den flotteste efterårsdag i Nordjylland. Den vil nemlig være præget af overskyet og regnfuldt vejr.</p><p>Det skriver DMI.</p><p>Vinden bliver jævn til frisk fra nordøst, og ved kysterne op til hård vind. Temperaturen vil være op til seks grader. Om aftenen bliver det ikke meget bedre. Her vil det blive endnu mere skyet og med regn, mens det ud på natten vil klare op. Her vil temperaturen falde ned til omkring én grad.</p>",
+  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/regnfuld-dag-i-sigte-dbecc",
+  "published": "Wed, 18 Nov 26 06:17:00 +0100",
+  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/regnfuld-dag-i-sigte-dbecc",
   "category": "No category"
  },
  {
-  "title": "Cille fra Nibe er et forbillede for anbragte unge: Tirsdag fik hun en pris af Dronning Mary",
-  "description": "<p>Det har ikke altid ligget i kortene, at 27-årige Cille Baggers liv ville flaske sig, som det har gjort. </p><p>For hun var kun 13 år gammel, da hendes mor rakte hende et fad med lange, tynde streger af amfetamin. Det blev første gang, hun tog stoffer, men det blev ikke hendes sidste gang.</p><p>I dag er Cille Bagger mor til tre, hun har et liv med en fast base, og hun er i gang med at læse til socialrådgiver.</p><p>Men det krævede utallige underretninger, flere tvangsfjernelser, 35 bopælsændringer, 12 folkeskoler og en overdosis, inden hun kom så vidt. En historie, hun tidligere har fortalt til TV 2. </p> <p>Og tirsdag blev hun hædret ved Børnehjælpsdagens Prisuddeling for at være et forbillede for anbragte børn og unge, da hun modtog Lillebrorprisen.</p><p>- Cille modtager Lillebrorprisen fordi hun har formået at bryde ud af sin hårde barndom og skabe en positiv retning for sit liv, samtidig med at hun aktivt bidrager til at nedbryde tabuer og hjælpe andre ved at bringe sin erfaring i spil, siger direktør for Børnehjælpsdagen, Sofie Hugo.</p><h2>Formået at komme over på den anden side</h2><p>Prisen blev overrakt tirsdag eftermiddag på Københavns Rådhus foran 180 gæster, herunder H.M. Dronning Mary, der er protektor for Børnehjælpsdagen.</p><p>Og årsagen til, at valget i år er faldet på Cille Bagger fra Nibe, var klokkeklar. </p><p>&#039;Cille er en stærk rollemodel og en ægte mønsterbryder, der har taget ansvar for sit eget liv. På trods af en hård barndom og ungdom med omsorgssvigt og misbrug har hun formået at komme over på den anden side og omsætte sin personlige historie til konkret handling og ansvar. Samtidig arbejder Cille for, at hendes indsats fremadrettet skal skabe varige forbedringer for andre end hende selv.&#039;</p><p>Prisen bliver uddelt hvert år til en tidligere anbragt ung, der har gennemgået en positiv udvikling, og som er lykkedes med at tage ejerskab over eget liv. Med prisen følger en check på 100.000 kroner.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/cille-fra-nibe-er-et-forbillede-for-anbragte-unge-tirsdag-fik-hun-en-pris-af-dronning-mary-ce122",
-  "published": "Tue, 17 Nov 26 15:23:00 +0100",
-  "guid": "https://www.tv2nord.dk/aalborg/cille-fra-nibe-er-et-forbillede-for-anbragte-unge-tirsdag-fik-hun-en-pris-af-dronning-mary-ce122",
+  "title": "- Hvis barn bliver det næste gang?",
+  "description": "<p>Hvem tager ansvaret, hvis han gør det igen?</p><p>Det spørgsmål fylder hos Malene og Allan Sveistrup fra Hjallerup, der i marts 2024 mistede deres 13-årige datter Anna, da hun blev dræbt af sin ekskæreste Elias Shegow. </p><p>Han er siden blevet dømt for både drab og voldtægt og idømt 12 års fængsel.</p> <p>Men Annas forældre havde håbet på en forvaringsdom. De frygter nemlig, at han fortsat vil være farlig, når han en dag bliver løsladt.</p><p>– Hvem er det så, der har ansvaret den dag, han bliver lukket ud? Fordi det her, det kommer han til at gøre igen. Det er jeg slet ikke i tvivl om, han gør. Og hvis barn er det så næste gang?, spørger Malene Sveistrup.</p> <h2>Retslægerådet vurderede forvaring påkrævet</h2><p>Det var ikke kun Annas forældre, der ønskede en forvaringsdom.</p><p>Retslægerådet vurderede, at den unge mand var så farlig, at forvaring var påkrævet. Det var også den straf, anklagemyndigheden krævede.</p><p>Forvaring er en tidsubestemt straf, der kan anvendes, når det vurderes nødvendigt for at forebygge ny alvorlig kriminalitet.</p> <p>Alligevel valgte både byretten og sidenhen landsretten en tidsbestemt fængselsstraf.</p><p>I landsretten var retsmedlemmerne delte. Tre stemte for forvaring, mens tre stemte for 12 års fængsel.</p><p>Ved stemmelighed falder afgørelsen ud til den dømtes fordel. Der blev blandt andet lagt vægt på, at han kun var 17 år, da han dræbte Anna, og at han ikke tidligere var straffet.</p><p>– Anna mistede sit liv. Vores er fuldstændig vendt på hovedet og bliver aldrig nogensinde det samme igen. Men han skal i vores danske retssystem have en chance for at komme ud og få et liv, siger Malene Sveistrup uforstående.</p><h2>Frygter, at fængsel ikke ændrer ham</h2><p>For Malene og Allan Sveistrup er forskellen mellem de to straffe afgørende.</p><p>De er ikke overbeviste om, at en tidsbestemt fængselsstraf vil ændre på den farlighed, som Retslægerådet har peget på.</p> <p>Med en forvaringsdom er der derimod ikke fastsat en slutdato på forhånd. Hvor længe den dømte skal være frihedsberøvet, afhænger blandt andet af, om han fortsat vurderes at udgøre en fare for andre.</p><p>Og netop den sikkerhed ønsker forældrene.</p> <p>Malene Sveistrup frygter, at andre familier kan komme til at opleve noget lignende.</p><p>– Hvad med resten af befolkningen, os som kan være på den rigtige side af loven. Skal vi ikke kunne gå frit rundt og føle os sikre? Eller skal vi alle sammen gå og kigge os over skulderen, fordi der er nogen, der skal have en ekstra chance? Det, synes jeg, er forkert, siger hun.</p><h2>Sidste stop er Højesteret</h2><p>Sagen er dog endnu ikke afsluttet.</p><p>Anklagemyndigheden har indbragt strafspørgsmålet for Højesteret, som skal behandle sagen 6. april 2027.</p><p>Her skal det endeligt afgøres, om Annas drabsmand skal idømmes forvaring eller beholde sin fængselsstraf på 12 år.</p><p>For Malene og Allan Sveistrup er håbet fortsat en forvaringsdom.</p><p>Ikke fordi nogen straf kan bringe Anna tilbage, men fordi de frygter, hvad der kan ske, hvis hendes drabsmand bliver løsladt. </p>",
+  "link": "https://www.tv2nord.dk/broenderslev/hvis-barn-bliver-det-naeste-gang-1530b",
+  "published": "Wed, 18 Nov 26 06:15:00 +0100",
+  "guid": "https://www.tv2nord.dk/broenderslev/hvis-barn-bliver-det-naeste-gang-1530b",
   "category": "No category"
  },
  {
-  "title": "Nordjyde vil have kontroversiel Rusland-sympatisør ud",
-  "description": "<p>Nordjyske Kim Edberg Andersen, der er valgt til Folketinget for Danmarksdemokraterne, vil have den omstridte løsgænger Jacob Harris smidt ud af Folketingets digitaliseringsudvalg.</p><p>Det skriver <a href=\"https://nyheder.tv2.dk/live/politik/2025-08-11-dansk-politik?entry=f9b533f8-9d6d-46bb-896e-10fd6b244b99\">TV2.dk.</a></p><p>Harris, der blev valgt ind for Borgernes Parti, men siden smidt ud, har den seneste tid været særdeles meget i vælten for sine møder med den russiske ambassadør og tilnærmelser mod Putin.</p><p>Kim Edberg Andersen har derfor allerede bedt Folketingets præsidium om at tage stilling til, hvordan Harris kan fjernes fra udvalget. Han fik oprindeligt pladsen som en del af et valgforbund med de blå partier.</p><p>- Vi synes, det er problematisk, at han er på sms-tråd med Ruslands ambassadør. Der tilflyder oplysninger i digitaliseringsudvalget, som potentielt ville være gavnligt for Rusland. Jeg har ingen tro på, at Jacob har delt noget, der er galt, men som situationen er nu, synes jeg, vi skal finde en anden løsning, siger han til TV2.</p><p><em>TV 2 har forsøgt at få en kommentar fra Jacob Harris. Uden held.</em></p><p>Edberg og Danmarksdemokraterne er ifølge TV2.dk ikke alene om ønsket.</p><p>Hos Socialdemokratiet siger politisk ordfører Rasmus Stoklund, at Jacob Harris har udvist en &#039;helt uacceptabel adfærd&#039;.</p><p>- Han har deltaget på russisk stats-tv og spredt propaganda for Putin og hans lakajer og sagt, at Danmark vil i krig med Rusland, lyder begrundelsen fra Stoklund.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/nordjylland/nordjyde-vil-have-kontroversiel-rusland-sympatisor-ud-28735",
-  "published": "Tue, 17 Nov 26 14:53:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/nordjylland/nordjyde-vil-have-kontroversiel-rusland-sympatisor-ud-28735",
+  "title": "Nu skal du give plads til udrykningskøretøjer på en ny måde",
+  "description": "<p>Hvis der sker en ulykke på de nordjyske motorveje, skal politi, brandfolk, reddere og ambulancepersonale kunne komme frem til ulykkesstedet på trods af tæt trafik.</p><p>Derfor bliver der indført en ny, fælles praksis om såkaldte udrykningskorridorer, der skal sikre at redningspersonale kan udføre deres job.</p><p>Det skriver Region Nordjylland i en pressemeddelelse.</p><p>Praksissen betyder, at bilisterne nu skal trække til hver sin side af vejen, så snart trafikken bevæger sig med mindre end 10 kilometer i timen, eller hvis den står helt stille. På den måde bliver der dannet en fri passage mellem vognbanerne, som udrykningskøretøjer kan bruge til at komme frem.</p><p>- Det redder liv, når politiet, brandvæsenet og ambulancerne kan komme frem. Derfor får vi nu en fælles praksis på tværs af landet om at skabe udrykningskorridorer. Der er et behov for at klæde alle bilister på til den nye nationale praksis, så der ikke er tvivl om, hvordan man forholder sig, når trafikken går i stå på motorvejen. Vejdirektoratets oplysningskampagne skal vise alle bilister, hvor de skal placere sig og give plads for at hjælpe udrykningskøretøjerne bedst muligt med at komme hurtigt frem, når der er kø, siger by-, land- og transportminister Karina Lorentzen Dehnhardt (SF).</p> <h2>Trafikken stiger og ulykker er fordoblede</h2><p>Det er Vejdirektoratet, Rigspolitiet, Danske Beredskaber, Beredskabsstyrelsen og regionerne i Danmark, der står bag den nye praksis.</p><p>Og det giver god mening. For fra 2015-2025 steg trafikken på de danske motorveje med 16 procent, og i samme periode blev antallet af ulykker på de danske motorveje næsten fordoblet.</p><p>- Når vi og de øvrige beredskaber bliver kaldt ud til en alvorlig hændelse, kan hvert minut have betydning. Særligt hvis der er mennesker, som er kommet til skade. Men vi kan først hjælpe, når vi er nået frem, og det kan være svært, når bilerne holder tæt, og der ikke er plads. Her har vi rigtig gode erfaringer med, at bilisterne danner udrykningskorridorer. Derfor er det vigtigt for os at sige til bilisterne, at vi har brug for deres hjælp. I sidste ende kan det handle om liv eller død, siger Steen Harpsøe, der er politiinspektør i Rigspolitiet.</p><p>At reddere, politi og brandvæsen hurtigt kan komme frem til en ulykke, handler ikke udelukkende om at redde liv. Det handler også om, at det er vigtigt at få redningsarbejdet overstået, så der igen kan skabes fri passage.</p><p>- Vi oplever næsten dagligt, hvordan selv en mindre ulykke kan skabe kilometerlange køer, især hvis den sker midt i myldretiden. Pludselig holder tusindvis af mennesker stille, og udrykningskøretøjerne skal kæmpe sig gennem trafikken. Det vigtigste er selvfølgelig, at hjælpen når frem til dem, der har brug for den. Men jo hurtigere redningsmandskabet kan gå i gang på ulykkesstedet, jo før kan vi også få genåbnet motorvejen, så alle kan komme videre, siger Stine Bendsen, der er afdelingsleder for Vejdirektoratets Trafikcenter.</p> <h2>Fire ud af ti kender ikke metoden</h2><p>At der nu bliver indført udrykningskorridrer er ikke en ny metode, heller ikke i Danmark. Men det er nyt, at det bliver indført landsdækkende, så man giver plads på samme måde, uandet hvor i landet man befinder sig.</p><p>Det kræver dog, at bilisterne kender til metoden. Som det er i dag ved fire ud af 10 bilister ikke, hvad en udrykningskorridor er, viser en undersøgelse, som Epinion har foretaget for Vejdirektoratet.</p><p>Derfor bliver der iværksat en kampagne, der skal vise bilisterne, hvordan de giver plads. Men metoden er simpel. </p><p>Hvis trafikken bevæger sig langsommere end ti kilometer i timen, eller den er gået helt i stå, skal bilisterne i venstre vognbane trække til venstre, mens alle andre skal trække til højre. På den måde dannes en fri passage mellem vognbanerne, som udrykningskøretøjerne kan benytte.</p>",
+  "link": "https://www.tv2nord.dk/nordjylland/nu-skal-du-give-plads-til-udrykningskoretojer-pa-en-ny-made-5bb1d",
+  "published": "Wed, 18 Nov 26 06:00:00 +0100",
+  "guid": "https://www.tv2nord.dk/nordjylland/nu-skal-du-give-plads-til-udrykningskoretojer-pa-en-ny-made-5bb1d",
   "category": "No category"
  },
  {
-  "title": "Byrådsmedlem vil ikke ændre i den",
-  "description": "<p>Skal kommunale medarbejdere i mødet med børn og unge spørge om, hvilke pronominer barnet eller den unge foretrækker?</p><p>Det spørgsmål er lige nu genstand for heftig debat blandt kommunalpolitikerne i Aalborg, og den er ikke slut endnu.</p><p>Guiden med navnet &#039;Chill, det&#039; bare køn&#039;, er en faglig guide til professionelle i mødet med børn og unge, der er i tvivl og nysgerrige på kønsidentitet.</p><p>Guiden blev præsenteret i september måned, hvor Børne- og Undervisningsudvalget i kommunen ville lave om i den faglige guide:</p><p>I stedet for at spørge i udgangspunktet, som guiden lægger op til, vil et flertal i udvalget i stedet have vedtaget, at kommunale medarbejdere skal tage udgangspunkt i den enkeltes situation, og kun tage spørgsmål om eksempelvis pronominer op, hvis det er relevant.</p> <p>Men det var Enhedslistens udvalgsmedlem, Victor Holmfort, uenig i, og derfor bliver sagen nu indbragt for byrådet.</p><p>- For os (Enhedslisten, red.) handler det rigtig meget om, at vi mener, at det, der foreligger i forvejen, er et rigtig godt stykke arbejde, og ikke kræver ændringer. Det handler ikke om, at vi ikke har en tiltro ved vores medarbejdere. Det er faktisk det, vi mener, vi har, når vi siger, at den her guide er udformet på en måde, vi stoler på, siger han.</p><h2>En anelse bekymret</h2><p>Enhedslisten mener, at guiden bygger på et solidt fagligt fundament, og det er derfor vigtigt for dem, at fastholde den terminologi, der er brugt i guiden.</p><p>De mener, at det viser respekt og anerkendelse.</p><p>Victor Holmfort er derfor også lidt bekymret for om nogle unge, der i forvejen er usikre på deres kønsidentitet, kan risikere ikke at blive anerkendt i systemet, hvis det ikke længere er en direkte anbefaling at spørge ind til deres foretrukne pronominer.</p><p>- Jeg er til en vis grad bekymret for det. Jeg synes jo, der er en fin formulering i den oprindelige version om at skabe en tryg samtale og være anerkendende. Det håber vi også på, at det vil være tilgangen uanset hvad. Vi mener bare, at det med pronominer er en ret vigtig ting, siger Victor Holmfort.</p><h2>Sender et skævt signal</h2><p>En af de ting, byrådsmedlemmet slår på tromme for, er, at han frygter, hvilket signal det kan sende til børn og unge, der står et sted, hvor de føler sig usikre.</p><p>- Den bekymring jeg har, er, at hvis de unge søger information om det alle andre steder, der vil der blive brugt ét sprog, og så i Aalborg Kommune, der vælger man at bruge et andet sprog. Det synes jeg ikke rigtig stemmer overens, og det sender et skævt signal.</p><p>Han slår dog fast, at det er meget vigtigt at huske, at det ikke er en personalepolitik, eller noget man skal gøre, men derimod et værktøj til, hvordan man kan gribe en samtale an, hvis man som fagperson skal have den med et barn.</p>",
-  "link": "https://www.tv2nord.dk/aalborg/byradsmedlem-vil-ikke-aendre-i-den-768cd",
-  "published": "Tue, 17 Nov 26 14:50:00 +0100",
-  "guid": "https://www.tv2nord.dk/aalborg/byradsmedlem-vil-ikke-aendre-i-den-768cd",
-  "category": "No category"
+  "title": "Naboer skulle leve op til arkitektoniske krav: Men kan vaskehal få lov til at slippe?",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/byudvikling/naboer-skulle-leve-op-til-arkitektoniske-krav-men-kan-vaskehal-faa-lov-til-at-slippe/6250707?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 18 Nov 2026 12:02:46 Z",
+  "guid": "e2ad5356-454d-4f0f-80b2-02eabe141abf",
+  "category": "Hobro"
  },
  {
-  "title": "Spor var spærret på E45 på grund af havareret bil",
-  "description": "<p><em>Opdateret 14.49: Bilen er fjernet og sporet er genåbnet.</em></p><p>Der var tirsdag eftermiddag et spor spærret på E45 i sydgående retning mellem Støvring S og Himmerland.</p><p>Det fremgik af Vejdirektoratets <a href=\"https://trafikkort.vejdirektoratet.dk/index.html\">trafikkort</a>. </p><p>Sporret var spærret, fordi vejhjælp var ved at rydde op efter en bil, der havarerede tidligere tirsdag.</p><p>Det var højre vognbane, der var spærret.</p>",
-  "link": "https://www.tv2nord.dk/kort-nyt/rebild/spor-spaerret-pa-e45-pa-grund-af-havareret-bil-36ec0",
-  "published": "Tue, 17 Nov 26 14:23:00 +0100",
-  "guid": "https://www.tv2nord.dk/kort-nyt/rebild/spor-spaerret-pa-e45-pa-grund-af-havareret-bil-36ec0",
-  "category": "No category"
+  "title": "22 byer fik udleveret 50.000 kroner: Her er, hvad de brugte pengene på",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/kultur/22-byer-fik-udleveret-50-000-kroner-her-er-hvad-de-brugte-pengene-paa/6007373?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 18 Nov 2026 11:32:35 Z",
+  "guid": "080c2ac5-f19b-4459-b2dc-40eb40c96913",
+  "category": "byudvikling"
+ },
+ {
+  "title": "De nægter at nøjes: Mød otte nordjyder, der viser vejen for fremtidens Nordjylland",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/de-naegter-at-noejes-moed-otte-nordjyder-der-viser-vejen-for-fremtidens-nordjylland/6251663?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 18 Nov 2026 04:18:46 Z",
+  "guid": "e21d0880-1447-407d-baea-fc8f4896ad58",
+  "category": "Nordjyske Frontløbere"
+ },
+ {
+  "title": "I Skagen frygter man at miste krydstogtgæster: Nu advarer havn og butikker",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/erhverv/i-skagen-frygter-man-at-miste-krydstogtgaester-nu-advarer-havn-og-butikker/6252319?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 18 Nov 2026 04:11:45 Z",
+  "guid": "296a023f-3626-45cb-a863-543147772acf",
+  "category": "Skagen"
+ },
+ {
+  "title": "Aalborg Håndbold er uden endnu en profil i Champions League-brag",
+  "description": "Få overblikket over de største Aalborg Håndbold-nyheder",
+  "link": "https://nordjyske.dk/nyheder/sport/aalborg-haandbold-overblik-faa-seneste-nyt-her/6001862?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 21 Apr 2026 13:19:53 Z",
+  "guid": "e776a8f9-d54f-4e87-962b-d3c761136e88",
+  "category": "Aalborg Håndbold-blog"
+ },
+ {
+  "title": "Bebyggelse på Ford-grunden: Beboere føler sig overset i planen",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/nordjylland/bebyggelse-paa-ford-grunden-beboere-foeler-sig-overset-i-planen/6251102?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Tue, 17 Nov 2026 13:31:48 Z",
+  "guid": "88a9ec15-3487-485c-9c35-009be854ec95",
+  "category": "Debat"
+ },
+ {
+  "title": "Naboer brugte tre år på at blive hørt. Nu står politikerne fast på fem etager på Ford-grunden",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/aalborg/naboer-brugte-tre-aar-paa-at-blive-hoert-nu-staar-politikerne-fast-paa-fem-etager-paa-ford-grunden/6249751?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 18 Nov 2026 04:07:47 Z",
+  "guid": "c8a25424-3e5b-4fb9-a486-c182feaaa271",
+  "category": "Aalborg"
+ },
+ {
+  "title": "Kim og Kasper har en plan. Den skal blive til et nyt samlingspunkt for de lokale",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/jammerbugt/kim-og-kasper-har-en-plan-den-skal-blive-til-et-nyt-samlingspunkt-for-de-lokale/6249284?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 18 Nov 2026 04:00:53 Z",
+  "guid": "f8550882-2465-4e1b-0ab5-08df3c98215d",
+  "category": "Blokhus"
+ },
+ {
+  "title": "Vibekes passion blev så stor, at hun og manden måtte flytte. Nu er hendes kunst efterspurgt i Europa",
+  "description": "For få år siden måtte Vibeke Haferbier dække stuen med plastik, når hun skulle male. I dag har hun sit eget atelier i Pandrup, lever af sin kunst og har udstillet sine værker i både Berlin og Rom",
+  "link": "https://nordjyske.dk/nyheder/jammerbugt/vibekes-passion-blev-saa-stor-at-hun-og-manden-maatte-flytte-nu-er-hendes-kunst-efterspurgt-i-europa/6249515?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 18 Nov 2026 08:09:49 Z",
+  "guid": "a0eb9843-9038-44b9-c9e1-08df3c658f39",
+  "category": "Pandrup"
+ },
+ {
+  "title": "Aalborg Håndbold skal rejse sig mod verdens bedste: - Der kommer ikke nogen og hjælper os",
+  "description": "Modgang har været Aalborg Håndbold en tro følgesvend i efteråret, men i de seneste dage har cheftræner Simon Dahl set en reaktion, der giver tro på oprejsning onsdag aften mod Füchse Berlin.",
+  "link": "https://nordjyske.dk/nyheder/sport/aalborg-haandbold-skal-rejse-sig-mod-verdens-bedste-der-kommer-ikke-nogen-og-hjaelper-os/6252441?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 18 Nov 2026 04:00:44 Z",
+  "guid": "622b715a-951b-4698-821a-941310263303",
+  "category": "Aalborg Håndbold"
  },
  {
   "title": "Værftet er ikke besluttet. Alligevel har en direktør i Frederikshavn købt \"en lottokupon\"",
@@ -260,6 +342,14 @@
   "published": "Tue, 17 Nov 2026 04:17:46 Z",
   "guid": "b67ddaf4-4bd0-4d25-93e9-3dae1b647b77",
   "category": "Nordjylland i en ny forsvarstid"
+ },
+ {
+  "title": "Kammermusikalsk sammenspil i verdensklasse af Simovic og Pace",
+  "description": "",
+  "link": "https://nordjyske.dk/nyheder/kultur/kammermusikalsk-sammenspil-i-verdensklasse-af-simovic-og-pace/6253254?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
+  "published": "Wed, 18 Nov 2026 10:20:33 Z",
+  "guid": "50fab402-971c-47dc-0ad7-08df3c98215d",
+  "category": "Kultur"
  },
  {
   "title": "Det startede med en tanke for 20 år siden. Nu får nyt bofællesskab i Himmerland stor opmærksomhed",
@@ -294,14 +384,6 @@
   "category": "Nordjyske mener"
  },
  {
-  "title": "Bebyggelse på Ford-grunden: Beboere føler sig overset i planen",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/bebyggelse-paa-ford-grunden-beboere-foeler-sig-overset-i-planen/6251102?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 17 Nov 2026 13:31:48 Z",
-  "guid": "88a9ec15-3487-485c-9c35-009be854ec95",
-  "category": "Debat"
- },
- {
   "title": "Der er langt endnu, men   \nFelix vil være verdens bedste stregspiller",
   "description": "",
   "link": "https://nordjyske.dk/nyheder/sport/der-er-langt-endnu-men-felix-vil-vaere-verdens-bedste-stregspiller/6251592?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
@@ -332,85 +414,5 @@
   "published": "Tue, 17 Nov 2026 09:04:17 Z",
   "guid": "3bbd494b-0633-4dff-91e0-af3fdc05e288",
   "category": "skoler"
- },
- {
-  "title": "Højere afgifter rammer en særlig gruppe bilejere - og dem er der flere af i Nordjylland",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/samfund/hoejere-afgifter-rammer-en-saerlig-gruppe-bilejere-og-dem-er-der-flere-af-i-nordjylland/6245954?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 17 Nov 2026 04:10:49 Z",
-  "guid": "b86fb190-bf13-4da5-af07-c66da468e9ad",
-  "category": "samfund"
- },
- {
-  "title": "Staten vil bygge højspændingsstation lige ved deres drømmehjem: Nu kæmper de for at komme væk",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/samfund/staten-vil-bygge-hoejspaendingsstation-lige-ved-deres-droemmehjem-nu-kaemper-de-for-at-komme-vaek/6245824?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 17 Nov 2026 04:07:44 Z",
-  "guid": "9fa53d06-1db5-434c-8338-dd015586a840",
-  "category": "Det store strømsvigt"
- },
- {
-  "title": "Anita Sønderup har fået kommune til at bruge 100.000 på vilde katte: Men hvorfor giver det mening?",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/samfund/anita-soenderup-har-faaet-kommune-til-at-bruge-100-000-paa-vilde-katte-men-hvorfor-giver-det-mening/6239266?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Tue, 17 Nov 2026 04:00:46 Z",
-  "guid": "6a2b2b5d-c658-4dc3-9477-6f7cc9f235e0",
-  "category": "Hvem skal have pengene?"
- },
- {
-  "title": "Preben Bang Henriksen: Betragtninger fra en løsgænger",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/nordjylland/betragtninger-fra-en-loesgaenger/6250165?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 16 Nov 2026 18:32:49 Z",
-  "guid": "501e34dd-51b6-4bad-9b1d-9bfbb9db8edd",
-  "category": "Politik"
- },
- {
-  "title": "Jens Jakob rejste til Grønland med et surfbræt og en drøm. Nu har han allerede sat sig nyt stort mål",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/thy-mors/jens-jakob-rejste-til-groenland-med-et-surfbraet-og-en-droem-nu-har-han-allerede-sat-sig-nyt-stort-maal/6249062?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 16 Nov 2026 18:01:49 Z",
-  "guid": "006c8d83-74ee-4c39-c9dc-08df3c658f39",
-  "category": "Aalborg"
- },
- {
-  "title": "Konen drømte om et sommerhus. Nu åbner ægtepar i stedet noget helt andet i Blokhus",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/jammerbugt/konen-droemte-om-et-sommerhus-nu-aabner-aegtepar-i-stedet-noget-helt-andet-i-blokhus/6248851?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 16 Nov 2026 14:31:51 Z",
-  "guid": "ec46aebb-1852-4048-0ab4-08df3c98215d",
-  "category": "Blokhus"
- },
- {
-  "title": "Asta stod på scenen i X Factor - men det var en video hjemme fra værelset, der åbnede den næste dør",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/broenderslev/asta-stod-paa-scenen-i-x-factor-men-det-var-en-video-hjemme-fra-vaerelset-der-aabnede-den-naeste-doer/6247793?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 16 Nov 2026 14:02:43 Z",
-  "guid": "d81adfda-2e95-43e8-a04c-ca583940dd8e",
-  "category": "Øster Brønderslev"
- },
- {
-  "title": "Analyse: Søren Skou har fyret sin topchef. Begrundelsen rammer også ham selv",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/erhverv/analyse-soeren-skou-har-fyret-sin-topchef-begrundelsen-rammer-ogsaa-ham-selv/6250429?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 16 Nov 2026 11:27:03 Z",
-  "guid": "16646031-fe8d-4461-9030-53485385cd32",
-  "category": "Erhverv"
- },
- {
-  "title": "Fik tildelt karantæne: Ni ud af 14 AaB fans er frifundet for slagsmål i Herning",
-  "description": "Fem er idømt betinget fængsel, mens ni er frifundet efter slagsmålet i Herning. Alle har dog tidligere fået tildelt en lang stadionkarantæne.",
-  "link": "https://nordjyske.dk/nyheder/sport/fik-tildelt-karantaene-ni-ud-af-14-aab-fans-er-frifundet-for-slagsmaal-i-herning/6250260?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 16 Nov 2026 11:21:24 Z",
-  "guid": "c6f10fc5-162a-42ac-94e7-64cbc2df0081",
-  "category": "AaB"
- },
- {
-  "title": "De har kendt hinanden i 19 år. Nu taler de ikke sammen længere. Årsagen ligger i udkanten af Elling",
-  "description": "",
-  "link": "https://nordjyske.dk/nyheder/samfund/de-har-kendt-hinanden-i-19-aar-nu-taler-de-ikke-sammen-laengere-aarsagen-ligger-i-udkanten-af-elling/6237304?utm_source=nyheder&utm_medium=rss&utm_campaign=nyheder",
-  "published": "Mon, 16 Nov 2026 04:20:47 Z",
-  "guid": "5edcd894-2764-4bb1-933a-7276c18d1957",
-  "category": "Nordjylland i en ny forsvarstid"
  }
 ]
