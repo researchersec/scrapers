@@ -1,13 +1,5 @@
 [
  {
-  "link": "/Netto?publication=40K-WXWp&offer=xw7Y9T9LcYs_UyF-x0TTM",
-  "price": "12",
-  "currency": "DKK",
-  "valid_from": "13-11-2026",
-  "valid_until": "20-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F40K-WXWp%2Fp-replacement-48kQSTkN-4.webp&w=300&x1r=0.02&x2r=0.49&y1r=0.048&y2r=0.498&s=430c97a968f5bbcf28b36b9fd9f35b61"
- },
- {
   "link": "/REMA-1000?publication=8Lj2H5xd&offer=A6Bp_YHGE8hApTkXaeE1A",
   "price": "12",
   "currency": "DKK",
@@ -61,7 +53,7 @@
   "currency": "DKK",
   "valid_from": "15-11-2026",
   "valid_until": "21-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F5ac67423ca650d95bbed97ea870ae94a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F035098ccddaadfcd8cefaccafbbec8be%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F719be0e4e5da91eb6bf88e0c6bde6444&w=300&s=1cfbc076c82fbf7aedfa7316d793aceb"
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2Fd52295f5974ab822ac55afc0b5a74d08%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F5ac67423ca650d95bbed97ea870ae94a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F642b7653a6790b7653d99513157998e1&w=300&s=d05fe9a1042486f8ba6c5d9be03375eb"
  },
  {
   "link": "/Netto?publication=Bswgx2rE&offer=yUnm8DXEi0wHgqGNbOW9f",
@@ -184,6 +176,22 @@
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbhqFY_Gr%2Fp-replacement-8NovNAes-19.webp&w=300&x1r=0.5&x2r=0.98&y1r=0.57&y2r=0.96&s=11d7874fe2cdecd5f7f8789996c0ee3f"
  },
  {
+  "link": "/365discount?publication=nK-seya-&offer=ho-rgFDGsP1-w6ShVuRYq",
+  "price": "89",
+  "currency": "DKK",
+  "valid_from": "18-11-2026",
+  "valid_until": "25-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2FDWZE1w%2Fab2950ef113a56676cf43f0227430f3d%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2FDWZE1w%2Fa912dde5f20fbdd85e348022f020292c%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2FDWZE1w%2Fabc0433b3493071188b44d6fcc68f9e9&w=300&s=aab0bf49307447fcb112bc005feee84f"
+ },
+ {
+  "link": "/SuperBrugsen?publication=7CzWLQlK&offer=pABdm_TLyWFaLTDqNo_PZ",
+  "price": "99",
+  "currency": "DKK",
+  "valid_from": "19-11-2026",
+  "valid_until": "26-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F0b1e8%2F088508741c831677feae39fe7d63ab60%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F0b1e8%2F57a58aa49830910d18708832af58aa7e%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F0b1e8%2F25a77d5b82ca44b384b41522b1ac6cc1%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F0b1e8%2F71f173ecfc61da4313ea88418f992d32&w=300&s=fa22056a422fd33a24317bede1fb336c"
+ },
+ {
   "link": "/fotex?publication=HKk1NC3J&offer=t2KQnxwhwptmNaZOMuaQH",
   "price": "105",
   "currency": "DKK",
@@ -198,6 +206,22 @@
   "valid_from": "19-11-2026",
   "valid_until": "26-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Ffjqu88Uo%2Fp-31.webp&w=300&x1r=0.66&x2r=0.97&y1r=0.63&y2r=0.98&s=7276dcf9df8c4c8a8ba1c01fdd95ee8d"
+ },
+ {
+  "link": "/Brugsen?publication=Se5IKfr1&offer=2ommICZUZNtpj4YuSthTW",
+  "price": "99",
+  "currency": "DKK",
+  "valid_from": "19-11-2026",
+  "valid_until": "03-12-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd311fg%2Ff70835bd268affdbdb09c41b49d5367a&w=300&s=02297a2524cf3be124cc23f4ae36b6f2"
+ },
+ {
+  "link": "/Kvickly?publication=o9RWS6Ql&offer=ryS-H8YhbMkxUIziF1FAW",
+  "price": "99",
+  "currency": "DKK",
+  "valid_from": "19-11-2026",
+  "valid_until": "26-11-2026",
+  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fc1edq%2F8cf1a4520aff21f8e6fb0427e41d909b&w=300&s=77dba8cc766a95bf435914ac767332da"
  },
  {
   "link": "/Fleggaard?publication=KV4qddNp&offer=tlEu0896PtJg-dbQr6WY0",
