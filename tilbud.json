@@ -1,13 +1,5 @@
 [
  {
-  "link": "/REMA-1000?publication=8Lj2H5xd&offer=A6Bp_YHGE8hApTkXaeE1A",
-  "price": "12",
-  "currency": "DKK",
-  "valid_from": "14-11-2026",
-  "valid_until": "21-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8Lj2H5xd%2Fp-12.webp&w=300&x1r=0.03&x2r=0.54&y1r=0.69&y2r=0.98&s=8d40d814b516a2b9da22976e99b9bac2"
- },
- {
   "link": "/Lidl?publication=v-BKAzfh&offer=-W8iWO7Zv697d8tD4oSJF",
   "price": "8",
   "currency": "DKK",
@@ -46,14 +38,6 @@
   "valid_from": "19-11-2026",
   "valid_until": "26-11-2026",
   "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FrXkIXCi1%2Fp-replacement-jTfi47c4-49.webp&w=300&x1r=0.35&x2r=0.95&y1r=0.02&y2r=0.49&s=d565854bd5b350ed1c2d271556a85493"
- },
- {
-  "link": "/nemlig?publication=E0oF7JgS&offer=01PwV0eWziZ-1m4cLhwI7",
-  "price": "16",
-  "currency": "DKK",
-  "valid_from": "15-11-2026",
-  "valid_until": "21-11-2026",
-  "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F719be0e4e5da91eb6bf88e0c6bde6444%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F5ac67423ca650d95bbed97ea870ae94a%2Cs3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F7Rwpw5%2F035098ccddaadfcd8cefaccafbbec8be&w=300&s=380121bfc2ca9f3b9481f1d48891237d"
  },
  {
   "link": "/Netto?publication=Bswgx2rE&offer=yUnm8DXEi0wHgqGNbOW9f",
